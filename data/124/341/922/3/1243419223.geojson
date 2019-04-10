@@ -1,0 +1,67 @@
+{
+  "id": 1243419223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.46667,41.28333,34.46667,41.28333",
+    "geom:latitude":41.28333,
+    "geom:longitude":34.46667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kadimli",
+    "gn:country_code":"TR",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744897,
+    "gn:latitude":41.28333,
+    "gn:longitude":34.46667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kadimli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890463351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744897
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c1ce6fd8631c9450276db263cdcf7910",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463351,
+            "locality_id":1243419223,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1243419223,
+    "wof:lastmodified":1536843779,
+    "wof:name":"Kadimli",
+    "wof:parent_id":890463351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.46667,
+    41.28333,
+    34.46667,
+    41.28333
+],
+  "geometry": {"coordinates":[34.46667,41.28333],"type":"Point"}
+}

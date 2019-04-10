@@ -1,0 +1,71 @@
+{
+  "id": 1310303165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45803,40.63647,35.45803,40.63647",
+    "geom:latitude":40.63647,
+    "geom:longitude":35.45803,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kayacik",
+    "gn:country_code":"TR",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743729,
+    "gn:latitude":40.63647,
+    "gn:longitude":35.45803,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kayac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kovay",
+        "Kayac\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890463241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743729
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89be26c503712f6529e814b1ac731e79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463241,
+            "locality_id":1310303165,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1310303165,
+    "wof:lastmodified":1537707839,
+    "wof:name":"Kayacik",
+    "wof:parent_id":890463241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45803,
+    40.63647,
+    35.45803,
+    40.63647
+],
+  "geometry": {"coordinates":[35.45803,40.63647],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242803359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.05,39.9,44.05,39.9",
+    "geom:latitude":39.9,
+    "geom:longitude":44.05,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Sultanabat",
+    "gn:country_code":"TR",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300207,
+    "gn:latitude":39.9,
+    "gn:longitude":44.05,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Sultanabat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        1108709735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300207
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a5c2083f45a1798bac1f1d091b82ae28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709735,
+            "locality_id":1242803359,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1242803359,
+    "wof:lastmodified":1536738432,
+    "wof:name":"Sultanabat",
+    "wof:parent_id":1108709735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.05,
+    39.9,
+    44.05,
+    39.9
+],
+  "geometry": {"coordinates":[44.05,39.9],"type":"Point"}
+}

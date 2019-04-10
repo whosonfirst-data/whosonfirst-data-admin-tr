@@ -1,0 +1,67 @@
+{
+  "id": 1260223107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40484,41.17584,33.40484,41.17584",
+    "geom:latitude":41.17584,
+    "geom:longitude":33.40484,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Saray",
+    "gn:country_code":"TR",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740206,
+    "gn:latitude":41.17584,
+    "gn:longitude":33.40484,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Saray",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890461625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740206
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4340e3584aefc969df832bcb548fbe22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461625,
+            "locality_id":1260223107,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1260223107,
+    "wof:lastmodified":1536794239,
+    "wof:name":"Saray",
+    "wof:parent_id":890461625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40484,
+    41.17584,
+    33.40484,
+    41.17584
+],
+  "geometry": {"coordinates":[33.40484,41.17584],"type":"Point"}
+}

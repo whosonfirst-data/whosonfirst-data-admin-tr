@@ -1,0 +1,70 @@
+{
+  "id": 1277073759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10244,39.48159,43.10244,39.48159",
+    "geom:latitude":39.48159,
+    "geom:longitude":43.10244,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ozdirek",
+    "gn:country_code":"TR",
+    "gn:dem":2064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6970805,
+    "gn:latitude":39.48159,
+    "gn:longitude":43.10244,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00d6zdirek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6zdirek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6970805
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2261ced2d731743570e755562e23f60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709563,
+            "locality_id":1277073759,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1277073759,
+    "wof:lastmodified":1537708183,
+    "wof:name":"Ozdirek",
+    "wof:parent_id":1108709563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10244,
+    39.48159,
+    43.10244,
+    39.48159
+],
+  "geometry": {"coordinates":[43.10244,39.48159],"type":"Point"}
+}

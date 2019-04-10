@@ -1,0 +1,67 @@
+{
+  "id": 1310221727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.20646,39.31537,33.20646,39.31537",
+    "geom:latitude":39.31537,
+    "geom:longitude":33.20646,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Suyuguzel",
+    "gn:country_code":"TR",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300001,
+    "gn:latitude":39.31537,
+    "gn:longitude":33.20646,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Suyug\u00fczel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300001
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"21750baa97553a9dd9abf74ac012d098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709353,
+            "locality_id":1310221727,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1310221727,
+    "wof:lastmodified":1536827869,
+    "wof:name":"Suyuguzel",
+    "wof:parent_id":1108709353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.20646,
+    39.31537,
+    33.20646,
+    39.31537
+],
+  "geometry": {"coordinates":[33.20646,39.31537],"type":"Point"}
+}

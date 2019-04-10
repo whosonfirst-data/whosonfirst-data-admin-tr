@@ -1,0 +1,64 @@
+{
+  "id": 1209331101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4388,40.46724,30.4388,40.46724",
+    "geom:latitude":40.46724,
+    "geom:longitude":30.4388,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Sabirlar",
+    "gn:country_code":"TR",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740461,
+    "gn:latitude":40.46724,
+    "gn:longitude":30.4388,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Sab\u0131rlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sab\u0131rlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740461
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aff95e83a238e5cdb06ef0854eea333a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331101
+        }
+    ],
+    "wof:id":1209331101,
+    "wof:lastmodified":1537707733,
+    "wof:name":"Sabirlar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4388,
+    40.46724,
+    30.4388,
+    40.46724
+],
+  "geometry": {"coordinates":[30.4388,40.46724],"type":"Point"}
+}

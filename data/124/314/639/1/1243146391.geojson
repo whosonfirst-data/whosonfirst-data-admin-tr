@@ -1,0 +1,70 @@
+{
+  "id": 1243146391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.82097,38.11388,28.82097,38.11388",
+    "geom:latitude":38.11388,
+    "geom:longitude":28.82097,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Derbent",
+    "gn:country_code":"TR",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317092,
+    "gn:latitude":38.11388,
+    "gn:longitude":28.82097,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Derbent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Derbent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108709407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317092
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fcb5fd358379ace51632da13f1d6a234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709407,
+            "locality_id":1243146391,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1243146391,
+    "wof:lastmodified":1537707240,
+    "wof:name":"Derbent",
+    "wof:parent_id":1108709407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.82097000000001,
+    38.11388,
+    28.82097000000001,
+    38.11388
+],
+  "geometry": {"coordinates":[28.82097000000001,38.11388],"type":"Point"}
+}

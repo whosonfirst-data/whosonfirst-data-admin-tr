@@ -1,0 +1,64 @@
+{
+  "id": 1209359505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78327,41.10025,29.78327,41.10025",
+    "geom:latitude":41.10025,
+    "geom:longitude":29.78327,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Ubeyli",
+    "gn:country_code":"TR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623081,
+    "gn:latitude":41.10025,
+    "gn:longitude":29.78327,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Ubeyli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ubeyli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623081
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7d6615952a67e21b426a89f15a96f9e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209359505
+        }
+    ],
+    "wof:id":1209359505,
+    "wof:lastmodified":1537708303,
+    "wof:name":"Ubeyli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78327,
+    41.10025,
+    29.78327,
+    41.10025
+],
+  "geometry": {"coordinates":[29.78327,41.10025],"type":"Point"}
+}

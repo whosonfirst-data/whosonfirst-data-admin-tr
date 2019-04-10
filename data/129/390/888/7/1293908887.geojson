@@ -1,0 +1,73 @@
+{
+  "id": 1293908887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50679,40.85959,30.50679,40.85959",
+    "geom:latitude":40.85959,
+    "geom:longitude":30.50679,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Turk Beylikkisla",
+    "gn:country_code":"TR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281629,
+    "gn:latitude":40.85959,
+    "gn:longitude":30.50679,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"T\u00fcrk Beylikk\u0131\u015fla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Beylikk\u0131\u015fla"
+    ],
+    "name:tur_x_variant":[
+        "T\u00fcrk Beylikk\u0131\u015fla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281629
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2e3b995dbdbb745adb2f61f69cf830a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709911,
+            "locality_id":1293908887,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1293908887,
+    "wof:lastmodified":1537708286,
+    "wof:name":"Turk Beylikkisla",
+    "wof:parent_id":1108709911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50679,
+    40.85959,
+    30.50679,
+    40.85959
+],
+  "geometry": {"coordinates":[30.50679,40.85959],"type":"Point"}
+}

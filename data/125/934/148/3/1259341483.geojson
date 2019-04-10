@@ -1,0 +1,70 @@
+{
+  "id": 1259341483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.8565,38.46493,40.8565,38.46493",
+    "geom:latitude":38.46493,
+    "geom:longitude":40.8565,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Zeyrek",
+    "gn:country_code":"TR",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295929,
+    "gn:latitude":38.46493,
+    "gn:longitude":40.8565,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Zeyrek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Zeyrek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295929
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee738f5aeae1a8be65b3250c9e43f78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463481,
+            "locality_id":1259341483,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1259341483,
+    "wof:lastmodified":1537706547,
+    "wof:name":"Zeyrek",
+    "wof:parent_id":890463481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.8565,
+    38.46493,
+    40.8565,
+    38.46493
+],
+  "geometry": {"coordinates":[40.8565,38.46493],"type":"Point"}
+}

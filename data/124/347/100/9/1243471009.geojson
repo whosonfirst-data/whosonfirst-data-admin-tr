@@ -1,0 +1,73 @@
+{
+  "id": 1243471009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91667,37.88333,34.91667,37.88333",
+    "geom:latitude":37.88333,
+    "geom:longitude":34.91667,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Orenkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303468,
+    "gn:latitude":37.88333,
+    "gn:longitude":34.91667,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00d6renk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6renk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "\u00d6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679453,
+        890462451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303468
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50808f6faecc56fe5a461854590332a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462451,
+            "locality_id":1243471009,
+            "region_id":85679453
+        }
+    ],
+    "wof:id":1243471009,
+    "wof:lastmodified":1537706808,
+    "wof:name":"Orenkoy",
+    "wof:parent_id":890462451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91667,
+    37.88333,
+    34.91667,
+    37.88333
+],
+  "geometry": {"coordinates":[34.91667,37.88333],"type":"Point"}
+}

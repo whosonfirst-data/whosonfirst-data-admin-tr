@@ -1,0 +1,66 @@
+{
+  "id": 1108949989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0190417133,41.0457853243,29.0190417133,41.0457853243",
+    "geom:latitude":41.045785,
+    "geom:longitude":29.019042,
+    "iso:country":"TR",
+    "lbl:latitude":41.045785,
+    "lbl:longitude":29.019042,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "\u00c7\u0131ra\u011fan"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912663,
+        890462841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368050,
+    "wof:geomhash":"882d781820466bb9feaa1811cffe855c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462841,
+            "locality_id":101912663,
+            "neighbourhood_id":1108949989,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108949989,
+    "wof:lastmodified":1497292381,
+    "wof:name":"Ciragan",
+    "wof:parent_id":101912663,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01904171327406,
+    41.0457853243112,
+    29.01904171327406,
+    41.0457853243112
+],
+  "geometry": {"coordinates":[29.01904171327406,41.0457853243112],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225899771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97983,39.96431,38.97983,39.96431",
+    "geom:latitude":39.96431,
+    "geom:longitude":38.97983,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Leventler",
+    "gn:country_code":"TR",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305102,
+    "gn:latitude":39.96431,
+    "gn:longitude":38.97983,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Leventler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Leventler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890461693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305102
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd2c9e644922e757c5b02fda854fc084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461693,
+            "locality_id":1225899771,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1225899771,
+    "wof:lastmodified":1537706863,
+    "wof:name":"Leventler",
+    "wof:parent_id":890461693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97983,
+    39.96431,
+    38.97983,
+    39.96431
+],
+  "geometry": {"coordinates":[38.97983,39.96431],"type":"Point"}
+}

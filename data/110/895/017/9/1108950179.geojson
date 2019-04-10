@@ -1,0 +1,61 @@
+{
+  "id": 1108950179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0501696586,41.1681124526,29.0501696586,41.1681124526",
+    "geom:latitude":41.168112,
+    "geom:longitude":29.05017,
+    "iso:country":"TR",
+    "lbl:latitude":41.168112,
+    "lbl:longitude":29.05017,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368178,
+    "wof:geomhash":"4d09d17f23490f2d37e56cfb5f37c277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "neighbourhood_id":1108950179,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950179,
+    "wof:lastmodified":1492123963,
+    "wof:name":"Merkez",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.05016965862363,
+    41.16811245260701,
+    29.05016965862363,
+    41.16811245260701
+],
+  "geometry": {"coordinates":[29.05016965862363,41.16811245260701],"type":"Point"}
+}

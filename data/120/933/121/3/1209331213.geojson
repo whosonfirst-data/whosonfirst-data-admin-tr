@@ -1,0 +1,64 @@
+{
+  "id": 1209331213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05985,41.20669,41.05985,41.20669",
+    "geom:latitude":41.20669,
+    "geom:longitude":41.05985,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Ciraklar",
+    "gn:country_code":"TR",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651753,
+    "gn:latitude":41.20669,
+    "gn:longitude":41.05985,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"\u00c7\u0131raklar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7\u0131raklar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651753
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c1b296cce53cc98f49d9c2f86e59a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331213
+        }
+    ],
+    "wof:id":1209331213,
+    "wof:lastmodified":1537708305,
+    "wof:name":"Ciraklar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05985,
+    41.20669,
+    41.05985,
+    41.20669
+],
+  "geometry": {"coordinates":[41.05985,41.20669],"type":"Point"}
+}

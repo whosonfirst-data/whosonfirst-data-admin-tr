@@ -1,0 +1,73 @@
+{
+  "id": 1259608147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01505,38.85828,44.01505,38.85828",
+    "geom:latitude":38.85828,
+    "geom:longitude":44.01505,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Sagmali",
+    "gn:country_code":"TR",
+    "gn:dem":2032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323214,
+    "gn:latitude":38.85828,
+    "gn:longitude":44.01505,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Sa\u011fmal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131no\u015far",
+        "A\u015fa\u011f\u0131 Nev\u015far",
+        "A\u015fa\u011f\u0131sa\u011fmall\u0131",
+        "Sa\u011fmal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323214
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"80749ef4cbfeb260e893ae39580f6310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710079,
+            "locality_id":1259608147,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1259608147,
+    "wof:lastmodified":1537707438,
+    "wof:name":"Sagmali",
+    "wof:parent_id":1108710079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01505,
+    38.85828,
+    44.01505,
+    38.85828
+],
+  "geometry": {"coordinates":[44.01505,38.85828],"type":"Point"}
+}

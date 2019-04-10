@@ -1,0 +1,67 @@
+{
+  "id": 1260266021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.42406,40.77902,32.42406,40.77902",
+    "geom:latitude":40.77902,
+    "geom:longitude":32.42406,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kadimler",
+    "gn:country_code":"TR",
+    "gn:dem":1287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195996,
+    "gn:latitude":40.77902,
+    "gn:longitude":32.42406,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kadimler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195996
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"750896396c893376e05d5e5ef2a5064a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462117,
+            "locality_id":1260266021,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1260266021,
+    "wof:lastmodified":1536735453,
+    "wof:name":"Kadimler",
+    "wof:parent_id":890462117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.42406,
+    40.77902,
+    32.42406,
+    40.77902
+],
+  "geometry": {"coordinates":[32.42406,40.77902],"type":"Point"}
+}

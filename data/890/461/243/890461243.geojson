@@ -1,0 +1,78 @@
+{
+  "id": 890461243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63014,39.87036,43.63014,39.87036",
+    "geom:latitude":39.87036,
+    "geom:longitude":43.63014,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":5073,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Karakoyun"
+    ],
+    "qs:name":"Karakoyunlu",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"I\u011fd\u0131r",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":285,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309610,
+        "gp:id":2326411,
+        "qs:id":962565,
+        "wd:id":"Q1023272",
+        "wk:page":"Karakoyunlu"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053344,
+    "wof:geomhash":"e4620f05acb8ee8c5a9a8dd52ef5a96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":890461243,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":890461243,
+    "wof:lastmodified":1527792989,
+    "wof:name":"Karakoyunlu",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:population":5073,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63014,
+    39.87036,
+    43.63014,
+    39.87036
+],
+  "geometry": {"coordinates":[43.63014,39.87036],"type":"Point"}
+}

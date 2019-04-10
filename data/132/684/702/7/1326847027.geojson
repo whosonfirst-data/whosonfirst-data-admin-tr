@@ -1,0 +1,76 @@
+{
+  "id": 1326847027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.4,40.06667,40.4,40.06667",
+    "geom:latitude":40.06667,
+    "geom:longitude":40.4,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Kophanlari",
+    "gn:country_code":"TR",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742693,
+    "gn:latitude":40.06667,
+    "gn:longitude":40.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kophanlar\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kophanlar\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u043f\u0445\u0430\u043d\u043b\u0430\u0440\u044b"
+    ],
+    "name:und_x_variant":[
+        "Kophanlar\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679471,
+        1108709727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742693
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9db4c55632eb190f822a1223bcaccfa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709727,
+            "locality_id":1326847027,
+            "region_id":85679471
+        }
+    ],
+    "wof:id":1326847027,
+    "wof:lastmodified":1537707807,
+    "wof:name":"Kophanlari",
+    "wof:parent_id":1108709727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.4,
+    40.06667,
+    40.4,
+    40.06667
+],
+  "geometry": {"coordinates":[40.4,40.06667],"type":"Point"}
+}

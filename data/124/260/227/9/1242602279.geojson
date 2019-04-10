@@ -1,0 +1,67 @@
+{
+  "id": 1242602279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.84527,38.74584,31.84527,38.74584",
+    "geom:latitude":38.74584,
+    "geom:longitude":31.84527,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Yavasli",
+    "gn:country_code":"TR",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297550,
+    "gn:latitude":38.74584,
+    "gn:longitude":31.84527,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Yava\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890461887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297550
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a34758fa2a22778713c7a5bdf626f9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461887,
+            "locality_id":1242602279,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1242602279,
+    "wof:lastmodified":1537026945,
+    "wof:name":"Yavasli",
+    "wof:parent_id":890461887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.84527000000001,
+    38.74584,
+    31.84527000000001,
+    38.74584
+],
+  "geometry": {"coordinates":[31.84527000000001,38.74584],"type":"Point"}
+}

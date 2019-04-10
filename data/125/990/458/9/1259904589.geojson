@@ -1,0 +1,67 @@
+{
+  "id": 1259904589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65116,40.90799,32.65116,40.90799",
+    "geom:latitude":40.90799,
+    "geom:longitude":32.65116,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Pelitcik",
+    "gn:country_code":"TR",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029506,
+    "gn:latitude":40.90799,
+    "gn:longitude":32.65116,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Pelitcik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        890462325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029506
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5865321a2c052649d2078757a0597d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462325,
+            "locality_id":1259904589,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1259904589,
+    "wof:lastmodified":1536748599,
+    "wof:name":"Pelitcik",
+    "wof:parent_id":890462325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65116,
+    40.90799000000001,
+    32.65116,
+    40.90799000000001
+],
+  "geometry": {"coordinates":[32.65116,40.90799000000001],"type":"Point"}
+}

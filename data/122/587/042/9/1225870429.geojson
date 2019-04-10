@@ -1,0 +1,70 @@
+{
+  "id": 1225870429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46062,40.86501,29.46062,40.86501",
+    "geom:latitude":40.86501,
+    "geom:longitude":29.46062,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Pelitli",
+    "gn:country_code":"TR",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740631,
+    "gn:latitude":40.86501,
+    "gn:longitude":29.46062,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Pelitli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Pelitli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890462621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740631
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff114a0ad7b1cae7e1db4a923a80fbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462621,
+            "locality_id":1225870429,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1225870429,
+    "wof:lastmodified":1537707738,
+    "wof:name":"Pelitli",
+    "wof:parent_id":890462621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46062,
+    40.86501,
+    29.46062,
+    40.86501
+],
+  "geometry": {"coordinates":[29.46062,40.86501],"type":"Point"}
+}

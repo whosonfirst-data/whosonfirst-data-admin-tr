@@ -1,0 +1,65 @@
+{
+  "id": 1209669569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26155,39.61241,30.26155,39.61241",
+    "geom:latitude":39.61241,
+    "geom:longitude":30.26155,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Incesu",
+    "gn:country_code":"TR",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311355,
+    "gn:latitude":39.61241,
+    "gn:longitude":30.26155,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"\u0130ncesu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0130ncesu K\u00f6y\u00fc",
+        "\u0130ncesu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311355
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"61e6265da8c5643e087807c379dab4d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209669569
+        }
+    ],
+    "wof:id":1209669569,
+    "wof:lastmodified":1537707053,
+    "wof:name":"Incesu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26155,
+    39.61241,
+    30.26155,
+    39.61241
+],
+  "geometry": {"coordinates":[30.26155,39.61241],"type":"Point"}
+}

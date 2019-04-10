@@ -1,0 +1,67 @@
+{
+  "id": 1344149645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50325,40.48433,35.50325,40.48433",
+    "geom:latitude":40.48433,
+    "geom:longitude":35.50325,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Asar",
+    "gn:country_code":"TR",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745460,
+    "gn:latitude":40.48433,
+    "gn:longitude":35.50325,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Asar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890462747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745460
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"68ace5c8f47c28db9b1de1cd754095f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462747,
+            "locality_id":1344149645,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1344149645,
+    "wof:lastmodified":1536746682,
+    "wof:name":"Asar",
+    "wof:parent_id":890462747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50325,
+    40.48433,
+    35.50325,
+    40.48433
+],
+  "geometry": {"coordinates":[35.50325,40.48433],"type":"Point"}
+}

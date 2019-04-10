@@ -1,0 +1,67 @@
+{
+  "id": 1193119485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43861,37.49195,30.43861,37.49195",
+    "geom:latitude":37.49195,
+    "geom:longitude":30.43861,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Cebis",
+    "gn:country_code":"TR",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318973,
+    "gn:latitude":37.49195,
+    "gn:longitude":30.43861,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"\u00c7ebi\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679273,
+        1108710057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318973
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6b3e7c812c2571b360017e16fc5b7745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710057,
+            "locality_id":1193119485,
+            "region_id":85679273
+        }
+    ],
+    "wof:id":1193119485,
+    "wof:lastmodified":1536365341,
+    "wof:name":"Cebis",
+    "wof:parent_id":1108710057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43861,
+    37.49195,
+    30.43861,
+    37.49195
+],
+  "geometry": {"coordinates":[30.43861,37.49195],"type":"Point"}
+}

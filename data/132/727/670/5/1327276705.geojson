@@ -1,0 +1,74 @@
+{
+  "id": 1327276705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65,41.9,33.65,41.9",
+    "geom:latitude":41.9,
+    "geom:longitude":33.65,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Hocakoy",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745549,
+    "gn:latitude":41.9,
+    "gn:longitude":33.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hocak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Havace",
+        "Hoca",
+        "Hoca K\u00f6y\u00fc",
+        "Hocak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890462017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745549
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c64eff34765b0501940047acfb706e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462017,
+            "locality_id":1327276705,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1327276705,
+    "wof:lastmodified":1537707895,
+    "wof:name":"Hocakoy",
+    "wof:parent_id":890462017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65,
+    41.9,
+    33.65,
+    41.9
+],
+  "geometry": {"coordinates":[33.65,41.9],"type":"Point"}
+}

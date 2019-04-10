@@ -1,0 +1,97 @@
+{
+  "id": 101912941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00008,
+    "geom:area_square_m":774606.550821,
+    "geom:bbox":"27.0805687026,38.4561226988,27.0943630229,38.4697500393",
+    "geom:latitude":38.46289,
+    "geom:longitude":27.087654,
+    "iso:country":"TR",
+    "lbl:latitude":38.463138,
+    "lbl:longitude":27.087759,
+    "mps:latitude":38.463138,
+    "mps:longitude":27.087759,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Atakent"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u0627\u06a9\u0646\u062a"
+    ],
+    "name:nno_x_preferred":[
+        "Atakent"
+    ],
+    "name:nor_x_preferred":[
+        "Atakent"
+    ],
+    "name:tur_x_preferred":[
+        "Susano\u011flu"
+    ],
+    "name:vie_x_preferred":[
+        "Atakent"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5854\u80af\u7279"
+    ],
+    "qs:a0":"Turkey",
+    "qs:a1":"*",
+    "qs:a1r":"1",
+    "qs:adm0":"Turkey",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Atakent",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":244,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55966461,
+        "qs:id":961692,
+        "qs_pg:id":961692
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6e51b664a08a285249aa27820fd418f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461021,
+            "locality_id":101912941,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":101912941,
+    "wof:lastmodified":1527653267,
+    "wof:name":"Atakent",
+    "wof:parent_id":890461021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.08056870261214,
+    38.45612269877074,
+    27.09436302290879,
+    38.46975003927349
+],
+  "geometry": {"coordinates":[[[27.09436302290879,38.46171535537485],[27.09101899067264,38.45612269877074],[27.08985821493877,38.45633221549843],[27.0900871112604,38.45721363270877],[27.08785004386453,38.45761734802772],[27.08807892139089,38.45849876960506],[27.08696036536179,38.45870061084617],[27.08718923772233,38.45958203370037],[27.08607066226091,38.45978386502532],[27.08629952945455,38.46066528915651],[27.0851809345603,38.46086711056483],[27.08540979658687,38.46174853597324],[27.08317256213036,38.46215214594957],[27.08363025704307,38.46391500368776],[27.08251160384475,38.46411679534492],[27.0827404503637,38.46499822458492],[27.08056870261214,38.46538994220117],[27.08319224714825,38.46975003927349],[27.09436302290879,38.46171535537485]]],"type":"Polygon"}
+}

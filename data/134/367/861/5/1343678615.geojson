@@ -1,0 +1,70 @@
+{
+  "id": 1343678615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03384,40.49551,38.03384,40.49551",
+    "geom:latitude":40.49551,
+    "geom:longitude":38.03384,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Yenice",
+    "gn:country_code":"TR",
+    "gn:dem":1780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737740,
+    "gn:latitude":40.49551,
+    "gn:longitude":38.03384,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Yenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890461655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737740
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4133dc71aacfad75e96f7f1e864825ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461655,
+            "locality_id":1343678615,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1343678615,
+    "wof:lastmodified":1537707638,
+    "wof:name":"Yenice",
+    "wof:parent_id":890461655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03384000000001,
+    40.49551,
+    38.03384000000001,
+    40.49551
+],
+  "geometry": {"coordinates":[38.03384000000001,40.49551],"type":"Point"}
+}

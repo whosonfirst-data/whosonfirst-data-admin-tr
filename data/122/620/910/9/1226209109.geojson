@@ -1,0 +1,71 @@
+{
+  "id": 1226209109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08454,39.85207,31.08454,39.85207",
+    "geom:latitude":39.85207,
+    "geom:longitude":31.08454,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bugduz",
+    "gn:country_code":"TR",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320486,
+    "gn:latitude":39.85207,
+    "gn:longitude":31.08454,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"B\u00fc\u011fd\u00fcz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fc\u011fd\u00fcz",
+        "B\u00fcyd\u00fcz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890464103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320486
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8a67f7b12465256f77250f6fcd9a6d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464103,
+            "locality_id":1226209109,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1226209109,
+    "wof:lastmodified":1537707351,
+    "wof:name":"Bugduz",
+    "wof:parent_id":890464103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08454,
+    39.85207,
+    31.08454,
+    39.85207
+],
+  "geometry": {"coordinates":[31.08454,39.85207],"type":"Point"}
+}

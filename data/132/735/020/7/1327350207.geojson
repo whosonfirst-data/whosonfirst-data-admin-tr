@@ -1,0 +1,67 @@
+{
+  "id": 1327350207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.57029,36.9597,32.57029,36.9597",
+    "geom:latitude":36.9597,
+    "geom:longitude":32.57029,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Oduncu",
+    "gn:country_code":"TR",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303697,
+    "gn:latitude":36.9597,
+    "gn:longitude":32.57029,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Oduncu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        1108709555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303697
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"244e04679ac72870bcbad92c8eff0c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709555,
+            "locality_id":1327350207,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1327350207,
+    "wof:lastmodified":1536799601,
+    "wof:name":"Oduncu",
+    "wof:parent_id":1108709555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.57029,
+    36.9597,
+    32.57029,
+    36.9597
+],
+  "geometry": {"coordinates":[32.57029,36.9597],"type":"Point"}
+}

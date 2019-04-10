@@ -1,0 +1,67 @@
+{
+  "id": 1209732171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0537,38.14653,36.0537,38.14653",
+    "geom:latitude":38.14653,
+    "geom:longitude":36.0537,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Pekmezli",
+    "gn:country_code":"TR",
+    "gn:dem":1560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302764,
+    "gn:latitude":38.14653,
+    "gn:longitude":36.0537,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Pekmezli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        1108709933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"86c2ed3be53cfa73ba9003be71ac1350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709933,
+            "locality_id":1209732171,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1209732171,
+    "wof:lastmodified":1536377528,
+    "wof:name":"Pekmezli",
+    "wof:parent_id":1108709933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0537,
+    38.14653,
+    36.0537,
+    38.14653
+],
+  "geometry": {"coordinates":[36.0537,38.14653],"type":"Point"}
+}

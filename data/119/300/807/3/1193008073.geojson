@@ -1,0 +1,77 @@
+{
+  "id": 1193008073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.4325,41.31528,42.4325,41.31528",
+    "geom:latitude":41.31528,
+    "geom:longitude":42.4325,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Velikoy",
+    "gn:country_code":"TR",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":738185,
+    "gn:latitude":41.31528,
+    "gn:longitude":42.4325,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Velik\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Velik\u00f6y"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u043b\u0438\u043a\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Mirya",
+        "Velik\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        1108709193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738185
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"32e920296bd9a4aa16dde2c1c9d51eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709193,
+            "locality_id":1193008073,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1193008073,
+    "wof:lastmodified":1537707656,
+    "wof:name":"Velikoy",
+    "wof:parent_id":1108709193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.4325,
+    41.31528,
+    42.4325,
+    41.31528
+],
+  "geometry": {"coordinates":[42.4325,41.31528],"type":"Point"}
+}

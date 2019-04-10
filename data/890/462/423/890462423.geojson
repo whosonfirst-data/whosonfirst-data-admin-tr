@@ -1,0 +1,75 @@
+{
+  "id": 890462423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38225,40.7891,30.38225,40.7891",
+    "geom:latitude":40.7891,
+    "geom:longitude":30.38225,
+    "gn:country":"TR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Merkez",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Sakarya",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":369,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732953,
+        "gp:id":29390622,
+        "qs:id":1077208,
+        "wd:id":"Q6819626",
+        "wk:page":"Merkez"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053389,
+    "wof:geomhash":"b99ee130b8f6d9c2bb26996db2974dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462423,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":890462423,
+    "wof:lastmodified":1527738737,
+    "wof:name":"Merkez",
+    "wof:parent_id":85679245,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38225,
+    40.7891,
+    30.38225,
+    40.7891
+],
+  "geometry": {"coordinates":[30.38225,40.7891],"type":"Point"}
+}

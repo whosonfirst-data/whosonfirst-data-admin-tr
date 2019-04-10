@@ -1,0 +1,67 @@
+{
+  "id": 1327055555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.56667,37.38333,39.56667,37.38333",
+    "geom:latitude":37.38333,
+    "geom:longitude":39.56667,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Konukcu",
+    "gn:country_code":"TR",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306592,
+    "gn:latitude":37.38333,
+    "gn:longitude":39.56667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Konuk\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890460733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306592
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"840fcf4719ae3a50a0dacee70b73b4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460733,
+            "locality_id":1327055555,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1327055555,
+    "wof:lastmodified":1536727400,
+    "wof:name":"Konukcu",
+    "wof:parent_id":890460733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.56667,
+    37.38333,
+    39.56667,
+    37.38333
+],
+  "geometry": {"coordinates":[39.56667,37.38333],"type":"Point"}
+}

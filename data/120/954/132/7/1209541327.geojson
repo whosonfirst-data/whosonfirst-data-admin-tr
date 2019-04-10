@@ -1,0 +1,64 @@
+{
+  "id": 1209541327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.6732,38.15044,41.6732,38.15044",
+    "geom:latitude":38.15044,
+    "geom:longitude":41.6732,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Siyanis",
+    "gn:country_code":"TR",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313598,
+    "gn:latitude":38.15044,
+    "gn:longitude":41.6732,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Siyanis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcm\u00fc\u015fka\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313598
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"36507bcd72eac8e9e8f0317f6a437fe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541327
+        }
+    ],
+    "wof:id":1209541327,
+    "wof:lastmodified":1537707129,
+    "wof:name":"Siyanis",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.6732,
+    38.15044,
+    41.6732,
+    38.15044
+],
+  "geometry": {"coordinates":[41.6732,38.15044],"type":"Point"}
+}

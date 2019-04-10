@@ -1,0 +1,80 @@
+{
+  "id": 890462993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.53236,40.68225,29.53236,40.68225",
+    "geom:latitude":40.68225,
+    "geom:longitude":29.53236,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":3464,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Kaytazdere"
+    ],
+    "name:eng_x_preferred":[
+        "Kaytazdere"
+    ],
+    "name:tur_x_preferred":[
+        "Kaytazdere"
+    ],
+    "name:vie_x_preferred":[
+        "Kaytazdere"
+    ],
+    "qs:name":"Kaytazdere",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":105,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890464505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743616,
+        "qs:id":83374,
+        "wd:id":"Q6380706",
+        "wk:page":"Kaytazdere"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053412,
+    "wof:geomhash":"e75c4c950a34cda1850a3d7b4b893917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464505,
+            "locality_id":890462993,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":890462993,
+    "wof:lastmodified":1527749964,
+    "wof:name":"Kaytazdere",
+    "wof:parent_id":890464505,
+    "wof:placetype":"locality",
+    "wof:population":3464,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.53236,
+    40.68225,
+    29.53236,
+    40.68225
+],
+  "geometry": {"coordinates":[29.53236,40.68225],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343778861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.01194,38.72228,28.01194,38.72228",
+    "geom:latitude":38.72228,
+    "geom:longitude":28.01194,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Eseler",
+    "gn:country_code":"TR",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311192,
+    "gn:latitude":38.72228,
+    "gn:longitude":28.01194,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Eseler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eseler"
+    ],
+    "name:tur_x_variant":[
+        "\u0130seler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311192
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c39a7ec4149def6218cfa5aabad44a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709525,
+            "locality_id":1343778861,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1343778861,
+    "wof:lastmodified":1537707048,
+    "wof:name":"Eseler",
+    "wof:parent_id":1108709525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.01194000000001,
+    38.72228,
+    28.01194000000001,
+    38.72228
+],
+  "geometry": {"coordinates":[28.01194000000001,38.72228],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310131275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.43433,36.2128,36.43433,36.2128",
+    "geom:latitude":36.2128,
+    "geom:longitude":36.43433,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kafrena",
+    "gn:country_code":"TR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438076,
+    "gn:latitude":36.2128,
+    "gn:longitude":36.43433,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Kafrena",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890462851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438076
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aa56f72f90564b1641cd4bb8904f3195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462851,
+            "locality_id":1310131275,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1310131275,
+    "wof:lastmodified":1536959331,
+    "wof:name":"Kafrena",
+    "wof:parent_id":890462851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.43433,
+    36.2128,
+    36.43433,
+    36.2128
+],
+  "geometry": {"coordinates":[36.43433,36.2128],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243234783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.91667,38.2,41.91667,38.2",
+    "geom:latitude":38.2,
+    "geom:longitude":41.91667,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bucan",
+    "gn:country_code":"TR",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320520,
+    "gn:latitude":38.2,
+    "gn:longitude":41.91667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bucan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890460679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320520
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c751a400448515797c3fab7c7cad234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460679,
+            "locality_id":1243234783,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1243234783,
+    "wof:lastmodified":1536611247,
+    "wof:name":"Bucan",
+    "wof:parent_id":890460679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.91667,
+    38.2,
+    41.91667,
+    38.2
+],
+  "geometry": {"coordinates":[41.91667,38.2],"type":"Point"}
+}

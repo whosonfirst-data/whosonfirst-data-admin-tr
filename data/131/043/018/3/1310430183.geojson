@@ -1,0 +1,67 @@
+{
+  "id": 1310430183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.43227,39.92001,34.43227,39.92001",
+    "geom:latitude":39.92001,
+    "geom:longitude":34.43227,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Karalar",
+    "gn:country_code":"TR",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309544,
+    "gn:latitude":39.92001,
+    "gn:longitude":34.43227,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Karalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890461841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309544
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3515a0e97e676ade6bd3a44648b0b72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461841,
+            "locality_id":1310430183,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1310430183,
+    "wof:lastmodified":1537024550,
+    "wof:name":"Karalar",
+    "wof:parent_id":890461841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.43227,
+    39.92001,
+    34.43227,
+    39.92001
+],
+  "geometry": {"coordinates":[34.43227,39.92001],"type":"Point"}
+}

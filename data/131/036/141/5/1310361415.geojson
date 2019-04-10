@@ -1,0 +1,67 @@
+{
+  "id": 1310361415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81667,38.43333,38.81667,38.43333",
+    "geom:latitude":38.43333,
+    "geom:longitude":38.81667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Butan",
+    "gn:country_code":"TR",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320325,
+    "gn:latitude":38.43333,
+    "gn:longitude":38.81667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Butan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320325
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6bb0b402fb5feb73266937a5a9e80994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709359,
+            "locality_id":1310361415,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1310361415,
+    "wof:lastmodified":1536625609,
+    "wof:name":"Butan",
+    "wof:parent_id":1108709359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81667,
+    38.43333,
+    38.81667,
+    38.43333
+],
+  "geometry": {"coordinates":[38.81667,38.43333],"type":"Point"}
+}

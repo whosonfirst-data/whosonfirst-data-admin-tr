@@ -1,0 +1,77 @@
+{
+  "id": 1242899441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54053,40.83234,36.54053,40.83234",
+    "geom:latitude":40.83234,
+    "geom:longitude":36.54053,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Catalan",
+    "gn:country_code":"TR",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749647,
+    "gn:latitude":40.83234,
+    "gn:longitude":36.54053,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7atalan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7atalan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u0442\u0430\u043b\u0430\u043d\u043a\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "\u00c7atalan K\u00f6y\u00fc",
+        "\u00c7atalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749647
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"97cd6d1c11c87fb031b38795dccd926d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709485,
+            "locality_id":1242899441,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1242899441,
+    "wof:lastmodified":1537708039,
+    "wof:name":"Catalan",
+    "wof:parent_id":1108709485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54053,
+    40.83234,
+    36.54053,
+    40.83234
+],
+  "geometry": {"coordinates":[36.54053,40.83234],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293614633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.12733,39.72784,37.12733,39.72784",
+    "geom:latitude":39.72784,
+    "geom:longitude":37.12733,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Bingol",
+    "gn:country_code":"TR",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321081,
+    "gn:latitude":39.72784,
+    "gn:longitude":37.12733,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bing\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d\u0433\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Bing\u00f6l K\u00f6y\u00fc",
+        "Bing\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321081
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5cfb14c777f1cb012c562c09d3215510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1293614633,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1293614633,
+    "wof:lastmodified":1537707368,
+    "wof:name":"Bingol",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.12733,
+    39.72784,
+    37.12733,
+    39.72784
+],
+  "geometry": {"coordinates":[37.12733,39.72784],"type":"Point"}
+}

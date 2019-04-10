@@ -1,0 +1,65 @@
+{
+  "id": 1209440555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21325,39.52198,37.21325,39.52198",
+    "geom:latitude":39.52198,
+    "geom:longitude":37.21325,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Demiryazi",
+    "gn:country_code":"TR",
+    "gn:dem":1414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317134,
+    "gn:latitude":39.52198,
+    "gn:longitude":37.21325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Demiryaz\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenig\u00fclam",
+        "Demiryaz\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317134
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ed9a6ac3ff7a96bc1fa90c3fe1e5ca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440555
+        }
+    ],
+    "wof:id":1209440555,
+    "wof:lastmodified":1537707242,
+    "wof:name":"Demiryazi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21325,
+    39.52198,
+    37.21325,
+    39.52198
+],
+  "geometry": {"coordinates":[37.21325,39.52198],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259553917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40341,40.81742,32.40341,40.81742",
+    "geom:latitude":40.81742,
+    "geom:longitude":32.40341,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Divan",
+    "gn:country_code":"TR",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195969,
+    "gn:latitude":40.81742,
+    "gn:longitude":32.40341,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Divan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195969
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"14f584054e30ef9ecdad8d148cad7efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462117,
+            "locality_id":1259553917,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1259553917,
+    "wof:lastmodified":1536757703,
+    "wof:name":"Divan",
+    "wof:parent_id":890462117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40341,
+    40.81742,
+    32.40341,
+    40.81742
+],
+  "geometry": {"coordinates":[32.40341,40.81742],"type":"Point"}
+}

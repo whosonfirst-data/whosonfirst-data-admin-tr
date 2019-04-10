@@ -1,0 +1,78 @@
+{
+  "id": 1243470981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12798,37.1665,38.12798,37.1665",
+    "geom:latitude":37.1665,
+    "geom:longitude":38.12798,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Ozveren",
+    "gn:country_code":"TR",
+    "gn:dem":673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311863,
+    "gn:latitude":37.1665,
+    "gn:longitude":38.12798,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00d6zveren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6zveren"
+    ],
+    "name:tur_x_variant":[
+        "Hubabi",
+        "A\u011fviran",
+        "A\u011fveran"
+    ],
+    "name:und_x_variant":[
+        "Akviran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890464331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311863
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2100aa97e4f4f6d4f388846ed86eff49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464331,
+            "locality_id":1243470981,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1243470981,
+    "wof:lastmodified":1537707069,
+    "wof:name":"Ozveren",
+    "wof:parent_id":890464331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12798,
+    37.1665,
+    38.12798,
+    37.1665
+],
+  "geometry": {"coordinates":[38.12798,37.1665],"type":"Point"}
+}

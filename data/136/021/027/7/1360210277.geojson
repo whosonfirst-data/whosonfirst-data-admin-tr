@@ -1,0 +1,70 @@
+{
+  "id": 1360210277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.86365,38.6008,28.86365,38.6008",
+    "geom:latitude":38.6008,
+    "geom:longitude":28.86365,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Diskaya",
+    "gn:country_code":"TR",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316562,
+    "gn:latitude":38.6008,
+    "gn:longitude":28.86365,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"D\u0131\u015fkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "D\u0131\u015fkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        890462163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316562
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"88cd7defb2f9b3984ff3dbb1eb0acc05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462163,
+            "locality_id":1360210277,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1360210277,
+    "wof:lastmodified":1537707224,
+    "wof:name":"Diskaya",
+    "wof:parent_id":890462163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.86365,
+    38.6008,
+    28.86365,
+    38.6008
+],
+  "geometry": {"coordinates":[28.86365,38.6008],"type":"Point"}
+}

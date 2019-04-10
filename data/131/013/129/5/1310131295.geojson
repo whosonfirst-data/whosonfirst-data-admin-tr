@@ -1,0 +1,70 @@
+{
+  "id": 1310131295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27181,40.98259,30.27181,40.98259",
+    "geom:latitude":40.98259,
+    "geom:longitude":30.27181,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Kalburcu",
+    "gn:country_code":"TR",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10645902,
+    "gn:latitude":40.98259,
+    "gn:longitude":30.27181,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Kalburcu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kalburcu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10645902
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"33ce41531cc8a0bc91bcead69fe0db55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709645,
+            "locality_id":1310131295,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1310131295,
+    "wof:lastmodified":1537708389,
+    "wof:name":"Kalburcu",
+    "wof:parent_id":1108709645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27181,
+    40.98259,
+    30.27181,
+    40.98259
+],
+  "geometry": {"coordinates":[30.27181,40.98259],"type":"Point"}
+}

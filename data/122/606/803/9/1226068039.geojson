@@ -1,0 +1,72 @@
+{
+  "id": 1226068039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93333,39.15,38.93333,39.15",
+    "geom:latitude":39.15,
+    "geom:longitude":38.93333,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kocotu",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306823,
+    "gn:latitude":39.15,
+    "gn:longitude":38.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ko\u00e7otu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e7olu",
+        "Ko\u00e7otu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108710059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306823
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2b6de8f85d392297e42b9a9b3175d91f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710059,
+            "locality_id":1226068039,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1226068039,
+    "wof:lastmodified":1537706920,
+    "wof:name":"Kocotu",
+    "wof:parent_id":1108710059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93333,
+    39.15,
+    38.93333,
+    39.15
+],
+  "geometry": {"coordinates":[38.93333,39.15],"type":"Point"}
+}

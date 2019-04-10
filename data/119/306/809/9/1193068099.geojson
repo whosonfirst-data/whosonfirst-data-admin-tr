@@ -1,0 +1,67 @@
+{
+  "id": 1193068099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.92054,38.07222,26.92054,38.07222",
+    "geom:latitude":38.07222,
+    "geom:longitude":26.92054,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Cumhuriyet",
+    "gn:country_code":"TR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048383,
+    "gn:latitude":38.07222,
+    "gn:longitude":26.92054,
+    "gn:modification_date":"2016-01-12",
+    "gn:name":"Cumhuriyet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048383
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5e3ee72e3efb1a45123dd2d798f105e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461939,
+            "locality_id":1193068099,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1193068099,
+    "wof:lastmodified":1536370766,
+    "wof:name":"Cumhuriyet",
+    "wof:parent_id":890461939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.92054000000001,
+    38.07222,
+    26.92054000000001,
+    38.07222
+],
+  "geometry": {"coordinates":[26.92054000000001,38.07222],"type":"Point"}
+}

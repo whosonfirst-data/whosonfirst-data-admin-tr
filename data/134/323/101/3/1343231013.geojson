@@ -1,0 +1,67 @@
+{
+  "id": 1343231013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.26314,38.5728,41.26314,38.5728",
+    "geom:latitude":38.5728,
+    "geom:longitude":41.26314,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Kesilen",
+    "gn:country_code":"TR",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7475125,
+    "gn:latitude":38.5728,
+    "gn:longitude":41.26314,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Kesilen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7475125
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"61e05ff48721e57c586f23f74e920ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463481,
+            "locality_id":1343231013,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1343231013,
+    "wof:lastmodified":1537074509,
+    "wof:name":"Kesilen",
+    "wof:parent_id":890463481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.26314,
+    38.5728,
+    41.26314,
+    38.5728
+],
+  "geometry": {"coordinates":[41.26314,38.5728],"type":"Point"}
+}

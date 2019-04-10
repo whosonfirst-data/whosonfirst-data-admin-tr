@@ -1,0 +1,67 @@
+{
+  "id": 1360068485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93139,40.64514,31.93139,40.64514",
+    "geom:latitude":40.64514,
+    "geom:longitude":31.93139,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Devrent",
+    "gn:country_code":"TR",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8185170,
+    "gn:latitude":40.64514,
+    "gn:longitude":31.93139,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Devrent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890461653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8185170
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"76e2c3a0defa08c67365c8fc26e38ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461653,
+            "locality_id":1360068485,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1360068485,
+    "wof:lastmodified":1536969353,
+    "wof:name":"Devrent",
+    "wof:parent_id":890461653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93139,
+    40.64514000000001,
+    31.93139,
+    40.64514000000001
+],
+  "geometry": {"coordinates":[31.93139,40.64514000000001],"type":"Point"}
+}

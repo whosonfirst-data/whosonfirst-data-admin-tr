@@ -1,0 +1,71 @@
+{
+  "id": 1276164841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.31944,36.57233,33.31944,36.57233",
+    "geom:latitude":36.57233,
+    "geom:longitude":33.31944,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kirkayak",
+    "gn:country_code":"TR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307552,
+    "gn:latitude":36.57233,
+    "gn:longitude":33.31944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0131rkayak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131rkayak",
+        "K\u0131rkyalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890464447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307552
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d0dabdd9dbbdd16886bb4f90f2988876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464447,
+            "locality_id":1276164841,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1276164841,
+    "wof:lastmodified":1537706942,
+    "wof:name":"Kirkayak",
+    "wof:parent_id":890464447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.31944,
+    36.57233,
+    33.31944,
+    36.57233
+],
+  "geometry": {"coordinates":[33.31944,36.57233],"type":"Point"}
+}

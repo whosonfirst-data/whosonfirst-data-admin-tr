@@ -1,0 +1,73 @@
+{
+  "id": 1226359185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41041,38.81799,28.41041,38.81799",
+    "geom:latitude":38.81799,
+    "geom:longitude":28.41041,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Yardere",
+    "gn:country_code":"TR",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301103,
+    "gn:latitude":38.81799,
+    "gn:longitude":28.41041,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yardere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yardere"
+    ],
+    "name:tur_x_variant":[
+        "\u015eerifeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301103
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0f31f4d8add689eeb4769f158a0a9b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709691,
+            "locality_id":1226359185,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1226359185,
+    "wof:lastmodified":1537706729,
+    "wof:name":"Yardere",
+    "wof:parent_id":1108709691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41041,
+    38.81799,
+    28.41041,
+    38.81799
+],
+  "geometry": {"coordinates":[28.41041,38.81799],"type":"Point"}
+}

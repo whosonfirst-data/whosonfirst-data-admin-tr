@@ -1,0 +1,64 @@
+{
+  "id": 890461289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.96742,41.01421,28.96742,41.01421",
+    "geom:latitude":41.01421,
+    "geom:longitude":28.96742,
+    "gn:country":"TR",
+    "gn:fcode":"ADM4",
+    "gn:pop":0,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Mercan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732573,
+        "qs:id":380928
+    },
+    "wof:country":"TR",
+    "wof:created":1469053345,
+    "wof:geomhash":"22cf8ac7353b9619a50d7d917dae52b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "localadmin_id":890461289,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890461289,
+    "wof:lastmodified":1505343686,
+    "wof:name":"Mercan",
+    "wof:parent_id":1108709503,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.96742,
+    41.01421,
+    28.96742,
+    41.01421
+],
+  "geometry": {"coordinates":[28.96742,41.01421],"type":"Point"}
+}

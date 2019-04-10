@@ -1,0 +1,67 @@
+{
+  "id": 1344224357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65,40.1,40.65,40.1",
+    "geom:latitude":40.1,
+    "geom:longitude":40.65,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Zirnik",
+    "gn:country_code":"TR",
+    "gn:dem":2166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737039,
+    "gn:latitude":40.1,
+    "gn:longitude":40.65,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Z\u0131rn\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737039
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"36e8ed2ef272a32bb407d7b11c50b2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709321,
+            "locality_id":1344224357,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1344224357,
+    "wof:lastmodified":1536638143,
+    "wof:name":"Zirnik",
+    "wof:parent_id":1108709321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65,
+    40.1,
+    40.65,
+    40.1
+],
+  "geometry": {"coordinates":[40.65,40.1],"type":"Point"}
+}

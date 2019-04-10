@@ -1,0 +1,66 @@
+{
+  "id": 1209631793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0212,37.86595,42.0212,37.86595",
+    "geom:latitude":37.86595,
+    "geom:longitude":42.0212,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Koclu",
+    "gn:country_code":"TR",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438446,
+    "gn:latitude":37.86595,
+    "gn:longitude":42.0212,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ko\u00e7lu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Razvaliny Sadekh",
+        "Sadeh Harap",
+        "Ko\u00e7lu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438446
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"932b32192e7a25f3283f1ed7df4bed0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209631793
+        }
+    ],
+    "wof:id":1209631793,
+    "wof:lastmodified":1537707567,
+    "wof:name":"Koclu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0212,
+    37.86595,
+    42.0212,
+    37.86595
+],
+  "geometry": {"coordinates":[42.0212,37.86595],"type":"Point"}
+}

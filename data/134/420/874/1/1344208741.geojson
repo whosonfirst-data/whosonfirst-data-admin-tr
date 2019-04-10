@@ -1,0 +1,67 @@
+{
+  "id": 1344208741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90122,41.61151,33.90122,41.61151",
+    "geom:latitude":41.61151,
+    "geom:longitude":33.90122,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Mutevelli",
+    "gn:country_code":"TR",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741375,
+    "gn:latitude":41.61151,
+    "gn:longitude":33.90122,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"M\u00fctevelli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890461609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741375
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ff58df33833c8a30b148471af4379bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461609,
+            "locality_id":1344208741,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1344208741,
+    "wof:lastmodified":1536661794,
+    "wof:name":"Mutevelli",
+    "wof:parent_id":890461609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90122,
+    41.61151,
+    33.90122,
+    41.61151
+],
+  "geometry": {"coordinates":[33.90122,41.61151],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890464639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.94361,37.87806,40.94361,37.87806",
+    "geom:latitude":37.87806,
+    "geom:longitude":40.94361,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":265,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Koyunk\u00eby"
+    ],
+    "name:tur_x_preferred":[
+        "Koyunlu"
+    ],
+    "name:unk_x_variant":[
+        "Koyun"
+    ],
+    "qs:name":"Koyunlu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306146,
+        "qs:id":547384
+    },
+    "wof:country":"TR",
+    "wof:created":1469053480,
+    "wof:geomhash":"7066c6533479961b517d0d86d254cfbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":890464639,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890464639,
+    "wof:lastmodified":1505343698,
+    "wof:name":"Koyunlu",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:population":265,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.94361,
+    37.87806,
+    40.94361,
+    37.87806
+],
+  "geometry": {"coordinates":[40.94361,37.87806],"type":"Point"}
+}

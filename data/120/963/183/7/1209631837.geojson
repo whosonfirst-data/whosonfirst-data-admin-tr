@@ -1,0 +1,64 @@
+{
+  "id": 1209631837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35629,40.52907,30.35629,40.52907",
+    "geom:latitude":40.52907,
+    "geom:longitude":30.35629,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Kulfallar",
+    "gn:country_code":"TR",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275812,
+    "gn:latitude":40.52907,
+    "gn:longitude":30.35629,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Kulfallar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kulfallar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275812
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1bd596bd2c9c0c55187fa837c4a3fcfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209631837
+        }
+    ],
+    "wof:id":1209631837,
+    "wof:lastmodified":1537708282,
+    "wof:name":"Kulfallar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35629,
+    40.52907,
+    30.35629,
+    40.52907
+],
+  "geometry": {"coordinates":[30.35629,40.52907],"type":"Point"}
+}

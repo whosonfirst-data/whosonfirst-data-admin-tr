@@ -1,0 +1,67 @@
+{
+  "id": 1259537857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31592,39.68259,31.31592,39.68259",
+    "geom:latitude":39.68259,
+    "geom:longitude":31.31592,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Dogray",
+    "gn:country_code":"TR",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299102,
+    "gn:latitude":39.68259,
+    "gn:longitude":31.31592,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Do\u011fray",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299102
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9b0be1063ae8d099faa5362880ad1101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709383,
+            "locality_id":1259537857,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1259537857,
+    "wof:lastmodified":1536781225,
+    "wof:name":"Dogray",
+    "wof:parent_id":1108709383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31592,
+    39.68259000000001,
+    31.31592,
+    39.68259000000001
+],
+  "geometry": {"coordinates":[31.31592,39.68259000000001],"type":"Point"}
+}

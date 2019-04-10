@@ -1,0 +1,67 @@
+{
+  "id": 1242703325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.79389,36.74722,38.79389,36.74722",
+    "geom:latitude":36.74722,
+    "geom:longitude":38.79389,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Raktel",
+    "gn:country_code":"TR",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":436376,
+    "gn:latitude":36.74722,
+    "gn:longitude":38.79389,
+    "gn:modification_date":"2004-07-02",
+    "gn:name":"Raktel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        1108709267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":436376
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b45595a042d847fc21a5c9055ae0132b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709267,
+            "locality_id":1242703325,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1242703325,
+    "wof:lastmodified":1536882027,
+    "wof:name":"Raktel",
+    "wof:parent_id":1108709267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.79389000000001,
+    36.74722,
+    38.79389000000001,
+    36.74722
+],
+  "geometry": {"coordinates":[38.79389000000001,36.74722],"type":"Point"}
+}

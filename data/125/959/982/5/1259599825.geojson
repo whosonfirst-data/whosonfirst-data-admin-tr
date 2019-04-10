@@ -1,0 +1,67 @@
+{
+  "id": 1259599825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50067,39.96135,43.50067,39.96135",
+    "geom:latitude":39.96135,
+    "geom:longitude":43.50067,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Kirkbulak",
+    "gn:country_code":"TR",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7509646,
+    "gn:latitude":39.96135,
+    "gn:longitude":43.50067,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"K\u0131rkbulak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7509646
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"820f962aefdf38ff919112189cddc88c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":1259599825,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1259599825,
+    "wof:lastmodified":1536691407,
+    "wof:name":"Kirkbulak",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50067,
+    39.96135,
+    43.50067,
+    39.96135
+],
+  "geometry": {"coordinates":[43.50067,39.96135],"type":"Point"}
+}

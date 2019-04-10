@@ -1,0 +1,73 @@
+{
+  "id": 1276253899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.79212,38.77737,28.79212,38.77737",
+    "geom:latitude":38.77737,
+    "geom:longitude":28.79212,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Avlasa",
+    "gn:country_code":"TR",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303068,
+    "gn:latitude":38.77737,
+    "gn:longitude":28.79212,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Avla\u015fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Avla\u015fa"
+    ],
+    "name:tur_x_variant":[
+        "Av\u015fala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303068
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2b1439348e0fb2a991c297840a88b35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709871,
+            "locality_id":1276253899,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1276253899,
+    "wof:lastmodified":1537706794,
+    "wof:name":"Avlasa",
+    "wof:parent_id":1108709871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.79212,
+    38.77737,
+    28.79212,
+    38.77737
+],
+  "geometry": {"coordinates":[28.79212,38.77737],"type":"Point"}
+}

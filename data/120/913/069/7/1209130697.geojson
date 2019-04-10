@@ -1,0 +1,65 @@
+{
+  "id": 1209130697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81247,40.81457,39.81247,40.81457",
+    "geom:latitude":40.81457,
+    "geom:longitude":39.81247,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Tepekoy",
+    "gn:country_code":"TR",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738758,
+    "gn:latitude":40.81457,
+    "gn:longitude":39.81247,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tepek\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tepek\u00f6y",
+        "Tim\u00fcrc\u00fcler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738758
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1726185e8c0e81cedce178893b54c4e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209130697
+        }
+    ],
+    "wof:id":1209130697,
+    "wof:lastmodified":1537707674,
+    "wof:name":"Tepekoy",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81247000000001,
+    40.81457,
+    39.81247000000001,
+    40.81457
+],
+  "geometry": {"coordinates":[39.81247000000001,40.81457],"type":"Point"}
+}

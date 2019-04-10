@@ -1,0 +1,73 @@
+{
+  "id": 1259583959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.83022,38.47085,30.83022,38.47085",
+    "geom:latitude":38.47085,
+    "geom:longitude":30.83022,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Devederesi",
+    "gn:country_code":"TR",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316813,
+    "gn:latitude":38.47085,
+    "gn:longitude":30.83022,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Devederesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Devederesi"
+    ],
+    "name:tur_x_variant":[
+        "Devederes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        1108710041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316813
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b308d3d2130b72bf7279c1577ab162a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710041,
+            "locality_id":1259583959,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1259583959,
+    "wof:lastmodified":1537707231,
+    "wof:name":"Devederesi",
+    "wof:parent_id":1108710041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.83022,
+    38.47085,
+    30.83022,
+    38.47085
+],
+  "geometry": {"coordinates":[30.83022,38.47085],"type":"Point"}
+}

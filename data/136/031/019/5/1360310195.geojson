@@ -1,0 +1,81 @@
+{
+  "id": 1360310195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26724,36.09256,36.26724,36.09256",
+    "geom:latitude":36.09256,
+    "geom:longitude":36.26724,
+    "gn:admin1_code":"31.0",
+    "gn:admin2_code":"438418.0",
+    "gn:asciiname":"Kalinsan",
+    "gn:country_code":"TR",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438178,
+    "gn:latitude":36.09256,
+    "gn:longitude":36.26724,
+    "gn:modification_date":"2017-01-02",
+    "gn:name":"Kal\u0131nsan",
+    "gn:population":20,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_historical":[
+        "Kuleyzen"
+    ],
+    "name:tur_x_preferred":[
+        "Kuleyzen"
+    ],
+    "name:und_x_variant":[
+        "Kalynsan",
+        "Kal\u0131nsan"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438178
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"040b5e783b5bbe32edd5e298aa471f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709283,
+            "locality_id":1360310195,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1360310195,
+    "wof:lastmodified":1537707560,
+    "wof:name":"Kalinsan",
+    "wof:parent_id":1108709283,
+    "wof:placetype":"locality",
+    "wof:population":20,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26724,
+    36.09256,
+    36.26724,
+    36.09256
+],
+  "geometry": {"coordinates":[36.26724,36.09256],"type":"Point"}
+}

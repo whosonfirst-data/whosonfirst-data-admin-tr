@@ -1,0 +1,70 @@
+{
+  "id": 1242848975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.87878,40.68,34.87878,40.68",
+    "geom:latitude":40.68,
+    "geom:longitude":34.87878,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Soguksu",
+    "gn:country_code":"TR",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10308253,
+    "gn:latitude":40.68,
+    "gn:longitude":34.87878,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"So\u011fuksu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "So\u011fuksu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890462433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10308253
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f0a76b0bae1a7c49ea81c0ec9a64f1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462433,
+            "locality_id":1242848975,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1242848975,
+    "wof:lastmodified":1537708375,
+    "wof:name":"Soguksu",
+    "wof:parent_id":890462433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.87878,
+    40.68,
+    34.87878,
+    40.68
+],
+  "geometry": {"coordinates":[34.87878,40.68],"type":"Point"}
+}

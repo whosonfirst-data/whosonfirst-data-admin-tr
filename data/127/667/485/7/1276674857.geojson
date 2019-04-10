@@ -1,0 +1,77 @@
+{
+  "id": 1276674857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.93034,38.38964,28.93034,38.38964",
+    "geom:latitude":38.38964,
+    "geom:longitude":28.93034,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Yaylakoy",
+    "gn:country_code":"TR",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319983,
+    "gn:latitude":38.38964,
+    "gn:longitude":28.93034,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Yaylak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7akaldamlari"
+    ],
+    "name:tur_x_variant":[
+        "Yaylak\u00f6y",
+        "Yayla"
+    ],
+    "name:und_x_variant":[
+        "\u00c7akaldam\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        1108709467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319983
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b702f488bad94b344890205397dd7385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709467,
+            "locality_id":1276674857,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1276674857,
+    "wof:lastmodified":1537707334,
+    "wof:name":"Yaylakoy",
+    "wof:parent_id":1108709467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.93034,
+    38.38964,
+    28.93034,
+    38.38964
+],
+  "geometry": {"coordinates":[28.93034,38.38964],"type":"Point"}
+}

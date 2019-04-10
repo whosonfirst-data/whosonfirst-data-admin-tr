@@ -1,0 +1,64 @@
+{
+  "id": 1209231317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.78791,39.77612,37.78791,39.77612",
+    "geom:latitude":39.77612,
+    "geom:longitude":37.78791,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Akdegirmen",
+    "gn:country_code":"TR",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023396,
+    "gn:latitude":39.77612,
+    "gn:longitude":37.78791,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Akde\u011firmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akde\u011firmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023396
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"32d162086a26d9b439460fa72de2f244",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209231317
+        }
+    ],
+    "wof:id":1209231317,
+    "wof:lastmodified":1537708401,
+    "wof:name":"Akdegirmen",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.78791,
+    39.77612,
+    37.78791,
+    39.77612
+],
+  "geometry": {"coordinates":[37.78791,39.77612],"type":"Point"}
+}

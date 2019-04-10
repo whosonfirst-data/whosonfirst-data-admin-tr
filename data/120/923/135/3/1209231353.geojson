@@ -1,0 +1,65 @@
+{
+  "id": 1209231353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.46345,38.20767,34.46345,38.20767",
+    "geom:latitude":38.20767,
+    "geom:longitude":34.46345,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Duvarli",
+    "gn:country_code":"TR",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316545,
+    "gn:latitude":38.20767,
+    "gn:longitude":34.46345,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Duvarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duvarl\u0131",
+        "Divarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316545
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9476b97dd4e5615429ea2f8fe98f65f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209231353
+        }
+    ],
+    "wof:id":1209231353,
+    "wof:lastmodified":1537707223,
+    "wof:name":"Duvarli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.46345,
+    38.20767,
+    34.46345,
+    38.20767
+],
+  "geometry": {"coordinates":[34.46345,38.20767],"type":"Point"}
+}

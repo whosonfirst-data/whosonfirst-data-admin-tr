@@ -1,0 +1,109 @@
+{
+  "id": 1126109771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.91687,40.98884,28.91687,40.98884",
+    "geom:latitude":40.98884,
+    "geom:longitude":28.91687,
+    "gn:gn_country":"TR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"TR",
+    "lbl:latitude":40.98884,
+    "lbl:longitude":28.91687,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Yedikule"
+    ],
+    "name:hun_x_preferred":[
+        "Yedikule"
+    ],
+    "name:rum_x_preferred":[
+        "Edikule"
+    ],
+    "name:tur_x_preferred":[
+        "Yedikule"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u062f\u06cc\u06a9\u0644\u06d2"
+    ],
+    "qs_pg:aaroncc":"TR",
+    "qs_pg:gn_country":"TR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":737792,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Yedikule",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":157,
+    "qs_pg:photos_1k":32,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":157,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":884349,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2343658,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        890463097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737792,
+        "gp:id":2343658,
+        "qs_pg:id":884349,
+        "wd:id":"Q5991829"
+    },
+    "wof:country":"TR",
+    "wof:created":1497317987,
+    "wof:geomhash":"fa21af04484ff299d941a3313c607789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463097,
+            "locality_id":-1,
+            "neighbourhood_id":1126109771,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126109771,
+    "wof:lastmodified":1534379467,
+    "wof:name":"Yedikule",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        85904165
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.91687,
+    40.98884,
+    28.91687,
+    40.98884
+],
+  "geometry": {"coordinates":[28.91687,40.98884],"type":"Point"}
+}

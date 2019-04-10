@@ -1,0 +1,70 @@
+{
+  "id": 1293261207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.46251,37.68618,40.46251,37.68618",
+    "geom:latitude":37.68618,
+    "geom:longitude":40.46251,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Akcomak",
+    "gn:country_code":"TR",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324808,
+    "gn:latitude":37.68618,
+    "gn:longitude":40.46251,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ak\u00e7omak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ak\u00e7omak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324808
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"868712290c4d439051f35c206e3b99aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463353,
+            "locality_id":1293261207,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1293261207,
+    "wof:lastmodified":1537707491,
+    "wof:name":"Akcomak",
+    "wof:parent_id":890463353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.46251,
+    37.68618,
+    40.46251,
+    37.68618
+],
+  "geometry": {"coordinates":[40.46251,37.68618],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209532305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.43274,38.55274,41.43274,38.55274",
+    "geom:latitude":38.55274,
+    "geom:longitude":41.43274,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Kirik",
+    "gn:country_code":"TR",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6987217,
+    "gn:latitude":38.55274,
+    "gn:longitude":41.43274,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u0131r\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131r\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6987217
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d6c01945fa84c837ec392268f4ef6f8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532305
+        }
+    ],
+    "wof:id":1209532305,
+    "wof:lastmodified":1537708198,
+    "wof:name":"Kirik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.43274,
+    38.55274,
+    41.43274,
+    38.55274
+],
+  "geometry": {"coordinates":[41.43274,38.55274],"type":"Point"}
+}

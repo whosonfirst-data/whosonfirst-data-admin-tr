@@ -1,0 +1,75 @@
+{
+  "id": 1226670869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.48333,39.03333,43.48333,39.03333",
+    "geom:latitude":39.03333,
+    "geom:longitude":43.48333,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Bayramli",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1865,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321725,
+    "gn:latitude":39.03333,
+    "gn:longitude":43.48333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bayraml\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u011fasaf",
+        "Yukar\u0131 A\u011fasak",
+        "Aksaraf",
+        "Yukar\u0131 Aksaraf",
+        "Bayraml\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321725
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7f52d5c5a9b88964195d9b25560591c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464421,
+            "locality_id":1226670869,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1226670869,
+    "wof:lastmodified":1537707389,
+    "wof:name":"Bayramli",
+    "wof:parent_id":890464421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.48333,
+    39.03333,
+    43.48333,
+    39.03333
+],
+  "geometry": {"coordinates":[43.48333,39.03333],"type":"Point"}
+}

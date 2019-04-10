@@ -1,0 +1,77 @@
+{
+  "id": 1242899323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.68829,40.87331,39.68829,40.87331",
+    "geom:latitude":40.87331,
+    "geom:longitude":39.68829,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Esiroglu",
+    "gn:country_code":"TR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":747311,
+    "gn:latitude":40.87331,
+    "gn:longitude":39.68829,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Esiro\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Esiro\u011flu"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u0438\u0440\u043e\u0433\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "Esiro\u011flu Mevkii",
+        "Esiro\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890462527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747311
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4dfe32ae9e6bf23ada02597748baf103",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462527,
+            "locality_id":1242899323,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1242899323,
+    "wof:lastmodified":1537707957,
+    "wof:name":"Esiroglu",
+    "wof:parent_id":890462527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.68829,
+    40.87331,
+    39.68829,
+    40.87331
+],
+  "geometry": {"coordinates":[39.68829,40.87331],"type":"Point"}
+}

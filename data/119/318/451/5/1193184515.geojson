@@ -1,0 +1,71 @@
+{
+  "id": 1193184515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56947,40.62328,43.56947,40.62328",
+    "geom:latitude":40.62328,
+    "geom:longitude":43.56947,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Bayraktar",
+    "gn:country_code":"TR",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750893,
+    "gn:latitude":40.62328,
+    "gn:longitude":43.56947,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bayraktar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayrakdar",
+        "Bayraktar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890462489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750893
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ce2f80d0d344edc06447e8cf16a0872d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462489,
+            "locality_id":1193184515,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1193184515,
+    "wof:lastmodified":1537708085,
+    "wof:name":"Bayraktar",
+    "wof:parent_id":890462489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56947,
+    40.62328,
+    43.56947,
+    40.62328
+],
+  "geometry": {"coordinates":[43.56947,40.62328],"type":"Point"}
+}

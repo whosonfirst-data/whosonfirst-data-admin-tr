@@ -1,0 +1,69 @@
+{
+  "id": 890463013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.83778,40.14972,29.83778,40.14972",
+    "geom:latitude":40.14972,
+    "geom:longitude":29.83778,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":183,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kendirli"
+    ],
+    "qs:name":"Kendirli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        1108709729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743486,
+        "gp:id":2343810,
+        "qs:id":83383
+    },
+    "wof:country":"TR",
+    "wof:created":1469053413,
+    "wof:geomhash":"d883bb487aae9141b2a3b70b3c8311d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709729,
+            "locality_id":890463013,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":890463013,
+    "wof:lastmodified":1505343692,
+    "wof:name":"Kendirli",
+    "wof:parent_id":1108709729,
+    "wof:placetype":"locality",
+    "wof:population":183,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.83778,
+    40.14972,
+    29.83778,
+    40.14972
+],
+  "geometry": {"coordinates":[29.83778,40.14972],"type":"Point"}
+}

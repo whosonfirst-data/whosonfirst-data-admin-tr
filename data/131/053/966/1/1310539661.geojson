@@ -1,0 +1,67 @@
+{
+  "id": 1310539661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57995,38.04114,35.57995,38.04114",
+    "geom:latitude":38.04114,
+    "geom:longitude":35.57995,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Karakoy",
+    "gn:country_code":"TR",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309631,
+    "gn:latitude":38.04114,
+    "gn:longitude":35.57995,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Karak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679321,
+        1108709965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309631
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f37447b549bdd5f258def2ce613b2c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709965,
+            "locality_id":1310539661,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":1310539661,
+    "wof:lastmodified":1536866334,
+    "wof:name":"Karakoy",
+    "wof:parent_id":1108709965,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57995,
+    38.04114000000001,
+    35.57995,
+    38.04114000000001
+],
+  "geometry": {"coordinates":[35.57995,38.04114000000001],"type":"Point"}
+}

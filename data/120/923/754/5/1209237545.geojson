@@ -1,0 +1,64 @@
+{
+  "id": 1209237545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.82345,38.94046,39.82345,38.94046",
+    "geom:latitude":38.94046,
+    "geom:longitude":39.82345,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Suluntas",
+    "gn:country_code":"TR",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300144,
+    "gn:latitude":38.94046,
+    "gn:longitude":39.82345,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"S\u00fcl\u00fcnta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "S\u00fcl\u00fcnta\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300144
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d4166b866a9c3b1fc24ccc796d7a3d20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209237545
+        }
+    ],
+    "wof:id":1209237545,
+    "wof:lastmodified":1537706697,
+    "wof:name":"Suluntas",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.82345,
+    38.94046,
+    39.82345,
+    38.94046
+],
+  "geometry": {"coordinates":[39.82345,38.94046],"type":"Point"}
+}

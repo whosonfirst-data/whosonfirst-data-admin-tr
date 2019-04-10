@@ -1,0 +1,73 @@
+{
+  "id": 1226629897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.05763,38.54142,42.05763,38.54142",
+    "geom:latitude":38.54142,
+    "geom:longitude":42.05763,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kavunlu",
+    "gn:country_code":"TR",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304200,
+    "gn:latitude":38.54142,
+    "gn:longitude":42.05763,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kavunlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kavunlu"
+    ],
+    "name:und_x_variant":[
+        "M\u00f6zek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        1108709547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304200
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fe9b934f4a20ca24bd71712475aaec82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709547,
+            "locality_id":1226629897,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1226629897,
+    "wof:lastmodified":1537706832,
+    "wof:name":"Kavunlu",
+    "wof:parent_id":1108709547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.05763,
+    38.54142,
+    42.05763,
+    38.54142
+],
+  "geometry": {"coordinates":[42.05763,38.54142],"type":"Point"}
+}

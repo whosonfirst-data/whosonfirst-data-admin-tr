@@ -1,0 +1,74 @@
+{
+  "id": 1293703445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.85312,38.04904,42.85312,38.04904",
+    "geom:latitude":38.04904,
+    "geom:longitude":42.85312,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Kasikcilar",
+    "gn:country_code":"TR",
+    "gn:dem":2076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308918,
+    "gn:latitude":38.04904,
+    "gn:longitude":42.85312,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ka\u015f\u0131k\u00e7\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ka\u015f\u0131k\u00e7\u0131lar"
+    ],
+    "name:und_x_variant":[
+        "Ka\u015f\u0131k\u00e7\u0131lar",
+        "Ka\u015f\u0131k\u00e7\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108709347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308918
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"790b647369c730210bfd18c843910e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709347,
+            "locality_id":1293703445,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1293703445,
+    "wof:lastmodified":1537706984,
+    "wof:name":"Kasikcilar",
+    "wof:parent_id":1108709347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.85312,
+    38.04904000000001,
+    42.85312,
+    38.04904000000001
+],
+  "geometry": {"coordinates":[42.85312,38.04904000000001],"type":"Point"}
+}

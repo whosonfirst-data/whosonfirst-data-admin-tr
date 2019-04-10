@@ -1,0 +1,70 @@
+{
+  "id": 1243093043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.00985,37.44024,39.00985,37.44024",
+    "geom:latitude":37.44024,
+    "geom:longitude":39.00985,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Kopuz",
+    "gn:country_code":"TR",
+    "gn:dem":684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306514,
+    "gn:latitude":37.44024,
+    "gn:longitude":39.00985,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kopuz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kopuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890464281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306514
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"814f2af100bf2d637c3ac5438d218a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464281,
+            "locality_id":1243093043,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1243093043,
+    "wof:lastmodified":1537706908,
+    "wof:name":"Kopuz",
+    "wof:parent_id":890464281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.00985,
+    37.44024,
+    39.00985,
+    37.44024
+],
+  "geometry": {"coordinates":[39.00985,37.44024],"type":"Point"}
+}

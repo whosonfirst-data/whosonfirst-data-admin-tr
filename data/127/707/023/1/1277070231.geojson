@@ -1,0 +1,71 @@
+{
+  "id": 1277070231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59613,36.8479,31.59613,36.8479",
+    "geom:latitude":36.8479,
+    "geom:longitude":31.59613,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Saracli",
+    "gn:country_code":"TR",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309233,
+    "gn:latitude":36.8479,
+    "gn:longitude":31.59613,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sara\u00e7l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sara\u00e7l\u0131",
+        "Karavca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890464359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309233
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9fa818562da6868118e2e8f22ab2de2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464359,
+            "locality_id":1277070231,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1277070231,
+    "wof:lastmodified":1537706992,
+    "wof:name":"Saracli",
+    "wof:parent_id":890464359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59613,
+    36.8479,
+    31.59613,
+    36.8479
+],
+  "geometry": {"coordinates":[31.59613,36.8479],"type":"Point"}
+}

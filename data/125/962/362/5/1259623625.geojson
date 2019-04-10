@@ -1,0 +1,67 @@
+{
+  "id": 1259623625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.92839,39.0925,26.92839,39.0925",
+    "geom:latitude":39.0925,
+    "geom:longitude":26.92839,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Atarneus",
+    "gn:country_code":"TR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11398110,
+    "gn:latitude":39.0925,
+    "gn:longitude":26.92839,
+    "gn:modification_date":"2016-12-29",
+    "gn:name":"Atarneus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398110
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0a391448d461cc75a37f2d0c97ac7960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461009,
+            "locality_id":1259623625,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1259623625,
+    "wof:lastmodified":1536656944,
+    "wof:name":"Atarneus",
+    "wof:parent_id":890461009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.92839,
+    39.0925,
+    26.92839,
+    39.0925
+],
+  "geometry": {"coordinates":[26.92839,39.0925],"type":"Point"}
+}

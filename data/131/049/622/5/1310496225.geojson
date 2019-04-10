@@ -1,0 +1,71 @@
+{
+  "id": 1310496225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.37441,40.61923,41.37441,40.61923",
+    "geom:latitude":40.61923,
+    "geom:longitude":41.37441,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kucukcorkens",
+    "gn:country_code":"TR",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742391,
+    "gn:latitude":40.61923,
+    "gn:longitude":41.37441,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00fc\u00e7\u00fck\u00e7\u00f6rkens",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fck \u00c7\u00f6rgens",
+        "K\u00fc\u00e7\u00fck\u00e7\u00f6rkens"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890461427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742391
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5083b6ee3385c28e143f00913966c435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461427,
+            "locality_id":1310496225,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1310496225,
+    "wof:lastmodified":1537707797,
+    "wof:name":"Kucukcorkens",
+    "wof:parent_id":890461427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.37441,
+    40.61923,
+    41.37441,
+    40.61923
+],
+  "geometry": {"coordinates":[41.37441,40.61923],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327055641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.58063,39.62437,34.58063,39.62437",
+    "geom:latitude":39.62437,
+    "geom:longitude":34.58063,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Kahyakoy",
+    "gn:country_code":"TR",
+    "gn:dem":992,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310849,
+    "gn:latitude":39.62437,
+    "gn:longitude":34.58063,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kahyak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kahyak\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "K\u00e2hya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310849
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d8044d2ed8a61461e708b83b3a2779e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709999,
+            "locality_id":1327055641,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1327055641,
+    "wof:lastmodified":1537707037,
+    "wof:name":"Kahyakoy",
+    "wof:parent_id":1108709999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.58063,
+    39.62437,
+    34.58063,
+    39.62437
+],
+  "geometry": {"coordinates":[34.58063,39.62437],"type":"Point"}
+}

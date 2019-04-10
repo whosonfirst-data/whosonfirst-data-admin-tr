@@ -1,0 +1,65 @@
+{
+  "id": 1209237397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40369,38.23795,36.40369,38.23795",
+    "geom:latitude":38.23795,
+    "geom:longitude":36.40369,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Altinova",
+    "gn:country_code":"TR",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323917,
+    "gn:latitude":38.23795,
+    "gn:longitude":36.40369,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alt\u0131nova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alt\u0131nova",
+        "Alt\u0131noba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323917
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7d362237a2d560154dee71f0275153ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209237397
+        }
+    ],
+    "wof:id":1209237397,
+    "wof:lastmodified":1537707464,
+    "wof:name":"Altinova",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40369000000001,
+    38.23795,
+    36.40369000000001,
+    38.23795
+],
+  "geometry": {"coordinates":[36.40369000000001,38.23795],"type":"Point"}
+}

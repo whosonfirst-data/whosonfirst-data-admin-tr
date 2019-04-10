@@ -1,0 +1,64 @@
+{
+  "id": 1209122795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76156,38.05983,42.76156,38.05983",
+    "geom:latitude":38.05983,
+    "geom:longitude":42.76156,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Oguzeli",
+    "gn:country_code":"TR",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969882,
+    "gn:latitude":38.05983,
+    "gn:longitude":42.76156,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"O\u011fuzeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "O\u011fuzeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969882
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fb19d1fcd999e4198ceca77e230322e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209122795
+        }
+    ],
+    "wof:id":1209122795,
+    "wof:lastmodified":1537708181,
+    "wof:name":"Oguzeli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76156,
+    38.05983,
+    42.76156,
+    38.05983
+],
+  "geometry": {"coordinates":[42.76156,38.05983],"type":"Point"}
+}

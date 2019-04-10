@@ -1,0 +1,75 @@
+{
+  "id": 1293485837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50921,40.72373,35.50921,40.72373",
+    "geom:latitude":40.72373,
+    "geom:longitude":35.50921,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karsiyaka",
+    "gn:country_code":"TR",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749628,
+    "gn:latitude":40.72373,
+    "gn:longitude":35.50921,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kar\u015f\u0131yaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gelgiras",
+        "Kar\u015f\u0131yaka",
+        "Gelkiras",
+        "Gelingiraz",
+        "Gelingiras",
+        "\u00c7atalkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890461589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749628
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"87d864fa979b4cb8e8468d5f4db58ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461589,
+            "locality_id":1293485837,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1293485837,
+    "wof:lastmodified":1537708038,
+    "wof:name":"Karsiyaka",
+    "wof:parent_id":890461589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50921,
+    40.72373,
+    35.50921,
+    40.72373
+],
+  "geometry": {"coordinates":[35.50921,40.72373],"type":"Point"}
+}

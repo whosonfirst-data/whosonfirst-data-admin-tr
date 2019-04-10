@@ -1,0 +1,73 @@
+{
+  "id": 1276328459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68035,37.76231,27.68035,37.76231",
+    "geom:latitude":37.76231,
+    "geom:longitude":27.68035,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sobuca",
+    "gn:country_code":"TR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10189968,
+    "gn:latitude":37.76231,
+    "gn:longitude":27.68035,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Sobuca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sobuca"
+    ],
+    "name:tur_x_variant":[
+        "Esenyurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10189968
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7bb4ea91bb3aebbaa36be1ad83ba8af7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709677,
+            "locality_id":1276328459,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1276328459,
+    "wof:lastmodified":1537708352,
+    "wof:name":"Sobuca",
+    "wof:parent_id":1108709677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68035,
+    37.76231,
+    27.68035,
+    37.76231
+],
+  "geometry": {"coordinates":[27.68035,37.76231],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209246719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.65,39.66667,43.65,39.66667",
+    "geom:latitude":39.66667,
+    "geom:longitude":43.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sakyatar",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":2394,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302077,
+    "gn:latitude":39.66667,
+    "gn:longitude":43.65,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sakyatar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vizekan",
+        "Sakyatar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302077
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f549297b2c2f30b19059aa76a08a6f3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209246719
+        }
+    ],
+    "wof:id":1209246719,
+    "wof:lastmodified":1537706762,
+    "wof:name":"Sakyatar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.65,
+    39.66667,
+    43.65,
+    39.66667
+],
+  "geometry": {"coordinates":[43.65,39.66667],"type":"Point"}
+}

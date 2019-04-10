@@ -1,0 +1,72 @@
+{
+  "id": 1243574285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86942,36.89154,30.86942,36.89154",
+    "geom:latitude":36.89154,
+    "geom:longitude":30.86942,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Karacalli",
+    "gn:country_code":"TR",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305897,
+    "gn:latitude":36.89154,
+    "gn:longitude":30.86942,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kara\u00e7all\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kara\u00e7all\u0131",
+        "K\u00fc\u00e7\u00fck Kundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305897,
+        "wk:page":"Kara%C3%A7all%C4%B1%2C_Antalya"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c821963a65063c0b06da4b7f69c98621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709263,
+            "locality_id":1243574285,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1243574285,
+    "wof:lastmodified":1537706888,
+    "wof:name":"Karacalli",
+    "wof:parent_id":1108709263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86942,
+    36.89154,
+    30.86942,
+    36.89154
+],
+  "geometry": {"coordinates":[30.86942,36.89154],"type":"Point"}
+}

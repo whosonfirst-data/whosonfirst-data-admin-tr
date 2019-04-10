@@ -1,0 +1,71 @@
+{
+  "id": 1243453723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.87737,39.3154,42.87737,39.3154",
+    "geom:latitude":39.3154,
+    "geom:longitude":42.87737,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uzungun",
+    "gn:country_code":"TR",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298193,
+    "gn:latitude":39.3154,
+    "gn:longitude":42.87737,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Uzung\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u00e7are",
+        "Uzung\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298193
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b9975baaabea9021ef848975613ad3db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709805,
+            "locality_id":1243453723,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1243453723,
+    "wof:lastmodified":1537706633,
+    "wof:name":"Uzungun",
+    "wof:parent_id":1108709805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.87737,
+    39.3154,
+    42.87737,
+    39.3154
+],
+  "geometry": {"coordinates":[42.87737,39.3154],"type":"Point"}
+}

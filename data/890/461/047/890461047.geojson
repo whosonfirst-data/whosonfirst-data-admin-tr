@@ -1,0 +1,78 @@
+{
+  "id": 890461047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6997,38.49533,27.6997,38.49533",
+    "geom:latitude":38.49533,
+    "geom:longitude":27.6997,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":103292,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Cassaba"
+    ],
+    "qs:name":"Turgutlu",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Manisa",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"9",
+    "src:population":"geonames",
+    "wd:wordcount":1962,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890463209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298806,
+        "gp:id":2344456,
+        "qs:id":758416,
+        "wd:id":"Q17396881",
+        "wk:page":"Turgutlu"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053337,
+    "wof:geomhash":"2270cabacb03fcc039a925b2935fc1c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463209,
+            "locality_id":890461047,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":890461047,
+    "wof:lastmodified":1527792989,
+    "wof:name":"Turgutlu",
+    "wof:parent_id":890463209,
+    "wof:placetype":"locality",
+    "wof:population":103292,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6997,
+    38.49533,
+    27.6997,
+    38.49533
+],
+  "geometry": {"coordinates":[27.6997,38.49533],"type":"Point"}
+}

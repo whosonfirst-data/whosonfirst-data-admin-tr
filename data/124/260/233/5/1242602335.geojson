@@ -1,0 +1,67 @@
+{
+  "id": 1242602335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85584,41.3125,31.85584,41.3125",
+    "geom:latitude":41.3125,
+    "geom:longitude":31.85584,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Karapinar",
+    "gn:country_code":"TR",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744118,
+    "gn:latitude":41.3125,
+    "gn:longitude":31.85584,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Karap\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        1108709749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744118
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f014b87058fd178a0b9ac7f746442463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709749,
+            "locality_id":1242602335,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1242602335,
+    "wof:lastmodified":1537026863,
+    "wof:name":"Karapinar",
+    "wof:parent_id":1108709749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85584,
+    41.3125,
+    31.85584,
+    41.3125
+],
+  "geometry": {"coordinates":[31.85584,41.3125],"type":"Point"}
+}

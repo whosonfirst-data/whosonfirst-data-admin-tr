@@ -1,0 +1,70 @@
+{
+  "id": 1259566937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.21247,38.48502,42.21247,38.48502",
+    "geom:latitude":38.48502,
+    "geom:longitude":42.21247,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Orenlik",
+    "gn:country_code":"TR",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985451,
+    "gn:latitude":38.48502,
+    "gn:longitude":42.21247,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"\u00d6renlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6renlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890461715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985451
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"033c1fff9707ab3d96b5071e16287e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461715,
+            "locality_id":1259566937,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1259566937,
+    "wof:lastmodified":1537708188,
+    "wof:name":"Orenlik",
+    "wof:parent_id":890461715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.21247,
+    38.48502,
+    42.21247,
+    38.48502
+],
+  "geometry": {"coordinates":[42.21247,38.48502],"type":"Point"}
+}

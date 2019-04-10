@@ -1,0 +1,70 @@
+{
+  "id": 1343974583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43928,40.71051,30.43928,40.71051",
+    "geom:latitude":40.71051,
+    "geom:longitude":30.43928,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Emirler",
+    "gn:country_code":"TR",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747527,
+    "gn:latitude":40.71051,
+    "gn:longitude":30.43928,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Emirler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Emirler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747527
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"544b01b3b18cdfe17eb5f6e6ff95dcbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709489,
+            "locality_id":1343974583,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1343974583,
+    "wof:lastmodified":1537707964,
+    "wof:name":"Emirler",
+    "wof:parent_id":1108709489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43928,
+    40.71051,
+    30.43928,
+    40.71051
+],
+  "geometry": {"coordinates":[30.43928,40.71051],"type":"Point"}
+}

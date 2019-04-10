@@ -1,0 +1,70 @@
+{
+  "id": 1310022331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.02912,40.6087,27.02912,40.6087",
+    "geom:latitude":40.6087,
+    "geom:longitude":27.02912,
+    "gn:admin1_code":"59",
+    "gn:asciiname":"Senkoy",
+    "gn:country_code":"TR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10306803,
+    "gn:latitude":40.6087,
+    "gn:longitude":27.02912,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u015eenk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eenk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679223,
+        890460259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10306803
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d848117b4512606eff930fa0d7f6ebdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460259,
+            "locality_id":1310022331,
+            "region_id":85679223
+        }
+    ],
+    "wof:id":1310022331,
+    "wof:lastmodified":1537708374,
+    "wof:name":"Senkoy",
+    "wof:parent_id":890460259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.02912,
+    40.6087,
+    27.02912,
+    40.6087
+],
+  "geometry": {"coordinates":[27.02912,40.6087],"type":"Point"}
+}

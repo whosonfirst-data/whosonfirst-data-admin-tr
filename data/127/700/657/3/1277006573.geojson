@@ -1,0 +1,70 @@
+{
+  "id": 1277006573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.021,39.0626,39.021,39.0626",
+    "geom:latitude":39.0626,
+    "geom:longitude":39.021,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Tekeli",
+    "gn:country_code":"TR",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11055162,
+    "gn:latitude":39.0626,
+    "gn:longitude":39.021,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Tekeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tekeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108710059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11055162
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c72ad858b2e243920d8b952bcc9b1359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710059,
+            "locality_id":1277006573,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1277006573,
+    "wof:lastmodified":1537708402,
+    "wof:name":"Tekeli",
+    "wof:parent_id":1108710059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.021,
+    39.0626,
+    39.021,
+    39.0626
+],
+  "geometry": {"coordinates":[39.021,39.0626],"type":"Point"}
+}

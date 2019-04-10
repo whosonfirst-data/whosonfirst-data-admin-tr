@@ -1,0 +1,67 @@
+{
+  "id": 1242602377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.71583,37.95139,41.71583,37.95139",
+    "geom:latitude":37.95139,
+    "geom:longitude":41.71583,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Patas",
+    "gn:country_code":"TR",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":440589,
+    "gn:latitude":37.95139,
+    "gn:longitude":41.71583,
+    "gn:modification_date":"2005-05-31",
+    "gn:name":"Patas",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":440589
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1f702f6779c6faa8b90a4830ccebb8ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709683,
+            "locality_id":1242602377,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1242602377,
+    "wof:lastmodified":1537026801,
+    "wof:name":"Patas",
+    "wof:parent_id":1108709683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.71583,
+    37.95139,
+    41.71583,
+    37.95139
+],
+  "geometry": {"coordinates":[41.71583,37.95139],"type":"Point"}
+}

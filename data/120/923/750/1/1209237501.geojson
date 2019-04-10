@@ -1,0 +1,65 @@
+{
+  "id": 1209237501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39788,39.76135,36.39788,39.76135",
+    "geom:latitude":39.76135,
+    "geom:longitude":36.39788,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Delikkaya",
+    "gn:country_code":"TR",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317301,
+    "gn:latitude":39.76135,
+    "gn:longitude":36.39788,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Delikkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Delikkaya K\u00f6y\u00fc",
+        "Delikkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317301
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fab32550eacf3b4fd17d341e8d41d260",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209237501
+        }
+    ],
+    "wof:id":1209237501,
+    "wof:lastmodified":1537707247,
+    "wof:name":"Delikkaya",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39788,
+    39.76135,
+    36.39788,
+    39.76135
+],
+  "geometry": {"coordinates":[36.39788,39.76135],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327476549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42217,41.29167,33.42217,41.29167",
+    "geom:latitude":41.29167,
+    "geom:longitude":33.42217,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Doganca",
+    "gn:country_code":"TR",
+    "gn:dem":960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748038,
+    "gn:latitude":41.29167,
+    "gn:longitude":33.42217,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Do\u011fanca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890461625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748038
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a599a97221a7359696a8252ea6027892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461625,
+            "locality_id":1327476549,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1327476549,
+    "wof:lastmodified":1536614665,
+    "wof:name":"Doganca",
+    "wof:parent_id":890461625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42217,
+    41.29167,
+    33.42217,
+    41.29167
+],
+  "geometry": {"coordinates":[33.42217,41.29167],"type":"Point"}
+}

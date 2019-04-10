@@ -1,0 +1,73 @@
+{
+  "id": 1259943305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23841,40.18773,27.23841,40.18773",
+    "geom:latitude":40.18773,
+    "geom:longitude":27.23841,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bakacakliciftligi",
+    "gn:country_code":"TR",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751233,
+    "gn:latitude":40.18773,
+    "gn:longitude":27.23841,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bakacakli\u00e7iftli\u011fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7iftli\u011fi",
+        "Bakacak",
+        "Bakacakl\u0131",
+        "Bakacakli\u00e7iftli\u011fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890463247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751233
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9b036f5382d4968fe3448eb7f75c5373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463247,
+            "locality_id":1259943305,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1259943305,
+    "wof:lastmodified":1537708096,
+    "wof:name":"Bakacakliciftligi",
+    "wof:parent_id":890463247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23841,
+    40.18773,
+    27.23841,
+    40.18773
+],
+  "geometry": {"coordinates":[27.23841,40.18773],"type":"Point"}
+}

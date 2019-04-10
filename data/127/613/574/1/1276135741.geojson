@@ -1,0 +1,73 @@
+{
+  "id": 1276135741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.46233,39.40625,42.46233,39.40625",
+    "geom:latitude":39.40625,
+    "geom:longitude":42.46233,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Bahce",
+    "gn:country_code":"TR",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322341,
+    "gn:latitude":39.40625,
+    "gn:longitude":42.46233,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bah\u00e7e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bah\u00e7e"
+    ],
+    "name:und_x_variant":[
+        "Bah\u00e7ek\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322341
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b108025ecf8b92e33cf4d7b8cd437375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1276135741,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1276135741,
+    "wof:lastmodified":1537707409,
+    "wof:name":"Bahce",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.46233,
+    39.40625,
+    42.46233,
+    39.40625
+],
+  "geometry": {"coordinates":[42.46233,39.40625],"type":"Point"}
+}

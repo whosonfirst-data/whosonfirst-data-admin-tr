@@ -1,0 +1,68 @@
+{
+  "id": 890459989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.1335,37.16529,41.1335,37.16529",
+    "geom:latitude":37.16529,
+    "geom:longitude":41.1335,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":423,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u00e7\u0131kk\u00f6y"
+    ],
+    "qs:name":"Bamedi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890462299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325445,
+        "qs:id":80152
+    },
+    "wof:country":"TR",
+    "wof:created":1469053295,
+    "wof:geomhash":"ec2f7e45ef2c1983eb5a4c79763e1f5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462299,
+            "locality_id":890459989,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890459989,
+    "wof:lastmodified":1505343680,
+    "wof:name":"Bamedi",
+    "wof:parent_id":890462299,
+    "wof:placetype":"locality",
+    "wof:population":423,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.1335,
+    37.16529,
+    41.1335,
+    37.16529
+],
+  "geometry": {"coordinates":[41.1335,37.16529],"type":"Point"}
+}

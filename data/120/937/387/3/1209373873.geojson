@@ -1,0 +1,65 @@
+{
+  "id": 1209373873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3789,38.15268,29.3789,38.15268",
+    "geom:latitude":38.15268,
+    "geom:longitude":29.3789,
+    "gn:admin1_code":"20.0",
+    "gn:asciiname":"Akkent",
+    "gn:country_code":"TR",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324651,
+    "gn:latitude":38.15268,
+    "gn:longitude":29.3789,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Akkent",
+    "gn:population":2451,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324651,
+        "wk:page":"Akkent"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"10df12e87afb2bbc788d56ac57c6d2ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209373873
+        }
+    ],
+    "wof:id":1209373873,
+    "wof:lastmodified":1537574582,
+    "wof:name":"Akkent",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:population":2451,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3789,
+    38.15268,
+    29.3789,
+    38.15268
+],
+  "geometry": {"coordinates":[29.3789,38.15268],"type":"Point"}
+}

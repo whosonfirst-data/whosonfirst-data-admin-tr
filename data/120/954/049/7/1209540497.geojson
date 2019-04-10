@@ -1,0 +1,64 @@
+{
+  "id": 1209540497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.3,39.25,39.3,39.25",
+    "geom:latitude":39.25,
+    "geom:longitude":39.3,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Maden",
+    "gn:country_code":"TR",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305030,
+    "gn:latitude":39.25,
+    "gn:longitude":39.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maden",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maden K\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305030
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9b644ce18cd1dc665aea3bf3a5572ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209540497
+        }
+    ],
+    "wof:id":1209540497,
+    "wof:lastmodified":1537706861,
+    "wof:name":"Maden",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.3,
+    39.25,
+    39.3,
+    39.25
+],
+  "geometry": {"coordinates":[39.3,39.25],"type":"Point"}
+}

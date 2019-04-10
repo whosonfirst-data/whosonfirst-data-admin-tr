@@ -1,0 +1,76 @@
+{
+  "id": 890463547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95083,37.05897,37.95083,37.05897",
+    "geom:latitude":37.05897,
+    "geom:longitude":37.95083,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Surtepe"
+    ],
+    "qs:name":"T\u00fcrktepe",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Gaziantep",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85679441,
+        85632393,
+        890464331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537387,
+        "gp:id":56043082,
+        "qs:id":1199838
+    },
+    "wof:country":"TR",
+    "wof:created":1469053434,
+    "wof:geomhash":"95a2a7728f006ca9422ebb4220d2088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464331,
+            "neighbourhood_id":890463547,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890463547,
+    "wof:lastmodified":1505343693,
+    "wof:name":"T\u00fcrktepe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95083,
+    37.05897,
+    37.95083,
+    37.05897
+],
+  "geometry": {"coordinates":[37.95083,37.05897],"type":"Point"}
+}

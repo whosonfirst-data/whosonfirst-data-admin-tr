@@ -1,0 +1,70 @@
+{
+  "id": 1260209221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.7788,40.99815,37.7788,40.99815",
+    "geom:latitude":40.99815,
+    "geom:longitude":37.7788,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Neneli",
+    "gn:country_code":"TR",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7581613,
+    "gn:latitude":40.99815,
+    "gn:longitude":37.7788,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Neneli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Neneli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        890461519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7581613
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ef91c62a9f3379758d2b2adc8dc256b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461519,
+            "locality_id":1260209221,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1260209221,
+    "wof:lastmodified":1537708252,
+    "wof:name":"Neneli",
+    "wof:parent_id":890461519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.7788,
+    40.99815,
+    37.7788,
+    40.99815
+],
+  "geometry": {"coordinates":[37.7788,40.99815],"type":"Point"}
+}

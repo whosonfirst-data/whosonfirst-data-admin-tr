@@ -1,0 +1,70 @@
+{
+  "id": 1243479263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01173,36.42889,36.01173,36.42889",
+    "geom:latitude":36.42889,
+    "geom:longitude":36.01173,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Ada",
+    "gn:country_code":"TR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247944,
+    "gn:latitude":36.42889,
+    "gn:longitude":36.01173,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ada",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890464451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247944
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"28b2842b0c7832f5f091b9d076ddb5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464451,
+            "locality_id":1243479263,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1243479263,
+    "wof:lastmodified":1537708407,
+    "wof:name":"Ada",
+    "wof:parent_id":890464451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01173,
+    36.42889,
+    36.01173,
+    36.42889
+],
+  "geometry": {"coordinates":[36.01173,36.42889],"type":"Point"}
+}

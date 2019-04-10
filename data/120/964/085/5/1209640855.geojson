@@ -1,0 +1,64 @@
+{
+  "id": 1209640855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58333,37.56667,33.58333,37.56667",
+    "geom:latitude":37.56667,
+    "geom:longitude":33.58333,
+    "gn:admin1_code":"78.0",
+    "gn:asciiname":"Akyayla",
+    "gn:country_code":"TR",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324373,
+    "gn:latitude":37.56667,
+    "gn:longitude":33.58333,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Akyayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akyayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324373
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3bd7c9159be02c8dc46685c153f7d738",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209640855
+        }
+    ],
+    "wof:id":1209640855,
+    "wof:lastmodified":1537707479,
+    "wof:name":"Akyayla",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58333,
+    37.56667,
+    33.58333,
+    37.56667
+],
+  "geometry": {"coordinates":[33.58333,37.56667],"type":"Point"}
+}

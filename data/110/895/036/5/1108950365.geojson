@@ -1,0 +1,61 @@
+{
+  "id": 1108950365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9317872114,41.0249672249,28.9317872114,41.0249672249",
+    "geom:latitude":41.024967,
+    "geom:longitude":28.931787,
+    "iso:country":"TR",
+    "lbl:latitude":41.024967,
+    "lbl:longitude":28.931787,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368316,
+    "wof:geomhash":"9db5521c47a68a32e9928215262cce8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "neighbourhood_id":1108950365,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950365,
+    "wof:lastmodified":1492123971,
+    "wof:name":"Sulukule",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.93178721141684,
+    41.02496722494492,
+    28.93178721141684,
+    41.02496722494492
+],
+  "geometry": {"coordinates":[28.93178721141684,41.02496722494492],"type":"Point"}
+}

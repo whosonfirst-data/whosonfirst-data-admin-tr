@@ -1,0 +1,77 @@
+{
+  "id": 1309820225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.51737,37.24842,40.51737,37.24842",
+    "geom:latitude":37.24842,
+    "geom:longitude":40.51737,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Yusektepe",
+    "gn:country_code":"TR",
+    "gn:dem":517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":441820,
+    "gn:latitude":37.24842,
+    "gn:longitude":40.51737,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Y\u00fcsektepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Y\u00fcksektepe"
+    ],
+    "name:tur_x_variant":[
+        "Y\u00fcsektepe"
+    ],
+    "name:und_x_variant":[
+        "Kyrkusht",
+        "K\u0131rku\u015ft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":441820
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9fad86c51a15ec651db2cece5b367ff8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":1309820225,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1309820225,
+    "wof:lastmodified":1537707599,
+    "wof:name":"Yusektepe",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.51737,
+    37.24842,
+    40.51737,
+    37.24842
+],
+  "geometry": {"coordinates":[40.51737,37.24842],"type":"Point"}
+}

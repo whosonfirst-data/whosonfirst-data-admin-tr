@@ -1,0 +1,70 @@
+{
+  "id": 1209841187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.82203,38.96256,27.82203,38.96256",
+    "geom:latitude":38.96256,
+    "geom:longitude":27.82203,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Medar",
+    "gn:country_code":"TR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303085,
+    "gn:latitude":38.96256,
+    "gn:longitude":27.82203,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Medar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ovak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890461947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303085
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f9d3e563c7390bc5d3f57f25c67ce9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461947,
+            "locality_id":1209841187,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1209841187,
+    "wof:lastmodified":1537706795,
+    "wof:name":"Medar",
+    "wof:parent_id":890461947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82203,
+    38.96256,
+    27.82203,
+    38.96256
+],
+  "geometry": {"coordinates":[27.82203,38.96256],"type":"Point"}
+}

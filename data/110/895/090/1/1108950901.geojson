@@ -1,0 +1,61 @@
+{
+  "id": 1108950901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7677258623,41.1980843501,28.7677258623,41.1980843501",
+    "geom:latitude":41.198084,
+    "geom:longitude":28.767726,
+    "iso:country":"TR",
+    "lbl:latitude":41.198084,
+    "lbl:longitude":28.767726,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        1108709297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368714,
+    "wof:geomhash":"593784e23d68e144e9d3b0c3cf62de1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709297,
+            "neighbourhood_id":1108950901,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950901,
+    "wof:lastmodified":1492123992,
+    "wof:name":"Bolluca",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.76772586233867,
+    41.19808435008891,
+    28.76772586233867,
+    41.19808435008891
+],
+  "geometry": {"coordinates":[28.76772586233867,41.19808435008891],"type":"Point"}
+}

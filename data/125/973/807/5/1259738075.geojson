@@ -1,0 +1,70 @@
+{
+  "id": 1259738075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.32243,39.70311,42.32243,39.70311",
+    "geom:latitude":39.70311,
+    "geom:longitude":42.32243,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Goktepe",
+    "gn:country_code":"TR",
+    "gn:dem":2203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10206511,
+    "gn:latitude":39.70311,
+    "gn:longitude":42.32243,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"G\u00f6ktepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00f6ktepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10206511
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"86bf27e23cb99eaba8c1507f4186328d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709629,
+            "locality_id":1259738075,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1259738075,
+    "wof:lastmodified":1537708360,
+    "wof:name":"Goktepe",
+    "wof:parent_id":1108709629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.32243,
+    39.70311,
+    42.32243,
+    39.70311
+],
+  "geometry": {"coordinates":[42.32243,39.70311],"type":"Point"}
+}

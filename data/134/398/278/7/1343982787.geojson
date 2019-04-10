@@ -1,0 +1,75 @@
+{
+  "id": 1343982787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.2231,37.27984,40.2231,37.27984",
+    "geom:latitude":37.27984,
+    "geom:longitude":40.2231,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Kocyigit",
+    "gn:country_code":"TR",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306802,
+    "gn:latitude":37.27984,
+    "gn:longitude":40.2231,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ko\u00e7yi\u011fit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ko\u00e7yi\u011fit"
+    ],
+    "name:und_x_variant":[
+        "Ru\u015fat",
+        "R\u00f6\u015fat",
+        "Rav\u015fat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306802
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8ff346411c9aaeea8b24e20ee7bf4d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463301,
+            "locality_id":1343982787,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1343982787,
+    "wof:lastmodified":1537706919,
+    "wof:name":"Kocyigit",
+    "wof:parent_id":890463301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.2231,
+    37.27984,
+    40.2231,
+    37.27984
+],
+  "geometry": {"coordinates":[40.2231,37.27984],"type":"Point"}
+}

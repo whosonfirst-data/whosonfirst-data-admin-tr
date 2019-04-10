@@ -1,0 +1,72 @@
+{
+  "id": 1209840333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56222,41.70111,27.56222,41.70111",
+    "geom:latitude":41.70111,
+    "geom:longitude":27.56222,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Akoren",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752411,
+    "gn:latitude":41.70111,
+    "gn:longitude":27.56222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ak\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akviran",
+        "Ak\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679219,
+        1108709795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752411
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d68ef0e7abed7ea2d432e29a09693c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709795,
+            "locality_id":1209840333,
+            "region_id":85679219
+        }
+    ],
+    "wof:id":1209840333,
+    "wof:lastmodified":1537708138,
+    "wof:name":"Akoren",
+    "wof:parent_id":1108709795,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56222,
+    41.70111,
+    27.56222,
+    41.70111
+],
+  "geometry": {"coordinates":[27.56222,41.70111],"type":"Point"}
+}

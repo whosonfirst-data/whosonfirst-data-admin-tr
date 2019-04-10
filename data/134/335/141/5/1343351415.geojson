@@ -1,0 +1,72 @@
+{
+  "id": 1343351415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.70611,40.89122,41.70611,40.89122",
+    "geom:latitude":40.89122,
+    "geom:longitude":41.70611,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Havuzlu",
+    "gn:country_code":"TR",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745715,
+    "gn:latitude":40.89122,
+    "gn:longitude":41.70611,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Havuzlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ok\u0131r",
+        "Okar",
+        "Havuzlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890461427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745715
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0c1a7593ab8e12aafb61780fc02a0b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461427,
+            "locality_id":1343351415,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1343351415,
+    "wof:lastmodified":1537707900,
+    "wof:name":"Havuzlu",
+    "wof:parent_id":890461427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.70611,
+    40.89122,
+    41.70611,
+    40.89122
+],
+  "geometry": {"coordinates":[41.70611,40.89122],"type":"Point"}
+}

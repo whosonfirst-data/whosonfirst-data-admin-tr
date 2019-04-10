@@ -1,0 +1,73 @@
+{
+  "id": 1276146103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31667,39.2,42.31667,39.2",
+    "geom:latitude":39.2,
+    "geom:longitude":42.31667,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Bostas",
+    "gn:country_code":"TR",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306253,
+    "gn:latitude":39.2,
+    "gn:longitude":42.31667,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Bo\u015fta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bo\u015fta\u015f"
+    ],
+    "name:und_x_variant":[
+        "Ko\u015fucu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890463513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306253
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7d0ed18db540c2bd48b38bd24467c6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463513,
+            "locality_id":1276146103,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1276146103,
+    "wof:lastmodified":1537706901,
+    "wof:name":"Bostas",
+    "wof:parent_id":890463513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31667,
+    39.2,
+    42.31667,
+    39.2
+],
+  "geometry": {"coordinates":[42.31667,39.2],"type":"Point"}
+}

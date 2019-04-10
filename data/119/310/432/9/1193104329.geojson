@@ -1,0 +1,67 @@
+{
+  "id": 1193104329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.98333,39.83333,41.98333,39.83333",
+    "geom:latitude":39.83333,
+    "geom:longitude":41.98333,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Avnik",
+    "gn:country_code":"TR",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322892,
+    "gn:latitude":39.83333,
+    "gn:longitude":41.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Avnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322892
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"62476cb60f908be3b51e92ecfc05ac09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709693,
+            "locality_id":1193104329,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1193104329,
+    "wof:lastmodified":1536380121,
+    "wof:name":"Avnik",
+    "wof:parent_id":1108709693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.98333,
+    39.83333,
+    41.98333,
+    39.83333
+],
+  "geometry": {"coordinates":[41.98333,39.83333],"type":"Point"}
+}

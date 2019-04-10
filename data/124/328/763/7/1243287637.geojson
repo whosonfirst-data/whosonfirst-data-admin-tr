@@ -1,0 +1,80 @@
+{
+  "id": 1243287637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.42936,40.07012,43.42936,40.07012",
+    "geom:latitude":40.07012,
+    "geom:longitude":43.42936,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Bahcecik",
+    "gn:country_code":"TR",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751304,
+    "gn:latitude":40.07012,
+    "gn:longitude":43.42936,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bah\u00e7ecik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ba\u011fl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0433\u043b\u044b"
+    ],
+    "name:tur_x_preferred":[
+        "Bah\u00e7ecik"
+    ],
+    "name:und_x_variant":[
+        "Ba\u011fl\u0131",
+        "Bahecik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751304
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b545d0ced3470972a00a19c622a3418b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":1243287637,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1243287637,
+    "wof:lastmodified":1537708099,
+    "wof:name":"Bahcecik",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.42936,
+    40.07012,
+    43.42936,
+    40.07012
+],
+  "geometry": {"coordinates":[43.42936,40.07012],"type":"Point"}
+}

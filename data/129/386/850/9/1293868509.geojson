@@ -1,0 +1,67 @@
+{
+  "id": 1293868509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.677,40.74758,41.677,40.74758",
+    "geom:latitude":40.74758,
+    "geom:longitude":41.677,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gorgulu",
+    "gn:country_code":"TR",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746558,
+    "gn:latitude":40.74758,
+    "gn:longitude":41.677,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"G\u00f6rg\u00fcl\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890461427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746558
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c28fc0dfef68e3c302a38ec1007a2aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461427,
+            "locality_id":1293868509,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1293868509,
+    "wof:lastmodified":1536735100,
+    "wof:name":"Gorgulu",
+    "wof:parent_id":890461427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.677,
+    40.74758,
+    41.677,
+    40.74758
+],
+  "geometry": {"coordinates":[41.677,40.74758],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1225825549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43719,40.16008,30.43719,40.16008",
+    "geom:latitude":40.16008,
+    "geom:longitude":30.43719,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Karahasanlar",
+    "gn:country_code":"TR",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744322,
+    "gn:latitude":40.16008,
+    "gn:longitude":30.43719,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karahasanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karahasan",
+        "Karahasanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        1108709995
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744322
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1a0d35d8bbdd6e11d41da860388179d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709995,
+            "locality_id":1225825549,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1225825549,
+    "wof:lastmodified":1537707856,
+    "wof:name":"Karahasanlar",
+    "wof:parent_id":1108709995,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43719,
+    40.16008,
+    30.43719,
+    40.16008
+],
+  "geometry": {"coordinates":[30.43719,40.16008],"type":"Point"}
+}

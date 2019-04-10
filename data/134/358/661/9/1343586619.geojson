@@ -1,0 +1,67 @@
+{
+  "id": 1343586619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35685,39.6753,35.35685,39.6753",
+    "geom:latitude":39.6753,
+    "geom:longitude":35.35685,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Salur",
+    "gn:country_code":"TR",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301992,
+    "gn:latitude":39.6753,
+    "gn:longitude":35.35685,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Salur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890464289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301992
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e3f95d2a910e0c569764514cb17e26ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464289,
+            "locality_id":1343586619,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1343586619,
+    "wof:lastmodified":1537059154,
+    "wof:name":"Salur",
+    "wof:parent_id":890464289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35685,
+    39.6753,
+    35.35685,
+    39.6753
+],
+  "geometry": {"coordinates":[35.35685,39.6753],"type":"Point"}
+}

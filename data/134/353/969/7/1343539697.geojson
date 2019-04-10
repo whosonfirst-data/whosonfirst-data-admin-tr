@@ -1,0 +1,70 @@
+{
+  "id": 1343539697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.00295,39.36666,27.00295,39.36666",
+    "geom:latitude":39.36666,
+    "geom:longitude":27.00295,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kuyumcu",
+    "gn:country_code":"TR",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305179,
+    "gn:latitude":39.36666,
+    "gn:longitude":27.00295,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kuyumcu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kuyumcu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890464587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305179
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"214d82e8433fd29ae16c34c958c49e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464587,
+            "locality_id":1343539697,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1343539697,
+    "wof:lastmodified":1537706866,
+    "wof:name":"Kuyumcu",
+    "wof:parent_id":890464587,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.00295,
+    39.36666,
+    27.00295,
+    39.36666
+],
+  "geometry": {"coordinates":[27.00295,39.36666],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360011099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.89775,37.6865,41.89775,37.6865",
+    "geom:latitude":37.6865,
+    "geom:longitude":41.89775,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Ekinyolu",
+    "gn:country_code":"TR",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315832,
+    "gn:latitude":37.6865,
+    "gn:longitude":41.89775,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ekinyolu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zorava",
+        "Gyuvesi",
+        "G\u00fcvesi",
+        "G\u00fcve\u015fil",
+        "G\u00fcve\u015fel",
+        "Ekinyolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315832
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8ae440c180c2ca7061c66e1e050bacb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709493,
+            "locality_id":1360011099,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1360011099,
+    "wof:lastmodified":1537707199,
+    "wof:name":"Ekinyolu",
+    "wof:parent_id":1108709493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.89775,
+    37.6865,
+    41.89775,
+    37.6865
+],
+  "geometry": {"coordinates":[41.89775,37.6865],"type":"Point"}
+}

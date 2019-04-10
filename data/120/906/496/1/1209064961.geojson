@@ -1,0 +1,67 @@
+{
+  "id": 1209064961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.28609,38.11682,40.28609,38.11682",
+    "geom:latitude":38.11682,
+    "geom:longitude":40.28609,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Mermer",
+    "gn:country_code":"TR",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304537,
+    "gn:latitude":38.11682,
+    "gn:longitude":40.28609,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Mermer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mermer"
+    ],
+    "name:und_x_variant":[
+        "Mermeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304537
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8ba5ee9a7bfd772068e6ae89966c593f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209064961
+        }
+    ],
+    "wof:id":1209064961,
+    "wof:lastmodified":1537706844,
+    "wof:name":"Mermer",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.28609,
+    38.11682,
+    40.28609,
+    38.11682
+],
+  "geometry": {"coordinates":[40.28609,38.11682],"type":"Point"}
+}

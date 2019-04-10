@@ -1,0 +1,78 @@
+{
+  "id": 1343577805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.04808,40.46627,40.04808,40.46627",
+    "geom:latitude":40.46627,
+    "geom:longitude":40.04808,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Sorkunlu",
+    "gn:country_code":"TR",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739372,
+    "gn:latitude":40.46627,
+    "gn:longitude":40.04808,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sorkunlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sorkunlu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u043e\u043d\u0441\u043e\u0437"
+    ],
+    "name:und_x_variant":[
+        "Toransos",
+        "Toronsoz",
+        "Sorkunlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679471,
+        890461621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739372
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c2b33deeede69820106379a5064ea42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461621,
+            "locality_id":1343577805,
+            "region_id":85679471
+        }
+    ],
+    "wof:id":1343577805,
+    "wof:lastmodified":1537707697,
+    "wof:name":"Sorkunlu",
+    "wof:parent_id":890461621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.04808,
+    40.46627,
+    40.04808,
+    40.46627
+],
+  "geometry": {"coordinates":[40.04808,40.46627],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360209455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.79927,39.9126,36.79927,39.9126",
+    "geom:latitude":39.9126,
+    "geom:longitude":36.79927,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Kildir",
+    "gn:country_code":"TR",
+    "gn:dem":1364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307917,
+    "gn:latitude":39.9126,
+    "gn:longitude":36.79927,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u0131ld\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890461429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307917
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0131c3c9f161c09890b86ddf85ce6fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461429,
+            "locality_id":1360209455,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1360209455,
+    "wof:lastmodified":1536766729,
+    "wof:name":"Kildir",
+    "wof:parent_id":890461429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.79927,
+    39.9126,
+    36.79927,
+    39.9126
+],
+  "geometry": {"coordinates":[36.79927,39.9126],"type":"Point"}
+}

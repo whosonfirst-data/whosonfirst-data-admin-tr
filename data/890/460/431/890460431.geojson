@@ -1,0 +1,68 @@
+{
+  "id": 890460431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.77056,39.54072,42.77056,39.54072",
+    "geom:latitude":39.54072,
+    "geom:longitude":42.77056,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Tutak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298727,
+        "gp:id":2344459,
+        "qs:id":204075,
+        "wd:id":"Q2499330",
+        "wk:page":"Tutak"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053314,
+    "wof:geomhash":"50c4fc821648344a1ea1eb7a6e297c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709939,
+            "locality_id":890460431,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":890460431,
+    "wof:lastmodified":1527792906,
+    "wof:name":"Tutak",
+    "wof:parent_id":1108709939,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.77056,
+    39.54072,
+    42.77056,
+    39.54072
+],
+  "geometry": {"coordinates":[42.77056,39.54072],"type":"Point"}
+}

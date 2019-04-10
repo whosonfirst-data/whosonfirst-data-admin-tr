@@ -1,0 +1,67 @@
+{
+  "id": 1193267391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65536,37.5945,28.65536,37.5945",
+    "geom:latitude":37.5945,
+    "geom:longitude":28.65536,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Yolustu",
+    "gn:country_code":"TR",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296608,
+    "gn:latitude":37.5945,
+    "gn:longitude":28.65536,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Yol\u00fcst\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890461453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296608
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cca1884bced7ff02d6ec0bb0600d29f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461453,
+            "locality_id":1193267391,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1193267391,
+    "wof:lastmodified":1536374385,
+    "wof:name":"Yolustu",
+    "wof:parent_id":890461453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65536,
+    37.5945,
+    28.65536,
+    37.5945
+],
+  "geometry": {"coordinates":[28.65536,37.5945],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293406665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63679,38.73515,43.63679,38.73515",
+    "geom:latitude":38.73515,
+    "geom:longitude":43.63679,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Kalender",
+    "gn:country_code":"TR",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969196,
+    "gn:latitude":38.73515,
+    "gn:longitude":43.63679,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kalender",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kalender"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890462703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969196
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"184c650453a0441bd366562751bfc6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462703,
+            "locality_id":1293406665,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1293406665,
+    "wof:lastmodified":1537708175,
+    "wof:name":"Kalender",
+    "wof:parent_id":890462703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63679000000001,
+    38.73515,
+    43.63679000000001,
+    38.73515
+],
+  "geometry": {"coordinates":[43.63679000000001,38.73515],"type":"Point"}
+}

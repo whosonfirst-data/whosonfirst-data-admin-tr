@@ -1,0 +1,67 @@
+{
+  "id": 1310328725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54853,40.60358,32.54853,40.60358",
+    "geom:latitude":40.60358,
+    "geom:longitude":32.54853,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dereneci",
+    "gn:country_code":"TR",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748231,
+    "gn:latitude":40.60358,
+    "gn:longitude":32.54853,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Dereneci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748231
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"389f5faeaaa6f36f0b473debac34b0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464243,
+            "locality_id":1310328725,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1310328725,
+    "wof:lastmodified":1536674486,
+    "wof:name":"Dereneci",
+    "wof:parent_id":890464243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54853,
+    40.60358,
+    32.54853,
+    40.60358
+],
+  "geometry": {"coordinates":[32.54853,40.60358],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890464985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.33727,37.27731,41.33727,37.27731",
+    "geom:latitude":37.27731,
+    "geom:longitude":41.33727,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":1467,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sivrice"
+    ],
+    "qs:name":"Sivrice",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300603,
+        "qs:id":547294
+    },
+    "wof:country":"TR",
+    "wof:created":1469053494,
+    "wof:geomhash":"fcacf5b24c5e03e6778e6ea003e146be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463867,
+            "locality_id":890464985,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890464985,
+    "wof:lastmodified":1505343700,
+    "wof:name":"Sivrice",
+    "wof:parent_id":890463867,
+    "wof:placetype":"locality",
+    "wof:population":1467,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.33727,
+    37.27731,
+    41.33727,
+    37.27731
+],
+  "geometry": {"coordinates":[41.33727,37.27731],"type":"Point"}
+}

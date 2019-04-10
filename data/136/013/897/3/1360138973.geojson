@@ -1,0 +1,67 @@
+{
+  "id": 1360138973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18086,39.61467,31.18086,39.61467",
+    "geom:latitude":39.61467,
+    "geom:longitude":31.18086,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Ikipinar",
+    "gn:country_code":"TR",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311617,
+    "gn:latitude":39.61467,
+    "gn:longitude":31.18086,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"\u0130kip\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311617
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7d888137d2b0f5b8bee7487951daeb37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709383,
+            "locality_id":1360138973,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1360138973,
+    "wof:lastmodified":1536866786,
+    "wof:name":"Ikipinar",
+    "wof:parent_id":1108709383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18086,
+    39.61467,
+    31.18086,
+    39.61467
+],
+  "geometry": {"coordinates":[31.18086,39.61467],"type":"Point"}
+}

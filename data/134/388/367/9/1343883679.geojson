@@ -1,0 +1,73 @@
+{
+  "id": 1343883679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.40786,39.37193,42.40786,39.37193",
+    "geom:latitude":39.37193,
+    "geom:longitude":42.40786,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Uyanik",
+    "gn:country_code":"TR",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320803,
+    "gn:latitude":39.37193,
+    "gn:longitude":42.40786,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Uyan\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Uyan\u0131k"
+    ],
+    "name:und_x_variant":[
+        "Bosten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320803
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"402688b3d96f55874661d906822b0be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1343883679,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1343883679,
+    "wof:lastmodified":1537707359,
+    "wof:name":"Uyanik",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.40786,
+    39.37193,
+    42.40786,
+    39.37193
+],
+  "geometry": {"coordinates":[42.40786,39.37193],"type":"Point"}
+}

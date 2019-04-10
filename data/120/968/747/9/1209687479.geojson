@@ -1,0 +1,66 @@
+{
+  "id": 1209687479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.68682,40.34713,28.68682,40.34713",
+    "geom:latitude":40.34713,
+    "geom:longitude":28.68682,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Esence",
+    "gn:country_code":"TR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747359,
+    "gn:latitude":40.34713,
+    "gn:longitude":28.68682,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Esence",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esgel",
+        "E\u015fkel",
+        "Esence"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747359
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5a32f8d589451099dffbaa03c165c7a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209687479
+        }
+    ],
+    "wof:id":1209687479,
+    "wof:lastmodified":1537707959,
+    "wof:name":"Esence",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68682,
+    40.34713,
+    28.68682,
+    40.34713
+],
+  "geometry": {"coordinates":[28.68682,40.34713],"type":"Point"}
+}

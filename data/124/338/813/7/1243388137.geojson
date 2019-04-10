@@ -1,0 +1,73 @@
+{
+  "id": 1243388137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.326,38.98188,28.326,38.98188",
+    "geom:latitude":38.98188,
+    "geom:longitude":28.326,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kusluk",
+    "gn:country_code":"TR",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305291,
+    "gn:latitude":38.98188,
+    "gn:longitude":28.326,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ku\u015fluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kuslukk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Ku\u015fluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305291
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90dd9d2479d0b07bf5f7e3ca93b16bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709543,
+            "locality_id":1243388137,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1243388137,
+    "wof:lastmodified":1537706869,
+    "wof:name":"Kusluk",
+    "wof:parent_id":1108709543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.326,
+    38.98188,
+    28.326,
+    38.98188
+],
+  "geometry": {"coordinates":[28.326,38.98188],"type":"Point"}
+}

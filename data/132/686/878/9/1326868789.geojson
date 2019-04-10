@@ -1,0 +1,73 @@
+{
+  "id": 1326868789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49051,41.71894,33.49051,41.71894",
+    "geom:latitude":41.71894,
+    "geom:longitude":33.49051,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Yesilkoypinar",
+    "gn:country_code":"TR",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740375,
+    "gn:latitude":41.71894,
+    "gn:longitude":33.49051,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ye\u015filk\u00f6yp\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ye\u015filk\u00f6yp\u0131nar"
+    ],
+    "name:und_x_variant":[
+        "Ye\u015filk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890460195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740375
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"48524a366a18d31d88c8c5d69002a194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460195,
+            "locality_id":1326868789,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1326868789,
+    "wof:lastmodified":1537707730,
+    "wof:name":"Yesilkoypinar",
+    "wof:parent_id":890460195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49051,
+    41.71894,
+    33.49051,
+    41.71894
+],
+  "geometry": {"coordinates":[33.49051,41.71894],"type":"Point"}
+}

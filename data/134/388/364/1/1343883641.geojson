@@ -1,0 +1,67 @@
+{
+  "id": 1343883641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.50796,39.9939,43.50796,39.9939",
+    "geom:latitude":39.9939,
+    "geom:longitude":43.50796,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Karatas",
+    "gn:country_code":"TR",
+    "gn:dem":1738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7509645,
+    "gn:latitude":39.9939,
+    "gn:longitude":43.50796,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Karata\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7509645
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d2248ce29db65eb41c17acb0e193e4b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":1343883641,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1343883641,
+    "wof:lastmodified":1536631700,
+    "wof:name":"Karatas",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.50796,
+    39.9939,
+    43.50796,
+    39.9939
+],
+  "geometry": {"coordinates":[43.50796,39.9939],"type":"Point"}
+}

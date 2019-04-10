@@ -1,0 +1,67 @@
+{
+  "id": 1209713731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68129,40.83736,35.68129,40.83736",
+    "geom:latitude":40.83736,
+    "geom:longitude":35.68129,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kolay",
+    "gn:country_code":"TR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742764,
+    "gn:latitude":40.83736,
+    "gn:longitude":35.68129,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kolay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890464247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d481cbac756b830b7a7d6b4ef18856cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464247,
+            "locality_id":1209713731,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1209713731,
+    "wof:lastmodified":1536389526,
+    "wof:name":"Kolay",
+    "wof:parent_id":890464247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68129000000001,
+    40.83736,
+    35.68129000000001,
+    40.83736
+],
+  "geometry": {"coordinates":[35.68129000000001,40.83736],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 890464171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.96275,41.04884,28.96275,41.04884",
+    "geom:latitude":41.04884,
+    "geom:longitude":28.96275,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ota_x_preferred":[
+        "\u067e\u06cc\u0627\u0644\u0647 \u067e\u0627\u0634"
+    ],
+    "name:ota_x_variant":[
+        "\u0628\u06cc\u0648\u06a9 \u067e\u06cc\u0627\u0644\u0647 \u067e\u0627\u0634\u0627"
+    ],
+    "name:tur_x_preferred":[
+        "Piyale Pa\u015fa"
+    ],
+    "name:tur_x_variant":[
+        "B\u00fcy\u00fck Piyale Pa\u015fa"
+    ],
+    "qs:name":"Piyalepa\u015fa",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101913185,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7289205,
+        "gp:id":55865064,
+        "qs:id":207598
+    },
+    "wof:country":"TR",
+    "wof:created":1469053463,
+    "wof:geomhash":"71e364ea62bad31346bc4c6f096e715e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "locality_id":101913185,
+            "neighbourhood_id":890464171,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890464171,
+    "wof:lastmodified":1505343696,
+    "wof:name":"Piyalepa\u015fa",
+    "wof:parent_id":101913185,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.96275,
+    41.04884,
+    28.96275,
+    41.04884
+],
+  "geometry": {"coordinates":[28.96275,41.04884],"type":"Point"}
+}

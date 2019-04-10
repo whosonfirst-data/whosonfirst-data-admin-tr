@@ -1,0 +1,72 @@
+{
+  "id": 1225970021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93771,41.30498,42.93771,41.30498",
+    "geom:latitude":41.30498,
+    "geom:longitude":42.93771,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Macivet",
+    "gn:country_code":"TR",
+    "gn:dem":2205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738009,
+    "gn:latitude":41.30498,
+    "gn:longitude":42.93771,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Macivet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Macivat",
+        "Macivet",
+        "Yam\u00e7\u0131l\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679511,
+        1108709565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738009
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"66bd58aca2be8d9ad24e003cb8ad6022",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709565,
+            "locality_id":1225970021,
+            "region_id":85679511
+        }
+    ],
+    "wof:id":1225970021,
+    "wof:lastmodified":1537707649,
+    "wof:name":"Macivet",
+    "wof:parent_id":1108709565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93771,
+    41.30498,
+    42.93771,
+    41.30498
+],
+  "geometry": {"coordinates":[42.93771,41.30498],"type":"Point"}
+}

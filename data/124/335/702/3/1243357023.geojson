@@ -1,0 +1,67 @@
+{
+  "id": 1243357023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.36081,36.24443,32.36081,36.24443",
+    "geom:latitude":36.24443,
+    "geom:longitude":32.36081,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cobanlar",
+    "gn:country_code":"TR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318230,
+    "gn:latitude":36.24443,
+    "gn:longitude":32.36081,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"\u00c7obanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890461675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318230
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"378c2d7b18e8fc7eedd46760aae7ba1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461675,
+            "locality_id":1243357023,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1243357023,
+    "wof:lastmodified":1536935267,
+    "wof:name":"Cobanlar",
+    "wof:parent_id":890461675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.36081,
+    36.24443,
+    32.36081,
+    36.24443
+],
+  "geometry": {"coordinates":[32.36081,36.24443],"type":"Point"}
+}

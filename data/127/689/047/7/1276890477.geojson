@@ -1,0 +1,75 @@
+{
+  "id": 1276890477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2663,38.746,38.2663,38.746",
+    "geom:latitude":38.746,
+    "geom:longitude":38.2663,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Asagi Sulmenli",
+    "gn:country_code":"TR",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315811,
+    "gn:latitude":38.746,
+    "gn:longitude":38.2663,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"A\u015fa\u011f\u0131 S\u00fclmenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 S\u00fclmenli"
+    ],
+    "name:und_x_variant":[
+        "Tetkir",
+        "A\u015fa\u011f\u0131s\u00fclmenli",
+        "Ektir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        1108709293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315811
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5832005c42447512f508fe94c3e0c90f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709293,
+            "locality_id":1276890477,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1276890477,
+    "wof:lastmodified":1537707198,
+    "wof:name":"Asagi Sulmenli",
+    "wof:parent_id":1108709293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2663,
+    38.746,
+    38.2663,
+    38.746
+],
+  "geometry": {"coordinates":[38.2663,38.746],"type":"Point"}
+}

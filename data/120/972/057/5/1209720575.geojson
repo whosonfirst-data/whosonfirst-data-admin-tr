@@ -1,0 +1,70 @@
+{
+  "id": 1209720575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.90228,39.22144,42.90228,39.22144",
+    "geom:latitude":39.22144,
+    "geom:longitude":42.90228,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ziyaret",
+    "gn:country_code":"TR",
+    "gn:dem":1657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6970675,
+    "gn:latitude":39.22144,
+    "gn:longitude":42.90228,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ziyaret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ziyaret"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6970675
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"21b02d52e31af0da8a27133ac2410747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709805,
+            "locality_id":1209720575,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1209720575,
+    "wof:lastmodified":1537708182,
+    "wof:name":"Ziyaret",
+    "wof:parent_id":1108709805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.90228,
+    39.22144,
+    42.90228,
+    39.22144
+],
+  "geometry": {"coordinates":[42.90228,39.22144],"type":"Point"}
+}

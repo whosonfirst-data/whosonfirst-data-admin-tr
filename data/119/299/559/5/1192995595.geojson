@@ -1,0 +1,70 @@
+{
+  "id": 1192995595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22158,40.20734,30.22158,40.20734",
+    "geom:latitude":40.20734,
+    "geom:longitude":30.22158,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Incirli",
+    "gn:country_code":"TR",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745187,
+    "gn:latitude":40.20734,
+    "gn:longitude":30.22158,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u0130ncirli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130ncirli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        890463491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745187
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83b5d8da2646e0c75811429b4aedf6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463491,
+            "locality_id":1192995595,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1192995595,
+    "wof:lastmodified":1537707883,
+    "wof:name":"Incirli",
+    "wof:parent_id":890463491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22158,
+    40.20734,
+    30.22158,
+    40.20734
+],
+  "geometry": {"coordinates":[30.22158,40.20734],"type":"Point"}
+}

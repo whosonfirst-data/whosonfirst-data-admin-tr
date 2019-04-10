@@ -1,0 +1,67 @@
+{
+  "id": 1343721209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36673,36.38509,33.36673,36.38509",
+    "geom:latitude":36.38509,
+    "geom:longitude":33.36673,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Isikli",
+    "gn:country_code":"TR",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7857872,
+    "gn:latitude":36.38509,
+    "gn:longitude":33.36673,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"I\u015f\u0131kl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890464609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7857872
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"065e92039b104bced6b3e243a3db9908",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464609,
+            "locality_id":1343721209,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1343721209,
+    "wof:lastmodified":1536866355,
+    "wof:name":"Isikli",
+    "wof:parent_id":890464609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36673,
+    36.38509000000001,
+    33.36673,
+    36.38509000000001
+],
+  "geometry": {"coordinates":[33.36673,36.38509000000001],"type":"Point"}
+}

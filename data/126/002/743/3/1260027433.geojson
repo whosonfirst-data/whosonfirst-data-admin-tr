@@ -1,0 +1,67 @@
+{
+  "id": 1260027433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61518,39.63788,31.61518,39.63788",
+    "geom:latitude":39.63788,
+    "geom:longitude":31.61518,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Guvemli",
+    "gn:country_code":"TR",
+    "gn:dem":950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8238714,
+    "gn:latitude":39.63788,
+    "gn:longitude":31.61518,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"G\u00fcvemli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890460831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8238714
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83a97ca7fdc8b73c9f21e644690ec107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460831,
+            "locality_id":1260027433,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1260027433,
+    "wof:lastmodified":1537065888,
+    "wof:name":"Guvemli",
+    "wof:parent_id":890460831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.61518,
+    39.63788,
+    31.61518,
+    39.63788
+],
+  "geometry": {"coordinates":[31.61518,39.63788],"type":"Point"}
+}

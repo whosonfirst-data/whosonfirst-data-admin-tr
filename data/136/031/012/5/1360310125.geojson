@@ -1,0 +1,70 @@
+{
+  "id": 1360310125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12347,36.2869,36.12347,36.2869",
+    "geom:latitude":36.2869,
+    "geom:longitude":36.12347,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Gulderen",
+    "gn:country_code":"TR",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313752,
+    "gn:latitude":36.2869,
+    "gn:longitude":36.12347,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"G\u00fclderen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fclderen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313752
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"db4b1af5b5354b82d79688e965aeb006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461775,
+            "locality_id":1360310125,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1360310125,
+    "wof:lastmodified":1537707134,
+    "wof:name":"Gulderen",
+    "wof:parent_id":890461775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12347000000001,
+    36.2869,
+    36.12347000000001,
+    36.2869
+],
+  "geometry": {"coordinates":[36.12347000000001,36.2869],"type":"Point"}
+}

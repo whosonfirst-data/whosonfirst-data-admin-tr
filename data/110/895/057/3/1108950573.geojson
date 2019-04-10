@@ -1,0 +1,66 @@
+{
+  "id": 1108950573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-17",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8821520269,41.0997099612,28.8821520269,41.0997099612",
+    "geom:latitude":41.09971,
+    "geom:longitude":28.882152,
+    "iso:country":"TR",
+    "lbl:latitude":41.09971,
+    "lbl:longitude":28.882152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368504,
+    "wof:geomhash":"56fff52c076c4f68bcdad8b85bc73bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709903,
+            "neighbourhood_id":1108950573,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950573,
+    "wof:lastmodified":1534530972,
+    "wof:name":"Esentepe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        1108950151
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.88215202693073,
+    41.09970996122333,
+    28.88215202693073,
+    41.09970996122333
+],
+  "geometry": {"coordinates":[28.88215202693073,41.09970996122333],"type":"Point"}
+}

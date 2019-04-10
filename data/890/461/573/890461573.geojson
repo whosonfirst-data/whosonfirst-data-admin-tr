@@ -1,0 +1,77 @@
+{
+  "id": 890461573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52889,41.6325,35.52889,41.6325",
+    "geom:latitude":41.6325,
+    "geom:longitude":35.52889,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":5086,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Gemenue"
+    ],
+    "qs:name":"Yakakent",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Samsun",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738085,
+        "gp:id":29390857,
+        "qs:id":129128,
+        "wd:id":"Q3055984",
+        "wk:page":"Yakakent"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053356,
+    "wof:geomhash":"8dc9260ab75eb6096c177cd5fb1ba665",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461573,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":890461573,
+    "wof:lastmodified":1527792993,
+    "wof:name":"Yakakent",
+    "wof:parent_id":85679357,
+    "wof:placetype":"county",
+    "wof:population":5086,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52889,
+    41.6325,
+    35.52889,
+    41.6325
+],
+  "geometry": {"coordinates":[35.52889,41.6325],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343260129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2745,40.79817,35.2745,40.79817",
+    "geom:latitude":40.79817,
+    "geom:longitude":35.2745,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koc",
+    "gn:country_code":"TR",
+    "gn:dem":749,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697656,
+    "gn:latitude":40.79817,
+    "gn:longitude":35.2745,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ko\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890461589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697656
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9432736de8ad31fbcc2af778649b40db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461589,
+            "locality_id":1343260129,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1343260129,
+    "wof:lastmodified":1537033918,
+    "wof:name":"Koc",
+    "wof:parent_id":890461589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2745,
+    40.79817,
+    35.2745,
+    40.79817
+],
+  "geometry": {"coordinates":[35.2745,40.79817],"type":"Point"}
+}

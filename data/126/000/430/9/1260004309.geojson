@@ -1,0 +1,74 @@
+{
+  "id": 1260004309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3491,38.71811,27.3491,38.71811",
+    "geom:latitude":38.71811,
+    "geom:longitude":27.3491,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Cerkeztevfikiye",
+    "gn:country_code":"TR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685987,
+    "gn:latitude":38.71811,
+    "gn:longitude":27.3491,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c7erkeztevfikiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7erkeztevfikiye"
+    ],
+    "name:tur_x_variant":[
+        "G\u00fclbah\u00e7e",
+        "\u00c7erkestevfikiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890463535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685987
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb8938a9cf78785bfd3f37a10e993740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463535,
+            "locality_id":1260004309,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1260004309,
+    "wof:lastmodified":1537708167,
+    "wof:name":"Cerkeztevfikiye",
+    "wof:parent_id":890463535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3491,
+    38.71811,
+    27.3491,
+    38.71811
+],
+  "geometry": {"coordinates":[27.3491,38.71811],"type":"Point"}
+}

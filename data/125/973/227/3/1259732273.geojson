@@ -1,0 +1,67 @@
+{
+  "id": 1259732273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43333,36.28504,33.43333,36.28504",
+    "geom:latitude":36.28504,
+    "geom:longitude":33.43333,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Tirnak",
+    "gn:country_code":"TR",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299125,
+    "gn:latitude":36.28504,
+    "gn:longitude":33.43333,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"T\u0131rnak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890464609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299125
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d682a5e94444770c45e07bae1a123ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464609,
+            "locality_id":1259732273,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1259732273,
+    "wof:lastmodified":1536996163,
+    "wof:name":"Tirnak",
+    "wof:parent_id":890464609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43333,
+    36.28504,
+    33.43333,
+    36.28504
+],
+  "geometry": {"coordinates":[33.43333,36.28504],"type":"Point"}
+}

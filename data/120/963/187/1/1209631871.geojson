@@ -1,0 +1,64 @@
+{
+  "id": 1209631871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19451,40.38889,30.19451,40.38889",
+    "geom:latitude":40.38889,
+    "geom:longitude":30.19451,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Halidiye",
+    "gn:country_code":"TR",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745998,
+    "gn:latitude":40.38889,
+    "gn:longitude":30.19451,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Halidiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Halidiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745998
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"98c273150a3be6588961c9c868f48d8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209631871
+        }
+    ],
+    "wof:id":1209631871,
+    "wof:lastmodified":1537707909,
+    "wof:name":"Halidiye",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19451,
+    40.38889,
+    30.19451,
+    40.38889
+],
+  "geometry": {"coordinates":[30.19451,40.38889],"type":"Point"}
+}

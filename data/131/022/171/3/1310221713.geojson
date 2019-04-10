@@ -1,0 +1,74 @@
+{
+  "id": 1310221713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.61603,37.5326,40.61603,37.5326",
+    "geom:latitude":37.5326,
+    "geom:longitude":40.61603,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Yukari Ocak",
+    "gn:country_code":"TR",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":440965,
+    "gn:latitude":37.5326,
+    "gn:longitude":40.61603,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Yukar\u0131 Ocak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yukar\u0131 Ocak"
+    ],
+    "name:und_x_variant":[
+        "Yukar\u0131k\u00fcri",
+        "Yukary-Kyuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":440965
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc7e7ff55ce779dbd7322f2a3adb706f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709713,
+            "locality_id":1310221713,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1310221713,
+    "wof:lastmodified":1537707588,
+    "wof:name":"Yukari Ocak",
+    "wof:parent_id":1108709713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.61603,
+    37.5326,
+    40.61603,
+    37.5326
+],
+  "geometry": {"coordinates":[40.61603,37.5326],"type":"Point"}
+}

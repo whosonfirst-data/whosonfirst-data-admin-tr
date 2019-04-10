@@ -1,0 +1,70 @@
+{
+  "id": 1242654031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.87571,38.75201,40.87571,38.75201",
+    "geom:latitude":38.75201,
+    "geom:longitude":40.87571,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yenisu",
+    "gn:country_code":"TR",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":313728,
+    "gn:latitude":38.75201,
+    "gn:longitude":40.87571,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yenisu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcleyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890464589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313728
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ef1b3ad1b79147622b39ed92593ff56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464589,
+            "locality_id":1242654031,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1242654031,
+    "wof:lastmodified":1537707133,
+    "wof:name":"Yenisu",
+    "wof:parent_id":890464589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.87571,
+    38.75201,
+    40.87571,
+    38.75201
+],
+  "geometry": {"coordinates":[40.87571,38.75201],"type":"Point"}
+}

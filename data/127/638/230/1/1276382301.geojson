@@ -1,0 +1,67 @@
+{
+  "id": 1276382301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84583,38.08694,27.84583,38.08694",
+    "geom:latitude":38.08694,
+    "geom:longitude":27.84583,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Dereli",
+    "gn:country_code":"TR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316936,
+    "gn:latitude":38.08694,
+    "gn:longitude":27.84583,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Dereli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890462119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316936
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ceb87516a911db88b09cdbb31d175b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462119,
+            "locality_id":1276382301,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1276382301,
+    "wof:lastmodified":1536713256,
+    "wof:name":"Dereli",
+    "wof:parent_id":890462119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84583,
+    38.08694000000001,
+    27.84583,
+    38.08694000000001
+],
+  "geometry": {"coordinates":[27.84583,38.08694000000001],"type":"Point"}
+}

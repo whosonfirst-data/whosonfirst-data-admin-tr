@@ -1,0 +1,70 @@
+{
+  "id": 1293023697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.52487,39.3718,42.52487,39.3718",
+    "geom:latitude":39.3718,
+    "geom:longitude":42.52487,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kesik",
+    "gn:country_code":"TR",
+    "gn:dem":1509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308050,
+    "gn:latitude":39.3718,
+    "gn:longitude":42.52487,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kesik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kesik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308050
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"003af9eca1b989e7e38cf8272e2f7fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709939,
+            "locality_id":1293023697,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1293023697,
+    "wof:lastmodified":1537706956,
+    "wof:name":"Kesik",
+    "wof:parent_id":1108709939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.52487,
+    39.3718,
+    42.52487,
+    39.3718
+],
+  "geometry": {"coordinates":[42.52487,39.3718],"type":"Point"}
+}

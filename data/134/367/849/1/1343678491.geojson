@@ -1,0 +1,71 @@
+{
+  "id": 1343678491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3,37.8,32.3,37.8",
+    "geom:latitude":37.8,
+    "geom:longitude":32.3,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Anayazisi",
+    "gn:country_code":"TR",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323821,
+    "gn:latitude":37.8,
+    "gn:longitude":32.3,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Anayaz\u0131s\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anayaz\u0131s\u0131 Yaylas\u0131",
+        "Anayaz\u0131s\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890462363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323821
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"76339055bdede7a4009a2731fba05c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462363,
+            "locality_id":1343678491,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1343678491,
+    "wof:lastmodified":1537707461,
+    "wof:name":"Anayazisi",
+    "wof:parent_id":890462363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3,
+    37.8,
+    32.3,
+    37.8
+],
+  "geometry": {"coordinates":[32.3,37.8],"type":"Point"}
+}

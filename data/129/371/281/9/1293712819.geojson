@@ -1,0 +1,73 @@
+{
+  "id": 1293712819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76946,39.2896,27.76946,39.2896",
+    "geom:latitude":39.2896,
+    "geom:longitude":27.76946,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Sultaniye",
+    "gn:country_code":"TR",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300192,
+    "gn:latitude":39.2896,
+    "gn:longitude":27.76946,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sultaniye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7erkezsultaniye",
+        "\u00c7erkezpiyala",
+        "\u00c7erkespiyala",
+        "Sultaniye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300192
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f6dd4a845bfda1e7181e8685122bb309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709893,
+            "locality_id":1293712819,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1293712819,
+    "wof:lastmodified":1537706698,
+    "wof:name":"Sultaniye",
+    "wof:parent_id":1108709893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76946,
+    39.2896,
+    27.76946,
+    39.2896
+],
+  "geometry": {"coordinates":[27.76946,39.2896],"type":"Point"}
+}

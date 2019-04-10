@@ -1,0 +1,71 @@
+{
+  "id": 1310403943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62627,40.44529,35.62627,40.44529",
+    "geom:latitude":40.44529,
+    "geom:longitude":35.62627,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gediksaray",
+    "gn:country_code":"TR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":746989,
+    "gn:latitude":40.44529,
+    "gn:longitude":35.62627,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Gediksaray",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Varay",
+        "Gediksaray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890462747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746989
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"139e010c6c37df33cc8cb1fa81b9aecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462747,
+            "locality_id":1310403943,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1310403943,
+    "wof:lastmodified":1537707946,
+    "wof:name":"Gediksaray",
+    "wof:parent_id":890462747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62627,
+    40.44529,
+    35.62627,
+    40.44529
+],
+  "geometry": {"coordinates":[35.62627,40.44529],"type":"Point"}
+}

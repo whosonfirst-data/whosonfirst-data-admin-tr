@@ -1,0 +1,67 @@
+{
+  "id": 1343605695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.48375,38.46486,27.48375,38.46486",
+    "geom:latitude":38.46486,
+    "geom:longitude":27.48375,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Akalan",
+    "gn:country_code":"TR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325048,
+    "gn:latitude":38.46486,
+    "gn:longitude":27.48375,
+    "gn:modification_date":"2007-12-20",
+    "gn:name":"Akalan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890464235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325048
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"06a0865341041447df5687b6c5dcdd57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464235,
+            "locality_id":1343605695,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1343605695,
+    "wof:lastmodified":1537032686,
+    "wof:name":"Akalan",
+    "wof:parent_id":890464235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.48375,
+    38.46486,
+    27.48375,
+    38.46486
+],
+  "geometry": {"coordinates":[27.48375,38.46486],"type":"Point"}
+}

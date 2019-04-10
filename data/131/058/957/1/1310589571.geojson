@@ -1,0 +1,70 @@
+{
+  "id": 1310589571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36271,39.71695,28.36271,39.71695",
+    "geom:latitude":39.71695,
+    "geom:longitude":28.36271,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Tuzak",
+    "gn:country_code":"TR",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298691,
+    "gn:latitude":39.71695,
+    "gn:longitude":28.36271,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Tuzak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tuzak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298691
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6493cff1bdf123b1dd2aa5057a59982a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709657,
+            "locality_id":1310589571,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1310589571,
+    "wof:lastmodified":1537706648,
+    "wof:name":"Tuzak",
+    "wof:parent_id":1108709657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36271,
+    39.71695,
+    28.36271,
+    39.71695
+],
+  "geometry": {"coordinates":[28.36271,39.71695],"type":"Point"}
+}

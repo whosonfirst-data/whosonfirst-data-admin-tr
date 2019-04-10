@@ -1,0 +1,73 @@
+{
+  "id": 1293261211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.24536,38.43013,41.24536,38.43013",
+    "geom:latitude":38.43013,
+    "geom:longitude":41.24536,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Aygun",
+    "gn:country_code":"TR",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322758,
+    "gn:latitude":38.43013,
+    "gn:longitude":41.24536,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ayg\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ayg\u00fcn"
+    ],
+    "name:und_x_variant":[
+        "Mehmetk\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322758
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0aa83650ceecebf121f010e6d7eb2633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463481,
+            "locality_id":1293261211,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1293261211,
+    "wof:lastmodified":1537707422,
+    "wof:name":"Aygun",
+    "wof:parent_id":890463481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.24536,
+    38.43013,
+    41.24536,
+    38.43013
+],
+  "geometry": {"coordinates":[41.24536,38.43013],"type":"Point"}
+}

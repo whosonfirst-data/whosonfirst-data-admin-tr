@@ -1,0 +1,67 @@
+{
+  "id": 1193189341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96925,41.78078,33.96925,41.78078",
+    "geom:latitude":41.78078,
+    "geom:longitude":33.96925,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Corekci",
+    "gn:country_code":"TR",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748898,
+    "gn:latitude":41.78078,
+    "gn:longitude":33.96925,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"\u00c7\u00f6rek\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890461609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748898
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"40e4b1bb8e40cc92b76fde63193b1035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461609,
+            "locality_id":1193189341,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1193189341,
+    "wof:lastmodified":1536363707,
+    "wof:name":"Corekci",
+    "wof:parent_id":890461609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96925,
+    41.78078,
+    33.96925,
+    41.78078
+],
+  "geometry": {"coordinates":[33.96925,41.78078],"type":"Point"}
+}

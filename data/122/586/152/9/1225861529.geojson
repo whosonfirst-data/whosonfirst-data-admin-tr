@@ -1,0 +1,71 @@
+{
+  "id": 1225861529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1056,39.40204,30.1056,39.40204",
+    "geom:latitude":39.40204,
+    "geom:longitude":30.1056,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Alayunt",
+    "gn:country_code":"TR",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324143,
+    "gn:latitude":39.40204,
+    "gn:longitude":30.1056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alayunt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alayond",
+        "Alayunt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        890461533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324143
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e6b04683c90be3c3d7eba63c62b316e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461533,
+            "locality_id":1225861529,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1225861529,
+    "wof:lastmodified":1537707471,
+    "wof:name":"Alayunt",
+    "wof:parent_id":890461533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1056,
+    39.40204,
+    30.1056,
+    39.40204
+],
+  "geometry": {"coordinates":[30.1056,39.40204],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309728713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21287,40.47725,30.21287,40.47725",
+    "geom:latitude":40.47725,
+    "geom:longitude":30.21287,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Cengel",
+    "gn:country_code":"TR",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275403,
+    "gn:latitude":40.47725,
+    "gn:longitude":30.21287,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"\u00c7engel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7engel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275403
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fe121e5986321e014796095990041f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460559,
+            "locality_id":1309728713,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1309728713,
+    "wof:lastmodified":1537708282,
+    "wof:name":"Cengel",
+    "wof:parent_id":890460559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21287,
+    40.47725,
+    30.21287,
+    40.47725
+],
+  "geometry": {"coordinates":[30.21287,40.47725],"type":"Point"}
+}

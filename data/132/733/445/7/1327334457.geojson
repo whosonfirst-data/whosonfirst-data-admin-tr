@@ -1,0 +1,67 @@
+{
+  "id": 1327334457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.12278,38.31222,30.12278,38.31222",
+    "geom:latitude":38.31222,
+    "geom:longitude":30.12278,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mentes",
+    "gn:country_code":"TR",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304594,
+    "gn:latitude":38.31222,
+    "gn:longitude":30.12278,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Mente\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304594
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d0487310053f0551c79d0e8f924badda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461685,
+            "locality_id":1327334457,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1327334457,
+    "wof:lastmodified":1536821372,
+    "wof:name":"Mentes",
+    "wof:parent_id":890461685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12278,
+    38.31222,
+    30.12278,
+    38.31222
+],
+  "geometry": {"coordinates":[30.12278,38.31222],"type":"Point"}
+}

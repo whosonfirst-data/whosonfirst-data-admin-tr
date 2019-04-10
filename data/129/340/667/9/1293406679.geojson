@@ -1,0 +1,67 @@
+{
+  "id": 1293406679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92666,40.56902,33.92666,40.56902",
+    "geom:latitude":40.56902,
+    "geom:longitude":33.92666,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Alacat",
+    "gn:country_code":"TR",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752249,
+    "gn:latitude":40.56902,
+    "gn:longitude":33.92666,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ala\u00e7at",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        1108709731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752249
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c9b11246be4ca86c9c985c99cd7d4187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709731,
+            "locality_id":1293406679,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1293406679,
+    "wof:lastmodified":1536903701,
+    "wof:name":"Alacat",
+    "wof:parent_id":1108709731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92666,
+    40.56902,
+    33.92666,
+    40.56902
+],
+  "geometry": {"coordinates":[33.92666,40.56902],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209339253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31347,36.19355,36.31347,36.19355",
+    "geom:latitude":36.19355,
+    "geom:longitude":36.31347,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Avsuyu",
+    "gn:country_code":"TR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322869,
+    "gn:latitude":36.19355,
+    "gn:longitude":36.31347,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Avsuyu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fyurdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322869,
+        "wk:page":"Avsuyu"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"44194c087fdd639521d10b144c47387a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209339253
+        }
+    ],
+    "wof:id":1209339253,
+    "wof:lastmodified":1537707425,
+    "wof:name":"Avsuyu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31347,
+    36.19355,
+    36.31347,
+    36.19355
+],
+  "geometry": {"coordinates":[36.31347,36.19355],"type":"Point"}
+}

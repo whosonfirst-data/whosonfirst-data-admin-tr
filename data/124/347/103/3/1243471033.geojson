@@ -1,0 +1,73 @@
+{
+  "id": 1243471033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.51243,37.39843,42.51243,37.39843",
+    "geom:latitude":37.39843,
+    "geom:longitude":42.51243,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Zemo",
+    "gn:country_code":"TR",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323790,
+    "gn:latitude":37.39843,
+    "gn:longitude":42.51243,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Zemo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcnd\u00fckremo",
+        "Gyundyukremo",
+        "G\u00fcnd\u00fckiremo",
+        "An\u0131lm\u0131\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890460285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323790
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e59663fde9c838e41793aa8009384aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460285,
+            "locality_id":1243471033,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1243471033,
+    "wof:lastmodified":1537707460,
+    "wof:name":"Zemo",
+    "wof:parent_id":890460285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.51243,
+    37.39843,
+    42.51243,
+    37.39843
+],
+  "geometry": {"coordinates":[42.51243,37.39843],"type":"Point"}
+}

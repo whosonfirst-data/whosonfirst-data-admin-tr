@@ -1,0 +1,67 @@
+{
+  "id": 1326813369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98473,40.80393,31.98473,40.80393",
+    "geom:latitude":40.80393,
+    "geom:longitude":31.98473,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hanza",
+    "gn:country_code":"TR",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196004,
+    "gn:latitude":40.80393,
+    "gn:longitude":31.98473,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Hanza",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        1108709997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196004
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1277324b66a79105a46a169e68642525",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709997,
+            "locality_id":1326813369,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1326813369,
+    "wof:lastmodified":1537072892,
+    "wof:name":"Hanza",
+    "wof:parent_id":1108709997,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98473,
+    40.80393,
+    31.98473,
+    40.80393
+],
+  "geometry": {"coordinates":[31.98473,40.80393],"type":"Point"}
+}

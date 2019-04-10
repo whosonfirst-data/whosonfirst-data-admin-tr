@@ -1,0 +1,73 @@
+{
+  "id": 1293788891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.08622,39.5943,43.08622,39.5943",
+    "geom:latitude":39.5943,
+    "geom:longitude":43.08622,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koskkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306280,
+    "gn:latitude":39.5943,
+    "gn:longitude":43.08622,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"K\u00f6\u015fkk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6\u015fkk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6\u015fk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306280
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0a6cb52bde82f6e9ae3635183f697d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709563,
+            "locality_id":1293788891,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1293788891,
+    "wof:lastmodified":1537706901,
+    "wof:name":"Koskkoy",
+    "wof:parent_id":1108709563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.08622,
+    39.5943,
+    43.08622,
+    39.5943
+],
+  "geometry": {"coordinates":[43.08622,39.5943],"type":"Point"}
+}

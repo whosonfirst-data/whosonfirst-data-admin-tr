@@ -1,0 +1,67 @@
+{
+  "id": 1292987463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.94937,39.01175,40.94937,39.01175",
+    "geom:latitude":39.01175,
+    "geom:longitude":40.94937,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yekmal",
+    "gn:country_code":"TR",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297271,
+    "gn:latitude":39.01175,
+    "gn:longitude":40.94937,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Yekmal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890461897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297271
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"094755873dd430517e3c25c7f9989b67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461897,
+            "locality_id":1292987463,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1292987463,
+    "wof:lastmodified":1537010220,
+    "wof:name":"Yekmal",
+    "wof:parent_id":890461897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.94937,
+    39.01175,
+    40.94937,
+    39.01175
+],
+  "geometry": {"coordinates":[40.94937,39.01175],"type":"Point"}
+}

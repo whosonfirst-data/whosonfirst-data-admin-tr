@@ -1,0 +1,64 @@
+{
+  "id": 1209238343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.89778,39.56324,29.89778,39.56324",
+    "geom:latitude":39.56324,
+    "geom:longitude":29.89778,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Bozcahoyuk",
+    "gn:country_code":"TR",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320690,
+    "gn:latitude":39.56324,
+    "gn:longitude":29.89778,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bozcah\u00f6y\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bozcah\u00f6y\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320690
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fa5a075cce3c72e935b36c87277622e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209238343
+        }
+    ],
+    "wof:id":1209238343,
+    "wof:lastmodified":1537707356,
+    "wof:name":"Bozcahoyuk",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.89778,
+    39.56324,
+    29.89778,
+    39.56324
+],
+  "geometry": {"coordinates":[29.89778,39.56324],"type":"Point"}
+}

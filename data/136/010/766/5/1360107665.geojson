@@ -1,0 +1,70 @@
+{
+  "id": 1360107665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56796,39.37146,43.56796,39.37146",
+    "geom:latitude":39.37146,
+    "geom:longitude":43.56796,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Gedik",
+    "gn:country_code":"TR",
+    "gn:dem":2125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11192734,
+    "gn:latitude":39.37146,
+    "gn:longitude":43.56796,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gedik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Gedik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        890461651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11192734
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ef4a17fa03e691180479b4016847b351",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461651,
+            "locality_id":1360107665,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1360107665,
+    "wof:lastmodified":1537708403,
+    "wof:name":"Gedik",
+    "wof:parent_id":890461651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56796,
+    39.37146,
+    43.56796,
+    39.37146
+],
+  "geometry": {"coordinates":[43.56796,39.37146],"type":"Point"}
+}

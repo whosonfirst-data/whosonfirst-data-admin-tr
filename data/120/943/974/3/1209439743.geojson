@@ -1,0 +1,64 @@
+{
+  "id": 1209439743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.40729,37.02448,38.40729,37.02448",
+    "geom:latitude":37.02448,
+    "geom:longitude":38.40729,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ekili",
+    "gn:country_code":"TR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539075,
+    "gn:latitude":37.02448,
+    "gn:longitude":38.40729,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ekili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ekili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539075
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82d81c836cfcfca11b36d6c1fe92a5ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439743
+        }
+    ],
+    "wof:id":1209439743,
+    "wof:lastmodified":1537708227,
+    "wof:name":"Ekili",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.40729,
+    37.02448,
+    38.40729,
+    37.02448
+],
+  "geometry": {"coordinates":[38.40729,37.02448],"type":"Point"}
+}

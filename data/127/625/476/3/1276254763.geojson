@@ -1,0 +1,78 @@
+{
+  "id": 1276254763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.59401,40.9459,39.59401,40.9459",
+    "geom:latitude":40.9459,
+    "geom:longitude":39.59401,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Derecik",
+    "gn:country_code":"TR",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":748321,
+    "gn:latitude":40.9459,
+    "gn:longitude":39.59401,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Derecik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Derecik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0440\u0435\u0434\u0436\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Bodamya",
+        "Bodamiya",
+        "Derecik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890460805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748321
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"006821f47da156d8a6491058a4df9fff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460805,
+            "locality_id":1276254763,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1276254763,
+    "wof:lastmodified":1537707990,
+    "wof:name":"Derecik",
+    "wof:parent_id":890460805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.59401,
+    40.9459,
+    39.59401,
+    40.9459
+],
+  "geometry": {"coordinates":[39.59401,40.9459],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226459141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3945,41.94843,34.3945,41.94843",
+    "geom:latitude":41.94843,
+    "geom:longitude":34.3945,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Guzelkent",
+    "gn:country_code":"TR",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":745672,
+    "gn:latitude":41.94843,
+    "gn:longitude":34.3945,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"G\u00fczelkent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halatl\u0131",
+        "Halall\u0131",
+        "Helald\u0131",
+        "G\u00fczelkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745672,
+        "wk:page":"G%C3%BCzelkent%2C_Sinop"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89ab4679377cdc54472cc140c10b0ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709945,
+            "locality_id":1226459141,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1226459141,
+    "wof:lastmodified":1537707899,
+    "wof:name":"Guzelkent",
+    "wof:parent_id":1108709945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3945,
+    41.94843,
+    34.3945,
+    41.94843
+],
+  "geometry": {"coordinates":[34.3945,41.94843],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209307989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.7484,37.16763,31.7484,37.16763",
+    "geom:latitude":37.16763,
+    "geom:longitude":31.7484,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gunyaka",
+    "gn:country_code":"TR",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315640,
+    "gn:latitude":37.16763,
+    "gn:longitude":31.7484,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fcnyaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emerye",
+        "Emerya",
+        "G\u00fcnyaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315640
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de9e0aa4ea93bffe6cf7cf8edd0bbf67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209307989
+        }
+    ],
+    "wof:id":1209307989,
+    "wof:lastmodified":1537707193,
+    "wof:name":"Gunyaka",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.7484,
+    37.16763,
+    31.7484,
+    37.16763
+],
+  "geometry": {"coordinates":[31.7484,37.16763],"type":"Point"}
+}

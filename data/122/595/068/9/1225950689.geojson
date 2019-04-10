@@ -1,0 +1,74 @@
+{
+  "id": 1225950689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13333,37.93333,30.13333,37.93333",
+    "geom:latitude":37.93333,
+    "geom:longitude":30.13333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Korpeli",
+    "gn:country_code":"TR",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297132,
+    "gn:latitude":37.93333,
+    "gn:longitude":30.13333,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"K\u00f6rpeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6rpeli"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6rpelli",
+        "Yenicek\u00f6rpeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297132
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d5679a63f7d38722ee1837b9538b94ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461199,
+            "locality_id":1225950689,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1225950689,
+    "wof:lastmodified":1537706594,
+    "wof:name":"Korpeli",
+    "wof:parent_id":890461199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13333,
+    37.93333,
+    30.13333,
+    37.93333
+],
+  "geometry": {"coordinates":[30.13333,37.93333],"type":"Point"}
+}

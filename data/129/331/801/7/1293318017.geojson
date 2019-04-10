@@ -1,0 +1,71 @@
+{
+  "id": 1293318017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.25668,38.1503,32.25668,38.1503",
+    "geom:latitude":38.1503,
+    "geom:longitude":32.25668,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Beykayagi",
+    "gn:country_code":"TR",
+    "gn:dem":1293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308002,
+    "gn:latitude":38.1503,
+    "gn:longitude":32.25668,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beykaya\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beykaya\u011f\u0131",
+        "Kestel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890464137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308002
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3e6651f8c372561aae9d7018b23539fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464137,
+            "locality_id":1293318017,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1293318017,
+    "wof:lastmodified":1537706956,
+    "wof:name":"Beykayagi",
+    "wof:parent_id":890464137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.25668,
+    38.1503,
+    32.25668,
+    38.1503
+],
+  "geometry": {"coordinates":[32.25668,38.1503],"type":"Point"}
+}

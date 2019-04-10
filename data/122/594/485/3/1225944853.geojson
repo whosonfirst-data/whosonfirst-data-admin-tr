@@ -1,0 +1,74 @@
+{
+  "id": 1225944853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.74098,38.67101,30.74098,38.67101",
+    "geom:latitude":38.67101,
+    "geom:longitude":30.74098,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Isiklar",
+    "gn:country_code":"TR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311159,
+    "gn:latitude":38.67101,
+    "gn:longitude":30.74098,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"I\u015f\u0131klar",
+    "gn:population":7250,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "I\u015f\u0131klar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311159,
+        "wk:page":"I%C5%9F%C4%B1klar"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d92b73cdd6b42a2dd8a8bf201e5d2a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461281,
+            "locality_id":1225944853,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1225944853,
+    "wof:lastmodified":1537707046,
+    "wof:name":"Isiklar",
+    "wof:parent_id":890461281,
+    "wof:placetype":"locality",
+    "wof:population":7250,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.74098,
+    38.67101,
+    30.74098,
+    38.67101
+],
+  "geometry": {"coordinates":[30.74098,38.67101],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209339199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57181,39.26149,35.57181,39.26149",
+    "geom:latitude":39.26149,
+    "geom:longitude":35.57181,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Kozan",
+    "gn:country_code":"TR",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306110,
+    "gn:latitude":39.26149,
+    "gn:longitude":35.57181,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kozan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuzan",
+        "Kozan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306110
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7370d9018f35498b25b38eb15744d0bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209339199
+        }
+    ],
+    "wof:id":1209339199,
+    "wof:lastmodified":1537706896,
+    "wof:name":"Kozan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57181,
+    39.26149,
+    35.57181,
+    39.26149
+],
+  "geometry": {"coordinates":[35.57181,39.26149],"type":"Point"}
+}

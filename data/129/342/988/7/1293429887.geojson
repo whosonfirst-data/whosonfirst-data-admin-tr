@@ -1,0 +1,67 @@
+{
+  "id": 1293429887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21258,39.01144,27.21258,39.01144",
+    "geom:latitude":39.01144,
+    "geom:longitude":27.21258,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Maruflar",
+    "gn:country_code":"TR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304775,
+    "gn:latitude":39.01144,
+    "gn:longitude":27.21258,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Maruflar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890462839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304775
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"43809011f669255f4bb480686c880d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462839,
+            "locality_id":1293429887,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1293429887,
+    "wof:lastmodified":1536868921,
+    "wof:name":"Maruflar",
+    "wof:parent_id":890462839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21258,
+    39.01144,
+    27.21258,
+    39.01144
+],
+  "geometry": {"coordinates":[27.21258,39.01144],"type":"Point"}
+}

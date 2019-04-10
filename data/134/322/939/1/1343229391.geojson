@@ -1,0 +1,71 @@
+{
+  "id": 1343229391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.08325,40.92631,42.08325,40.92631",
+    "geom:latitude":40.92631,
+    "geom:longitude":42.08325,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Karakoclar",
+    "gn:country_code":"TR",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740516,
+    "gn:latitude":40.92631,
+    "gn:longitude":42.08325,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Karako\u00e7lar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karako\u00e7lar",
+        "Pulur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740516
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c432c4f0c9bf6512d23b270c0a8dcddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709777,
+            "locality_id":1343229391,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1343229391,
+    "wof:lastmodified":1537707735,
+    "wof:name":"Karakoclar",
+    "wof:parent_id":1108709777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.08325,
+    40.92631,
+    42.08325,
+    40.92631
+],
+  "geometry": {"coordinates":[42.08325,40.92631],"type":"Point"}
+}

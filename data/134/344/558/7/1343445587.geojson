@@ -1,0 +1,74 @@
+{
+  "id": 1343445587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.60979,41.43886,41.60979,41.43886",
+    "geom:latitude":41.43886,
+    "geom:longitude":41.60979,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Caylikoy",
+    "gn:country_code":"TR",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7547599,
+    "gn:latitude":41.43886,
+    "gn:longitude":41.60979,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"\u00c7ayl\u0131k\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ayl\u0131k\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "\u00c7ayl\u0131",
+        "\u00c7ayl\u0131k\u00f6y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890460815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7547599
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"51d2f54678cec49cba9b98e09178fd67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460815,
+            "locality_id":1343445587,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1343445587,
+    "wof:lastmodified":1537708234,
+    "wof:name":"Caylikoy",
+    "wof:parent_id":890460815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.60979,
+    41.43886,
+    41.60979,
+    41.43886
+],
+  "geometry": {"coordinates":[41.60979,41.43886],"type":"Point"}
+}

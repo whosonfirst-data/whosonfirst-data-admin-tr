@@ -1,0 +1,64 @@
+{
+  "id": 1108950081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0019900079,41.0981652203,29.0019900079,41.0981652203",
+    "geom:latitude":41.098165,
+    "geom:longitude":29.00199,
+    "iso:country":"TR",
+    "lbl:latitude":41.098165,
+    "lbl:longitude":29.00199,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Ye\u015filce"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368113,
+    "wof:geomhash":"2a5ff43ee2e9b24438936c9c7668db22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "neighbourhood_id":1108950081,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950081,
+    "wof:lastmodified":1497292378,
+    "wof:name":"Yesilce",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0019900079171,
+    41.09816522025388,
+    29.0019900079171,
+    41.09816522025388
+],
+  "geometry": {"coordinates":[29.0019900079171,41.09816522025388],"type":"Point"}
+}

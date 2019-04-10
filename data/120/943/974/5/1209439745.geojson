@@ -1,0 +1,64 @@
+{
+  "id": 1209439745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.23018,38.13198,44.23018,38.13198",
+    "geom:latitude":38.13198,
+    "geom:longitude":44.23018,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Yeniharman",
+    "gn:country_code":"TR",
+    "gn:dem":2145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969421,
+    "gn:latitude":38.13198,
+    "gn:longitude":44.23018,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Yeniharman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yeniharman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969421
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"25b71ef4ad23fa6c64fcfbb3529a308a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439745
+        }
+    ],
+    "wof:id":1209439745,
+    "wof:lastmodified":1537708176,
+    "wof:name":"Yeniharman",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.23018,
+    38.13198,
+    44.23018,
+    38.13198
+],
+  "geometry": {"coordinates":[44.23018,38.13198],"type":"Point"}
+}

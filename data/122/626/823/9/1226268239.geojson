@@ -1,0 +1,70 @@
+{
+  "id": 1226268239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49769,40.81485,30.49769,40.81485",
+    "geom:latitude":40.81485,
+    "geom:longitude":30.49769,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Bileciler",
+    "gn:country_code":"TR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750597,
+    "gn:latitude":40.81485,
+    "gn:longitude":30.49769,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bileciler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bileciler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750597
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2369c4d327ae94277e9d1220549ad6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709241,
+            "locality_id":1226268239,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1226268239,
+    "wof:lastmodified":1537708073,
+    "wof:name":"Bileciler",
+    "wof:parent_id":1108709241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49769,
+    40.81485,
+    30.49769,
+    40.81485
+],
+  "geometry": {"coordinates":[30.49769,40.81485],"type":"Point"}
+}

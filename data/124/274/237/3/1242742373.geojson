@@ -1,0 +1,73 @@
+{
+  "id": 1242742373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.48579,38.25988,29.48579,38.25988",
+    "geom:latitude":38.25988,
+    "geom:longitude":29.48579,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Poyrazli",
+    "gn:country_code":"TR",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315816,
+    "gn:latitude":38.25988,
+    "gn:longitude":29.48579,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Poyrazl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Poyrazl\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Ekse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108709371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315816
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e4e95864c751e950e87c2207b3911064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709371,
+            "locality_id":1242742373,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1242742373,
+    "wof:lastmodified":1537707198,
+    "wof:name":"Poyrazli",
+    "wof:parent_id":1108709371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.48579,
+    38.25988,
+    29.48579,
+    38.25988
+],
+  "geometry": {"coordinates":[29.48579,38.25988],"type":"Point"}
+}

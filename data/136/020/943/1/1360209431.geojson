@@ -1,0 +1,73 @@
+{
+  "id": 1360209431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55481,40.09359,35.55481,40.09359",
+    "geom:latitude":40.09359,
+    "geom:longitude":35.55481,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Ozoren",
+    "gn:country_code":"TR",
+    "gn:dem":876,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740751,
+    "gn:latitude":40.09359,
+    "gn:longitude":35.55481,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u00d6z\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6z\u00fcviran",
+        "\u00d6z\u00fcveren",
+        "\u00d6z\u00fcveran",
+        "\u00d6z\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108710049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740751
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"39a8dbf4f066fbc02634ae760d16daef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710049,
+            "locality_id":1360209431,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1360209431,
+    "wof:lastmodified":1537707742,
+    "wof:name":"Ozoren",
+    "wof:parent_id":1108710049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55481,
+    40.09359,
+    35.55481,
+    40.09359
+],
+  "geometry": {"coordinates":[35.55481,40.09359],"type":"Point"}
+}

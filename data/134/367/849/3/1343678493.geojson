@@ -1,0 +1,67 @@
+{
+  "id": 1343678493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.34081,36.7628,29.34081,36.7628",
+    "geom:latitude":36.7628,
+    "geom:longitude":29.34081,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Pasali",
+    "gn:country_code":"TR",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302837,
+    "gn:latitude":36.7628,
+    "gn:longitude":29.34081,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Pa\u015fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302837
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9bc57550dfbcd6f81f3e9cc1bedd2668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":1343678493,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1343678493,
+    "wof:lastmodified":1536929793,
+    "wof:name":"Pasali",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34081,
+    36.7628,
+    29.34081,
+    36.7628
+],
+  "geometry": {"coordinates":[29.34081,36.7628],"type":"Point"}
+}

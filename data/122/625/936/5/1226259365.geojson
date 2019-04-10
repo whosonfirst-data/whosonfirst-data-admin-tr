@@ -1,0 +1,67 @@
+{
+  "id": 1226259365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.5525,38.87917,27.5525,38.87917",
+    "geom:latitude":38.87917,
+    "geom:longitude":27.5525,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Seyitoba",
+    "gn:country_code":"TR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300913,
+    "gn:latitude":38.87917,
+    "gn:longitude":27.5525,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Seyitoba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300913
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"27b8eb9f55103c536e4ebcaca38e7284",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709861,
+            "locality_id":1226259365,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1226259365,
+    "wof:lastmodified":1536914466,
+    "wof:name":"Seyitoba",
+    "wof:parent_id":1108709861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.5525,
+    38.87917,
+    27.5525,
+    38.87917
+],
+  "geometry": {"coordinates":[27.5525,38.87917],"type":"Point"}
+}

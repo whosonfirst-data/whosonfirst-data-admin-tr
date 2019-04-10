@@ -1,0 +1,64 @@
+{
+  "id": 1209231455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.26638,36.96927,40.26638,36.96927",
+    "geom:latitude":36.96927,
+    "geom:longitude":40.26638,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Besik",
+    "gn:country_code":"TR",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012281,
+    "gn:latitude":36.96927,
+    "gn:longitude":40.26638,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Be\u015fik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Be\u015fik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012281
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"01c5743d68ad23c6fe161fd8adb98c04",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209231455
+        }
+    ],
+    "wof:id":1209231455,
+    "wof:lastmodified":1537708204,
+    "wof:name":"Besik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.26638,
+    36.96927,
+    40.26638,
+    36.96927
+],
+  "geometry": {"coordinates":[40.26638,36.96927],"type":"Point"}
+}

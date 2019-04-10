@@ -1,0 +1,74 @@
+{
+  "id": 890461469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28556,38.2125,39.28556,38.2125",
+    "geom:latitude":38.2125,
+    "geom:longitude":39.28556,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":5103,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "C\u00fcng\u00fc\u00e7"
+    ],
+    "qs:name":"\u00c7ungu\u015f",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Diyarbak\u0131r",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317837,
+        "gp:id":29390246,
+        "qs:id":1169456
+    },
+    "wof:country":"TR",
+    "wof:created":1469053353,
+    "wof:geomhash":"7c51f88545823333511b107b9ff898c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461469,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890461469,
+    "wof:lastmodified":1505343686,
+    "wof:name":"\u00c7ungu\u015f",
+    "wof:parent_id":85679395,
+    "wof:placetype":"county",
+    "wof:population":5103,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28556,
+    38.2125,
+    39.28556,
+    38.2125
+],
+  "geometry": {"coordinates":[39.28556,38.2125],"type":"Point"}
+}

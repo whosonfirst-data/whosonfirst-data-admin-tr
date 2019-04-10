@@ -1,0 +1,67 @@
+{
+  "id": 1259709361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5,39.8,29.5,39.8",
+    "geom:latitude":39.8,
+    "geom:longitude":29.5,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Aygirlar",
+    "gn:country_code":"TR",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322764,
+    "gn:latitude":39.8,
+    "gn:longitude":29.5,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ayg\u0131rlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc4cb29b6b9974a402b3db42557d8f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709455,
+            "locality_id":1259709361,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1259709361,
+    "wof:lastmodified":1537028608,
+    "wof:name":"Aygirlar",
+    "wof:parent_id":1108709455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5,
+    39.8,
+    29.5,
+    39.8
+],
+  "geometry": {"coordinates":[29.5,39.8],"type":"Point"}
+}

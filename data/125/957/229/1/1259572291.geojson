@@ -1,0 +1,71 @@
+{
+  "id": 1259572291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84415,37.51089,27.84415,37.51089",
+    "geom:latitude":37.51089,
+    "geom:longitude":27.84415,
+    "gn:admin1_code":"09",
+    "gn:admin2_code":"8632392",
+    "gn:asciiname":"Ovapinari",
+    "gn:country_code":"TR",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10189981,
+    "gn:latitude":37.51089,
+    "gn:longitude":27.84415,
+    "gn:modification_date":"2017-12-03",
+    "gn:name":"Ovap\u0131nar\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ovap\u0131nar\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10189981
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6187950b1df485c21ab3561d74a8296e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709635,
+            "locality_id":1259572291,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1259572291,
+    "wof:lastmodified":1537708353,
+    "wof:name":"Ovapinari",
+    "wof:parent_id":1108709635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84415,
+    37.51089,
+    27.84415,
+    37.51089
+],
+  "geometry": {"coordinates":[27.84415,37.51089],"type":"Point"}
+}

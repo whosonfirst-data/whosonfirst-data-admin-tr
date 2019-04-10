@@ -1,0 +1,67 @@
+{
+  "id": 1360302175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74619,41.50668,35.74619,41.50668",
+    "geom:latitude":41.50668,
+    "geom:longitude":35.74619,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Keresteci",
+    "gn:country_code":"TR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7735615,
+    "gn:latitude":41.50668,
+    "gn:longitude":35.74619,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Keresteci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7735615
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4236b0c711b243a745a31c87f7d0f599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709339,
+            "locality_id":1360302175,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1360302175,
+    "wof:lastmodified":1536630888,
+    "wof:name":"Keresteci",
+    "wof:parent_id":1108709339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74619000000001,
+    41.50668,
+    35.74619000000001,
+    41.50668
+],
+  "geometry": {"coordinates":[35.74619000000001,41.50668],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1192987439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.66667,38.15,40.66667,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":40.66667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Asagi Aviak",
+    "gn:country_code":"TR",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296422,
+    "gn:latitude":38.15,
+    "gn:longitude":40.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u015fa\u011f\u0131 Av\u0131ak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fenteri\u00fclya",
+        "Yukar\u0131feyinter",
+        "A\u015fa\u011f\u0131 Av\u0131ak",
+        "Yukar\u0131 Fenter"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296422
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7c5a09ef541f4a6f363a8e6450139959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709585,
+            "locality_id":1192987439,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1192987439,
+    "wof:lastmodified":1537706568,
+    "wof:name":"Asagi Aviak",
+    "wof:parent_id":1108709585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.66667,
+    38.15,
+    40.66667,
+    38.15
+],
+  "geometry": {"coordinates":[40.66667,38.15],"type":"Point"}
+}

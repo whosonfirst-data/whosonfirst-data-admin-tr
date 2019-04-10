@@ -1,0 +1,69 @@
+{
+  "id": 890459939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.60389,36.9625,37.60389,36.9625",
+    "geom:latitude":36.9625,
+    "geom:longitude":37.60389,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":231,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Divekli"
+    ],
+    "qs:name":"Direkli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316597,
+        "gp:id":2344294,
+        "qs:id":80108
+    },
+    "wof:country":"TR",
+    "wof:created":1469053293,
+    "wof:geomhash":"c6f496ecdf0a5ab6e518a62a6fdbfbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709769,
+            "locality_id":890459939,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":890459939,
+    "wof:lastmodified":1505343679,
+    "wof:name":"Direkli",
+    "wof:parent_id":1108709769,
+    "wof:placetype":"locality",
+    "wof:population":231,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.60389,
+    36.9625,
+    37.60389,
+    36.9625
+],
+  "geometry": {"coordinates":[37.60389,36.9625],"type":"Point"}
+}

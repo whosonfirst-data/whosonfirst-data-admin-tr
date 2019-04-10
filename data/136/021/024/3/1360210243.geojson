@@ -1,0 +1,70 @@
+{
+  "id": 1360210243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.64598,37.42824,40.64598,37.42824",
+    "geom:latitude":37.42824,
+    "geom:longitude":40.64598,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Besevler",
+    "gn:country_code":"TR",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010357,
+    "gn:latitude":37.42824,
+    "gn:longitude":40.64598,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Be\u015fevler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Be\u015fevler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010357
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4d9fd1f6744f9cf43361826fc61f740f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463121,
+            "locality_id":1360210243,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1360210243,
+    "wof:lastmodified":1537708202,
+    "wof:name":"Besevler",
+    "wof:parent_id":890463121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.64598,
+    37.42824,
+    40.64598,
+    37.42824
+],
+  "geometry": {"coordinates":[40.64598,37.42824],"type":"Point"}
+}

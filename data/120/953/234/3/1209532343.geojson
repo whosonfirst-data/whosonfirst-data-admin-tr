@@ -1,0 +1,65 @@
+{
+  "id": 1209532343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.04766,41.01507,41.04766,41.01507",
+    "geom:latitude":41.01507,
+    "geom:longitude":41.04766,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Kaplica",
+    "gn:country_code":"TR",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745535,
+    "gn:latitude":41.01507,
+    "gn:longitude":41.04766,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Kapl\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kapl\u0131ca",
+        "Hol\u00e7o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745535
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8882388ab3a05b2666d78c837338525a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532343
+        }
+    ],
+    "wof:id":1209532343,
+    "wof:lastmodified":1537707894,
+    "wof:name":"Kaplica",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.04766,
+    41.01507,
+    41.04766,
+    41.01507
+],
+  "geometry": {"coordinates":[41.04766,41.01507],"type":"Point"}
+}

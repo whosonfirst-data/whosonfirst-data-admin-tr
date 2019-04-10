@@ -1,0 +1,67 @@
+{
+  "id": 1292929491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.79167,39.86833,32.79167,39.86833",
+    "geom:latitude":39.86833,
+    "geom:longitude":32.79167,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Yalincak",
+    "gn:country_code":"TR",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297825,
+    "gn:latitude":39.86833,
+    "gn:longitude":32.79167,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Yalincak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890462517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297825
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"797a591c279dec15cb7dac9c629a546b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462517,
+            "locality_id":1292929491,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1292929491,
+    "wof:lastmodified":1537091382,
+    "wof:name":"Yalincak",
+    "wof:parent_id":890462517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.79167,
+    39.86833,
+    32.79167,
+    39.86833
+],
+  "geometry": {"coordinates":[32.79167,39.86833],"type":"Point"}
+}

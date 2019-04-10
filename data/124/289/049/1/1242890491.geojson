@@ -1,0 +1,70 @@
+{
+  "id": 1242890491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79467,38.95306,39.79467,38.95306",
+    "geom:latitude":38.95306,
+    "geom:longitude":39.79467,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Ozdek",
+    "gn:country_code":"TR",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302994,
+    "gn:latitude":38.95306,
+    "gn:longitude":39.79467,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u00d6zdek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6zdek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302994
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2024d32484c97c5611eeb882dfa178e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709715,
+            "locality_id":1242890491,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1242890491,
+    "wof:lastmodified":1537706792,
+    "wof:name":"Ozdek",
+    "wof:parent_id":1108709715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79467,
+    38.95306,
+    39.79467,
+    38.95306
+],
+  "geometry": {"coordinates":[39.79467,38.95306],"type":"Point"}
+}

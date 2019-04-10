@@ -1,0 +1,73 @@
+{
+  "id": 1242761415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.85771,38.21618,41.85771,38.21618",
+    "geom:latitude":38.21618,
+    "geom:longitude":41.85771,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Alanici",
+    "gn:country_code":"TR",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308100,
+    "gn:latitude":38.21618,
+    "gn:longitude":41.85771,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Alani\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alani\u00e7i"
+    ],
+    "name:und_x_variant":[
+        "Kermate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890460679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308100
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"20aad2390e5a60c95b6ca52e70a6cc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460679,
+            "locality_id":1242761415,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1242761415,
+    "wof:lastmodified":1537706959,
+    "wof:name":"Alanici",
+    "wof:parent_id":890460679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.85771,
+    38.21618,
+    41.85771,
+    38.21618
+],
+  "geometry": {"coordinates":[41.85771,38.21618],"type":"Point"}
+}

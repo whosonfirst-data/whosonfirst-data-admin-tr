@@ -1,0 +1,65 @@
+{
+  "id": 1209473481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58564,38.15957,39.58564,38.15957",
+    "geom:latitude":38.15957,
+    "geom:longitude":39.58564,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kayagedigi",
+    "gn:country_code":"TR",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303788,
+    "gn:latitude":38.15957,
+    "gn:longitude":39.58564,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kayagedi\u011fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayagedi\u011fi",
+        "Nohutlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303788
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7d0767e082d7c406235041ffeff65245",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209473481
+        }
+    ],
+    "wof:id":1209473481,
+    "wof:lastmodified":1537706818,
+    "wof:name":"Kayagedigi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58564000000001,
+    38.15957,
+    39.58564000000001,
+    38.15957
+],
+  "geometry": {"coordinates":[39.58564000000001,38.15957],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277134241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80294,39.76176,38.80294,39.76176",
+    "geom:latitude":39.76176,
+    "geom:longitude":38.80294,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Babaarslan",
+    "gn:country_code":"TR",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323864,
+    "gn:latitude":39.76176,
+    "gn:longitude":38.80294,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Babaarslan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Babaarslan"
+    ],
+    "name:und_x_variant":[
+        "Amadon",
+        "Amadan",
+        "Amadun",
+        "Babaslan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890461693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323864
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0048c20b785d7ef436b9c2f0acabebb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461693,
+            "locality_id":1277134241,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1277134241,
+    "wof:lastmodified":1537707462,
+    "wof:name":"Babaarslan",
+    "wof:parent_id":890461693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80294,
+    39.76176,
+    38.80294,
+    39.76176
+],
+  "geometry": {"coordinates":[38.80294,39.76176],"type":"Point"}
+}

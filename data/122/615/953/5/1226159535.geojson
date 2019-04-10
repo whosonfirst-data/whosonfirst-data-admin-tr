@@ -1,0 +1,70 @@
+{
+  "id": 1226159535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.29867,39.24529,41.29867,39.24529",
+    "geom:latitude":39.24529,
+    "geom:longitude":41.29867,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Guzelkent",
+    "gn:country_code":"TR",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986464,
+    "gn:latitude":39.24529,
+    "gn:longitude":41.29867,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"G\u00fczelkent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fczelkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        1108709959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986464
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82cd102babada4730bc810117aa16b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709959,
+            "locality_id":1226159535,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1226159535,
+    "wof:lastmodified":1537708196,
+    "wof:name":"Guzelkent",
+    "wof:parent_id":1108709959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.29867,
+    39.24529,
+    41.29867,
+    39.24529
+],
+  "geometry": {"coordinates":[41.29867,39.24529],"type":"Point"}
+}

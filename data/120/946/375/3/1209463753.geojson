@@ -1,0 +1,64 @@
+{
+  "id": 1209463753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38736,36.80998,34.38736,36.80998",
+    "geom:latitude":36.80998,
+    "geom:longitude":34.38736,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Tolkoy",
+    "gn:country_code":"TR",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10631601,
+    "gn:latitude":36.80998,
+    "gn:longitude":34.38736,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"Tolk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tolk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10631601
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2db6e58a54a318369794e6a26532f615",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209463753
+        }
+    ],
+    "wof:id":1209463753,
+    "wof:lastmodified":1537708385,
+    "wof:name":"Tolkoy",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38736,
+    36.80998,
+    34.38736,
+    36.80998
+],
+  "geometry": {"coordinates":[34.38736,36.80998],"type":"Point"}
+}

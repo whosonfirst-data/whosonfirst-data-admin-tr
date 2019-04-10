@@ -1,0 +1,73 @@
+{
+  "id": 1343787415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85328,37.22363,39.85328,37.22363",
+    "geom:latitude":37.22363,
+    "geom:longitude":39.85328,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Kermi",
+    "gn:country_code":"TR",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305919,
+    "gn:latitude":37.22363,
+    "gn:longitude":39.85328,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kermi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "An\u0131t"
+    ],
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fck Kermi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305919
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"08c0ca37df5a9a4f59f78ba70901950b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461923,
+            "locality_id":1343787415,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1343787415,
+    "wof:lastmodified":1537706889,
+    "wof:name":"Kermi",
+    "wof:parent_id":890461923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85328,
+    37.22363,
+    39.85328,
+    37.22363
+],
+  "geometry": {"coordinates":[39.85328,37.22363],"type":"Point"}
+}

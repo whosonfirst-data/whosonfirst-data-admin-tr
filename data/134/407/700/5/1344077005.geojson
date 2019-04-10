@@ -1,0 +1,73 @@
+{
+  "id": 1344077005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42083,36.57361,30.42083,36.57361",
+    "geom:latitude":36.57361,
+    "geom:longitude":30.42083,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yaylakuzdere",
+    "gn:country_code":"TR",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297437,
+    "gn:latitude":36.57361,
+    "gn:longitude":30.42083,
+    "gn:modification_date":"2014-06-05",
+    "gn:name":"Yaylakuzdere",
+    "gn:population":300,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u0439\u043b\u0430 \u041a\u0443\u0437\u0434\u0440\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297437
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"253bdfe71858df551afe4a7765490682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463099,
+            "locality_id":1344077005,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1344077005,
+    "wof:lastmodified":1537557221,
+    "wof:name":"Yaylakuzdere",
+    "wof:parent_id":890463099,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42083,
+    36.57361,
+    30.42083,
+    36.57361
+],
+  "geometry": {"coordinates":[30.42083,36.57361],"type":"Point"}
+}

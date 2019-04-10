@@ -1,0 +1,71 @@
+{
+  "id": 1310513299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1,37.93333,38.1,37.93333",
+    "geom:latitude":37.93333,
+    "geom:longitude":38.1,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kelomer",
+    "gn:country_code":"TR",
+    "gn:dem":1360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308092,
+    "gn:latitude":37.93333,
+    "gn:longitude":38.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kel\u00f6mer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kel\u00f6mer",
+        "Kerome"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890460579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308092
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"10be9cdfe2bcd64ee7b183b23ee7e17c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460579,
+            "locality_id":1310513299,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1310513299,
+    "wof:lastmodified":1537706958,
+    "wof:name":"Kelomer",
+    "wof:parent_id":890460579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1,
+    37.93333,
+    38.1,
+    37.93333
+],
+  "geometry": {"coordinates":[38.1,37.93333],"type":"Point"}
+}

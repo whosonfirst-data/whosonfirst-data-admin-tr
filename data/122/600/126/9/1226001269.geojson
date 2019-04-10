@@ -1,0 +1,67 @@
+{
+  "id": 1226001269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.81667,38.03333,39.81667,38.03333",
+    "geom:latitude":38.03333,
+    "geom:longitude":39.81667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Konder",
+    "gn:country_code":"TR",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306605,
+    "gn:latitude":38.03333,
+    "gn:longitude":39.81667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u00f6nder",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306605
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"503aaf74176573bd73197fe4d657c644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709491,
+            "locality_id":1226001269,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1226001269,
+    "wof:lastmodified":1536789835,
+    "wof:name":"Konder",
+    "wof:parent_id":1108709491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.81667,
+    38.03333,
+    39.81667,
+    38.03333
+],
+  "geometry": {"coordinates":[39.81667,38.03333],"type":"Point"}
+}

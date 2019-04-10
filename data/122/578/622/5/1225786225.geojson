@@ -1,0 +1,72 @@
+{
+  "id": 1225786225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31528,37.87417,30.31528,37.87417",
+    "geom:latitude":37.87417,
+    "geom:longitude":30.31528,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Kilic",
+    "gn:country_code":"TR",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307871,
+    "gn:latitude":37.87417,
+    "gn:longitude":30.31528,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"K\u0131l\u0131\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131l\u0131\u00e7",
+        "K\u0131l\u0131n\u00e7k\u00f6y",
+        "K\u0131l\u0131n\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890460131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307871
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ddaf593a223ffa6b2a5a0ead80ad3c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460131,
+            "locality_id":1225786225,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":1225786225,
+    "wof:lastmodified":1537706951,
+    "wof:name":"Kilic",
+    "wof:parent_id":890460131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31528,
+    37.87417,
+    30.31528,
+    37.87417
+],
+  "geometry": {"coordinates":[30.31528,37.87417],"type":"Point"}
+}

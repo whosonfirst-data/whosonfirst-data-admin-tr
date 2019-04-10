@@ -1,0 +1,65 @@
+{
+  "id": 1209331275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.32098,41.90717,34.32098,41.90717",
+    "geom:latitude":41.90717,
+    "geom:longitude":34.32098,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Yaprakli",
+    "gn:country_code":"TR",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737978,
+    "gn:latitude":41.90717,
+    "gn:longitude":34.32098,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yaprakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolla",
+        "Yaprakl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737978
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"828698c902cb31dc0901292a54adea92",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331275
+        }
+    ],
+    "wof:id":1209331275,
+    "wof:lastmodified":1537707648,
+    "wof:name":"Yaprakli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.32098,
+    41.90717,
+    34.32098,
+    41.90717
+],
+  "geometry": {"coordinates":[34.32098,41.90717],"type":"Point"}
+}

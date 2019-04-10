@@ -1,0 +1,71 @@
+{
+  "id": 1243287529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.06913,38.99012,38.06913,38.99012",
+    "geom:latitude":38.99012,
+    "geom:longitude":38.06913,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Sazlica",
+    "gn:country_code":"TR",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301383,
+    "gn:latitude":38.99012,
+    "gn:longitude":38.06913,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Sazl\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yukar\u0131sazl\u0131ca",
+        "Sazl\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        890463221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301383
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bab713e617f80bb5c2a4fb29dae7e494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463221,
+            "locality_id":1243287529,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1243287529,
+    "wof:lastmodified":1537706741,
+    "wof:name":"Sazlica",
+    "wof:parent_id":890463221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.06913,
+    38.99012000000001,
+    38.06913,
+    38.99012000000001
+],
+  "geometry": {"coordinates":[38.06913,38.99012000000001],"type":"Point"}
+}

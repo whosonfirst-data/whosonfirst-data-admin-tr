@@ -1,0 +1,73 @@
+{
+  "id": 890464431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03,40.63,29.03,40.63",
+    "geom:latitude":40.63,
+    "geom:longitude":29.03,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":1137,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "A\u015fag\u0131 Kocadere"
+    ],
+    "qs:name":"Koca Dede",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85679529,
+        85632393,
+        890463063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742875,
+        "gp:id":22723995,
+        "qs:id":56036
+    },
+    "wof:country":"TR",
+    "wof:created":1469053473,
+    "wof:geomhash":"f7b872a11ee7270429808f3ac1199657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463063,
+            "neighbourhood_id":890464431,
+            "region_id":85679529
+        }
+    ],
+    "wof:id":890464431,
+    "wof:lastmodified":1505343698,
+    "wof:name":"Koca Dede",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":1137,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03,
+    40.63,
+    29.03,
+    40.63
+],
+  "geometry": {"coordinates":[29.03,40.63],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327046693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.932,41.3323,26.932,41.3323",
+    "geom:latitude":41.3323,
+    "geom:longitude":26.932,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Akarca",
+    "gn:country_code":"TR",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752668,
+    "gn:latitude":41.3323,
+    "gn:longitude":26.932,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Akarca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679219,
+        1108709813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752668
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b571b201453ab8d31ccd2d8ada9ee52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709813,
+            "locality_id":1327046693,
+            "region_id":85679219
+        }
+    ],
+    "wof:id":1327046693,
+    "wof:lastmodified":1537708149,
+    "wof:name":"Akarca",
+    "wof:parent_id":1108709813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.932,
+    41.3323,
+    26.932,
+    41.3323
+],
+  "geometry": {"coordinates":[26.932,41.3323],"type":"Point"}
+}

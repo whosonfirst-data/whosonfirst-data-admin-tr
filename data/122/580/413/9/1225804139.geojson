@@ -1,0 +1,70 @@
+{
+  "id": 1225804139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78445,37.72253,29.78445,37.72253",
+    "geom:latitude":37.72253,
+    "geom:longitude":29.78445,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Golcuk",
+    "gn:country_code":"TR",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314114,
+    "gn:latitude":37.72253,
+    "gn:longitude":29.78445,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"G\u00f6lc\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00f6lc\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        890462113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314114
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ea297445abc50b8a819edc8543f4169c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462113,
+            "locality_id":1225804139,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1225804139,
+    "wof:lastmodified":1537707146,
+    "wof:name":"Golcuk",
+    "wof:parent_id":890462113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78445,
+    37.72253,
+    29.78445,
+    37.72253
+],
+  "geometry": {"coordinates":[29.78445,37.72253],"type":"Point"}
+}

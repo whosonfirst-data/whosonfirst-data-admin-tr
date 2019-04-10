@@ -1,0 +1,73 @@
+{
+  "id": 1260035893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.23284,39.16418,40.23284,39.16418",
+    "geom:latitude":39.16418,
+    "geom:longitude":40.23284,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kusbayiri",
+    "gn:country_code":"TR",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318927,
+    "gn:latitude":39.16418,
+    "gn:longitude":40.23284,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ku\u015fbay\u0131r\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ku\u015fbay\u0131r\u0131"
+    ],
+    "name:und_x_variant":[
+        "Ku\u015fbay\u0131r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318927
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"63d236f87fa364bbfed9c3eab2173fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462281,
+            "locality_id":1260035893,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1260035893,
+    "wof:lastmodified":1537707300,
+    "wof:name":"Kusbayiri",
+    "wof:parent_id":890462281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.23284,
+    39.16418,
+    40.23284,
+    39.16418
+],
+  "geometry": {"coordinates":[40.23284,39.16418],"type":"Point"}
+}

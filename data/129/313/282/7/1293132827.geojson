@@ -1,0 +1,70 @@
+{
+  "id": 1293132827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.27824,39.95388,43.27824,39.95388",
+    "geom:latitude":39.95388,
+    "geom:longitude":43.27824,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Asagikent",
+    "gn:country_code":"TR",
+    "gn:dem":2112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323291,
+    "gn:latitude":39.95388,
+    "gn:longitude":43.27824,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u015fa\u011f\u0131kent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131kent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        890463323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323291
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"18556dc61c05068c43483b5d25132fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463323,
+            "locality_id":1293132827,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1293132827,
+    "wof:lastmodified":1537707441,
+    "wof:name":"Asagikent",
+    "wof:parent_id":890463323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.27824,
+    39.95388,
+    43.27824,
+    39.95388
+],
+  "geometry": {"coordinates":[43.27824,39.95388],"type":"Point"}
+}

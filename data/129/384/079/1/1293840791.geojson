@@ -1,0 +1,71 @@
+{
+  "id": 1293840791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.49866,39.99927,41.49866,39.99927",
+    "geom:latitude":39.99927,
+    "geom:longitude":41.49866,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Golcegiz",
+    "gn:country_code":"TR",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314123,
+    "gn:latitude":39.99927,
+    "gn:longitude":41.49866,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6lce\u011fiz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6lcigez",
+        "G\u00f6lce\u011fiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314123
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"29d0829873aae209c30909111731e1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709803,
+            "locality_id":1293840791,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1293840791,
+    "wof:lastmodified":1537707146,
+    "wof:name":"Golcegiz",
+    "wof:parent_id":1108709803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.49866,
+    39.99927,
+    41.49866,
+    39.99927
+],
+  "geometry": {"coordinates":[41.49866,39.99927],"type":"Point"}
+}

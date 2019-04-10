@@ -1,0 +1,76 @@
+{
+  "id": 890464181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.99667,41.11444,28.99667,41.11444",
+    "geom:latitude":41.11444,
+    "geom:longitude":28.99667,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ayaza\u011fa"
+    ],
+    "qs:name":"Ayazaga",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912651,
+        890461743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":857239,
+        "gp:id":55870741,
+        "qs:id":207633
+    },
+    "wof:country":"TR",
+    "wof:created":1469053463,
+    "wof:geomhash":"565fc82cb7fe14cf204ba18f325c11b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461743,
+            "locality_id":101912651,
+            "neighbourhood_id":890464181,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890464181,
+    "wof:lastmodified":1534379466,
+    "wof:name":"Ayazaga",
+    "wof:parent_id":101912651,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108950171
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.99667,
+    41.11444,
+    28.99667,
+    41.11444
+],
+  "geometry": {"coordinates":[28.99667,41.11444],"type":"Point"}
+}

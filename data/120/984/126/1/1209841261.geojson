@@ -1,0 +1,70 @@
+{
+  "id": 1209841261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12619,36.46201,29.12619,36.46201",
+    "geom:latitude":36.46201,
+    "geom:longitude":29.12619,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Kabak",
+    "gn:country_code":"TR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10248834,
+    "gn:latitude":36.46201,
+    "gn:longitude":29.12619,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Kabak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kabak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10248834
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7e1d76db90f2c156c597f277ceb00634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":1209841261,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1209841261,
+    "wof:lastmodified":1537708361,
+    "wof:name":"Kabak",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12619,
+    36.46201,
+    29.12619,
+    36.46201
+],
+  "geometry": {"coordinates":[29.12619,36.46201],"type":"Point"}
+}

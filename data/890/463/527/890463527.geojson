@@ -1,0 +1,73 @@
+{
+  "id": 890463527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20111,41.80361,35.20111,41.80361",
+    "geom:latitude":41.80361,
+    "geom:longitude":35.20111,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":11260,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Carusa"
+    ],
+    "qs:name":"Gerze",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Sinop",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":14,
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746913,
+        "gp:id":29390351,
+        "qs:id":337318,
+        "wd:id":"Q1211890",
+        "wk:page":"Gerze"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053433,
+    "wof:geomhash":"80879b4fcfdedbb74cb18b75e6d24006",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "county_id":890463527
+        }
+    ],
+    "wof:id":890463527,
+    "wof:lastmodified":1527729761,
+    "wof:name":"Gerze",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":11260,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20111,
+    41.80361,
+    35.20111,
+    41.80361
+],
+  "geometry": {"coordinates":[35.20111,41.80361],"type":"Point"}
+}

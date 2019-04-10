@@ -1,0 +1,73 @@
+{
+  "id": 1260227819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.53552,40.83573,38.53552,40.83573",
+    "geom:latitude":40.83573,
+    "geom:longitude":38.53552,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Unaca",
+    "gn:country_code":"TR",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7569477,
+    "gn:latitude":40.83573,
+    "gn:longitude":38.53552,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Unaca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Unaca"
+    ],
+    "name:und_x_variant":[
+        "Unuca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890463721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7569477
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"918da0d5cef733707cb6e37e4d48aa11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463721,
+            "locality_id":1260227819,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1260227819,
+    "wof:lastmodified":1537708245,
+    "wof:name":"Unaca",
+    "wof:parent_id":890463721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.53552,
+    40.83573,
+    38.53552,
+    40.83573
+],
+  "geometry": {"coordinates":[38.53552,40.83573],"type":"Point"}
+}

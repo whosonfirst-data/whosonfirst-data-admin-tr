@@ -1,0 +1,67 @@
+{
+  "id": 1226367293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78222,37.87139,41.78222,37.87139",
+    "geom:latitude":37.87139,
+    "geom:longitude":41.78222,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Kelekazan",
+    "gn:country_code":"TR",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":440605,
+    "gn:latitude":37.87139,
+    "gn:longitude":41.78222,
+    "gn:modification_date":"2005-05-31",
+    "gn:name":"Kelekazan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":440605
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"258dc9f46d8b653a881ced2cc5899e30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709683,
+            "locality_id":1226367293,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1226367293,
+    "wof:lastmodified":1536758689,
+    "wof:name":"Kelekazan",
+    "wof:parent_id":1108709683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78222,
+    37.87139000000001,
+    41.78222,
+    37.87139000000001
+],
+  "geometry": {"coordinates":[41.78222,37.87139000000001],"type":"Point"}
+}

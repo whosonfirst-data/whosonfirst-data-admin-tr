@@ -1,0 +1,64 @@
+{
+  "id": 1209331285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.09852,36.71274,39.09852,36.71274",
+    "geom:latitude":36.71274,
+    "geom:longitude":39.09852,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Yazlica",
+    "gn:country_code":"TR",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539624,
+    "gn:latitude":36.71274,
+    "gn:longitude":39.09852,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Yazl\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yazl\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539624
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"017b6404927579f778e944efdada0c65",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331285
+        }
+    ],
+    "wof:id":1209331285,
+    "wof:lastmodified":1537708229,
+    "wof:name":"Yazlica",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.09852,
+    36.71274,
+    39.09852,
+    36.71274
+],
+  "geometry": {"coordinates":[39.09852,36.71274],"type":"Point"}
+}

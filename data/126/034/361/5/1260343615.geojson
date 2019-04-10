@@ -1,0 +1,67 @@
+{
+  "id": 1260343615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.46667,40.68333,42.46667,40.68333",
+    "geom:latitude":40.68333,
+    "geom:longitude":42.46667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ildir",
+    "gn:country_code":"TR",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745349,
+    "gn:latitude":40.68333,
+    "gn:longitude":42.46667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ild\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745349
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"73f477dbc5f75b70b939fd6c239fcd9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709201,
+            "locality_id":1260343615,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1260343615,
+    "wof:lastmodified":1536629945,
+    "wof:name":"Ildir",
+    "wof:parent_id":1108709201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.46667,
+    40.68333,
+    42.46667,
+    40.68333
+],
+  "geometry": {"coordinates":[42.46667,40.68333],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209219605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.84459,39.66776,43.84459,39.66776",
+    "geom:latitude":39.66776,
+    "geom:longitude":43.84459,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dalbahce",
+    "gn:country_code":"TR",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317714,
+    "gn:latitude":39.66776,
+    "gn:longitude":43.84459,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dalbah\u00e7e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dalbah\u00e7e",
+        "Korum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317714
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d7bac665c850c87f91b9fa15c6766864",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209219605
+        }
+    ],
+    "wof:id":1209219605,
+    "wof:lastmodified":1537707259,
+    "wof:name":"Dalbahce",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.84459,
+    39.66776,
+    43.84459,
+    39.66776
+],
+  "geometry": {"coordinates":[43.84459,39.66776],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293414523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.59975,40.97422,39.59975,40.97422",
+    "geom:latitude":40.97422,
+    "geom:longitude":39.59975,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Demirtas",
+    "gn:country_code":"TR",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747172,
+    "gn:latitude":40.97422,
+    "gn:longitude":39.59975,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Demirta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demirta\u015f",
+        "Fakalanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890460805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747172
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7e84bdf5aaeeea4de26e0926bf8f5530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460805,
+            "locality_id":1293414523,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1293414523,
+    "wof:lastmodified":1537707951,
+    "wof:name":"Demirtas",
+    "wof:parent_id":890460805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.59975,
+    40.97422,
+    39.59975,
+    40.97422
+],
+  "geometry": {"coordinates":[39.59975,40.97422],"type":"Point"}
+}

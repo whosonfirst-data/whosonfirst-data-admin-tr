@@ -1,0 +1,65 @@
+{
+  "id": 1209684639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.00967,38.41074,41.00967,38.41074",
+    "geom:latitude":38.41074,
+    "geom:longitude":41.00967,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Cay",
+    "gn:country_code":"TR",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300818,
+    "gn:latitude":38.41074,
+    "gn:longitude":41.00967,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7ay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ay",
+        "\u015eikeftiyankomu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300818
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b38a73b7b3877f6989ee204173c57812",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209684639
+        }
+    ],
+    "wof:id":1209684639,
+    "wof:lastmodified":1537706719,
+    "wof:name":"Cay",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.00967,
+    38.41074,
+    41.00967,
+    38.41074
+],
+  "geometry": {"coordinates":[41.00967,38.41074],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242848579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.77103,37.99324,28.77103,37.99324",
+    "geom:latitude":37.99324,
+    "geom:longitude":28.77103,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Catak",
+    "gn:country_code":"TR",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319347,
+    "gn:latitude":37.99324,
+    "gn:longitude":28.77103,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u00c7atak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108709407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319347
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4107ea3d5a238f01788fe0a7ee6a9cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709407,
+            "locality_id":1242848579,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1242848579,
+    "wof:lastmodified":1536673383,
+    "wof:name":"Catak",
+    "wof:parent_id":1108709407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77103,
+    37.99324,
+    28.77103,
+    37.99324
+],
+  "geometry": {"coordinates":[28.77103,37.99324],"type":"Point"}
+}

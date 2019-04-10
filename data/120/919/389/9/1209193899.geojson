@@ -1,0 +1,66 @@
+{
+  "id": 1209193899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.98492,39.37092,40.98492,39.37092",
+    "geom:latitude":39.37092,
+    "geom:longitude":40.98492,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Dortyol",
+    "gn:country_code":"TR",
+    "gn:dem":1842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318290,
+    "gn:latitude":39.37092,
+    "gn:longitude":40.98492,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"D\u00f6rtyol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurty\u00fcz\u00fc",
+        "D\u00f6rtyol",
+        "\u00c7\u0131tak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318290
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"205ed7e0dfc3ddbcff8a89100116b359",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209193899
+        }
+    ],
+    "wof:id":1209193899,
+    "wof:lastmodified":1537707278,
+    "wof:name":"Dortyol",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.98492,
+    39.37092,
+    40.98492,
+    39.37092
+],
+  "geometry": {"coordinates":[40.98492,39.37092],"type":"Point"}
+}

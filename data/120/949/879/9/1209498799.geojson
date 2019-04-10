@@ -1,0 +1,64 @@
+{
+  "id": 1209498799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.46886,38.17315,42.46886,38.17315",
+    "geom:latitude":38.17315,
+    "geom:longitude":42.46886,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tasevler",
+    "gn:country_code":"TR",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985998,
+    "gn:latitude":38.17315,
+    "gn:longitude":42.46886,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ta\u015fevler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ta\u015fevler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985998
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c018e449396b8dbe51dfc1b84979ed08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209498799
+        }
+    ],
+    "wof:id":1209498799,
+    "wof:lastmodified":1537708189,
+    "wof:name":"Tasevler",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.46886,
+    38.17315,
+    42.46886,
+    38.17315
+],
+  "geometry": {"coordinates":[42.46886,38.17315],"type":"Point"}
+}

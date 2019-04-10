@@ -1,0 +1,77 @@
+{
+  "id": 1209805373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.97718,41.03072,41.97718,41.03072",
+    "geom:latitude":41.03072,
+    "geom:longitude":41.97718,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mesekoy",
+    "gn:country_code":"TR",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741590,
+    "gn:latitude":41.03072,
+    "gn:longitude":41.97718,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Me\u015fek\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Me\u015fek\u00f6y"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0441\u0435\u043a\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Me\u015fe",
+        "Me\u015fek\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890463477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741590
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4c8da2bcdf9e515431dfed2e537b6707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463477,
+            "locality_id":1209805373,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1209805373,
+    "wof:lastmodified":1537707772,
+    "wof:name":"Mesekoy",
+    "wof:parent_id":890463477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.97718,
+    41.03072,
+    41.97718,
+    41.03072
+],
+  "geometry": {"coordinates":[41.97718,41.03072],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242603129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08409,41.35362,36.08409,41.35362",
+    "geom:latitude":41.35362,
+    "geom:longitude":36.08409,
+    "gn:admin1_code":"55",
+    "gn:asciiname":"Kabaduz",
+    "gn:country_code":"TR",
+    "gn:dem":761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10829167,
+    "gn:latitude":41.35362,
+    "gn:longitude":36.08409,
+    "gn:modification_date":"2015-10-07",
+    "gn:name":"Kabad\u00fcz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kabad\u00fcz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10829167
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3ca506972826e9f11231e42a6cc8a7ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709305,
+            "locality_id":1242603129,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1242603129,
+    "wof:lastmodified":1537708394,
+    "wof:name":"Kabaduz",
+    "wof:parent_id":1108709305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08409,
+    41.35362,
+    36.08409,
+    41.35362
+],
+  "geometry": {"coordinates":[36.08409,41.35362],"type":"Point"}
+}

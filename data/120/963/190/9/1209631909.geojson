@@ -1,0 +1,64 @@
+{
+  "id": 1209631909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87577,37.66747,38.87577,37.66747",
+    "geom:latitude":37.66747,
+    "geom:longitude":38.87577,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Kadikent",
+    "gn:country_code":"TR",
+    "gn:dem":602,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11262062,
+    "gn:latitude":37.66747,
+    "gn:longitude":38.87577,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Kad\u0131kent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kad\u0131kent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11262062
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fc7b84a3021969c66260c5745acce348",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209631909
+        }
+    ],
+    "wof:id":1209631909,
+    "wof:lastmodified":1537708409,
+    "wof:name":"Kadikent",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87577,
+    37.66747,
+    38.87577,
+    37.66747
+],
+  "geometry": {"coordinates":[38.87577,37.66747],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209131413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.41529,36.25106,36.41529,36.25106",
+    "geom:latitude":36.25106,
+    "geom:longitude":36.41529,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Harlak",
+    "gn:country_code":"TR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323990,
+    "gn:latitude":36.25106,
+    "gn:longitude":36.41529,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Harlak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alkana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323990
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c645e8cca51841a2232bbde30ae63f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131413
+        }
+    ],
+    "wof:id":1209131413,
+    "wof:lastmodified":1537707467,
+    "wof:name":"Harlak",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.41529,
+    36.25106,
+    36.41529,
+    36.25106
+],
+  "geometry": {"coordinates":[36.41529,36.25106],"type":"Point"}
+}

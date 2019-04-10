@@ -1,0 +1,67 @@
+{
+  "id": 1242573943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.14579,41.12721,42.14579,41.12721",
+    "geom:latitude":41.12721,
+    "geom:longitude":42.14579,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kasikci",
+    "gn:country_code":"TR",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743895,
+    "gn:latitude":41.12721,
+    "gn:longitude":42.14579,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ka\u015f\u0131k\u00e7\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890463477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743895
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b028042b166e66f4f2726062cd9ff26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463477,
+            "locality_id":1242573943,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1242573943,
+    "wof:lastmodified":1537066049,
+    "wof:name":"Kasikci",
+    "wof:parent_id":890463477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.14579000000001,
+    41.12721,
+    42.14579000000001,
+    41.12721
+],
+  "geometry": {"coordinates":[42.14579000000001,41.12721],"type":"Point"}
+}

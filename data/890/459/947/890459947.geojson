@@ -1,0 +1,69 @@
+{
+  "id": 890459947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8,37.76667,30.8,37.76667",
+    "geom:latitude":37.76667,
+    "geom:longitude":30.8,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":2960,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Y\u00fcr\u00fck"
+    ],
+    "qs:name":"Anamas",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890462485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319670,
+        "gp:id":2344114,
+        "qs:id":80114
+    },
+    "wof:country":"TR",
+    "wof:created":1469053294,
+    "wof:geomhash":"bf80d23a515dd22c28ed9a2c3a267374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462485,
+            "locality_id":890459947,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":890459947,
+    "wof:lastmodified":1505343679,
+    "wof:name":"Anamas",
+    "wof:parent_id":890462485,
+    "wof:placetype":"locality",
+    "wof:population":2960,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8,
+    37.76667,
+    30.8,
+    37.76667
+],
+  "geometry": {"coordinates":[30.8,37.76667],"type":"Point"}
+}

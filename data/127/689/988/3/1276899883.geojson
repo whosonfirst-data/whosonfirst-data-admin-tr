@@ -1,0 +1,72 @@
+{
+  "id": 1276899883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.92827,40.85566,39.92827,40.85566",
+    "geom:latitude":40.85566,
+    "geom:longitude":39.92827,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Guneyce",
+    "gn:country_code":"TR",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746326,
+    "gn:latitude":40.85566,
+    "gn:longitude":39.92827,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00fcneyce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zazana",
+        "G\u00fcneyzazana",
+        "G\u00fcneyce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        1108709299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746326
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2ddab349b46a34d6d6e1b9eca79a1514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709299,
+            "locality_id":1276899883,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1276899883,
+    "wof:lastmodified":1537707921,
+    "wof:name":"Guneyce",
+    "wof:parent_id":1108709299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.92827,
+    40.85566,
+    39.92827,
+    40.85566
+],
+  "geometry": {"coordinates":[39.92827,40.85566],"type":"Point"}
+}

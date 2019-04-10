@@ -1,0 +1,70 @@
+{
+  "id": 1293164209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27205,39.67274,26.27205,39.67274",
+    "geom:latitude":39.67274,
+    "geom:longitude":26.27205,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Koseler",
+    "gn:country_code":"TR",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306315,
+    "gn:latitude":39.67274,
+    "gn:longitude":26.27205,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"K\u00f6seler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6seler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890464315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306315
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"364861308372a7db1db5a8ced1d19083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464315,
+            "locality_id":1293164209,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1293164209,
+    "wof:lastmodified":1537706902,
+    "wof:name":"Koseler",
+    "wof:parent_id":890464315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27205,
+    39.67274000000001,
+    26.27205,
+    39.67274000000001
+],
+  "geometry": {"coordinates":[26.27205,39.67274000000001],"type":"Point"}
+}

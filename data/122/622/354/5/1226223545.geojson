@@ -1,0 +1,67 @@
+{
+  "id": 1226223545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.15,39.15,29.15,39.15",
+    "geom:latitude":39.15,
+    "geom:longitude":29.15,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Bekdemir",
+    "gn:country_code":"TR",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321642,
+    "gn:latitude":39.15,
+    "gn:longitude":29.15,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bekdemir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321642
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"15a0b304d75387df8e6add7e5682d3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709885,
+            "locality_id":1226223545,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1226223545,
+    "wof:lastmodified":1536965468,
+    "wof:name":"Bekdemir",
+    "wof:parent_id":1108709885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15,
+    39.15,
+    29.15,
+    39.15
+],
+  "geometry": {"coordinates":[29.15,39.15],"type":"Point"}
+}

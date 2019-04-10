@@ -1,0 +1,67 @@
+{
+  "id": 1259666117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4,37.51667,30.4,37.51667",
+    "geom:latitude":37.51667,
+    "geom:longitude":30.4,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Arvalli",
+    "gn:country_code":"TR",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323492,
+    "gn:latitude":37.51667,
+    "gn:longitude":30.4,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Arvall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679273,
+        1108710057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323492
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2a8b275c39d06e781ff453715e4d0518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710057,
+            "locality_id":1259666117,
+            "region_id":85679273
+        }
+    ],
+    "wof:id":1259666117,
+    "wof:lastmodified":1537088853,
+    "wof:name":"Arvalli",
+    "wof:parent_id":1108710057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4,
+    37.51667,
+    30.4,
+    37.51667
+],
+  "geometry": {"coordinates":[30.4,37.51667],"type":"Point"}
+}

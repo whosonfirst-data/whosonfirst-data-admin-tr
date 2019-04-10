@@ -1,0 +1,71 @@
+{
+  "id": 1343883639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47406,40.02633,43.47406,40.02633",
+    "geom:latitude":40.02633,
+    "geom:longitude":43.47406,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Beyoglu",
+    "gn:country_code":"TR",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750642,
+    "gn:latitude":40.02633,
+    "gn:longitude":43.47406,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Beyo\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirzihan",
+        "Beyo\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750642
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"47b139b12ed0344d273645feec21d4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":1343883639,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1343883639,
+    "wof:lastmodified":1537708075,
+    "wof:name":"Beyoglu",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47406,
+    40.02633,
+    43.47406,
+    40.02633
+],
+  "geometry": {"coordinates":[43.47406,40.02633],"type":"Point"}
+}

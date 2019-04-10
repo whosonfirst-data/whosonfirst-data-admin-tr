@@ -1,0 +1,74 @@
+{
+  "id": 1360025569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.87144,38.11367,27.87144,38.11367",
+    "geom:latitude":38.11367,
+    "geom:longitude":27.87144,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Gokcen",
+    "gn:country_code":"TR",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":314302,
+    "gn:latitude":38.11367,
+    "gn:longitude":27.87144,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"G\u00f6k\u00e7en",
+    "gn:population":2499,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6k\u00e7en"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890462119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314302,
+        "wk:page":"G%C3%B6k%C3%A7en%2C_%C4%B0zmir"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"261a7bccbdabaced3c50dd8d2d1dc693",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462119,
+            "locality_id":1360025569,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1360025569,
+    "wof:lastmodified":1537707151,
+    "wof:name":"Gokcen",
+    "wof:parent_id":890462119,
+    "wof:placetype":"locality",
+    "wof:population":2499,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.87144,
+    38.11367,
+    27.87144,
+    38.11367
+],
+  "geometry": {"coordinates":[27.87144,38.11367],"type":"Point"}
+}

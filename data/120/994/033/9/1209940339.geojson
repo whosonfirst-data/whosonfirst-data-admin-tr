@@ -1,0 +1,67 @@
+{
+  "id": 1209940339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.56306,36.23972,36.56306,36.23972",
+    "geom:latitude":36.23972,
+    "geom:longitude":36.56306,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Baraka",
+    "gn:country_code":"TR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438364,
+    "gn:latitude":36.23972,
+    "gn:longitude":36.56306,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Baraka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890462851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438364
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d1757a50d3aac130651b3574d29138fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462851,
+            "locality_id":1209940339,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1209940339,
+    "wof:lastmodified":1536388767,
+    "wof:name":"Baraka",
+    "wof:parent_id":890462851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.56306,
+    36.23972,
+    36.56306,
+    36.23972
+],
+  "geometry": {"coordinates":[36.56306,36.23972],"type":"Point"}
+}

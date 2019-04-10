@@ -1,0 +1,67 @@
+{
+  "id": 1310484761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14849,40.74773,32.14849,40.74773",
+    "geom:latitude":40.74773,
+    "geom:longitude":32.14849,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yelkenler",
+    "gn:country_code":"TR",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195006,
+    "gn:latitude":40.74773,
+    "gn:longitude":32.14849,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yelkenler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195006
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"67fc617ff12422eac0bf42b74edad681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462117,
+            "locality_id":1310484761,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1310484761,
+    "wof:lastmodified":1536947240,
+    "wof:name":"Yelkenler",
+    "wof:parent_id":890462117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14849,
+    40.74773,
+    32.14849,
+    40.74773
+],
+  "geometry": {"coordinates":[32.14849,40.74773],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293878231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.35,40.9,41.35,40.9",
+    "geom:latitude":40.9,
+    "geom:longitude":41.35,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bozket",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750399,
+    "gn:latitude":40.9,
+    "gn:longitude":41.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bozket",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bozaket",
+        "Bozket"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890461427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750399
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"244fe5fac5aa54c5e35cab75434fcc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461427,
+            "locality_id":1293878231,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1293878231,
+    "wof:lastmodified":1537708066,
+    "wof:name":"Bozket",
+    "wof:parent_id":890461427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.35,
+    40.9,
+    41.35,
+    40.9
+],
+  "geometry": {"coordinates":[41.35,40.9],"type":"Point"}
+}

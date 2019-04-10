@@ -1,0 +1,67 @@
+{
+  "id": 1276460479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.56027,38.47712,34.56027,38.47712",
+    "geom:latitude":38.47712,
+    "geom:longitude":34.56027,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Topac",
+    "gn:country_code":"TR",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299038,
+    "gn:latitude":38.47712,
+    "gn:longitude":34.56027,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Topa\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679327,
+        890460835
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299038
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3bcee311ceb77681401dcebc48d8db24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460835,
+            "locality_id":1276460479,
+            "region_id":85679327
+        }
+    ],
+    "wof:id":1276460479,
+    "wof:lastmodified":1536605377,
+    "wof:name":"Topac",
+    "wof:parent_id":890460835,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.56027,
+    38.47712,
+    34.56027,
+    38.47712
+],
+  "geometry": {"coordinates":[34.56027,38.47712],"type":"Point"}
+}

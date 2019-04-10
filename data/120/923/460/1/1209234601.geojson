@@ -1,0 +1,65 @@
+{
+  "id": 1209234601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97682,36.96354,29.97682,36.96354",
+    "geom:latitude":36.96354,
+    "geom:longitude":29.97682,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bahceyaka",
+    "gn:country_code":"TR",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305868,
+    "gn:latitude":36.96354,
+    "gn:longitude":29.97682,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bah\u00e7eyaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bah\u00e7eyaka",
+        "K\u00fc\u00e7\u00fck Piyadin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305868
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c23937cdfaddf28ca509d955f03e7529",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209234601
+        }
+    ],
+    "wof:id":1209234601,
+    "wof:lastmodified":1537706887,
+    "wof:name":"Bahceyaka",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97682,
+    36.96354,
+    29.97682,
+    36.96354
+],
+  "geometry": {"coordinates":[29.97682,36.96354],"type":"Point"}
+}

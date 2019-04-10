@@ -1,0 +1,65 @@
+{
+  "id": 1209640011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41995,37.92731,32.41995,37.92731",
+    "geom:latitude":37.92731,
+    "geom:longitude":32.41995,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Sille",
+    "gn:country_code":"TR",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":300799,
+    "gn:latitude":37.92731,
+    "gn:longitude":32.41995,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Sille",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sille"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300799,
+        "wk:page":"Sille_%28village%29"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b197aa91c9dfce0e752fe00cbe63a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209640011
+        }
+    ],
+    "wof:id":1209640011,
+    "wof:lastmodified":1537706718,
+    "wof:name":"Sille",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41995,
+    37.92731,
+    32.41995,
+    37.92731
+],
+  "geometry": {"coordinates":[32.41995,37.92731],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 890462147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.07677,37.0173,38.07677,37.0173",
+    "geom:latitude":37.0173,
+    "geom:longitude":38.07677,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tur_x_preferred":[
+        "Diktepe"
+    ],
+    "qs:name":"Yeditepe",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Gaziantep",
+    "qs:photos":27,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191569,
+        85679441,
+        85632393,
+        890464331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7538936,
+        "gp:id":56043047,
+        "qs:id":997035,
+        "wk:page":"Yeditepe"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053379,
+    "wof:geomhash":"51d75dcc4508b8f905bf8b713ae90793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464331,
+            "neighbourhood_id":890462147,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890462147,
+    "wof:lastmodified":1527749969,
+    "wof:name":"Yeditepe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.07677,
+    37.0173,
+    38.07677,
+    37.0173
+],
+  "geometry": {"coordinates":[38.07677,37.0173],"type":"Point"}
+}

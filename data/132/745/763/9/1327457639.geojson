@@ -1,0 +1,67 @@
+{
+  "id": 1327457639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77352,39.90803,35.77352,39.90803",
+    "geom:latitude":39.90803,
+    "geom:longitude":35.77352,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Buzluk",
+    "gn:country_code":"TR",
+    "gn:dem":895,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320078,
+    "gn:latitude":39.90803,
+    "gn:longitude":35.77352,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Buzluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320078
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e463000e8048d450363e9ae54c2c0992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709609,
+            "locality_id":1327457639,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1327457639,
+    "wof:lastmodified":1536643770,
+    "wof:name":"Buzluk",
+    "wof:parent_id":1108709609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77352,
+    39.90803,
+    35.77352,
+    39.90803
+],
+  "geometry": {"coordinates":[35.77352,39.90803],"type":"Point"}
+}

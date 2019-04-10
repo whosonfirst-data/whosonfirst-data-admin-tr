@@ -1,0 +1,64 @@
+{
+  "id": 1209532253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.82541,37.20526,27.82541,37.20526",
+    "geom:latitude":37.20526,
+    "geom:longitude":27.82541,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Karakoyun",
+    "gn:country_code":"TR",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309614,
+    "gn:latitude":37.20526,
+    "gn:longitude":27.82541,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Karakoyun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karakoyun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309614
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4759e0dc559f4459c6bfcb274588428b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532253
+        }
+    ],
+    "wof:id":1209532253,
+    "wof:lastmodified":1537707001,
+    "wof:name":"Karakoyun",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82541,
+    37.20526,
+    27.82541,
+    37.20526
+],
+  "geometry": {"coordinates":[27.82541,37.20526],"type":"Point"}
+}

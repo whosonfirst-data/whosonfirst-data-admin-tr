@@ -1,0 +1,64 @@
+{
+  "id": 1209029551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.77545,40.99497,37.77545,40.99497",
+    "geom:latitude":40.99497,
+    "geom:longitude":37.77545,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Tepecik",
+    "gn:country_code":"TR",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409548,
+    "gn:latitude":40.99497,
+    "gn:longitude":37.77545,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Tepecik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tepecik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409548
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d945522b9be7d0f5911be75d20bda4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209029551
+        }
+    ],
+    "wof:id":1209029551,
+    "wof:lastmodified":1537708380,
+    "wof:name":"Tepecik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.77545,
+    40.99497,
+    37.77545,
+    40.99497
+],
+  "geometry": {"coordinates":[37.77545,40.99497],"type":"Point"}
+}

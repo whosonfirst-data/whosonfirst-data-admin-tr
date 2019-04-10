@@ -1,0 +1,76 @@
+{
+  "id": 1360011111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18481,37.5642,42.18481,37.5642",
+    "geom:latitude":37.5642,
+    "geom:longitude":42.18481,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Gunedogmus",
+    "gn:country_code":"TR",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313458,
+    "gn:latitude":37.5642,
+    "gn:longitude":42.18481,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"G\u00fcnedo\u011fmu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcndo\u011fmu\u015f"
+    ],
+    "name:und_x_variant":[
+        "K\u0131rni",
+        "G\u00fcnedo\u011fmu\u015f",
+        "Karni",
+        "G\u00fcneydo\u011fmu\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890460285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313458
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c194f7c83381a684daf28e3caf81cc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460285,
+            "locality_id":1360011111,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1360011111,
+    "wof:lastmodified":1537707124,
+    "wof:name":"Gunedogmus",
+    "wof:parent_id":890460285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18481,
+    37.5642,
+    42.18481,
+    37.5642
+],
+  "geometry": {"coordinates":[42.18481,37.5642],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209440561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79723,37.73995,43.79723,37.73995",
+    "geom:latitude":37.73995,
+    "geom:longitude":43.79723,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Kaymakli",
+    "gn:country_code":"TR",
+    "gn:dem":2127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998401,
+    "gn:latitude":37.73995,
+    "gn:longitude":43.79723,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Kaymakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaymakl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998401
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf5d0c20df8e6fc1100f9e6085801016",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440561
+        }
+    ],
+    "wof:id":1209440561,
+    "wof:lastmodified":1537708198,
+    "wof:name":"Kaymakli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79723,
+    37.73995,
+    43.79723,
+    37.73995
+],
+  "geometry": {"coordinates":[43.79723,37.73995],"type":"Point"}
+}

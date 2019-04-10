@@ -1,0 +1,78 @@
+{
+  "id": 890463079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65876,40.9321,39.65876,40.9321",
+    "geom:latitude":40.9321,
+    "geom:longitude":39.65876,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tur_x_preferred":[
+        "Fatih"
+    ],
+    "qs:name":"Fatih",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Trabzon",
+    "qs:photos":72,
+    "qs:photos_1k":15,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":72,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":1825,
+    "wof:belongsto":[
+        102191569,
+        85679383,
+        85632393,
+        890462779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7548907,
+        "gp:id":56043097,
+        "qs:id":393723,
+        "wk:page":"Fatih"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053415,
+    "wof:geomhash":"7bb01d895abcbb3187c5d330d662903c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462779,
+            "neighbourhood_id":890463079,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":890463079,
+    "wof:lastmodified":1527729756,
+    "wof:name":"Fatih",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65876,
+    40.9321,
+    39.65876,
+    40.9321
+],
+  "geometry": {"coordinates":[39.65876,40.9321],"type":"Point"}
+}

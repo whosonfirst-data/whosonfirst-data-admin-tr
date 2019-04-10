@@ -1,0 +1,73 @@
+{
+  "id": 1243032505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.77315,37.30268,28.77315,37.30268",
+    "geom:latitude":37.30268,
+    "geom:longitude":28.77315,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gunluk",
+    "gn:country_code":"TR",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317577,
+    "gn:latitude":37.30268,
+    "gn:longitude":28.77315,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"G\u00fcnl\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcnl\u00fck"
+    ],
+    "name:tur_x_variant":[
+        "Dar\u0131c\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108709615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317577
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ddc795b3d45cb381e0ad896c6da88813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709615,
+            "locality_id":1243032505,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1243032505,
+    "wof:lastmodified":1537707254,
+    "wof:name":"Gunluk",
+    "wof:parent_id":1108709615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77315,
+    37.30268,
+    28.77315,
+    37.30268
+],
+  "geometry": {"coordinates":[28.77315,37.30268],"type":"Point"}
+}

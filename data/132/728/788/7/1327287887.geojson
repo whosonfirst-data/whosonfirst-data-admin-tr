@@ -1,0 +1,71 @@
+{
+  "id": 1327287887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69612,37.8686,30.69612,37.8686",
+    "geom:latitude":37.8686,
+    "geom:longitude":30.69612,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Kucuk Gokceli",
+    "gn:country_code":"TR",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305956,
+    "gn:latitude":37.8686,
+    "gn:longitude":30.69612,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"K\u00fc\u00e7\u00fck G\u00f6k\u00e7eli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fck G\u00f6k\u00e7eli",
+        "K\u00fc\u00e7\u00fckfindos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890461535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305956
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6e3ca7333e842acb271abf31e08dbba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461535,
+            "locality_id":1327287887,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":1327287887,
+    "wof:lastmodified":1537706890,
+    "wof:name":"Kucuk Gokceli",
+    "wof:parent_id":890461535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69612,
+    37.8686,
+    30.69612,
+    37.8686
+],
+  "geometry": {"coordinates":[30.69612,37.8686],"type":"Point"}
+}

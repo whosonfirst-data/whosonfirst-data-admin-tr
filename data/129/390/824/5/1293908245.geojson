@@ -1,0 +1,77 @@
+{
+  "id": 1293908245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.94167,36.86972,37.94167,36.86972",
+    "geom:latitude":36.86972,
+    "geom:longitude":37.94167,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Yasarkoy",
+    "gn:country_code":"TR",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306165,
+    "gn:latitude":36.86972,
+    "gn:longitude":37.94167,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ya\u015fark\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ya\u015fark\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Ya\u015far"
+    ],
+    "name:und_x_variant":[
+        "Koyunbad",
+        "Koyunbat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306165
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91e43068bfa4d5b03aa7dc2e76ab9148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709633,
+            "locality_id":1293908245,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1293908245,
+    "wof:lastmodified":1537706898,
+    "wof:name":"Yasarkoy",
+    "wof:parent_id":1108709633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.94167,
+    36.86972,
+    37.94167,
+    36.86972
+],
+  "geometry": {"coordinates":[37.94167,36.86972],"type":"Point"}
+}

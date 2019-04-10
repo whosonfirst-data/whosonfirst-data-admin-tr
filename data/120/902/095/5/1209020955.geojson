@@ -1,0 +1,67 @@
+{
+  "id": 1209020955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.60099,37.71144,44.60099,37.71144",
+    "geom:latitude":37.71144,
+    "geom:longitude":44.60099,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Esendere",
+    "gn:country_code":"TR",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":315334,
+    "gn:latitude":37.71144,
+    "gn:longitude":44.60099,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Esendere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bajirge",
+        "Bacirga",
+        "Bacirge",
+        "Esendere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315334
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"25c41916bc10475563fab7ede6e9f27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209020955
+        }
+    ],
+    "wof:id":1209020955,
+    "wof:lastmodified":1537707185,
+    "wof:name":"Esendere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.60099,
+    37.71144,
+    44.60099,
+    37.71144
+],
+  "geometry": {"coordinates":[44.60099,37.71144],"type":"Point"}
+}

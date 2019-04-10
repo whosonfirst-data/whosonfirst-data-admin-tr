@@ -1,0 +1,70 @@
+{
+  "id": 1259399353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0021,41.04056,31.0021,41.04056",
+    "geom:latitude":41.04056,
+    "geom:longitude":31.0021,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Bezirgan",
+    "gn:country_code":"TR",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750623,
+    "gn:latitude":41.04056,
+    "gn:longitude":31.0021,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Bezirgan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bezirgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750623
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4e32d2e08839fb8c3dcc457d3ec01190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460547,
+            "locality_id":1259399353,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1259399353,
+    "wof:lastmodified":1537708074,
+    "wof:name":"Bezirgan",
+    "wof:parent_id":890460547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0021,
+    41.04056,
+    31.0021,
+    41.04056
+],
+  "geometry": {"coordinates":[31.0021,41.04056],"type":"Point"}
+}

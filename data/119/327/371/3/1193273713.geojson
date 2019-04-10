@@ -1,0 +1,71 @@
+{
+  "id": 1193273713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56724,40.35275,35.56724,40.35275",
+    "geom:latitude":40.35275,
+    "geom:longitude":35.56724,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Besiktepe",
+    "gn:country_code":"TR",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750728,
+    "gn:latitude":40.35275,
+    "gn:longitude":35.56724,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u015fiktepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u011f\u0131ll\u0131tekke",
+        "Be\u015fiktepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890462747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750728
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"32a2135e001a3959cd6ff0d2a01e1954",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462747,
+            "locality_id":1193273713,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1193273713,
+    "wof:lastmodified":1537708078,
+    "wof:name":"Besiktepe",
+    "wof:parent_id":890462747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56724000000001,
+    40.35275,
+    35.56724000000001,
+    40.35275
+],
+  "geometry": {"coordinates":[35.56724000000001,40.35275],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326453347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.5292,40.64772,40.5292,40.64772",
+    "geom:latitude":40.64772,
+    "geom:longitude":40.5292,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Demirli",
+    "gn:country_code":"TR",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748395,
+    "gn:latitude":40.64772,
+    "gn:longitude":40.5292,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Demirli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        890460673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748395
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b7fe09cd4b6d7677f5a68c1363e41aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460673,
+            "locality_id":1326453347,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1326453347,
+    "wof:lastmodified":1537094484,
+    "wof:name":"Demirli",
+    "wof:parent_id":890460673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.5292,
+    40.64772,
+    40.5292,
+    40.64772
+],
+  "geometry": {"coordinates":[40.5292,40.64772],"type":"Point"}
+}

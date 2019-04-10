@@ -1,0 +1,73 @@
+{
+  "id": 1226028629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.82889,37.51139,27.82889,37.51139",
+    "geom:latitude":37.51139,
+    "geom:longitude":27.82889,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Hatipkislasi",
+    "gn:country_code":"TR",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312382,
+    "gn:latitude":37.51139,
+    "gn:longitude":27.82889,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Hatipk\u0131\u015flas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Hatipk\u0131\u015flas\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Hatipki\u015fla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312382
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb0a266443b624b07affe76b92d0c611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709635,
+            "locality_id":1226028629,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1226028629,
+    "wof:lastmodified":1537707088,
+    "wof:name":"Hatipkislasi",
+    "wof:parent_id":1108709635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82889,
+    37.51139000000001,
+    27.82889,
+    37.51139000000001
+],
+  "geometry": {"coordinates":[27.82889,37.51139000000001],"type":"Point"}
+}

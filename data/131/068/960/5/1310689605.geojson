@@ -1,0 +1,73 @@
+{
+  "id": 1310689605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59463,40.11607,27.59463,40.11607",
+    "geom:latitude":40.11607,
+    "geom:longitude":27.59463,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Yeni Akcapinar",
+    "gn:country_code":"TR",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543747,
+    "gn:latitude":40.11607,
+    "gn:longitude":27.59463,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Yeni Ak\u00e7ap\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yeniak\u00e7ap\u0131nar"
+    ],
+    "name:tur_x_variant":[
+        "Yeni Ak\u00e7ap\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543747
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"755e4d5ffc115ce353aa7f7e9eccf9d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709533,
+            "locality_id":1310689605,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1310689605,
+    "wof:lastmodified":1537708296,
+    "wof:name":"Yeni Akcapinar",
+    "wof:parent_id":1108709533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59463,
+    40.11607,
+    27.59463,
+    40.11607
+],
+  "geometry": {"coordinates":[27.59463,40.11607],"type":"Point"}
+}

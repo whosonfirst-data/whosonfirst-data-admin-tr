@@ -1,0 +1,72 @@
+{
+  "id": 1276900069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2,37.95,44.2,37.95",
+    "geom:latitude":37.95,
+    "geom:longitude":44.2,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Holnik",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":2416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311971,
+    "gn:latitude":37.95,
+    "gn:longitude":44.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Holnik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holink",
+        "Holnik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890460983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311971
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d06a2d44badf7413268c5d611a74b029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460983,
+            "locality_id":1276900069,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1276900069,
+    "wof:lastmodified":1537707074,
+    "wof:name":"Holnik",
+    "wof:parent_id":890460983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2,
+    37.95,
+    44.2,
+    37.95
+],
+  "geometry": {"coordinates":[44.2,37.95],"type":"Point"}
+}

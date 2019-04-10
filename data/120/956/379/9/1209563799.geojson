@@ -1,0 +1,65 @@
+{
+  "id": 1209563799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.29508,39.63831,34.29508,39.63831",
+    "geom:latitude":39.63831,
+    "geom:longitude":34.29508,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Safali",
+    "gn:country_code":"TR",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302255,
+    "gn:latitude":39.63831,
+    "gn:longitude":34.29508,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Safal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sefal\u0131",
+        "Safal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302255
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a247e473862011874b2fc68ec47eafa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209563799
+        }
+    ],
+    "wof:id":1209563799,
+    "wof:lastmodified":1537706768,
+    "wof:name":"Safali",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.29508,
+    39.63831,
+    34.29508,
+    39.63831
+],
+  "geometry": {"coordinates":[34.29508,39.63831],"type":"Point"}
+}

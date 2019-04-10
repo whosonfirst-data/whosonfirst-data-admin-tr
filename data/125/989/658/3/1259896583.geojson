@@ -1,0 +1,71 @@
+{
+  "id": 1259896583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22126,37.27281,33.22126,37.27281",
+    "geom:latitude":37.27281,
+    "geom:longitude":33.22126,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Goztepe",
+    "gn:country_code":"TR",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313817,
+    "gn:latitude":37.27281,
+    "gn:longitude":33.22126,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6ztepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6ztepek\u00f6y",
+        "G\u00f6ztepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679427,
+        890464327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313817
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"456307eccc87340fa1d4f39f3c4b8ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464327,
+            "locality_id":1259896583,
+            "region_id":85679427
+        }
+    ],
+    "wof:id":1259896583,
+    "wof:lastmodified":1537707137,
+    "wof:name":"Goztepe",
+    "wof:parent_id":890464327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22126,
+    37.27281,
+    33.22126,
+    37.27281
+],
+  "geometry": {"coordinates":[33.22126,37.27281],"type":"Point"}
+}

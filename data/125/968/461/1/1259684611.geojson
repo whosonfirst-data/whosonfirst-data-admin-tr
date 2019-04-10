@@ -1,0 +1,67 @@
+{
+  "id": 1259684611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02724,38.67557,30.02724,38.67557",
+    "geom:latitude":38.67557,
+    "geom:longitude":30.02724,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yagci",
+    "gn:country_code":"TR",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8229854,
+    "gn:latitude":38.67557,
+    "gn:longitude":30.02724,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ya\u011fc\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        1108709591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8229854
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dcf8b09b109fadf67b06ffa4223b246c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709591,
+            "locality_id":1259684611,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1259684611,
+    "wof:lastmodified":1537062596,
+    "wof:name":"Yagci",
+    "wof:parent_id":1108709591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02724000000001,
+    38.67557,
+    30.02724000000001,
+    38.67557
+],
+  "geometry": {"coordinates":[30.02724000000001,38.67557],"type":"Point"}
+}

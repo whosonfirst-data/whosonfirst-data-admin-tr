@@ -1,0 +1,71 @@
+{
+  "id": 1209820371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49852,39.68245,43.49852,39.68245",
+    "geom:latitude":39.68245,
+    "geom:longitude":43.49852,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Aras",
+    "gn:country_code":"TR",
+    "gn:dem":2093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323695,
+    "gn:latitude":39.68245,
+    "gn:longitude":43.49852,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araz",
+        "Aras"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        890460623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323695
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d7132bbaa2c77a5c8df8d9d90c73070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460623,
+            "locality_id":1209820371,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1209820371,
+    "wof:lastmodified":1537707457,
+    "wof:name":"Aras",
+    "wof:parent_id":890460623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49852,
+    39.68245,
+    43.49852,
+    39.68245
+],
+  "geometry": {"coordinates":[43.49852,39.68245],"type":"Point"}
+}

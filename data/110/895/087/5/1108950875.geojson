@@ -1,0 +1,64 @@
+{
+  "id": 1108950875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6351746024,41.0727935946,28.6351746024,41.0727935946",
+    "geom:latitude":41.072794,
+    "geom:longitude":28.635175,
+    "iso:country":"TR",
+    "lbl:latitude":41.072794,
+    "lbl:longitude":28.635175,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Ak\u00e7aburgaz"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368699,
+    "wof:geomhash":"b59fa16db11ef1a2ce8ab4125e289350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709497,
+            "neighbourhood_id":1108950875,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950875,
+    "wof:lastmodified":1497292377,
+    "wof:name":"Akcaburgaz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.63517460240799,
+    41.07279359464132,
+    28.63517460240799,
+    41.07279359464132
+],
+  "geometry": {"coordinates":[28.63517460240799,41.07279359464132],"type":"Point"}
+}

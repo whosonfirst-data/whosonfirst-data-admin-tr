@@ -1,0 +1,71 @@
+{
+  "id": 1259700535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.9,37.6651,34.9,37.6651",
+    "geom:latitude":37.6651,
+    "geom:longitude":34.9,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Karakislakci",
+    "gn:country_code":"TR",
+    "gn:dem":1449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309676,
+    "gn:latitude":37.6651,
+    "gn:longitude":34.9,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Karak\u0131\u015flak\u00e7\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karak\u0131\u015flak\u00e7\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890460811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309676,
+        "wk:page":"Karak%C4%B1%C5%9Flak%C3%A7%C4%B1%2C_Pozant%C4%B1"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e56d6179846287b5e8506ca62882d288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460811,
+            "locality_id":1259700535,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1259700535,
+    "wof:lastmodified":1537707003,
+    "wof:name":"Karakislakci",
+    "wof:parent_id":890460811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.9,
+    37.6651,
+    34.9,
+    37.6651
+],
+  "geometry": {"coordinates":[34.9,37.6651],"type":"Point"}
+}

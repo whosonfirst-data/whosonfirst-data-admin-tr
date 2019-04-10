@@ -1,0 +1,70 @@
+{
+  "id": 1343585813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25881,36.80674,29.25881,36.80674",
+    "geom:latitude":36.80674,
+    "geom:longitude":29.25881,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Yurek",
+    "gn:country_code":"TR",
+    "gn:dem":577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296100,
+    "gn:latitude":36.80674,
+    "gn:longitude":29.25881,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Y\u00fcrek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Y\u00fcrek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296100
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3a2d7c369bba30bdcaa6f266199b3ec5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":1343585813,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1343585813,
+    "wof:lastmodified":1537706554,
+    "wof:name":"Yurek",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25881,
+    36.80674000000001,
+    29.25881,
+    36.80674000000001
+],
+  "geometry": {"coordinates":[29.25881,36.80674000000001],"type":"Point"}
+}

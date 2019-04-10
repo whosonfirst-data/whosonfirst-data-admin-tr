@@ -1,0 +1,67 @@
+{
+  "id": 1293458029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.95,38.9,38.95,38.9",
+    "geom:latitude":38.9,
+    "geom:longitude":38.95,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Asvan",
+    "gn:country_code":"TR",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323041,
+    "gn:latitude":38.9,
+    "gn:longitude":38.95,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"A\u015fvan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108710059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323041
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"494624db5e00da91fb13b0f7ad55ad2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710059,
+            "locality_id":1293458029,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1293458029,
+    "wof:lastmodified":1536828730,
+    "wof:name":"Asvan",
+    "wof:parent_id":1108710059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.95,
+    38.9,
+    38.95,
+    38.9
+],
+  "geometry": {"coordinates":[38.95,38.9],"type":"Point"}
+}

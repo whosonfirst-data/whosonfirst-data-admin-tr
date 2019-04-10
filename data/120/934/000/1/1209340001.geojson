@@ -1,0 +1,67 @@
+{
+  "id": 1209340001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40753,40.52146,30.40753,40.52146",
+    "geom:latitude":40.52146,
+    "geom:longitude":30.40753,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Guney",
+    "gn:country_code":"TR",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746352,
+    "gn:latitude":40.52146,
+    "gn:longitude":30.40753,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"G\u00fcney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131lavuzlar"
+    ],
+    "name:tur_x_variant":[
+        "G\u00fcney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746352
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5075f56094c055835ad33f64b135649",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340001
+        }
+    ],
+    "wof:id":1209340001,
+    "wof:lastmodified":1537707922,
+    "wof:name":"Guney",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40753,
+    40.52146,
+    30.40753,
+    40.52146
+],
+  "geometry": {"coordinates":[30.40753,40.52146],"type":"Point"}
+}

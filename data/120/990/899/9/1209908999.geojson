@@ -1,0 +1,73 @@
+{
+  "id": 1209908999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71633,40.57107,35.71633,40.57107",
+    "geom:latitude":40.57107,
+    "geom:longitude":35.71633,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yildizkoy",
+    "gn:country_code":"TR",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697195,
+    "gn:latitude":40.57107,
+    "gn:longitude":35.71633,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Y\u0131ld\u0131zk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Y\u0131ld\u0131zk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Y\u0131ld\u0131z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890463241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697195
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b131245af20bb97b0b056ef7b2fe2914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463241,
+            "locality_id":1209908999,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1209908999,
+    "wof:lastmodified":1537708267,
+    "wof:name":"Yildizkoy",
+    "wof:parent_id":890463241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71633,
+    40.57107,
+    35.71633,
+    40.57107
+],
+  "geometry": {"coordinates":[35.71633,40.57107],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242794363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.738,36.86055,37.738,36.86055",
+    "geom:latitude":36.86055,
+    "geom:longitude":37.738,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kesiktas",
+    "gn:country_code":"TR",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305594,
+    "gn:latitude":36.86055,
+    "gn:longitude":37.738,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kesikta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kesikta\u015f"
+    ],
+    "name:und_x_variant":[
+        "Kersenta\u015f",
+        "K\u00fcrd\u00fcl\u00fc",
+        "Kyurdyulyu-Kersentash",
+        "K\u00fcrd\u00fcl\u00fckersenta\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        890461691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305594
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"679fb02e52cb4ee66da96292fdfece07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461691,
+            "locality_id":1242794363,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1242794363,
+    "wof:lastmodified":1537706878,
+    "wof:name":"Kesiktas",
+    "wof:parent_id":890461691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.738,
+    36.86055,
+    37.738,
+    36.86055
+],
+  "geometry": {"coordinates":[37.738,36.86055],"type":"Point"}
+}

@@ -1,0 +1,105 @@
+{
+  "id": 85929951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000217,
+    "geom:area_square_m":2023985.283804,
+    "geom:bbox":"29.0172521973,41.1373216634,29.0335617947,41.1560891617",
+    "geom:latitude":41.146336,
+    "geom:longitude":29.025403,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":41.146258,
+    "lbl:longitude":29.032745,
+    "mps:latitude":41.146124,
+    "mps:longitude":29.025243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:und_x_preferred":[
+        "Cumhuriyet"
+    ],
+    "name:unk_x_variant":[
+        "Cumhuriyet"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Cumhuriyet",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Sar\u0131yer",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":80,
+    "qs:photo_sum":80,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":1,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390733,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870966,
+        "qs:id":986678,
+        "qs_pg:id":986678
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fe29d9ca1305e7e193870347d43f3a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "neighbourhood_id":85929951,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85929951,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527269304,
+    "wof:name":"Cumhuriyet",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01725219725029,
+    41.13732166343149,
+    29.0335617946875,
+    41.15608916167915
+],
+  "geometry": {"coordinates":[[[29.03324388004586,41.14936941877143],[29.0335617946875,41.14556966575005],[29.03156584658666,41.13761823246465],[29.03156183152851,41.13762312482716],[29.03107903157382,41.13736506287491],[29.03093596278251,41.13732166343149],[29.02038574217534,41.1401234052274],[29.01898317888111,41.14099249736564],[29.01893750112708,41.14104815587004],[29.01801340192503,41.14277702387639],[29.01744434444612,41.14465295497992],[29.01725219725029,41.14660385820022],[29.01744434444612,41.14855476142034],[29.01801340192503,41.15043069252378],[29.01893750112708,41.15215956053041],[29.02018112943836,41.15367492601203],[29.02169649491998,41.1549185543233],[29.02342536292645,41.15584265352526],[29.02413313409886,41.1560573535631],[29.02413626692487,41.15608916167915],[29.03324388004586,41.14936941877143]]],"type":"Polygon"}
+}

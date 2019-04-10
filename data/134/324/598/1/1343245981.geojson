@@ -1,0 +1,70 @@
+{
+  "id": 1343245981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79036,37.93803,27.79036,37.93803",
+    "geom:latitude":37.93803,
+    "geom:longitude":27.79036,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Karagozler",
+    "gn:country_code":"TR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309843,
+    "gn:latitude":37.93803,
+    "gn:longitude":27.79036,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Karag\u00f6zler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karag\u00f6zler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309843
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"046632cfa5ce0f5de7225831ba2be11a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709209,
+            "locality_id":1343245981,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1343245981,
+    "wof:lastmodified":1537707008,
+    "wof:name":"Karagozler",
+    "wof:parent_id":1108709209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79036,
+    37.93803,
+    27.79036,
+    37.93803
+],
+  "geometry": {"coordinates":[27.79036,37.93803],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209020957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88852,38.35811,43.88852,38.35811",
+    "geom:latitude":38.35811,
+    "geom:longitude":43.88852,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Tepegoren",
+    "gn:country_code":"TR",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299318,
+    "gn:latitude":38.35811,
+    "gn:longitude":43.88852,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Tepeg\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zeynis",
+        "Tepeg\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299318
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d15e77d6841fbba410724d97c1423f77",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209020957
+        }
+    ],
+    "wof:id":1209020957,
+    "wof:lastmodified":1537706670,
+    "wof:name":"Tepegoren",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88852,
+    38.35811,
+    43.88852,
+    38.35811
+],
+  "geometry": {"coordinates":[43.88852,38.35811],"type":"Point"}
+}

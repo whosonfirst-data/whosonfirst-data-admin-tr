@@ -1,0 +1,78 @@
+{
+  "id": 890461991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.91417,38.71389,27.91417,38.71389",
+    "geom:latitude":38.71389,
+    "geom:longitude":27.91417,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":12857,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Marmara"
+    ],
+    "qs:name":"G\u00f6lmarmara",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Manisa",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":3,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":531,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314038,
+        "gp:id":2344028,
+        "qs:id":914758,
+        "wd:id":"Q2901017",
+        "wk:page":"G\u00f6lmarmara"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053374,
+    "wof:geomhash":"3c0a805c2068cfbed04f010463dcf2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709525,
+            "locality_id":890461991,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":890461991,
+    "wof:lastmodified":1527792987,
+    "wof:name":"G\u00f6lmarmara",
+    "wof:parent_id":1108709525,
+    "wof:placetype":"locality",
+    "wof:population":12857,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.91417,
+    38.71389,
+    27.91417,
+    38.71389
+],
+  "geometry": {"coordinates":[27.91417,38.71389],"type":"Point"}
+}

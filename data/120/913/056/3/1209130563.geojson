@@ -1,0 +1,66 @@
+{
+  "id": 1209130563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35,41.25,35.35,41.25",
+    "geom:latitude":41.25,
+    "geom:longitude":35.35,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Salarkolu",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740332,
+    "gn:latitude":41.25,
+    "gn:longitude":35.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Salarkolu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Salarkulu",
+        "Salarkolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740332
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fef125e9095cde958a033f2a784ff513",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209130563
+        }
+    ],
+    "wof:id":1209130563,
+    "wof:lastmodified":1537707729,
+    "wof:name":"Salarkolu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35,
+    41.25,
+    35.35,
+    41.25
+],
+  "geometry": {"coordinates":[35.35,41.25],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242653419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.69212,39.73677,26.69212,39.73677",
+    "geom:latitude":39.73677,
+    "geom:longitude":26.69212,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Besik",
+    "gn:country_code":"TR",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503290,
+    "gn:latitude":39.73677,
+    "gn:longitude":26.69212,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Be\u015fik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890461167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503290
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"74b15cedbfa2e704eb69e3bfe915cfce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461167,
+            "locality_id":1242653419,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1242653419,
+    "wof:lastmodified":1536954746,
+    "wof:name":"Besik",
+    "wof:parent_id":890461167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.69212000000001,
+    39.73677,
+    26.69212000000001,
+    39.73677
+],
+  "geometry": {"coordinates":[26.69212000000001,39.73677],"type":"Point"}
+}

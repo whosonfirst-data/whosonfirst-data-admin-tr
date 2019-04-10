@@ -1,0 +1,70 @@
+{
+  "id": 1242957083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.04951,37.49527,28.04951,37.49527",
+    "geom:latitude":37.49527,
+    "geom:longitude":28.04951,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Esenli Mahellesi",
+    "gn:country_code":"TR",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315318,
+    "gn:latitude":37.49527,
+    "gn:longitude":28.04951,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Esenli Mahellesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Esenli Mahellesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108710067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315318
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"366e442126ce3d77442949178361d5e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710067,
+            "locality_id":1242957083,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1242957083,
+    "wof:lastmodified":1537707184,
+    "wof:name":"Esenli Mahellesi",
+    "wof:parent_id":1108710067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04951,
+    37.49527,
+    28.04951,
+    37.49527
+],
+  "geometry": {"coordinates":[28.04951,37.49527],"type":"Point"}
+}

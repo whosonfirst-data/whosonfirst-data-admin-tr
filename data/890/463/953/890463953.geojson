@@ -1,0 +1,71 @@
+{
+  "id": 890463953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.49444,37.48778,41.49444,37.48778",
+    "geom:latitude":37.48778,
+    "geom:longitude":41.49444,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":2162,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fclveren"
+    ],
+    "name:unk_x_variant":[
+        "Bahvar"
+    ],
+    "qs:name":"G\u00fclveren",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313640,
+        "qs:id":205123
+    },
+    "wof:country":"TR",
+    "wof:created":1469053450,
+    "wof:geomhash":"3cb049601327e99d792fce6d4d2a1cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463867,
+            "locality_id":890463953,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890463953,
+    "wof:lastmodified":1505343695,
+    "wof:name":"G\u00fclveren",
+    "wof:parent_id":890463867,
+    "wof:placetype":"locality",
+    "wof:population":2162,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.49444,
+    37.48778,
+    41.49444,
+    37.48778
+],
+  "geometry": {"coordinates":[41.49444,37.48778],"type":"Point"}
+}

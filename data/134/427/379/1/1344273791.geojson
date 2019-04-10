@@ -1,0 +1,75 @@
+{
+  "id": 1344273791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.26639,36.98566,28.26639,36.98566",
+    "geom:latitude":36.98566,
+    "geom:longitude":28.26639,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Camli",
+    "gn:country_code":"TR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319599,
+    "gn:latitude":36.98566,
+    "gn:longitude":28.26639,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"\u00c7aml\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7aml\u0131"
+    ],
+    "name:und_x_variant":[
+        "Gelibolu",
+        "Port Gallipoli",
+        "\u00c7aml\u0131k\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890460753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319599
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50f491cd2300340d596edadc5c2d520c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460753,
+            "locality_id":1344273791,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1344273791,
+    "wof:lastmodified":1537707322,
+    "wof:name":"Camli",
+    "wof:parent_id":890460753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.26639,
+    36.98566,
+    28.26639,
+    36.98566
+],
+  "geometry": {"coordinates":[28.26639,36.98566],"type":"Point"}
+}

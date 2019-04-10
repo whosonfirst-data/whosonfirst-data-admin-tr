@@ -1,0 +1,67 @@
+{
+  "id": 1243405793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18533,41.575,33.18533,41.575",
+    "geom:latitude":41.575,
+    "geom:longitude":33.18533,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Karafasil",
+    "gn:country_code":"TR",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744362,
+    "gn:latitude":41.575,
+    "gn:longitude":33.18533,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karafas\u0131l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744362
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"34f2e9480108a7ebf1f0cf504d72848a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463239,
+            "locality_id":1243405793,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1243405793,
+    "wof:lastmodified":1536862840,
+    "wof:name":"Karafasil",
+    "wof:parent_id":890463239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18533,
+    41.575,
+    33.18533,
+    41.575
+],
+  "geometry": {"coordinates":[33.18533,41.575],"type":"Point"}
+}

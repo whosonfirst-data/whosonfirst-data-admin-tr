@@ -1,0 +1,64 @@
+{
+  "id": 1209439761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66566,40.41741,39.66566,40.41741",
+    "geom:latitude":40.41741,
+    "geom:longitude":39.66566,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Arzular",
+    "gn:country_code":"TR",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751812,
+    "gn:latitude":40.41741,
+    "gn:longitude":39.66566,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Arzular",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Arzular"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751812
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"896f0a7982d3081502b72c2e2fe98987",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439761
+        }
+    ],
+    "wof:id":1209439761,
+    "wof:lastmodified":1537708117,
+    "wof:name":"Arzular",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66566,
+    40.41741,
+    39.66566,
+    40.41741
+],
+  "geometry": {"coordinates":[39.66566,40.41741],"type":"Point"}
+}

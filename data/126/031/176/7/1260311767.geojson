@@ -1,0 +1,67 @@
+{
+  "id": 1260311767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30678,37.28985,32.30678,37.28985",
+    "geom:latitude":37.28985,
+    "geom:longitude":32.30678,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Avdan",
+    "gn:country_code":"TR",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322938,
+    "gn:latitude":37.28985,
+    "gn:longitude":32.30678,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Avdan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890464101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322938
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7639cc9554cf1da679cd0a3c796f28c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464101,
+            "locality_id":1260311767,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1260311767,
+    "wof:lastmodified":1536674039,
+    "wof:name":"Avdan",
+    "wof:parent_id":890464101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30678,
+    37.28985,
+    32.30678,
+    37.28985
+],
+  "geometry": {"coordinates":[32.30678,37.28985],"type":"Point"}
+}

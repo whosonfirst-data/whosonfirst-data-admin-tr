@@ -1,0 +1,71 @@
+{
+  "id": 1293165797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38382,40.6817,34.38382,40.6817",
+    "geom:latitude":40.6817,
+    "geom:longitude":34.38382,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Asagiorenseki",
+    "gn:country_code":"TR",
+    "gn:dem":754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751688,
+    "gn:latitude":40.6817,
+    "gn:longitude":34.38382,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u015fa\u011f\u0131\u00f6renseki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131viranseki",
+        "A\u015fa\u011f\u0131\u00f6renseki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751688
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bee16a4aec4fbc8c53a4acc44ebe4719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709215,
+            "locality_id":1293165797,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1293165797,
+    "wof:lastmodified":1537708111,
+    "wof:name":"Asagiorenseki",
+    "wof:parent_id":1108709215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38382,
+    40.6817,
+    34.38382,
+    40.6817
+],
+  "geometry": {"coordinates":[34.38382,40.6817],"type":"Point"}
+}

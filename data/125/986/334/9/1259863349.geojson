@@ -1,0 +1,67 @@
+{
+  "id": 1259863349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.18333,37.6,28.18333,37.6",
+    "geom:latitude":37.6,
+    "geom:longitude":28.18333,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Madran",
+    "gn:country_code":"TR",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305015,
+    "gn:latitude":37.6,
+    "gn:longitude":28.18333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Madran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108710067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305015
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"db4b7ca885b86a1299368bd73ccb0879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710067,
+            "locality_id":1259863349,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1259863349,
+    "wof:lastmodified":1536807912,
+    "wof:name":"Madran",
+    "wof:parent_id":1108710067,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.18333,
+    37.6,
+    28.18333,
+    37.6
+],
+  "geometry": {"coordinates":[28.18333,37.6],"type":"Point"}
+}

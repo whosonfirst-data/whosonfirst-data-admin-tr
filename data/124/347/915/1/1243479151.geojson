@@ -1,0 +1,67 @@
+{
+  "id": 1243479151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.4827,37.55033,44.4827,37.55033",
+    "geom:latitude":37.55033,
+    "geom:longitude":44.4827,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Koycuk",
+    "gn:country_code":"TR",
+    "gn:dem":2407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998254,
+    "gn:latitude":37.55033,
+    "gn:longitude":44.4827,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"K\u00f6yc\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        1108710003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998254
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6abace1c285d8d40d5a12d9c69ac7515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710003,
+            "locality_id":1243479151,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1243479151,
+    "wof:lastmodified":1536758539,
+    "wof:name":"Koycuk",
+    "wof:parent_id":1108710003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.4827,
+    37.55033,
+    44.4827,
+    37.55033
+],
+  "geometry": {"coordinates":[44.4827,37.55033],"type":"Point"}
+}

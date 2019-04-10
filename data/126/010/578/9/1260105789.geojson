@@ -1,0 +1,77 @@
+{
+  "id": 1260105789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.50954,40.3937,37.50954,40.3937",
+    "geom:latitude":40.3937,
+    "geom:longitude":37.50954,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Karliyayla",
+    "gn:country_code":"TR",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743966,
+    "gn:latitude":40.3937,
+    "gn:longitude":37.50954,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Karl\u0131yayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karl\u0131yayla"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0432\u0430\u0440\u0430"
+    ],
+    "name:und_x_variant":[
+        "Tavara",
+        "Karl\u0131yayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743966
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b63842bed56e1873083627b60b53f66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709833,
+            "locality_id":1260105789,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1260105789,
+    "wof:lastmodified":1537707847,
+    "wof:name":"Karliyayla",
+    "wof:parent_id":1108709833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.50954,
+    40.3937,
+    37.50954,
+    40.3937
+],
+  "geometry": {"coordinates":[37.50954,40.3937],"type":"Point"}
+}

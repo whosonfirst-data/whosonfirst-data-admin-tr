@@ -1,0 +1,74 @@
+{
+  "id": 1327456811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84296,41.25618,32.84296,41.25618",
+    "geom:latitude":41.25618,
+    "geom:longitude":32.84296,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Sakaralan",
+    "gn:country_code":"TR",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740373,
+    "gn:latitude":41.25618,
+    "gn:longitude":32.84296,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sakaralan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sakaralan"
+    ],
+    "name:und_x_variant":[
+        "Sakallar",
+        "Sakalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        1108709837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740373
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c870e0f2abff62e727007afa342bb7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709837,
+            "locality_id":1327456811,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1327456811,
+    "wof:lastmodified":1537707730,
+    "wof:name":"Sakaralan",
+    "wof:parent_id":1108709837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84296,
+    41.25618,
+    32.84296,
+    41.25618
+],
+  "geometry": {"coordinates":[32.84296,41.25618],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260370625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76752,39.74501,29.76752,39.74501",
+    "geom:latitude":39.74501,
+    "geom:longitude":29.76752,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Dombaycayiri",
+    "gn:country_code":"TR",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316327,
+    "gn:latitude":39.74501,
+    "gn:longitude":29.76752,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dombay\u00e7ay\u0131r\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Donbay\u00e7ay\u0131r"
+    ],
+    "name:und_x_variant":[
+        "Dombay\u00e7ay\u0131r\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        1108709403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316327
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9b7ea4367d51ebd9f48857b7b3f6da0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709403,
+            "locality_id":1260370625,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1260370625,
+    "wof:lastmodified":1537707215,
+    "wof:name":"Dombaycayiri",
+    "wof:parent_id":1108709403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76752,
+    39.74501,
+    29.76752,
+    39.74501
+],
+  "geometry": {"coordinates":[29.76752,39.74501],"type":"Point"}
+}

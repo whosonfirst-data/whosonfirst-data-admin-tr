@@ -1,0 +1,70 @@
+{
+  "id": 1276574401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.60461,40.8502,37.60461,40.8502",
+    "geom:latitude":40.8502,
+    "geom:longitude":37.60461,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Tuzla",
+    "gn:country_code":"TR",
+    "gn:dem":925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409527,
+    "gn:latitude":40.8502,
+    "gn:longitude":37.60461,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Tuzla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tuzla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        1108709545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409527
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50f6e54babe4d6229a837855c99569fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709545,
+            "locality_id":1276574401,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1276574401,
+    "wof:lastmodified":1537708380,
+    "wof:name":"Tuzla",
+    "wof:parent_id":1108709545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.60461,
+    40.8502,
+    37.60461,
+    40.8502
+],
+  "geometry": {"coordinates":[37.60461,40.8502],"type":"Point"}
+}

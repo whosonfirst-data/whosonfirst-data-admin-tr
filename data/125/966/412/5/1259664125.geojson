@@ -1,0 +1,72 @@
+{
+  "id": 1259664125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06667,39.95,30.06667,39.95",
+    "geom:latitude":39.95,
+    "geom:longitude":30.06667,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Karabayir",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310266,
+    "gn:latitude":39.95,
+    "gn:longitude":30.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karabay\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karabay\u0131r K\u00f6y\u00fc",
+        "Karabay\u0131r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        1108709403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310266
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8524aef7ce5296429217d55fc2b8c7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709403,
+            "locality_id":1259664125,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1259664125,
+    "wof:lastmodified":1537707019,
+    "wof:name":"Karabayir",
+    "wof:parent_id":1108709403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06667,
+    39.95,
+    30.06667,
+    39.95
+],
+  "geometry": {"coordinates":[30.06667,39.95],"type":"Point"}
+}

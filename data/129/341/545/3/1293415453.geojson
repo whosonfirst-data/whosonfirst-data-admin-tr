@@ -1,0 +1,71 @@
+{
+  "id": 1293415453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.20255,40.82484,30.20255,40.82484",
+    "geom:latitude":40.82484,
+    "geom:longitude":30.20255,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Suleymaniye",
+    "gn:country_code":"TR",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739296,
+    "gn:latitude":40.82484,
+    "gn:longitude":30.20255,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00fcleymaniye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kobakl\u0131",
+        "S\u00fcleymaniye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        1108709225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739296
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"829690647a641942167e8f87997309ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709225,
+            "locality_id":1293415453,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1293415453,
+    "wof:lastmodified":1537707693,
+    "wof:name":"Suleymaniye",
+    "wof:parent_id":1108709225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.20255,
+    40.82484,
+    30.20255,
+    40.82484
+],
+  "geometry": {"coordinates":[30.20255,40.82484],"type":"Point"}
+}

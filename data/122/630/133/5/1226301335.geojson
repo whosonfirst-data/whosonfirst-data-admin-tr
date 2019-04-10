@@ -1,0 +1,73 @@
+{
+  "id": 1226301335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.35668,38.23326,40.35668,38.23326",
+    "geom:latitude":38.23326,
+    "geom:longitude":40.35668,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Buyuk Akoren",
+    "gn:country_code":"TR",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320315,
+    "gn:latitude":38.23326,
+    "gn:longitude":40.35668,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"B\u00fcy\u00fck Ak\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "B\u00fcy\u00fckak\u00f6ren"
+    ],
+    "name:tur_x_variant":[
+        "B\u00fcy\u00fck Ak\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320315
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"681aaf87530a5fca29c838faca33e431",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709909,
+            "locality_id":1226301335,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1226301335,
+    "wof:lastmodified":1537707345,
+    "wof:name":"Buyuk Akoren",
+    "wof:parent_id":1108709909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.35668,
+    38.23326,
+    40.35668,
+    38.23326
+],
+  "geometry": {"coordinates":[40.35668,38.23326],"type":"Point"}
+}

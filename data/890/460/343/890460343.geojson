@@ -1,0 +1,72 @@
+{
+  "id": 890460343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.50861,37.1225,40.50861,37.1225",
+    "geom:latitude":37.1225,
+    "geom:longitude":40.50861,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":158,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ko\u00e7lu"
+    ],
+    "name:unk_x_variant":[
+        "Kefertut"
+    ],
+    "qs:name":"Ko\u00e7lu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306833,
+        "gp:id":2344204,
+        "qs:id":56221
+    },
+    "wof:country":"TR",
+    "wof:created":1469053312,
+    "wof:geomhash":"1a0ad72f4a8ab856ac893fdc144bcbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":890460343,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890460343,
+    "wof:lastmodified":1505343682,
+    "wof:name":"Ko\u00e7lu",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:population":158,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.50861,
+    37.1225,
+    40.50861,
+    37.1225
+],
+  "geometry": {"coordinates":[40.50861,37.1225],"type":"Point"}
+}

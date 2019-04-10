@@ -1,0 +1,74 @@
+{
+  "id": 1260002471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.8226,39.03349,42.8226,39.03349",
+    "geom:latitude":39.03349,
+    "geom:longitude":42.8226,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ergecli",
+    "gn:country_code":"TR",
+    "gn:dem":1959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315417,
+    "gn:latitude":39.03349,
+    "gn:longitude":42.8226,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Erge\u00e7li",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Erge\u00e7li"
+    ],
+    "name:und_x_variant":[
+        "Ka\u011fam",
+        "Erke\u00e7li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315417
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77c307960d5a04a3f37eced4df0b0545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709805,
+            "locality_id":1260002471,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1260002471,
+    "wof:lastmodified":1537707187,
+    "wof:name":"Ergecli",
+    "wof:parent_id":1108709805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.8226,
+    39.03349,
+    42.8226,
+    39.03349
+],
+  "geometry": {"coordinates":[42.8226,39.03349],"type":"Point"}
+}

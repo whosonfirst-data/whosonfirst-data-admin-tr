@@ -1,0 +1,64 @@
+{
+  "id": 1209687481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38542,40.40616,29.38542,40.40616",
+    "geom:latitude":40.40616,
+    "geom:longitude":29.38542,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Dutluca",
+    "gn:country_code":"TR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8521945,
+    "gn:latitude":40.40616,
+    "gn:longitude":29.38542,
+    "gn:modification_date":"2013-05-10",
+    "gn:name":"Dutluca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dutluca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8521945
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"01db7f5bdc4f886e0f6d462cc47c114a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209687481
+        }
+    ],
+    "wof:id":1209687481,
+    "wof:lastmodified":1537708292,
+    "wof:name":"Dutluca",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38542,
+    40.40616,
+    29.38542,
+    40.40616
+],
+  "geometry": {"coordinates":[29.38542,40.40616],"type":"Point"}
+}

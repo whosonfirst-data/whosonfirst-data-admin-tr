@@ -1,0 +1,67 @@
+{
+  "id": 1310430163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03333,38.85,42.03333,38.85",
+    "geom:latitude":38.85,
+    "geom:longitude":42.03333,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Sudondu",
+    "gn:country_code":"TR",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300290,
+    "gn:latitude":38.85,
+    "gn:longitude":42.03333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Sud\u00f6nd\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890461633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300290
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"64fc658e1635529c38727aded949fd0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461633,
+            "locality_id":1310430163,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1310430163,
+    "wof:lastmodified":1537024578,
+    "wof:name":"Sudondu",
+    "wof:parent_id":890461633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03333,
+    38.85,
+    42.03333,
+    38.85
+],
+  "geometry": {"coordinates":[42.03333,38.85],"type":"Point"}
+}

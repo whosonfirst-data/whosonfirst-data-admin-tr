@@ -1,0 +1,67 @@
+{
+  "id": 1293025619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76667,39.05,43.76667,39.05",
+    "geom:latitude":39.05,
+    "geom:longitude":43.76667,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Akrak",
+    "gn:country_code":"TR",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324510,
+    "gn:latitude":39.05,
+    "gn:longitude":43.76667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Akrak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324510
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"045d6502dcd1c89666860cfd9004922b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464469,
+            "locality_id":1293025619,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1293025619,
+    "wof:lastmodified":1536955993,
+    "wof:name":"Akrak",
+    "wof:parent_id":890464469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76667,
+    39.05,
+    43.76667,
+    39.05
+],
+  "geometry": {"coordinates":[43.76667,39.05],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243261929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.0898,40.79957,35.0898,40.79957",
+    "geom:latitude":40.79957,
+    "geom:longitude":35.0898,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Omarca",
+    "gn:country_code":"TR",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697626,
+    "gn:latitude":40.79957,
+    "gn:longitude":35.0898,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Omarca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Omarca"
+    ],
+    "name:tur_x_variant":[
+        "Umurca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        1108709561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697626
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"53137596ea2ca09906b4347c0edccdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709561,
+            "locality_id":1243261929,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1243261929,
+    "wof:lastmodified":1537708267,
+    "wof:name":"Omarca",
+    "wof:parent_id":1108709561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.0898,
+    40.79957,
+    35.0898,
+    40.79957
+],
+  "geometry": {"coordinates":[35.0898,40.79957],"type":"Point"}
+}

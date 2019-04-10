@@ -1,0 +1,65 @@
+{
+  "id": 1209030339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19794,40.79706,30.19794,40.79706",
+    "geom:latitude":40.79706,
+    "geom:longitude":30.19794,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Ortaburun",
+    "gn:country_code":"TR",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740994,
+    "gn:latitude":40.79706,
+    "gn:longitude":30.19794,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ortaburun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ortaburun K\u00f6y\u00fc",
+        "Ortaburun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740994
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"683df9d0dcef8271fd1e03456e7c63a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209030339
+        }
+    ],
+    "wof:id":1209030339,
+    "wof:lastmodified":1537707751,
+    "wof:name":"Ortaburun",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19794000000001,
+    40.79706,
+    30.19794000000001,
+    40.79706
+],
+  "geometry": {"coordinates":[30.19794000000001,40.79706],"type":"Point"}
+}

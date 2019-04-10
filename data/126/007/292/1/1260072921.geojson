@@ -1,0 +1,67 @@
+{
+  "id": 1260072921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25421,40.52102,36.25421,40.52102",
+    "geom:latitude":40.52102,
+    "geom:longitude":36.25421,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bayat",
+    "gn:country_code":"TR",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750949,
+    "gn:latitude":40.52102,
+    "gn:longitude":36.25421,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Bayat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890463241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750949
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ac5d5215b14f1784c65d21687c92e6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463241,
+            "locality_id":1260072921,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1260072921,
+    "wof:lastmodified":1537002500,
+    "wof:name":"Bayat",
+    "wof:parent_id":890463241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25421,
+    40.52102,
+    36.25421,
+    40.52102
+],
+  "geometry": {"coordinates":[36.25421,40.52102],"type":"Point"}
+}

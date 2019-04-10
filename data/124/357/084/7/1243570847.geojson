@@ -1,0 +1,74 @@
+{
+  "id": 1243570847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.76667,40.43333,37.76667,40.43333",
+    "geom:latitude":40.43333,
+    "geom:longitude":37.76667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Ciftliksarica",
+    "gn:country_code":"TR",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748996,
+    "gn:latitude":40.43333,
+    "gn:longitude":37.76667,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u00c7iftliksar\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7iftliksar\u0131ca"
+    ],
+    "name:und_x_variant":[
+        "\u00c7iftliksar\u0131cas\u0131",
+        "\u00c7itliksar\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        890464147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748996
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a9fb09a106afbb8b2d8aef214d56fd03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464147,
+            "locality_id":1243570847,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1243570847,
+    "wof:lastmodified":1537708014,
+    "wof:name":"Ciftliksarica",
+    "wof:parent_id":890464147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.76667,
+    40.43333,
+    37.76667,
+    40.43333
+],
+  "geometry": {"coordinates":[37.76667,40.43333],"type":"Point"}
+}

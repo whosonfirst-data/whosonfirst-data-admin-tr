@@ -1,0 +1,66 @@
+{
+  "id": 1209312551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26257,40.6868,36.26257,40.6868",
+    "geom:latitude":40.6868,
+    "geom:longitude":36.26257,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ballidere",
+    "gn:country_code":"TR",
+    "gn:dem":497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751107,
+    "gn:latitude":40.6868,
+    "gn:longitude":36.26257,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ball\u0131dere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darma",
+        "Ball\u0131ca",
+        "Ball\u0131dere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751107
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4890310dd10606c0d4e0586d5c23019b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209312551
+        }
+    ],
+    "wof:id":1209312551,
+    "wof:lastmodified":1537708092,
+    "wof:name":"Ballidere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26257,
+    40.6868,
+    36.26257,
+    40.6868
+],
+  "geometry": {"coordinates":[36.26257,40.6868],"type":"Point"}
+}

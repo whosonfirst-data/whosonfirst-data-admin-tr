@@ -1,0 +1,73 @@
+{
+  "id": 1243361897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39555,40.73457,35.39555,40.73457",
+    "geom:latitude":40.73457,
+    "geom:longitude":35.39555,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kuyukoy",
+    "gn:country_code":"TR",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697614,
+    "gn:latitude":40.73457,
+    "gn:longitude":35.39555,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Kuyuk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kuyuk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Kuyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890461589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697614
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"98b59fb4f20bc59ba570141ea7a3b219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461589,
+            "locality_id":1243361897,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1243361897,
+    "wof:lastmodified":1537708267,
+    "wof:name":"Kuyukoy",
+    "wof:parent_id":890461589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39555,
+    40.73457,
+    35.39555,
+    40.73457
+],
+  "geometry": {"coordinates":[35.39555,40.73457],"type":"Point"}
+}

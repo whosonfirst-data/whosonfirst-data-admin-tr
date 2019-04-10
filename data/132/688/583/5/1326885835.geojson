@@ -1,0 +1,74 @@
+{
+  "id": 1326885835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.86379,39.24039,38.86379,39.24039",
+    "geom:latitude":39.24039,
+    "geom:longitude":38.86379,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Asagi Umutlu",
+    "gn:country_code":"TR",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322023,
+    "gn:latitude":39.24039,
+    "gn:longitude":38.86379,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u015fa\u011f\u0131 Umutlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Umutlu"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131mutlu",
+        "Barasors\u00fcfl\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890464029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322023
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"80e4d6d8efc41a637ab1ccc7d31b8b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464029,
+            "locality_id":1326885835,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1326885835,
+    "wof:lastmodified":1537707399,
+    "wof:name":"Asagi Umutlu",
+    "wof:parent_id":890464029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.86379,
+    39.24039000000001,
+    38.86379,
+    39.24039000000001
+],
+  "geometry": {"coordinates":[38.86379,39.24039000000001],"type":"Point"}
+}

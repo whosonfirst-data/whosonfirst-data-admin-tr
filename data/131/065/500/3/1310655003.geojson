@@ -1,0 +1,67 @@
+{
+  "id": 1310655003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85424,39.6906,30.85424,39.6906",
+    "geom:latitude":39.6906,
+    "geom:longitude":30.85424,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Karatepe",
+    "gn:country_code":"TR",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309246,
+    "gn:latitude":39.6906,
+    "gn:longitude":30.85424,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karatepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309246
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5fa5bcefb67ce5e766f901056d9732fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709773,
+            "locality_id":1310655003,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1310655003,
+    "wof:lastmodified":1536701621,
+    "wof:name":"Karatepe",
+    "wof:parent_id":1108709773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85424,
+    39.6906,
+    30.85424,
+    39.6906
+],
+  "geometry": {"coordinates":[30.85424,39.6906],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209106815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49566,38.52633,30.49566,38.52633",
+    "geom:latitude":38.52633,
+    "geom:longitude":30.49566,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ortapinar",
+    "gn:country_code":"TR",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320359,
+    "gn:latitude":38.52633,
+    "gn:longitude":30.49566,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Ortap\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ortap\u0131nar",
+        "Burnu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320359
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9a84b18683d459d79ea0652385c77b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209106815
+        }
+    ],
+    "wof:id":1209106815,
+    "wof:lastmodified":1537707346,
+    "wof:name":"Ortapinar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49566,
+    38.52633,
+    30.49566,
+    38.52633
+],
+  "geometry": {"coordinates":[30.49566,38.52633],"type":"Point"}
+}

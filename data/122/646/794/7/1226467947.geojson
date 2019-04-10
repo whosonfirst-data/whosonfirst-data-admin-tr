@@ -1,0 +1,71 @@
+{
+  "id": 1226467947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.27255,39.23316,41.27255,39.23316",
+    "geom:latitude":39.23316,
+    "geom:longitude":41.27255,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Cahlak",
+    "gn:country_code":"TR",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319990,
+    "gn:latitude":39.23316,
+    "gn:longitude":41.27255,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u00c7ahlak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ahlak",
+        "\u00c7ahlek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        1108709959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319990
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6d5adc6bfff9b452610e1477be27896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709959,
+            "locality_id":1226467947,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1226467947,
+    "wof:lastmodified":1537707334,
+    "wof:name":"Cahlak",
+    "wof:parent_id":1108709959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.27255,
+    39.23316,
+    41.27255,
+    39.23316
+],
+  "geometry": {"coordinates":[41.27255,39.23316],"type":"Point"}
+}

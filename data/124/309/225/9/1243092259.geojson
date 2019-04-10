@@ -1,0 +1,70 @@
+{
+  "id": 1243092259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64687,37.55938,43.64687,37.55938",
+    "geom:latitude":37.55938,
+    "geom:longitude":43.64687,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Karanar",
+    "gn:country_code":"TR",
+    "gn:dem":2137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302261,
+    "gn:latitude":37.55938,
+    "gn:longitude":43.64687,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Karanar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadinan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890464425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302261
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"80b7b838612bc63272731e2a9676321e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464425,
+            "locality_id":1243092259,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1243092259,
+    "wof:lastmodified":1537706768,
+    "wof:name":"Karanar",
+    "wof:parent_id":890464425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64687,
+    37.55938,
+    43.64687,
+    37.55938
+],
+  "geometry": {"coordinates":[43.64687,37.55938],"type":"Point"}
+}

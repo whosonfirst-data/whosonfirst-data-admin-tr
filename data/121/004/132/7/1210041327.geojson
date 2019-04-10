@@ -1,0 +1,73 @@
+{
+  "id": 1210041327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.50245,40.02931,38.50245,40.02931",
+    "geom:latitude":40.02931,
+    "geom:longitude":38.50245,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Okcaoren",
+    "gn:country_code":"TR",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741204,
+    "gn:latitude":40.02931,
+    "gn:longitude":38.50245,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ok\u00e7a\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okcaviran",
+        "Ok\u00e7averen",
+        "Ok\u00e7averan",
+        "Ok\u00e7a\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108709527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741204
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ed58178b0f075561101c254c3c57d24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709527,
+            "locality_id":1210041327,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1210041327,
+    "wof:lastmodified":1537707758,
+    "wof:name":"Okcaoren",
+    "wof:parent_id":1108709527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.50245,
+    40.02931,
+    38.50245,
+    40.02931
+],
+  "geometry": {"coordinates":[38.50245,40.02931],"type":"Point"}
+}

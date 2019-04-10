@@ -1,0 +1,64 @@
+{
+  "id": 1209171585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.59464,39.14737,38.59464,39.14737",
+    "geom:latitude":39.14737,
+    "geom:longitude":38.59464,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Ocak",
+    "gn:country_code":"TR",
+    "gn:dem":1447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303726,
+    "gn:latitude":39.14737,
+    "gn:longitude":38.59464,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ocak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ocak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303726
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d5a33092d9b769209367c894500e622b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209171585
+        }
+    ],
+    "wof:id":1209171585,
+    "wof:lastmodified":1537706816,
+    "wof:name":"Ocak",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.59464000000001,
+    39.14737,
+    38.59464000000001,
+    39.14737
+],
+  "geometry": {"coordinates":[38.59464000000001,39.14737],"type":"Point"}
+}

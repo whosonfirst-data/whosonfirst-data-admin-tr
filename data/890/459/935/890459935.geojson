@@ -1,0 +1,71 @@
+{
+  "id": 890459935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.89,37.92722,40.89,37.92722",
+    "geom:latitude":37.92722,
+    "geom:longitude":40.89,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":153,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dikenli"
+    ],
+    "name:unk_x_variant":[
+        "Dikenlik"
+    ],
+    "qs:name":"Dikenli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316574,
+        "qs:id":80107
+    },
+    "wof:country":"TR",
+    "wof:created":1469053293,
+    "wof:geomhash":"3c8ecd110aa89b05b435b137da0fc434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":890459935,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890459935,
+    "wof:lastmodified":1505343679,
+    "wof:name":"Dikenli",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:population":153,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.89,
+    37.92722,
+    40.89,
+    37.92722
+],
+  "geometry": {"coordinates":[40.89,37.92722],"type":"Point"}
+}

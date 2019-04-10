@@ -1,0 +1,122 @@
+{
+  "id": 85906527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:area_square_m":159307.217545,
+    "geom:bbox":"28.9544677734,41.0151382152,28.9599609375,41.019282876",
+    "geom:latitude":41.017556,
+    "geom:longitude":28.956757,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":41.017317,
+    "lbl:longitude":28.954566,
+    "mps:latitude":41.017838,
+    "mps:longitude":28.955933,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Husam Bey"
+    ],
+    "name:eng_x_preferred":[
+        "Zeyrek"
+    ],
+    "name:hun_x_preferred":[
+        "Zeyrek"
+    ],
+    "name:por_x_preferred":[
+        "Zeyrek"
+    ],
+    "name:tur_x_preferred":[
+        "H\u00fcsam Bey"
+    ],
+    "name:tur_x_variant":[
+        "H\u00fcsam Bey",
+        "Zeyrek"
+    ],
+    "name:und_x_preferred":[
+        "H\u00fcsam Bey"
+    ],
+    "name:unk_x_variant":[
+        "H\u00fcsam Bey"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"H\u00fcsam Bey",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Fatih",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":137,
+    "qs:photo_sum":259,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390328,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724063,
+        "qs:id":14454,
+        "wd:id":"Q8069961"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9ddb393a62e381ae7d07dcc768c0a9aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "neighbourhood_id":85906527,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85906527,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527268836,
+    "wof:name":"Zeyrek",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9544677734001,
+    41.01513821520004,
+    28.95996093750023,
+    41.01928287600003
+],
+  "geometry": {"coordinates":[[[28.95996093750011,41.01928287600003],[28.95996093750023,41.01856879600676],[28.95996093750023,41.01792463884991],[28.95996093750011,41.01721057820009],[28.9594221733629,41.01721057681142],[28.95942216177519,41.01721056190016],[28.95721435548654,41.01721056869188],[28.95721435549234,41.01585226970117],[28.95721435550007,41.01513821520004],[28.95611045872749,41.01513821520004],[28.95584106450013,41.01513821520004],[28.9544677734001,41.01513821520004],[28.95446777341476,41.01620930624976],[28.95446777341687,41.01721057005017],[28.95446777341402,41.01928286786254],[28.95721435548188,41.01928286732004],[28.95942218299189,41.01928287076112],[28.95996093750011,41.01928287600003]]],"type":"Polygon"}
+}

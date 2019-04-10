@@ -1,0 +1,75 @@
+{
+  "id": 1226773265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.98317,37.40378,40.98317,37.40378",
+    "geom:latitude":37.40378,
+    "geom:longitude":40.98317,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Mezreke",
+    "gn:country_code":"TR",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":441055,
+    "gn:latitude":37.40378,
+    "gn:longitude":40.98317,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mezreke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fczela\u011fa\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Merzikyan",
+        "Merzik\u00e2n",
+        "Mezreke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108710073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":441055
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf20ed86d05c75ffb3e3f2965f0da3a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710073,
+            "locality_id":1226773265,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1226773265,
+    "wof:lastmodified":1537707590,
+    "wof:name":"Mezreke",
+    "wof:parent_id":1108710073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.98317,
+    37.40378,
+    40.98317,
+    37.40378
+],
+  "geometry": {"coordinates":[40.98317,37.40378],"type":"Point"}
+}

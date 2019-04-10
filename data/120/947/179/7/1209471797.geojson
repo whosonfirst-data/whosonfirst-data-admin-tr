@@ -1,0 +1,64 @@
+{
+  "id": 1209471797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33411,40.4668,42.33411,40.4668",
+    "geom:latitude":40.4668,
+    "geom:longitude":42.33411,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Catalelma",
+    "gn:country_code":"TR",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749631,
+    "gn:latitude":40.4668,
+    "gn:longitude":42.33411,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"\u00c7atalelma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7atalelma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749631
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7adf86ccb261f5c8080fd9da4aa96c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209471797
+        }
+    ],
+    "wof:id":1209471797,
+    "wof:lastmodified":1537708038,
+    "wof:name":"Catalelma",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33411,
+    40.4668,
+    42.33411,
+    40.4668
+],
+  "geometry": {"coordinates":[42.33411,40.4668],"type":"Point"}
+}

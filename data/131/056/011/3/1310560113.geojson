@@ -1,0 +1,74 @@
+{
+  "id": 1310560113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.37891,38.37785,40.37891,38.37785",
+    "geom:latitude":38.37785,
+    "geom:longitude":40.37891,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Okurkoy",
+    "gn:country_code":"TR",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318676,
+    "gn:latitude":38.37785,
+    "gn:longitude":40.37891,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Okurk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Okurk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Okur",
+        "Cevzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318676
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d889e9fbb8ffd2e8541ffd6b6d6247d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709569,
+            "locality_id":1310560113,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1310560113,
+    "wof:lastmodified":1537707291,
+    "wof:name":"Okurkoy",
+    "wof:parent_id":1108709569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.37891,
+    38.37785,
+    40.37891,
+    38.37785
+],
+  "geometry": {"coordinates":[40.37891,38.37785],"type":"Point"}
+}

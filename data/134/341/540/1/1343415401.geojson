@@ -1,0 +1,67 @@
+{
+  "id": 1343415401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73333,39.55,31.73333,39.55",
+    "geom:latitude":39.55,
+    "geom:longitude":31.73333,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Oglakci",
+    "gn:country_code":"TR",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303689,
+    "gn:latitude":39.55,
+    "gn:longitude":31.73333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"O\u011flak\u00e7\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890460831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303689
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69622b422abe1612bd6c931bfc50ae90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460831,
+            "locality_id":1343415401,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1343415401,
+    "wof:lastmodified":1536810923,
+    "wof:name":"Oglakci",
+    "wof:parent_id":890460831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73333,
+    39.55,
+    31.73333,
+    39.55
+],
+  "geometry": {"coordinates":[31.73333,39.55],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276790255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11667,39.15,39.11667,39.15",
+    "geom:latitude":39.15,
+    "geom:longitude":39.11667,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kozluca",
+    "gn:country_code":"TR",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306059,
+    "gn:latitude":39.15,
+    "gn:longitude":39.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kozluca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306059
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a5e9cc0744eeddc7cf5e32bdd66d43e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709597,
+            "locality_id":1276790255,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1276790255,
+    "wof:lastmodified":1536663729,
+    "wof:name":"Kozluca",
+    "wof:parent_id":1108709597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11667,
+    39.15,
+    39.11667,
+    39.15
+],
+  "geometry": {"coordinates":[39.11667,39.15],"type":"Point"}
+}

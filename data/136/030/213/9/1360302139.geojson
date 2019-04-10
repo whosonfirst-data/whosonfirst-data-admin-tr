@@ -1,0 +1,71 @@
+{
+  "id": 1360302139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.28504,40.03534,44.28504,40.03534",
+    "geom:latitude":40.03534,
+    "geom:longitude":44.28504,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Kockiran",
+    "gn:country_code":"TR",
+    "gn:dem":835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748055,
+    "gn:latitude":40.03534,
+    "gn:longitude":44.28504,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ko\u00e7k\u0131ran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e7k\u0131ran",
+        "Dize"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        1108709625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748055
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"31b0067296438a04dbed50576e1e6569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709625,
+            "locality_id":1360302139,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1360302139,
+    "wof:lastmodified":1537707982,
+    "wof:name":"Kockiran",
+    "wof:parent_id":1108709625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.28504,
+    40.03534000000001,
+    44.28504,
+    40.03534000000001
+],
+  "geometry": {"coordinates":[44.28504,40.03534000000001],"type":"Point"}
+}

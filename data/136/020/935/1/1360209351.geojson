@@ -1,0 +1,70 @@
+{
+  "id": 1360209351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.84906,40.44297,39.84906,40.44297",
+    "geom:latitude":40.44297,
+    "geom:longitude":39.84906,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Akhisar",
+    "gn:country_code":"TR",
+    "gn:dem":2072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752487,
+    "gn:latitude":40.44297,
+    "gn:longitude":39.84906,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Akhisar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akhisar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890464141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752487
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ea16e3ea670d353160e4fe7ae61da323",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464141,
+            "locality_id":1360209351,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1360209351,
+    "wof:lastmodified":1537708141,
+    "wof:name":"Akhisar",
+    "wof:parent_id":890464141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.84906,
+    40.44297,
+    39.84906,
+    40.44297
+],
+  "geometry": {"coordinates":[39.84906,40.44297],"type":"Point"}
+}

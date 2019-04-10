@@ -1,0 +1,71 @@
+{
+  "id": 1310526889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2,38.55,33.2,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":33.2,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Halkenli",
+    "gn:country_code":"TR",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312814,
+    "gn:latitude":38.55,
+    "gn:longitude":33.2,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Halkenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dondurma",
+        "Halkenli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890460979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312814
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ddd90a8d0af7d047922bd7144d35ad43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460979,
+            "locality_id":1310526889,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1310526889,
+    "wof:lastmodified":1537707102,
+    "wof:name":"Halkenli",
+    "wof:parent_id":890460979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2,
+    38.55,
+    33.2,
+    38.55
+],
+  "geometry": {"coordinates":[33.2,38.55],"type":"Point"}
+}

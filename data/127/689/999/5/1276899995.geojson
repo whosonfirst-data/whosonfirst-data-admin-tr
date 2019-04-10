@@ -1,0 +1,76 @@
+{
+  "id": 1276899995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70647,38.73736,32.70647,38.73736",
+    "geom:latitude":38.73736,
+    "geom:longitude":32.70647,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Yenikoy",
+    "gn:country_code":"TR",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320199,
+    "gn:latitude":38.73736,
+    "gn:longitude":32.70647,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Yenik\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "P\u0131narba\u015f\u0131"
+    ],
+    "name:tur_x_variant":[
+        "P\u0131narba\u015f\u0131 Yaylas\u0131"
+    ],
+    "name:und_x_variant":[
+        "Yenik\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890460979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320199
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"210682a471bdc9a320dc157c6122998e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460979,
+            "locality_id":1276899995,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1276899995,
+    "wof:lastmodified":1537707341,
+    "wof:name":"Yenikoy",
+    "wof:parent_id":890460979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70647,
+    38.73736,
+    32.70647,
+    38.73736
+],
+  "geometry": {"coordinates":[32.70647,38.73736],"type":"Point"}
+}

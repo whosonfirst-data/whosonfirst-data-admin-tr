@@ -1,0 +1,67 @@
+{
+  "id": 1226100675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.03333,37.83333,40.03333,37.83333",
+    "geom:latitude":37.83333,
+    "geom:longitude":40.03333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kusdogan",
+    "gn:country_code":"TR",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305311,
+    "gn:latitude":37.83333,
+    "gn:longitude":40.03333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ku\u015fdo\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305311
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"00f4a58e5c30c40caca33edc90e9b7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709329,
+            "locality_id":1226100675,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1226100675,
+    "wof:lastmodified":1536645441,
+    "wof:name":"Kusdogan",
+    "wof:parent_id":1108709329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.03333,
+    37.83333,
+    40.03333,
+    37.83333
+],
+  "geometry": {"coordinates":[40.03333,37.83333],"type":"Point"}
+}

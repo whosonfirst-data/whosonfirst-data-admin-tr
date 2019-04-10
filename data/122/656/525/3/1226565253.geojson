@@ -1,0 +1,72 @@
+{
+  "id": 1226565253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.67088,41.46357,42.67088,41.46357",
+    "geom:latitude":41.46357,
+    "geom:longitude":42.67088,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Ulucam",
+    "gn:country_code":"TR",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738434,
+    "gn:latitude":41.46357,
+    "gn:longitude":42.67088,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Ulu\u00e7am",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Verhana",
+        "Varhana",
+        "Ulu\u00e7am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679511,
+        1108709823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738434
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"55f6ecae621cb0255d798969932456e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709823,
+            "locality_id":1226565253,
+            "region_id":85679511
+        }
+    ],
+    "wof:id":1226565253,
+    "wof:lastmodified":1537707664,
+    "wof:name":"Ulucam",
+    "wof:parent_id":1108709823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.67088,
+    41.46357,
+    42.67088,
+    41.46357
+],
+  "geometry": {"coordinates":[42.67088,41.46357],"type":"Point"}
+}

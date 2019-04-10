@@ -1,0 +1,74 @@
+{
+  "id": 1209832205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.74246,37.29577,39.74246,37.29577",
+    "geom:latitude":37.29577,
+    "geom:longitude":39.74246,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Topca",
+    "gn:country_code":"TR",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299002,
+    "gn:latitude":37.29577,
+    "gn:longitude":39.74246,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Topca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fck Top\u00e7a"
+    ],
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fcktop\u00e7a",
+        "Topca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299002
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd089d199d7b8ab8053eb88f0bdf2131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461923,
+            "locality_id":1209832205,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1209832205,
+    "wof:lastmodified":1537706660,
+    "wof:name":"Topca",
+    "wof:parent_id":890461923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.74246,
+    37.29577000000001,
+    39.74246,
+    37.29577000000001
+],
+  "geometry": {"coordinates":[39.74246,37.29577000000001],"type":"Point"}
+}

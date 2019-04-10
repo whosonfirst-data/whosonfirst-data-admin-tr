@@ -1,0 +1,75 @@
+{
+  "id": 1193235303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.72335,39.80374,40.72335,39.80374",
+    "geom:latitude":39.80374,
+    "geom:longitude":40.72335,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Hacimahmut",
+    "gn:country_code":"TR",
+    "gn:dem":1947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304180,
+    "gn:latitude":39.80374,
+    "gn:longitude":40.72335,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Hac\u0131mahmut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Hac\u0131mahmut"
+    ],
+    "name:und_x_variant":[
+        "Kanakilise",
+        "Hacimahmut",
+        "Muhacirkarakilise"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304180
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"530b0b5f3730ad1150d5960a24adef85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709231,
+            "locality_id":1193235303,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1193235303,
+    "wof:lastmodified":1537706831,
+    "wof:name":"Hacimahmut",
+    "wof:parent_id":1108709231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.72335,
+    39.80374000000001,
+    40.72335,
+    39.80374000000001
+],
+  "geometry": {"coordinates":[40.72335,39.80374000000001],"type":"Point"}
+}

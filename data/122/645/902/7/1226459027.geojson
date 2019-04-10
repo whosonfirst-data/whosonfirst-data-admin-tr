@@ -1,0 +1,71 @@
+{
+  "id": 1226459027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.35,39.95,39.35,39.95",
+    "geom:latitude":39.95,
+    "geom:longitude":39.35,
+    "gn:admin1_code":"69",
+    "gn:asciiname":"Corak",
+    "gn:country_code":"TR",
+    "gn:dem":1844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318055,
+    "gn:latitude":39.95,
+    "gn:longitude":39.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7orak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7orak K\u00f6y",
+        "\u00c7orak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890463525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318055
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9019db8d94c930e9c7eecaee79252993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463525,
+            "locality_id":1226459027,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1226459027,
+    "wof:lastmodified":1537707271,
+    "wof:name":"Corak",
+    "wof:parent_id":890463525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.35,
+    39.95,
+    39.35,
+    39.95
+],
+  "geometry": {"coordinates":[39.35,39.95],"type":"Point"}
+}

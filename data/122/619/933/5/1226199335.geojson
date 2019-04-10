@@ -1,0 +1,77 @@
+{
+  "id": 1226199335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.26273,40.74107,42.26273,40.74107",
+    "geom:latitude":40.74107,
+    "geom:longitude":42.26273,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Balkaya",
+    "gn:country_code":"TR",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751120,
+    "gn:latitude":40.74107,
+    "gn:longitude":42.26273,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Balkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Balkaya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u043b\u043a\u0430\u044f"
+    ],
+    "name:und_x_variant":[
+        "Balkaya K\u00f6y\u00fc",
+        "Balkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751120
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"862ef8e488766b7da03629b8a21f5161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709201,
+            "locality_id":1226199335,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1226199335,
+    "wof:lastmodified":1537708093,
+    "wof:name":"Balkaya",
+    "wof:parent_id":1108709201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.26273,
+    40.74107,
+    42.26273,
+    40.74107
+],
+  "geometry": {"coordinates":[42.26273,40.74107],"type":"Point"}
+}

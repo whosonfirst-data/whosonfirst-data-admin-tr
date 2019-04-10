@@ -1,0 +1,75 @@
+{
+  "id": 1210041359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36278,41.25389,36.36278,41.25389",
+    "geom:latitude":41.25389,
+    "geom:longitude":36.36278,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Haskoy",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745755,
+    "gn:latitude":41.25389,
+    "gn:longitude":36.36278,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Hask\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Asara\u011fa\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Papask\u00f6y",
+        "Hask\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745755
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0b619e4979af8e4344bb6b1ae8f2760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709411,
+            "locality_id":1210041359,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1210041359,
+    "wof:lastmodified":1537707901,
+    "wof:name":"Haskoy",
+    "wof:parent_id":1108709411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36278,
+    41.25389000000001,
+    36.36278,
+    41.25389000000001
+],
+  "geometry": {"coordinates":[36.36278,41.25389000000001],"type":"Point"}
+}

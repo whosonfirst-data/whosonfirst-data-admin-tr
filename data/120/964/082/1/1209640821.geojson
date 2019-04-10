@@ -1,0 +1,65 @@
+{
+  "id": 1209640821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.81098,40.29592,36.81098,40.29592",
+    "geom:latitude":40.29592,
+    "geom:longitude":36.81098,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ormandibi",
+    "gn:country_code":"TR",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741021,
+    "gn:latitude":40.29592,
+    "gn:longitude":36.81098,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ormandibi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fired\u00f6kse",
+        "Ormandibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741021
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de68cea428edf53e6a0b183989f82597",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209640821
+        }
+    ],
+    "wof:id":1209640821,
+    "wof:lastmodified":1537707752,
+    "wof:name":"Ormandibi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.81098,
+    40.29592,
+    36.81098,
+    40.29592
+],
+  "geometry": {"coordinates":[36.81098,40.29592],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 890459479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.48528,36.87833,38.48528,36.87833",
+    "geom:latitude":36.87833,
+    "geom:longitude":38.48528,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":238,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u015eavik"
+    ],
+    "qs:name":"\u00c7engelli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890460731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318835,
+        "qs:id":547612
+    },
+    "wof:country":"TR",
+    "wof:created":1469053270,
+    "wof:geomhash":"2e181befdf17d0e7b911c1dc4370175a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460731,
+            "locality_id":890459479,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890459479,
+    "wof:lastmodified":1505343677,
+    "wof:name":"\u00c7engelli",
+    "wof:parent_id":890460731,
+    "wof:placetype":"locality",
+    "wof:population":238,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.48528,
+    36.87833,
+    38.48528,
+    36.87833
+],
+  "geometry": {"coordinates":[38.48528,36.87833],"type":"Point"}
+}

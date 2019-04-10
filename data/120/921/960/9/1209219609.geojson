@@ -1,0 +1,66 @@
+{
+  "id": 1209219609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78333,39.7,43.78333,39.7",
+    "geom:latitude":39.7,
+    "geom:longitude":43.78333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tulumlu",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298858,
+    "gn:latitude":39.7,
+    "gn:longitude":43.78333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tulumlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aru\u00e7",
+        "Tulumlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298858
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"298062839b30eb6ad2e9621edb8b9610",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209219609
+        }
+    ],
+    "wof:id":1209219609,
+    "wof:lastmodified":1537706655,
+    "wof:name":"Tulumlu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78333,
+    39.7,
+    43.78333,
+    39.7
+],
+  "geometry": {"coordinates":[43.78333,39.7],"type":"Point"}
+}

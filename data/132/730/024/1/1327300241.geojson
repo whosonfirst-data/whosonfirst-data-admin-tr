@@ -1,0 +1,74 @@
+{
+  "id": 1327300241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41445,40.26159,26.41445,40.26159",
+    "geom:latitude":40.26159,
+    "geom:longitude":26.41445,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Yalova",
+    "gn:country_code":"TR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738026,
+    "gn:latitude":40.26159,
+    "gn:longitude":26.41445,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yalova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yalik Abat",
+        "Yaluva",
+        "Yalakabat",
+        "Yallova",
+        "Yalova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738026
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6aab9b6d889ad6cea371e0e1e93d5bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709471,
+            "locality_id":1327300241,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1327300241,
+    "wof:lastmodified":1537707649,
+    "wof:name":"Yalova",
+    "wof:parent_id":1108709471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41445,
+    40.26159000000001,
+    26.41445,
+    40.26159000000001
+],
+  "geometry": {"coordinates":[26.41445,40.26159000000001],"type":"Point"}
+}

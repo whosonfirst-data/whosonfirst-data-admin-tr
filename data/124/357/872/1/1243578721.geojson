@@ -1,0 +1,71 @@
+{
+  "id": 1243578721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43939,37.38992,43.43939,37.38992",
+    "geom:latitude":37.38992,
+    "geom:longitude":43.43939,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Turbeli",
+    "gn:country_code":"TR",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":439018,
+    "gn:latitude":37.38992,
+    "gn:longitude":43.43939,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"T\u00fcrbeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fcrbeli",
+        "\u0130de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890460985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439018
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77a713a79a5fd92af93aa420e8cfcb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460985,
+            "locality_id":1243578721,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1243578721,
+    "wof:lastmodified":1537707572,
+    "wof:name":"Turbeli",
+    "wof:parent_id":890460985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43939,
+    37.38992,
+    43.43939,
+    37.38992
+],
+  "geometry": {"coordinates":[43.43939,37.38992],"type":"Point"}
+}

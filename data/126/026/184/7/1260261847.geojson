@@ -1,0 +1,67 @@
+{
+  "id": 1260261847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.50815,38.4327,42.50815,38.4327",
+    "geom:latitude":38.4327,
+    "geom:longitude":42.50815,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Ustus",
+    "gn:country_code":"TR",
+    "gn:dem":2087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298281,
+    "gn:latitude":38.4327,
+    "gn:longitude":42.50815,
+    "gn:modification_date":"2009-02-27",
+    "gn:name":"\u00dcst\u00fcs",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890461715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298281
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b555f4ae6940f1deeaaf9d2548d939bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461715,
+            "locality_id":1260261847,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1260261847,
+    "wof:lastmodified":1536740947,
+    "wof:name":"Ustus",
+    "wof:parent_id":890461715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.50815,
+    38.4327,
+    42.50815,
+    38.4327
+],
+  "geometry": {"coordinates":[42.50815,38.4327],"type":"Point"}
+}

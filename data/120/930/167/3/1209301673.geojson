@@ -1,0 +1,64 @@
+{
+  "id": 1209301673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24592,40.2949,30.24592,40.2949",
+    "geom:latitude":40.2949,
+    "geom:longitude":30.24592,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Bolatli",
+    "gn:country_code":"TR",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273764,
+    "gn:latitude":40.2949,
+    "gn:longitude":30.24592,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Bolatl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bolatl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83c94422fd36d5902ad9ed800211ec70",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209301673
+        }
+    ],
+    "wof:id":1209301673,
+    "wof:lastmodified":1537708281,
+    "wof:name":"Bolatli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24592,
+    40.2949,
+    30.24592,
+    40.2949
+],
+  "geometry": {"coordinates":[30.24592,40.2949],"type":"Point"}
+}

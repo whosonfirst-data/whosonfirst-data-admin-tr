@@ -1,0 +1,74 @@
+{
+  "id": 1360302087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.75366,36.80443,38.75366,36.80443",
+    "geom:latitude":36.80443,
+    "geom:longitude":38.75366,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Incedere",
+    "gn:country_code":"TR",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317030,
+    "gn:latitude":36.80443,
+    "gn:longitude":38.75366,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u0130ncedere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130ncedere"
+    ],
+    "name:und_x_variant":[
+        "Derefere",
+        "Derfere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        1108709267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317030
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eb5e14fa77757a2261bb40088b27b65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709267,
+            "locality_id":1360302087,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1360302087,
+    "wof:lastmodified":1537707238,
+    "wof:name":"Incedere",
+    "wof:parent_id":1108709267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.75366,
+    36.80443,
+    38.75366,
+    36.80443
+],
+  "geometry": {"coordinates":[38.75366,36.80443],"type":"Point"}
+}

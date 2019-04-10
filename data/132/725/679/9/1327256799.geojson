@@ -1,0 +1,75 @@
+{
+  "id": 1327256799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6612,37.10865,32.6612,37.10865",
+    "geom:latitude":37.10865,
+    "geom:longitude":32.6612,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Omeroglu",
+    "gn:country_code":"TR",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305155,
+    "gn:latitude":37.10865,
+    "gn:longitude":32.6612,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00d6mero\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6mero\u011flu"
+    ],
+    "name:und_x_variant":[
+        "Kozviran",
+        "Kuzviran",
+        "Kuz\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        1108709537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305155
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"960538e3e7c7c397c6361e7029bff1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709537,
+            "locality_id":1327256799,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1327256799,
+    "wof:lastmodified":1537706865,
+    "wof:name":"Omeroglu",
+    "wof:parent_id":1108709537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6612,
+    37.10865,
+    32.6612,
+    37.10865
+],
+  "geometry": {"coordinates":[32.6612,37.10865],"type":"Point"}
+}

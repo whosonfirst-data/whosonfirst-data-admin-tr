@@ -1,0 +1,64 @@
+{
+  "id": 1209440481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.90547,40.91978,37.90547,40.91978",
+    "geom:latitude":40.91978,
+    "geom:longitude":37.90547,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Alembey",
+    "gn:country_code":"TR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752161,
+    "gn:latitude":40.91978,
+    "gn:longitude":37.90547,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Alembey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alembey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752161
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69d36049f79d39da7e883ec3087ee0fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440481
+        }
+    ],
+    "wof:id":1209440481,
+    "wof:lastmodified":1537708129,
+    "wof:name":"Alembey",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.90547,
+    40.91978,
+    37.90547,
+    40.91978
+],
+  "geometry": {"coordinates":[37.90547,40.91978],"type":"Point"}
+}

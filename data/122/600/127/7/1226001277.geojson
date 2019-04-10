@@ -1,0 +1,73 @@
+{
+  "id": 1226001277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.88255,38.43535,39.88255,38.43535",
+    "geom:latitude":38.43535,
+    "geom:longitude":39.88255,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Altioluk",
+    "gn:country_code":"TR",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323914,
+    "gn:latitude":38.43535,
+    "gn:longitude":39.88255,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Alt\u0131oluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alt\u0131noluk"
+    ],
+    "name:tur_x_variant":[
+        "Alt\u0131oluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323914
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c740b331fbbdd1066cd94351f9f68705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709275,
+            "locality_id":1226001277,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1226001277,
+    "wof:lastmodified":1537707464,
+    "wof:name":"Altioluk",
+    "wof:parent_id":1108709275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.88255,
+    38.43535,
+    39.88255,
+    38.43535
+],
+  "geometry": {"coordinates":[39.88255,38.43535],"type":"Point"}
+}

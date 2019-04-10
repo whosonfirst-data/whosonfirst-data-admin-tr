@@ -1,0 +1,73 @@
+{
+  "id": 1293415401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48507,37.26584,40.48507,37.26584",
+    "geom:latitude":37.26584,
+    "geom:longitude":40.48507,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Doganli",
+    "gn:country_code":"TR",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310772,
+    "gn:latitude":37.26584,
+    "gn:longitude":40.48507,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Do\u011fanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Do\u011fanl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Kalecik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310772
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"58ed4ca82fbb5e3f075b2868b761f87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":1293415401,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1293415401,
+    "wof:lastmodified":1537707035,
+    "wof:name":"Doganli",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48507,
+    37.26584,
+    40.48507,
+    37.26584
+],
+  "geometry": {"coordinates":[40.48507,37.26584],"type":"Point"}
+}

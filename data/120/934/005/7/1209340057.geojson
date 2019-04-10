@@ -1,0 +1,64 @@
+{
+  "id": 1209340057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.69845,37.33119,37.69845,37.33119",
+    "geom:latitude":37.33119,
+    "geom:longitude":37.69845,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Senlikce",
+    "gn:country_code":"TR",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301162,
+    "gn:latitude":37.33119,
+    "gn:longitude":37.69845,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u015eenlik\u00e7e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eenlik\u00e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301162
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a7a4934398ef648026c822f2510073e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340057
+        }
+    ],
+    "wof:id":1209340057,
+    "wof:lastmodified":1537706732,
+    "wof:name":"Senlikce",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.69845,
+    37.33119,
+    37.69845,
+    37.33119
+],
+  "geometry": {"coordinates":[37.69845,37.33119],"type":"Point"}
+}

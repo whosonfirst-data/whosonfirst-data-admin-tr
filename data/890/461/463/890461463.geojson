@@ -1,0 +1,73 @@
+{
+  "id": 890461463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.038066,41.093648,29.038066,41.093648",
+    "geom:latitude":41.093648,
+    "geom:longitude":29.038066,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Fatih Sultan Mehmet",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos":28,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":28,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912639,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870781,
+        "qs:id":1337658
+    },
+    "wof:country":"TR",
+    "wof:created":1469053352,
+    "wof:geomhash":"80c2319a51c3dad9f93d47a8e98037cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "locality_id":101912639,
+            "neighbourhood_id":890461463,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890461463,
+    "wof:lastmodified":1534379467,
+    "wof:name":"Fatih Sultan Mehmet",
+    "wof:parent_id":101912639,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        1108950157
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.038066,
+    41.093648,
+    29.038066,
+    41.093648
+],
+  "geometry": {"coordinates":[29.038066,41.093648],"type":"Point"}
+}

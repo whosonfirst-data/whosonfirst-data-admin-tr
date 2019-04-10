@@ -1,0 +1,64 @@
+{
+  "id": 1209131465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93425,38.27977,42.93425,38.27977",
+    "geom:latitude":38.27977,
+    "geom:longitude":42.93425,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Kurultu",
+    "gn:country_code":"TR",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6967889,
+    "gn:latitude":38.27977,
+    "gn:longitude":42.93425,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Kurultu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kurultu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6967889
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6440b2f992fb0ba9fdff5f53fcdd0dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131465
+        }
+    ],
+    "wof:id":1209131465,
+    "wof:lastmodified":1537708169,
+    "wof:name":"Kurultu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93425,
+    38.27977,
+    42.93425,
+    38.27977
+],
+  "geometry": {"coordinates":[42.93425,38.27977],"type":"Point"}
+}

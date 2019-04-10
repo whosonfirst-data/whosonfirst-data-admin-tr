@@ -1,0 +1,65 @@
+{
+  "id": 1209541353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56629,41.54642,35.56629,41.54642",
+    "geom:latitude":41.54642,
+    "geom:longitude":35.56629,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Orenli",
+    "gn:country_code":"TR",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738161,
+    "gn:latitude":41.54642,
+    "gn:longitude":35.56629,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u00d6renli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6renli",
+        "Virane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738161
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0b812c5b4d7b1f3c4ac931a4a9c32da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541353
+        }
+    ],
+    "wof:id":1209541353,
+    "wof:lastmodified":1537707655,
+    "wof:name":"Orenli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56629,
+    41.54642,
+    35.56629,
+    41.54642
+],
+  "geometry": {"coordinates":[35.56629,41.54642],"type":"Point"}
+}

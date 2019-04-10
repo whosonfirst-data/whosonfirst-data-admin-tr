@@ -1,0 +1,73 @@
+{
+  "id": 1310030249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.3185,39.41999,42.3185,39.41999",
+    "geom:latitude":39.41999,
+    "geom:longitude":42.3185,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Baskaya",
+    "gn:country_code":"TR",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322128,
+    "gn:latitude":39.41999,
+    "gn:longitude":42.3185,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ba\u015fkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u015fkaya"
+    ],
+    "name:und_x_variant":[
+        "Balkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322128
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"62910aa751646dc661187e81df878e99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1310030249,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1310030249,
+    "wof:lastmodified":1537707402,
+    "wof:name":"Baskaya",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.3185,
+    39.41999000000001,
+    42.3185,
+    39.41999000000001
+],
+  "geometry": {"coordinates":[42.3185,39.41999000000001],"type":"Point"}
+}

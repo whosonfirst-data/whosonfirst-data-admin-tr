@@ -1,0 +1,76 @@
+{
+  "id": 1243141133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95078,38.12665,40.95078,38.12665",
+    "geom:latitude":38.12665,
+    "geom:longitude":40.95078,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kirkiran",
+    "gn:country_code":"TR",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307863,
+    "gn:latitude":38.12665,
+    "gn:longitude":40.95078,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0131rk\u0131ran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Ha\u015fter",
+        "Kilisi",
+        "K\u0131rk\u0131ran",
+        "Kilis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307863
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9ef60ad42e989373314653e49f8a6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709881,
+            "locality_id":1243141133,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243141133,
+    "wof:lastmodified":1537706951,
+    "wof:name":"Kirkiran",
+    "wof:parent_id":1108709881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95078,
+    38.12665,
+    40.95078,
+    38.12665
+],
+  "geometry": {"coordinates":[40.95078,38.12665],"type":"Point"}
+}

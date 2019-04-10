@@ -1,0 +1,67 @@
+{
+  "id": 1209131441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24202,40.27191,36.24202,40.27191",
+    "geom:latitude":40.27191,
+    "geom:longitude":36.24202,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Tatarkoy",
+    "gn:country_code":"TR",
+    "gn:dem":560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739000,
+    "gn:latitude":40.27191,
+    "gn:longitude":36.24202,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Tatark\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tatark\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Tatar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739000
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be6dc1d437b7691cb27836dece1f583e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131441
+        }
+    ],
+    "wof:id":1209131441,
+    "wof:lastmodified":1537707683,
+    "wof:name":"Tatarkoy",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24202,
+    40.27191,
+    36.24202,
+    40.27191
+],
+  "geometry": {"coordinates":[36.24202,40.27191],"type":"Point"}
+}

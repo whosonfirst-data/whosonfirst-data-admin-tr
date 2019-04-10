@@ -1,0 +1,73 @@
+{
+  "id": 1277043693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.67912,38.45121,38.67912,38.45121",
+    "geom:latitude":38.45121,
+    "geom:longitude":38.67912,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kussarayi",
+    "gn:country_code":"TR",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":305287,
+    "gn:latitude":38.45121,
+    "gn:longitude":38.67912,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ku\u015fsaray\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0130zolu",
+        "Bekirh\u00fcseyin",
+        "Ku\u015fsaray\u0131",
+        "Ku\u015fsaray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305287
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1c4cfc1a6d2a0d3423a3b1c5e775ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709359,
+            "locality_id":1277043693,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1277043693,
+    "wof:lastmodified":1537706869,
+    "wof:name":"Kussarayi",
+    "wof:parent_id":1108709359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.67912000000001,
+    38.45121,
+    38.67912000000001,
+    38.45121
+],
+  "geometry": {"coordinates":[38.67912000000001,38.45121],"type":"Point"}
+}

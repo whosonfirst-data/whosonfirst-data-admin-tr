@@ -1,0 +1,73 @@
+{
+  "id": 1242890599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95829,38.87167,27.95829,38.87167",
+    "geom:latitude":38.87167,
+    "geom:longitude":27.95829,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Topluca",
+    "gn:country_code":"TR",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314383,
+    "gn:latitude":38.87167,
+    "gn:longitude":27.95829,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Topluca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Topluca"
+    ],
+    "name:tur_x_variant":[
+        "G\u00f6kbel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890461947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314383
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"778617681d05639ed3e1f816efa8400f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461947,
+            "locality_id":1242890599,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1242890599,
+    "wof:lastmodified":1537707154,
+    "wof:name":"Topluca",
+    "wof:parent_id":890461947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95829,
+    38.87167,
+    27.95829,
+    38.87167
+],
+  "geometry": {"coordinates":[27.95829,38.87167],"type":"Point"}
+}

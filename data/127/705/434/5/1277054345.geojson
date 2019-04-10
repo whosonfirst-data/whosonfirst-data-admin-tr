@@ -1,0 +1,73 @@
+{
+  "id": 1277054345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10986,39.87668,28.10986,39.87668",
+    "geom:latitude":39.87668,
+    "geom:longitude":28.10986,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Sogutcayiri",
+    "gn:country_code":"TR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300461,
+    "gn:latitude":39.87668,
+    "gn:longitude":28.10986,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"S\u00f6\u011f\u00fct\u00e7ay\u0131r\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "S\u00f6\u011f\u00fct\u00e7ay\u0131r"
+    ],
+    "name:tur_x_variant":[
+        "S\u00f6\u011f\u00fct\u00e7ay\u0131r\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300461
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c1da566ba00483ede285ac5a69a612b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462063,
+            "locality_id":1277054345,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1277054345,
+    "wof:lastmodified":1537706707,
+    "wof:name":"Sogutcayiri",
+    "wof:parent_id":890462063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10986,
+    39.87668,
+    28.10986,
+    39.87668
+],
+  "geometry": {"coordinates":[28.10986,39.87668],"type":"Point"}
+}

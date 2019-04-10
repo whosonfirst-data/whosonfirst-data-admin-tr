@@ -1,0 +1,65 @@
+{
+  "id": 1209653367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30632,40.29555,42.30632,40.29555",
+    "geom:latitude":40.29555,
+    "geom:longitude":42.30632,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Sirataslar",
+    "gn:country_code":"TR",
+    "gn:dem":1893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739573,
+    "gn:latitude":40.29555,
+    "gn:longitude":42.30632,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"S\u0131rata\u015flar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zek",
+        "S\u0131rata\u015flar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739573
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f8cf6abc68da7310d3affb09ff494f80",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209653367
+        }
+    ],
+    "wof:id":1209653367,
+    "wof:lastmodified":1537707703,
+    "wof:name":"Sirataslar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30632,
+    40.29555,
+    42.30632,
+    40.29555
+],
+  "geometry": {"coordinates":[42.30632,40.29555],"type":"Point"}
+}

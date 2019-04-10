@@ -1,0 +1,70 @@
+{
+  "id": 1226100145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.90892,38.44431,38.90892,38.44431",
+    "geom:latitude":38.44431,
+    "geom:longitude":38.90892,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Eskikoy",
+    "gn:country_code":"TR",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458335,
+    "gn:latitude":38.44431,
+    "gn:longitude":38.90892,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Eskik\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eskik\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458335
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d07bba3d30adb280ea0a8569b57cbbe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709359,
+            "locality_id":1226100145,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1226100145,
+    "wof:lastmodified":1537708210,
+    "wof:name":"Eskikoy",
+    "wof:parent_id":1108709359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.90892,
+    38.44431,
+    38.90892,
+    38.44431
+],
+  "geometry": {"coordinates":[38.90892,38.44431],"type":"Point"}
+}

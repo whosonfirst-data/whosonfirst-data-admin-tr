@@ -1,0 +1,67 @@
+{
+  "id": 1193101613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.38333,38.15,29.38333,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":29.38333,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Zeyve",
+    "gn:country_code":"TR",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295903,
+    "gn:latitude":38.15,
+    "gn:longitude":29.38333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Zeyve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108710013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295903
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1680cd560dfa7cf359f4ee2c0e81b48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710013,
+            "locality_id":1193101613,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1193101613,
+    "wof:lastmodified":1536382894,
+    "wof:name":"Zeyve",
+    "wof:parent_id":1108710013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.38333,
+    38.15,
+    29.38333,
+    38.15
+],
+  "geometry": {"coordinates":[29.38333,38.15],"type":"Point"}
+}

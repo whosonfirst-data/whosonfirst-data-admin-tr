@@ -1,0 +1,72 @@
+{
+  "id": 1344099469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.969,41.16134,32.969,41.16134",
+    "geom:latitude":41.16134,
+    "geom:longitude":32.969,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Asagiguney",
+    "gn:country_code":"TR",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751745,
+    "gn:latitude":41.16134,
+    "gn:longitude":32.969,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u015fa\u011f\u0131g\u00fcney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 G\u00fc\u0131ney",
+        "A\u015fa\u011f\u0131 G\u00fcnay",
+        "A\u015fa\u011f\u0131g\u00fcney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890461625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751745
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"57a8e8c7d6ab015144295a4a74b7c3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461625,
+            "locality_id":1344099469,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1344099469,
+    "wof:lastmodified":1537708113,
+    "wof:name":"Asagiguney",
+    "wof:parent_id":890461625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.969,
+    41.16134,
+    32.969,
+    41.16134
+],
+  "geometry": {"coordinates":[32.969,41.16134],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1192984889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41348,39.89274,27.41348,39.89274",
+    "geom:latitude":39.89274,
+    "geom:longitude":27.41348,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Haydaroba",
+    "gn:country_code":"TR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312308,
+    "gn:latitude":39.89274,
+    "gn:longitude":27.41348,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Haydaroba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312308
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"39ab6569c1176c10af84c59d37f5b003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709985,
+            "locality_id":1192984889,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1192984889,
+    "wof:lastmodified":1536365013,
+    "wof:name":"Haydaroba",
+    "wof:parent_id":1108709985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41348,
+    39.89274,
+    27.41348,
+    39.89274
+],
+  "geometry": {"coordinates":[27.41348,39.89274],"type":"Point"}
+}

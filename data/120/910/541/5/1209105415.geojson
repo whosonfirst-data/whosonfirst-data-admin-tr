@@ -1,0 +1,64 @@
+{
+  "id": 1209105415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.91963,39.8426,42.91963,39.8426",
+    "geom:latitude":39.8426,
+    "geom:longitude":42.91963,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Haydaroglu",
+    "gn:country_code":"TR",
+    "gn:dem":1718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312306,
+    "gn:latitude":39.8426,
+    "gn:longitude":42.91963,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Haydaro\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Haydaro\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312306
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ad293d761c813ca847182759d6d30b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209105415
+        }
+    ],
+    "wof:id":1209105415,
+    "wof:lastmodified":1537707086,
+    "wof:name":"Haydaroglu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.91963,
+    39.8426,
+    42.91963,
+    39.8426
+],
+  "geometry": {"coordinates":[42.91963,39.8426],"type":"Point"}
+}

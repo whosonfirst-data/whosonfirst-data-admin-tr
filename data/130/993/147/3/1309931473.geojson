@@ -1,0 +1,77 @@
+{
+  "id": 1309931473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95584,36.5147,32.95584,36.5147",
+    "geom:latitude":36.5147,
+    "geom:longitude":32.95584,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Yalindal",
+    "gn:country_code":"TR",
+    "gn:dem":916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323562,
+    "gn:latitude":36.5147,
+    "gn:longitude":32.95584,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yal\u0131ndal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ota_x_preferred":[
+        "\u0627\u0631\u0646\u0648\u0647"
+    ],
+    "name:tur_x_preferred":[
+        "Yal\u0131ndal"
+    ],
+    "name:und_x_variant":[
+        "Arnava",
+        "Yal\u0131ndal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679427,
+        890460147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323562
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"695d54e3a185a9a9925a101c0611f23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460147,
+            "locality_id":1309931473,
+            "region_id":85679427
+        }
+    ],
+    "wof:id":1309931473,
+    "wof:lastmodified":1537707453,
+    "wof:name":"Yalindal",
+    "wof:parent_id":890460147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95584,
+    36.5147,
+    32.95584,
+    36.5147
+],
+  "geometry": {"coordinates":[32.95584,36.5147],"type":"Point"}
+}

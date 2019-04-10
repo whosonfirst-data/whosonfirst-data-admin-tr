@@ -1,0 +1,67 @@
+{
+  "id": 1343286629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.72579,40.01587,32.72579,40.01587",
+    "geom:latitude":40.01587,
+    "geom:longitude":32.72579,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Yuva",
+    "gn:country_code":"TR",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737133,
+    "gn:latitude":40.01587,
+    "gn:longitude":32.72579,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Yuva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890462771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737133
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"31905d90f1a918f455e250bcf9d46309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462771,
+            "locality_id":1343286629,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1343286629,
+    "wof:lastmodified":1536996429,
+    "wof:name":"Yuva",
+    "wof:parent_id":890462771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72579,
+    40.01587,
+    32.72579,
+    40.01587
+],
+  "geometry": {"coordinates":[32.72579,40.01587],"type":"Point"}
+}

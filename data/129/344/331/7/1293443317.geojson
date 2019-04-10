@@ -1,0 +1,67 @@
+{
+  "id": 1293443317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5903,41.1349,29.5903,41.1349",
+    "geom:latitude":41.1349,
+    "geom:longitude":29.5903,
+    "gn:admin1_code":"34.0",
+    "gn:asciiname":"Karamandere",
+    "gn:country_code":"TR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744186,
+    "gn:latitude":41.1349,
+    "gn:longitude":29.5903,
+    "gn:modification_date":"2009-10-29",
+    "gn:name":"Karamandere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890461727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744186
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9c658ad263f4587623c92de5762144a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":1293443317,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1293443317,
+    "wof:lastmodified":1536849770,
+    "wof:name":"Karamandere",
+    "wof:parent_id":890461727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5903,
+    41.1349,
+    29.5903,
+    41.1349
+],
+  "geometry": {"coordinates":[29.5903,41.1349],"type":"Point"}
+}

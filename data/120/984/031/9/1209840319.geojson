@@ -1,0 +1,71 @@
+{
+  "id": 1209840319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.25,39.91667,44.25,39.91667",
+    "geom:latitude":39.91667,
+    "geom:longitude":44.25,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Beri",
+    "gn:country_code":"TR",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321421,
+    "gn:latitude":39.91667,
+    "gn:longitude":44.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beti",
+        "Beri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        1108709625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321421
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9804679ed2266cff2124475ff7060efd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709625,
+            "locality_id":1209840319,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1209840319,
+    "wof:lastmodified":1537707379,
+    "wof:name":"Beri",
+    "wof:parent_id":1108709625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.25,
+    39.91667,
+    44.25,
+    39.91667
+],
+  "geometry": {"coordinates":[44.25,39.91667],"type":"Point"}
+}

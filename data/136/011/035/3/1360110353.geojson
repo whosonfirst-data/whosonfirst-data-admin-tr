@@ -1,0 +1,67 @@
+{
+  "id": 1360110353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7298,41.50881,35.7298,41.50881",
+    "geom:latitude":41.50881,
+    "geom:longitude":35.7298,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Mustecep",
+    "gn:country_code":"TR",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741380,
+    "gn:latitude":41.50881,
+    "gn:longitude":35.7298,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"M\u00fcstecep",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741380
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b1b5577e52ac80b80e7e94c2e10d31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709339,
+            "locality_id":1360110353,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1360110353,
+    "wof:lastmodified":1536909505,
+    "wof:name":"Mustecep",
+    "wof:parent_id":1108709339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7298,
+    41.50881,
+    35.7298,
+    41.50881
+],
+  "geometry": {"coordinates":[35.7298,41.50881],"type":"Point"}
+}

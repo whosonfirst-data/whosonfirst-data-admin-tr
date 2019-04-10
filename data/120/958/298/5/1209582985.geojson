@@ -1,0 +1,65 @@
+{
+  "id": 1209582985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.07246,40.42757,41.07246,40.42757",
+    "geom:latitude":40.42757,
+    "geom:longitude":41.07246,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Sandikli",
+    "gn:country_code":"TR",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748662,
+    "gn:latitude":40.42757,
+    "gn:longitude":41.07246,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Sand\u0131kl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sand\u0131kl\u0131",
+        "Dang\u0131s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748662
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf4777778b0d26f355222c04ff5183ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209582985
+        }
+    ],
+    "wof:id":1209582985,
+    "wof:lastmodified":1537708002,
+    "wof:name":"Sandikli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.07246,
+    40.42757,
+    41.07246,
+    40.42757
+],
+  "geometry": {"coordinates":[41.07246,40.42757],"type":"Point"}
+}

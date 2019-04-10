@@ -1,0 +1,72 @@
+{
+  "id": 1327456649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97625,40.15322,38.97625,40.15322",
+    "geom:latitude":40.15322,
+    "geom:longitude":38.97625,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Pasapinari",
+    "gn:country_code":"TR",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740687,
+    "gn:latitude":40.15322,
+    "gn:longitude":38.97625,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Pa\u015fap\u0131nar\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131\u015fem\u00fck",
+        "Sem\u00fcg\u00fczir",
+        "Pa\u015fap\u0131nar\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890461585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740687
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b80fd679aabcbe3ceb221b6fba72e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461585,
+            "locality_id":1327456649,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1327456649,
+    "wof:lastmodified":1537707740,
+    "wof:name":"Pasapinari",
+    "wof:parent_id":890461585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97625,
+    40.15322000000001,
+    38.97625,
+    40.15322000000001
+],
+  "geometry": {"coordinates":[38.97625,40.15322000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343269627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.38715,37.79711,38.38715,37.79711",
+    "geom:latitude":37.79711,
+    "geom:longitude":38.38715,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Akbulut",
+    "gn:country_code":"TR",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7520005,
+    "gn:latitude":37.79711,
+    "gn:longitude":38.38715,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"Akbulut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890460579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7520005
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cb4c3b35bc471d687e1d4185512516f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460579,
+            "locality_id":1343269627,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1343269627,
+    "wof:lastmodified":1537020708,
+    "wof:name":"Akbulut",
+    "wof:parent_id":890460579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.38715,
+    37.79711,
+    38.38715,
+    37.79711
+],
+  "geometry": {"coordinates":[38.38715,37.79711],"type":"Point"}
+}

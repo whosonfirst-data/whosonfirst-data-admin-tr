@@ -1,0 +1,67 @@
+{
+  "id": 1243579609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.07232,39.75226,38.07232,39.75226",
+    "geom:latitude":39.75226,
+    "geom:longitude":38.07232,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Arik",
+    "gn:country_code":"TR",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323646,
+    "gn:latitude":39.75226,
+    "gn:longitude":38.07232,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ar\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890461455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323646
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ac7aefa4d50c1e321baef902b7e83f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461455,
+            "locality_id":1243579609,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1243579609,
+    "wof:lastmodified":1536611156,
+    "wof:name":"Arik",
+    "wof:parent_id":890461455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.07232,
+    39.75226,
+    38.07232,
+    39.75226
+],
+  "geometry": {"coordinates":[38.07232,39.75226],"type":"Point"}
+}

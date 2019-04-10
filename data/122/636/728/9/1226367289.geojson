@@ -1,0 +1,73 @@
+{
+  "id": 1226367289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.44518,37.21107,40.44518,37.21107",
+    "geom:latitude":37.21107,
+    "geom:longitude":40.44518,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Kalaycik",
+    "gn:country_code":"TR",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9973431,
+    "gn:latitude":37.21107,
+    "gn:longitude":40.44518,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kalayc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kalayc\u0131k"
+    ],
+    "name:tur_x_variant":[
+        "Kalecik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9973431
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4cb4c714b6cfb825039b757c151958f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":1226367289,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1226367289,
+    "wof:lastmodified":1537708315,
+    "wof:name":"Kalaycik",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.44518,
+    37.21107,
+    40.44518,
+    37.21107
+],
+  "geometry": {"coordinates":[40.44518,37.21107],"type":"Point"}
+}

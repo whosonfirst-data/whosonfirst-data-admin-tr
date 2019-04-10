@@ -1,0 +1,64 @@
+{
+  "id": 1209272975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91373,38.07358,40.91373,38.07358",
+    "geom:latitude":38.07358,
+    "geom:longitude":40.91373,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Beypinar",
+    "gn:country_code":"TR",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321202,
+    "gn:latitude":38.07358,
+    "gn:longitude":40.91373,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Beyp\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Beyp\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321202
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89409fb67e4fcfd642677d2d490b5c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209272975
+        }
+    ],
+    "wof:id":1209272975,
+    "wof:lastmodified":1537707372,
+    "wof:name":"Beypinar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91373,
+    38.07358,
+    40.91373,
+    38.07358
+],
+  "geometry": {"coordinates":[40.91373,38.07358],"type":"Point"}
+}

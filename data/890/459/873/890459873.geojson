@@ -1,0 +1,72 @@
+{
+  "id": 890459873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.7939,37.15948,40.7939,37.15948",
+    "geom:latitude":37.15948,
+    "geom:longitude":40.7939,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":528,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kuyulu"
+    ],
+    "name:unk_x_variant":[
+        "Biritava"
+    ],
+    "qs:name":"Kuyulu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305193,
+        "gp:id":2344252,
+        "qs:id":80056
+    },
+    "wof:country":"TR",
+    "wof:created":1469053285,
+    "wof:geomhash":"404e8458bd255e7172dd26682d41a2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463121,
+            "locality_id":890459873,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890459873,
+    "wof:lastmodified":1505343679,
+    "wof:name":"Kuyulu",
+    "wof:parent_id":890463121,
+    "wof:placetype":"locality",
+    "wof:population":528,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.7939,
+    37.15948,
+    40.7939,
+    37.15948
+],
+  "geometry": {"coordinates":[40.7939,37.15948],"type":"Point"}
+}

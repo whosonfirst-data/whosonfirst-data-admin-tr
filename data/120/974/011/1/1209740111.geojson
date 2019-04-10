@@ -1,0 +1,73 @@
+{
+  "id": 1209740111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06954,37.28625,40.06954,37.28625",
+    "geom:latitude":37.28625,
+    "geom:longitude":40.06954,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Adak",
+    "gn:country_code":"TR",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325390,
+    "gn:latitude":37.28625,
+    "gn:longitude":40.06954,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Adak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Adak"
+    ],
+    "name:und_x_variant":[
+        "Summak\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325390
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d0f3d7ae5e271d025da229b4b803d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463301,
+            "locality_id":1209740111,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1209740111,
+    "wof:lastmodified":1537707510,
+    "wof:name":"Adak",
+    "wof:parent_id":890463301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06954,
+    37.28625,
+    40.06954,
+    37.28625
+],
+  "geometry": {"coordinates":[40.06954,37.28625],"type":"Point"}
+}

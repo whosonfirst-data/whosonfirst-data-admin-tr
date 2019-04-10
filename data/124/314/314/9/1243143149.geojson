@@ -1,0 +1,76 @@
+{
+  "id": 1243143149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.65526,38.16561,42.65526,38.16561",
+    "geom:latitude":38.16561,
+    "geom:longitude":42.65526,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Yukari Ayvacik",
+    "gn:country_code":"TR",
+    "gn:dem":2119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303838,
+    "gn:latitude":38.16561,
+    "gn:longitude":42.65526,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Yukar\u0131 Ayvac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yukar\u0131ayvac\u0131k"
+    ],
+    "name:tur_x_variant":[
+        "Yukar\u0131 Ayvac\u0131k"
+    ],
+    "name:und_x_variant":[
+        "Nernis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303838
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be2e7af82759bfe71f14337d37393fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463855,
+            "locality_id":1243143149,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1243143149,
+    "wof:lastmodified":1537706820,
+    "wof:name":"Yukari Ayvacik",
+    "wof:parent_id":890463855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.65526,
+    38.16561,
+    42.65526,
+    38.16561
+],
+  "geometry": {"coordinates":[42.65526,38.16561],"type":"Point"}
+}

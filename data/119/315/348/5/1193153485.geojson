@@ -1,0 +1,70 @@
+{
+  "id": 1193153485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69966,40.73039,30.69966,40.73039",
+    "geom:latitude":40.73039,
+    "geom:longitude":30.69966,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Turbe",
+    "gn:country_code":"TR",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742589,
+    "gn:latitude":40.73039,
+    "gn:longitude":30.69966,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"T\u00fcrbe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "T\u00fcrbe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742589
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d924b225ed4feb4d57fbe64fd4cb7ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460359,
+            "locality_id":1193153485,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1193153485,
+    "wof:lastmodified":1537707804,
+    "wof:name":"Turbe",
+    "wof:parent_id":890460359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69966,
+    40.73039,
+    30.69966,
+    40.73039
+],
+  "geometry": {"coordinates":[30.69966,40.73039],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293504137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96667,39.10056,29.96667,39.10056",
+    "geom:latitude":39.10056,
+    "geom:longitude":29.96667,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Sanliyurt",
+    "gn:country_code":"TR",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307058,
+    "gn:latitude":39.10056,
+    "gn:longitude":29.96667,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u015eanl\u0131yurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eanl\u0131yurt"
+    ],
+    "name:tur_x_variant":[
+        "K\u0131zkad\u0131n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307058
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"024aef50cb9b6032c7d128560f532c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709279,
+            "locality_id":1293504137,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1293504137,
+    "wof:lastmodified":1537706925,
+    "wof:name":"Sanliyurt",
+    "wof:parent_id":1108709279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96667,
+    39.10056,
+    29.96667,
+    39.10056
+],
+  "geometry": {"coordinates":[29.96667,39.10056],"type":"Point"}
+}

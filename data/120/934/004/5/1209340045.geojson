@@ -1,0 +1,65 @@
+{
+  "id": 1209340045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88333,37.35,35.88333,37.35",
+    "geom:latitude":37.35,
+    "geom:longitude":35.88333,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Faydali",
+    "gn:country_code":"TR",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310227,
+    "gn:latitude":37.35,
+    "gn:longitude":35.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Faydal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faydal\u0131",
+        "Karabucak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310227
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de5d0f238756578284669455848fb4af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340045
+        }
+    ],
+    "wof:id":1209340045,
+    "wof:lastmodified":1537707018,
+    "wof:name":"Faydali",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88333,
+    37.35,
+    35.88333,
+    37.35
+],
+  "geometry": {"coordinates":[35.88333,37.35],"type":"Point"}
+}

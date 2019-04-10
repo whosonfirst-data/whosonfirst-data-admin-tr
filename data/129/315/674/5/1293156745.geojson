@@ -1,0 +1,71 @@
+{
+  "id": 1293156745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81667,38.86667,38.81667,38.86667",
+    "geom:latitude":38.86667,
+    "geom:longitude":38.81667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Asagimiselli",
+    "gn:country_code":"TR",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":323249,
+    "gn:latitude":38.86667,
+    "gn:longitude":38.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u015fa\u011f\u0131mi\u015felli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 M\u0131\u015f\u0131ll\u0131",
+        "A\u015fa\u011f\u0131mi\u015felli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323249
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3eed4806e37b566db6f339deba4865fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709651,
+            "locality_id":1293156745,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1293156745,
+    "wof:lastmodified":1537707439,
+    "wof:name":"Asagimiselli",
+    "wof:parent_id":1108709651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81667,
+    38.86667,
+    38.81667,
+    38.86667
+],
+  "geometry": {"coordinates":[38.81667,38.86667],"type":"Point"}
+}

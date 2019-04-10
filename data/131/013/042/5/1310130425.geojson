@@ -1,0 +1,67 @@
+{
+  "id": 1310130425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81179,41.50182,32.81179,41.50182",
+    "geom:latitude":41.50182,
+    "geom:longitude":32.81179,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Akkisla",
+    "gn:country_code":"TR",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029670,
+    "gn:latitude":41.50182,
+    "gn:longitude":32.81179,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Akk\u0131\u015fla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        1108709837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029670
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e24ea9198bf6c158eb5896076a4dad07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709837,
+            "locality_id":1310130425,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1310130425,
+    "wof:lastmodified":1536960519,
+    "wof:name":"Akkisla",
+    "wof:parent_id":1108709837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81179,
+    41.50182,
+    32.81179,
+    41.50182
+],
+  "geometry": {"coordinates":[32.81179,41.50182],"type":"Point"}
+}

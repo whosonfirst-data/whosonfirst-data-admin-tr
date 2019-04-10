@@ -1,0 +1,67 @@
+{
+  "id": 1243197043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31306,38.7575,28.31306,38.7575",
+    "geom:latitude":38.7575,
+    "geom:longitude":28.31306,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kavakyeri",
+    "gn:country_code":"TR",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308756,
+    "gn:latitude":38.7575,
+    "gn:longitude":28.31306,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Kavakyeri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308756
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"66c25548a4371bfe8d5cdab1b9161a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709691,
+            "locality_id":1243197043,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1243197043,
+    "wof:lastmodified":1536668181,
+    "wof:name":"Kavakyeri",
+    "wof:parent_id":1108709691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31306,
+    38.7575,
+    28.31306,
+    38.7575
+],
+  "geometry": {"coordinates":[28.31306,38.7575],"type":"Point"}
+}

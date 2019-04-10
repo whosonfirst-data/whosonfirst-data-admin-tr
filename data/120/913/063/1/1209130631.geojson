@@ -1,0 +1,66 @@
+{
+  "id": 1209130631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0825,36.89556,39.0825,36.89556",
+    "geom:latitude":36.89556,
+    "geom:longitude":39.0825,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Kabatas",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":439039,
+    "gn:latitude":36.89556,
+    "gn:longitude":39.0825,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kabata\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vebde",
+        "Kabata\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439039
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b36554428f647bbd89adaee6edc1f14f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209130631
+        }
+    ],
+    "wof:id":1209130631,
+    "wof:lastmodified":1537707573,
+    "wof:name":"Kabatas",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0825,
+    36.89556,
+    39.0825,
+    36.89556
+],
+  "geometry": {"coordinates":[39.0825,36.89556],"type":"Point"}
+}

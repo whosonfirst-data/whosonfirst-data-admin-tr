@@ -1,0 +1,74 @@
+{
+  "id": 1309762099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.55361,38.7145,39.55361,38.7145",
+    "geom:latitude":38.7145,
+    "geom:longitude":39.55361,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Osmanagakoy",
+    "gn:country_code":"TR",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303209,
+    "gn:latitude":38.7145,
+    "gn:longitude":39.55361,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Osmana\u011fak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Osmana\u011fak\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Osmana\u011fakomu",
+        "Osmana\u011fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303209
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7b6692350c091bedc94d58215ca29e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709671,
+            "locality_id":1309762099,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1309762099,
+    "wof:lastmodified":1537706799,
+    "wof:name":"Osmanagakoy",
+    "wof:parent_id":1108709671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.55361,
+    38.7145,
+    39.55361,
+    38.7145
+],
+  "geometry": {"coordinates":[39.55361,38.7145],"type":"Point"}
+}

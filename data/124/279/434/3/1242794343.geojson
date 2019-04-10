@@ -1,0 +1,67 @@
+{
+  "id": 1242794343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.01667,37.05,37.01667,37.05",
+    "geom:latitude":37.05,
+    "geom:longitude":37.01667,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Dostalli",
+    "gn:country_code":"TR",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316255,
+    "gn:latitude":37.05,
+    "gn:longitude":37.01667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Dostall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        890462533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316255
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f8e09b59f012507ecb99f48998d4ef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462533,
+            "locality_id":1242794343,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1242794343,
+    "wof:lastmodified":1536751379,
+    "wof:name":"Dostalli",
+    "wof:parent_id":890462533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.01667,
+    37.05,
+    37.01667,
+    37.05
+],
+  "geometry": {"coordinates":[37.01667,37.05],"type":"Point"}
+}

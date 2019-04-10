@@ -1,0 +1,73 @@
+{
+  "id": 1310328903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.67194,37.1325,41.67194,37.1325",
+    "geom:latitude":37.1325,
+    "geom:longitude":41.67194,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Seyhadin",
+    "gn:country_code":"TR",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300971,
+    "gn:latitude":37.1325,
+    "gn:longitude":41.67194,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u015eeyhadin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sheykhadir",
+        "\u015eeyhhazir",
+        "\u015eeyhadir",
+        "\u015eeyhadin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890462299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300971
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eb871e015f444051226b29b769a555e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462299,
+            "locality_id":1310328903,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1310328903,
+    "wof:lastmodified":1537706725,
+    "wof:name":"Seyhadin",
+    "wof:parent_id":890462299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.67194,
+    37.1325,
+    41.67194,
+    37.1325
+],
+  "geometry": {"coordinates":[41.67194,37.1325],"type":"Point"}
+}

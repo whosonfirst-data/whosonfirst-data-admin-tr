@@ -1,0 +1,67 @@
+{
+  "id": 1344082349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01641,38.58987,35.01641,38.58987",
+    "geom:latitude":38.58987,
+    "geom:longitude":35.01641,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Boyali",
+    "gn:country_code":"TR",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320787,
+    "gn:latitude":38.58987,
+    "gn:longitude":35.01641,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Boyal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679327,
+        890462629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320787
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eebdc0d919b6d6076acb387cf77eb2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462629,
+            "locality_id":1344082349,
+            "region_id":85679327
+        }
+    ],
+    "wof:id":1344082349,
+    "wof:lastmodified":1536843066,
+    "wof:name":"Boyali",
+    "wof:parent_id":890462629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01641,
+    38.58987,
+    35.01641,
+    38.58987
+],
+  "geometry": {"coordinates":[35.01641,38.58987],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209370247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.7733,39.91841,38.7733,39.91841",
+    "geom:latitude":39.91841,
+    "geom:longitude":38.7733,
+    "gn:admin1_code":"24.0",
+    "gn:asciiname":"Saglik",
+    "gn:country_code":"TR",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578406,
+    "gn:latitude":39.91841,
+    "gn:longitude":38.7733,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sa\u011fl\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sa\u011fl\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578406
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"39fd5a8cc1e0eed5fcb43c897d970100",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209370247
+        }
+    ],
+    "wof:id":1209370247,
+    "wof:lastmodified":1537708249,
+    "wof:name":"Saglik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.7733,
+    39.91841,
+    38.7733,
+    39.91841
+],
+  "geometry": {"coordinates":[38.7733,39.91841],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343922451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.82796,37.67765,28.82796,37.67765",
+    "geom:latitude":37.67765,
+    "geom:longitude":28.82796,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kavaklar",
+    "gn:country_code":"TR",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10191822,
+    "gn:latitude":37.67765,
+    "gn:longitude":28.82796,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Kavaklar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        890461955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10191822
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"81f4a7189fab016859c023712c1a7686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461955,
+            "locality_id":1343922451,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1343922451,
+    "wof:lastmodified":1537071870,
+    "wof:name":"Kavaklar",
+    "wof:parent_id":890461955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.82796,
+    37.67765,
+    28.82796,
+    37.67765
+],
+  "geometry": {"coordinates":[28.82796,37.67765],"type":"Point"}
+}

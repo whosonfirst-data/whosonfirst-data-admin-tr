@@ -1,0 +1,73 @@
+{
+  "id": 1260105943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25061,40.53218,30.25061,40.53218",
+    "geom:latitude":40.53218,
+    "geom:longitude":30.25061,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Bayir Akcasehir",
+    "gn:country_code":"TR",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275808,
+    "gn:latitude":40.53218,
+    "gn:longitude":30.25061,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Bay\u0131r Ak\u00e7a\u015fehir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bay\u0131rak\u00e7a\u015fehir"
+    ],
+    "name:tur_x_variant":[
+        "Bay\u0131r Ak\u00e7a\u015fehir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275808
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"34e4b33675e5c150f65dd02ba58ca17f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709801,
+            "locality_id":1260105943,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1260105943,
+    "wof:lastmodified":1537708282,
+    "wof:name":"Bayir Akcasehir",
+    "wof:parent_id":1108709801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25061,
+    40.53218,
+    30.25061,
+    40.53218
+],
+  "geometry": {"coordinates":[30.25061,40.53218],"type":"Point"}
+}

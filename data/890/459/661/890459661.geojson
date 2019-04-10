@@ -1,0 +1,68 @@
+{
+  "id": 890459661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.89111,36.89028,37.89111,36.89028",
+    "geom:latitude":36.89028,
+    "geom:longitude":37.89111,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":188,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Z\u00fchrecik"
+    ],
+    "qs:name":"Z\u00f6hrecik",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295805,
+        "qs:id":547152
+    },
+    "wof:country":"TR",
+    "wof:created":1469053277,
+    "wof:geomhash":"c12acc88f9331b35686683869577f73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709633,
+            "locality_id":890459661,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":890459661,
+    "wof:lastmodified":1505343678,
+    "wof:name":"Z\u00f6hrecik",
+    "wof:parent_id":1108709633,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.89111,
+    36.89028,
+    37.89111,
+    36.89028
+],
+  "geometry": {"coordinates":[37.89111,36.89028],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343232541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.47653,40.83594,32.47653,40.83594",
+    "geom:latitude":40.83594,
+    "geom:longitude":32.47653,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Tazaklar",
+    "gn:country_code":"TR",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195978,
+    "gn:latitude":40.83594,
+    "gn:longitude":32.47653,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Tazaklar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195978
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0452a33bf95a1880f4f6561e5015681e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462117,
+            "locality_id":1343232541,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1343232541,
+    "wof:lastmodified":1537072261,
+    "wof:name":"Tazaklar",
+    "wof:parent_id":890462117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47653,
+    40.83594,
+    32.47653,
+    40.83594
+],
+  "geometry": {"coordinates":[32.47653,40.83594],"type":"Point"}
+}

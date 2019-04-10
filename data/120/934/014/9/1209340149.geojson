@@ -1,0 +1,65 @@
+{
+  "id": 1209340149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.94512,38.91054,37.94512,38.91054",
+    "geom:latitude":38.91054,
+    "geom:longitude":37.94512,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Guvenc",
+    "gn:country_code":"TR",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313294,
+    "gn:latitude":38.91054,
+    "gn:longitude":37.94512,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"G\u00fcven\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6ven\u00e7",
+        "G\u00fcven\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313294
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c63f4909707b90fe3a4f71bf3fd6ef4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340149
+        }
+    ],
+    "wof:id":1209340149,
+    "wof:lastmodified":1537707117,
+    "wof:name":"Guvenc",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.94512,
+    38.91054000000001,
+    37.94512,
+    38.91054000000001
+],
+  "geometry": {"coordinates":[37.94512,38.91054000000001],"type":"Point"}
+}

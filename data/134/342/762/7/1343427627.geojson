@@ -1,0 +1,72 @@
+{
+  "id": 1343427627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.73889,39.73278,30.73889,39.73278",
+    "geom:latitude":39.73278,
+    "geom:longitude":30.73889,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Yurukkarapinar",
+    "gn:country_code":"TR",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310059,
+    "gn:latitude":39.73278,
+    "gn:longitude":30.73889,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Y\u00fcr\u00fckkarap\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcr\u00fckkaraca\u00f6ren",
+        "Karaca\u00f6ren",
+        "Y\u00fcr\u00fckkarap\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310059
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ce454543b5e2507b8465afbb5b42bf13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709773,
+            "locality_id":1343427627,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1343427627,
+    "wof:lastmodified":1537707013,
+    "wof:name":"Yurukkarapinar",
+    "wof:parent_id":1108709773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.73889,
+    39.73278,
+    30.73889,
+    39.73278
+],
+  "geometry": {"coordinates":[30.73889,39.73278],"type":"Point"}
+}

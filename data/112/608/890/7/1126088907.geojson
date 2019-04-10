@@ -1,0 +1,93 @@
+{
+  "id": 1126088907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98762,36.54938,31.98762,36.54938",
+    "geom:latitude":36.54938,
+    "geom:longitude":31.98762,
+    "gn:gn_country":"TR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"TR",
+    "lbl:latitude":36.54938,
+    "lbl:longitude":31.98762,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TR",
+    "qs_pg:gn_country":"TR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":8069907,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Saray",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Antalya",
+    "qs_pg:photos":186,
+    "qs_pg:photos_1k":38,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":186,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":896687,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55966595,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Antalya",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        890463831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8069907,
+        "gp:id":55966595,
+        "qs_pg:id":896687
+    },
+    "wof:country":"TR",
+    "wof:created":1497313293,
+    "wof:geomhash":"dadd1c6bcf24a99856a67e63f1a04adb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463831,
+            "locality_id":-1,
+            "neighbourhood_id":1126088907,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1126088907,
+    "wof:lastmodified":1534379468,
+    "wof:name":"Saray",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        85934697
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98762,
+    36.54938,
+    31.98762,
+    36.54938
+],
+  "geometry": {"coordinates":[31.98762,36.54938],"type":"Point"}
+}

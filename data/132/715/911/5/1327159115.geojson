@@ -1,0 +1,73 @@
+{
+  "id": 1327159115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65121,40.81799,30.65121,40.81799",
+    "geom:latitude":40.81799,
+    "geom:longitude":30.65121,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Hallac",
+    "gn:country_code":"TR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281774,
+    "gn:latitude":40.81799,
+    "gn:longitude":30.65121,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Halla\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Halla\u00e7k\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Halla\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281774
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1c6177517d1dfe2978899447f1011ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460359,
+            "locality_id":1327159115,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1327159115,
+    "wof:lastmodified":1537708286,
+    "wof:name":"Hallac",
+    "wof:parent_id":890460359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65121,
+    40.81799,
+    30.65121,
+    40.81799
+],
+  "geometry": {"coordinates":[30.65121,40.81799],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226130823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.82632,39.48431,27.82632,39.48431",
+    "geom:latitude":39.48431,
+    "geom:longitude":27.82632,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bozen",
+    "gn:country_code":"TR",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320645,
+    "gn:latitude":39.48431,
+    "gn:longitude":27.82632,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Bozen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bozen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320645
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8425e84590e5987e2b957e0da560f81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462339,
+            "locality_id":1226130823,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1226130823,
+    "wof:lastmodified":1537707356,
+    "wof:name":"Bozen",
+    "wof:parent_id":890462339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.82632000000001,
+    39.48431,
+    27.82632000000001,
+    39.48431
+],
+  "geometry": {"coordinates":[27.82632000000001,39.48431],"type":"Point"}
+}

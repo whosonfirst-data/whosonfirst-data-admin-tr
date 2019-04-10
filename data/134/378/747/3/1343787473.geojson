@@ -1,0 +1,73 @@
+{
+  "id": 1343787473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97753,40.74143,33.97753,40.74143",
+    "geom:latitude":40.74143,
+    "geom:longitude":33.97753,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ayvakoy",
+    "gn:country_code":"TR",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751431,
+    "gn:latitude":40.74143,
+    "gn:longitude":33.97753,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ayvak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ayvak\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Ayva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890461571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751431
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a6765a1917646812652b7527776ab278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461571,
+            "locality_id":1343787473,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1343787473,
+    "wof:lastmodified":1537708102,
+    "wof:name":"Ayvakoy",
+    "wof:parent_id":890461571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97753,
+    40.74143,
+    33.97753,
+    40.74143
+],
+  "geometry": {"coordinates":[33.97753,40.74143],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360201255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48434,38.48339,28.48434,38.48339",
+    "geom:latitude":38.48339,
+    "geom:longitude":28.48434,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Hayalli",
+    "gn:country_code":"TR",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312338,
+    "gn:latitude":38.48339,
+    "gn:longitude":28.48434,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Hayalli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Hayalli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312338
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2869e9579d046820b70220842a3bc81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709679,
+            "locality_id":1360201255,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1360201255,
+    "wof:lastmodified":1537707087,
+    "wof:name":"Hayalli",
+    "wof:parent_id":1108709679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48434,
+    38.48339,
+    28.48434,
+    38.48339
+],
+  "geometry": {"coordinates":[28.48434,38.48339],"type":"Point"}
+}

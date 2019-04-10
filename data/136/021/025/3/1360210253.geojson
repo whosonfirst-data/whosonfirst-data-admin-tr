@@ -1,0 +1,74 @@
+{
+  "id": 1360210253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32334,40.32767,33.32334,40.32767",
+    "geom:latitude":40.32767,
+    "geom:longitude":33.32334,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Semsettinkoy",
+    "gn:country_code":"TR",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739825,
+    "gn:latitude":40.32767,
+    "gn:longitude":33.32334,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u015eemsettink\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eemsettink\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "\u015eemsetdin",
+        "\u015eemsettin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739825
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91f94d20fd690382d5e991431e597df9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709611,
+            "locality_id":1360210253,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1360210253,
+    "wof:lastmodified":1537707712,
+    "wof:name":"Semsettinkoy",
+    "wof:parent_id":1108709611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32334,
+    40.32767,
+    33.32334,
+    40.32767
+],
+  "geometry": {"coordinates":[33.32334,40.32767],"type":"Point"}
+}

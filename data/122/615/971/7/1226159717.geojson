@@ -1,0 +1,67 @@
+{
+  "id": 1226159717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43083,38.80806,27.43083,38.80806",
+    "geom:latitude":38.80806,
+    "geom:longitude":27.43083,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kagan",
+    "gn:country_code":"TR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310871,
+    "gn:latitude":38.80806,
+    "gn:longitude":27.43083,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Ka\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890463535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310871
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c46dee60ec556f051e4fbfd55e233ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463535,
+            "locality_id":1226159717,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1226159717,
+    "wof:lastmodified":1537055193,
+    "wof:name":"Kagan",
+    "wof:parent_id":890463535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43083,
+    38.80806,
+    27.43083,
+    38.80806
+],
+  "geometry": {"coordinates":[27.43083,38.80806],"type":"Point"}
+}

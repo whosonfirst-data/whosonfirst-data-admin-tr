@@ -1,0 +1,73 @@
+{
+  "id": 1276780331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9838,39.02252,29.9838,39.02252",
+    "geom:latitude":39.02252,
+    "geom:longitude":29.9838,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Pinarcik",
+    "gn:country_code":"TR",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325482,
+    "gn:latitude":39.02252,
+    "gn:longitude":29.9838,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"P\u0131narc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "P\u0131narc\u0131k"
+    ],
+    "name:tur_x_variant":[
+        "Abya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325482
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bcb4dca53f840db8349493623fc30fbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709279,
+            "locality_id":1276780331,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1276780331,
+    "wof:lastmodified":1537707513,
+    "wof:name":"Pinarcik",
+    "wof:parent_id":1108709279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9838,
+    39.02252,
+    29.9838,
+    39.02252
+],
+  "geometry": {"coordinates":[29.9838,39.02252],"type":"Point"}
+}

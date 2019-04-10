@@ -1,0 +1,72 @@
+{
+  "id": 1260105023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02338,41.0091,36.02338,41.0091",
+    "geom:latitude":41.0091,
+    "geom:longitude":36.02338,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Bukcegiz",
+    "gn:country_code":"TR",
+    "gn:dem":755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750331,
+    "gn:latitude":41.0091,
+    "gn:longitude":36.02338,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00fckce\u011fiz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fck\u00e7eyiz",
+        "B\u00fck\u00e7egez",
+        "B\u00fckce\u011fiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        890462155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750331
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c49b3a84db3cae041921f340b256aeb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462155,
+            "locality_id":1260105023,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1260105023,
+    "wof:lastmodified":1537708063,
+    "wof:name":"Bukcegiz",
+    "wof:parent_id":890462155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02338,
+    41.0091,
+    36.02338,
+    41.0091
+],
+  "geometry": {"coordinates":[36.02338,41.0091],"type":"Point"}
+}

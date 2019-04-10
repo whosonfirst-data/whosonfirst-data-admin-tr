@@ -1,0 +1,72 @@
+{
+  "id": 1209912341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.00829,40.80587,35.00829,40.80587",
+    "geom:latitude":40.80587,
+    "geom:longitude":35.00829,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sarayozu",
+    "gn:country_code":"TR",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745365,
+    "gn:latitude":40.80587,
+    "gn:longitude":35.00829,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Saray\u00f6z\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baz\u0131k",
+        "Ba\u011fz\u0131k",
+        "Saray\u00f6z\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        1108709561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745365
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ba73d94a55fe7f572ff7dfdea80c6455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709561,
+            "locality_id":1209912341,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1209912341,
+    "wof:lastmodified":1537707889,
+    "wof:name":"Sarayozu",
+    "wof:parent_id":1108709561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.00829,
+    40.80587,
+    35.00829,
+    40.80587
+],
+  "geometry": {"coordinates":[35.00829,40.80587],"type":"Point"}
+}

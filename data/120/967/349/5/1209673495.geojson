@@ -1,0 +1,69 @@
+{
+  "id": 1209673495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11235,38.60142,39.11235,38.60142",
+    "geom:latitude":38.60142,
+    "geom:longitude":39.11235,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Asagi Demirtas",
+    "gn:country_code":"TR",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311968,
+    "gn:latitude":38.60142,
+    "gn:longitude":39.11235,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"A\u015fa\u011f\u0131 Demirta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Demirta\u015f"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131holpenk",
+        "A\u015fa\u011f\u0131demirta\u015f",
+        "Holpenks\u00fcfl\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311968
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7648b936f34886f378caf004ec8b9d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209673495
+        }
+    ],
+    "wof:id":1209673495,
+    "wof:lastmodified":1537707073,
+    "wof:name":"Asagi Demirtas",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11235,
+    38.60142000000001,
+    39.11235,
+    38.60142000000001
+],
+  "geometry": {"coordinates":[39.11235,38.60142000000001],"type":"Point"}
+}

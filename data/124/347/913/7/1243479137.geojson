@@ -1,0 +1,71 @@
+{
+  "id": 1243479137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.19429,41.55589,35.19429,41.55589",
+    "geom:latitude":41.55589,
+    "geom:longitude":35.19429,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Kuzalan",
+    "gn:country_code":"TR",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741943,
+    "gn:latitude":41.55589,
+    "gn:longitude":35.19429,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuzalan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kozalan",
+        "Kuzalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        890461093
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741943
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0d199eba65e827341ff8d203c31e1dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461093,
+            "locality_id":1243479137,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1243479137,
+    "wof:lastmodified":1537707783,
+    "wof:name":"Kuzalan",
+    "wof:parent_id":890461093,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19429,
+    41.55589000000001,
+    35.19429,
+    41.55589000000001
+],
+  "geometry": {"coordinates":[35.19429,41.55589000000001],"type":"Point"}
+}

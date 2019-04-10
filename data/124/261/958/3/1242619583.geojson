@@ -1,0 +1,79 @@
+{
+  "id": 1242619583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.881,40.23987,42.881,40.23987",
+    "geom:latitude":40.23987,
+    "geom:longitude":42.881,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Bastan",
+    "gn:country_code":"TR",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749512,
+    "gn:latitude":40.23987,
+    "gn:longitude":42.881,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bastan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7ayb\u00fck"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0441\u0442\u0430\u043c"
+    ],
+    "name:und_x_variant":[
+        "Basdam",
+        "Bastam",
+        "Bastan",
+        "\u00c7ayb\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890464601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749512
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"110b48ede94f642dee4290991cdc1396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464601,
+            "locality_id":1242619583,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1242619583,
+    "wof:lastmodified":1537708033,
+    "wof:name":"Bastan",
+    "wof:parent_id":890464601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.881,
+    40.23987,
+    42.881,
+    40.23987
+],
+  "geometry": {"coordinates":[42.881,40.23987],"type":"Point"}
+}

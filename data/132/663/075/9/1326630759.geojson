@@ -1,0 +1,67 @@
+{
+  "id": 1326630759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97619,37.9659,29.97619,37.9659",
+    "geom:latitude":37.9659,
+    "geom:longitude":29.97619,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kulluce",
+    "gn:country_code":"TR",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305760,
+    "gn:latitude":37.9659,
+    "gn:longitude":29.97619,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u00fcll\u00fcce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        1108709331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305760
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ade6473094c2140c8e3f229a22c3f772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709331,
+            "locality_id":1326630759,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1326630759,
+    "wof:lastmodified":1536840900,
+    "wof:name":"Kulluce",
+    "wof:parent_id":1108709331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97619000000001,
+    37.9659,
+    29.97619000000001,
+    37.9659
+],
+  "geometry": {"coordinates":[29.97619000000001,37.9659],"type":"Point"}
+}

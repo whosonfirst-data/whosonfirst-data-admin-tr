@@ -1,0 +1,75 @@
+{
+  "id": 1310353699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.29963,40.7748,43.29963,40.7748",
+    "geom:latitude":40.7748,
+    "geom:longitude":43.29963,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Akcakale",
+    "gn:country_code":"TR",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752572,
+    "gn:latitude":40.7748,
+    "gn:longitude":43.29963,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ak\u00e7akale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ak\u00e7akale"
+    ],
+    "name:und_x_variant":[
+        "Ke\u00e7eb\u00f6rk",
+        "A\u011fcalar",
+        "Ke\u00e7eb\u00fcrk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890463723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752572
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"84319a5f46d731869d67c24c5d3b1894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463723,
+            "locality_id":1310353699,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1310353699,
+    "wof:lastmodified":1537708145,
+    "wof:name":"Akcakale",
+    "wof:parent_id":890463723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.29963,
+    40.7748,
+    43.29963,
+    40.7748
+],
+  "geometry": {"coordinates":[43.29963,40.7748],"type":"Point"}
+}

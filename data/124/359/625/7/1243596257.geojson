@@ -1,0 +1,72 @@
+{
+  "id": 1243596257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.02786,40.72574,43.02786,40.72574",
+    "geom:latitude":40.72574,
+    "geom:longitude":43.02786,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Ortalar",
+    "gn:country_code":"TR",
+    "gn:dem":1819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740927,
+    "gn:latitude":40.72574,
+    "gn:longitude":43.02786,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ortalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ortaklar",
+        "Ortakilise",
+        "Ortalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890460625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740927
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"29710dd132bdcde3c87e199d1cf108f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460625,
+            "locality_id":1243596257,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1243596257,
+    "wof:lastmodified":1537707749,
+    "wof:name":"Ortalar",
+    "wof:parent_id":890460625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.02786,
+    40.72574,
+    43.02786,
+    40.72574
+],
+  "geometry": {"coordinates":[43.02786,40.72574],"type":"Point"}
+}

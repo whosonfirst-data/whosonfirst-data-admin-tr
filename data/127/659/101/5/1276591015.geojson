@@ -1,0 +1,72 @@
+{
+  "id": 1276591015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.40829,41.63512,34.40829,41.63512",
+    "geom:latitude":41.63512,
+    "geom:longitude":34.40829,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kurecayi",
+    "gn:country_code":"TR",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742188,
+    "gn:latitude":41.63512,
+    "gn:longitude":34.40829,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00fcre\u00e7ay\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 K\u00fcre\u00e7ay",
+        "K\u00fcre\u00e7ay",
+        "K\u00fcre\u00e7ay\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742188
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"12130d1c21574a208cff2a83e16ea68a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463857,
+            "locality_id":1276591015,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1276591015,
+    "wof:lastmodified":1537707791,
+    "wof:name":"Kurecayi",
+    "wof:parent_id":890463857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.40829,
+    41.63512,
+    34.40829,
+    41.63512
+],
+  "geometry": {"coordinates":[34.40829,41.63512],"type":"Point"}
+}

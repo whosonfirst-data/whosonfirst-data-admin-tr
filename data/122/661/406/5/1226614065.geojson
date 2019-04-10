@@ -1,0 +1,70 @@
+{
+  "id": 1226614065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,38.73333,39.28333,38.73333",
+    "geom:latitude":38.73333,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Inceler",
+    "gn:country_code":"TR",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311369,
+    "gn:latitude":38.73333,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u0130nceler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130nceler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311369
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee9f59359a3f264466d3f48f0189c729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462513,
+            "locality_id":1226614065,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1226614065,
+    "wof:lastmodified":1537707053,
+    "wof:name":"Inceler",
+    "wof:parent_id":890462513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    38.73333,
+    39.28333,
+    38.73333
+],
+  "geometry": {"coordinates":[39.28333,38.73333],"type":"Point"}
+}

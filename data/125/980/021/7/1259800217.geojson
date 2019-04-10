@@ -1,0 +1,72 @@
+{
+  "id": 1259800217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38006,40.77376,30.38006,40.77376",
+    "geom:latitude":40.77376,
+    "geom:longitude":30.38006,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Serdivan",
+    "gn:country_code":"TR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":739788,
+    "gn:latitude":40.77376,
+    "gn:longitude":30.38006,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Serdivan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sardivar",
+        "Sard\u0131van",
+        "Serdivan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739788
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8bc22fde705b16a793664f2b939a7826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709241,
+            "locality_id":1259800217,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1259800217,
+    "wof:lastmodified":1537707711,
+    "wof:name":"Serdivan",
+    "wof:parent_id":1108709241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38006,
+    40.77376,
+    30.38006,
+    40.77376
+],
+  "geometry": {"coordinates":[30.38006,40.77376],"type":"Point"}
+}

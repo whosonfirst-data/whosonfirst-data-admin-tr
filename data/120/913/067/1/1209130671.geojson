@@ -1,0 +1,66 @@
+{
+  "id": 1209130671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9,37.0,36.9,37.0",
+    "geom:latitude":37.0,
+    "geom:longitude":36.9,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kestan",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308005,
+    "gn:latitude":37.0,
+    "gn:longitude":36.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kestan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kesten",
+        "Kestan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308005
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da742c884e8e30f48eaf127a0ec374aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209130671
+        }
+    ],
+    "wof:id":1209130671,
+    "wof:lastmodified":1537706956,
+    "wof:name":"Kestan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9,
+    37.0,
+    36.9,
+    37.0
+],
+  "geometry": {"coordinates":[36.9,37.0],"type":"Point"}
+}

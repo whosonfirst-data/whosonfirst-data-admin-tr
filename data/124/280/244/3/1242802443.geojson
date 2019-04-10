@@ -1,0 +1,67 @@
+{
+  "id": 1242802443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.71667,40.16667,36.71667,40.16667",
+    "geom:latitude":40.16667,
+    "geom:longitude":36.71667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Akyurt",
+    "gn:country_code":"TR",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752283,
+    "gn:latitude":40.16667,
+    "gn:longitude":36.71667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Akyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890463149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752283
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1a1af249759674cb282aa0e317d9d65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463149,
+            "locality_id":1242802443,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1242802443,
+    "wof:lastmodified":1536739711,
+    "wof:name":"Akyurt",
+    "wof:parent_id":890463149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.71667,
+    40.16667,
+    36.71667,
+    40.16667
+],
+  "geometry": {"coordinates":[36.71667,40.16667],"type":"Point"}
+}

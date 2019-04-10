@@ -1,0 +1,107 @@
+{
+  "id": 85930097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00014,
+    "geom:area_square_m":1311345.78537,
+    "geom:bbox":"28.7721154328,40.9769052827,28.7841796875,40.9923379193",
+    "geom:latitude":40.986027,
+    "geom:longitude":28.778351,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":40.99008,
+    "lbl:longitude":28.778163,
+    "mps:latitude":40.986159,
+    "mps:longitude":28.778351,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:und_x_preferred":[
+        "Cennet"
+    ],
+    "name:unk_x_variant":[
+        "Cennet"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Cennet",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"K\u00fc\u00e7\u00fck\u00e7ekmece",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":57,
+    "qs:photo_sum":76,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390520,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912655,
+        1108709309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55871185,
+        "qs:id":1337725,
+        "qs_pg:id":1337725
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"99376fb65a98856bbd6a97bb99a59d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709309,
+            "locality_id":101912655,
+            "neighbourhood_id":85930097,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85930097,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527268676,
+    "wof:name":"Cennet",
+    "wof:parent_id":101912655,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.77211543278827,
+    40.97690528265063,
+    28.78417968750011,
+    40.99233791930004
+],
+  "geometry": {"coordinates":[[[28.77868652339998,40.99233791930004],[28.77868652339998,40.99233785412532],[28.78181578802901,40.99233785412532],[28.78181618164331,40.99233759337524],[28.78417968750011,40.99233759337524],[28.78417968750011,40.9881915635001],[28.78417968750011,40.98404494690004],[28.78417968750011,40.98404488172515],[28.78104924200795,40.97989800442539],[28.78084236022823,40.97976098137381],[28.77868652345035,40.97690528265063],[28.77593994140011,40.97950401198565],[28.7752459275078,40.97989800442539],[28.77319335940012,40.98261698300688],[28.77211543278827,40.98404488172515],[28.77263713680486,40.98611827150032],[28.77211545739044,40.98819149830034],[28.77319335938546,40.98961949908666],[28.77319335938341,40.99233785412532],[28.77319335940012,40.99233791930004],[28.77868652339998,40.99233791930004]]],"type":"Polygon"}
+}

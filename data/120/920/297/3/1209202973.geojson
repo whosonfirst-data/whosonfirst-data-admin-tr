@@ -1,0 +1,64 @@
+{
+  "id": 1209202973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.70637,40.61667,27.70637,40.61667",
+    "geom:latitude":40.61667,
+    "geom:longitude":27.70637,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Asmali",
+    "gn:country_code":"TR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751597,
+    "gn:latitude":40.61667,
+    "gn:longitude":27.70637,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Asmal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Asmal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751597
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5ad438f1002be8ad181e7c639f57e7eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209202973
+        }
+    ],
+    "wof:id":1209202973,
+    "wof:lastmodified":1537708108,
+    "wof:name":"Asmali",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.70637,
+    40.61667,
+    27.70637,
+    40.61667
+],
+  "geometry": {"coordinates":[27.70637,40.61667],"type":"Point"}
+}

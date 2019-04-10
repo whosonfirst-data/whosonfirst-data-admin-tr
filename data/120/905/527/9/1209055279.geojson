@@ -1,0 +1,64 @@
+{
+  "id": 1209055279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11635,36.63302,34.11635,36.63302",
+    "geom:latitude":36.63302,
+    "geom:longitude":34.11635,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Yeniyurt",
+    "gn:country_code":"TR",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296908,
+    "gn:latitude":36.63302,
+    "gn:longitude":34.11635,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Yeniyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yeniyurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296908
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e69e39c80661c48fc43482ada2c70d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209055279
+        }
+    ],
+    "wof:id":1209055279,
+    "wof:lastmodified":1537706587,
+    "wof:name":"Yeniyurt",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11635,
+    36.63302,
+    34.11635,
+    36.63302
+],
+  "geometry": {"coordinates":[34.11635,36.63302],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310624827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.74139,36.80389,37.74139,36.80389",
+    "geom:latitude":36.80389,
+    "geom:longitude":37.74139,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Gundogdu",
+    "gn:country_code":"TR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":436096,
+    "gn:latitude":36.80389,
+    "gn:longitude":37.74139,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00fcndo\u011fdu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcndo\u011fdu"
+    ],
+    "name:tur_x_variant":[
+        "Mermeri"
+    ],
+    "name:und_x_variant":[
+        "Mermery"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":436096
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77d17ab0ec1253d69f1bce4f4a043fa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709769,
+            "locality_id":1310624827,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1310624827,
+    "wof:lastmodified":1537707522,
+    "wof:name":"Gundogdu",
+    "wof:parent_id":1108709769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.74139,
+    36.80389,
+    37.74139,
+    36.80389
+],
+  "geometry": {"coordinates":[37.74139,36.80389],"type":"Point"}
+}

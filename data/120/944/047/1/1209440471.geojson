@@ -1,0 +1,64 @@
+{
+  "id": 1209440471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.11472,37.43861,42.11472,37.43861",
+    "geom:latitude":37.43861,
+    "geom:longitude":42.11472,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Akcay",
+    "gn:country_code":"TR",
+    "gn:dem":690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":408543,
+    "gn:latitude":37.43861,
+    "gn:longitude":42.11472,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Ak\u00e7ay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ak\u00e7ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":408543
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"30031a76c32d2e2648a3b9db4147e80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440471
+        }
+    ],
+    "wof:id":1209440471,
+    "wof:lastmodified":1537707518,
+    "wof:name":"Akcay",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.11472,
+    37.43861,
+    42.11472,
+    37.43861
+],
+  "geometry": {"coordinates":[42.11472,37.43861],"type":"Point"}
+}

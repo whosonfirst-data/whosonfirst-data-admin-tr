@@ -1,0 +1,67 @@
+{
+  "id": 1259660243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.05,39.31667,40.05,39.31667",
+    "geom:latitude":39.31667,
+    "geom:longitude":40.05,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Herdif",
+    "gn:country_code":"TR",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312202,
+    "gn:latitude":39.31667,
+    "gn:longitude":40.05,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Herdif",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        1108709975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312202
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1a7fe730d823b716795506a3a895004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709975,
+            "locality_id":1259660243,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1259660243,
+    "wof:lastmodified":1536600926,
+    "wof:name":"Herdif",
+    "wof:parent_id":1108709975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.05,
+    39.31667,
+    40.05,
+    39.31667
+],
+  "geometry": {"coordinates":[40.05,39.31667],"type":"Point"}
+}

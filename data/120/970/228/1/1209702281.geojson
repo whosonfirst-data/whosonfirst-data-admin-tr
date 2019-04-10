@@ -1,0 +1,74 @@
+{
+  "id": 1209702281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.44355,39.31695,40.44355,39.31695",
+    "geom:latitude":39.31695,
+    "geom:longitude":40.44355,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Cevizli",
+    "gn:country_code":"TR",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302723,
+    "gn:latitude":39.31695,
+    "gn:longitude":40.44355,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Cevizli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Cevizli"
+    ],
+    "name:und_x_variant":[
+        "\u00c7evizli",
+        "Pertek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        1108709239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302723
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"564baab3495e987b80023c4343f7ca45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709239,
+            "locality_id":1209702281,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1209702281,
+    "wof:lastmodified":1537706784,
+    "wof:name":"Cevizli",
+    "wof:parent_id":1108709239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.44355,
+    39.31695,
+    40.44355,
+    39.31695
+],
+  "geometry": {"coordinates":[40.44355,39.31695],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890463095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.13667,37.79955,44.13667,37.79955",
+    "geom:latitude":37.79955,
+    "geom:longitude":44.13667,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tur_x_preferred":[
+        "\u00c7ald\u0131ran"
+    ],
+    "qs:name":"\u00c7ald\u0131ran",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Van",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":10,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":13,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890460983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319824,
+        "gp:id":2313376,
+        "qs:id":887584,
+        "wk:page":"\u00c7ald\u0131ran"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053416,
+    "wof:geomhash":"299507e26928084b626443b4867ca1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460983,
+            "locality_id":890463095,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":890463095,
+    "wof:lastmodified":1527732944,
+    "wof:name":"\u00c7ald\u0131ran",
+    "wof:parent_id":890460983,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.13667,
+    37.79955,
+    44.13667,
+    37.79955
+],
+  "geometry": {"coordinates":[44.13667,37.79955],"type":"Point"}
+}

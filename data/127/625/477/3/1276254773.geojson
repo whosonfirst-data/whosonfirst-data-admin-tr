@@ -1,0 +1,73 @@
+{
+  "id": 1276254773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03015,38.97163,39.03015,38.97163",
+    "geom:latitude":38.97163,
+    "geom:longitude":39.03015,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Dogankoy",
+    "gn:country_code":"TR",
+    "gn:dem":908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316465,
+    "gn:latitude":38.97163,
+    "gn:longitude":39.03015,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Do\u011fank\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gelemi\u015fk\u00e2n",
+        "Do\u011fank\u00f6y Mezraas\u0131",
+        "Do\u011fan",
+        "Do\u011fank\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108710059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316465
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"79b9b4806c68462cd1d5f28c42ac0312",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710059,
+            "locality_id":1276254773,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1276254773,
+    "wof:lastmodified":1537707220,
+    "wof:name":"Dogankoy",
+    "wof:parent_id":1108710059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03015,
+    38.97163,
+    39.03015,
+    38.97163
+],
+  "geometry": {"coordinates":[39.03015,38.97163],"type":"Point"}
+}

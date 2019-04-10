@@ -1,0 +1,73 @@
+{
+  "id": 1243579445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59235,40.87242,36.59235,40.87242",
+    "geom:latitude":40.87242,
+    "geom:longitude":36.59235,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Alankoy",
+    "gn:country_code":"TR",
+    "gn:dem":724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691077,
+    "gn:latitude":40.87242,
+    "gn:longitude":36.59235,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Alank\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alank\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Alan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691077
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eec465877acff4c8ed5e4b49c6705f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709485,
+            "locality_id":1243579445,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1243579445,
+    "wof:lastmodified":1537708266,
+    "wof:name":"Alankoy",
+    "wof:parent_id":1108709485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59235,
+    40.87242,
+    36.59235,
+    40.87242
+],
+  "geometry": {"coordinates":[36.59235,40.87242],"type":"Point"}
+}

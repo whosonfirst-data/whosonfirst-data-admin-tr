@@ -1,0 +1,74 @@
+{
+  "id": 1226291281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26024,39.08524,34.26024,39.08524",
+    "geom:latitude":39.08524,
+    "geom:longitude":34.26024,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Inac",
+    "gn:country_code":"TR",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311427,
+    "gn:latitude":39.08524,
+    "gn:longitude":34.26024,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u0130na\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130na\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Ina\u00e7k\u00f6y",
+        "Ina\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        890460229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311427
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"18ab0702613bc44d749546dd6251700f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460229,
+            "locality_id":1226291281,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1226291281,
+    "wof:lastmodified":1537707054,
+    "wof:name":"Inac",
+    "wof:parent_id":890460229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26024,
+    39.08524,
+    34.26024,
+    39.08524
+],
+  "geometry": {"coordinates":[34.26024,39.08524],"type":"Point"}
+}

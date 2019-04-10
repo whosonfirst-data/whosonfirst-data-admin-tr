@@ -1,0 +1,73 @@
+{
+  "id": 1226068687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.83012,38.07602,38.83012,38.07602",
+    "geom:latitude":38.07602,
+    "geom:longitude":38.83012,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kayadere",
+    "gn:country_code":"TR",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314561,
+    "gn:latitude":38.07602,
+    "gn:longitude":38.83012,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kayadere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Catkertan",
+        "Girtan",
+        "Kayadere",
+        "Gertan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        1108709831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314561
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"18eec54614f640c78614406cb4ad8aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709831,
+            "locality_id":1226068687,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1226068687,
+    "wof:lastmodified":1537707160,
+    "wof:name":"Kayadere",
+    "wof:parent_id":1108709831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.83012,
+    38.07602,
+    38.83012,
+    38.07602
+],
+  "geometry": {"coordinates":[38.83012,38.07602],"type":"Point"}
+}

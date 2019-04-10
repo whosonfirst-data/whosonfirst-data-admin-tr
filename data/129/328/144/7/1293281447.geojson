@@ -1,0 +1,68 @@
+{
+  "id": 1293281447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.71052,37.70996,28.71052,37.70996",
+    "geom:latitude":37.70996,
+    "geom:longitude":28.71052,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Geyre",
+    "gn:country_code":"TR",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314519,
+    "gn:latitude":37.70996,
+    "gn:longitude":28.71052,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Geyre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890461453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314519,
+        "wk:page":"Geyre"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a0597fa04f39bf05bd164b7bd44ca0de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461453,
+            "locality_id":1293281447,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1293281447,
+    "wof:lastmodified":1537574537,
+    "wof:name":"Geyre",
+    "wof:parent_id":890461453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71052,
+    37.70996,
+    28.71052,
+    37.70996
+],
+  "geometry": {"coordinates":[28.71052,37.70996],"type":"Point"}
+}

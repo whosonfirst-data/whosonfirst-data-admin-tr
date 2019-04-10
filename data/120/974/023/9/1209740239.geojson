@@ -1,0 +1,67 @@
+{
+  "id": 1209740239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17358,41.0354,36.17358,41.0354",
+    "geom:latitude":41.0354,
+    "geom:longitude":36.17358,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Hisariye",
+    "gn:country_code":"TR",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7699586,
+    "gn:latitude":41.0354,
+    "gn:longitude":36.17358,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Hisariye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        890464107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7699586
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da2724c41a9b388f537ac2d0a00fbb0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464107,
+            "locality_id":1209740239,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1209740239,
+    "wof:lastmodified":1536369190,
+    "wof:name":"Hisariye",
+    "wof:parent_id":890464107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17358,
+    41.0354,
+    36.17358,
+    41.0354
+],
+  "geometry": {"coordinates":[36.17358,41.0354],"type":"Point"}
+}

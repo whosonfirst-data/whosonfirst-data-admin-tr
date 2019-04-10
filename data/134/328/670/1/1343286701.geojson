@@ -1,0 +1,67 @@
+{
+  "id": 1343286701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.42472,39.37962,27.42472,39.37962",
+    "geom:latitude":39.37962,
+    "geom:longitude":27.42472,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Dugla",
+    "gn:country_code":"TR",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316216,
+    "gn:latitude":39.37962,
+    "gn:longitude":27.42472,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Du\u011fla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316216
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dfdc94f3652c15c57efe148b344bc430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709893,
+            "locality_id":1343286701,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1343286701,
+    "wof:lastmodified":1536996324,
+    "wof:name":"Dugla",
+    "wof:parent_id":1108709893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.42472,
+    39.37962,
+    27.42472,
+    39.37962
+],
+  "geometry": {"coordinates":[27.42472,39.37962],"type":"Point"}
+}

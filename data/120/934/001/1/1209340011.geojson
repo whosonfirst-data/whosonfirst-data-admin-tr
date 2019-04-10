@@ -1,0 +1,66 @@
+{
+  "id": 1209340011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.42662,37.34009,42.42662,37.34009",
+    "geom:latitude":37.34009,
+    "geom:longitude":42.42662,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Kosreli",
+    "gn:country_code":"TR",
+    "gn:dem":862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306263,
+    "gn:latitude":37.34009,
+    "gn:longitude":42.42662,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"K\u00f6sreli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hessana",
+        "Khessana",
+        "K\u00f6sreli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306263
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3aaff0f76c14aad5cc61c2d4a75f98f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340011
+        }
+    ],
+    "wof:id":1209340011,
+    "wof:lastmodified":1537706901,
+    "wof:name":"Kosreli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.42662,
+    37.34009,
+    42.42662,
+    37.34009
+],
+  "geometry": {"coordinates":[42.42662,37.34009],"type":"Point"}
+}

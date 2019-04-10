@@ -1,0 +1,71 @@
+{
+  "id": 1225961005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43767,40.22517,33.43767,40.22517",
+    "geom:latitude":40.22517,
+    "geom:longitude":33.43767,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dagdemir",
+    "gn:country_code":"TR",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748749,
+    "gn:latitude":40.22517,
+    "gn:longitude":33.43767,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Da\u011fdemir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avkaz",
+        "Da\u011fdemir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748749
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3c7a42aad14faaa3459b99636cc62e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709611,
+            "locality_id":1225961005,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1225961005,
+    "wof:lastmodified":1537708006,
+    "wof:name":"Dagdemir",
+    "wof:parent_id":1108709611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43767,
+    40.22517,
+    33.43767,
+    40.22517
+],
+  "geometry": {"coordinates":[33.43767,40.22517],"type":"Point"}
+}

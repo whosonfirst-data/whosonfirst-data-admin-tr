@@ -1,0 +1,68 @@
+{
+  "id": 1360110261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01069,41.33206,32.01069,41.33206",
+    "geom:latitude":41.33206,
+    "geom:longitude":32.01069,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Eceler",
+    "gn:country_code":"TR",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747726,
+    "gn:latitude":41.33206,
+    "gn:longitude":32.01069,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Eceler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        1108709749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747726,
+        "wk:page":"Eceler%2C_Zonguldak"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"67288950a2d42fb302cb81b692aae962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709749,
+            "locality_id":1360110261,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1360110261,
+    "wof:lastmodified":1537574639,
+    "wof:name":"Eceler",
+    "wof:parent_id":1108709749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01069,
+    41.33206,
+    32.01069,
+    41.33206
+],
+  "geometry": {"coordinates":[32.01069,41.33206],"type":"Point"}
+}

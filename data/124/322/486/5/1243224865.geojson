@@ -1,0 +1,72 @@
+{
+  "id": 1243224865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52011,40.1899,38.52011,40.1899",
+    "geom:latitude":40.1899,
+    "geom:longitude":38.52011,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kayali",
+    "gn:country_code":"TR",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743699,
+    "gn:latitude":40.1899,
+    "gn:longitude":38.52011,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kayal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gezan\u00e7",
+        "Kezan\u00e7",
+        "Kayal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        1108709197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743699
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"06feee742c052ee1c39d89a96c6abd86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709197,
+            "locality_id":1243224865,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1243224865,
+    "wof:lastmodified":1537707838,
+    "wof:name":"Kayali",
+    "wof:parent_id":1108709197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52011,
+    40.1899,
+    38.52011,
+    40.1899
+],
+  "geometry": {"coordinates":[38.52011,40.1899],"type":"Point"}
+}

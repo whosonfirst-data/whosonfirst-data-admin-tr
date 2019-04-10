@@ -1,0 +1,71 @@
+{
+  "id": 890460751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.55528,40.5875,27.55528,40.5875",
+    "geom:latitude":40.5875,
+    "geom:longitude":27.55528,
+    "gn:country":"TR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Marmara",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Bal\u0131kesir",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1274,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":218,
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7733225,
+        "gp:id":29390556,
+        "qs:id":1292211,
+        "wd:id":"Q249110",
+        "wk:page":"Marmara"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053326,
+    "wof:geomhash":"fd5b4bd549866b02459bd060c46df0e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "county_id":890460751
+        }
+    ],
+    "wof:id":890460751,
+    "wof:lastmodified":1527792909,
+    "wof:name":"Marmara",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.55528,
+    40.5875,
+    27.55528,
+    40.5875
+],
+  "geometry": {"coordinates":[27.55528,40.5875],"type":"Point"}
+}

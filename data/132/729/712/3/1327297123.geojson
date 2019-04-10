@@ -1,0 +1,81 @@
+{
+  "id": 1327297123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.22444,40.09306,26.22444,40.09306",
+    "geom:latitude":40.09306,
+    "geom:longitude":26.22444,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Alcitepe",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752163,
+    "gn:latitude":40.09306,
+    "gn:longitude":26.22444,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"Al\u00e7\u0131tepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Krithia"
+    ],
+    "name:eng_x_preferred":[
+        "Krithia"
+    ],
+    "name:und_x_variant":[
+        "Karethia",
+        "Krite",
+        "K\u0131rte",
+        "Al\u00e7\u0131tepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752163,
+        "wk:page":"Krithia"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee31cb5dd4ea8ee49d2256b6c237c4a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709471,
+            "locality_id":1327297123,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1327297123,
+    "wof:lastmodified":1537708129,
+    "wof:name":"Alcitepe",
+    "wof:parent_id":1108709471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.22444,
+    40.09306,
+    26.22444,
+    40.09306
+],
+  "geometry": {"coordinates":[26.22444,40.09306],"type":"Point"}
+}

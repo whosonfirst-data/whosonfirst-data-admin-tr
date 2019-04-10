@@ -1,0 +1,67 @@
+{
+  "id": 1243246663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52251,40.66914,31.52251,40.66914",
+    "geom:latitude":40.66914,
+    "geom:longitude":31.52251,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cepni",
+    "gn:country_code":"TR",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749301,
+    "gn:latitude":40.66914,
+    "gn:longitude":31.52251,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"\u00c7epni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749301
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"af08d638e9096cf384437ba3286c69a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462577,
+            "locality_id":1243246663,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1243246663,
+    "wof:lastmodified":1537090312,
+    "wof:name":"Cepni",
+    "wof:parent_id":890462577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52251,
+    40.66914000000001,
+    31.52251,
+    40.66914000000001
+],
+  "geometry": {"coordinates":[31.52251,40.66914000000001],"type":"Point"}
+}

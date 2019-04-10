@@ -1,0 +1,70 @@
+{
+  "id": 1293288641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41261,37.41886,27.41261,37.41886",
+    "geom:latitude":37.41886,
+    "geom:longitude":27.41261,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Emsan",
+    "gn:country_code":"TR",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10182620,
+    "gn:latitude":37.41886,
+    "gn:longitude":27.41261,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Emsan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Emsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10182620
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d0f8615492704bdfcd61d3657baec23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709445,
+            "locality_id":1293288641,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1293288641,
+    "wof:lastmodified":1537708351,
+    "wof:name":"Emsan",
+    "wof:parent_id":1108709445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41261,
+    37.41886,
+    27.41261,
+    37.41886
+],
+  "geometry": {"coordinates":[27.41261,37.41886],"type":"Point"}
+}

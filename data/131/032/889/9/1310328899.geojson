@@ -1,0 +1,67 @@
+{
+  "id": 1310328899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71059,41.59168,32.71059,41.59168",
+    "geom:latitude":41.59168,
+    "geom:longitude":32.71059,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Belensarnic",
+    "gn:country_code":"TR",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028648,
+    "gn:latitude":41.59168,
+    "gn:longitude":32.71059,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Belensarn\u0131\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679543,
+        890463487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028648
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2f416a066e96cc1a1b12ab91c65343b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463487,
+            "locality_id":1310328899,
+            "region_id":85679543
+        }
+    ],
+    "wof:id":1310328899,
+    "wof:lastmodified":1536674250,
+    "wof:name":"Belensarnic",
+    "wof:parent_id":890463487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71059,
+    41.59168,
+    32.71059,
+    41.59168
+],
+  "geometry": {"coordinates":[32.71059,41.59168],"type":"Point"}
+}

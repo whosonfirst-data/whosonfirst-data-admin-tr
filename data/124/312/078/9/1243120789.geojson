@@ -1,0 +1,72 @@
+{
+  "id": 1243120789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.22132,39.34907,34.22132,39.34907",
+    "geom:latitude":39.34907,
+    "geom:longitude":34.22132,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Buyukkisla",
+    "gn:country_code":"TR",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299237,
+    "gn:latitude":39.34907,
+    "gn:longitude":34.22132,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"B\u00fcy\u00fckk\u0131\u015fla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta\u015fl\u0131tepe",
+        "Terziyanl\u0131",
+        "B\u00fcy\u00fckk\u0131\u015fla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        1108709401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299237
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fa70b527df1922f95073a3f502624a39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709401,
+            "locality_id":1243120789,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1243120789,
+    "wof:lastmodified":1537706668,
+    "wof:name":"Buyukkisla",
+    "wof:parent_id":1108709401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.22132,
+    39.34907000000001,
+    34.22132,
+    39.34907000000001
+],
+  "geometry": {"coordinates":[34.22132,39.34907000000001],"type":"Point"}
+}

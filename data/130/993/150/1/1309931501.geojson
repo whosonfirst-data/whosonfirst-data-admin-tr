@@ -1,0 +1,67 @@
+{
+  "id": 1309931501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.52314,37.30367,38.52314,37.30367",
+    "geom:latitude":37.30367,
+    "geom:longitude":38.52314,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Adzhem",
+    "gn:country_code":"TR",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11179678,
+    "gn:latitude":37.30367,
+    "gn:longitude":38.52314,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Adzhem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11179678
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d14ddd260d95d7fad4f1fe6c34779772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461643,
+            "locality_id":1309931501,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1309931501,
+    "wof:lastmodified":1536749870,
+    "wof:name":"Adzhem",
+    "wof:parent_id":890461643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.52314000000001,
+    37.30367,
+    38.52314000000001,
+    37.30367
+],
+  "geometry": {"coordinates":[38.52314000000001,37.30367],"type":"Point"}
+}

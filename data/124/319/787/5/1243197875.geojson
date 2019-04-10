@@ -1,0 +1,70 @@
+{
+  "id": 1243197875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.45247,39.2149,41.45247,39.2149",
+    "geom:latitude":39.2149,
+    "geom:longitude":41.45247,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kovik",
+    "gn:country_code":"TR",
+    "gn:dem":1866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303690,
+    "gn:latitude":39.2149,
+    "gn:longitude":41.45247,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kovik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u011flak\u00e7\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        1108709959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303690
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"96ef604b1829766bbef39e3c2d94bb18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709959,
+            "locality_id":1243197875,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1243197875,
+    "wof:lastmodified":1537706815,
+    "wof:name":"Kovik",
+    "wof:parent_id":1108709959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.45247,
+    39.2149,
+    41.45247,
+    39.2149
+],
+  "geometry": {"coordinates":[41.45247,39.2149],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209740261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.02183,40.47216,38.02183,40.47216",
+    "geom:latitude":40.47216,
+    "geom:longitude":38.02183,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Guzelyurt",
+    "gn:country_code":"TR",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746174,
+    "gn:latitude":40.47216,
+    "gn:longitude":38.02183,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"G\u00fczelyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00fcs\u00fcnl\u00fc",
+        "G\u00fczelyurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890461655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746174
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"55251eb227b50e8e162df96c7b0e6a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461655,
+            "locality_id":1209740261,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1209740261,
+    "wof:lastmodified":1537707914,
+    "wof:name":"Guzelyurt",
+    "wof:parent_id":890461655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.02183,
+    40.47216,
+    38.02183,
+    40.47216
+],
+  "geometry": {"coordinates":[38.02183,40.47216],"type":"Point"}
+}

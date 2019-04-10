@@ -1,0 +1,74 @@
+{
+  "id": 1276684311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95811,39.17846,29.95811,39.17846",
+    "geom:latitude":39.17846,
+    "geom:longitude":29.95811,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Golbasi",
+    "gn:country_code":"TR",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300999,
+    "gn:latitude":39.17846,
+    "gn:longitude":29.95811,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00f6lba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00f6lba\u015f\u0131"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u0131h Ali",
+        "\u015eeyhali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300999
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"73c0bb25a733d41cf48dd907b5c6deb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709301,
+            "locality_id":1276684311,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1276684311,
+    "wof:lastmodified":1537706726,
+    "wof:name":"Golbasi",
+    "wof:parent_id":1108709301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95811,
+    39.17846,
+    29.95811,
+    39.17846
+],
+  "geometry": {"coordinates":[29.95811,39.17846],"type":"Point"}
+}

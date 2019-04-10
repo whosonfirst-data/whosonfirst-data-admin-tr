@@ -1,0 +1,74 @@
+{
+  "id": 1242794381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.37425,37.81487,41.37425,37.81487",
+    "geom:latitude":37.81487,
+    "geom:longitude":41.37425,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Oguz",
+    "gn:country_code":"TR",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":303646,
+    "gn:latitude":37.81487,
+    "gn:longitude":41.37425,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"O\u011fuz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "O\u011fuz"
+    ],
+    "name:und_x_variant":[
+        "Shimiz",
+        "\u015eimiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303646
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"707e4f5006bb9294a25ac31b2921aa20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709369,
+            "locality_id":1242794381,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1242794381,
+    "wof:lastmodified":1537706813,
+    "wof:name":"Oguz",
+    "wof:parent_id":1108709369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.37425,
+    37.81487,
+    41.37425,
+    37.81487
+],
+  "geometry": {"coordinates":[41.37425,37.81487],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344182673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76329,40.02575,39.76329,40.02575",
+    "geom:latitude":40.02575,
+    "geom:longitude":39.76329,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Serenli",
+    "gn:country_code":"TR",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739779,
+    "gn:latitude":40.02575,
+    "gn:longitude":39.76329,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Serenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pekesi",
+        "Serenli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679471,
+        1108709431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739779
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"31288f784e961b7e3ad588c5b165822d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709431,
+            "locality_id":1344182673,
+            "region_id":85679471
+        }
+    ],
+    "wof:id":1344182673,
+    "wof:lastmodified":1537707710,
+    "wof:name":"Serenli",
+    "wof:parent_id":1108709431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76329000000001,
+    40.02575,
+    39.76329000000001,
+    40.02575
+],
+  "geometry": {"coordinates":[39.76329000000001,40.02575],"type":"Point"}
+}

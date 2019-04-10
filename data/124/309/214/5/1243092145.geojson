@@ -1,0 +1,76 @@
+{
+  "id": 1243092145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65831,37.43809,40.65831,37.43809",
+    "geom:latitude":37.43809,
+    "geom:longitude":40.65831,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Yaylakoy",
+    "gn:country_code":"TR",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297501,
+    "gn:latitude":37.43809,
+    "gn:longitude":40.65831,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Yaylak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yayla"
+    ],
+    "name:und_x_variant":[
+        "\u015eifistan",
+        "Yaylak\u00f6y",
+        "\u015eeyh\u00fclya",
+        "Shifistan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297501
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"958eaa21bbaf4df51b3a704c04fd5bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463121,
+            "locality_id":1243092145,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1243092145,
+    "wof:lastmodified":1537706609,
+    "wof:name":"Yaylakoy",
+    "wof:parent_id":890463121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65831,
+    37.43809,
+    40.65831,
+    37.43809
+],
+  "geometry": {"coordinates":[40.65831,37.43809],"type":"Point"}
+}

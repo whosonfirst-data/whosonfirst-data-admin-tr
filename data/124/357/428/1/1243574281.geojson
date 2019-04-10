@@ -1,0 +1,67 @@
+{
+  "id": 1243574281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.74993,36.56779,29.74993,36.56779",
+    "geom:latitude":36.56779,
+    "geom:longitude":29.74993,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Avsar",
+    "gn:country_code":"TR",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8074483,
+    "gn:latitude":36.56779,
+    "gn:longitude":29.74993,
+    "gn:modification_date":"2011-12-09",
+    "gn:name":"Av\u015far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890464317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8074483
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da362e65a7082cc01da89d54eb0d6dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464317,
+            "locality_id":1243574281,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1243574281,
+    "wof:lastmodified":1536619258,
+    "wof:name":"Avsar",
+    "wof:parent_id":890464317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.74993,
+    36.56779,
+    29.74993,
+    36.56779
+],
+  "geometry": {"coordinates":[29.74993,36.56779],"type":"Point"}
+}

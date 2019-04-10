@@ -1,0 +1,73 @@
+{
+  "id": 1343843755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.30611,37.15722,30.30611,37.15722",
+    "geom:latitude":37.15722,
+    "geom:longitude":30.30611,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Buyukkoy",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320171,
+    "gn:latitude":37.15722,
+    "gn:longitude":30.30611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00fcy\u00fckk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fcy\u00fck Alifahrettin",
+        "B\u00fcy\u00fck Alifahrettink\u00f6y",
+        "B\u00fcy\u00fckk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890460807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320171
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"607a9271dfb0b3325e5490f6c9328092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460807,
+            "locality_id":1343843755,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1343843755,
+    "wof:lastmodified":1537707340,
+    "wof:name":"Buyukkoy",
+    "wof:parent_id":890460807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.30611,
+    37.15722,
+    30.30611,
+    37.15722
+],
+  "geometry": {"coordinates":[30.30611,37.15722],"type":"Point"}
+}

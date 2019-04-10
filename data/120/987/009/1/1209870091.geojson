@@ -1,0 +1,67 @@
+{
+  "id": 1209870091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03432,38.37047,31.03432,38.37047",
+    "geom:latitude":38.37047,
+    "geom:longitude":31.03432,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Misirli",
+    "gn:country_code":"TR",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304296,
+    "gn:latitude":38.37047,
+    "gn:longitude":31.03432,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"M\u0131s\u0131rl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890464741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304296
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8a8bac8d09e5bc747f9921c774e52c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464741,
+            "locality_id":1209870091,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":1209870091,
+    "wof:lastmodified":1536374564,
+    "wof:name":"Misirli",
+    "wof:parent_id":890464741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03432,
+    38.37047000000001,
+    31.03432,
+    38.37047000000001
+],
+  "geometry": {"coordinates":[31.03432,38.37047000000001],"type":"Point"}
+}

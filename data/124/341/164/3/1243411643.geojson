@@ -1,0 +1,71 @@
+{
+  "id": 1243411643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92195,39.55529,38.92195,39.55529",
+    "geom:latitude":39.55529,
+    "geom:longitude":38.92195,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kockar",
+    "gn:country_code":"TR",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311859,
+    "gn:latitude":39.55529,
+    "gn:longitude":38.92195,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ko\u00e7kar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e7kar",
+        "Hudu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890462479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311859
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1941a0421936b4e44e987427eb73fb20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462479,
+            "locality_id":1243411643,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1243411643,
+    "wof:lastmodified":1537707069,
+    "wof:name":"Kockar",
+    "wof:parent_id":890462479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92195,
+    39.55529,
+    38.92195,
+    39.55529
+],
+  "geometry": {"coordinates":[38.92195,39.55529],"type":"Point"}
+}

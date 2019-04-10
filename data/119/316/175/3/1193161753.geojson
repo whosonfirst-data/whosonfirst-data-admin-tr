@@ -1,0 +1,67 @@
+{
+  "id": 1193161753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.4125,37.86361,43.4125,37.86361",
+    "geom:latitude":37.86361,
+    "geom:longitude":43.4125,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Olaman",
+    "gn:country_code":"TR",
+    "gn:dem":2180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303596,
+    "gn:latitude":37.86361,
+    "gn:longitude":43.4125,
+    "gn:modification_date":"2005-04-23",
+    "gn:name":"Olaman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890461373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303596
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"357f7bee9e06c9a6d95427bad3cf1d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461373,
+            "locality_id":1193161753,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1193161753,
+    "wof:lastmodified":1536367166,
+    "wof:name":"Olaman",
+    "wof:parent_id":890461373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.4125,
+    37.86361,
+    43.4125,
+    37.86361
+],
+  "geometry": {"coordinates":[43.4125,37.86361],"type":"Point"}
+}

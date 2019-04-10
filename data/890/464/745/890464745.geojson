@@ -1,0 +1,92 @@
+{
+  "id": 890464745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81573,37.45517,35.81573,37.45517",
+    "geom:latitude":37.45517,
+    "geom:longitude":35.81573,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":88115,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kozan"
+    ],
+    "name:eng_x_preferred":[
+        "Kozan"
+    ],
+    "name:pol_x_preferred":[
+        "Kozan"
+    ],
+    "name:tur_x_preferred":[
+        "Kozan"
+    ],
+    "name:unk_x_variant":[
+        "Sis"
+    ],
+    "qs:name":"Kozan",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Adana",
+    "qs:photos":22,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":22,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":24,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890462525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306112,
+        "gp:id":2344222,
+        "qs:id":261977,
+        "wd:id":"Q361214",
+        "wk:page":"Kozan"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053485,
+    "wof:geomhash":"bd5ffd3d7b316a7ee7538577ebc2dc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462525,
+            "locality_id":890464745,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":890464745,
+    "wof:lastmodified":1527734176,
+    "wof:name":"Kozan",
+    "wof:parent_id":890462525,
+    "wof:placetype":"locality",
+    "wof:population":88115,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81573,
+    37.45517,
+    35.81573,
+    37.45517
+],
+  "geometry": {"coordinates":[35.81573,37.45517],"type":"Point"}
+}

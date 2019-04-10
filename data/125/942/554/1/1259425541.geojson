@@ -1,0 +1,67 @@
+{
+  "id": 1259425541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86635,41.47432,33.86635,41.47432",
+    "geom:latitude":41.47432,
+    "geom:longitude":33.86635,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kurusaray",
+    "gn:country_code":"TR",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742053,
+    "gn:latitude":41.47432,
+    "gn:longitude":33.86635,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Kurusaray",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742053
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5a823e9c9430b14b91596e271f0a8bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463421,
+            "locality_id":1259425541,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1259425541,
+    "wof:lastmodified":1536942632,
+    "wof:name":"Kurusaray",
+    "wof:parent_id":890463421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86635,
+    41.47432,
+    33.86635,
+    41.47432
+],
+  "geometry": {"coordinates":[33.86635,41.47432],"type":"Point"}
+}

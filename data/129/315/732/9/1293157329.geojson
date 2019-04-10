@@ -1,0 +1,71 @@
+{
+  "id": 1293157329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.89494,38.06511,39.89494,38.06511",
+    "geom:latitude":38.06511,
+    "geom:longitude":39.89494,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Keklik",
+    "gn:country_code":"TR",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308298,
+    "gn:latitude":38.06511,
+    "gn:longitude":39.89494,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Keklik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keklik K\u00f6y",
+        "Keklik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308298
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc361af0b07049fe9bc274c765a75359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709641,
+            "locality_id":1293157329,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1293157329,
+    "wof:lastmodified":1537706965,
+    "wof:name":"Keklik",
+    "wof:parent_id":1108709641,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.89494000000001,
+    38.06511,
+    39.89494000000001,
+    38.06511
+],
+  "geometry": {"coordinates":[39.89494000000001,38.06511],"type":"Point"}
+}

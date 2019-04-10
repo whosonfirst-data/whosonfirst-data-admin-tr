@@ -1,0 +1,78 @@
+{
+  "id": 1259500015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.73764,40.95078,39.73764,40.95078",
+    "geom:latitude":40.95078,
+    "geom:longitude":39.73764,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Kutlugun",
+    "gn:country_code":"TR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751988,
+    "gn:latitude":40.95078,
+    "gn:longitude":39.73764,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kutlug\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Anifa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043d\u0438\u0444\u0430"
+    ],
+    "name:und_x_variant":[
+        "An\u0131ta",
+        "Anifa",
+        "Kutlug\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890462779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751988
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e0cf2737629a25b8631d2a1dfe131678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462779,
+            "locality_id":1259500015,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1259500015,
+    "wof:lastmodified":1537708123,
+    "wof:name":"Kutlugun",
+    "wof:parent_id":890462779,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.73764,
+    40.95078,
+    39.73764,
+    40.95078
+],
+  "geometry": {"coordinates":[39.73764,40.95078],"type":"Point"}
+}

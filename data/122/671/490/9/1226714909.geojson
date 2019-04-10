@@ -1,0 +1,67 @@
+{
+  "id": 1226714909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.08862,40.07205,35.08862,40.07205",
+    "geom:latitude":40.07205,
+    "geom:longitude":35.08862,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Killik",
+    "gn:country_code":"TR",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7746851,
+    "gn:latitude":40.07205,
+    "gn:longitude":35.08862,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Killik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7746851
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c0da4b65bd869b850c5974d184e5c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709273,
+            "locality_id":1226714909,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1226714909,
+    "wof:lastmodified":1536760343,
+    "wof:name":"Killik",
+    "wof:parent_id":1108709273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.08862,
+    40.07205,
+    35.08862,
+    40.07205
+],
+  "geometry": {"coordinates":[35.08862,40.07205],"type":"Point"}
+}

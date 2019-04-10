@@ -1,0 +1,75 @@
+{
+  "id": 1243513029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.96395,38.1137,39.96395,38.1137",
+    "geom:latitude":38.1137,
+    "geom:longitude":39.96395,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Dikentepe",
+    "gn:country_code":"TR",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316729,
+    "gn:latitude":38.1137,
+    "gn:longitude":39.96395,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Dikentepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dikentepe"
+    ],
+    "name:und_x_variant":[
+        "Tilheran",
+        "Telharan",
+        "Tilharman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709981
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316729
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5ef9c3afc2b959948a987b4ffb2b3120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709981,
+            "locality_id":1243513029,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243513029,
+    "wof:lastmodified":1537707229,
+    "wof:name":"Dikentepe",
+    "wof:parent_id":1108709981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.96395,
+    38.1137,
+    39.96395,
+    38.1137
+],
+  "geometry": {"coordinates":[39.96395,38.1137],"type":"Point"}
+}

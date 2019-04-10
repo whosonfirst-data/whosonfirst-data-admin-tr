@@ -1,0 +1,66 @@
+{
+  "id": 1209363085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.47939,40.16302,43.47939,40.16302",
+    "geom:latitude":40.16302,
+    "geom:longitude":43.47939,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Bostankale",
+    "gn:country_code":"TR",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750475,
+    "gn:latitude":40.16302,
+    "gn:longitude":43.47939,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bostankale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abu\u015faban",
+        "\u015eaban",
+        "Bostankale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750475
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1635c4975a7983ca41c273aba8c70c79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209363085
+        }
+    ],
+    "wof:id":1209363085,
+    "wof:lastmodified":1537708068,
+    "wof:name":"Bostankale",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.47939,
+    40.16302,
+    43.47939,
+    40.16302
+],
+  "geometry": {"coordinates":[43.47939,40.16302],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259599795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1492,36.80207,28.1492,36.80207",
+    "geom:latitude":36.80207,
+    "geom:longitude":28.1492,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Hisaronu",
+    "gn:country_code":"TR",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312040,
+    "gn:latitude":36.80207,
+    "gn:longitude":28.1492,
+    "gn:modification_date":"2010-03-29",
+    "gn:name":"Hisar\u00f6n\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890460753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312040
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26c711de6ae26809876f466a9bd23eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460753,
+            "locality_id":1259599795,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1259599795,
+    "wof:lastmodified":1536691448,
+    "wof:name":"Hisaronu",
+    "wof:parent_id":890460753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1492,
+    36.80207,
+    28.1492,
+    36.80207
+],
+  "geometry": {"coordinates":[28.1492,36.80207],"type":"Point"}
+}

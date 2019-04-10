@@ -1,0 +1,65 @@
+{
+  "id": 1209151081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5002,41.91212,33.5002,41.91212",
+    "geom:latitude":41.91212,
+    "geom:longitude":33.5002,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Akguney",
+    "gn:country_code":"TR",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747149,
+    "gn:latitude":41.91212,
+    "gn:longitude":33.5002,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akg\u00fcney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akg\u00fcney",
+        "Fedimsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747149
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"73a31576559c015d40162a27b7eab1b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209151081
+        }
+    ],
+    "wof:id":1209151081,
+    "wof:lastmodified":1537707951,
+    "wof:name":"Akguney",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5002,
+    41.91212,
+    33.5002,
+    41.91212
+],
+  "geometry": {"coordinates":[33.5002,41.91212],"type":"Point"}
+}

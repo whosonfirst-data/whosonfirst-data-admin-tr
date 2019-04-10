@@ -1,0 +1,67 @@
+{
+  "id": 1343950853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.193,40.96951,35.193,40.96951",
+    "geom:latitude":40.96951,
+    "geom:longitude":35.193,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kavak",
+    "gn:country_code":"TR",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697654,
+    "gn:latitude":40.96951,
+    "gn:longitude":35.193,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kavak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        1108709531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697654
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dee33523255d63306a05f5d37dea4a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709531,
+            "locality_id":1343950853,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1343950853,
+    "wof:lastmodified":1537032506,
+    "wof:name":"Kavak",
+    "wof:parent_id":1108709531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.19300000000001,
+    40.96951,
+    35.19300000000001,
+    40.96951
+],
+  "geometry": {"coordinates":[35.19300000000001,40.96951],"type":"Point"}
+}

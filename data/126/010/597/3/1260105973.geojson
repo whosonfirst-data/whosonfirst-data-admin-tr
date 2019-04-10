@@ -1,0 +1,67 @@
+{
+  "id": 1260105973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82603,40.80028,32.82603,40.80028",
+    "geom:latitude":40.80028,
+    "geom:longitude":32.82603,
+    "gn:admin1_code":"82",
+    "gn:asciiname":"Gomlekci",
+    "gn:country_code":"TR",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931384,
+    "gn:latitude":40.80028,
+    "gn:longitude":32.82603,
+    "gn:modification_date":"2011-08-10",
+    "gn:name":"G\u00f6mlek\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890460977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931384
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3653689d28393f219a06039eca58aaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460977,
+            "locality_id":1260105973,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1260105973,
+    "wof:lastmodified":1536955780,
+    "wof:name":"Gomlekci",
+    "wof:parent_id":890460977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82603,
+    40.80028,
+    32.82603,
+    40.80028
+],
+  "geometry": {"coordinates":[32.82603,40.80028],"type":"Point"}
+}

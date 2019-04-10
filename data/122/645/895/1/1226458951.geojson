@@ -1,0 +1,67 @@
+{
+  "id": 1226458951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.91468,39.6783,29.91468,39.6783",
+    "geom:latitude":39.6783,
+    "geom:longitude":29.91468,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Korpe",
+    "gn:country_code":"TR",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306448,
+    "gn:latitude":39.6783,
+    "gn:longitude":29.91468,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"K\u00f6rpe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        890461533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306448
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ca5da47a6bbe418a05da0d5a857f73f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461533,
+            "locality_id":1226458951,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1226458951,
+    "wof:lastmodified":1536624498,
+    "wof:name":"Korpe",
+    "wof:parent_id":890461533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91468,
+    39.6783,
+    29.91468,
+    39.6783
+],
+  "geometry": {"coordinates":[29.91468,39.6783],"type":"Point"}
+}

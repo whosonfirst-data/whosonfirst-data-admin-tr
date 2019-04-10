@@ -1,0 +1,73 @@
+{
+  "id": 1276254003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.90715,37.327,40.90715,37.327",
+    "geom:latitude":37.327,
+    "geom:longitude":40.90715,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Pinarcik",
+    "gn:country_code":"TR",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":441777,
+    "gn:latitude":37.327,
+    "gn:longitude":40.90715,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"P\u0131narc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "P\u0131narc\u0131k"
+    ],
+    "name:und_x_variant":[
+        "Keskirop"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108710073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":441777
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2dd5ae432df740254201b9e326923619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710073,
+            "locality_id":1276254003,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1276254003,
+    "wof:lastmodified":1537707598,
+    "wof:name":"Pinarcik",
+    "wof:parent_id":1108710073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.90715,
+    37.327,
+    40.90715,
+    37.327
+],
+  "geometry": {"coordinates":[40.90715,37.327],"type":"Point"}
+}

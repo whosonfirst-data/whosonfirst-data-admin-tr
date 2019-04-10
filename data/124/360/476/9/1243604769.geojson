@@ -1,0 +1,70 @@
+{
+  "id": 1243604769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.23986,40.85055,38.23986,40.85055",
+    "geom:latitude":40.85055,
+    "geom:longitude":38.23986,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Tekmezar",
+    "gn:country_code":"TR",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409597,
+    "gn:latitude":40.85055,
+    "gn:longitude":38.23986,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Tekmezar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tekmezar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890461847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409597
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8a4f9bda74aed0ed6da138d757ac901b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461847,
+            "locality_id":1243604769,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1243604769,
+    "wof:lastmodified":1537708381,
+    "wof:name":"Tekmezar",
+    "wof:parent_id":890461847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.23986,
+    40.85055,
+    38.23986,
+    40.85055
+],
+  "geometry": {"coordinates":[38.23986,40.85055],"type":"Point"}
+}

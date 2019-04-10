@@ -1,0 +1,72 @@
+{
+  "id": 1209965143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.59589,39.96195,42.59589,39.96195",
+    "geom:latitude":39.96195,
+    "geom:longitude":42.59589,
+    "gn:admin1_code":"84",
+    "gn:asciiname":"Kayalibogaz",
+    "gn:country_code":"TR",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308597,
+    "gn:latitude":39.96195,
+    "gn:longitude":42.59589,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kayal\u0131bo\u011faz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ermeli",
+        "\u00c7irmeli",
+        "Kayal\u0131bo\u011faz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890461201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308597
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2fc9578e0785120b0d2716bae6a74b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461201,
+            "locality_id":1209965143,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1209965143,
+    "wof:lastmodified":1537706974,
+    "wof:name":"Kayalibogaz",
+    "wof:parent_id":890461201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.59589,
+    39.96195,
+    42.59589,
+    39.96195
+],
+  "geometry": {"coordinates":[42.59589,39.96195],"type":"Point"}
+}

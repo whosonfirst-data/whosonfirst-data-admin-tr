@@ -1,0 +1,70 @@
+{
+  "id": 1226267479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.10219,39.05265,39.10219,39.05265",
+    "geom:latitude":39.05265,
+    "geom:longitude":39.10219,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kalecik",
+    "gn:country_code":"TR",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310762,
+    "gn:latitude":39.05265,
+    "gn:longitude":39.10219,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kalecik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kalecik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108710059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310762
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7af87a0f68419b9b9fc672bab38f034b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710059,
+            "locality_id":1226267479,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1226267479,
+    "wof:lastmodified":1537707035,
+    "wof:name":"Kalecik",
+    "wof:parent_id":1108710059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.10219,
+    39.05265,
+    39.10219,
+    39.05265
+],
+  "geometry": {"coordinates":[39.10219,39.05265],"type":"Point"}
+}

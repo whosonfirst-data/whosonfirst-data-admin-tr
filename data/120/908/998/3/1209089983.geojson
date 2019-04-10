@@ -1,0 +1,64 @@
+{
+  "id": 1209089983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.60044,38.42477,42.60044,38.42477",
+    "geom:latitude":38.42477,
+    "geom:longitude":42.60044,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Pekmez",
+    "gn:country_code":"TR",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985966,
+    "gn:latitude":38.42477,
+    "gn:longitude":42.60044,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Pekmez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Pekmez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985966
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c8a0e92baf3804d58bddda60e51ac0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209089983
+        }
+    ],
+    "wof:id":1209089983,
+    "wof:lastmodified":1537708188,
+    "wof:name":"Pekmez",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.60044,
+    38.42477,
+    42.60044,
+    38.42477
+],
+  "geometry": {"coordinates":[42.60044,38.42477],"type":"Point"}
+}

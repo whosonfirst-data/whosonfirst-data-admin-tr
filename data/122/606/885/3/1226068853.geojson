@@ -1,0 +1,73 @@
+{
+  "id": 1226068853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.87958,37.04728,38.87958,37.04728",
+    "geom:latitude":37.04728,
+    "geom:longitude":38.87958,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Gelincik",
+    "gn:country_code":"TR",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312591,
+    "gn:latitude":37.04728,
+    "gn:longitude":38.87958,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Gelincik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harapsur",
+        "Harapsor",
+        "Gelincik",
+        "Gelindzhik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312591
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a5590f6639b08f8d503ab110d6d31ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1226068853,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1226068853,
+    "wof:lastmodified":1537707095,
+    "wof:name":"Gelincik",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.87958,
+    37.04728,
+    38.87958,
+    37.04728
+],
+  "geometry": {"coordinates":[38.87958,37.04728],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890461425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.3574,40.18416,26.3574,40.18416",
+    "geom:latitude":40.18416,
+    "geom:longitude":26.3574,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":5120,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "A\u00e7aabat"
+    ],
+    "qs:name":"Eceabat",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u00c7anakkale",
+    "qs:photos":1280,
+    "qs:photos_1k":259,
+    "qs:photos_9k":8,
+    "qs:photos_9r":9,
+    "qs:photos_all":1868,
+    "qs:photos_sr":12,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747728,
+        "gp:id":29390291,
+        "qs:id":1114616,
+        "wd:id":"Q1023153",
+        "wk:page":"Eceabat"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053350,
+    "wof:geomhash":"283484ed4dc745355e7f462b2de0d98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "county_id":890461425
+        }
+    ],
+    "wof:id":890461425,
+    "wof:lastmodified":1527792988,
+    "wof:name":"Eceabat",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":5120,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.3574,
+    40.18416,
+    26.3574,
+    40.18416
+],
+  "geometry": {"coordinates":[26.3574,40.18416],"type":"Point"}
+}

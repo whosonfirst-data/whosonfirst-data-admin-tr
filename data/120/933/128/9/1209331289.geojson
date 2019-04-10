@@ -1,0 +1,66 @@
+{
+  "id": 1209331289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91608,41.09065,40.91608,41.09065",
+    "geom:latitude":41.09065,
+    "geom:longitude":40.91608,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ortayol",
+    "gn:country_code":"TR",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746580,
+    "gn:latitude":41.09065,
+    "gn:longitude":40.91608,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ortayol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gumno",
+        "Gomno",
+        "Ortayol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746580
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6c5629c0b8573c5545fff0925080f078",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331289
+        }
+    ],
+    "wof:id":1209331289,
+    "wof:lastmodified":1537707931,
+    "wof:name":"Ortayol",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91608,
+    41.09065,
+    40.91608,
+    41.09065
+],
+  "geometry": {"coordinates":[40.91608,41.09065],"type":"Point"}
+}

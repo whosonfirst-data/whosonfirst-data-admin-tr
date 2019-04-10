@@ -1,0 +1,65 @@
+{
+  "id": 1209532327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.65504,40.54259,36.65504,40.54259",
+    "geom:latitude":40.54259,
+    "geom:longitude":36.65504,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Musullu",
+    "gn:country_code":"TR",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741377,
+    "gn:latitude":40.54259,
+    "gn:longitude":36.65504,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Musullu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musub\u0131",
+        "Musullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741377
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4163a4848c24f5cd73c69640527eacdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532327
+        }
+    ],
+    "wof:id":1209532327,
+    "wof:lastmodified":1537707764,
+    "wof:name":"Musullu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.65504,
+    40.54259,
+    36.65504,
+    40.54259
+],
+  "geometry": {"coordinates":[36.65504,40.54259],"type":"Point"}
+}

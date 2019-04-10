@@ -1,0 +1,71 @@
+{
+  "id": 890460337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83417,37.79167,40.83417,37.79167",
+    "geom:latitude":37.79167,
+    "geom:longitude":40.83417,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":493,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kurudere"
+    ],
+    "name:unk_x_variant":[
+        "Sadi"
+    ],
+    "qs:name":"Kurudere",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305411,
+        "qs:id":1158709
+    },
+    "wof:country":"TR",
+    "wof:created":1469053311,
+    "wof:geomhash":"4a15d416154cf3becd2282c77d7eca24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":890460337,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890460337,
+    "wof:lastmodified":1505343681,
+    "wof:name":"Kurudere",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:population":493,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83417,
+    37.79167,
+    40.83417,
+    37.79167
+],
+  "geometry": {"coordinates":[40.83417,37.79167],"type":"Point"}
+}

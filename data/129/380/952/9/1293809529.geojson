@@ -1,0 +1,70 @@
+{
+  "id": 1293809529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.63453,38.50922,29.63453,38.50922",
+    "geom:latitude":38.50922,
+    "geom:longitude":29.63453,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Sazak",
+    "gn:country_code":"TR",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301406,
+    "gn:latitude":38.50922,
+    "gn:longitude":29.63453,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sazak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sazak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        1108709889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301406
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e90e55d11f358bf3109927c825c418b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709889,
+            "locality_id":1293809529,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1293809529,
+    "wof:lastmodified":1537706741,
+    "wof:name":"Sazak",
+    "wof:parent_id":1108709889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.63453,
+    38.50922,
+    29.63453,
+    38.50922
+],
+  "geometry": {"coordinates":[29.63453,38.50922],"type":"Point"}
+}

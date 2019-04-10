@@ -1,0 +1,67 @@
+{
+  "id": 1310585765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.48291,40.74528,41.48291,40.74528",
+    "geom:latitude":40.74528,
+    "geom:longitude":41.48291,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ballidut",
+    "gn:country_code":"TR",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751100,
+    "gn:latitude":40.74528,
+    "gn:longitude":41.48291,
+    "gn:modification_date":"2003-05-12",
+    "gn:name":"Ball\u0131dut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890461427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751100
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b55956c80a62efbd47142ff2a27ee151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461427,
+            "locality_id":1310585765,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1310585765,
+    "wof:lastmodified":1536801235,
+    "wof:name":"Ballidut",
+    "wof:parent_id":890461427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.48291,
+    40.74528,
+    41.48291,
+    40.74528
+],
+  "geometry": {"coordinates":[41.48291,40.74528],"type":"Point"}
+}

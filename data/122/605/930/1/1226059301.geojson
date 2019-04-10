@@ -1,0 +1,70 @@
+{
+  "id": 1226059301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55405,37.79626,36.55405,37.79626",
+    "geom:latitude":37.79626,
+    "geom:longitude":36.55405,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kaynar",
+    "gn:country_code":"TR",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308491,
+    "gn:latitude":37.79626,
+    "gn:longitude":36.55405,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Kaynar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaynar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        1108709737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308491
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"86c1ed4da8c874e05dfc2918c9cffbbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709737,
+            "locality_id":1226059301,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1226059301,
+    "wof:lastmodified":1537706971,
+    "wof:name":"Kaynar",
+    "wof:parent_id":1108709737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55405,
+    37.79626,
+    36.55405,
+    37.79626
+],
+  "geometry": {"coordinates":[36.55405,37.79626],"type":"Point"}
+}

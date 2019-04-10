@@ -1,0 +1,67 @@
+{
+  "id": 1292943587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03647,41.6886,33.03647,41.6886",
+    "geom:latitude":41.6886,
+    "geom:longitude":33.03647,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Urva",
+    "gn:country_code":"TR",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743448,
+    "gn:latitude":41.6886,
+    "gn:longitude":33.03647,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Urva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743448
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4f43028cdde652a311479863857e43cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463239,
+            "locality_id":1292943587,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1292943587,
+    "wof:lastmodified":1537070978,
+    "wof:name":"Urva",
+    "wof:parent_id":890463239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03647,
+    41.6886,
+    33.03647,
+    41.6886
+],
+  "geometry": {"coordinates":[33.03647,41.6886],"type":"Point"}
+}

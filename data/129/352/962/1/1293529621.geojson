@@ -1,0 +1,67 @@
+{
+  "id": 1293529621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.24333,38.03194,27.24333,38.03194",
+    "geom:latitude":38.03194,
+    "geom:longitude":27.24333,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Golova",
+    "gn:country_code":"TR",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314032,
+    "gn:latitude":38.03194,
+    "gn:longitude":27.24333,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"G\u00f6lova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890463865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314032
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3ec4e53a23c7312b96c03efdf2a71e15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463865,
+            "locality_id":1293529621,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1293529621,
+    "wof:lastmodified":1536726703,
+    "wof:name":"Golova",
+    "wof:parent_id":890463865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.24333,
+    38.03194000000001,
+    27.24333,
+    38.03194000000001
+],
+  "geometry": {"coordinates":[27.24333,38.03194000000001],"type":"Point"}
+}

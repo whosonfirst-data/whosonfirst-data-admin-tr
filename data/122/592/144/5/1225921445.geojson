@@ -1,0 +1,72 @@
+{
+  "id": 1225921445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.82601,40.11671,29.82601,40.11671",
+    "geom:latitude":40.11671,
+    "geom:longitude":29.82601,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Sutluk",
+    "gn:country_code":"TR",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739175,
+    "gn:latitude":40.11671,
+    "gn:longitude":29.82601,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"S\u00fctl\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koyunk\u0131r\u0131ld\u0131",
+        "S\u00fctl\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        1108709729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739175,
+        "wk:page":"S%C3%BCtl%C3%BCk%2C_Bilecik"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0982aabdbd65f1ea4dbc396307889a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709729,
+            "locality_id":1225921445,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1225921445,
+    "wof:lastmodified":1537707689,
+    "wof:name":"Sutluk",
+    "wof:parent_id":1108709729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.82601,
+    40.11671,
+    29.82601,
+    40.11671
+],
+  "geometry": {"coordinates":[29.82601,40.11671],"type":"Point"}
+}

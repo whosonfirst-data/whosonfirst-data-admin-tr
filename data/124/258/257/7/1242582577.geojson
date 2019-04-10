@@ -1,0 +1,70 @@
+{
+  "id": 1242582577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.12482,39.76976,43.12482,39.76976",
+    "geom:latitude":39.76976,
+    "geom:longitude":43.12482,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Murathan",
+    "gn:country_code":"TR",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304118,
+    "gn:latitude":39.76976,
+    "gn:longitude":43.12482,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Murathan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Murathan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        890463323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304118
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3c6cc086c99524cb109fd65a4fb2cd27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463323,
+            "locality_id":1242582577,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1242582577,
+    "wof:lastmodified":1537706829,
+    "wof:name":"Murathan",
+    "wof:parent_id":890463323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.12482,
+    39.76976,
+    43.12482,
+    39.76976
+],
+  "geometry": {"coordinates":[43.12482,39.76976],"type":"Point"}
+}

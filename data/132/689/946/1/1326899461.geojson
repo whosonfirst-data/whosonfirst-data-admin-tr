@@ -1,0 +1,73 @@
+{
+  "id": 1326899461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.27399,38.40055,40.27399,38.40055",
+    "geom:latitude":38.40055,
+    "geom:longitude":40.27399,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pinar",
+    "gn:country_code":"TR",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302456,
+    "gn:latitude":38.40055,
+    "gn:longitude":40.27399,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"P\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yele\u015fkeryan",
+        "P\u00fcrle\u015fkeriyan",
+        "P\u0131nar",
+        "P\u00fcrle\u015fkeryan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302456
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"52fd617d832712f6b0fceea587c3717a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709443,
+            "locality_id":1326899461,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1326899461,
+    "wof:lastmodified":1537706775,
+    "wof:name":"Pinar",
+    "wof:parent_id":1108709443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.27399000000001,
+    38.40055,
+    40.27399000000001,
+    38.40055
+],
+  "geometry": {"coordinates":[40.27399000000001,38.40055],"type":"Point"}
+}

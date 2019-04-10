@@ -1,0 +1,67 @@
+{
+  "id": 1293504081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30559,37.67393,36.30559,37.67393",
+    "geom:latitude":37.67393,
+    "geom:longitude":36.30559,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Canbaz",
+    "gn:country_code":"TR",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319493,
+    "gn:latitude":37.67393,
+    "gn:longitude":36.30559,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Canbaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        890464105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319493
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ca2eb1226f92b3004fc5ea079d06d61a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464105,
+            "locality_id":1293504081,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1293504081,
+    "wof:lastmodified":1536763437,
+    "wof:name":"Canbaz",
+    "wof:parent_id":890464105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30559,
+    37.67393,
+    36.30559,
+    37.67393
+],
+  "geometry": {"coordinates":[36.30559,37.67393],"type":"Point"}
+}

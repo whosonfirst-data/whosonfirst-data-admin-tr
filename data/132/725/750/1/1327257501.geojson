@@ -1,0 +1,67 @@
+{
+  "id": 1327257501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.87172,39.32531,39.87172,39.32531",
+    "geom:latitude":39.32531,
+    "geom:longitude":39.87172,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Egribelen",
+    "gn:country_code":"TR",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315923,
+    "gn:latitude":39.32531,
+    "gn:longitude":39.87172,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"E\u011fribelen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315923
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2847fb3f7d2f7423ff7b015452e1ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709763,
+            "locality_id":1327257501,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1327257501,
+    "wof:lastmodified":1536934191,
+    "wof:name":"Egribelen",
+    "wof:parent_id":1108709763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.87172,
+    39.32531,
+    39.87172,
+    39.32531
+],
+  "geometry": {"coordinates":[39.87172,39.32531],"type":"Point"}
+}

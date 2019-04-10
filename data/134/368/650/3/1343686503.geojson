@@ -1,0 +1,70 @@
+{
+  "id": 1343686503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.15454,37.42084,44.15454,37.42084",
+    "geom:latitude":37.42084,
+    "geom:longitude":44.15454,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Tuglu",
+    "gn:country_code":"TR",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":392224,
+    "gn:latitude":37.42084,
+    "gn:longitude":44.15454,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Tu\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tu\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        1108710003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":392224
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3794885b6f5a8387d88ad08d112ab7e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710003,
+            "locality_id":1343686503,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1343686503,
+    "wof:lastmodified":1537707517,
+    "wof:name":"Tuglu",
+    "wof:parent_id":1108710003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.15454,
+    37.42084000000001,
+    44.15454,
+    37.42084000000001
+],
+  "geometry": {"coordinates":[44.15454,37.42084000000001],"type":"Point"}
+}

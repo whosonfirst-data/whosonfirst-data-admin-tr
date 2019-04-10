@@ -1,0 +1,70 @@
+{
+  "id": 1343484141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34419,40.05097,35.34419,40.05097",
+    "geom:latitude":40.05097,
+    "geom:longitude":35.34419,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Mehmetli",
+    "gn:country_code":"TR",
+    "gn:dem":1383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7687050,
+    "gn:latitude":40.05097,
+    "gn:longitude":35.34419,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Mehmetli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mehmetli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108710049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7687050
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"86638fad027809a1bc47bad49143e3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710049,
+            "locality_id":1343484141,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1343484141,
+    "wof:lastmodified":1537708266,
+    "wof:name":"Mehmetli",
+    "wof:parent_id":1108710049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34419000000001,
+    40.05097,
+    35.34419000000001,
+    40.05097
+],
+  "geometry": {"coordinates":[35.34419000000001,40.05097],"type":"Point"}
+}

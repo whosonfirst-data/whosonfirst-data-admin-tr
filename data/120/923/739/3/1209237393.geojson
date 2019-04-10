@@ -1,0 +1,65 @@
+{
+  "id": 1209237393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.87458,37.84835,36.87458,37.84835",
+    "geom:latitude":37.84835,
+    "geom:longitude":36.87458,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ilica",
+    "gn:country_code":"TR",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311515,
+    "gn:latitude":37.84835,
+    "gn:longitude":36.87458,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Il\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Il\u0131ca",
+        "Il\u0131cak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311515
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"807ce255e6f747063e5492d3f956c545",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209237393
+        }
+    ],
+    "wof:id":1209237393,
+    "wof:lastmodified":1537707057,
+    "wof:name":"Ilica",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.87458,
+    37.84835,
+    36.87458,
+    37.84835
+],
+  "geometry": {"coordinates":[36.87458,37.84835],"type":"Point"}
+}

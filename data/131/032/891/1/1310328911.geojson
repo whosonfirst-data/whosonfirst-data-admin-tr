@@ -1,0 +1,70 @@
+{
+  "id": 1310328911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99589,40.92545,29.99589,40.92545",
+    "geom:latitude":40.92545,
+    "geom:longitude":29.99589,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Sahinler",
+    "gn:country_code":"TR",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383773,
+    "gn:latitude":40.92545,
+    "gn:longitude":29.99589,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"\u015eahinler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eahinler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        1108709225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383773
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eb2e196afa388d0c2aa061abdd449007",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709225,
+            "locality_id":1310328911,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1310328911,
+    "wof:lastmodified":1537708290,
+    "wof:name":"Sahinler",
+    "wof:parent_id":1108709225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99589000000001,
+    40.92545,
+    29.99589000000001,
+    40.92545
+],
+  "geometry": {"coordinates":[29.99589000000001,40.92545],"type":"Point"}
+}

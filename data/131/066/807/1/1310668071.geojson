@@ -1,0 +1,70 @@
+{
+  "id": 1310668071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.00261,39.70151,42.00261,39.70151",
+    "geom:latitude":39.70151,
+    "geom:longitude":42.00261,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Karasu",
+    "gn:country_code":"TR",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309344,
+    "gn:latitude":39.70151,
+    "gn:longitude":42.00261,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Karasu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karasu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309344
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"241abc0a24cf9a1167b6e04d4c584ae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709629,
+            "locality_id":1310668071,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1310668071,
+    "wof:lastmodified":1537706994,
+    "wof:name":"Karasu",
+    "wof:parent_id":1108709629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.00261,
+    39.70151,
+    42.00261,
+    39.70151
+],
+  "geometry": {"coordinates":[42.00261,39.70151],"type":"Point"}
+}

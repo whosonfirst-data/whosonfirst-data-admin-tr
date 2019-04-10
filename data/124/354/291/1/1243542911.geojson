@@ -1,0 +1,73 @@
+{
+  "id": 1243542911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.69914,39.64067,28.69914,39.64067",
+    "geom:latitude":39.64067,
+    "geom:longitude":28.69914,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Buyukakcalan",
+    "gn:country_code":"TR",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324966,
+    "gn:latitude":39.64067,
+    "gn:longitude":28.69914,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"B\u00fcy\u00fckak\u00e7alan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "B\u00fcy\u00fckak\u00e7alan"
+    ],
+    "name:und_x_variant":[
+        "Ak\u00e7aalankebir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324966
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d0c7025354a71ac8b9f7e1cbc0e5701c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709459,
+            "locality_id":1243542911,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1243542911,
+    "wof:lastmodified":1537707497,
+    "wof:name":"Buyukakcalan",
+    "wof:parent_id":1108709459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69914,
+    39.64067,
+    28.69914,
+    39.64067
+],
+  "geometry": {"coordinates":[28.69914,39.64067],"type":"Point"}
+}

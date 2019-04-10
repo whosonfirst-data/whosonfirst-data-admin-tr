@@ -1,0 +1,67 @@
+{
+  "id": 1293309395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28167,39.30918,35.28167,39.30918",
+    "geom:latitude":39.30918,
+    "geom:longitude":35.28167,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Yapalak",
+    "gn:country_code":"TR",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297718,
+    "gn:latitude":39.30918,
+    "gn:longitude":35.28167,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Yapalak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890463279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297718
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42e657f81219ba058fcf5fc2d39f6ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463279,
+            "locality_id":1293309395,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1293309395,
+    "wof:lastmodified":1537042043,
+    "wof:name":"Yapalak",
+    "wof:parent_id":890463279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28167,
+    39.30918,
+    35.28167,
+    39.30918
+],
+  "geometry": {"coordinates":[35.28167,39.30918],"type":"Point"}
+}

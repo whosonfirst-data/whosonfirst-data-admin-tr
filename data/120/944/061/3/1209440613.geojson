@@ -1,0 +1,64 @@
+{
+  "id": 1209440613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.0233,38.77156,44.0233,38.77156",
+    "geom:latitude":38.77156,
+    "geom:longitude":44.0233,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Cubuklu",
+    "gn:country_code":"TR",
+    "gn:dem":2107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317991,
+    "gn:latitude":38.77156,
+    "gn:longitude":44.0233,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"\u00c7ubuklu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ubuklu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317991
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54a0b1a256384e406cecd9367ed7df24",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440613
+        }
+    ],
+    "wof:id":1209440613,
+    "wof:lastmodified":1537707268,
+    "wof:name":"Cubuklu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.0233,
+    38.77156,
+    44.0233,
+    38.77156
+],
+  "geometry": {"coordinates":[44.0233,38.77156],"type":"Point"}
+}

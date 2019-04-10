@@ -1,0 +1,67 @@
+{
+  "id": 1293703435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.49396,40.49336,37.49396,40.49336",
+    "geom:latitude":40.49336,
+    "geom:longitude":37.49396,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Baydarli",
+    "gn:country_code":"TR",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750935,
+    "gn:latitude":40.49336,
+    "gn:longitude":37.49396,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Baydarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750935
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6f3faad7682300021d5f62c2b184f6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709833,
+            "locality_id":1293703435,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1293703435,
+    "wof:lastmodified":1536972679,
+    "wof:name":"Baydarli",
+    "wof:parent_id":1108709833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.49396,
+    40.49336,
+    37.49396,
+    40.49336
+],
+  "geometry": {"coordinates":[37.49396,40.49336],"type":"Point"}
+}

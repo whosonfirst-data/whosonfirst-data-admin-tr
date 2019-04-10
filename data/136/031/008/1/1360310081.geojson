@@ -1,0 +1,70 @@
+{
+  "id": 1360310081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99182,37.95343,36.99182,37.95343",
+    "geom:latitude":37.95343,
+    "geom:longitude":36.99182,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Demirlik",
+    "gn:country_code":"TR",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315557,
+    "gn:latitude":37.95343,
+    "gn:longitude":36.99182,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Demirlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Engizek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        890464453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315557
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a81cf6fa0e97fd3fe27c180157fa0c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464453,
+            "locality_id":1360310081,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1360310081,
+    "wof:lastmodified":1537707191,
+    "wof:name":"Demirlik",
+    "wof:parent_id":890464453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99182,
+    37.95343,
+    36.99182,
+    37.95343
+],
+  "geometry": {"coordinates":[36.99182,37.95343],"type":"Point"}
+}

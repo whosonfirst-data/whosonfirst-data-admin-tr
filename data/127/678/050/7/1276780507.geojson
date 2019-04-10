@@ -1,0 +1,74 @@
+{
+  "id": 1276780507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.2925,36.94307,38.2925,36.94307",
+    "geom:latitude":36.94307,
+    "geom:longitude":38.2925,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Gommekuyu",
+    "gn:country_code":"TR",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":436226,
+    "gn:latitude":36.94307,
+    "gn:longitude":38.2925,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00f6mmekuyu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "G\u00ebmmekuyu"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6mmekuyu K\u00f6y\u00fc",
+        "G\u00f6mmekuyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890460731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":436226
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a44f7cb7bdf7c9240b31db3919b099f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460731,
+            "locality_id":1276780507,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1276780507,
+    "wof:lastmodified":1537707524,
+    "wof:name":"Gommekuyu",
+    "wof:parent_id":890460731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.2925,
+    36.94307,
+    38.2925,
+    36.94307
+],
+  "geometry": {"coordinates":[38.2925,36.94307],"type":"Point"}
+}

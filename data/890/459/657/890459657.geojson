@@ -1,0 +1,71 @@
+{
+  "id": 890459657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.51267,37.77875,40.51267,37.77875",
+    "geom:latitude":37.77875,
+    "geom:longitude":40.51267,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":207,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Belenli"
+    ],
+    "name:unk_x_variant":[
+        "\u00d6meran"
+    ],
+    "qs:name":"Belenli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321544,
+        "qs:id":547659
+    },
+    "wof:country":"TR",
+    "wof:created":1469053277,
+    "wof:geomhash":"a9296be5442bd3545c591334df6b6f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463353,
+            "locality_id":890459657,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890459657,
+    "wof:lastmodified":1505343678,
+    "wof:name":"Belenli",
+    "wof:parent_id":890463353,
+    "wof:placetype":"locality",
+    "wof:population":207,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.51267,
+    37.77875,
+    40.51267,
+    37.77875
+],
+  "geometry": {"coordinates":[40.51267,37.77875],"type":"Point"}
+}

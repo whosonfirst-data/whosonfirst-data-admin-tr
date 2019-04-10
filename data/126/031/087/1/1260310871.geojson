@@ -1,0 +1,67 @@
+{
+  "id": 1260310871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.65444,38.96917,28.65444,38.96917",
+    "geom:latitude":38.96917,
+    "geom:longitude":28.65444,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Serceler",
+    "gn:country_code":"TR",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301138,
+    "gn:latitude":38.96917,
+    "gn:longitude":28.65444,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Ser\u00e7eler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301138
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54680ded2c1e0b111c55fca629f61e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709429,
+            "locality_id":1260310871,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1260310871,
+    "wof:lastmodified":1536675257,
+    "wof:name":"Serceler",
+    "wof:parent_id":1108709429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.65444,
+    38.96917,
+    28.65444,
+    38.96917
+],
+  "geometry": {"coordinates":[28.65444,38.96917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360209475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29903,37.05897,35.29903,37.05897",
+    "geom:latitude":37.05897,
+    "geom:longitude":35.29903,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Karsli",
+    "gn:country_code":"TR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7642396,
+    "gn:latitude":37.05897,
+    "gn:longitude":35.29903,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Karsl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        1108710077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7642396
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"51a5a281d2c184ca67d577e92869bd65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710077,
+            "locality_id":1360209475,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1360209475,
+    "wof:lastmodified":1536766698,
+    "wof:name":"Karsli",
+    "wof:parent_id":1108710077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29903,
+    37.05897,
+    35.29903,
+    37.05897
+],
+  "geometry": {"coordinates":[35.29903,37.05897],"type":"Point"}
+}

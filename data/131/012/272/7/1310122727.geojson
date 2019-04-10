@@ -1,0 +1,67 @@
+{
+  "id": 1310122727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3008,40.38407,32.3008,40.38407",
+    "geom:latitude":40.38407,
+    "geom:longitude":32.3008,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Gumele",
+    "gn:country_code":"TR",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925048,
+    "gn:latitude":40.38407,
+    "gn:longitude":32.3008,
+    "gn:modification_date":"2011-08-10",
+    "gn:name":"G\u00fcmele",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890461263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925048
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2e1c5e17dc49700f93e8b5da47e532ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461263,
+            "locality_id":1310122727,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1310122727,
+    "wof:lastmodified":1536971273,
+    "wof:name":"Gumele",
+    "wof:parent_id":890461263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3008,
+    40.38407,
+    32.3008,
+    40.38407
+],
+  "geometry": {"coordinates":[32.3008,40.38407],"type":"Point"}
+}

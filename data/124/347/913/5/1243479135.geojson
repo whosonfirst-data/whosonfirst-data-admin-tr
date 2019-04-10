@@ -1,0 +1,67 @@
+{
+  "id": 1243479135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87038,40.28469,33.87038,40.28469",
+    "geom:latitude":40.28469,
+    "geom:longitude":33.87038,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Karalli",
+    "gn:country_code":"TR",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744194,
+    "gn:latitude":40.28469,
+    "gn:longitude":33.87038,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Karall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890461515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744194
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e6ea356ed1ec6ad71ac8d05f47b21485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461515,
+            "locality_id":1243479135,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1243479135,
+    "wof:lastmodified":1536758562,
+    "wof:name":"Karalli",
+    "wof:parent_id":890461515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87038,
+    40.28469000000001,
+    33.87038,
+    40.28469000000001
+],
+  "geometry": {"coordinates":[33.87038,40.28469000000001],"type":"Point"}
+}

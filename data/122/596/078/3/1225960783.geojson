@@ -1,0 +1,73 @@
+{
+  "id": 1225960783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94116,40.7573,30.94116,40.7573",
+    "geom:latitude":40.7573,
+    "geom:longitude":30.94116,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Caykoy",
+    "gn:country_code":"TR",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749443,
+    "gn:latitude":40.7573,
+    "gn:longitude":30.94116,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7ayk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Efteni\u00e7ayk\u00f6y",
+        "\u00c7ayk\u00f6y\u00fc",
+        "\u00c7ay",
+        "\u00c7ayk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        1108709529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749443
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a6eb1a1c48b14758f2477e12441c3550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709529,
+            "locality_id":1225960783,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1225960783,
+    "wof:lastmodified":1537708030,
+    "wof:name":"Caykoy",
+    "wof:parent_id":1108709529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94116,
+    40.7573,
+    30.94116,
+    40.7573
+],
+  "geometry": {"coordinates":[30.94116,40.7573],"type":"Point"}
+}

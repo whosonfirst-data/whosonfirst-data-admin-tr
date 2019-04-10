@@ -1,0 +1,67 @@
+{
+  "id": 1310044371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11235,41.1449,34.11235,41.1449",
+    "geom:latitude":41.1449,
+    "geom:longitude":34.11235,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Unduk",
+    "gn:country_code":"TR",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738355,
+    "gn:latitude":41.1449,
+    "gn:longitude":34.11235,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Unduk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        1108709931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738355
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a65382b8f0e430dab23a9c247dd84a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709931,
+            "locality_id":1310044371,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1310044371,
+    "wof:lastmodified":1537081447,
+    "wof:name":"Unduk",
+    "wof:parent_id":1108709931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11235,
+    41.1449,
+    34.11235,
+    41.1449
+],
+  "geometry": {"coordinates":[34.11235,41.1449],"type":"Point"}
+}

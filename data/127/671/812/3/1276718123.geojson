@@ -1,0 +1,73 @@
+{
+  "id": 1276718123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.3573,38.14663,40.3573,38.14663",
+    "geom:latitude":38.14663,
+    "geom:longitude":40.3573,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kengerli",
+    "gn:country_code":"TR",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308177,
+    "gn:latitude":38.14663,
+    "gn:longitude":40.3573,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kengerli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kengerli"
+    ],
+    "name:und_x_variant":[
+        "Kengeril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308177
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"27831c82d2fe3804ddb87cee58fa04c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709909,
+            "locality_id":1276718123,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1276718123,
+    "wof:lastmodified":1537706961,
+    "wof:name":"Kengerli",
+    "wof:parent_id":1108709909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.3573,
+    38.14663,
+    40.3573,
+    38.14663
+],
+  "geometry": {"coordinates":[40.3573,38.14663],"type":"Point"}
+}

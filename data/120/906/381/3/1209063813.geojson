@@ -1,0 +1,65 @@
+{
+  "id": 1209063813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.49479,39.82253,40.49479,39.82253",
+    "geom:latitude":39.82253,
+    "geom:longitude":40.49479,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Hacibayram",
+    "gn:country_code":"TR",
+    "gn:dem":1886,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313120,
+    "gn:latitude":39.82253,
+    "gn:longitude":40.49479,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Hac\u0131bayram",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hac\u0131bayram",
+        "Hac\u0131bayramkomu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313120
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"32ef5648b370f97388b6bf9963bae69c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209063813
+        }
+    ],
+    "wof:id":1209063813,
+    "wof:lastmodified":1537707112,
+    "wof:name":"Hacibayram",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.49479,
+    39.82253,
+    40.49479,
+    39.82253
+],
+  "geometry": {"coordinates":[40.49479,39.82253],"type":"Point"}
+}

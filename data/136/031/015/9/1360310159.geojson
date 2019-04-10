@@ -1,0 +1,74 @@
+{
+  "id": 1360310159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94727,38.79841,27.94727,38.79841",
+    "geom:latitude":38.79841,
+    "geom:longitude":27.94727,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Karayagci",
+    "gn:country_code":"TR",
+    "gn:dem":408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301206,
+    "gn:latitude":38.79841,
+    "gn:longitude":27.94727,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karaya\u011fc\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karaya\u011fc\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Semerci",
+        "\u00c7am"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890461947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301206
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"290bee1be6170c083e762f0956c98db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461947,
+            "locality_id":1360310159,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1360310159,
+    "wof:lastmodified":1537706734,
+    "wof:name":"Karayagci",
+    "wof:parent_id":890461947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94727,
+    38.79841,
+    27.94727,
+    38.79841
+],
+  "geometry": {"coordinates":[27.94727,38.79841],"type":"Point"}
+}

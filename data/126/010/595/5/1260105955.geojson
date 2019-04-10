@@ -1,0 +1,67 @@
+{
+  "id": 1260105955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11667,37.55,39.11667,37.55",
+    "geom:latitude":37.55,
+    "geom:longitude":39.11667,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Dirusa",
+    "gn:country_code":"TR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316570,
+    "gn:latitude":37.55,
+    "gn:longitude":39.11667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Diru\u015fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890464281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316570
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6b6447b9c6f1090829a01034223db1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464281,
+            "locality_id":1260105955,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1260105955,
+    "wof:lastmodified":1536955806,
+    "wof:name":"Dirusa",
+    "wof:parent_id":890464281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11667,
+    37.55,
+    39.11667,
+    37.55
+],
+  "geometry": {"coordinates":[39.11667,37.55],"type":"Point"}
+}

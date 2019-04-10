@@ -1,0 +1,67 @@
+{
+  "id": 1326855921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.76667,37.66667,43.76667,37.66667",
+    "geom:latitude":37.66667,
+    "geom:longitude":43.76667,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Zavit",
+    "gn:country_code":"TR",
+    "gn:dem":2380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295977,
+    "gn:latitude":37.66667,
+    "gn:longitude":43.76667,
+    "gn:modification_date":"2009-03-20",
+    "gn:name":"Zavit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890464425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295977
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e496227d12276d037ca29e859e97df8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464425,
+            "locality_id":1326855921,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1326855921,
+    "wof:lastmodified":1537013925,
+    "wof:name":"Zavit",
+    "wof:parent_id":890464425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.76667,
+    37.66667,
+    43.76667,
+    37.66667
+],
+  "geometry": {"coordinates":[43.76667,37.66667],"type":"Point"}
+}

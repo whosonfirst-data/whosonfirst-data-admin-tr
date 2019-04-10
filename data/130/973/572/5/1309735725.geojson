@@ -1,0 +1,70 @@
+{
+  "id": 1309735725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.42968,37.39719,39.42968,37.39719",
+    "geom:latitude":37.39719,
+    "geom:longitude":39.42968,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Alagun",
+    "gn:country_code":"TR",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324262,
+    "gn:latitude":37.39719,
+    "gn:longitude":39.42968,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Alag\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alag\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890460733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324262
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d825f47f98670184d7d00324ce41901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460733,
+            "locality_id":1309735725,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1309735725,
+    "wof:lastmodified":1537707475,
+    "wof:name":"Alagun",
+    "wof:parent_id":890460733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.42968,
+    37.39719,
+    39.42968,
+    37.39719
+],
+  "geometry": {"coordinates":[39.42968,37.39719],"type":"Point"}
+}

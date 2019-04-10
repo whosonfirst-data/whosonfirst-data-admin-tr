@@ -1,0 +1,67 @@
+{
+  "id": 1259405723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14058,39.35353,36.14058,39.35353",
+    "geom:latitude":39.35353,
+    "geom:longitude":36.14058,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Keklicek",
+    "gn:country_code":"TR",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308303,
+    "gn:latitude":39.35353,
+    "gn:longitude":36.14058,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Keklicek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108709511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308303
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"15c8409430cc8f7724492f29d3685a0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709511,
+            "locality_id":1259405723,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1259405723,
+    "wof:lastmodified":1536970181,
+    "wof:name":"Keklicek",
+    "wof:parent_id":1108709511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14058,
+    39.35353,
+    36.14058,
+    39.35353
+],
+  "geometry": {"coordinates":[36.14058,39.35353],"type":"Point"}
+}

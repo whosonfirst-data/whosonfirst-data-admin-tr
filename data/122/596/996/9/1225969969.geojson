@@ -1,0 +1,76 @@
+{
+  "id": 1225969969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.96583,36.74639,38.96583,36.74639",
+    "geom:latitude":36.74639,
+    "geom:longitude":38.96583,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Gulveren",
+    "gn:country_code":"TR",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323349,
+    "gn:latitude":36.74639,
+    "gn:longitude":38.96583,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00fclveren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Ashagy-Kharbetil\u2019salim"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fclveren"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 Harbetil Salim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        1108709267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323349
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7543b6a4395b2b8435f58871f24e86a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709267,
+            "locality_id":1225969969,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1225969969,
+    "wof:lastmodified":1537707444,
+    "wof:name":"Gulveren",
+    "wof:parent_id":1108709267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.96583,
+    36.74639000000001,
+    38.96583,
+    36.74639000000001
+],
+  "geometry": {"coordinates":[38.96583,36.74639000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343586593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16367,40.28817,33.16367,40.28817",
+    "geom:latitude":40.28817,
+    "geom:longitude":33.16367,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dedeler",
+    "gn:country_code":"TR",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748584,
+    "gn:latitude":40.28817,
+    "gn:longitude":33.16367,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Dedeler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748584
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54a4a3673cbaf16d1a8c1162c6fc7d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464379,
+            "locality_id":1343586593,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1343586593,
+    "wof:lastmodified":1537059191,
+    "wof:name":"Dedeler",
+    "wof:parent_id":890464379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16367,
+    40.28817,
+    33.16367,
+    40.28817
+],
+  "geometry": {"coordinates":[33.16367,40.28817],"type":"Point"}
+}

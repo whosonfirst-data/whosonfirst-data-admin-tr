@@ -1,0 +1,73 @@
+{
+  "id": 1259548381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.37843,40.11851,34.37843,40.11851",
+    "geom:latitude":40.11851,
+    "geom:longitude":34.37843,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kucukbolat",
+    "gn:country_code":"TR",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742397,
+    "gn:latitude":40.11851,
+    "gn:longitude":34.37843,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00fc\u00e7\u00fckbolat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bolad\u0131sa\u011fir",
+        "Polad\u0131sa\u011f\u0131r",
+        "Bolatl\u0131k\u00fc\u00e7\u00fck",
+        "K\u00fc\u00e7\u00fckbolat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742397
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54dddeb2db9bbf7fe355a4862745b72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709907,
+            "locality_id":1259548381,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1259548381,
+    "wof:lastmodified":1537707798,
+    "wof:name":"Kucukbolat",
+    "wof:parent_id":1108709907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37843,
+    40.11851,
+    34.37843,
+    40.11851
+],
+  "geometry": {"coordinates":[34.37843,40.11851],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 890463365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35528,39.7275,32.35528,39.7275",
+    "geom:latitude":39.7275,
+    "geom:longitude":32.35528,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Samutlu"
+    ],
+    "qs:name":"Temelli",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ankara",
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299375,
+        "gp:id":2344438,
+        "qs:id":891486
+    },
+    "wof:country":"TR",
+    "wof:created":1469053428,
+    "wof:geomhash":"e18c5832fca3ddf8a7402229d83641b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464449,
+            "locality_id":890463365,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":890463365,
+    "wof:lastmodified":1505343693,
+    "wof:name":"Temelli",
+    "wof:parent_id":890464449,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35528,
+    39.7275,
+    32.35528,
+    39.7275
+],
+  "geometry": {"coordinates":[32.35528,39.7275],"type":"Point"}
+}

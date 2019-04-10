@@ -1,0 +1,74 @@
+{
+  "id": 1243026757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.20902,38.17292,40.20902,38.17292",
+    "geom:latitude":38.17292,
+    "geom:longitude":40.20902,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Balaban",
+    "gn:country_code":"TR",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322237,
+    "gn:latitude":38.17292,
+    "gn:longitude":40.20902,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Balaban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Balaban"
+    ],
+    "name:und_x_variant":[
+        "Potan",
+        "Rutan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322237
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"79835384dc593cd127200a09aa818ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461141,
+            "locality_id":1243026757,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243026757,
+    "wof:lastmodified":1537707406,
+    "wof:name":"Balaban",
+    "wof:parent_id":890461141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.20902,
+    38.17292,
+    40.20902,
+    38.17292
+],
+  "geometry": {"coordinates":[40.20902,38.17292],"type":"Point"}
+}

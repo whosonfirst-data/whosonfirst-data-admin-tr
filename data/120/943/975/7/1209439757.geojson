@@ -1,0 +1,64 @@
+{
+  "id": 1209439757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.17651,41.03819,39.17651,41.03819",
+    "geom:latitude":41.03819,
+    "geom:longitude":39.17651,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Ambarli",
+    "gn:country_code":"TR",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752006,
+    "gn:latitude":41.03819,
+    "gn:longitude":39.17651,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Ambarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ambarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752006
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90cf092b7dd89677ac27d437241cc778",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439757
+        }
+    ],
+    "wof:id":1209439757,
+    "wof:lastmodified":1537708124,
+    "wof:name":"Ambarli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.17651,
+    41.03819,
+    39.17651,
+    41.03819
+],
+  "geometry": {"coordinates":[39.17651,41.03819],"type":"Point"}
+}

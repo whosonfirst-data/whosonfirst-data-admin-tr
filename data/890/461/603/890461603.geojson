@@ -1,0 +1,73 @@
+{
+  "id": 890461603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.36185,41.01192,40.36185,41.01192",
+    "geom:latitude":41.01192,
+    "geom:longitude":40.36185,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":5273,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "F\u0131\u00e7\u0131ta\u015f\u0131"
+    ],
+    "qs:name":"\u0130yidere",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Rize",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":177,
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745030,
+        "gp:id":29390909,
+        "qs:id":129179,
+        "wd:id":"Q2670714",
+        "wk:page":"\u0130yidere"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053357,
+    "wof:geomhash":"fbe1a029ed2081eeee481eeb813d6c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "county_id":890461603
+        }
+    ],
+    "wof:id":890461603,
+    "wof:lastmodified":1527792990,
+    "wof:name":"\u0130yidere",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":5273,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.36185,
+    41.01192,
+    40.36185,
+    41.01192
+],
+  "geometry": {"coordinates":[40.36185,41.01192],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209271429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.49993,39.9226,41.49993,39.9226",
+    "geom:latitude":39.9226,
+    "geom:longitude":41.49993,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Karavelet",
+    "gn:country_code":"TR",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309231,
+    "gn:latitude":39.9226,
+    "gn:longitude":41.49993,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Karavelet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karavelet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309231
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"932a30ed02f9ef0b5bc903aefd34bdb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209271429
+        }
+    ],
+    "wof:id":1209271429,
+    "wof:lastmodified":1537706992,
+    "wof:name":"Karavelet",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.49993,
+    39.9226,
+    41.49993,
+    39.9226
+],
+  "geometry": {"coordinates":[41.49993,39.9226],"type":"Point"}
+}

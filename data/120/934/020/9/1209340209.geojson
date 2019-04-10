@@ -1,0 +1,64 @@
+{
+  "id": 1209340209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65061,40.99457,30.65061,40.99457",
+    "geom:latitude":40.99457,
+    "geom:longitude":30.65061,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Cataluvez",
+    "gn:country_code":"TR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281783,
+    "gn:latitude":40.99457,
+    "gn:longitude":30.65061,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"\u00c7atal\u00fcvez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7atal\u00fcvez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281783
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"522eb4416389cc3a81bb65efbabbdc46",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340209
+        }
+    ],
+    "wof:id":1209340209,
+    "wof:lastmodified":1537708286,
+    "wof:name":"Cataluvez",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65061,
+    40.99457,
+    30.65061,
+    40.99457
+],
+  "geometry": {"coordinates":[30.65061,40.99457],"type":"Point"}
+}

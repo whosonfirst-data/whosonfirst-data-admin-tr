@@ -1,0 +1,75 @@
+{
+  "id": 1243579517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.04056,37.19528,41.04056,37.19528",
+    "geom:latitude":37.19528,
+    "geom:longitude":41.04056,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Dogus",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316407,
+    "gn:latitude":37.19528,
+    "gn:longitude":41.04056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Do\u011fu\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Do\u011fu\u015f"
+    ],
+    "name:und_x_variant":[
+        "Razvaliny Kuzu",
+        "Kuzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890462299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316407
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"581114731ec53ec4c3a78bdeea9372b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462299,
+            "locality_id":1243579517,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1243579517,
+    "wof:lastmodified":1537707217,
+    "wof:name":"Dogus",
+    "wof:parent_id":890462299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.04056,
+    37.19528,
+    41.04056,
+    37.19528
+],
+  "geometry": {"coordinates":[41.04056,37.19528],"type":"Point"}
+}

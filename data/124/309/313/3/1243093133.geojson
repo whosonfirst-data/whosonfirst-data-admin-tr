@@ -1,0 +1,67 @@
+{
+  "id": 1243093133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26667,39.15,39.26667,39.15",
+    "geom:latitude":39.15,
+    "geom:longitude":39.26667,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Mistikan",
+    "gn:country_code":"TR",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304284,
+    "gn:latitude":39.15,
+    "gn:longitude":39.26667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Mistik\u00e2n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304284
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2610e2d8456fdbb400d400047841860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709597,
+            "locality_id":1243093133,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1243093133,
+    "wof:lastmodified":1536817016,
+    "wof:name":"Mistikan",
+    "wof:parent_id":1108709597,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26667,
+    39.15,
+    39.26667,
+    39.15
+],
+  "geometry": {"coordinates":[39.26667,39.15],"type":"Point"}
+}

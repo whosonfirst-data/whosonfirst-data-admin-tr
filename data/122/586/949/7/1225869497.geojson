@@ -1,0 +1,73 @@
+{
+  "id": 1225869497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.87609,39.19756,39.87609,39.19756",
+    "geom:latitude":39.19756,
+    "geom:longitude":39.87609,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Turnayolu",
+    "gn:country_code":"TR",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308021,
+    "gn:latitude":39.19756,
+    "gn:longitude":39.87609,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Turnayolu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ke\u015fk\u00fcvar Mahallesi",
+        "Ke\u015fkivar",
+        "Ke\u015fk\u00fcvar",
+        "Turnayolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308021
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9161e01dcf5c3edd41bf3f1a18ca579a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709763,
+            "locality_id":1225869497,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1225869497,
+    "wof:lastmodified":1537706956,
+    "wof:name":"Turnayolu",
+    "wof:parent_id":1108709763,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.87609000000001,
+    39.19756,
+    39.87609000000001,
+    39.19756
+],
+  "geometry": {"coordinates":[39.87609000000001,39.19756],"type":"Point"}
+}

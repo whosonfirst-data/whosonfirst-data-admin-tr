@@ -1,0 +1,73 @@
+{
+  "id": 1360201283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.98409,38.55714,37.98409,38.55714",
+    "geom:latitude":38.55714,
+    "geom:longitude":37.98409,
+    "gn:admin1_code":"44",
+    "gn:admin2_code":"8631669.0",
+    "gn:asciiname":"Iriagac",
+    "gn:country_code":"TR",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311241,
+    "gn:latitude":38.55714,
+    "gn:longitude":37.98409,
+    "gn:modification_date":"2016-03-31",
+    "gn:name":"\u0130ria\u011fa\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0130ria\u011fa\u00e7 K\u00f6y\u00fc",
+        "\u0130ria\u011fa\u00e7",
+        "Yira\u011fa\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        890463183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311241
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"378c24e7c8034bbbf1c843aa741113f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463183,
+            "locality_id":1360201283,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1360201283,
+    "wof:lastmodified":1537707049,
+    "wof:name":"Iriagac",
+    "wof:parent_id":890463183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.98409,
+    38.55714,
+    37.98409,
+    38.55714
+],
+  "geometry": {"coordinates":[37.98409,38.55714],"type":"Point"}
+}

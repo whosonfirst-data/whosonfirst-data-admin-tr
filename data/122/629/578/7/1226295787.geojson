@@ -1,0 +1,73 @@
+{
+  "id": 1226295787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.86873,38.22319,27.86873,38.22319",
+    "geom:latitude":38.22319,
+    "geom:longitude":27.86873,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Keciler",
+    "gn:country_code":"TR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9888395,
+    "gn:latitude":38.22319,
+    "gn:longitude":27.86873,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Keciler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Keciler"
+    ],
+    "name:tur_x_variant":[
+        "\u015eirink\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9888395
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4c788f8bbbaa5aa0050b0b7d8311de9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461543,
+            "locality_id":1226295787,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1226295787,
+    "wof:lastmodified":1537708312,
+    "wof:name":"Keciler",
+    "wof:parent_id":890461543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.86873,
+    38.22319,
+    27.86873,
+    38.22319
+],
+  "geometry": {"coordinates":[27.86873,38.22319],"type":"Point"}
+}

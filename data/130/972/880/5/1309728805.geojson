@@ -1,0 +1,70 @@
+{
+  "id": 1309728805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58091,39.41056,39.58091,39.41056",
+    "geom:latitude":39.41056,
+    "geom:longitude":39.58091,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Eskigedik",
+    "gn:country_code":"TR",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315263,
+    "gn:latitude":39.41056,
+    "gn:longitude":39.58091,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Eskigedik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eskigedik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315263
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2439de9b18bb06392538fa8f76bf4d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709791,
+            "locality_id":1309728805,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1309728805,
+    "wof:lastmodified":1537707182,
+    "wof:name":"Eskigedik",
+    "wof:parent_id":1108709791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58091,
+    39.41056,
+    39.58091,
+    39.41056
+],
+  "geometry": {"coordinates":[39.58091,39.41056],"type":"Point"}
+}

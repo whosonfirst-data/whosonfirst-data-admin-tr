@@ -1,0 +1,67 @@
+{
+  "id": 1343484317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89636,40.2873,31.89636,40.2873",
+    "geom:latitude":40.2873,
+    "geom:longitude":31.89636,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Karaoren",
+    "gn:country_code":"TR",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8537589,
+    "gn:latitude":40.2873,
+    "gn:longitude":31.89636,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kara\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890461619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8537589
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a6f9bf33fd5cc0be501989f76f17b48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461619,
+            "locality_id":1343484317,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1343484317,
+    "wof:lastmodified":1536712079,
+    "wof:name":"Karaoren",
+    "wof:parent_id":890461619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89636,
+    40.2873,
+    31.89636,
+    40.2873
+],
+  "geometry": {"coordinates":[31.89636,40.2873],"type":"Point"}
+}

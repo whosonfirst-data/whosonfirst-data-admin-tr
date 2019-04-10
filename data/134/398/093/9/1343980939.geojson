@@ -1,0 +1,70 @@
+{
+  "id": 1343980939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.8768,39.11809,42.8768,39.11809",
+    "geom:latitude":39.11809,
+    "geom:longitude":42.8768,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kurekli",
+    "gn:country_code":"TR",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305583,
+    "gn:latitude":39.11809,
+    "gn:longitude":42.8768,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"K\u00fcrekli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fcrekli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305583
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"798fb06356f8b97dde49b58e17b9dc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709805,
+            "locality_id":1343980939,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1343980939,
+    "wof:lastmodified":1537706878,
+    "wof:name":"Kurekli",
+    "wof:parent_id":1108709805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.8768,
+    39.11809,
+    42.8768,
+    39.11809
+],
+  "geometry": {"coordinates":[42.8768,39.11809],"type":"Point"}
+}

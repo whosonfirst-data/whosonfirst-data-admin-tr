@@ -1,0 +1,67 @@
+{
+  "id": 1242702605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.94887,37.70595,43.94887,37.70595",
+    "geom:latitude":37.70595,
+    "geom:longitude":43.94887,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Egricek",
+    "gn:country_code":"TR",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998290,
+    "gn:latitude":37.70595,
+    "gn:longitude":43.94887,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"E\u011fricek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890464425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998290
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"057f0e3d356ddae051a3f7f158dfa07c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464425,
+            "locality_id":1242702605,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1242702605,
+    "wof:lastmodified":1536883124,
+    "wof:name":"Egricek",
+    "wof:parent_id":890464425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.94887,
+    37.70595,
+    43.94887,
+    37.70595
+],
+  "geometry": {"coordinates":[43.94887,37.70595],"type":"Point"}
+}

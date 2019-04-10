@@ -1,0 +1,67 @@
+{
+  "id": 1293293353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44158,39.18002,30.44158,39.18002",
+    "geom:latitude":39.18002,
+    "geom:longitude":30.44158,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alanli Mahallesi",
+    "gn:country_code":"TR",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324193,
+    "gn:latitude":39.18002,
+    "gn:longitude":30.44158,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Alanl\u0131 Mahallesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324193
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ac2e63293ef81745df06b9613bab4073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461667,
+            "locality_id":1293293353,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1293293353,
+    "wof:lastmodified":1537064063,
+    "wof:name":"Alanli Mahallesi",
+    "wof:parent_id":890461667,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44158,
+    39.18002,
+    30.44158,
+    39.18002
+],
+  "geometry": {"coordinates":[30.44158,39.18002],"type":"Point"}
+}

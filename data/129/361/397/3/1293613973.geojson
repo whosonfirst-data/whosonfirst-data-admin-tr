@@ -1,0 +1,70 @@
+{
+  "id": 1293613973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.49332,40.71159,39.49332,40.71159",
+    "geom:latitude":40.71159,
+    "geom:longitude":39.49332,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Basar",
+    "gn:country_code":"TR",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751990,
+    "gn:latitude":40.71159,
+    "gn:longitude":39.49332,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ba\u015far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u015far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890462527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751990
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0445373012e8a29c5612b13916663f2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462527,
+            "locality_id":1293613973,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1293613973,
+    "wof:lastmodified":1537708123,
+    "wof:name":"Basar",
+    "wof:parent_id":890462527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.49332,
+    40.71159,
+    39.49332,
+    40.71159
+],
+  "geometry": {"coordinates":[39.49332,40.71159],"type":"Point"}
+}

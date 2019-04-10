@@ -1,0 +1,70 @@
+{
+  "id": 1310527025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.25434,36.40282,29.25434,36.40282",
+    "geom:latitude":36.40282,
+    "geom:longitude":29.25434,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Tomalar",
+    "gn:country_code":"TR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10248638,
+    "gn:latitude":36.40282,
+    "gn:longitude":29.25434,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Tomalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tomalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10248638
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e49523371e2345136eacb2cb0d73b1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":1310527025,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1310527025,
+    "wof:lastmodified":1537708361,
+    "wof:name":"Tomalar",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.25434000000001,
+    36.40282,
+    29.25434000000001,
+    36.40282
+],
+  "geometry": {"coordinates":[29.25434000000001,36.40282],"type":"Point"}
+}

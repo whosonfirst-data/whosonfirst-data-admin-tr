@@ -1,0 +1,73 @@
+{
+  "id": 890461761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72266,36.9084,30.72266,36.9084",
+    "geom:latitude":36.9084,
+    "geom:longitude":30.72266,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kizilarik",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85679263,
+        85632393,
+        1108709753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8074130,
+        "gp:id":55871274,
+        "qs:id":273704
+    },
+    "wof:country":"TR",
+    "wof:created":1469053363,
+    "wof:geomhash":"04f60bd3f14136482404f13430ab56e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709753,
+            "neighbourhood_id":890461761,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":890461761,
+    "wof:lastmodified":1505343687,
+    "wof:name":"Kizilarik",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72266,
+    36.9084,
+    30.72266,
+    36.9084
+],
+  "geometry": {"coordinates":[30.72266,36.9084],"type":"Point"}
+}

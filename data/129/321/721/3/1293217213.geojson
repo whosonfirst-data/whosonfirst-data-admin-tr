@@ -1,0 +1,67 @@
+{
+  "id": 1293217213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59896,40.67066,33.59896,40.67066",
+    "geom:latitude":40.67066,
+    "geom:longitude":33.59896,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ayan",
+    "gn:country_code":"TR",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751518,
+    "gn:latitude":40.67066,
+    "gn:longitude":33.59896,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ayan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        1108709731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751518
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69d568ddd02ceb66355d21841aa518b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709731,
+            "locality_id":1293217213,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1293217213,
+    "wof:lastmodified":1536679641,
+    "wof:name":"Ayan",
+    "wof:parent_id":1108709731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59896,
+    40.67066,
+    33.59896,
+    40.67066
+],
+  "geometry": {"coordinates":[33.59896,40.67066],"type":"Point"}
+}

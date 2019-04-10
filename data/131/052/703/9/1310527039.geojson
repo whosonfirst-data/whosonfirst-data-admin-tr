@@ -1,0 +1,67 @@
+{
+  "id": 1310527039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.75,39.85,37.75,39.85",
+    "geom:latitude":39.85,
+    "geom:longitude":37.75,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Tekke",
+    "gn:country_code":"TR",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299433,
+    "gn:latitude":39.85,
+    "gn:longitude":37.75,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Tekke",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108710005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299433
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ede6edbf2095cdd8fb6f56efbbc97b39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710005,
+            "locality_id":1310527039,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1310527039,
+    "wof:lastmodified":1536885347,
+    "wof:name":"Tekke",
+    "wof:parent_id":1108710005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.75,
+    39.85,
+    37.75,
+    39.85
+],
+  "geometry": {"coordinates":[37.75,39.85],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242899411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.5025,36.94361,36.5025,36.94361",
+    "geom:latitude":36.94361,
+    "geom:longitude":36.5025,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Tesbi",
+    "gn:country_code":"TR",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":436934,
+    "gn:latitude":36.94361,
+    "gn:longitude":36.5025,
+    "gn:modification_date":"2004-11-15",
+    "gn:name":"Tesbi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":436934
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fbba51f73344bbcab22f259049bcbb0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709219,
+            "locality_id":1242899411,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1242899411,
+    "wof:lastmodified":1537093950,
+    "wof:name":"Tesbi",
+    "wof:parent_id":1108709219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.5025,
+    36.94361,
+    36.5025,
+    36.94361
+],
+  "geometry": {"coordinates":[36.5025,36.94361],"type":"Point"}
+}

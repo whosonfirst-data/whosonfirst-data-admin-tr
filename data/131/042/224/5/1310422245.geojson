@@ -1,0 +1,72 @@
+{
+  "id": 1310422245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40631,40.50655,30.40631,40.50655",
+    "geom:latitude":40.50655,
+    "geom:longitude":30.40631,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Bagcigaz",
+    "gn:country_code":"TR",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751326,
+    "gn:latitude":40.50655,
+    "gn:longitude":30.40631,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ba\u011fc\u0131\u011faz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u011fcaz",
+        "Ba\u011fca\u011f\u0131z",
+        "Ba\u011fc\u0131\u011faz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751326
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2fa9838d57bf1b48a74edd7cb5afbf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460559,
+            "locality_id":1310422245,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1310422245,
+    "wof:lastmodified":1537708100,
+    "wof:name":"Bagcigaz",
+    "wof:parent_id":890460559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40631,
+    40.50655,
+    30.40631,
+    40.50655
+],
+  "geometry": {"coordinates":[30.40631,40.50655],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327046873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.74739,40.97173,32.74739,40.97173",
+    "geom:latitude":40.97173,
+    "geom:longitude":32.74739,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Sobucimen",
+    "gn:country_code":"TR",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739521,
+    "gn:latitude":40.97173,
+    "gn:longitude":32.74739,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00f6b\u00fc\u00e7imen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sopu\u00e7imen",
+        "Soba\u00e7iman",
+        "Sobu\u00e7emen",
+        "S\u00f6b\u00fc\u00e7imen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        890462325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739521
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dcc834e4719a5fe0581795c79b837593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462325,
+            "locality_id":1327046873,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1327046873,
+    "wof:lastmodified":1537707701,
+    "wof:name":"Sobucimen",
+    "wof:parent_id":890462325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.74739,
+    40.97173,
+    32.74739,
+    40.97173
+],
+  "geometry": {"coordinates":[32.74739,40.97173],"type":"Point"}
+}

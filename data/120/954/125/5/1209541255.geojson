@@ -1,0 +1,65 @@
+{
+  "id": 1209541255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.76262,39.40702,39.76262,39.40702",
+    "geom:latitude":39.40702,
+    "geom:longitude":39.76262,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kovuklu",
+    "gn:country_code":"TR",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306197,
+    "gn:latitude":39.40702,
+    "gn:longitude":39.76262,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kovuklu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Harsi",
+        "Kovuklu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306197
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d77da68f9bf60b189e440cb08d6b78bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541255
+        }
+    ],
+    "wof:id":1209541255,
+    "wof:lastmodified":1537706899,
+    "wof:name":"Kovuklu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.76262,
+    39.40702,
+    39.76262,
+    39.40702
+],
+  "geometry": {"coordinates":[39.76262,39.40702],"type":"Point"}
+}

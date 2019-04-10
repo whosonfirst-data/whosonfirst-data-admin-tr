@@ -1,0 +1,70 @@
+{
+  "id": 1243234781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.65484,38.54492,41.65484,38.54492",
+    "geom:latitude":38.54492,
+    "geom:longitude":41.65484,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Guvenli",
+    "gn:country_code":"TR",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986163,
+    "gn:latitude":38.54492,
+    "gn:longitude":41.65484,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"G\u00fcvenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcvenli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986163
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"426eb70933af8e767b0213a6ba15b080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463443,
+            "locality_id":1243234781,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1243234781,
+    "wof:lastmodified":1537708194,
+    "wof:name":"Guvenli",
+    "wof:parent_id":890463443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.65484,
+    38.54492,
+    41.65484,
+    38.54492
+],
+  "geometry": {"coordinates":[41.65484,38.54492],"type":"Point"}
+}

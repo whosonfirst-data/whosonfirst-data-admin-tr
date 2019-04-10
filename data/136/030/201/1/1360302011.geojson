@@ -1,0 +1,74 @@
+{
+  "id": 1360302011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.66169,37.81375,36.66169,37.81375",
+    "geom:latitude":37.81375,
+    "geom:longitude":36.66169,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Caglayan",
+    "gn:country_code":"TR",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320011,
+    "gn:latitude":37.81375,
+    "gn:longitude":36.66169,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00c7a\u011flayan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u0131rn\u0131s",
+        "Ca\u011fan",
+        "\u00c7a\u011flan",
+        "\u00c7a\u011fl\u0131yan",
+        "\u00c7a\u011flayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        1108709737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320011
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5ffe51c989fe4729ef597ac92fdeb279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709737,
+            "locality_id":1360302011,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1360302011,
+    "wof:lastmodified":1537707335,
+    "wof:name":"Caglayan",
+    "wof:parent_id":1108709737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.66169,
+    37.81375,
+    36.66169,
+    37.81375
+],
+  "geometry": {"coordinates":[36.66169,37.81375],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259405833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.05389,41.02417,41.05389,41.02417",
+    "geom:latitude":41.02417,
+    "geom:longitude":41.05389,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Guroluk",
+    "gn:country_code":"TR",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746241,
+    "gn:latitude":41.02417,
+    "gn:longitude":41.05389,
+    "gn:modification_date":"2001-09-04",
+    "gn:name":"G\u00fcroluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        1108710017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746241
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf5196c0d45a8fb1e1820b8a762f3e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710017,
+            "locality_id":1259405833,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1259405833,
+    "wof:lastmodified":1536970033,
+    "wof:name":"Guroluk",
+    "wof:parent_id":1108710017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.05389,
+    41.02417,
+    41.05389,
+    41.02417
+],
+  "geometry": {"coordinates":[41.05389,41.02417],"type":"Point"}
+}

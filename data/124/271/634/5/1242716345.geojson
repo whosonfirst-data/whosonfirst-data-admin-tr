@@ -1,0 +1,67 @@
+{
+  "id": 1242716345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.49598,39.56018,34.49598,39.56018",
+    "geom:latitude":39.56018,
+    "geom:longitude":34.49598,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Sahinoglu",
+    "gn:country_code":"TR",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302185,
+    "gn:latitude":39.56018,
+    "gn:longitude":34.49598,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"\u015eahino\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        1108710071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302185
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4e4fbc80f3679a3db518073111932838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710071,
+            "locality_id":1242716345,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1242716345,
+    "wof:lastmodified":1536862533,
+    "wof:name":"Sahinoglu",
+    "wof:parent_id":1108710071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.49598,
+    39.56018,
+    34.49598,
+    39.56018
+],
+  "geometry": {"coordinates":[34.49598,39.56018],"type":"Point"}
+}

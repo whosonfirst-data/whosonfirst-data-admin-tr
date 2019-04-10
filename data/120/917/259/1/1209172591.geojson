@@ -1,0 +1,67 @@
+{
+  "id": 1209172591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.15567,38.05619,41.15567,38.05619",
+    "geom:latitude":38.05619,
+    "geom:longitude":41.15567,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Atan",
+    "gn:country_code":"TR",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314478,
+    "gn:latitude":38.05619,
+    "gn:longitude":41.15567,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Atan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Girikebato",
+        "Gerikboto",
+        "Atan",
+        "Girenboto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314478
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f189687f2ae1de5604d4f59aea4e2de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209172591
+        }
+    ],
+    "wof:id":1209172591,
+    "wof:lastmodified":1537707157,
+    "wof:name":"Atan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.15567,
+    38.05619,
+    41.15567,
+    38.05619
+],
+  "geometry": {"coordinates":[41.15567,38.05619],"type":"Point"}
+}

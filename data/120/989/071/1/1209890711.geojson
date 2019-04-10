@@ -1,0 +1,67 @@
+{
+  "id": 1209890711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.61053,40.59091,34.61053,40.59091",
+    "geom:latitude":40.59091,
+    "geom:longitude":34.61053,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hacibey",
+    "gn:country_code":"TR",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746133,
+    "gn:latitude":40.59091,
+    "gn:longitude":34.61053,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Hac\u0131bey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890462433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746133
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"65a25cbfd144a597f1e43e2ef561b266",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462433,
+            "locality_id":1209890711,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1209890711,
+    "wof:lastmodified":1536390872,
+    "wof:name":"Hacibey",
+    "wof:parent_id":890462433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.61053,
+    40.59091,
+    34.61053,
+    40.59091
+],
+  "geometry": {"coordinates":[34.61053,40.59091],"type":"Point"}
+}

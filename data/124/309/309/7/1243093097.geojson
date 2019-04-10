@@ -1,0 +1,67 @@
+{
+  "id": 1243093097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.78333,39.81667,43.78333,39.81667",
+    "geom:latitude":39.81667,
+    "geom:longitude":43.78333,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Sicanli",
+    "gn:country_code":"TR",
+    "gn:dem":1887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300879,
+    "gn:latitude":39.81667,
+    "gn:longitude":43.78333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"S\u0131\u00e7anl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        1108709735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300879
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"701be4c97799d9a86491819c9e286bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709735,
+            "locality_id":1243093097,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1243093097,
+    "wof:lastmodified":1536817066,
+    "wof:name":"Sicanli",
+    "wof:parent_id":1108709735,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.78333,
+    39.81667,
+    43.78333,
+    39.81667
+],
+  "geometry": {"coordinates":[43.78333,39.81667],"type":"Point"}
+}

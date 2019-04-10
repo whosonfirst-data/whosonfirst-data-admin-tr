@@ -1,0 +1,70 @@
+{
+  "id": 1243189039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.91298,37.19876,38.91298,37.19876",
+    "geom:latitude":37.19876,
+    "geom:longitude":38.91298,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Derman",
+    "gn:country_code":"TR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539702,
+    "gn:latitude":37.19876,
+    "gn:longitude":38.91298,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Derman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Derman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539702
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aadf5e82ff7f9b3de5029191f2110b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1243189039,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1243189039,
+    "wof:lastmodified":1537708230,
+    "wof:name":"Derman",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.91298,
+    37.19876,
+    38.91298,
+    37.19876
+],
+  "geometry": {"coordinates":[38.91298,37.19876],"type":"Point"}
+}

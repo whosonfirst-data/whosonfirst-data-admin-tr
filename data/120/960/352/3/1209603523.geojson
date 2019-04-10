@@ -1,0 +1,64 @@
+{
+  "id": 1209603523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48002,39.63545,28.48002,39.63545",
+    "geom:latitude":39.63545,
+    "geom:longitude":28.48002,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Veliler",
+    "gn:country_code":"TR",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298065,
+    "gn:latitude":39.63545,
+    "gn:longitude":28.48002,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Veliler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Veliler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298065
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ed82b9338fef3e25b2d7391665ba9116",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209603523
+        }
+    ],
+    "wof:id":1209603523,
+    "wof:lastmodified":1537706629,
+    "wof:name":"Veliler",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48002,
+    39.63545,
+    28.48002,
+    39.63545
+],
+  "geometry": {"coordinates":[28.48002,39.63545],"type":"Point"}
+}

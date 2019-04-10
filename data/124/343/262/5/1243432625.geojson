@@ -1,0 +1,74 @@
+{
+  "id": 1243432625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.6925,40.21417,27.6925,40.21417",
+    "geom:latitude":40.21417,
+    "geom:longitude":27.6925,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bostanli",
+    "gn:country_code":"TR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750487,
+    "gn:latitude":40.21417,
+    "gn:longitude":27.6925,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Bostanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bostanl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Yortan",
+        "Bostanc\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750487
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"74eea4276f37b024aca1d871bd790a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709533,
+            "locality_id":1243432625,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1243432625,
+    "wof:lastmodified":1537708068,
+    "wof:name":"Bostanli",
+    "wof:parent_id":1108709533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.6925,
+    40.21417,
+    27.6925,
+    40.21417
+],
+  "geometry": {"coordinates":[27.6925,40.21417],"type":"Point"}
+}

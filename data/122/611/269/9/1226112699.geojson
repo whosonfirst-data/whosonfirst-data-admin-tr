@@ -1,0 +1,67 @@
+{
+  "id": 1226112699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01869,40.69781,32.01869,40.69781",
+    "geom:latitude":40.69781,
+    "geom:longitude":32.01869,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Cemaller",
+    "gn:country_code":"TR",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749339,
+    "gn:latitude":40.69781,
+    "gn:longitude":32.01869,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Cemaller",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890461653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749339
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e398d3343f4320f705dea908ae4a8f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461653,
+            "locality_id":1226112699,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1226112699,
+    "wof:lastmodified":1536626765,
+    "wof:name":"Cemaller",
+    "wof:parent_id":890461653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01869,
+    40.69781,
+    32.01869,
+    40.69781
+],
+  "geometry": {"coordinates":[32.01869,40.69781],"type":"Point"}
+}

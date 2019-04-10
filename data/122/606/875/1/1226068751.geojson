@@ -1,0 +1,73 @@
+{
+  "id": 1226068751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1831,40.60494,29.1831,40.60494",
+    "geom:latitude":40.60494,
+    "geom:longitude":29.1831,
+    "gn:admin1_code":"92.0",
+    "gn:asciiname":"Uvezli",
+    "gn:country_code":"TR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738310,
+    "gn:latitude":40.60494,
+    "gn:longitude":29.1831,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"\u00dcvezli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00dcvezp\u0131nar"
+    ],
+    "name:und_x_variant":[
+        "\u00dcvezli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679529,
+        890464163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738310
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5b6b46a7e2872cae057d674b7797f55f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464163,
+            "locality_id":1226068751,
+            "region_id":85679529
+        }
+    ],
+    "wof:id":1226068751,
+    "wof:lastmodified":1537707660,
+    "wof:name":"Uvezli",
+    "wof:parent_id":890464163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1831,
+    40.60494,
+    29.1831,
+    40.60494
+],
+  "geometry": {"coordinates":[29.1831,40.60494],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193212457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.55384,38.30201,26.55384,38.30201",
+    "geom:latitude":38.30201,
+    "geom:longitude":26.55384,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Birgi",
+    "gn:country_code":"TR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321058,
+    "gn:latitude":38.30201,
+    "gn:longitude":26.55384,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Birgi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Birgi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321058
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d7ce10382dd7ff6f9aa65ec1f8aa2c3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461745,
+            "locality_id":1193212457,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1193212457,
+    "wof:lastmodified":1537707368,
+    "wof:name":"Birgi",
+    "wof:parent_id":890461745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.55384,
+    38.30201,
+    26.55384,
+    38.30201
+],
+  "geometry": {"coordinates":[26.55384,38.30201],"type":"Point"}
+}

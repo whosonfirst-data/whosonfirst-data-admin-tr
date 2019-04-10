@@ -1,0 +1,70 @@
+{
+  "id": 1226110117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.57726,39.67794,38.57726,39.67794",
+    "geom:latitude":39.67794,
+    "geom:longitude":38.57726,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Dikmen",
+    "gn:country_code":"TR",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316694,
+    "gn:latitude":39.67794,
+    "gn:longitude":38.57726,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dikmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dikmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        1108709205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316694
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6af5d6047e39f04641d35a4a3b0ebf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709205,
+            "locality_id":1226110117,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1226110117,
+    "wof:lastmodified":1537707228,
+    "wof:name":"Dikmen",
+    "wof:parent_id":1108709205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.57726,
+    39.67794,
+    38.57726,
+    39.67794
+],
+  "geometry": {"coordinates":[38.57726,39.67794],"type":"Point"}
+}

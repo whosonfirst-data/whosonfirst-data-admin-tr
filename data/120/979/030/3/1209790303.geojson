@@ -1,0 +1,74 @@
+{
+  "id": 1209790303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36667,40.8,34.36667,40.8",
+    "geom:latitude":40.8,
+    "geom:longitude":34.36667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sehircay",
+    "gn:country_code":"TR",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739898,
+    "gn:latitude":40.8,
+    "gn:longitude":34.36667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u015eeh\u0131r\u00e7ay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eeh\u0131r\u00e7ay"
+    ],
+    "name:und_x_variant":[
+        "\u015eeh\u0131r\u00e7ay\u0131",
+        "\u015eehir\u00e7ay\u0131 K\u00f6y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739898
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"13e92f8ebcc48780c0e2b1aefb3d46d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709215,
+            "locality_id":1209790303,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1209790303,
+    "wof:lastmodified":1537707715,
+    "wof:name":"Sehircay",
+    "wof:parent_id":1108709215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36667,
+    40.8,
+    34.36667,
+    40.8
+],
+  "geometry": {"coordinates":[34.36667,40.8],"type":"Point"}
+}

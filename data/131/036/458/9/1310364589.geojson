@@ -1,0 +1,74 @@
+{
+  "id": 1310364589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88145,36.1959,32.88145,36.1959",
+    "geom:latitude":36.1959,
+    "geom:longitude":32.88145,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Ormancik",
+    "gn:country_code":"TR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323267,
+    "gn:latitude":36.1959,
+    "gn:longitude":32.88145,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ormanc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ormanc\u0131k"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 Kuren",
+        "A\u015fa\u011f\u0131kurin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890462615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323267
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1f4ae826d2ad45521fd4cce9a7c18955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462615,
+            "locality_id":1310364589,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1310364589,
+    "wof:lastmodified":1537707440,
+    "wof:name":"Ormancik",
+    "wof:parent_id":890462615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88145,
+    36.1959,
+    32.88145,
+    36.1959
+],
+  "geometry": {"coordinates":[32.88145,36.1959],"type":"Point"}
+}

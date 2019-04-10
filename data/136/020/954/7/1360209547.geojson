@@ -1,0 +1,70 @@
+{
+  "id": 1360209547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.22031,39.21788,29.22031,39.21788",
+    "geom:latitude":39.21788,
+    "geom:longitude":29.22031,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kutluhallar",
+    "gn:country_code":"TR",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305250,
+    "gn:latitude":39.21788,
+    "gn:longitude":29.22031,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kutluhallar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kutluhallar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305250
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a04699c34b44d0a7e0ecfa46a3c6723b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709589,
+            "locality_id":1360209547,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1360209547,
+    "wof:lastmodified":1537706868,
+    "wof:name":"Kutluhallar",
+    "wof:parent_id":1108709589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.22031,
+    39.21788,
+    29.22031,
+    39.21788
+],
+  "geometry": {"coordinates":[29.22031,39.21788],"type":"Point"}
+}

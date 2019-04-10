@@ -1,0 +1,64 @@
+{
+  "id": 1209473479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.23526,38.05358,39.23526,38.05358",
+    "geom:latitude":38.05358,
+    "geom:longitude":39.23526,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Ceylan",
+    "gn:country_code":"TR",
+    "gn:dem":860,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325371,
+    "gn:latitude":38.05358,
+    "gn:longitude":39.23526,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ceylan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325371
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"98ee1599af13b0570847a5991c6b4403",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209473479
+        }
+    ],
+    "wof:id":1209473479,
+    "wof:lastmodified":1537707509,
+    "wof:name":"Ceylan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.23526,
+    38.05358,
+    39.23526,
+    38.05358
+],
+  "geometry": {"coordinates":[39.23526,38.05358],"type":"Point"}
+}

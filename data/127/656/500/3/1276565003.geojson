@@ -1,0 +1,71 @@
+{
+  "id": 1276565003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.22365,40.81422,37.22365,40.81422",
+    "geom:latitude":40.81422,
+    "geom:longitude":37.22365,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Konakli",
+    "gn:country_code":"TR",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742718,
+    "gn:latitude":40.81422,
+    "gn:longitude":37.22365,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Konakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kona\u015f",
+        "Konakl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        890462041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742718
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2db8c7f8ebf44b101a222bc0809aa11c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462041,
+            "locality_id":1276565003,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1276565003,
+    "wof:lastmodified":1537707808,
+    "wof:name":"Konakli",
+    "wof:parent_id":890462041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.22365,
+    40.81422,
+    37.22365,
+    40.81422
+],
+  "geometry": {"coordinates":[37.22365,40.81422],"type":"Point"}
+}

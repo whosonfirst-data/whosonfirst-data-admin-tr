@@ -1,0 +1,71 @@
+{
+  "id": 1209816173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43192,38.81373,30.43192,38.81373",
+    "geom:latitude":38.81373,
+    "geom:longitude":30.43192,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Demircevre",
+    "gn:country_code":"TR",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311417,
+    "gn:latitude":38.81373,
+    "gn:longitude":30.43192,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Demir\u00e7evre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Demir\u00e7evre",
+        "\u0130naz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311417
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2d4d20086bf7802dcf8fbe8e1a504e3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461281,
+            "locality_id":1209816173,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1209816173,
+    "wof:lastmodified":1537707054,
+    "wof:name":"Demircevre",
+    "wof:parent_id":890461281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43192,
+    38.81373,
+    30.43192,
+    38.81373
+],
+  "geometry": {"coordinates":[30.43192,38.81373],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293822037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.32611,40.46583,43.32611,40.46583",
+    "geom:latitude":40.46583,
+    "geom:longitude":43.32611,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Pazarcik",
+    "gn:country_code":"TR",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740671,
+    "gn:latitude":40.46583,
+    "gn:longitude":43.32611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pazarc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pazarc\u0131k"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0430\u0437\u0430\u0440\u0434\u0436\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Pazarc\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890460721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740671
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"295d02c7e6391e7a8a8d14f7377be09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460721,
+            "locality_id":1293822037,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1293822037,
+    "wof:lastmodified":1537707739,
+    "wof:name":"Pazarcik",
+    "wof:parent_id":890460721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.32611,
+    40.46583,
+    43.32611,
+    40.46583
+],
+  "geometry": {"coordinates":[43.32611,40.46583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344015609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.39559,39.7342,39.39559,39.7342",
+    "geom:latitude":39.7342,
+    "geom:longitude":39.39559,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Oglaktepe",
+    "gn:country_code":"TR",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304281,
+    "gn:latitude":39.7342,
+    "gn:longitude":39.39559,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"O\u011flaktepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u011flaktepe",
+        "Mitini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890461769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304281
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2279a8fe01a544acc40992236ffb98a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461769,
+            "locality_id":1344015609,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1344015609,
+    "wof:lastmodified":1537706835,
+    "wof:name":"Oglaktepe",
+    "wof:parent_id":890461769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.39559000000001,
+    39.7342,
+    39.39559000000001,
+    39.7342
+],
+  "geometry": {"coordinates":[39.39559000000001,39.7342],"type":"Point"}
+}

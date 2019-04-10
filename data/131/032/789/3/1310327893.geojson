@@ -1,0 +1,77 @@
+{
+  "id": 1310327893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.6758,40.939,39.6758,40.939",
+    "geom:latitude":40.939,
+    "geom:longitude":39.6758,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Toskoey",
+    "gn:country_code":"TR",
+    "gn:dem":618,
+    "gn:elevation":"800.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7548911,
+    "gn:latitude":40.939,
+    "gn:longitude":39.6758,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Tosk\u00f6y",
+    "gn:population":506,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tosk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "To\u015fk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890462779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7548911
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"00ed3672207eb0d6e96907ce698eca96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462779,
+            "locality_id":1310327893,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1310327893,
+    "wof:lastmodified":1537708236,
+    "wof:name":"Toskoey",
+    "wof:parent_id":890462779,
+    "wof:placetype":"locality",
+    "wof:population":506,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.6758,
+    40.939,
+    39.6758,
+    40.939
+],
+  "geometry": {"coordinates":[39.6758,40.939],"type":"Point"}
+}

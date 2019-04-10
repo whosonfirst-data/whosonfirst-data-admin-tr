@@ -1,0 +1,71 @@
+{
+  "id": 1242594361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35534,40.3295,33.35534,40.3295",
+    "geom:latitude":40.3295,
+    "geom:longitude":33.35534,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Beykavagi",
+    "gn:country_code":"TR",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750678,
+    "gn:latitude":40.3295,
+    "gn:longitude":33.35534,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beykava\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halfet",
+        "Beykava\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750678
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e7bc77f4a4a5d1f9127c5ba603603b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709611,
+            "locality_id":1242594361,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1242594361,
+    "wof:lastmodified":1537708076,
+    "wof:name":"Beykavagi",
+    "wof:parent_id":1108709611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35534000000001,
+    40.3295,
+    33.35534000000001,
+    40.3295
+],
+  "geometry": {"coordinates":[33.35534000000001,40.3295],"type":"Point"}
+}

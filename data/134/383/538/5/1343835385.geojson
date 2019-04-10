@@ -1,0 +1,71 @@
+{
+  "id": 1343835385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00459,40.11614,30.00459,40.11614",
+    "geom:latitude":40.11614,
+    "geom:longitude":30.00459,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Asagikoy",
+    "gn:country_code":"TR",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273486,
+    "gn:latitude":40.11614,
+    "gn:longitude":30.00459,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"A\u015fa\u011f\u0131k\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131k\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        1108709729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273486,
+        "wk:page":"A%C5%9Fa%C4%9F%C4%B1k%C3%B6y%2C_Bilecik"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9664ca37d68eecdddb5f4a95532e432a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709729,
+            "locality_id":1343835385,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1343835385,
+    "wof:lastmodified":1537708281,
+    "wof:name":"Asagikoy",
+    "wof:parent_id":1108709729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00459,
+    40.11614,
+    30.00459,
+    40.11614
+],
+  "geometry": {"coordinates":[30.00459,40.11614],"type":"Point"}
+}

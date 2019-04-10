@@ -1,0 +1,74 @@
+{
+  "id": 1309931503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.08583,36.78944,37.08583,36.78944",
+    "geom:latitude":36.78944,
+    "geom:longitude":37.08583,
+    "gn:admin1_code":"90",
+    "gn:asciiname":"Cakallipinar",
+    "gn:country_code":"TR",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319963,
+    "gn:latitude":36.78944,
+    "gn:longitude":37.08583,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"\u00c7akall\u0131p\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7akall\u0131p\u0131nar"
+    ],
+    "name:und_x_variant":[
+        "\u00c7akalp\u0131nar",
+        "\u00c7akal\u0131p\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679519,
+        1108709741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319963
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ac4dfec803dc4cb490a6f5f5f436e6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709741,
+            "locality_id":1309931503,
+            "region_id":85679519
+        }
+    ],
+    "wof:id":1309931503,
+    "wof:lastmodified":1537707333,
+    "wof:name":"Cakallipinar",
+    "wof:parent_id":1108709741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.08583,
+    36.78944,
+    37.08583,
+    36.78944
+],
+  "geometry": {"coordinates":[37.08583,36.78944],"type":"Point"}
+}

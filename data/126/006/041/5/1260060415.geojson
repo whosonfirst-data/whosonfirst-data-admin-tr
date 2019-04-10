@@ -1,0 +1,70 @@
+{
+  "id": 1260060415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00849,40.00272,30.00849,40.00272",
+    "geom:latitude":40.00272,
+    "geom:longitude":30.00849,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Demirkoy",
+    "gn:country_code":"TR",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317175,
+    "gn:latitude":40.00272,
+    "gn:longitude":30.00849,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Demirk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Demirk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        890462021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317175
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4729d9ac36c3ef1860ca226c7b3b0554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462021,
+            "locality_id":1260060415,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1260060415,
+    "wof:lastmodified":1537707243,
+    "wof:name":"Demirkoy",
+    "wof:parent_id":890462021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00849,
+    40.00272,
+    30.00849,
+    40.00272
+],
+  "geometry": {"coordinates":[30.00849,40.00272],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242996227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.71209,39.61256,37.71209,39.61256",
+    "geom:latitude":39.61256,
+    "geom:longitude":37.71209,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Topraktas",
+    "gn:country_code":"TR",
+    "gn:dem":1666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7583726,
+    "gn:latitude":39.61256,
+    "gn:longitude":37.71209,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Toprakta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108710005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7583726
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"67e9795dd4379847f07884e78e3e871a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710005,
+            "locality_id":1242996227,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1242996227,
+    "wof:lastmodified":1536957698,
+    "wof:name":"Topraktas",
+    "wof:parent_id":1108710005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.71209,
+    39.61256,
+    37.71209,
+    39.61256
+],
+  "geometry": {"coordinates":[37.71209,39.61256],"type":"Point"}
+}

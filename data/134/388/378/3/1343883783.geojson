@@ -1,0 +1,70 @@
+{
+  "id": 1343883783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.93214,38.70966,28.93214,38.70966",
+    "geom:latitude":38.70966,
+    "geom:longitude":28.93214,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Karabeyler",
+    "gn:country_code":"TR",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310250,
+    "gn:latitude":38.70966,
+    "gn:longitude":28.93214,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karabeyler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karabeyler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310250
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"655376573cbba640c155cdbfda4a61fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709871,
+            "locality_id":1343883783,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1343883783,
+    "wof:lastmodified":1537707019,
+    "wof:name":"Karabeyler",
+    "wof:parent_id":1108709871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.93214,
+    38.70966,
+    28.93214,
+    38.70966
+],
+  "geometry": {"coordinates":[28.93214,38.70966],"type":"Point"}
+}

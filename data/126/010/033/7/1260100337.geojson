@@ -1,0 +1,67 @@
+{
+  "id": 1260100337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8096,37.076,30.8096,37.076",
+    "geom:latitude":37.076,
+    "geom:longitude":30.8096,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kursunlu",
+    "gn:country_code":"TR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305545,
+    "gn:latitude":37.076,
+    "gn:longitude":30.8096,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Kur\u015funlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305545
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2503fee490fc3afbdd9645b4b70da3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709263,
+            "locality_id":1260100337,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1260100337,
+    "wof:lastmodified":1536963700,
+    "wof:name":"Kursunlu",
+    "wof:parent_id":1108709263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8096,
+    37.076,
+    30.8096,
+    37.076
+],
+  "geometry": {"coordinates":[30.8096,37.076],"type":"Point"}
+}

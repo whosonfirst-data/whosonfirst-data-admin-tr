@@ -1,0 +1,67 @@
+{
+  "id": 1327448207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31684,41.58586,32.31684,41.58586",
+    "geom:latitude":41.58586,
+    "geom:longitude":32.31684,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Gecen",
+    "gn:country_code":"TR",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747012,
+    "gn:latitude":41.58586,
+    "gn:longitude":32.31684,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Gecen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679543,
+        1108709723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747012
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7dffddfdb59e8bf5e4a769826deaf7f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709723,
+            "locality_id":1327448207,
+            "region_id":85679543
+        }
+    ],
+    "wof:id":1327448207,
+    "wof:lastmodified":1536658051,
+    "wof:name":"Gecen",
+    "wof:parent_id":1108709723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31684,
+    41.58586,
+    32.31684,
+    41.58586
+],
+  "geometry": {"coordinates":[32.31684,41.58586],"type":"Point"}
+}

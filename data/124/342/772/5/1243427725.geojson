@@ -1,0 +1,67 @@
+{
+  "id": 1243427725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.352,40.57012,31.352,40.57012",
+    "geom:latitude":40.57012,
+    "geom:longitude":31.352,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Delice",
+    "gn:country_code":"TR",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744997,
+    "gn:latitude":40.57012,
+    "gn:longitude":31.352,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Delice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890463475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744997
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e291bb027efbb06b0196f24c6359c3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463475,
+            "locality_id":1243427725,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1243427725,
+    "wof:lastmodified":1536831534,
+    "wof:name":"Delice",
+    "wof:parent_id":890463475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.352,
+    40.57012,
+    31.352,
+    40.57012
+],
+  "geometry": {"coordinates":[31.352,40.57012],"type":"Point"}
+}

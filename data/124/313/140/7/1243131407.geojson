@@ -1,0 +1,71 @@
+{
+  "id": 1243131407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81,37.20016,34.81,37.20016",
+    "geom:latitude":37.20016,
+    "geom:longitude":34.81,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gulek",
+    "gn:country_code":"TR",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319717,
+    "gn:latitude":37.20016,
+    "gn:longitude":34.81,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"G\u00fclek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fclek",
+        "\u00c7amalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890463423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319717
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5818e831f3e3832d44d207067dc54c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463423,
+            "locality_id":1243131407,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1243131407,
+    "wof:lastmodified":1537707326,
+    "wof:name":"Gulek",
+    "wof:parent_id":890463423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81,
+    37.20016,
+    34.81,
+    37.20016
+],
+  "geometry": {"coordinates":[34.81,37.20016],"type":"Point"}
+}

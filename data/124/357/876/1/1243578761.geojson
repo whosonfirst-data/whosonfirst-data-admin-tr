@@ -1,0 +1,75 @@
+{
+  "id": 1243578761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12305,40.05645,39.12305,40.05645",
+    "geom:latitude":40.05645,
+    "geom:longitude":39.12305,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Cavlan",
+    "gn:country_code":"TR",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749798,
+    "gn:latitude":40.05645,
+    "gn:longitude":39.12305,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c7avlan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7avlan"
+    ],
+    "name:und_x_variant":[
+        "\u00c7amyurdu Mezraas\u0131",
+        "\u00c7amyurdu",
+        "\u00c7alvan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890461585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749798
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"069ebc4e2324a4aeca1b3231a0e2984c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461585,
+            "locality_id":1243578761,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1243578761,
+    "wof:lastmodified":1537708044,
+    "wof:name":"Cavlan",
+    "wof:parent_id":890461585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12305,
+    40.05645,
+    39.12305,
+    40.05645
+],
+  "geometry": {"coordinates":[39.12305,40.05645],"type":"Point"}
+}

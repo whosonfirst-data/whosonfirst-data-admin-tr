@@ -1,0 +1,75 @@
+{
+  "id": 1292929509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4874,41.89951,34.4874,41.89951",
+    "geom:latitude":41.89951,
+    "geom:longitude":34.4874,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Doganli",
+    "gn:country_code":"TR",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747995,
+    "gn:latitude":41.89951,
+    "gn:longitude":34.4874,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Do\u011fanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00fcmeri",
+        "Darnay",
+        "H\u00fcmer",
+        "Dernay",
+        "H\u00f6mer",
+        "Do\u011fanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747995
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"556a459dc5b1ef643af1b79de1d5a6ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709311,
+            "locality_id":1292929509,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1292929509,
+    "wof:lastmodified":1537707980,
+    "wof:name":"Doganli",
+    "wof:parent_id":1108709311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4874,
+    41.89951,
+    34.4874,
+    41.89951
+],
+  "geometry": {"coordinates":[34.4874,41.89951],"type":"Point"}
+}

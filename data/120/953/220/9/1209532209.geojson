@@ -1,0 +1,64 @@
+{
+  "id": 1209532209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.97416,38.99823,37.97416,38.99823",
+    "geom:latitude":38.99823,
+    "geom:longitude":37.97416,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Cimenlik",
+    "gn:country_code":"TR",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318417,
+    "gn:latitude":38.99823,
+    "gn:longitude":37.97416,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u00c7imenlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7imenlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318417
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff9a89dadbef3328fd5401d9323532a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532209
+        }
+    ],
+    "wof:id":1209532209,
+    "wof:lastmodified":1537707282,
+    "wof:name":"Cimenlik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.97416,
+    38.99823,
+    37.97416,
+    38.99823
+],
+  "geometry": {"coordinates":[37.97416,38.99823],"type":"Point"}
+}

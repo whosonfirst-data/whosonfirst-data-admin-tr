@@ -1,0 +1,77 @@
+{
+  "id": 1293025685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05389,36.96694,39.05389,36.96694",
+    "geom:latitude":36.96694,
+    "geom:longitude":39.05389,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Ulukoy",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":439019,
+    "gn:latitude":36.96694,
+    "gn:longitude":39.05389,
+    "gn:modification_date":"2016-12-10",
+    "gn:name":"Uluk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_historical":[
+        "Yunuskeberli"
+    ],
+    "name:tur_x_preferred":[
+        "Uluk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Yunuskeberli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439019
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aec076e838c8130da06e414e82228f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1293025685,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1293025685,
+    "wof:lastmodified":1537707572,
+    "wof:name":"Ulukoy",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05389,
+    36.96694,
+    39.05389,
+    36.96694
+],
+  "geometry": {"coordinates":[39.05389,36.96694],"type":"Point"}
+}

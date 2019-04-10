@@ -1,0 +1,67 @@
+{
+  "id": 1259608865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01246,40.76609,31.01246,40.76609",
+    "geom:latitude":40.76609,
+    "geom:longitude":31.01246,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Davul",
+    "gn:country_code":"TR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140689,
+    "gn:latitude":40.76609,
+    "gn:longitude":31.01246,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Davul",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        1108709529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140689
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85e1fd7ec5ef9d2f61fca0cb8cfee16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709529,
+            "locality_id":1259608865,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1259608865,
+    "wof:lastmodified":1536678273,
+    "wof:name":"Davul",
+    "wof:parent_id":1108709529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01246,
+    40.76609000000001,
+    31.01246,
+    40.76609000000001
+],
+  "geometry": {"coordinates":[31.01246,40.76609000000001],"type":"Point"}
+}

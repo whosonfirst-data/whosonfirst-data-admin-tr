@@ -1,0 +1,76 @@
+{
+  "id": 1226098627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.09673,38.34118,41.09673,38.34118",
+    "geom:latitude":38.34118,
+    "geom:longitude":41.09673,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Yakitkoy",
+    "gn:country_code":"TR",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299522,
+    "gn:latitude":38.34118,
+    "gn:longitude":41.09673,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yak\u0131tk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Taysever"
+    ],
+    "name:tur_x_variant":[
+        "Yak\u0131tk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Yak\u0131t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299522
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0d5e44b0039190c6ab35e5ced1cf03e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463481,
+            "locality_id":1226098627,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1226098627,
+    "wof:lastmodified":1537706677,
+    "wof:name":"Yakitkoy",
+    "wof:parent_id":890463481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.09673,
+    38.34118,
+    41.09673,
+    38.34118
+],
+  "geometry": {"coordinates":[41.09673,38.34118],"type":"Point"}
+}

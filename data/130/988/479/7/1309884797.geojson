@@ -1,0 +1,73 @@
+{
+  "id": 1309884797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.37505,38.18798,42.37505,38.18798",
+    "geom:latitude":38.18798,
+    "geom:longitude":42.37505,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Koclu",
+    "gn:country_code":"TR",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302935,
+    "gn:latitude":38.18798,
+    "gn:longitude":42.37505,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ko\u00e7lu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ko\u00e7lu"
+    ],
+    "name:und_x_variant":[
+        "Pak\u00fcsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302935
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"112bdb4105ef4bf255c880a48512f108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463855,
+            "locality_id":1309884797,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1309884797,
+    "wof:lastmodified":1537706790,
+    "wof:name":"Koclu",
+    "wof:parent_id":890463855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.37505,
+    38.18798,
+    42.37505,
+    38.18798
+],
+  "geometry": {"coordinates":[42.37505,38.18798],"type":"Point"}
+}

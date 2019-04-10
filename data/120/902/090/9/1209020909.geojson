@@ -1,0 +1,64 @@
+{
+  "id": 1209020909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86982,41.62401,35.86982,41.62401",
+    "geom:latitude":41.62401,
+    "geom:longitude":35.86982,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kaygisiz",
+    "gn:country_code":"TR",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743676,
+    "gn:latitude":41.62401,
+    "gn:longitude":35.86982,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kayg\u0131s\u0131z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kayg\u0131s\u0131z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743676
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"79da748a64c6fda8e89f0e8817874611",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209020909
+        }
+    ],
+    "wof:id":1209020909,
+    "wof:lastmodified":1537707837,
+    "wof:name":"Kaygisiz",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86982000000001,
+    41.62401,
+    35.86982000000001,
+    41.62401
+],
+  "geometry": {"coordinates":[35.86982000000001,41.62401],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343982769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.55167,37.64417,41.55167,37.64417",
+    "geom:latitude":37.64417,
+    "geom:longitude":41.55167,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Birik",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321052,
+    "gn:latitude":37.64417,
+    "gn:longitude":41.55167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Birik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Birik"
+    ],
+    "name:und_x_variant":[
+        "Birile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321052
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"07824bfa3b2c0922b6feffebb5a9ff32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709515,
+            "locality_id":1343982769,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1343982769,
+    "wof:lastmodified":1537707367,
+    "wof:name":"Birik",
+    "wof:parent_id":1108709515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.55167,
+    37.64417,
+    41.55167,
+    37.64417
+],
+  "geometry": {"coordinates":[41.55167,37.64417],"type":"Point"}
+}

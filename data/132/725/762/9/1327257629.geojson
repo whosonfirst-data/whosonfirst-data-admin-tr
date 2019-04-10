@@ -1,0 +1,74 @@
+{
+  "id": 1327257629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85143,39.49281,36.85143,39.49281",
+    "geom:latitude":39.49281,
+    "geom:longitude":36.85143,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Sorkuncuk",
+    "gn:country_code":"TR",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300349,
+    "gn:latitude":39.49281,
+    "gn:longitude":36.85143,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sorkuncuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sorkuncuk"
+    ],
+    "name:und_x_variant":[
+        "Sorhuncuk",
+        "Sorguncuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300349
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50cd01ac3c2b9747b2264b33b94600f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1327257629,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1327257629,
+    "wof:lastmodified":1537706703,
+    "wof:name":"Sorkuncuk",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85143,
+    39.49281,
+    36.85143,
+    39.49281
+],
+  "geometry": {"coordinates":[36.85143,39.49281],"type":"Point"}
+}

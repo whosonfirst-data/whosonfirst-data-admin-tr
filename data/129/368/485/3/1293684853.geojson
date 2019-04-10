@@ -1,0 +1,71 @@
+{
+  "id": 1293684853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37901,40.36353,35.37901,40.36353",
+    "geom:latitude":40.36353,
+    "geom:longitude":35.37901,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pembeli",
+    "gn:country_code":"TR",
+    "gn:dem":813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740618,
+    "gn:latitude":40.36353,
+    "gn:longitude":35.37901,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pembeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamuklu",
+        "Pembeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890462747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740618
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"660d9fbc7144b21e9485d3097dd71962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462747,
+            "locality_id":1293684853,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1293684853,
+    "wof:lastmodified":1537707738,
+    "wof:name":"Pembeli",
+    "wof:parent_id":890462747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37901,
+    40.36353,
+    35.37901,
+    40.36353
+],
+  "geometry": {"coordinates":[35.37901,40.36353],"type":"Point"}
+}

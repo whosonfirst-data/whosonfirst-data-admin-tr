@@ -1,0 +1,66 @@
+{
+  "id": 890465539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.88786,36.85402,36.88786,36.85402",
+    "geom:latitude":36.85402,
+    "geom:longitude":36.88786,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":274,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Dorucak",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679519,
+        1108709755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":437235,
+        "gp:id":2332949,
+        "qs:id":548148
+    },
+    "wof:country":"TR",
+    "wof:created":1469053524,
+    "wof:geomhash":"4bddfe64912359c4f5fa71e50af34a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709755,
+            "locality_id":890465539,
+            "region_id":85679519
+        }
+    ],
+    "wof:id":890465539,
+    "wof:lastmodified":1505343704,
+    "wof:name":"Dorucak",
+    "wof:parent_id":1108709755,
+    "wof:placetype":"locality",
+    "wof:population":274,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.88786,
+    36.85402,
+    36.88786,
+    36.85402
+],
+  "geometry": {"coordinates":[36.88786,36.85402],"type":"Point"}
+}

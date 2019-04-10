@@ -1,0 +1,72 @@
+{
+  "id": 1309930789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.26379,38.18946,44.26379,38.18946",
+    "geom:latitude":38.18946,
+    "geom:longitude":44.26379,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Kocakoy",
+    "gn:country_code":"TR",
+    "gn:dem":2111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306936,
+    "gn:latitude":38.18946,
+    "gn:longitude":44.26379,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Kocak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaciyan",
+        "Kocabey",
+        "Kocak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890460983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306936
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ca4a6bf8d79b2180f17b232013e825f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460983,
+            "locality_id":1309930789,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1309930789,
+    "wof:lastmodified":1537706923,
+    "wof:name":"Kocakoy",
+    "wof:parent_id":890460983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.26379,
+    38.18946,
+    44.26379,
+    38.18946
+],
+  "geometry": {"coordinates":[44.26379,38.18946],"type":"Point"}
+}

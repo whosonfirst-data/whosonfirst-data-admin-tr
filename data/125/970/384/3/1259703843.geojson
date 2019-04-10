@@ -1,0 +1,67 @@
+{
+  "id": 1259703843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.66667,37.0,30.66667,37.0",
+    "geom:latitude":37.0,
+    "geom:longitude":30.66667,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Karaibrahim",
+    "gn:country_code":"TR",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309764,
+    "gn:latitude":37.0,
+    "gn:longitude":30.66667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karaibrahim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b9bbbd454979cd876e00d0bb2ffef00f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709655,
+            "locality_id":1259703843,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1259703843,
+    "wof:lastmodified":1537036212,
+    "wof:name":"Karaibrahim",
+    "wof:parent_id":1108709655,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.66667,
+    37.0,
+    30.66667,
+    37.0
+],
+  "geometry": {"coordinates":[30.66667,37.0],"type":"Point"}
+}

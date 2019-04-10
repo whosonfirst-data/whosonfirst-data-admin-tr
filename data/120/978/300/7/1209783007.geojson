@@ -1,0 +1,73 @@
+{
+  "id": 1209783007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.89623,40.27997,41.89623,40.27997",
+    "geom:latitude":40.27997,
+    "geom:longitude":41.89623,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Alacayar",
+    "gn:country_code":"TR",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752246,
+    "gn:latitude":40.27997,
+    "gn:longitude":41.89623,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Alacayar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alacayar"
+    ],
+    "name:und_x_variant":[
+        "Ala\u00e7ay\u0131r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752246
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d1e25e9ca547a49b8117a9edce2af5fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709761,
+            "locality_id":1209783007,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1209783007,
+    "wof:lastmodified":1537708133,
+    "wof:name":"Alacayar",
+    "wof:parent_id":1108709761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.89623,
+    40.27997,
+    41.89623,
+    40.27997
+],
+  "geometry": {"coordinates":[41.89623,40.27997],"type":"Point"}
+}

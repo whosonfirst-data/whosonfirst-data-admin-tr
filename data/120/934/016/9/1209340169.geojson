@@ -1,0 +1,64 @@
+{
+  "id": 1209340169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.17507,38.62877,28.17507,38.62877",
+    "geom:latitude":38.62877,
+    "geom:longitude":28.17507,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Yagbasan",
+    "gn:country_code":"TR",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298017,
+    "gn:latitude":38.62877,
+    "gn:longitude":28.17507,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ya\u011fbasan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ya\u011fbasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298017
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0c73db644b9ffa0f65e0d55a5edbaf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340169
+        }
+    ],
+    "wof:id":1209340169,
+    "wof:lastmodified":1537706627,
+    "wof:name":"Yagbasan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.17507,
+    38.62877,
+    28.17507,
+    38.62877
+],
+  "geometry": {"coordinates":[28.17507,38.62877],"type":"Point"}
+}

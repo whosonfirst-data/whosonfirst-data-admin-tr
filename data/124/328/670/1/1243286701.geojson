@@ -1,0 +1,73 @@
+{
+  "id": 1243286701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9927,38.82056,41.9927,38.82056",
+    "geom:latitude":38.82056,
+    "geom:longitude":41.9927,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kiryaka",
+    "gn:country_code":"TR",
+    "gn:dem":1669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302440,
+    "gn:latitude":38.82056,
+    "gn:longitude":41.9927,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"K\u0131ryaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131ryaka"
+    ],
+    "name:und_x_variant":[
+        "Puzyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890461633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302440
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"880f0573084662564ceda16016a37369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461633,
+            "locality_id":1243286701,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1243286701,
+    "wof:lastmodified":1537706775,
+    "wof:name":"Kiryaka",
+    "wof:parent_id":890461633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9927,
+    38.82056,
+    41.9927,
+    38.82056
+],
+  "geometry": {"coordinates":[41.9927,38.82056],"type":"Point"}
+}

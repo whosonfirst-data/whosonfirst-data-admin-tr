@@ -1,0 +1,73 @@
+{
+  "id": 1309862707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.43627,40.0,41.43627,40.0",
+    "geom:latitude":40.0,
+    "geom:longitude":41.43627,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kucuktuy",
+    "gn:country_code":"TR",
+    "gn:dem":1852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305846,
+    "gn:latitude":40.0,
+    "gn:longitude":41.43627,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"K\u00fc\u00e7\u00fcktuy",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fcktuy"
+    ],
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fckt\u00fcy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305846
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"db5175f1cece328930fc8352c27e35f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709803,
+            "locality_id":1309862707,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1309862707,
+    "wof:lastmodified":1537706886,
+    "wof:name":"Kucuktuy",
+    "wof:parent_id":1108709803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.43627,
+    40.0,
+    41.43627,
+    40.0
+],
+  "geometry": {"coordinates":[41.43627,40.0],"type":"Point"}
+}

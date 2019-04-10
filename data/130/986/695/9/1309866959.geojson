@@ -1,0 +1,74 @@
+{
+  "id": 1309866959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.53872,40.13466,38.53872,40.13466",
+    "geom:latitude":40.13466,
+    "geom:longitude":38.53872,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Sarpkaya",
+    "gn:country_code":"TR",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739974,
+    "gn:latitude":40.13466,
+    "gn:longitude":38.53872,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sarpkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131zapa",
+        "Zapaizir",
+        "A\u015fa\u011f\u0131 Za\u011fpa",
+        "A\u015fa\u011f\u0131 La\u011fpa",
+        "Sarpkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890460521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739974
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c7c18a79718cafdb9ca06e9c9cf4062",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460521,
+            "locality_id":1309866959,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1309866959,
+    "wof:lastmodified":1537707718,
+    "wof:name":"Sarpkaya",
+    "wof:parent_id":890460521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.53872,
+    40.13466,
+    38.53872,
+    40.13466
+],
+  "geometry": {"coordinates":[38.53872,40.13466],"type":"Point"}
+}

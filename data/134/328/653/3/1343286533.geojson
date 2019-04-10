@@ -1,0 +1,74 @@
+{
+  "id": 1343286533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18068,36.37327,36.18068,36.37327",
+    "geom:latitude":36.37327,
+    "geom:longitude":36.18068,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Tahtakopru",
+    "gn:country_code":"TR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299914,
+    "gn:latitude":36.37327,
+    "gn:longitude":36.18068,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tahtak\u00f6pr\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tahtak\u00f6pr\u00fc"
+    ],
+    "name:tur_x_variant":[
+        "Tahtal\u0131k\u00f6pr\u00fc",
+        "Tagtak\u00f6pr\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299914
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"15e2252b8277a8db88ce13a50a5cdbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461775,
+            "locality_id":1343286533,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1343286533,
+    "wof:lastmodified":1537706690,
+    "wof:name":"Tahtakopru",
+    "wof:parent_id":890461775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18068,
+    36.37327,
+    36.18068,
+    36.37327
+],
+  "geometry": {"coordinates":[36.18068,36.37327],"type":"Point"}
+}

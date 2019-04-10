@@ -1,0 +1,70 @@
+{
+  "id": 1193094057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.90832,39.66427,41.90832,39.66427",
+    "geom:latitude":39.66427,
+    "geom:longitude":41.90832,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Karakale",
+    "gn:country_code":"TR",
+    "gn:dem":2082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309752,
+    "gn:latitude":39.66427,
+    "gn:longitude":41.90832,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Karakale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karakale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309752
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fbc85ceb89f35c0a787e86ad13c15752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709629,
+            "locality_id":1193094057,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1193094057,
+    "wof:lastmodified":1537707005,
+    "wof:name":"Karakale",
+    "wof:parent_id":1108709629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.90832,
+    39.66427,
+    41.90832,
+    39.66427
+],
+  "geometry": {"coordinates":[41.90832,39.66427],"type":"Point"}
+}

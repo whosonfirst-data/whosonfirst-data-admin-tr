@@ -1,0 +1,67 @@
+{
+  "id": 1327151033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83333,41.35,35.83333,41.35",
+    "geom:latitude":41.35,
+    "geom:longitude":35.83333,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Turkmenli",
+    "gn:country_code":"TR",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738595,
+    "gn:latitude":41.35,
+    "gn:longitude":35.83333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"T\u00fcrkmenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738595
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5fe5441b2e8300f2a1846ab2b9479078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709339,
+            "locality_id":1327151033,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1327151033,
+    "wof:lastmodified":1537083913,
+    "wof:name":"Turkmenli",
+    "wof:parent_id":1108709339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83333,
+    41.35,
+    35.83333,
+    41.35
+],
+  "geometry": {"coordinates":[35.83333,41.35],"type":"Point"}
+}

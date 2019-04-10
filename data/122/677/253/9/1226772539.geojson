@@ -1,0 +1,67 @@
+{
+  "id": 1226772539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.28333,41.88333,34.28333,41.88333",
+    "geom:latitude":41.88333,
+    "geom:longitude":34.28333,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Bayramoglu",
+    "gn:country_code":"TR",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750875,
+    "gn:latitude":41.88333,
+    "gn:longitude":34.28333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bayramo\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750875
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8aa0580a2207d1fe1199e3ecad0c645f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709945,
+            "locality_id":1226772539,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1226772539,
+    "wof:lastmodified":1536677010,
+    "wof:name":"Bayramoglu",
+    "wof:parent_id":1108709945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28333,
+    41.88333,
+    34.28333,
+    41.88333
+],
+  "geometry": {"coordinates":[34.28333,41.88333],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360201223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.35784,39.02587,28.35784,39.02587",
+    "geom:latitude":39.02587,
+    "geom:longitude":28.35784,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Seyhyayla",
+    "gn:country_code":"TR",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311127,
+    "gn:latitude":39.02587,
+    "gn:longitude":28.35784,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u015eeyhyayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eeyhyayla"
+    ],
+    "name:und_x_variant":[
+        "I\u015f\u0131k",
+        "I\u015f\u0131kyaylas\u0131 Koyu",
+        "I\u015f\u0131kyaylas\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311127
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f36e9e0d13c736f6665022c8b8a64c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709543,
+            "locality_id":1360201223,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1360201223,
+    "wof:lastmodified":1537707045,
+    "wof:name":"Seyhyayla",
+    "wof:parent_id":1108709543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.35784,
+    39.02587,
+    28.35784,
+    39.02587
+],
+  "geometry": {"coordinates":[28.35784,39.02587],"type":"Point"}
+}

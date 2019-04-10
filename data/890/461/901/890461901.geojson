@@ -1,0 +1,65 @@
+{
+  "id": 890461901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.69004,41.224,34.69004,41.224",
+    "geom:latitude":41.224,
+    "geom:longitude":34.69004,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":350,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Yemi\u015fli Mahallesi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890463351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6941024,
+        "qs:id":653102
+    },
+    "wof:country":"TR",
+    "wof:created":1469053371,
+    "wof:geomhash":"23dd986e5b9b1c1b91df98ce04549d02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463351,
+            "locality_id":890461901,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":890461901,
+    "wof:lastmodified":1505343688,
+    "wof:name":"Yemi\u015fli Mahallesi",
+    "wof:parent_id":890463351,
+    "wof:placetype":"locality",
+    "wof:population":350,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.69004,
+    41.224,
+    34.69004,
+    41.224
+],
+  "geometry": {"coordinates":[34.69004,41.224],"type":"Point"}
+}

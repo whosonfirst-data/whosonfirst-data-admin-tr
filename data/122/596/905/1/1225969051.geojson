@@ -1,0 +1,67 @@
+{
+  "id": 1225969051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.15701,39.64417,33.15701,39.64417",
+    "geom:latitude":39.64417,
+    "geom:longitude":33.15701,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Ergin",
+    "gn:country_code":"TR",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315456,
+    "gn:latitude":39.64417,
+    "gn:longitude":33.15701,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ergin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315456
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fbf693201e1b1ace2ec274a3aa2d6c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709353,
+            "locality_id":1225969051,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1225969051,
+    "wof:lastmodified":1536834686,
+    "wof:name":"Ergin",
+    "wof:parent_id":1108709353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15701,
+    39.64417,
+    33.15701,
+    39.64417
+],
+  "geometry": {"coordinates":[33.15701,39.64417],"type":"Point"}
+}

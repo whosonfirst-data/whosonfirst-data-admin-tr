@@ -1,0 +1,64 @@
+{
+  "id": 1209431633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95305,41.10695,35.95305,41.10695",
+    "geom:latitude":41.10695,
+    "geom:longitude":35.95305,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kethuda",
+    "gn:country_code":"TR",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7699566,
+    "gn:latitude":41.10695,
+    "gn:longitude":35.95305,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Keth\u00fcda",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Keth\u00fcda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7699566
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4b0946d9f618fa5da04e1bf71dc5cab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209431633
+        }
+    ],
+    "wof:id":1209431633,
+    "wof:lastmodified":1537708268,
+    "wof:name":"Kethuda",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95305,
+    41.10695,
+    35.95305,
+    41.10695
+],
+  "geometry": {"coordinates":[35.95305,41.10695],"type":"Point"}
+}

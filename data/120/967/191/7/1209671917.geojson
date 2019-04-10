@@ -1,0 +1,67 @@
+{
+  "id": 1209671917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.26508,37.60641,40.26508,37.60641",
+    "geom:latitude":37.60641,
+    "geom:longitude":40.26508,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Karabudak",
+    "gn:country_code":"TR",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310224,
+    "gn:latitude":37.60641,
+    "gn:longitude":40.26508,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karabudak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karabudak"
+    ],
+    "name:und_x_variant":[
+        "Sipyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310224
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"488d4fb22d73513f76ec2f48cea0c847",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209671917
+        }
+    ],
+    "wof:id":1209671917,
+    "wof:lastmodified":1537707018,
+    "wof:name":"Karabudak",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.26508,
+    37.60641,
+    40.26508,
+    37.60641
+],
+  "geometry": {"coordinates":[40.26508,37.60641],"type":"Point"}
+}

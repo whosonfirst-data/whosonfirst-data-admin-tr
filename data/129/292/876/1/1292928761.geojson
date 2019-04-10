@@ -1,0 +1,67 @@
+{
+  "id": 1292928761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.12651,37.94863,42.12651,37.94863",
+    "geom:latitude":37.94863,
+    "geom:longitude":42.12651,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Karacik",
+    "gn:country_code":"TR",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007762,
+    "gn:latitude":37.94863,
+    "gn:longitude":42.12651,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Karac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007762
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4738b0301dc14f510596e12ce3e5f6ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709315,
+            "locality_id":1292928761,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1292928761,
+    "wof:lastmodified":1537092428,
+    "wof:name":"Karacik",
+    "wof:parent_id":1108709315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.12651,
+    37.94863,
+    42.12651,
+    37.94863
+],
+  "geometry": {"coordinates":[42.12651,37.94863],"type":"Point"}
+}

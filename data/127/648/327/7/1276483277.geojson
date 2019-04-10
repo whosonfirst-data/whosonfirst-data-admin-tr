@@ -1,0 +1,67 @@
+{
+  "id": 1276483277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.01765,39.47003,34.01765,39.47003",
+    "geom:latitude":39.47003,
+    "geom:longitude":34.01765,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Deveci",
+    "gn:country_code":"TR",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316826,
+    "gn:latitude":39.47003,
+    "gn:longitude":34.01765,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Deveci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        890460539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316826
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e944ba1c7af6a8696371ba4a034d7285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460539,
+            "locality_id":1276483277,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1276483277,
+    "wof:lastmodified":1537071917,
+    "wof:name":"Deveci",
+    "wof:parent_id":890460539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.01765,
+    39.47003,
+    34.01765,
+    39.47003
+],
+  "geometry": {"coordinates":[34.01765,39.47003],"type":"Point"}
+}

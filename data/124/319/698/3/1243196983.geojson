@@ -1,0 +1,70 @@
+{
+  "id": 1243196983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.39069,37.32069,40.39069,37.32069",
+    "geom:latitude":37.32069,
+    "geom:longitude":40.39069,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Konur",
+    "gn:country_code":"TR",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010390,
+    "gn:latitude":37.32069,
+    "gn:longitude":40.39069,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Konur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Konur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010390
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7a334bd844cd428d956f0871caeae7a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709713,
+            "locality_id":1243196983,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1243196983,
+    "wof:lastmodified":1537708203,
+    "wof:name":"Konur",
+    "wof:parent_id":1108709713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.39069,
+    37.32069,
+    40.39069,
+    37.32069
+],
+  "geometry": {"coordinates":[40.39069,37.32069],"type":"Point"}
+}

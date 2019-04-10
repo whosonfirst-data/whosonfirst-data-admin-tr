@@ -1,0 +1,80 @@
+{
+  "id": 890464539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98333,41.03333,28.98333,41.03333",
+    "geom:latitude":41.03333,
+    "geom:longitude":28.98333,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tur_x_preferred":[
+        "Taksim"
+    ],
+    "qs:name":"Taksim",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos":654,
+    "qs:photos_1k":133,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":654,
+    "qs:photos_sr":8,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":104,
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101913185,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739133,
+        "gp:id":2343647,
+        "qs:id":240027,
+        "wk:page":"Taksim"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053476,
+    "wof:geomhash":"5859b881ce0831cb10086a25b8f1413a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "locality_id":101913185,
+            "neighbourhood_id":890464539,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890464539,
+    "wof:lastmodified":1527734166,
+    "wof:name":"Taksim",
+    "wof:parent_id":101913185,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98333,
+    41.03333,
+    28.98333,
+    41.03333
+],
+  "geometry": {"coordinates":[28.98333,41.03333],"type":"Point"}
+}

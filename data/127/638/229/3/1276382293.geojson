@@ -1,0 +1,73 @@
+{
+  "id": 1276382293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.045,38.21694,27.045,38.21694",
+    "geom:latitude":38.21694,
+    "geom:longitude":27.045,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Yeni",
+    "gn:country_code":"TR",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297017,
+    "gn:latitude":38.21694,
+    "gn:longitude":27.045,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yeni",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yeni"
+    ],
+    "name:und_x_variant":[
+        "Y\u00f6nik\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890463865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297017
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cace9a34fee2b7f96e562c179d9c6af9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463865,
+            "locality_id":1276382293,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1276382293,
+    "wof:lastmodified":1537706590,
+    "wof:name":"Yeni",
+    "wof:parent_id":890463865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.045,
+    38.21694,
+    27.045,
+    38.21694
+],
+  "geometry": {"coordinates":[27.045,38.21694],"type":"Point"}
+}

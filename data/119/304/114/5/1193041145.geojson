@@ -1,0 +1,71 @@
+{
+  "id": 1193041145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06772,40.92987,31.06772,40.92987",
+    "geom:latitude":40.92987,
+    "geom:longitude":31.06772,
+    "gn:admin1_code":"93.0",
+    "gn:asciiname":"Bickibasi",
+    "gn:country_code":"TR",
+    "gn:dem":425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750608,
+    "gn:latitude":40.92987,
+    "gn:longitude":31.06772,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u0131\u00e7k\u0131ba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0131\u00e7k\u0131ba\u015f\u0131",
+        "B\u0131\u00e7k\u0131yan\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        1108710065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750608
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6c9f70aac5f18e8a2129afca9e0bc9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710065,
+            "locality_id":1193041145,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1193041145,
+    "wof:lastmodified":1537708073,
+    "wof:name":"Bickibasi",
+    "wof:parent_id":1108710065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06772,
+    40.92987,
+    31.06772,
+    40.92987
+],
+  "geometry": {"coordinates":[31.06772,40.92987],"type":"Point"}
+}

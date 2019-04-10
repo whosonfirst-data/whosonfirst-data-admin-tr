@@ -1,0 +1,76 @@
+{
+  "id": 890464225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12583,38.995,29.12583,38.995",
+    "geom:latitude":38.995,
+    "geom:longitude":29.12583,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":6387,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pazar\u00e7okyaka"
+    ],
+    "qs:name":"Pazarlar",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"K\u00fctahya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":58,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302787,
+        "gp:id":2334668,
+        "qs:id":1310441,
+        "wd:id":"Q2671066",
+        "wk:page":"Pazarlar"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053465,
+    "wof:geomhash":"0032d113da66facaed2b4adc675acf30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709809,
+            "locality_id":890464225,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":890464225,
+    "wof:lastmodified":1527734172,
+    "wof:name":"Pazarlar",
+    "wof:parent_id":1108709809,
+    "wof:placetype":"locality",
+    "wof:population":6387,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12583,
+    38.995,
+    29.12583,
+    38.995
+],
+  "geometry": {"coordinates":[29.12583,38.995],"type":"Point"}
+}

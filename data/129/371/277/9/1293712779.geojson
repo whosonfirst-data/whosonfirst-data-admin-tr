@@ -1,0 +1,71 @@
+{
+  "id": 1293712779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.56479,41.36382,27.56479,41.36382",
+    "geom:latitude":41.36382,
+    "geom:longitude":27.56479,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Akca",
+    "gn:country_code":"TR",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752580,
+    "gn:latitude":41.36382,
+    "gn:longitude":27.56479,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ak\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ak\u00e7a",
+        "Ak\u00e7ak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679219,
+        890463081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752580
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dabc92cc8971bb235d6e029722043411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463081,
+            "locality_id":1293712779,
+            "region_id":85679219
+        }
+    ],
+    "wof:id":1293712779,
+    "wof:lastmodified":1537708145,
+    "wof:name":"Akca",
+    "wof:parent_id":890463081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.56479,
+    41.36382,
+    27.56479,
+    41.36382
+],
+  "geometry": {"coordinates":[27.56479,41.36382],"type":"Point"}
+}

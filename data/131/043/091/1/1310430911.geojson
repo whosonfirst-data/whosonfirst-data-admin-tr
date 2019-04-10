@@ -1,0 +1,71 @@
+{
+  "id": 1310430911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.15081,38.09189,42.15081,38.09189",
+    "geom:latitude":38.09189,
+    "geom:longitude":42.15081,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Madenkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305042,
+    "gn:latitude":38.09189,
+    "gn:longitude":42.15081,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Madenk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maden",
+        "Madenk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        890463401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305042
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cbdb20660c7263dda9f362b090a72198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463401,
+            "locality_id":1310430911,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1310430911,
+    "wof:lastmodified":1537706861,
+    "wof:name":"Madenkoy",
+    "wof:parent_id":890463401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.15081,
+    38.09189,
+    42.15081,
+    38.09189
+],
+  "geometry": {"coordinates":[42.15081,38.09189],"type":"Point"}
+}

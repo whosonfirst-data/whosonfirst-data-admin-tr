@@ -1,0 +1,71 @@
+{
+  "id": 1209931039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.49726,40.07905,38.49726,40.07905",
+    "geom:latitude":40.07905,
+    "geom:longitude":38.49726,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Abana",
+    "gn:country_code":"TR",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746613,
+    "gn:latitude":40.07905,
+    "gn:longitude":38.49726,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Abana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6ll\u00fcce",
+        "G\u00fcll\u00fcce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108709251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746613
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da2a205e2c8a9c153183e6faf26faf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709251,
+            "locality_id":1209931039,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1209931039,
+    "wof:lastmodified":1537707932,
+    "wof:name":"Abana",
+    "wof:parent_id":1108709251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.49726,
+    40.07905,
+    38.49726,
+    40.07905
+],
+  "geometry": {"coordinates":[38.49726,40.07905],"type":"Point"}
+}

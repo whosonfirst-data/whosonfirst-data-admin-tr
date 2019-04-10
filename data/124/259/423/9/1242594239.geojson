@@ -1,0 +1,77 @@
+{
+  "id": 1242594239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.03604,37.42388,41.03604,37.42388",
+    "geom:latitude":37.42388,
+    "geom:longitude":41.03604,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Mutluca",
+    "gn:country_code":"TR",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":441457,
+    "gn:latitude":37.42388,
+    "gn:longitude":41.03604,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mutluca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "G\u00ebrik"
+    ],
+    "name:tur_x_preferred":[
+        "Mutluca"
+    ],
+    "name:und_x_variant":[
+        "Hirbes\u0131k\u0131t",
+        "G\u00f6rik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108710073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":441457
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f34717022acfaa9988b8c7ffdddbafdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710073,
+            "locality_id":1242594239,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1242594239,
+    "wof:lastmodified":1537707592,
+    "wof:name":"Mutluca",
+    "wof:parent_id":1108710073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.03604,
+    37.42388,
+    41.03604,
+    37.42388
+],
+  "geometry": {"coordinates":[41.03604,37.42388],"type":"Point"}
+}

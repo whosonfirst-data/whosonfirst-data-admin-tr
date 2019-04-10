@@ -1,0 +1,67 @@
+{
+  "id": 1343475413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93278,40.40111,32.93278,40.40111",
+    "geom:latitude":40.40111,
+    "geom:longitude":32.93278,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Kislacik",
+    "gn:country_code":"TR",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743114,
+    "gn:latitude":40.40111,
+    "gn:longitude":32.93278,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"K\u0131\u015flac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743114
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"65a0e3112a6910bec8c096e7e82fbc27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464379,
+            "locality_id":1343475413,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1343475413,
+    "wof:lastmodified":1536724907,
+    "wof:name":"Kislacik",
+    "wof:parent_id":890464379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93278,
+    40.40111,
+    32.93278,
+    40.40111
+],
+  "geometry": {"coordinates":[32.93278,40.40111],"type":"Point"}
+}

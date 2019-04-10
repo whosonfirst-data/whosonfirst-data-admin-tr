@@ -1,0 +1,71 @@
+{
+  "id": 1242703285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28078,41.26617,36.28078,41.26617",
+    "geom:latitude":41.26617,
+    "geom:longitude":36.28078,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kavacik",
+    "gn:country_code":"TR",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743287,
+    "gn:latitude":41.26617,
+    "gn:longitude":36.28078,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kavac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kavac\u0131k",
+        "K\u0131ran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743287
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c9cdf6d57e729c820edcc50e8194c59f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709207,
+            "locality_id":1242703285,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1242703285,
+    "wof:lastmodified":1537707826,
+    "wof:name":"Kavacik",
+    "wof:parent_id":1108709207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28078,
+    41.26617,
+    36.28078,
+    41.26617
+],
+  "geometry": {"coordinates":[36.28078,41.26617],"type":"Point"}
+}

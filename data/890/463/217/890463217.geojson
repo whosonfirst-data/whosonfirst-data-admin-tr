@@ -1,0 +1,71 @@
+{
+  "id": 890463217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.04755,41.120521,29.04755,41.120521",
+    "geom:latitude":41.120521,
+    "geom:longitude":29.04755,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Poligon",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos":116,
+    "qs:photos_1k":24,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":116,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912653,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55870762,
+        "qs:id":473477
+    },
+    "wof:country":"TR",
+    "wof:created":1469053421,
+    "wof:geomhash":"94b32f97357a5ffc286e8896690b2bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "locality_id":101912653,
+            "neighbourhood_id":890463217,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890463217,
+    "wof:lastmodified":1534379466,
+    "wof:name":"Poligon",
+    "wof:parent_id":101912653,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108950211
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.04755,
+    41.120521,
+    29.04755,
+    41.120521
+],
+  "geometry": {"coordinates":[29.04755,41.120521],"type":"Point"}
+}

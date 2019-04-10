@@ -1,0 +1,70 @@
+{
+  "id": 1226565155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.50923,40.83672,30.50923,40.83672",
+    "geom:latitude":40.83672,
+    "geom:longitude":30.50923,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Turnadere",
+    "gn:country_code":"TR",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281612,
+    "gn:latitude":40.83672,
+    "gn:longitude":30.50923,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Turnadere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Turnadere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281612
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5df9886a8359b7e834d459411128fdb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709241,
+            "locality_id":1226565155,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1226565155,
+    "wof:lastmodified":1537708285,
+    "wof:name":"Turnadere",
+    "wof:parent_id":1108709241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.50923,
+    40.83672,
+    30.50923,
+    40.83672
+],
+  "geometry": {"coordinates":[30.50923,40.83672],"type":"Point"}
+}

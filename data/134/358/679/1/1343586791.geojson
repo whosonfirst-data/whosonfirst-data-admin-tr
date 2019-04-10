@@ -1,0 +1,73 @@
+{
+  "id": 1343586791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69404,40.66932,29.69404,40.66932",
+    "geom:latitude":40.66932,
+    "geom:longitude":29.69404,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Osmaniye",
+    "gn:country_code":"TR",
+    "gn:dem":612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738274,
+    "gn:latitude":40.66932,
+    "gn:longitude":29.69404,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Osmaniye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Osmaniye"
+    ],
+    "name:und_x_variant":[
+        "Uzundere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890461601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738274
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cfd0376d6e9f4ea39a9c5e880ad76c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461601,
+            "locality_id":1343586791,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1343586791,
+    "wof:lastmodified":1537707659,
+    "wof:name":"Osmaniye",
+    "wof:parent_id":890461601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69404,
+    40.66932,
+    29.69404,
+    40.66932
+],
+  "geometry": {"coordinates":[29.69404,40.66932],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209904489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.79491,39.55717,27.79491,39.55717",
+    "geom:latitude":39.55717,
+    "geom:longitude":27.79491,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Karamanlar",
+    "gn:country_code":"TR",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309515,
+    "gn:latitude":39.55717,
+    "gn:longitude":27.79491,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Karamanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karamanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309515
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e911dcd15514b93b084fc5b0f1705259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462339,
+            "locality_id":1209904489,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1209904489,
+    "wof:lastmodified":1537706999,
+    "wof:name":"Karamanlar",
+    "wof:parent_id":890462339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.79491,
+    39.55717,
+    27.79491,
+    39.55717
+],
+  "geometry": {"coordinates":[27.79491,39.55717],"type":"Point"}
+}

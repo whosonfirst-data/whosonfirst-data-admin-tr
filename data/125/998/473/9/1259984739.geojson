@@ -1,0 +1,67 @@
+{
+  "id": 1259984739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.0,39.25,43.0,39.25",
+    "geom:latitude":39.25,
+    "geom:longitude":43.0,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kancikli",
+    "gn:country_code":"TR",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310579,
+    "gn:latitude":39.25,
+    "gn:longitude":43.0,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kanc\u0131kl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310579
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"05495c300b329c0f59bb83e620469edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709805,
+            "locality_id":1259984739,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1259984739,
+    "wof:lastmodified":1536631783,
+    "wof:name":"Kancikli",
+    "wof:parent_id":1108709805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.0,
+    39.25,
+    43.0,
+    39.25
+],
+  "geometry": {"coordinates":[43.0,39.25],"type":"Point"}
+}

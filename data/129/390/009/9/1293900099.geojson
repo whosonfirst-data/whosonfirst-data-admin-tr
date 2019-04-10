@@ -1,0 +1,73 @@
+{
+  "id": 1293900099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.77789,40.98274,30.77789,40.98274",
+    "geom:latitude":40.98274,
+    "geom:longitude":30.77789,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Serbetpinar",
+    "gn:country_code":"TR",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8322543,
+    "gn:latitude":40.98274,
+    "gn:longitude":30.77789,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"\u015eerbetp\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eerbetp\u0131nar\u0131"
+    ],
+    "name:tur_x_variant":[
+        "\u015eerbetp\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8322543
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"79d1a928252cb524e74210bf42047ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460547,
+            "locality_id":1293900099,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1293900099,
+    "wof:lastmodified":1537708288,
+    "wof:name":"Serbetpinar",
+    "wof:parent_id":890460547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.77789000000001,
+    40.98274,
+    30.77789000000001,
+    40.98274
+],
+  "geometry": {"coordinates":[30.77789000000001,40.98274],"type":"Point"}
+}

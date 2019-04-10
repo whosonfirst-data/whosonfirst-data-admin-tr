@@ -1,0 +1,72 @@
+{
+  "id": 1360101567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.68667,37.39445,41.68667,37.39445",
+    "geom:latitude":37.39445,
+    "geom:longitude":41.68667,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Haltan",
+    "gn:country_code":"TR",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311176,
+    "gn:latitude":37.39445,
+    "gn:longitude":41.68667,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Haltan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaltan",
+        "Haltan",
+        "I\u015f\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        1108709195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311176
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d0dc228dd31a38ff6223f9402a611a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709195,
+            "locality_id":1360101567,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1360101567,
+    "wof:lastmodified":1537707047,
+    "wof:name":"Haltan",
+    "wof:parent_id":1108709195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.68667,
+    37.39445,
+    41.68667,
+    37.39445
+],
+  "geometry": {"coordinates":[41.68667,37.39445],"type":"Point"}
+}

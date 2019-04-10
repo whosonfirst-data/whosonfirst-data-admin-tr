@@ -1,0 +1,71 @@
+{
+  "id": 1242899303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.00886,39.35615,38.00886,39.35615",
+    "geom:latitude":39.35615,
+    "geom:longitude":38.00886,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Dumluca",
+    "gn:country_code":"TR",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316170,
+    "gn:latitude":39.35615,
+    "gn:longitude":38.00886,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dumluca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dumbuca",
+        "Dumluca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316170
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"966664dd89ebe738089e268195cc0af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462009,
+            "locality_id":1242899303,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1242899303,
+    "wof:lastmodified":1537707209,
+    "wof:name":"Dumluca",
+    "wof:parent_id":890462009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.00886,
+    39.35615,
+    38.00886,
+    39.35615
+],
+  "geometry": {"coordinates":[38.00886,39.35615],"type":"Point"}
+}

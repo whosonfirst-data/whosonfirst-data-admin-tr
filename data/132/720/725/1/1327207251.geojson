@@ -1,0 +1,67 @@
+{
+  "id": 1327207251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00497,40.51722,31.00497,40.51722",
+    "geom:latitude":40.51722,
+    "geom:longitude":31.00497,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Dere",
+    "gn:country_code":"TR",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200601,
+    "gn:latitude":40.51722,
+    "gn:longitude":31.00497,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Dere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890463475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200601
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d281037bc00298e46065f1eca8325e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463475,
+            "locality_id":1327207251,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1327207251,
+    "wof:lastmodified":1537005296,
+    "wof:name":"Dere",
+    "wof:parent_id":890463475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00497,
+    40.51722,
+    31.00497,
+    40.51722
+],
+  "geometry": {"coordinates":[31.00497,40.51722],"type":"Point"}
+}

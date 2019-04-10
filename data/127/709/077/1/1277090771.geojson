@@ -1,0 +1,70 @@
+{
+  "id": 1277090771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.57139,38.27139,31.57139,38.27139",
+    "geom:latitude":38.27139,
+    "geom:longitude":31.57139,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Reis",
+    "gn:country_code":"TR",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":302400,
+    "gn:latitude":38.27139,
+    "gn:longitude":31.57139,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Reis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Reis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890463507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302400
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"65b695055b84ef0557a5a000ef5bcac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463507,
+            "locality_id":1277090771,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1277090771,
+    "wof:lastmodified":1537706773,
+    "wof:name":"Reis",
+    "wof:parent_id":890463507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.57139,
+    38.27139,
+    31.57139,
+    38.27139
+],
+  "geometry": {"coordinates":[31.57139,38.27139],"type":"Point"}
+}

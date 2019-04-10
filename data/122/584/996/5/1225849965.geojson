@@ -1,0 +1,71 @@
+{
+  "id": 1225849965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.17287,39.46307,43.17287,39.46307",
+    "geom:latitude":39.46307,
+    "geom:longitude":43.17287,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kacmaz",
+    "gn:country_code":"TR",
+    "gn:dem":2115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310955,
+    "gn:latitude":39.46307,
+    "gn:longitude":43.17287,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ka\u00e7maz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gelutan",
+        "Ka\u00e7maz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310955
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"584a99744cf2818faa49b526cbe84147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709563,
+            "locality_id":1225849965,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1225849965,
+    "wof:lastmodified":1537707040,
+    "wof:name":"Kacmaz",
+    "wof:parent_id":1108709563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.17287,
+    39.46307,
+    43.17287,
+    39.46307
+],
+  "geometry": {"coordinates":[43.17287,39.46307],"type":"Point"}
+}

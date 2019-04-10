@@ -1,0 +1,70 @@
+{
+  "id": 1293577725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.7,39.33111,26.7,39.33111",
+    "geom:latitude":39.33111,
+    "geom:longitude":26.7,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sakarya",
+    "gn:country_code":"TR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":412663,
+    "gn:latitude":39.33111,
+    "gn:longitude":26.7,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Sakarya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sakarya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":412663
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9001b01a9a48a09bba721d160e52c7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462663,
+            "locality_id":1293577725,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1293577725,
+    "wof:lastmodified":1537707519,
+    "wof:name":"Sakarya",
+    "wof:parent_id":890462663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.7,
+    39.33111,
+    26.7,
+    39.33111
+],
+  "geometry": {"coordinates":[26.7,39.33111],"type":"Point"}
+}

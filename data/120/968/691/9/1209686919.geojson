@@ -1,0 +1,64 @@
+{
+  "id": 1209686919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.79608,38.41688,41.79608,38.41688",
+    "geom:latitude":38.41688,
+    "geom:longitude":41.79608,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Yesilyurt",
+    "gn:country_code":"TR",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986127,
+    "gn:latitude":38.41688,
+    "gn:longitude":41.79608,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ye\u015filyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ye\u015filyurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986127
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"41a32fe1f7b93be5918784cca0a22d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209686919
+        }
+    ],
+    "wof:id":1209686919,
+    "wof:lastmodified":1537708193,
+    "wof:name":"Yesilyurt",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.79608,
+    38.41688,
+    41.79608,
+    38.41688
+],
+  "geometry": {"coordinates":[41.79608,38.41688],"type":"Point"}
+}

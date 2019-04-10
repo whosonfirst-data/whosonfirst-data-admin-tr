@@ -1,0 +1,67 @@
+{
+  "id": 1309864313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.9,38.41667,39.9,38.41667",
+    "geom:latitude":38.41667,
+    "geom:longitude":39.9,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Guleman",
+    "gn:country_code":"TR",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313735,
+    "gn:latitude":38.41667,
+    "gn:longitude":39.9,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Guleman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313735
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"22f9988455898494091925709a874f15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709443,
+            "locality_id":1309864313,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1309864313,
+    "wof:lastmodified":1536845844,
+    "wof:name":"Guleman",
+    "wof:parent_id":1108709443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.9,
+    38.41667,
+    39.9,
+    38.41667
+],
+  "geometry": {"coordinates":[39.9,38.41667],"type":"Point"}
+}

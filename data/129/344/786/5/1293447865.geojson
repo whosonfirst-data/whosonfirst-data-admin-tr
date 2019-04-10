@@ -1,0 +1,73 @@
+{
+  "id": 1293447865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.44518,38.33461,39.44518,38.33461",
+    "geom:latitude":38.33461,
+    "geom:longitude":39.44518,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Kockonagi",
+    "gn:country_code":"TR",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306840,
+    "gn:latitude":38.33461,
+    "gn:longitude":39.44518,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ko\u00e7kona\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arka\u015febgen",
+        "Arka\u015febgenk\u00f6y\u00fc",
+        "Arka\u015fepken",
+        "Ko\u00e7kona\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306840
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d49a796fcc1f5a8be0ead6e5a511d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709705,
+            "locality_id":1293447865,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1293447865,
+    "wof:lastmodified":1537706920,
+    "wof:name":"Kockonagi",
+    "wof:parent_id":1108709705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.44518,
+    38.33461,
+    39.44518,
+    38.33461
+],
+  "geometry": {"coordinates":[39.44518,38.33461],"type":"Point"}
+}

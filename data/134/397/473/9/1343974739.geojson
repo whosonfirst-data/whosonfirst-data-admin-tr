@@ -1,0 +1,70 @@
+{
+  "id": 1343974739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.79478,40.70311,29.79478,40.70311",
+    "geom:latitude":40.70311,
+    "geom:longitude":29.79478,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Orcun",
+    "gn:country_code":"TR",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741104,
+    "gn:latitude":40.70311,
+    "gn:longitude":29.79478,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u00d6rc\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6rc\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        1108709519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741104
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5a5a6076db9a9ec521798f360487087c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709519,
+            "locality_id":1343974739,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1343974739,
+    "wof:lastmodified":1537707755,
+    "wof:name":"Orcun",
+    "wof:parent_id":1108709519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.79478,
+    40.70311,
+    29.79478,
+    40.70311
+],
+  "geometry": {"coordinates":[29.79478,40.70311],"type":"Point"}
+}

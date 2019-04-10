@@ -1,0 +1,76 @@
+{
+  "id": 1326786361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.53333,38.55,39.53333,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":39.53333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Havri",
+    "gn:country_code":"TR",
+    "gn:dem":1589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305872,
+    "gn:latitude":38.55,
+    "gn:longitude":39.53333,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Havri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fck Ova"
+    ],
+    "name:und_x_variant":[
+        "Yukar\u0131 Havri",
+        "Havri",
+        "K\u00fc\u00e7\u00fckova",
+        "Ku\u00e7\u00fckova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305872
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8bebd5a684f218a351cf091182f40c77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462513,
+            "locality_id":1326786361,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1326786361,
+    "wof:lastmodified":1537706887,
+    "wof:name":"Havri",
+    "wof:parent_id":890462513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.53333,
+    38.55,
+    39.53333,
+    38.55
+],
+  "geometry": {"coordinates":[39.53333,38.55],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360253739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.66243,40.99803,26.66243,40.99803",
+    "geom:latitude":40.99803,
+    "geom:longitude":26.66243,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Karacaali",
+    "gn:country_code":"TR",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262270,
+    "gn:latitude":40.99803,
+    "gn:longitude":26.66243,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Karacaali",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karacaali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679213,
+        890463331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262270
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5ddb5ec13adcd2fe991871cf23c96af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463331,
+            "locality_id":1360253739,
+            "region_id":85679213
+        }
+    ],
+    "wof:id":1360253739,
+    "wof:lastmodified":1537708373,
+    "wof:name":"Karacaali",
+    "wof:parent_id":890463331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.66243,
+    40.99803,
+    26.66243,
+    40.99803
+],
+  "geometry": {"coordinates":[26.66243,40.99803],"type":"Point"}
+}

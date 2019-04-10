@@ -1,0 +1,74 @@
+{
+  "id": 1276789467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.77793,39.03665,43.77793,39.03665",
+    "geom:latitude":39.03665,
+    "geom:longitude":43.77793,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Asagi Argit",
+    "gn:country_code":"TR",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323470,
+    "gn:latitude":39.03665,
+    "gn:longitude":43.77793,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"A\u015fa\u011f\u0131 Arg\u0131t",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Arg\u0131t"
+    ],
+    "name:und_x_variant":[
+        "A\u015fag\u0131pete",
+        "A\u015fa\u011f\u0131arg\u0131t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323470
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e718d16cb30d901d3f571ae8e472a102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464469,
+            "locality_id":1276789467,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1276789467,
+    "wof:lastmodified":1537707449,
+    "wof:name":"Asagi Argit",
+    "wof:parent_id":890464469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.77793,
+    39.03665,
+    43.77793,
+    39.03665
+],
+  "geometry": {"coordinates":[43.77793,39.03665],"type":"Point"}
+}

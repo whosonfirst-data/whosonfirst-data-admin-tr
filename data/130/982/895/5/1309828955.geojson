@@ -1,0 +1,70 @@
+{
+  "id": 1309828955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77433,37.47189,35.77433,37.47189",
+    "geom:latitude":37.47189,
+    "geom:longitude":35.77433,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kahveli",
+    "gn:country_code":"TR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10870922,
+    "gn:latitude":37.47189,
+    "gn:longitude":35.77433,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Kahveli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kahveli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890462525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10870922
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7fd675a0f2119ac1d5a864fca4713598",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462525,
+            "locality_id":1309828955,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1309828955,
+    "wof:lastmodified":1537708395,
+    "wof:name":"Kahveli",
+    "wof:parent_id":890462525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77433,
+    37.47189,
+    35.77433,
+    37.47189
+],
+  "geometry": {"coordinates":[35.77433,37.47189],"type":"Point"}
+}

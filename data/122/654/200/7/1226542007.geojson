@@ -1,0 +1,67 @@
+{
+  "id": 1226542007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.71889,37.75445,38.71889,37.75445",
+    "geom:latitude":37.75445,
+    "geom:longitude":38.71889,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Koprulu",
+    "gn:country_code":"TR",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7519578,
+    "gn:latitude":37.75445,
+    "gn:longitude":38.71889,
+    "gn:modification_date":"2010-08-14",
+    "gn:name":"K\u00f6pr\u00fcl\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890463603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519578
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6349e2661f01e92ef3a4922f2e2cbc6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463603,
+            "locality_id":1226542007,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1226542007,
+    "wof:lastmodified":1537002642,
+    "wof:name":"Koprulu",
+    "wof:parent_id":890463603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.71889,
+    37.75445,
+    38.71889,
+    37.75445
+],
+  "geometry": {"coordinates":[38.71889,37.75445],"type":"Point"}
+}

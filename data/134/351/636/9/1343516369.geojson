@@ -1,0 +1,70 @@
+{
+  "id": 1343516369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.51432,40.65615,42.51432,40.65615",
+    "geom:latitude":40.65615,
+    "geom:longitude":42.51432,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Koroglu",
+    "gn:country_code":"TR",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742645,
+    "gn:latitude":40.65615,
+    "gn:longitude":42.51432,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"K\u00f6ro\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6ro\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742645
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0862b527fff190fda60f356817a0a112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709201,
+            "locality_id":1343516369,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1343516369,
+    "wof:lastmodified":1537707806,
+    "wof:name":"Koroglu",
+    "wof:parent_id":1108709201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.51432,
+    40.65615,
+    42.51432,
+    40.65615
+],
+  "geometry": {"coordinates":[42.51432,40.65615],"type":"Point"}
+}

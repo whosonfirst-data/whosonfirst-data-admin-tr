@@ -1,0 +1,74 @@
+{
+  "id": 1243155181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01907,40.57423,31.01907,40.57423",
+    "geom:latitude":40.57423,
+    "geom:longitude":31.01907,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Taskesti",
+    "gn:country_code":"TR",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749445,
+    "gn:latitude":40.57423,
+    "gn:longitude":31.01907,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ta\u015fkesti",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ta\u015fkesti"
+    ],
+    "name:und_x_variant":[
+        "Efteni\u00e7ayk\u00f6y",
+        "\u00c7ayk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890463475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749445
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d4cdeb21dc1bce795f3aec101975a698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463475,
+            "locality_id":1243155181,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1243155181,
+    "wof:lastmodified":1537708030,
+    "wof:name":"Taskesti",
+    "wof:parent_id":890463475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01907000000001,
+    40.57423,
+    31.01907000000001,
+    40.57423
+],
+  "geometry": {"coordinates":[31.01907000000001,40.57423],"type":"Point"}
+}

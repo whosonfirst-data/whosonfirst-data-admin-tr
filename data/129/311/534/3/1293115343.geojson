@@ -1,0 +1,74 @@
+{
+  "id": 1293115343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.48399,36.35102,36.48399,36.35102",
+    "geom:latitude":36.35102,
+    "geom:longitude":36.48399,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Pasakoy",
+    "gn:country_code":"TR",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":437663,
+    "gn:latitude":36.35102,
+    "gn:longitude":36.48399,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Pa\u015fak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Pa\u015fak\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Pa\u015fah\u00f6y\u00fck",
+        "Pa\u015fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890462851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":437663
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f4cf86cabc6a78a6c800cc97caa17798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462851,
+            "locality_id":1293115343,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1293115343,
+    "wof:lastmodified":1537707544,
+    "wof:name":"Pasakoy",
+    "wof:parent_id":890462851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.48399000000001,
+    36.35102,
+    36.48399000000001,
+    36.35102
+],
+  "geometry": {"coordinates":[36.48399000000001,36.35102],"type":"Point"}
+}

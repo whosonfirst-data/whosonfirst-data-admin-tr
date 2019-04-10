@@ -1,0 +1,77 @@
+{
+  "id": 1243084171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.50655,40.64102,36.50655,40.64102",
+    "geom:latitude":40.64102,
+    "geom:longitude":36.50655,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Kocak",
+    "gn:country_code":"TR",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742857,
+    "gn:latitude":40.64102,
+    "gn:longitude":36.50655,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ko\u00e7ak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ko\u00e7ak"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043a\u0441\u0435\u043b\u044c"
+    ],
+    "name:und_x_variant":[
+        "Eksel",
+        "Ko\u00e7ak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742857
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"87c569644a2291a96eb866f9f029d673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709485,
+            "locality_id":1243084171,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1243084171,
+    "wof:lastmodified":1537707814,
+    "wof:name":"Kocak",
+    "wof:parent_id":1108709485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.50655,
+    40.64102000000001,
+    36.50655,
+    40.64102000000001
+],
+  "geometry": {"coordinates":[36.50655,40.64102000000001],"type":"Point"}
+}

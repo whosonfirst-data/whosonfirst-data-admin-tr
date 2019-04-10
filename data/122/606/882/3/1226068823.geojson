@@ -1,0 +1,67 @@
+{
+  "id": 1226068823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92673,37.00803,35.92673,37.00803",
+    "geom:latitude":37.00803,
+    "geom:longitude":35.92673,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Erenler",
+    "gn:country_code":"TR",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7639558,
+    "gn:latitude":37.00803,
+    "gn:longitude":35.92673,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Erenler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890460553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7639558
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e2fa6da8586e76c2fe612fba2337c9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460553,
+            "locality_id":1226068823,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1226068823,
+    "wof:lastmodified":1536692134,
+    "wof:name":"Erenler",
+    "wof:parent_id":890460553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92673,
+    37.00803,
+    35.92673,
+    37.00803
+],
+  "geometry": {"coordinates":[35.92673,37.00803],"type":"Point"}
+}

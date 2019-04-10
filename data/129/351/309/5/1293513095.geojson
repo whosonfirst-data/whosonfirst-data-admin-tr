@@ -1,0 +1,74 @@
+{
+  "id": 1293513095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.40011,38.77218,27.40011,38.77218",
+    "geom:latitude":38.77218,
+    "geom:longitude":27.40011,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kalekoy",
+    "gn:country_code":"TR",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309352,
+    "gn:latitude":38.77218,
+    "gn:longitude":27.40011,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kalek\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kalek\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Karasilli",
+        "Kale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890463535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309352
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f779151b9d2d00b66e83af0665a165d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463535,
+            "locality_id":1293513095,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1293513095,
+    "wof:lastmodified":1537706994,
+    "wof:name":"Kalekoy",
+    "wof:parent_id":890463535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.40011,
+    38.77218,
+    27.40011,
+    38.77218
+],
+  "geometry": {"coordinates":[27.40011,38.77218],"type":"Point"}
+}

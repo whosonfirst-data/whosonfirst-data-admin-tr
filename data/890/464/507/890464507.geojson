@@ -1,0 +1,75 @@
+{
+  "id": 890464507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.1938,37.99518,40.1938,37.99518",
+    "geom:latitude":37.99518,
+    "geom:longitude":40.1938,
+    "gn:country":"TR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Merkez",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Diyarbak\u0131r",
+    "qs:photos":311,
+    "qs:photos_1k":63,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1968,
+    "qs:photos_sr":5,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732368,
+        "gp:id":29390609,
+        "qs:id":1184857,
+        "wd:id":"Q6819626",
+        "wk:page":"Merkez"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053475,
+    "wof:geomhash":"3472c77f4326cde840643c5aaca59260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464507,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890464507,
+    "wof:lastmodified":1527734167,
+    "wof:name":"Merkez",
+    "wof:parent_id":85679395,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.1938,
+    37.99518,
+    40.1938,
+    37.99518
+],
+  "geometry": {"coordinates":[40.1938,37.99518],"type":"Point"}
+}

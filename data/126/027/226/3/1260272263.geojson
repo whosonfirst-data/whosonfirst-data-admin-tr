@@ -1,0 +1,70 @@
+{
+  "id": 1260272263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6734,37.85923,28.6734,37.85923",
+    "geom:latitude":37.85923,
+    "geom:longitude":28.6734,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Aksaz",
+    "gn:country_code":"TR",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202336,
+    "gn:latitude":37.85923,
+    "gn:longitude":28.6734,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Aksaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Aksaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202336
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eff176ba1eca4c5f594cb9a8faf94809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709689,
+            "locality_id":1260272263,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1260272263,
+    "wof:lastmodified":1537708359,
+    "wof:name":"Aksaz",
+    "wof:parent_id":1108709689,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.6734,
+    37.85923,
+    28.6734,
+    37.85923
+],
+  "geometry": {"coordinates":[28.6734,37.85923],"type":"Point"}
+}

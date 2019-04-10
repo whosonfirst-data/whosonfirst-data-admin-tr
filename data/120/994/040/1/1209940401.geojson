@@ -1,0 +1,74 @@
+{
+  "id": 1209940401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.6238,39.93163,43.6238,39.93163",
+    "geom:latitude":39.93163,
+    "geom:longitude":43.6238,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Asagi Sutasli",
+    "gn:country_code":"TR",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323181,
+    "gn:latitude":39.93163,
+    "gn:longitude":43.6238,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"A\u015fa\u011f\u0131 Suta\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Suta\u015fl\u0131"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131kenzek",
+        "A\u015fa\u011f\u0131suta\u015fl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323181
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a204a5eb74e071e5c7229440a16b17a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":1209940401,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1209940401,
+    "wof:lastmodified":1537707436,
+    "wof:name":"Asagi Sutasli",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.6238,
+    39.93163,
+    43.6238,
+    39.93163
+],
+  "geometry": {"coordinates":[43.6238,39.93163],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260306003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93416,37.2747,30.93416,37.2747",
+    "geom:latitude":37.2747,
+    "geom:longitude":30.93416,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Bozdogan",
+    "gn:country_code":"TR",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301413,
+    "gn:latitude":37.2747,
+    "gn:longitude":30.93416,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bozdo\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bozdo\u011fan",
+        "Sazak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301413
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6fd3df447679c41cf858423e90739bf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463871,
+            "locality_id":1260306003,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1260306003,
+    "wof:lastmodified":1537706741,
+    "wof:name":"Bozdogan",
+    "wof:parent_id":890463871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93416,
+    37.2747,
+    30.93416,
+    37.2747
+],
+  "geometry": {"coordinates":[30.93416,37.2747],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1126088245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.2,38.43333,27.2,38.43333",
+    "geom:latitude":38.43333,
+    "geom:longitude":27.2,
+    "gn:gn_country":"TR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"TR",
+    "lbl:latitude":38.43333,
+    "lbl:longitude":27.2,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Alsancak"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03bb\u03c3\u03b1\u03bd\u03c4\u03b6\u03b1\u03ba"
+    ],
+    "name:ita_x_preferred":[
+        "Alsancak"
+    ],
+    "name:tur_x_preferred":[
+        "Alsancak"
+    ],
+    "qs_pg:aaroncc":"TR",
+    "qs_pg:gn_country":"TR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":323962,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Alsancak",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130zmir",
+    "qs_pg:photos":693,
+    "qs_pg:photos_1k":140,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":693,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1066401,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2343537,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130zmir",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679201,
+        102191569,
+        85632393,
+        890463111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323962,
+        "gp:id":2343537,
+        "qs_pg:id":1066401,
+        "wd:id":"Q4735767"
+    },
+    "wof:country":"TR",
+    "wof:created":1497313161,
+    "wof:geomhash":"5c7a7ad96377db2f749e900411d5593d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463111,
+            "locality_id":-1,
+            "neighbourhood_id":1126088245,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1126088245,
+    "wof:lastmodified":1534379469,
+    "wof:name":"Alsancak",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        85904075
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.2,
+    38.43333,
+    27.2,
+    38.43333
+],
+  "geometry": {"coordinates":[27.2,38.43333],"type":"Point"}
+}

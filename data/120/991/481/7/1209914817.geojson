@@ -1,0 +1,70 @@
+{
+  "id": 1209914817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48304,38.5403,30.48304,38.5403",
+    "geom:latitude":38.5403,
+    "geom:longitude":30.48304,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Akyuva",
+    "gn:country_code":"TR",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323731,
+    "gn:latitude":38.5403,
+    "gn:longitude":30.48304,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Akyuva",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890463725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323731
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4108870c2eeeaecfe62ae8ebaee03b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463725,
+            "locality_id":1209914817,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1209914817,
+    "wof:lastmodified":1537707458,
+    "wof:name":"Akyuva",
+    "wof:parent_id":890463725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48304000000001,
+    38.5403,
+    30.48304000000001,
+    38.5403
+],
+  "geometry": {"coordinates":[30.48304000000001,38.5403],"type":"Point"}
+}

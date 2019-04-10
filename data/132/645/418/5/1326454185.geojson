@@ -1,0 +1,67 @@
+{
+  "id": 1326454185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08545,40.91747,31.08545,40.91747",
+    "geom:latitude":40.91747,
+    "geom:longitude":31.08545,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Kafyayla",
+    "gn:country_code":"TR",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8143000,
+    "gn:latitude":40.91747,
+    "gn:longitude":31.08545,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Kafyayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        1108710065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8143000
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e1ca368fbbd5677000884c7247a2e883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710065,
+            "locality_id":1326454185,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1326454185,
+    "wof:lastmodified":1537093277,
+    "wof:name":"Kafyayla",
+    "wof:parent_id":1108710065,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08545,
+    40.91747,
+    31.08545,
+    40.91747
+],
+  "geometry": {"coordinates":[31.08545,40.91747],"type":"Point"}
+}

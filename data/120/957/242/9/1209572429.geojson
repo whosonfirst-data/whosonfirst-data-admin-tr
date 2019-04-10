@@ -1,0 +1,64 @@
+{
+  "id": 1209572429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.04824,40.11452,42.04824,40.11452",
+    "geom:latitude":40.11452,
+    "geom:longitude":42.04824,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Mollamelik",
+    "gn:country_code":"TR",
+    "gn:dem":1824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752079,
+    "gn:latitude":40.11452,
+    "gn:longitude":42.04824,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Mollamelik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752079
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0c9dd16db239dbe1fcf93597d88e67cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209572429
+        }
+    ],
+    "wof:id":1209572429,
+    "wof:lastmodified":1537708127,
+    "wof:name":"Mollamelik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.04824,
+    40.11452,
+    42.04824,
+    40.11452
+],
+  "geometry": {"coordinates":[42.04824,40.11452],"type":"Point"}
+}

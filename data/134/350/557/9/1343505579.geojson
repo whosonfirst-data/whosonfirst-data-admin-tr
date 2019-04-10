@@ -1,0 +1,74 @@
+{
+  "id": 1343505579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13642,39.15205,27.13642,39.15205",
+    "geom:latitude":39.15205,
+    "geom:longitude":27.13642,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Yerli Tahtaci",
+    "gn:country_code":"TR",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299940,
+    "gn:latitude":39.15205,
+    "gn:longitude":27.13642,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yerli Tahtac\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yerli Tahtac\u0131"
+    ],
+    "name:und_x_variant":[
+        "Tahtac\u0131 Yaylas\u0131",
+        "Yerlitahtac\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890462839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299940
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a567e63c66c787cc2052abfd4d038e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462839,
+            "locality_id":1343505579,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1343505579,
+    "wof:lastmodified":1537706691,
+    "wof:name":"Yerli Tahtaci",
+    "wof:parent_id":890462839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13642,
+    39.15205,
+    27.13642,
+    39.15205
+],
+  "geometry": {"coordinates":[27.13642,39.15205],"type":"Point"}
+}

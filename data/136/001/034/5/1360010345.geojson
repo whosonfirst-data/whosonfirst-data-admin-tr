@@ -1,0 +1,73 @@
+{
+  "id": 1360010345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4924,41.29072,31.4924,41.29072",
+    "geom:latitude":41.29072,
+    "geom:longitude":31.4924,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Omerli",
+    "gn:country_code":"TR",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042675,
+    "gn:latitude":41.29072,
+    "gn:longitude":31.4924,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"\u00d6merli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6merli"
+    ],
+    "name:tur_x_variant":[
+        "Eski \u00d6merli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890462743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042675
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fe213a07709cdee9a60b90d229c636a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462743,
+            "locality_id":1360010345,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1360010345,
+    "wof:lastmodified":1537708277,
+    "wof:name":"Omerli",
+    "wof:parent_id":890462743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4924,
+    41.29072,
+    31.4924,
+    41.29072
+],
+  "geometry": {"coordinates":[31.4924,41.29072],"type":"Point"}
+}

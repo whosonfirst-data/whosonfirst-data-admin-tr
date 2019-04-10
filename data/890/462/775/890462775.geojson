@@ -1,0 +1,76 @@
+{
+  "id": 890462775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.63708,40.83499,30.63708,40.83499",
+    "geom:latitude":40.83499,
+    "geom:longitude":30.63708,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sivritepe"
+    ],
+    "qs:name":"Sirintepe",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Kocaeli",
+    "qs:photos":31,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":31,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85679245,
+        85632393,
+        890460359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740484,
+        "gp:id":56042873,
+        "qs:id":1151013
+    },
+    "wof:country":"TR",
+    "wof:created":1469053403,
+    "wof:geomhash":"4d737aac667f15f2f6bdb9f58a85a87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460359,
+            "neighbourhood_id":890462775,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":890462775,
+    "wof:lastmodified":1505343691,
+    "wof:name":"Sirintepe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.63708,
+    40.83499,
+    30.63708,
+    40.83499
+],
+  "geometry": {"coordinates":[30.63708,40.83499],"type":"Point"}
+}

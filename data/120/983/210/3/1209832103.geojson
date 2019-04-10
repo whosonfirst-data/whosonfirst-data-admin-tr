@@ -1,0 +1,67 @@
+{
+  "id": 1209832103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.16444,38.80194,28.16444,38.80194",
+    "geom:latitude":38.80194,
+    "geom:longitude":28.16444,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Malkoca",
+    "gn:country_code":"TR",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304905,
+    "gn:latitude":38.80194,
+    "gn:longitude":28.16444,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Malkoca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304905
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5f202a7a1aa8665f70180242d070826b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709543,
+            "locality_id":1209832103,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1209832103,
+    "wof:lastmodified":1536396532,
+    "wof:name":"Malkoca",
+    "wof:parent_id":1108709543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.16444000000001,
+    38.80194,
+    28.16444000000001,
+    38.80194
+],
+  "geometry": {"coordinates":[28.16444000000001,38.80194],"type":"Point"}
+}

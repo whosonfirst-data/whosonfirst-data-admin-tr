@@ -1,0 +1,70 @@
+{
+  "id": 1260302219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.31365,38.71696,43.31365,38.71696",
+    "geom:latitude":38.71696,
+    "geom:longitude":43.31365,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Gollu",
+    "gn:country_code":"TR",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314046,
+    "gn:latitude":38.71696,
+    "gn:longitude":43.31365,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"G\u00f6ll\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00f6ll\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890462703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314046
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"455e72e7847d9a3bc8c1a34a93bab10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462703,
+            "locality_id":1260302219,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1260302219,
+    "wof:lastmodified":1537707144,
+    "wof:name":"Gollu",
+    "wof:parent_id":890462703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.31365,
+    38.71696,
+    43.31365,
+    38.71696
+],
+  "geometry": {"coordinates":[43.31365,38.71696],"type":"Point"}
+}

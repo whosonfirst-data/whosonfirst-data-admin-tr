@@ -1,0 +1,67 @@
+{
+  "id": 1276408911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.5,38.3,40.5,38.3",
+    "geom:latitude":38.3,
+    "geom:longitude":40.5,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Karaz",
+    "gn:country_code":"TR",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309173,
+    "gn:latitude":38.3,
+    "gn:longitude":40.5,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890462753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309173
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"090bf1e85844fcd1831c9eba2e3d88bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462753,
+            "locality_id":1276408911,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1276408911,
+    "wof:lastmodified":1536677464,
+    "wof:name":"Karaz",
+    "wof:parent_id":890462753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.5,
+    38.3,
+    40.5,
+    38.3
+],
+  "geometry": {"coordinates":[40.5,38.3],"type":"Point"}
+}

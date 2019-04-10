@@ -1,0 +1,67 @@
+{
+  "id": 1243068833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96139,38.0425,29.96139,38.0425",
+    "geom:latitude":38.0425,
+    "geom:longitude":29.96139,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Madenler",
+    "gn:country_code":"TR",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305028,
+    "gn:latitude":38.0425,
+    "gn:longitude":29.96139,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Madenler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890460145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305028
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b08ae5aeec6b9495fa72e62462ad5f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460145,
+            "locality_id":1243068833,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1243068833,
+    "wof:lastmodified":1536851793,
+    "wof:name":"Madenler",
+    "wof:parent_id":890460145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96139,
+    38.0425,
+    29.96139,
+    38.0425
+],
+  "geometry": {"coordinates":[29.96139,38.0425],"type":"Point"}
+}

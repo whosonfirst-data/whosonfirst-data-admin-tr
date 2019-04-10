@@ -1,0 +1,70 @@
+{
+  "id": 1243265941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98383,37.93273,38.98383,37.93273",
+    "geom:latitude":37.93273,
+    "geom:longitude":38.98383,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kokluce",
+    "gn:country_code":"TR",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306758,
+    "gn:latitude":37.93273,
+    "gn:longitude":38.98383,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"K\u00f6kl\u00fcce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6kl\u00fcce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890462843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306758
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"62e2bb9bf1e3534b75be646fefdfa046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462843,
+            "locality_id":1243265941,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1243265941,
+    "wof:lastmodified":1537706917,
+    "wof:name":"Kokluce",
+    "wof:parent_id":890462843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98383,
+    37.93273,
+    38.98383,
+    37.93273
+],
+  "geometry": {"coordinates":[38.98383,37.93273],"type":"Point"}
+}

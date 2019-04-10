@@ -1,0 +1,67 @@
+{
+  "id": 1209094635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.39363,39.76957,28.39363,39.76957",
+    "geom:latitude":39.76957,
+    "geom:longitude":28.39363,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Secdere",
+    "gn:country_code":"TR",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301362,
+    "gn:latitude":39.76957,
+    "gn:longitude":28.39363,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Se\u00e7dere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Se\u00e7dere"
+    ],
+    "name:und_x_variant":[
+        "Se\u00e7k\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301362
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e338494f240e6d851b339d374196136e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209094635
+        }
+    ],
+    "wof:id":1209094635,
+    "wof:lastmodified":1537706740,
+    "wof:name":"Secdere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.39363,
+    39.76957,
+    28.39363,
+    39.76957
+],
+  "geometry": {"coordinates":[28.39363,39.76957],"type":"Point"}
+}

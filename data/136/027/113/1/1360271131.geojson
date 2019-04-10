@@ -1,0 +1,67 @@
+{
+  "id": 1360271131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.61997,36.43479,29.61997,36.43479",
+    "geom:latitude":36.43479,
+    "geom:longitude":29.61997,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Beldibi",
+    "gn:country_code":"TR",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077505,
+    "gn:latitude":36.43479,
+    "gn:longitude":29.61997,
+    "gn:modification_date":"2011-12-09",
+    "gn:name":"Beldibi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890462379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077505
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"72a7abb5b8da123124d36069ddd5166e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462379,
+            "locality_id":1360271131,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1360271131,
+    "wof:lastmodified":1536677279,
+    "wof:name":"Beldibi",
+    "wof:parent_id":890462379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.61997,
+    36.43479,
+    29.61997,
+    36.43479
+],
+  "geometry": {"coordinates":[29.61997,36.43479],"type":"Point"}
+}

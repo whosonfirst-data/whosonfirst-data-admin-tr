@@ -1,0 +1,70 @@
+{
+  "id": 1243337683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33014,38.05593,29.33014,38.05593",
+    "geom:latitude":38.05593,
+    "geom:longitude":29.33014,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kaplanlar",
+    "gn:country_code":"TR",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310415,
+    "gn:latitude":38.05593,
+    "gn:longitude":29.33014,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kaplanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaplanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108710013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310415
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"04ac607a7fe6f61cb0da85b800994fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710013,
+            "locality_id":1243337683,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1243337683,
+    "wof:lastmodified":1537707023,
+    "wof:name":"Kaplanlar",
+    "wof:parent_id":1108710013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33014,
+    38.05593,
+    29.33014,
+    38.05593
+],
+  "geometry": {"coordinates":[29.33014,38.05593],"type":"Point"}
+}

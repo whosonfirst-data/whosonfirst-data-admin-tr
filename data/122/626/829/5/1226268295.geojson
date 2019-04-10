@@ -1,0 +1,75 @@
+{
+  "id": 1226268295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7753,41.83176,34.7753,41.83176",
+    "geom:latitude":41.83176,
+    "geom:longitude":34.7753,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Akveren",
+    "gn:country_code":"TR",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752410,
+    "gn:latitude":41.83176,
+    "gn:longitude":34.7753,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akveren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akveren"
+    ],
+    "name:und_x_variant":[
+        "Akveran",
+        "Akveren",
+        "Ak\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752410
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dbbd29a06671d6eed4a55f732f36850f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709311,
+            "locality_id":1226268295,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1226268295,
+    "wof:lastmodified":1537708138,
+    "wof:name":"Akveren",
+    "wof:parent_id":1108709311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7753,
+    41.83176,
+    34.7753,
+    41.83176
+],
+  "geometry": {"coordinates":[34.7753,41.83176],"type":"Point"}
+}

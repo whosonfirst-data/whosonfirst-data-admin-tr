@@ -1,0 +1,86 @@
+{
+  "id": 890463165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.41731,38.42621,27.41731,38.42621",
+    "geom:latitude":38.42621,
+    "geom:longitude":27.41731,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":30411,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043c\u0430\u043b\u044c\u043f\u0430\u0448\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Karabel"
+    ],
+    "name:unk_x_variant":[
+        "Nymphaeum"
+    ],
+    "qs:name":"Kemalpa\u015fa",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130zmir",
+    "qs:photos":48,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":48,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":2022,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890464235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308224,
+        "gp:id":2344181,
+        "qs:id":1284431,
+        "wd:id":"Q1014125",
+        "wk:page":"Kemalpa\u015fa"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053419,
+    "wof:geomhash":"724fd824614981da9897b6078e91504f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464235,
+            "locality_id":890463165,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":890463165,
+    "wof:lastmodified":1527729762,
+    "wof:name":"Kemalpa\u015fa",
+    "wof:parent_id":890464235,
+    "wof:placetype":"locality",
+    "wof:population":30411,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.41731,
+    38.42621,
+    27.41731,
+    38.42621
+],
+  "geometry": {"coordinates":[27.41731,38.42621],"type":"Point"}
+}

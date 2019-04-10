@@ -1,0 +1,68 @@
+{
+  "id": 890464889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.05417,37.28972,42.05417,37.28972",
+    "geom:latitude":37.28972,
+    "geom:longitude":42.05417,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":251,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Bidar"
+    ],
+    "qs:name":"Yal\u0131ntepe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890462509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297811,
+        "qs:id":547214
+    },
+    "wof:country":"TR",
+    "wof:created":1469053490,
+    "wof:geomhash":"915bfad3a7f2418733fbb05220b992aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462509,
+            "locality_id":890464889,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":890464889,
+    "wof:lastmodified":1505343700,
+    "wof:name":"Yal\u0131ntepe",
+    "wof:parent_id":890462509,
+    "wof:placetype":"locality",
+    "wof:population":251,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.05417,
+    37.28972,
+    42.05417,
+    37.28972
+],
+  "geometry": {"coordinates":[42.05417,37.28972],"type":"Point"}
+}

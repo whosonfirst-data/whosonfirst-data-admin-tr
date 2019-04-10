@@ -1,0 +1,67 @@
+{
+  "id": 1242615929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13986,38.76911,36.13986,38.76911",
+    "geom:latitude":38.76911,
+    "geom:longitude":36.13986,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Panli",
+    "gn:country_code":"TR",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302890,
+    "gn:latitude":38.76911,
+    "gn:longitude":36.13986,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Panl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679321,
+        890460627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302890
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"126c9bf7da1e454a0726b578f50ca175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460627,
+            "locality_id":1242615929,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":1242615929,
+    "wof:lastmodified":1537007742,
+    "wof:name":"Panli",
+    "wof:parent_id":890460627,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13986,
+    38.76911,
+    36.13986,
+    38.76911
+],
+  "geometry": {"coordinates":[36.13986,38.76911],"type":"Point"}
+}

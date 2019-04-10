@@ -1,0 +1,67 @@
+{
+  "id": 1259500047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39001,39.37654,35.39001,39.37654",
+    "geom:latitude":39.37654,
+    "geom:longitude":35.39001,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Yahyali",
+    "gn:country_code":"TR",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297915,
+    "gn:latitude":39.37654,
+    "gn:longitude":35.39001,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Yahyal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297915
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf4ce9dce5879f3af1012b4aba844e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709845,
+            "locality_id":1259500047,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1259500047,
+    "wof:lastmodified":1536833991,
+    "wof:name":"Yahyali",
+    "wof:parent_id":1108709845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39001,
+    39.37654000000001,
+    35.39001,
+    39.37654000000001
+],
+  "geometry": {"coordinates":[35.39001,39.37654000000001],"type":"Point"}
+}

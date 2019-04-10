@@ -1,0 +1,67 @@
+{
+  "id": 1276575243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.014,37.028,36.014,37.028",
+    "geom:latitude":37.028,
+    "geom:longitude":36.014,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Dutlupinar",
+    "gn:country_code":"TR",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316068,
+    "gn:latitude":37.028,
+    "gn:longitude":36.014,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Dutlup\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890460553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316068
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"676f4184f32208df39c648fb14f7c5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460553,
+            "locality_id":1276575243,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1276575243,
+    "wof:lastmodified":1536952330,
+    "wof:name":"Dutlupinar",
+    "wof:parent_id":890460553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.014,
+    37.028,
+    36.014,
+    37.028
+],
+  "geometry": {"coordinates":[36.014,37.028],"type":"Point"}
+}

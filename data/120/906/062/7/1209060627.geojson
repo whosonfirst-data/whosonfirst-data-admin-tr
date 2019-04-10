@@ -1,0 +1,66 @@
+{
+  "id": 1209060627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60431,39.89037,30.60431,39.89037",
+    "geom:latitude":39.89037,
+    "geom:longitude":30.60431,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Karadere",
+    "gn:country_code":"TR",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309930,
+    "gn:latitude":39.89037,
+    "gn:longitude":30.60431,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karadere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hilmiyekaradere",
+        "Hilmiye",
+        "Karadere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309930
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d35792613f920cff8fba484708cf0fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209060627
+        }
+    ],
+    "wof:id":1209060627,
+    "wof:lastmodified":1537707010,
+    "wof:name":"Karadere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60431,
+    39.89037,
+    30.60431,
+    39.89037
+],
+  "geometry": {"coordinates":[30.60431,39.89037],"type":"Point"}
+}

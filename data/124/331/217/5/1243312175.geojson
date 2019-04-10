@@ -1,0 +1,70 @@
+{
+  "id": 1243312175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45066,37.65765,34.45066,37.65765",
+    "geom:latitude":37.65765,
+    "geom:longitude":34.45066,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Altay",
+    "gn:country_code":"TR",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323959,
+    "gn:latitude":37.65765,
+    "gn:longitude":34.45066,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Altay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Altay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679453,
+        1108709951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323959
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4e3f4c5261547e6be9cb2e4b95c5cfe3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709951,
+            "locality_id":1243312175,
+            "region_id":85679453
+        }
+    ],
+    "wof:id":1243312175,
+    "wof:lastmodified":1537707466,
+    "wof:name":"Altay",
+    "wof:parent_id":1108709951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45066,
+    37.65765,
+    34.45066,
+    37.65765
+],
+  "geometry": {"coordinates":[34.45066,37.65765],"type":"Point"}
+}

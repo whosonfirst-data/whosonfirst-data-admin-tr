@@ -1,0 +1,78 @@
+{
+  "id": 890465305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.77388,37.30765,40.77388,37.30765",
+    "geom:latitude":37.30765,
+    "geom:longitude":40.77388,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":263,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Kaletyul\u2019mara"
+    ],
+    "name:rus_x_variant":[
+        "\u042d\u0441\u043a\u0438-\u041a\u0430\u043b\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Eskikale"
+    ],
+    "name:unk_x_variant":[
+        "Kalet\u00fclmara"
+    ],
+    "qs:name":"Eskikale",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315246,
+        "gp:id":2344252,
+        "qs:id":547534
+    },
+    "wof:country":"TR",
+    "wof:created":1469053514,
+    "wof:geomhash":"fc2a67ca89b3e701eb67b5a5a812a16a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463121,
+            "locality_id":890465305,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890465305,
+    "wof:lastmodified":1505343702,
+    "wof:name":"Eskikale",
+    "wof:parent_id":890463121,
+    "wof:placetype":"locality",
+    "wof:population":263,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.77388,
+    37.30765,
+    40.77388,
+    37.30765
+],
+  "geometry": {"coordinates":[40.77388,37.30765],"type":"Point"}
+}

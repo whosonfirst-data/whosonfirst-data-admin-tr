@@ -1,0 +1,73 @@
+{
+  "id": 1243251879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.70402,40.0346,27.70402,40.0346",
+    "geom:latitude":40.0346,
+    "geom:longitude":27.70402,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Kaplanobasi",
+    "gn:country_code":"TR",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8543767,
+    "gn:latitude":40.0346,
+    "gn:longitude":27.70402,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Kaplanobas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaplanoba"
+    ],
+    "name:tur_x_variant":[
+        "Kaplanobas\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8543767
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"63fb774d995eb71f726ab7119e1e49ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709533,
+            "locality_id":1243251879,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1243251879,
+    "wof:lastmodified":1537708297,
+    "wof:name":"Kaplanobasi",
+    "wof:parent_id":1108709533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.70402,
+    40.0346,
+    27.70402,
+    40.0346
+],
+  "geometry": {"coordinates":[27.70402,40.0346],"type":"Point"}
+}

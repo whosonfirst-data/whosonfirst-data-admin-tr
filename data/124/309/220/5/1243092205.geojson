@@ -1,0 +1,74 @@
+{
+  "id": 1243092205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56195,41.60379,32.56195,41.60379",
+    "geom:latitude":41.60379,
+    "geom:longitude":32.56195,
+    "gn:admin1_code":"87.0",
+    "gn:asciiname":"Cende",
+    "gn:country_code":"TR",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737362,
+    "gn:latitude":41.60379,
+    "gn:longitude":32.56195,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00c7ende",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ende"
+    ],
+    "name:und_x_variant":[
+        "\u00c7erde",
+        "Yukar\u0131 \u00c7erder"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679543,
+        890463487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737362
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b80f405af554cb74f9cfc65772bd50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463487,
+            "locality_id":1243092205,
+            "region_id":85679543
+        }
+    ],
+    "wof:id":1243092205,
+    "wof:lastmodified":1537707620,
+    "wof:name":"Cende",
+    "wof:parent_id":890463487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56195,
+    41.60379,
+    32.56195,
+    41.60379
+],
+  "geometry": {"coordinates":[32.56195,41.60379],"type":"Point"}
+}

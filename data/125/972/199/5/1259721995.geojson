@@ -1,0 +1,74 @@
+{
+  "id": 1259721995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74976,38.50451,35.74976,38.50451",
+    "geom:latitude":38.50451,
+    "geom:longitude":35.74976,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Komurkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306684,
+    "gn:latitude":38.50451,
+    "gn:longitude":35.74976,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"K\u00f6m\u00fcrk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6m\u00fcrk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Gem\u00fcr",
+        "K\u00f6m\u00fcr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679321,
+        890461117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306684
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"219ecde2578968f79f1194a97313ac2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461117,
+            "locality_id":1259721995,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":1259721995,
+    "wof:lastmodified":1537706914,
+    "wof:name":"Komurkoy",
+    "wof:parent_id":890461117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74975999999999,
+    38.50451,
+    35.74975999999999,
+    38.50451
+],
+  "geometry": {"coordinates":[35.74975999999999,38.50451],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360201265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8123,37.71869,35.8123,37.71869",
+    "geom:latitude":37.71869,
+    "geom:longitude":35.8123,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Kocyazi",
+    "gn:country_code":"TR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304609,
+    "gn:latitude":37.71869,
+    "gn:longitude":35.8123,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ko\u00e7yaz\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e7yaz\u0131",
+        "Menge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890461379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304609
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"07030d0a1c03278641f6b4496cb63ec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461379,
+            "locality_id":1360201265,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1360201265,
+    "wof:lastmodified":1537706846,
+    "wof:name":"Kocyazi",
+    "wof:parent_id":890461379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8123,
+    37.71869,
+    35.8123,
+    37.71869
+],
+  "geometry": {"coordinates":[35.8123,37.71869],"type":"Point"}
+}

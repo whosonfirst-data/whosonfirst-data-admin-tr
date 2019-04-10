@@ -1,0 +1,71 @@
+{
+  "id": 1293668597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91219,39.24531,40.91219,39.24531",
+    "geom:latitude":39.24531,
+    "geom:longitude":40.91219,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kaynak",
+    "gn:country_code":"TR",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308734,
+    "gn:latitude":39.24531,
+    "gn:longitude":40.91219,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Kaynak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kavrak",
+        "Kaynak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890463853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308734
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2a5ca9c3ba4946fd79f76013be315fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463853,
+            "locality_id":1293668597,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1293668597,
+    "wof:lastmodified":1537706978,
+    "wof:name":"Kaynak",
+    "wof:parent_id":890463853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91219,
+    39.24531,
+    40.91219,
+    39.24531
+],
+  "geometry": {"coordinates":[40.91219,39.24531],"type":"Point"}
+}

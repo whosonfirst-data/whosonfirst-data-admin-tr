@@ -1,0 +1,70 @@
+{
+  "id": 102535937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01666667,39.42666667,30.01666667,39.42666667",
+    "geom:latitude":39.426667,
+    "geom:longitude":30.016667,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0643\u0648\u062a\u0627\u0647\u064a\u0627"
+    ],
+    "name:tur_x_preferred":[
+        "K\u00fctahya Askeri Havaalan\u0131"
+    ],
+    "oa:elevation_ft":"3026",
+    "oa:type":"small_airport",
+    "src:geom":"wikidata",
+    "src:geom_alt":[],
+    "woe:hierarchy":{
+        "country_id":23424969,
+        "county_id":29390571,
+        "planet_id":1,
+        "state_id":2347297
+    },
+    "wof:belongsto":[
+        85632393,
+        85679283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12517906,
+        "icao:code":"LTBN",
+        "oa:id":"4537",
+        "wd:id":"Q5469363"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a8dab0449f036ef856341044ea5e98db",
+    "wof:hierarchy":[
+        {
+            "campus_id":102535937,
+            "country_id":85632393,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":102535937,
+    "wof:lastmodified":1543846099,
+    "wof:name":"Kutahya Airport",
+    "wof:parent_id":85679283,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    30.01666667,
+    39.42666667,
+    30.01666667,
+    39.42666667
+],
+  "geometry": {"coordinates":[30.01666667,39.42666667],"type":"Point"}
+}

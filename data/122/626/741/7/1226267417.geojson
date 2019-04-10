@@ -1,0 +1,67 @@
+{
+  "id": 1226267417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23387,40.951,33.23387,40.951",
+    "geom:latitude":40.951,
+    "geom:longitude":33.23387,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Dalkoz",
+    "gn:country_code":"TR",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748694,
+    "gn:latitude":40.951,
+    "gn:longitude":33.23387,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Dalkoz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890461875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748694
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f9c0e67027afc67f8daf1fa1e67b557a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461875,
+            "locality_id":1226267417,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1226267417,
+    "wof:lastmodified":1536902538,
+    "wof:name":"Dalkoz",
+    "wof:parent_id":890461875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23387,
+    40.951,
+    33.23387,
+    40.951
+],
+  "geometry": {"coordinates":[33.23387,40.951],"type":"Point"}
+}

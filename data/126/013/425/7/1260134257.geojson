@@ -1,0 +1,73 @@
+{
+  "id": 1260134257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.505,39.62944,30.505,39.62944",
+    "geom:latitude":39.62944,
+    "geom:longitude":30.505,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Supuren",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300101,
+    "gn:latitude":39.62944,
+    "gn:longitude":30.505,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00fcp\u00fcren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00fcp\u00fcviran",
+        "S\u00fcbren",
+        "S\u00fcp\u00fcren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300101
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8988f64bdc5e7148410dec4037e69e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709773,
+            "locality_id":1260134257,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1260134257,
+    "wof:lastmodified":1537706696,
+    "wof:name":"Supuren",
+    "wof:parent_id":1108709773,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.505,
+    39.62944,
+    30.505,
+    39.62944
+],
+  "geometry": {"coordinates":[30.505,39.62944],"type":"Point"}
+}

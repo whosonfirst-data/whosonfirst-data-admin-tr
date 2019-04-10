@@ -1,0 +1,70 @@
+{
+  "id": 1276565105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.87085,40.85191,37.87085,40.85191",
+    "geom:latitude":40.85191,
+    "geom:longitude":37.87085,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Baskoy",
+    "gn:country_code":"TR",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751008,
+    "gn:latitude":40.85191,
+    "gn:longitude":37.87085,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ba\u015fk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u015fk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        890462749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751008
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9a206b5f21c6f3c05d41cbe8f09720cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462749,
+            "locality_id":1276565105,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1276565105,
+    "wof:lastmodified":1537708089,
+    "wof:name":"Baskoy",
+    "wof:parent_id":890462749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.87085,
+    40.85191,
+    37.87085,
+    40.85191
+],
+  "geometry": {"coordinates":[37.87085,40.85191],"type":"Point"}
+}

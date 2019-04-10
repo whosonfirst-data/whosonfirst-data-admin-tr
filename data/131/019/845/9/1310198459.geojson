@@ -1,0 +1,67 @@
+{
+  "id": 1310198459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9385,36.92879,30.9385,36.92879",
+    "geom:latitude":36.92879,
+    "geom:longitude":30.9385,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kozagac",
+    "gn:country_code":"TR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8073116,
+    "gn:latitude":36.92879,
+    "gn:longitude":30.9385,
+    "gn:modification_date":"2011-12-09",
+    "gn:name":"Koza\u011fa\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8073116
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9605d3af2d84215ccd9d89c42763f08c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463871,
+            "locality_id":1310198459,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1310198459,
+    "wof:lastmodified":1536861030,
+    "wof:name":"Kozagac",
+    "wof:parent_id":890463871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9385,
+    36.92879,
+    30.9385,
+    36.92879
+],
+  "geometry": {"coordinates":[30.9385,36.92879],"type":"Point"}
+}

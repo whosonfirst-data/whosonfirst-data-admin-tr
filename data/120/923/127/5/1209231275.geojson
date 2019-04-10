@@ -1,0 +1,66 @@
+{
+  "id": 1209231275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.01667,39.95,44.01667,39.95",
+    "geom:latitude":39.95,
+    "geom:longitude":44.01667,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Alikamerli",
+    "gn:country_code":"TR",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324041,
+    "gn:latitude":39.95,
+    "gn:longitude":44.01667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alikamerli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alikamer",
+        "Alkamer",
+        "Alikamerli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324041
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89f587d7663e28fc033dee784ea464c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209231275
+        }
+    ],
+    "wof:id":1209231275,
+    "wof:lastmodified":1537707469,
+    "wof:name":"Alikamerli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.01667,
+    39.95,
+    44.01667,
+    39.95
+],
+  "geometry": {"coordinates":[44.01667,39.95],"type":"Point"}
+}

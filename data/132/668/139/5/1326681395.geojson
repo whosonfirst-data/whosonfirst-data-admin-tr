@@ -1,0 +1,67 @@
+{
+  "id": 1326681395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93312,41.96377,33.93312,41.96377",
+    "geom:latitude":41.96377,
+    "geom:longitude":33.93312,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Darsu",
+    "gn:country_code":"TR",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8022033,
+    "gn:latitude":41.96377,
+    "gn:longitude":33.93312,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Darsu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        1108709399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8022033
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8afd5636703f7a8b0aef78598f6bb1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709399,
+            "locality_id":1326681395,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1326681395,
+    "wof:lastmodified":1536769694,
+    "wof:name":"Darsu",
+    "wof:parent_id":1108709399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93312,
+    41.96377,
+    33.93312,
+    41.96377
+],
+  "geometry": {"coordinates":[33.93312,41.96377],"type":"Point"}
+}

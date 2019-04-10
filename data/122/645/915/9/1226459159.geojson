@@ -1,0 +1,77 @@
+{
+  "id": 1226459159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.02,40.53823,40.02,40.53823",
+    "geom:latitude":40.53823,
+    "geom:longitude":40.02,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Arslanca",
+    "gn:country_code":"TR",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751834,
+    "gn:latitude":40.53823,
+    "gn:longitude":40.02,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Arslanca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Arslanca"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043b\u043c\u0430\u043d\u043a\u0430\u0441"
+    ],
+    "name:und_x_variant":[
+        "Salmankas",
+        "Arslanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890464141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751834
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"84ec01f79433f1a410bc31e79bad9f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464141,
+            "locality_id":1226459159,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1226459159,
+    "wof:lastmodified":1537708118,
+    "wof:name":"Arslanca",
+    "wof:parent_id":890464141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.02,
+    40.53823,
+    40.02,
+    40.53823
+],
+  "geometry": {"coordinates":[40.02,40.53823],"type":"Point"}
+}

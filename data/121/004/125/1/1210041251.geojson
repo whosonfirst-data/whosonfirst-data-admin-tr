@@ -1,0 +1,67 @@
+{
+  "id": 1210041251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52798,37.43167,43.52798,37.43167",
+    "geom:latitude":37.43167,
+    "geom:longitude":43.52798,
+    "gn:admin1_code":"70.0",
+    "gn:asciiname":"Sehitli",
+    "gn:country_code":"TR",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7003069,
+    "gn:latitude":37.43167,
+    "gn:longitude":43.52798,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"\u015eehitli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890464425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7003069
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aca4dd7c96af95f54d6c4cbbbb9af171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464425,
+            "locality_id":1210041251,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1210041251,
+    "wof:lastmodified":1536383696,
+    "wof:name":"Sehitli",
+    "wof:parent_id":890464425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52798,
+    37.43167,
+    43.52798,
+    37.43167
+],
+  "geometry": {"coordinates":[43.52798,37.43167],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 890462323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71353,36.90101,30.71353,36.90101",
+    "geom:latitude":36.90101,
+    "geom:longitude":30.71353,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Zeytin K\u00f6y"
+    ],
+    "qs:name":"Etiler",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":382,
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        101912923,
+        1108709753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295927,
+        "gp:id":55871300,
+        "qs:id":1059557,
+        "wk:page":"Etiler"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053385,
+    "wof:geomhash":"33cc355d9284fc67900e3fa767d55ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709753,
+            "locality_id":101912923,
+            "neighbourhood_id":890462323,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":890462323,
+    "wof:lastmodified":1527749962,
+    "wof:name":"Etiler",
+    "wof:parent_id":101912923,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71353,
+    36.90101,
+    30.71353,
+    36.90101
+],
+  "geometry": {"coordinates":[30.71353,36.90101],"type":"Point"}
+}

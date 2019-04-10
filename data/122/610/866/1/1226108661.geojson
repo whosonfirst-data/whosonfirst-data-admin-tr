@@ -1,0 +1,73 @@
+{
+  "id": 1226108661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.38892,39.80222,26.38892,39.80222",
+    "geom:latitude":39.80222,
+    "geom:longitude":26.38892,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Marmat",
+    "gn:country_code":"TR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503300,
+    "gn:latitude":39.80222,
+    "gn:longitude":26.38892,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Marmat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Marmat"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcl\u00fcce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890464315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503300
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4fa8e0332082590e1480c8dd13b8eb48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464315,
+            "locality_id":1226108661,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1226108661,
+    "wof:lastmodified":1537708217,
+    "wof:name":"Marmat",
+    "wof:parent_id":890464315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.38892,
+    39.80222,
+    26.38892,
+    39.80222
+],
+  "geometry": {"coordinates":[26.38892,39.80222],"type":"Point"}
+}

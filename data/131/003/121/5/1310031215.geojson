@@ -1,0 +1,67 @@
+{
+  "id": 1310031215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72637,40.13649,35.72637,40.13649",
+    "geom:latitude":40.13649,
+    "geom:longitude":35.72637,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Kizilca",
+    "gn:country_code":"TR",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743069,
+    "gn:latitude":40.13649,
+    "gn:longitude":35.72637,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"K\u0131z\u0131lca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890461509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743069
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"63e2215f0298f07900e619ece9f4026f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461509,
+            "locality_id":1310031215,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1310031215,
+    "wof:lastmodified":1536603172,
+    "wof:name":"Kizilca",
+    "wof:parent_id":890461509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72637,
+    40.13649,
+    35.72637,
+    40.13649
+],
+  "geometry": {"coordinates":[35.72637,40.13649],"type":"Point"}
+}

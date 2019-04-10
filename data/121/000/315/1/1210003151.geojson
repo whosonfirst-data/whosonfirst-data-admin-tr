@@ -1,0 +1,72 @@
+{
+  "id": 1210003151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.12396,39.19619,41.12396,39.19619",
+    "geom:latitude":39.19619,
+    "geom:longitude":41.12396,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Yorgancayir",
+    "gn:country_code":"TR",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296570,
+    "gn:latitude":39.19619,
+    "gn:longitude":41.12396,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Yorgan\u00e7ay\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karahamzan",
+        "Karahamza",
+        "Yorgan\u00e7ay\u0131r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890463853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296570
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"11783cc7e0d49daea60475662dae35ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463853,
+            "locality_id":1210003151,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1210003151,
+    "wof:lastmodified":1537706575,
+    "wof:name":"Yorgancayir",
+    "wof:parent_id":890463853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.12396,
+    39.19619,
+    41.12396,
+    39.19619
+],
+  "geometry": {"coordinates":[41.12396,39.19619],"type":"Point"}
+}

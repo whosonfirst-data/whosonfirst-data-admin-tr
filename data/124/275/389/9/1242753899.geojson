@@ -1,0 +1,74 @@
+{
+  "id": 1242753899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.71411,40.153,26.71411,40.153",
+    "geom:latitude":40.153,
+    "geom:longitude":26.71411,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ucpinar",
+    "gn:country_code":"TR",
+    "gn:dem":558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739673,
+    "gn:latitude":40.153,
+    "gn:longitude":26.71411,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u00dc\u00e7p\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00dc\u00e7p\u0131nar"
+    ],
+    "name:und_x_variant":[
+        "S\u0131\u00e7anl\u0131obasi",
+        "S\u0131canc\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890461649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739673
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"572ec6fb87aaf53468cf8fb285dcfe8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461649,
+            "locality_id":1242753899,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1242753899,
+    "wof:lastmodified":1537707706,
+    "wof:name":"Ucpinar",
+    "wof:parent_id":890461649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.71411,
+    40.153,
+    26.71411,
+    40.153
+],
+  "geometry": {"coordinates":[26.71411,40.153],"type":"Point"}
+}

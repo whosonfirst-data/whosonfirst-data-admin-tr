@@ -1,0 +1,66 @@
+{
+  "id": 1209734103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53979,39.53418,26.53979,39.53418",
+    "geom:latitude":39.53418,
+    "geom:longitude":26.53979,
+    "gn:asciiname":"Gargara",
+    "gn:country_code":"TR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11398108,
+    "gn:latitude":39.53418,
+    "gn:longitude":26.53979,
+    "gn:modification_date":"2016-12-29",
+    "gn:name":"Gargara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890463243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398108
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a1866677e219286117ed4a36a2856aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463243,
+            "locality_id":1209734103,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1209734103,
+    "wof:lastmodified":1536375554,
+    "wof:name":"Gargara",
+    "wof:parent_id":890463243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53979,
+    39.53418,
+    26.53979,
+    39.53418
+],
+  "geometry": {"coordinates":[26.53979,39.53418],"type":"Point"}
+}

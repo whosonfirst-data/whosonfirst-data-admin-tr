@@ -1,0 +1,70 @@
+{
+  "id": 1310405109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.2352,39.59202,43.2352,39.59202",
+    "geom:latitude":39.59202,
+    "geom:longitude":43.2352,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Uzunveli",
+    "gn:country_code":"TR",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298143,
+    "gn:latitude":39.59202,
+    "gn:longitude":43.2352,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Uzunveli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Uzunveli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        890463323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298143
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"960c971a49f196f7fee152ef55878172",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463323,
+            "locality_id":1310405109,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1310405109,
+    "wof:lastmodified":1537706631,
+    "wof:name":"Uzunveli",
+    "wof:parent_id":890463323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.2352,
+    39.59202,
+    43.2352,
+    39.59202
+],
+  "geometry": {"coordinates":[43.2352,39.59202],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225992039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5985,39.9088,30.5985,39.9088",
+    "geom:latitude":39.9088,
+    "geom:longitude":30.5985,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Bozdag",
+    "gn:country_code":"TR",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8245944,
+    "gn:latitude":39.9088,
+    "gn:longitude":30.5985,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Bozda\u011f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8245944
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c636b3f7767d1d26c6e0e5de14d7267a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709923,
+            "locality_id":1225992039,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1225992039,
+    "wof:lastmodified":1536802589,
+    "wof:name":"Bozdag",
+    "wof:parent_id":1108709923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5985,
+    39.9088,
+    30.5985,
+    39.9088
+],
+  "geometry": {"coordinates":[30.5985,39.9088],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226603383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.26609,38.18946,39.26609,38.18946",
+    "geom:latitude":38.18946,
+    "geom:longitude":39.26609,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gecitkoy",
+    "gn:country_code":"TR",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314775,
+    "gn:latitude":38.18946,
+    "gn:longitude":39.26609,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ge\u00e7itk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hoya",
+        "Huya",
+        "Ge\u00e7itk\u00f6y",
+        "Ge\u00e7it"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108710083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314775
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ccbca0c85ffd8c11312d58597fbf1abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710083,
+            "locality_id":1226603383,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1226603383,
+    "wof:lastmodified":1537707166,
+    "wof:name":"Gecitkoy",
+    "wof:parent_id":1108710083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.26609000000001,
+    38.18946,
+    39.26609000000001,
+    38.18946
+],
+  "geometry": {"coordinates":[39.26609000000001,38.18946],"type":"Point"}
+}

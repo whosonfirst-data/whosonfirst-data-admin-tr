@@ -1,0 +1,69 @@
+{
+  "id": 890463943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51778,36.79944,36.51778,36.79944",
+    "geom:latitude":36.79944,
+    "geom:longitude":36.51778,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":9719,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Hassa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":27,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312405,
+        "gp:id":2344072,
+        "qs:id":205071,
+        "wd:id":"Q1211707",
+        "wk:page":"Hassa"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053449,
+    "wof:geomhash":"c7ba57960acc4040ae8d3e63ce17b168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709575,
+            "locality_id":890463943,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":890463943,
+    "wof:lastmodified":1527732947,
+    "wof:name":"Hassa",
+    "wof:parent_id":1108709575,
+    "wof:placetype":"locality",
+    "wof:population":9719,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51778,
+    36.79944,
+    36.51778,
+    36.79944
+],
+  "geometry": {"coordinates":[36.51778,36.79944],"type":"Point"}
+}

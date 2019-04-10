@@ -1,0 +1,76 @@
+{
+  "id": 890465227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.53528,37.40917,41.53528,37.40917",
+    "geom:latitude":37.40917,
+    "geom:longitude":41.53528,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":90,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "\u0418\u043a\u0438\u0437\u0434\u0435\u0440\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130kizdere"
+    ],
+    "name:unk_x_variant":[
+        "D\u00fcbent"
+    ],
+    "qs:name":"\u0130kizdere",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":576,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311595,
+        "qs:id":547462,
+        "wk:page":"\u0130kizdere"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053509,
+    "wof:geomhash":"fcd83a7c6fa2537c9446f63ad0b64e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463867,
+            "locality_id":890465227,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890465227,
+    "wof:lastmodified":1527736646,
+    "wof:name":"\u0130kizdere",
+    "wof:parent_id":890463867,
+    "wof:placetype":"locality",
+    "wof:population":90,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.53528,
+    37.40917,
+    41.53528,
+    37.40917
+],
+  "geometry": {"coordinates":[41.53528,37.40917],"type":"Point"}
+}

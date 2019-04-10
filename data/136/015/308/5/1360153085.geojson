@@ -1,0 +1,70 @@
+{
+  "id": 1360153085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.63634,38.63119,38.63634,38.63119",
+    "geom:latitude":38.63119,
+    "geom:longitude":38.63634,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Karoglu",
+    "gn:country_code":"TR",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309022,
+    "gn:latitude":38.63119,
+    "gn:longitude":38.63634,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Karo\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karo\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309022
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"25f472ae5c63fa43407585d581fcba38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709359,
+            "locality_id":1360153085,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1360153085,
+    "wof:lastmodified":1537706986,
+    "wof:name":"Karoglu",
+    "wof:parent_id":1108709359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.63634,
+    38.63119,
+    38.63634,
+    38.63119
+],
+  "geometry": {"coordinates":[38.63634,38.63119],"type":"Point"}
+}

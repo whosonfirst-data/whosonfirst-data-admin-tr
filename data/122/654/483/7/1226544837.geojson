@@ -1,0 +1,70 @@
+{
+  "id": 1226544837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.76007,39.59228,42.76007,39.59228",
+    "geom:latitude":39.59228,
+    "geom:longitude":42.76007,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Suvar",
+    "gn:country_code":"TR",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300016,
+    "gn:latitude":39.59228,
+    "gn:longitude":42.76007,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Suvar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Suvar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300016
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"579e3be8b2f8c8da12c3b2375db221e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709939,
+            "locality_id":1226544837,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1226544837,
+    "wof:lastmodified":1537706694,
+    "wof:name":"Suvar",
+    "wof:parent_id":1108709939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.76007,
+    39.59228,
+    42.76007,
+    39.59228
+],
+  "geometry": {"coordinates":[42.76007,39.59228],"type":"Point"}
+}

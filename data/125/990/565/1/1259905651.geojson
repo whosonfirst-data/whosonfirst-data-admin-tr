@@ -1,0 +1,75 @@
+{
+  "id": 1259905651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4,40.83444,29.4,40.83444",
+    "geom:latitude":40.83444,
+    "geom:longitude":29.4,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Cayirova",
+    "gn:country_code":"TR",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":746180,
+    "gn:latitude":40.83444,
+    "gn:longitude":29.4,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u00c7ay\u0131rova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ay\u0131rova"
+    ],
+    "name:und_x_variant":[
+        "Aksek\u00f6y",
+        "Akkili\u015fe",
+        "G\u00fczeltepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        1108710039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746180
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ed37b7c05df7b3a90f33f28876fc7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710039,
+            "locality_id":1259905651,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1259905651,
+    "wof:lastmodified":1537707914,
+    "wof:name":"Cayirova",
+    "wof:parent_id":1108710039,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4,
+    40.83444,
+    29.4,
+    40.83444
+],
+  "geometry": {"coordinates":[29.4,40.83444],"type":"Point"}
+}

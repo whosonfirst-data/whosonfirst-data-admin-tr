@@ -1,0 +1,71 @@
+{
+  "id": 1343447479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.85,39.46667,40.85,39.46667",
+    "geom:latitude":39.46667,
+    "geom:longitude":40.85,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Karikum",
+    "gn:country_code":"TR",
+    "gn:dem":2303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309090,
+    "gn:latitude":39.46667,
+    "gn:longitude":40.85,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karikum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kari Komu",
+        "K\u00e2rik\u00f6m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108710031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309090
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c61fa03e7c9573e724ab067a8a16604a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710031,
+            "locality_id":1343447479,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1343447479,
+    "wof:lastmodified":1537706988,
+    "wof:name":"Karikum",
+    "wof:parent_id":1108710031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.85,
+    39.46667,
+    40.85,
+    39.46667
+],
+  "geometry": {"coordinates":[40.85,39.46667],"type":"Point"}
+}

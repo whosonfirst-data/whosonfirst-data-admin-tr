@@ -1,0 +1,67 @@
+{
+  "id": 1225960885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.36667,38.08333,41.36667,38.08333",
+    "geom:latitude":38.08333,
+    "geom:longitude":41.36667,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Setrik",
+    "gn:country_code":"TR",
+    "gn:dem":629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301058,
+    "gn:latitude":38.08333,
+    "gn:longitude":41.36667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Setrik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301058
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"19586325bc87d5c611f40d18d2862f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709675,
+            "locality_id":1225960885,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1225960885,
+    "wof:lastmodified":1536846358,
+    "wof:name":"Setrik",
+    "wof:parent_id":1108709675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.36667,
+    38.08333,
+    41.36667,
+    38.08333
+],
+  "geometry": {"coordinates":[41.36667,38.08333],"type":"Point"}
+}

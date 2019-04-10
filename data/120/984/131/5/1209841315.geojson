@@ -1,0 +1,73 @@
+{
+  "id": 1209841315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.68313,37.30603,38.68313,37.30603",
+    "geom:latitude":37.30603,
+    "geom:longitude":38.68313,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Kirkpinar",
+    "gn:country_code":"TR",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307568,
+    "gn:latitude":37.30603,
+    "gn:longitude":38.68313,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"K\u0131rkp\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131rkp\u0131nar"
+    ],
+    "name:und_x_variant":[
+        "Kyrkpynar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307568
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3e498b816cb55da1ffe3f551555387d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1209841315,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1209841315,
+    "wof:lastmodified":1537706943,
+    "wof:name":"Kirkpinar",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.68313,
+    37.30603,
+    38.68313,
+    37.30603
+],
+  "geometry": {"coordinates":[38.68313,37.30603],"type":"Point"}
+}

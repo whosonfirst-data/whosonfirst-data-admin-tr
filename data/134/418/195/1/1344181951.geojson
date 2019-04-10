@@ -1,0 +1,72 @@
+{
+  "id": 1344181951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.62954,37.02575,37.62954,37.02575",
+    "geom:latitude":37.02575,
+    "geom:longitude":37.62954,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Gunbulak",
+    "gn:country_code":"TR",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308326,
+    "gn:latitude":37.02575,
+    "gn:longitude":37.62954,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00fcnbulak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcnbulak",
+        "Keferbostan",
+        "G\u00fcnbulur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        890460767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308326
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c63ff53ddecf739f21287fa4b98c7a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460767,
+            "locality_id":1344181951,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1344181951,
+    "wof:lastmodified":1537706966,
+    "wof:name":"Gunbulak",
+    "wof:parent_id":890460767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.62954000000001,
+    37.02575,
+    37.62954000000001,
+    37.02575
+],
+  "geometry": {"coordinates":[37.62954000000001,37.02575],"type":"Point"}
+}

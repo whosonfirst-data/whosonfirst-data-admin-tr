@@ -1,0 +1,71 @@
+{
+  "id": 1259809131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18361,37.99861,42.18361,37.99861",
+    "geom:latitude":37.99861,
+    "geom:longitude":42.18361,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Pay",
+    "gn:country_code":"TR",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302817,
+    "gn:latitude":37.99861,
+    "gn:longitude":42.18361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paykey",
+        "Pay K\u00f6y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        890463401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302817
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b24f496e55785d7a210bf332ef1472ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463401,
+            "locality_id":1259809131,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1259809131,
+    "wof:lastmodified":1537706787,
+    "wof:name":"Pay",
+    "wof:parent_id":890463401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18361,
+    37.99861,
+    42.18361,
+    37.99861
+],
+  "geometry": {"coordinates":[42.18361,37.99861],"type":"Point"}
+}

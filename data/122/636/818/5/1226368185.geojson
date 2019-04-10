@@ -1,0 +1,67 @@
+{
+  "id": 1226368185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.27944,38.63988,27.27944,38.63988",
+    "geom:latitude":38.63988,
+    "geom:longitude":27.27944,
+    "gn:admin1_code":"45.0",
+    "gn:asciiname":"Akgedik",
+    "gn:country_code":"TR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686001,
+    "gn:latitude":38.63988,
+    "gn:longitude":27.27944,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Akgedik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890463535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686001
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eab0f59310ce134c25ef6e595ef0533c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463535,
+            "locality_id":1226368185,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1226368185,
+    "wof:lastmodified":1536757376,
+    "wof:name":"Akgedik",
+    "wof:parent_id":890463535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27944,
+    38.63988,
+    27.27944,
+    38.63988
+],
+  "geometry": {"coordinates":[27.27944,38.63988],"type":"Point"}
+}

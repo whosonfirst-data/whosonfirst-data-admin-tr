@@ -1,0 +1,67 @@
+{
+  "id": 1293848851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81313,40.28373,34.81313,40.28373",
+    "geom:latitude":40.28373,
+    "geom:longitude":34.81313,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kure",
+    "gn:country_code":"TR",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742190,
+    "gn:latitude":40.28373,
+    "gn:longitude":34.81313,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u00fcre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742190
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b2a97aa96076e3660c8e122299a2f60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709273,
+            "locality_id":1293848851,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1293848851,
+    "wof:lastmodified":1536763689,
+    "wof:name":"Kure",
+    "wof:parent_id":1108709273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81313,
+    40.28373,
+    34.81313,
+    40.28373
+],
+  "geometry": {"coordinates":[34.81313,40.28373],"type":"Point"}
+}

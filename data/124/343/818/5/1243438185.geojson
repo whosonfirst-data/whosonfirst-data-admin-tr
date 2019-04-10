@@ -1,0 +1,73 @@
+{
+  "id": 1243438185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.49078,37.85986,27.49078,37.85986",
+    "geom:latitude":37.85986,
+    "geom:longitude":27.49078,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Gumuskoy",
+    "gn:country_code":"TR",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313620,
+    "gn:latitude":37.85986,
+    "gn:longitude":27.49078,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"G\u00fcm\u00fc\u015fk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcm\u00fc\u015fk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "G\u00fcm\u00fc\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890464529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313620
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85dfd0900838aee5b598b26f493d4f9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464529,
+            "locality_id":1243438185,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1243438185,
+    "wof:lastmodified":1537707130,
+    "wof:name":"Gumuskoy",
+    "wof:parent_id":890464529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.49078,
+    37.85986,
+    27.49078,
+    37.85986
+],
+  "geometry": {"coordinates":[27.49078,37.85986],"type":"Point"}
+}

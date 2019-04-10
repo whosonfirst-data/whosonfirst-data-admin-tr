@@ -1,0 +1,64 @@
+{
+  "id": 1209029639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.53708,39.68836,29.53708,39.68836",
+    "geom:latitude":39.68836,
+    "geom:longitude":29.53708,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kozcagiz",
+    "gn:country_code":"TR",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306865,
+    "gn:latitude":39.68836,
+    "gn:longitude":29.53708,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kozca\u011f\u0131z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kozca\u011f\u0131z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306865
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1482be574e54a483a6d076c90e79394d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209029639
+        }
+    ],
+    "wof:id":1209029639,
+    "wof:lastmodified":1537706921,
+    "wof:name":"Kozcagiz",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.53708,
+    39.68836,
+    29.53708,
+    39.68836
+],
+  "geometry": {"coordinates":[29.53708,39.68836],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327392481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.03333,38.5,41.03333,38.5",
+    "geom:latitude":38.5,
+    "geom:longitude":41.03333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kulp",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":867,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305749,
+    "gn:latitude":38.5,
+    "gn:longitude":41.03333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kulp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pazur",
+        "Pasur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305749
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"024f4d5dcf6757dc9d6e6d97cc7c3490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463481,
+            "locality_id":1327392481,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1327392481,
+    "wof:lastmodified":1537706883,
+    "wof:name":"Kulp",
+    "wof:parent_id":890463481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.03333,
+    38.5,
+    41.03333,
+    38.5
+],
+  "geometry": {"coordinates":[41.03333,38.5],"type":"Point"}
+}

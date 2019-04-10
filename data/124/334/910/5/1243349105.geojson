@@ -1,0 +1,73 @@
+{
+  "id": 1243349105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44629,36.61243,30.44629,36.61243",
+    "geom:latitude":36.61243,
+    "geom:longitude":30.44629,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gedelme",
+    "gn:country_code":"TR",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9072513,
+    "gn:latitude":36.61243,
+    "gn:longitude":30.44629,
+    "gn:modification_date":"2014-05-30",
+    "gn:name":"Gedelme",
+    "gn:population":400,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0434\u0435\u043b\u044c\u043c\u0435"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890461933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9072513
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2d3529c48b4d4d5c738b390e9be5d15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461933,
+            "locality_id":1243349105,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1243349105,
+    "wof:lastmodified":1537557798,
+    "wof:name":"Gedelme",
+    "wof:parent_id":890461933,
+    "wof:placetype":"locality",
+    "wof:population":400,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44629,
+    36.61243,
+    30.44629,
+    36.61243
+],
+  "geometry": {"coordinates":[30.44629,36.61243],"type":"Point"}
+}

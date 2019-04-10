@@ -1,0 +1,73 @@
+{
+  "id": 1327448027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.86465,37.99185,41.86465,37.99185",
+    "geom:latitude":37.99185,
+    "geom:longitude":41.86465,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Akinci",
+    "gn:country_code":"TR",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315536,
+    "gn:latitude":37.99185,
+    "gn:longitude":41.86465,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ak\u0131nc\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ferhindek",
+        "Erbindok",
+        "Ak\u0131nc\u0131",
+        "Erbind\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315536
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c7f57a1b164619b2e7243c255d5f1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709747,
+            "locality_id":1327448027,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1327448027,
+    "wof:lastmodified":1537707190,
+    "wof:name":"Akinci",
+    "wof:parent_id":1108709747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.86465,
+    37.99185,
+    41.86465,
+    37.99185
+],
+  "geometry": {"coordinates":[41.86465,37.99185],"type":"Point"}
+}

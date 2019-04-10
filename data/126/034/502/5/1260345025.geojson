@@ -1,0 +1,71 @@
+{
+  "id": 1260345025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.74799,41.21092,26.74799,41.21092",
+    "geom:latitude":41.21092,
+    "geom:longitude":26.74799,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kirkkavak",
+    "gn:country_code":"TR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743170,
+    "gn:latitude":41.21092,
+    "gn:longitude":26.74799,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0131rkkavak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131r\u0131kkavak",
+        "K\u0131rkkavak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679213,
+        1108709953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743170
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"75c0f561723bf6fca44b0710ddd30a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709953,
+            "locality_id":1260345025,
+            "region_id":85679213
+        }
+    ],
+    "wof:id":1260345025,
+    "wof:lastmodified":1537707823,
+    "wof:name":"Kirkkavak",
+    "wof:parent_id":1108709953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.74799,
+    41.21092,
+    26.74799,
+    41.21092
+],
+  "geometry": {"coordinates":[26.74799,41.21092],"type":"Point"}
+}

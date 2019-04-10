@@ -1,0 +1,66 @@
+{
+  "id": 1108950853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6765450151,41.0352535879,28.6765450151,41.0352535879",
+    "geom:latitude":41.035254,
+    "geom:longitude":28.676545,
+    "iso:country":"TR",
+    "lbl:latitude":41.035254,
+    "lbl:longitude":28.676545,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368676,
+    "wof:geomhash":"ae516c8e9b26d9eb95ab3919f5fe412e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709497,
+            "neighbourhood_id":1108950853,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950853,
+    "wof:lastmodified":1534379468,
+    "wof:name":"Merkez",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        85929931
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.67654501506928,
+    41.03525358785753,
+    28.67654501506928,
+    41.03525358785753
+],
+  "geometry": {"coordinates":[28.67654501506928,41.03525358785753],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242603095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0035,41.44524,32.0035,41.44524",
+    "geom:latitude":41.44524,
+    "geom:longitude":32.0035,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Eymir",
+    "gn:country_code":"TR",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8041600,
+    "gn:latitude":41.44524,
+    "gn:longitude":32.0035,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Eymir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890461695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8041600
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8cab3740a32d94c1092b377d7d8a98bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461695,
+            "locality_id":1242603095,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1242603095,
+    "wof:lastmodified":1537025803,
+    "wof:name":"Eymir",
+    "wof:parent_id":890461695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0035,
+    41.44524000000001,
+    32.0035,
+    41.44524000000001
+],
+  "geometry": {"coordinates":[32.0035,41.44524000000001],"type":"Point"}
+}

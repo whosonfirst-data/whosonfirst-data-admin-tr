@@ -1,0 +1,65 @@
+{
+  "id": 1209631849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.13477,39.11272,42.13477,39.11272",
+    "geom:latitude":39.11272,
+    "geom:longitude":42.13477,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Balotu",
+    "gn:country_code":"TR",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322079,
+    "gn:latitude":39.11272,
+    "gn:longitude":42.13477,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Balotu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Teygut",
+        "Balotu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322079
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2d838dd6882535d73271c1ab132b377",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209631849
+        }
+    ],
+    "wof:id":1209631849,
+    "wof:lastmodified":1537707400,
+    "wof:name":"Balotu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.13477,
+    39.11272,
+    42.13477,
+    39.11272
+],
+  "geometry": {"coordinates":[42.13477,39.11272],"type":"Point"}
+}

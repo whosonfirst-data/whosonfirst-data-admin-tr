@@ -1,0 +1,71 @@
+{
+  "id": 101913197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":896.472307,
+    "geom:bbox":"27.1232713697,38.4963578077,27.1238046866,38.4967743205",
+    "geom:latitude":38.496522,
+    "geom:longitude":27.123591,
+    "iso:country":"TR",
+    "lbl:latitude":38.496513,
+    "lbl:longitude":27.123614,
+    "mps:latitude":38.496513,
+    "mps:longitude":27.123614,
+    "mz:hierarchy_label":1,
+    "qs:a0":"Turkey",
+    "qs:a1":"*",
+    "qs:a1r":"9",
+    "qs:adm0":"Turkey",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Evka-2",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55966389,
+        "qs:id":260921
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9768dfdd45c8ca58a600abeb62c64e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461021,
+            "locality_id":101913197,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":101913197,
+    "wof:lastmodified":1479835825,
+    "wof:name":"Evka-2",
+    "wof:parent_id":890461021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12327136970055,
+    38.49635780765374,
+    27.12380468662951,
+    38.49677432050305
+],
+  "geometry": {"coordinates":[[[27.12327136970055,38.49643458899538],[27.12380468662951,38.49677432050305],[27.12369617381989,38.49635780765374],[27.12327136970055,38.49643458899538]]],"type":"Polygon"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243280483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.21667,40.73333,37.21667,40.73333",
+    "geom:latitude":40.73333,
+    "geom:longitude":37.21667,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Korgan",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742659,
+    "gn:latitude":40.73333,
+    "gn:longitude":37.21667,
+    "gn:modification_date":"2010-08-10",
+    "gn:name":"Korgan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Korgan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u0433\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Korgan Yaylas\u0131",
+        "Korgan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        890461513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742659
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3a792f4b79b3ac78c4245c5bd787a094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461513,
+            "locality_id":1243280483,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1243280483,
+    "wof:lastmodified":1537707806,
+    "wof:name":"Korgan",
+    "wof:parent_id":890461513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.21667,
+    40.73333,
+    37.21667,
+    40.73333
+],
+  "geometry": {"coordinates":[37.21667,40.73333],"type":"Point"}
+}

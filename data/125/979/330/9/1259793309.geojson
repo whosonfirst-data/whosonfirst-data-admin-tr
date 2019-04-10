@@ -1,0 +1,67 @@
+{
+  "id": 1259793309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08333,37.9,32.08333,37.9",
+    "geom:latitude":37.9,
+    "geom:longitude":32.08333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Yayla",
+    "gn:country_code":"TR",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297500,
+    "gn:latitude":37.9,
+    "gn:longitude":32.08333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Yayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890462363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297500
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"091c1816fcd086d763f1f8482d3096a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462363,
+            "locality_id":1259793309,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1259793309,
+    "wof:lastmodified":1536909233,
+    "wof:name":"Yayla",
+    "wof:parent_id":890462363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08333,
+    37.9,
+    32.08333,
+    37.9
+],
+  "geometry": {"coordinates":[32.08333,37.9],"type":"Point"}
+}

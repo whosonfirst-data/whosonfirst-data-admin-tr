@@ -1,0 +1,67 @@
+{
+  "id": 1276508733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.30799,40.86821,34.30799,40.86821",
+    "geom:latitude":40.86821,
+    "geom:longitude":34.30799,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sureli",
+    "gn:country_code":"TR",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750695,
+    "gn:latitude":40.86821,
+    "gn:longitude":34.30799,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"S\u00fcreli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750695
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d3f90e10a90c5e1eb0450d5e406f2804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709215,
+            "locality_id":1276508733,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1276508733,
+    "wof:lastmodified":1537039509,
+    "wof:name":"Sureli",
+    "wof:parent_id":1108709215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.30799,
+    40.86821,
+    34.30799,
+    40.86821
+],
+  "geometry": {"coordinates":[34.30799,40.86821],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293372303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49595,37.55337,30.49595,37.55337",
+    "geom:latitude":37.55337,
+    "geom:longitude":30.49595,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Pecenek",
+    "gn:country_code":"TR",
+    "gn:dem":1346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208107,
+    "gn:latitude":37.55337,
+    "gn:longitude":30.49595,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"Pecenek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679273,
+        1108710057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208107
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ecb0adbac84b37b737d0d6b2c6577466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710057,
+            "locality_id":1293372303,
+            "region_id":85679273
+        }
+    ],
+    "wof:id":1293372303,
+    "wof:lastmodified":1536953243,
+    "wof:name":"Pecenek",
+    "wof:parent_id":1108710057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49595,
+    37.55337,
+    30.49595,
+    37.55337
+],
+  "geometry": {"coordinates":[30.49595,37.55337],"type":"Point"}
+}

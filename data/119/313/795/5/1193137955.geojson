@@ -1,0 +1,71 @@
+{
+  "id": 1193137955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2752,38.07449,30.2752,38.07449",
+    "geom:latitude":38.07449,
+    "geom:longitude":30.2752,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Eldere",
+    "gn:country_code":"TR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315778,
+    "gn:latitude":38.07449,
+    "gn:longitude":30.2752,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Eldere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0130ldere",
+        "Eldere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315778
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"81877dd25fa4713a1934be5d3831a6c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461199,
+            "locality_id":1193137955,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1193137955,
+    "wof:lastmodified":1537707197,
+    "wof:name":"Eldere",
+    "wof:parent_id":890461199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2752,
+    38.07449,
+    30.2752,
+    38.07449
+],
+  "geometry": {"coordinates":[30.2752,38.07449],"type":"Point"}
+}

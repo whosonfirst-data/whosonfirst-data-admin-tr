@@ -1,0 +1,67 @@
+{
+  "id": 1226348689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56896,38.83713,31.56896,38.83713",
+    "geom:latitude":38.83713,
+    "geom:longitude":31.56896,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Serkut Mahallesi",
+    "gn:country_code":"TR",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235655,
+    "gn:latitude":38.83713,
+    "gn:longitude":31.56896,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Serkut Mahallesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890462013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235655
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9a11eed3bcbefd60f9b4558b282d4920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462013,
+            "locality_id":1226348689,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1226348689,
+    "wof:lastmodified":1536785652,
+    "wof:name":"Serkut Mahallesi",
+    "wof:parent_id":890462013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56896,
+    38.83713,
+    31.56896,
+    38.83713
+],
+  "geometry": {"coordinates":[31.56896,38.83713],"type":"Point"}
+}

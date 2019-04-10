@@ -1,0 +1,61 @@
+{
+  "id": 1209200309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03333,37.0,30.03333,37.0",
+    "geom:latitude":37.0,
+    "geom:longitude":30.03333,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gocerler Yaylasi",
+    "gn:country_code":"TR",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314423,
+    "gn:latitude":37.0,
+    "gn:longitude":30.03333,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"G\u00f6\u00e7erler Yaylas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314423
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2cb7f4ac6f8d36e3a4b0c9d44f150605",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209200309
+        }
+    ],
+    "wof:id":1209200309,
+    "wof:lastmodified":1536294634,
+    "wof:name":"Gocerler Yaylasi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03333,
+    37.0,
+    30.03333,
+    37.0
+],
+  "geometry": {"coordinates":[30.03333,37.0],"type":"Point"}
+}

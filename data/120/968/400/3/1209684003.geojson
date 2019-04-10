@@ -1,0 +1,67 @@
+{
+  "id": 1209684003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.78899,38.83239,39.78899,38.83239",
+    "geom:latitude":38.83239,
+    "geom:longitude":39.78899,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Karasan",
+    "gn:country_code":"TR",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308999,
+    "gn:latitude":38.83239,
+    "gn:longitude":39.78899,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Karasan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karasan"
+    ],
+    "name:und_x_variant":[
+        "K\u00e2rsan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308999
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3556623a796da572f0a5ed24ea4119e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209684003
+        }
+    ],
+    "wof:id":1209684003,
+    "wof:lastmodified":1537706986,
+    "wof:name":"Karasan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.78899000000001,
+    38.83239,
+    39.78899000000001,
+    38.83239
+],
+  "geometry": {"coordinates":[39.78899000000001,38.83239],"type":"Point"}
+}

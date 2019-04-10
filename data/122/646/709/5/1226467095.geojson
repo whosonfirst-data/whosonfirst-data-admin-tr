@@ -1,0 +1,70 @@
+{
+  "id": 1226467095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5869,38.88217,28.5869,38.88217",
+    "geom:latitude":38.88217,
+    "geom:longitude":28.5869,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Koyluce",
+    "gn:country_code":"TR",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306184,
+    "gn:latitude":38.88217,
+    "gn:longitude":28.5869,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"K\u00f6yl\u00fcce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6yl\u00fcce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306184
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"25c012521acf94aa796474eb89fed5a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709429,
+            "locality_id":1226467095,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1226467095,
+    "wof:lastmodified":1537706898,
+    "wof:name":"Koyluce",
+    "wof:parent_id":1108709429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5869,
+    38.88217,
+    28.5869,
+    38.88217
+],
+  "geometry": {"coordinates":[28.5869,38.88217],"type":"Point"}
+}

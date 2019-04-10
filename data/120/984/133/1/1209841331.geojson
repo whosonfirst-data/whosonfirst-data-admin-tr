@@ -1,0 +1,67 @@
+{
+  "id": 1209841331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.20611,37.45472,42.20611,37.45472",
+    "geom:latitude":37.45472,
+    "geom:longitude":42.20611,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Serde",
+    "gn:country_code":"TR",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438717,
+    "gn:latitude":37.45472,
+    "gn:longitude":42.20611,
+    "gn:modification_date":"2005-04-23",
+    "gn:name":"Serde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890460285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438717
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ad5e812e6bc8bc4223e70dd2b350fe85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460285,
+            "locality_id":1209841331,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1209841331,
+    "wof:lastmodified":1536392586,
+    "wof:name":"Serde",
+    "wof:parent_id":890460285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.20611,
+    37.45472,
+    42.20611,
+    37.45472
+],
+  "geometry": {"coordinates":[42.20611,37.45472],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1193127113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.32271,41.31665,41.32271,41.31665",
+    "geom:latitude":41.31665,
+    "geom:longitude":41.32271,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Konakli",
+    "gn:country_code":"TR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737764,
+    "gn:latitude":41.31665,
+    "gn:longitude":41.32271,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Konakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Konakl\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Kordelit"
+    ],
+    "name:und_x_variant":[
+        "Konak",
+        "Yemi\u015flik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890461623
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8742fe91ebc57556811a6418ed4178f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461623,
+            "locality_id":1193127113,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1193127113,
+    "wof:lastmodified":1537707639,
+    "wof:name":"Konakli",
+    "wof:parent_id":890461623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.32271,
+    41.31665,
+    41.32271,
+    41.31665
+],
+  "geometry": {"coordinates":[41.32271,41.31665],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890463147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70875,36.89046,30.70875,36.89046",
+    "geom:latitude":36.89046,
+    "geom:longitude":30.70875,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Balabey",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:photos":19,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":19,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        101912923,
+        1108709753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8073937,
+        "gp:id":55871312,
+        "qs:id":72009
+    },
+    "wof:country":"TR",
+    "wof:created":1469053419,
+    "wof:geomhash":"968705ea2721dc666f82c3cc0cf450bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709753,
+            "locality_id":101912923,
+            "neighbourhood_id":890463147,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":890463147,
+    "wof:lastmodified":1505343692,
+    "wof:name":"Balabey",
+    "wof:parent_id":101912923,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70875,
+    36.89046,
+    30.70875,
+    36.89046
+],
+  "geometry": {"coordinates":[30.70875,36.89046],"type":"Point"}
+}

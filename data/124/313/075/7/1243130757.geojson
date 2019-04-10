@@ -1,0 +1,70 @@
+{
+  "id": 1243130757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28844,38.08614,39.28844,38.08614",
+    "geom:latitude":38.08614,
+    "geom:longitude":39.28844,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Korudag",
+    "gn:country_code":"TR",
+    "gn:dem":796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306395,
+    "gn:latitude":38.08614,
+    "gn:longitude":39.28844,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Koruda\u011f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Koruda\u011f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108710061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306395
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"753ba1828a8ed40113f03a0c145ccd22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710061,
+            "locality_id":1243130757,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243130757,
+    "wof:lastmodified":1537706905,
+    "wof:name":"Korudag",
+    "wof:parent_id":1108710061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28844,
+    38.08614,
+    39.28844,
+    38.08614
+],
+  "geometry": {"coordinates":[39.28844,38.08614],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259406633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21,38.86,28.21,38.86",
+    "geom:latitude":38.86,
+    "geom:longitude":28.21,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Balikli",
+    "gn:country_code":"TR",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322154,
+    "gn:latitude":38.86,
+    "gn:longitude":28.21,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Bal\u0131kl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322154
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f12d50e3ebb97db1459afee070018332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709543,
+            "locality_id":1259406633,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1259406633,
+    "wof:lastmodified":1536968928,
+    "wof:name":"Balikli",
+    "wof:parent_id":1108709543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21,
+    38.86,
+    28.21,
+    38.86
+],
+  "geometry": {"coordinates":[28.21,38.86],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259349553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63784,39.54189,31.63784,39.54189",
+    "geom:latitude":39.54189,
+    "geom:longitude":31.63784,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Koltan",
+    "gn:country_code":"TR",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306709,
+    "gn:latitude":39.54189,
+    "gn:longitude":31.63784,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Koltan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890460831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306709
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85cd06b483302c2b93ac55dba0ea5b26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460831,
+            "locality_id":1259349553,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1259349553,
+    "wof:lastmodified":1537049141,
+    "wof:name":"Koltan",
+    "wof:parent_id":890460831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63784,
+    39.54189,
+    31.63784,
+    39.54189
+],
+  "geometry": {"coordinates":[31.63784,39.54189],"type":"Point"}
+}

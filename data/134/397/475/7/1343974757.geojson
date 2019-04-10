@@ -1,0 +1,70 @@
+{
+  "id": 1343974757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77307,41.53501,35.77307,41.53501",
+    "geom:latitude":41.53501,
+    "geom:longitude":35.77307,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Azay",
+    "gn:country_code":"TR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698235,
+    "gn:latitude":41.53501,
+    "gn:longitude":35.77307,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Azay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Azay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698235
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff1d5f3ebef04cc685f576b3e7d9d613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709339,
+            "locality_id":1343974757,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1343974757,
+    "wof:lastmodified":1537708268,
+    "wof:name":"Azay",
+    "wof:parent_id":1108709339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77307000000001,
+    41.53501,
+    35.77307000000001,
+    41.53501
+],
+  "geometry": {"coordinates":[35.77307000000001,41.53501],"type":"Point"}
+}

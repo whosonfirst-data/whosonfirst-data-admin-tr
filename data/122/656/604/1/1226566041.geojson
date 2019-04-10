@@ -1,0 +1,67 @@
+{
+  "id": 1226566041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56897,37.86589,31.56897,37.86589",
+    "geom:latitude":37.86589,
+    "geom:longitude":31.56897,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Budak",
+    "gn:country_code":"TR",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320518,
+    "gn:latitude":37.86589,
+    "gn:longitude":31.56897,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Budak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890461133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320518
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69d4cac5502c6fd3ff583ca1f32f7cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461133,
+            "locality_id":1226566041,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1226566041,
+    "wof:lastmodified":1536968954,
+    "wof:name":"Budak",
+    "wof:parent_id":890461133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56897,
+    37.86589,
+    31.56897,
+    37.86589
+],
+  "geometry": {"coordinates":[31.56897,37.86589],"type":"Point"}
+}

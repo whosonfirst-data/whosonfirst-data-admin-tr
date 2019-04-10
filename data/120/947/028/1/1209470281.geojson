@@ -1,0 +1,68 @@
+{
+  "id": 1209470281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4858,39.22968,38.4858,39.22968",
+    "geom:latitude":39.22968,
+    "geom:longitude":38.4858,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Pegir",
+    "gn:country_code":"TR",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302775,
+    "gn:latitude":39.22968,
+    "gn:longitude":38.4858,
+    "gn:modification_date":"2009-04-05",
+    "gn:name":"Pegir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "sirakonak"
+    ],
+    "name:und_x_variant":[
+        "s\u0131rakonak",
+        "pe\u011fir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302775
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0701167ebc86ddeca6e0f57a887a59b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209470281
+        }
+    ],
+    "wof:id":1209470281,
+    "wof:lastmodified":1537706786,
+    "wof:name":"Pegir",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4858,
+    39.22968,
+    38.4858,
+    39.22968
+],
+  "geometry": {"coordinates":[38.4858,39.22968],"type":"Point"}
+}

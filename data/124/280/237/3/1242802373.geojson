@@ -1,0 +1,72 @@
+{
+  "id": 1242802373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.67545,40.33162,36.67545,40.33162",
+    "geom:latitude":40.33162,
+    "geom:longitude":36.67545,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ahmetalan",
+    "gn:country_code":"TR",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752711,
+    "gn:latitude":40.33162,
+    "gn:longitude":36.67545,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ahmetalan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahmetalan\u0131",
+        "Ahmetalan K\u00f6y\u00fc",
+        "Ahmetalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890463149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752711
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9e38d62264f45f19609b2d89db333cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463149,
+            "locality_id":1242802373,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1242802373,
+    "wof:lastmodified":1537708150,
+    "wof:name":"Ahmetalan",
+    "wof:parent_id":890463149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.67545,
+    40.33162,
+    36.67545,
+    40.33162
+],
+  "geometry": {"coordinates":[36.67545,40.33162],"type":"Point"}
+}

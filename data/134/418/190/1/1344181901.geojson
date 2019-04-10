@@ -1,0 +1,67 @@
+{
+  "id": 1344181901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.15722,37.63278,43.15722,37.63278",
+    "geom:latitude":37.63278,
+    "geom:longitude":43.15722,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Baklan",
+    "gn:country_code":"TR",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322252,
+    "gn:latitude":37.63278,
+    "gn:longitude":43.15722,
+    "gn:modification_date":"2005-04-23",
+    "gn:name":"Baklan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        1108709387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322252
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2865749e19e87a76c6d3d32cc2df1920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709387,
+            "locality_id":1344181901,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1344181901,
+    "wof:lastmodified":1536700655,
+    "wof:name":"Baklan",
+    "wof:parent_id":1108709387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.15722,
+    37.63278,
+    43.15722,
+    37.63278
+],
+  "geometry": {"coordinates":[43.15722,37.63278],"type":"Point"}
+}

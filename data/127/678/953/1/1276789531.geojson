@@ -1,0 +1,70 @@
+{
+  "id": 1276789531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84574,39.25662,27.84574,39.25662",
+    "geom:latitude":39.25662,
+    "geom:longitude":27.84574,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Sakarli",
+    "gn:country_code":"TR",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9985958,
+    "gn:latitude":39.25662,
+    "gn:longitude":27.84574,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Sakarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sakarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9985958
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3ef5dc41148693576bcb93ef1fee2303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709605,
+            "locality_id":1276789531,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1276789531,
+    "wof:lastmodified":1537708317,
+    "wof:name":"Sakarli",
+    "wof:parent_id":1108709605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84574000000001,
+    39.25662,
+    27.84574000000001,
+    39.25662
+],
+  "geometry": {"coordinates":[27.84574000000001,39.25662],"type":"Point"}
+}

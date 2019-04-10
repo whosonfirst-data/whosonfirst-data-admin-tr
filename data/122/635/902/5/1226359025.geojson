@@ -1,0 +1,73 @@
+{
+  "id": 1226359025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00298,36.11552,36.00298,36.11552",
+    "geom:latitude":36.11552,
+    "geom:longitude":36.00298,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Mizrakli",
+    "gn:country_code":"TR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304271,
+    "gn:latitude":36.11552,
+    "gn:longitude":36.00298,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"M\u0131zrakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "M\u0131zrakl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Myzrakly"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890463283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304271
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"40565e86eb4e108f0d2e75b7951160e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463283,
+            "locality_id":1226359025,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1226359025,
+    "wof:lastmodified":1537706835,
+    "wof:name":"Mizrakli",
+    "wof:parent_id":890463283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00298,
+    36.11552,
+    36.00298,
+    36.11552
+],
+  "geometry": {"coordinates":[36.00298,36.11552],"type":"Point"}
+}

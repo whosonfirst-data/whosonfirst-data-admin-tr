@@ -1,0 +1,65 @@
+{
+  "id": 1209057701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71849,38.67187,35.71849,38.67187",
+    "geom:latitude":38.67187,
+    "geom:longitude":35.71849,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Catakdere",
+    "gn:country_code":"TR",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319331,
+    "gn:latitude":38.67187,
+    "gn:longitude":35.71849,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7atakdere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dikir",
+        "\u00c7atakdere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319331
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9f4ff5c2ca2274b8f38bc9a323122d75",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209057701
+        }
+    ],
+    "wof:id":1209057701,
+    "wof:lastmodified":1537707314,
+    "wof:name":"Catakdere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71849,
+    38.67187,
+    35.71849,
+    38.67187
+],
+  "geometry": {"coordinates":[35.71849,38.67187],"type":"Point"}
+}

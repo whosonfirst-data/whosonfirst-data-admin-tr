@@ -1,0 +1,64 @@
+{
+  "id": 1209169201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.55566,39.77047,40.55566,39.77047",
+    "geom:latitude":39.77047,
+    "geom:longitude":40.55566,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kocbaba",
+    "gn:country_code":"TR",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306506,
+    "gn:latitude":39.77047,
+    "gn:longitude":40.55566,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ko\u00e7baba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ko\u00e7baba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306506
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bccb882a85dac0ba72f73930edc4ee87",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209169201
+        }
+    ],
+    "wof:id":1209169201,
+    "wof:lastmodified":1537706908,
+    "wof:name":"Kocbaba",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.55566,
+    39.77047,
+    40.55566,
+    39.77047
+],
+  "geometry": {"coordinates":[40.55566,39.77047],"type":"Point"}
+}

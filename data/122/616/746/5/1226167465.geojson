@@ -1,0 +1,74 @@
+{
+  "id": 1226167465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22975,36.28794,36.22975,36.28794",
+    "geom:latitude":36.28794,
+    "geom:longitude":36.22975,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Akcaova",
+    "gn:country_code":"TR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325476,
+    "gn:latitude":36.28794,
+    "gn:longitude":36.22975,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ak\u00e7aova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karas\u00fcleymanl\u0131",
+        "Acerk\u00f6y Kara S\u00fcleymanl\u0131",
+        "Acar",
+        "Acarkaras\u00fcleymanl\u0131",
+        "Ak\u00e7aova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325476
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da7c1461d17f92c1777605a3380a4eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461775,
+            "locality_id":1226167465,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1226167465,
+    "wof:lastmodified":1537707512,
+    "wof:name":"Akcaova",
+    "wof:parent_id":890461775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22975,
+    36.28794,
+    36.22975,
+    36.28794
+],
+  "geometry": {"coordinates":[36.22975,36.28794],"type":"Point"}
+}

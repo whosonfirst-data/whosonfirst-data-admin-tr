@@ -1,0 +1,76 @@
+{
+  "id": 1310430853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78679,37.75851,41.78679,37.75851",
+    "geom:latitude":37.75851,
+    "geom:longitude":41.78679,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Tatli",
+    "gn:country_code":"TR",
+    "gn:dem":548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299594,
+    "gn:latitude":37.75851,
+    "gn:longitude":41.78679,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Tatl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tatl\u0131"
+    ],
+    "name:und_x_variant":[
+        "G\u00f6zik",
+        "Gezik",
+        "G\u00f6z\u00fck",
+        "Tatl\u0131k\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299594
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d6b3a3e53d06670865bb65d3ab5032bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709683,
+            "locality_id":1310430853,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1310430853,
+    "wof:lastmodified":1537706679,
+    "wof:name":"Tatli",
+    "wof:parent_id":1108709683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78679,
+    37.75851,
+    41.78679,
+    37.75851
+],
+  "geometry": {"coordinates":[41.78679,37.75851],"type":"Point"}
+}

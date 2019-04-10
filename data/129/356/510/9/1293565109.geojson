@@ -1,0 +1,67 @@
+{
+  "id": 1293565109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34028,39.66417,26.34028,39.66417",
+    "geom:latitude":39.66417,
+    "geom:longitude":26.34028,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Arasanli",
+    "gn:country_code":"TR",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323693,
+    "gn:latitude":39.66417,
+    "gn:longitude":26.34028,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Arasanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890463243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323693
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2bccd85474963dc4fda7c4c4502b9d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463243,
+            "locality_id":1293565109,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1293565109,
+    "wof:lastmodified":1536675215,
+    "wof:name":"Arasanli",
+    "wof:parent_id":890463243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34028,
+    39.66417,
+    26.34028,
+    39.66417
+],
+  "geometry": {"coordinates":[26.34028,39.66417],"type":"Point"}
+}

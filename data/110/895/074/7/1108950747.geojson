@@ -1,0 +1,66 @@
+{
+  "id": 1108950747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8273303768,41.0382061052,28.8273303768,41.0382061052",
+    "geom:latitude":41.038206,
+    "geom:longitude":28.82733,
+    "iso:country":"TR",
+    "lbl:latitude":41.038206,
+    "lbl:longitude":28.82733,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "G\u00fcne\u015fli"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912683,
+        890464319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368614,
+    "wof:geomhash":"86b03d836dd76281668313819c8743df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464319,
+            "locality_id":101912683,
+            "neighbourhood_id":1108950747,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950747,
+    "wof:lastmodified":1497292380,
+    "wof:name":"Gunesli",
+    "wof:parent_id":101912683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.82733037679176,
+    41.03820610517171,
+    28.82733037679176,
+    41.03820610517171
+],
+  "geometry": {"coordinates":[28.82733037679176,41.03820610517171],"type":"Point"}
+}

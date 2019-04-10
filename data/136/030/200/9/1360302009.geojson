@@ -1,0 +1,73 @@
+{
+  "id": 1360302009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.56368,38.76444,41.56368,38.76444",
+    "geom:latitude":38.76444,
+    "geom:longitude":41.56368,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Ucdere",
+    "gn:country_code":"TR",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303673,
+    "gn:latitude":38.76444,
+    "gn:longitude":41.56368,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u00dc\u00e7dere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00dc\u00e7dere"
+    ],
+    "name:und_x_variant":[
+        "O\u011fonk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890461239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303673
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ae3d8cc7acbf23d7db2dc6a4984d648b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461239,
+            "locality_id":1360302009,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1360302009,
+    "wof:lastmodified":1537706814,
+    "wof:name":"Ucdere",
+    "wof:parent_id":890461239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.56368,
+    38.76444,
+    41.56368,
+    38.76444
+],
+  "geometry": {"coordinates":[41.56368,38.76444],"type":"Point"}
+}

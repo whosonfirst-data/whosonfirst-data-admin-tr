@@ -1,0 +1,76 @@
+{
+  "id": 1193002869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.63612,40.91728,41.63612,40.91728",
+    "geom:latitude":40.91728,
+    "geom:longitude":41.63612,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ogdem",
+    "gn:country_code":"TR",
+    "gn:dem":1591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":741237,
+    "gn:latitude":40.91728,
+    "gn:longitude":41.63612,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"\u00d6\u011fdem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00d6\u011fdem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u043a\u0434\u0435\u043c"
+    ],
+    "name:und_x_variant":[
+        "\u00d6\u011fdem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890461427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741237
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7e2461799c1d2b696044852fcbd065eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461427,
+            "locality_id":1193002869,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1193002869,
+    "wof:lastmodified":1537707760,
+    "wof:name":"Ogdem",
+    "wof:parent_id":890461427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.63612,
+    40.91728,
+    41.63612,
+    40.91728
+],
+  "geometry": {"coordinates":[41.63612,40.91728],"type":"Point"}
+}

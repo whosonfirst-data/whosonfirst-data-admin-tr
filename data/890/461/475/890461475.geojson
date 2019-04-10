@@ -1,0 +1,75 @@
+{
+  "id": 890461475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69264,36.89026,30.69264,36.89026",
+    "geom:latitude":36.89026,
+    "geom:longitude":30.69264,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Altindag",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        101912923,
+        1108709753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8073914,
+        "gp:id":55870683,
+        "qs:id":1337691
+    },
+    "wof:country":"TR",
+    "wof:created":1469053353,
+    "wof:geomhash":"9cf29756cd0509031ab3fc0456843f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709753,
+            "locality_id":101912923,
+            "neighbourhood_id":890461475,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":890461475,
+    "wof:lastmodified":1505343686,
+    "wof:name":"Altindag",
+    "wof:parent_id":101912923,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69264,
+    36.89026,
+    30.69264,
+    36.89026
+],
+  "geometry": {"coordinates":[30.69264,36.89026],"type":"Point"}
+}

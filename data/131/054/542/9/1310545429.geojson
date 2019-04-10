@@ -1,0 +1,67 @@
+{
+  "id": 1310545429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.72802,38.47405,26.72802,38.47405",
+    "geom:latitude":38.47405,
+    "geom:longitude":26.72802,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Toloz",
+    "gn:country_code":"TR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299059,
+    "gn:latitude":38.47405,
+    "gn:longitude":26.72802,
+    "gn:modification_date":"2016-12-19",
+    "gn:name":"Toloz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299059
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dd36715985849b0693afa61d61d03779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461745,
+            "locality_id":1310545429,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1310545429,
+    "wof:lastmodified":1536858097,
+    "wof:name":"Toloz",
+    "wof:parent_id":890461745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.72802,
+    38.47405,
+    26.72802,
+    38.47405
+],
+  "geometry": {"coordinates":[26.72802,38.47405],"type":"Point"}
+}

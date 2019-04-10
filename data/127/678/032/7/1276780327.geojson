@@ -1,0 +1,67 @@
+{
+  "id": 1276780327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95352,40.83101,32.95352,40.83101",
+    "geom:latitude":40.83101,
+    "geom:longitude":32.95352,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Aliozu",
+    "gn:country_code":"TR",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752100,
+    "gn:latitude":40.83101,
+    "gn:longitude":32.95352,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Ali\u00f6z\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890460977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752100
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4df099543745e982887af425ef5e3f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460977,
+            "locality_id":1276780327,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1276780327,
+    "wof:lastmodified":1536676979,
+    "wof:name":"Aliozu",
+    "wof:parent_id":890460977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95352,
+    40.83101,
+    32.95352,
+    40.83101
+],
+  "geometry": {"coordinates":[32.95352,40.83101],"type":"Point"}
+}

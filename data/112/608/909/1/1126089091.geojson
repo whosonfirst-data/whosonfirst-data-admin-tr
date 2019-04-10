@@ -1,0 +1,100 @@
+{
+  "id": 1126089091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89932,39.95841,32.89932,39.95841",
+    "geom:latitude":39.95841,
+    "geom:longitude":32.89932,
+    "gn:gn_country":"TR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":39.95841,
+    "gn:longitude":32.89932,
+    "iso:country":"TR",
+    "lbl:latitude":39.95841,
+    "lbl:longitude":32.89932,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Siteler"
+    ],
+    "name:unk_x_variant":[
+        "Siteler"
+    ],
+    "qs_pg:aaroncc":"TR",
+    "qs_pg:gn_country":"TR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":300622,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Siteler",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Ankara",
+    "qs_pg:photos":15,
+    "qs_pg:photos_1k":3,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":15,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1077783,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2343643,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Ankara",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679409,
+        102191569,
+        85632393,
+        890463833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300622,
+        "gp:id":2343643,
+        "qs:id":1077783,
+        "qs_pg:id":1077783
+    },
+    "wof:country":"TR",
+    "wof:created":1497313344,
+    "wof:geomhash":"61398a90be7a397ddc71ff41d712cb70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463833,
+            "locality_id":-1,
+            "neighbourhood_id":1126089091,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1126089091,
+    "wof:lastmodified":1534379469,
+    "wof:name":"Siteler",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85904155
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89932,
+    39.95841,
+    32.89932,
+    39.95841
+],
+  "geometry": {"coordinates":[32.89932,39.95841],"type":"Point"}
+}

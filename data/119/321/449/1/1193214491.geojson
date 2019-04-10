@@ -1,0 +1,76 @@
+{
+  "id": 1193214491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.94287,40.62819,42.94287,40.62819",
+    "geom:latitude":40.62819,
+    "geom:longitude":42.94287,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Karacoban",
+    "gn:country_code":"TR",
+    "gn:dem":1984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744443,
+    "gn:latitude":40.62819,
+    "gn:longitude":42.94287,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kara\u00e7oban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kara\u00e7oban"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u043e\u0431\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kara\u00e7oban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890462489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744443
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1981facda0e788ca725c890669bc5a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462489,
+            "locality_id":1193214491,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1193214491,
+    "wof:lastmodified":1537707859,
+    "wof:name":"Karacoban",
+    "wof:parent_id":890462489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.94287,
+    40.62819,
+    42.94287,
+    40.62819
+],
+  "geometry": {"coordinates":[42.94287,40.62819],"type":"Point"}
+}

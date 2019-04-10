@@ -1,0 +1,71 @@
+{
+  "id": 1260041765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2455,39.97352,34.2455,39.97352",
+    "geom:latitude":39.97352,
+    "geom:longitude":34.2455,
+    "gn:admin1_code":"19",
+    "gn:asciiname":"Ortakisla",
+    "gn:country_code":"TR",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303321,
+    "gn:latitude":39.97352,
+    "gn:longitude":34.2455,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ortak\u0131\u015fla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ortak\u00f6y",
+        "Ortak\u0131\u015fla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303321
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"df893bf8ef2d334b849999576290e238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709907,
+            "locality_id":1260041765,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1260041765,
+    "wof:lastmodified":1537706802,
+    "wof:name":"Ortakisla",
+    "wof:parent_id":1108709907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2455,
+    39.97352,
+    34.2455,
+    39.97352
+],
+  "geometry": {"coordinates":[34.2455,39.97352],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276838177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.08333,38.53333,40.08333,38.53333",
+    "geom:latitude":38.53333,
+    "geom:longitude":40.08333,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Hamil",
+    "gn:country_code":"TR",
+    "gn:dem":1381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312747,
+    "gn:latitude":38.53333,
+    "gn:longitude":40.08333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Hamil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312747
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2f5e4e2d2da85015ca677be4e23c6222",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709287,
+            "locality_id":1276838177,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1276838177,
+    "wof:lastmodified":1537093803,
+    "wof:name":"Hamil",
+    "wof:parent_id":1108709287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.08333,
+    38.53333,
+    40.08333,
+    38.53333
+],
+  "geometry": {"coordinates":[40.08333,38.53333],"type":"Point"}
+}

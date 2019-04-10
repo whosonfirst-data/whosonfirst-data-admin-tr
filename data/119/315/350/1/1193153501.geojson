@@ -1,0 +1,71 @@
+{
+  "id": 1193153501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12229,37.34485,38.12229,37.34485",
+    "geom:latitude":37.34485,
+    "geom:longitude":38.12229,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Gozenek",
+    "gn:country_code":"TR",
+    "gn:dem":526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313853,
+    "gn:latitude":37.34485,
+    "gn:longitude":38.12229,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00f6zenek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Arpatin",
+        "G\u00f6zenek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313853
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"daeb8a9edbeb9f5e31287a267e1fcd28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461643,
+            "locality_id":1193153501,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1193153501,
+    "wof:lastmodified":1537707138,
+    "wof:name":"Gozenek",
+    "wof:parent_id":890461643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12229,
+    37.34485,
+    38.12229,
+    37.34485
+],
+  "geometry": {"coordinates":[38.12229,37.34485],"type":"Point"}
+}

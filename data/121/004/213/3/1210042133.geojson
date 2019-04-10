@@ -1,0 +1,76 @@
+{
+  "id": 1210042133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66255,41.54586,34.66255,41.54586",
+    "geom:latitude":41.54586,
+    "geom:longitude":34.66255,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Yabanli",
+    "gn:country_code":"TR",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740143,
+    "gn:latitude":41.54586,
+    "gn:longitude":34.66255,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Yabanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yaban"
+    ],
+    "name:tur_x_variant":[
+        "Yabanl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Sar\u0131bekir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740143
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9cd9d33e36fd4e8c5a99bca12980dcbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709393,
+            "locality_id":1210042133,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1210042133,
+    "wof:lastmodified":1537707723,
+    "wof:name":"Yabanli",
+    "wof:parent_id":1108709393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66255,
+    41.54586,
+    34.66255,
+    41.54586
+],
+  "geometry": {"coordinates":[34.66255,41.54586],"type":"Point"}
+}

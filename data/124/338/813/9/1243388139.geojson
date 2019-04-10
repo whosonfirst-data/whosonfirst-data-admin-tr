@@ -1,0 +1,70 @@
+{
+  "id": 1243388139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.01562,37.99001,43.01562,37.99001",
+    "geom:latitude":37.99001,
+    "geom:longitude":43.01562,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Mersin",
+    "gn:country_code":"TR",
+    "gn:dem":2129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969687,
+    "gn:latitude":37.99001,
+    "gn:longitude":43.01562,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mersin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mersin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969687
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"18f6e5161771bb169991e66b78df47b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710025,
+            "locality_id":1243388139,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1243388139,
+    "wof:lastmodified":1537708179,
+    "wof:name":"Mersin",
+    "wof:parent_id":1108710025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.01562,
+    37.99001,
+    43.01562,
+    37.99001
+],
+  "geometry": {"coordinates":[43.01562,37.99001],"type":"Point"}
+}

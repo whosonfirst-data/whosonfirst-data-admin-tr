@@ -1,0 +1,71 @@
+{
+  "id": 890459929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.98806,37.3925,42.98806,37.3925",
+    "geom:latitude":37.3925,
+    "geom:longitude":42.98806,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":3372,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcnyaz\u0131"
+    ],
+    "name:unk_x_variant":[
+        "Bec\u00fc"
+    ],
+    "qs:name":"Becuh",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890462089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313635,
+        "qs:id":80092
+    },
+    "wof:country":"TR",
+    "wof:created":1469053293,
+    "wof:geomhash":"5ac0f97405c1d8e02bdcec3f84290e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462089,
+            "locality_id":890459929,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":890459929,
+    "wof:lastmodified":1505343679,
+    "wof:name":"Becuh",
+    "wof:parent_id":890462089,
+    "wof:placetype":"locality",
+    "wof:population":3372,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.98806,
+    37.3925,
+    42.98806,
+    37.3925
+],
+  "geometry": {"coordinates":[42.98806,37.3925],"type":"Point"}
+}

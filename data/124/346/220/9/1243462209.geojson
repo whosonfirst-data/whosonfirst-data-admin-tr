@@ -1,0 +1,70 @@
+{
+  "id": 1243462209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09561,37.90011,38.09561,37.90011",
+    "geom:latitude":37.90011,
+    "geom:longitude":38.09561,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Han",
+    "gn:country_code":"TR",
+    "gn:dem":1385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322043,
+    "gn:latitude":37.90011,
+    "gn:longitude":38.09561,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Han",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890460579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322043
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"939c06d406c6d41d4bba07606b580460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460579,
+            "locality_id":1243462209,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1243462209,
+    "wof:lastmodified":1537707399,
+    "wof:name":"Han",
+    "wof:parent_id":890460579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09561,
+    37.90011,
+    38.09561,
+    37.90011
+],
+  "geometry": {"coordinates":[38.09561,37.90011],"type":"Point"}
+}

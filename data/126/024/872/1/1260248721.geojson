@@ -1,0 +1,67 @@
+{
+  "id": 1260248721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40713,39.89377,30.40713,39.89377",
+    "geom:latitude":39.89377,
+    "geom:longitude":30.40713,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Egrioz",
+    "gn:country_code":"TR",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315885,
+    "gn:latitude":39.89377,
+    "gn:longitude":30.40713,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"E\u011fri\u00f6z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315885
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0fa89b638bd030a0c694441d85f422d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709923,
+            "locality_id":1260248721,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1260248721,
+    "wof:lastmodified":1536759217,
+    "wof:name":"Egrioz",
+    "wof:parent_id":1108709923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40713,
+    39.89377,
+    30.40713,
+    39.89377
+],
+  "geometry": {"coordinates":[30.40713,39.89377],"type":"Point"}
+}

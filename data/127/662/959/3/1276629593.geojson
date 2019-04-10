@@ -1,0 +1,74 @@
+{
+  "id": 1276629593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25109,40.31151,34.25109,40.31151",
+    "geom:latitude":40.31151,
+    "geom:longitude":34.25109,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yoruklu",
+    "gn:country_code":"TR",
+    "gn:dem":711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737148,
+    "gn:latitude":40.31151,
+    "gn:longitude":34.25109,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00f6r\u00fcklu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Y\u00f6r\u00fcklu"
+    ],
+    "name:und_x_variant":[
+        "Y\u00f6r\u00fcklu",
+        "Y\u00fcr\u00fckl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737148
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2f8d91dc36fd39e99737b4baf89a8261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709907,
+            "locality_id":1276629593,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1276629593,
+    "wof:lastmodified":1537707611,
+    "wof:name":"Yoruklu",
+    "wof:parent_id":1108709907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25109,
+    40.31151,
+    34.25109,
+    40.31151
+],
+  "geometry": {"coordinates":[34.25109,40.31151],"type":"Point"}
+}

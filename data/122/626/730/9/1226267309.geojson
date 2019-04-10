@@ -1,0 +1,70 @@
+{
+  "id": 1226267309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.20333,40.97165,30.20333,40.97165",
+    "geom:latitude":40.97165,
+    "geom:longitude":30.20333,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Seyitaliler",
+    "gn:country_code":"TR",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383522,
+    "gn:latitude":40.97165,
+    "gn:longitude":30.20333,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Seyitaliler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Seyitaliler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890463605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383522
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7c828ebbf8d03a75489fdaff7a11c395",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463605,
+            "locality_id":1226267309,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1226267309,
+    "wof:lastmodified":1537708289,
+    "wof:name":"Seyitaliler",
+    "wof:parent_id":890463605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.20333,
+    40.97165,
+    30.20333,
+    40.97165
+],
+  "geometry": {"coordinates":[30.20333,40.97165],"type":"Point"}
+}

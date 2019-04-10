@@ -1,0 +1,67 @@
+{
+  "id": 1344273843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53333,37.68333,36.53333,37.68333",
+    "geom:latitude":37.68333,
+    "geom:longitude":36.53333,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Ahmetli",
+    "gn:country_code":"TR",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325070,
+    "gn:latitude":37.68333,
+    "gn:longitude":36.53333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ahmetli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        890464105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325070
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fb783e37b7902a4b532b09fec1a6beba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464105,
+            "locality_id":1344273843,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1344273843,
+    "wof:lastmodified":1537062041,
+    "wof:name":"Ahmetli",
+    "wof:parent_id":890464105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53333,
+    37.68333,
+    36.53333,
+    37.68333
+],
+  "geometry": {"coordinates":[36.53333,37.68333],"type":"Point"}
+}

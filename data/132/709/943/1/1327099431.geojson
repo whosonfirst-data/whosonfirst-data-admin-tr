@@ -1,0 +1,74 @@
+{
+  "id": 1327099431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.44028,40.89355,34.44028,40.89355",
+    "geom:latitude":40.89355,
+    "geom:longitude":34.44028,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Asagi Seyhler",
+    "gn:country_code":"TR",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739722,
+    "gn:latitude":40.89355,
+    "gn:longitude":34.44028,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"A\u015fa\u011f\u0131 \u015eeyhler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 \u015eeyhler"
+    ],
+    "name:und_x_variant":[
+        "\u015e\u0131hlar K\u00f6y\u00fc",
+        "\u015eeyhler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739722
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f4a4881b77b82b5c9d301b7bea373133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709215,
+            "locality_id":1327099431,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1327099431,
+    "wof:lastmodified":1537707708,
+    "wof:name":"Asagi Seyhler",
+    "wof:parent_id":1108709215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.44028,
+    40.89355,
+    34.44028,
+    40.89355
+],
+  "geometry": {"coordinates":[34.44028,40.89355],"type":"Point"}
+}

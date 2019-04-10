@@ -1,0 +1,71 @@
+{
+  "id": 1242694473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44381,38.31945,31.44381,38.31945",
+    "geom:latitude":38.31945,
+    "geom:longitude":31.44381,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Savas",
+    "gn:country_code":"TR",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321412,
+    "gn:latitude":38.31945,
+    "gn:longitude":31.44381,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sava\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sava\u015f",
+        "Bermende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890463507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321412
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ab95977c2f6f1ff7c58c276b4242c69d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463507,
+            "locality_id":1242694473,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1242694473,
+    "wof:lastmodified":1537707378,
+    "wof:name":"Savas",
+    "wof:parent_id":890463507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44381,
+    38.31945,
+    31.44381,
+    38.31945
+],
+  "geometry": {"coordinates":[31.44381,38.31945],"type":"Point"}
+}

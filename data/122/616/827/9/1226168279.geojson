@@ -1,0 +1,73 @@
+{
+  "id": 1226168279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85366,39.86665,36.85366,39.86665",
+    "geom:latitude":39.86665,
+    "geom:longitude":36.85366,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Sabankoy",
+    "gn:country_code":"TR",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7590361,
+    "gn:latitude":39.86665,
+    "gn:longitude":36.85366,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"\u015eabank\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eabank\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "\u015eaban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7590361
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb0903ecd3853a74f0f5013e04ca5a79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1226168279,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1226168279,
+    "wof:lastmodified":1537708257,
+    "wof:name":"Sabankoy",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85366,
+    39.86665,
+    36.85366,
+    39.86665
+],
+  "geometry": {"coordinates":[36.85366,39.86665],"type":"Point"}
+}

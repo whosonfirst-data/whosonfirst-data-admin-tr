@@ -1,0 +1,76 @@
+{
+  "id": 1276210491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.74667,37.82444,27.74667,37.82444",
+    "geom:latitude":37.82444,
+    "geom:longitude":27.74667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Acarlar",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325474,
+    "gn:latitude":37.82444,
+    "gn:longitude":27.74667,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"Acarlar",
+    "gn:population":10595,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdallar",
+        "Acarlar"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325474,
+        "wk:page":"Acarlar"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"962a9c6b4b194316988eb52cafa21e03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709209,
+            "locality_id":1276210491,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1276210491,
+    "wof:lastmodified":1537707512,
+    "wof:name":"Acarlar",
+    "wof:parent_id":1108709209,
+    "wof:placetype":"locality",
+    "wof:population":10595,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74667,
+    37.82444,
+    27.74667,
+    37.82444
+],
+  "geometry": {"coordinates":[27.74667,37.82444],"type":"Point"}
+}

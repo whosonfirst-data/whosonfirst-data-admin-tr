@@ -1,0 +1,71 @@
+{
+  "id": 1210042151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8,41.41667,31.8,41.41667",
+    "geom:latitude":41.41667,
+    "geom:longitude":31.8,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Alaca",
+    "gn:country_code":"TR",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752273,
+    "gn:latitude":41.41667,
+    "gn:longitude":31.8,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alaca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alacak\u00f6y",
+        "Alaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        1108709749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752273
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee653534dd98e3a5db31f4242a2c2b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709749,
+            "locality_id":1210042151,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1210042151,
+    "wof:lastmodified":1537708133,
+    "wof:name":"Alaca",
+    "wof:parent_id":1108709749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8,
+    41.41667,
+    31.8,
+    41.41667
+],
+  "geometry": {"coordinates":[31.8,41.41667],"type":"Point"}
+}

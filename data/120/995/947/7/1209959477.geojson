@@ -1,0 +1,67 @@
+{
+  "id": 1209959477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23483,41.39833,33.23483,41.39833",
+    "geom:latitude":41.39833,
+    "geom:longitude":33.23483,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kurek",
+    "gn:country_code":"TR",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742186,
+    "gn:latitude":41.39833,
+    "gn:longitude":33.23483,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u00fcrek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742186
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9a69a0d315e59d81eaee0b5eb072bcc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463479,
+            "locality_id":1209959477,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1209959477,
+    "wof:lastmodified":1536375064,
+    "wof:name":"Kurek",
+    "wof:parent_id":890463479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23483,
+    41.39833,
+    33.23483,
+    41.39833
+],
+  "geometry": {"coordinates":[33.23483,41.39833],"type":"Point"}
+}

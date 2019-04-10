@@ -1,0 +1,79 @@
+{
+  "id": 1260341481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.12806,38.01611,27.12806,38.01611",
+    "geom:latitude":38.01611,
+    "geom:longitude":27.12806,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Ozdere",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302986,
+    "gn:latitude":38.01611,
+    "gn:longitude":27.12806,
+    "gn:modification_date":"2013-05-05",
+    "gn:name":"\u00d6zdere",
+    "gn:population":13500,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6zdere Cumhuriyet"
+    ],
+    "name:und_x_variant":[
+        "Kesre",
+        "\u00d6zdere"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890463865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302986,
+        "wk:page":"%C3%96zdere"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cc5f7da17ceb272c9769eed18b767da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463865,
+            "locality_id":1260341481,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1260341481,
+    "wof:lastmodified":1537706792,
+    "wof:name":"Ozdere",
+    "wof:parent_id":890463865,
+    "wof:placetype":"locality",
+    "wof:population":13500,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.12806,
+    38.01611,
+    27.12806,
+    38.01611
+],
+  "geometry": {"coordinates":[27.12806,38.01611],"type":"Point"}
+}

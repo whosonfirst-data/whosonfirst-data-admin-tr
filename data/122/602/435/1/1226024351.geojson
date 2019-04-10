@@ -1,0 +1,71 @@
+{
+  "id": 1226024351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.80064,39.44383,40.80064,39.44383",
+    "geom:latitude":39.44383,
+    "geom:longitude":40.80064,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Avlik",
+    "gn:country_code":"TR",
+    "gn:dem":2152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322896,
+    "gn:latitude":39.44383,
+    "gn:longitude":40.80064,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Avlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avlu",
+        "Avlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108710031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322896
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"305ffc680a94b7f574faa5c5e1864abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710031,
+            "locality_id":1226024351,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1226024351,
+    "wof:lastmodified":1537707426,
+    "wof:name":"Avlik",
+    "wof:parent_id":1108710031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.80064,
+    39.44383,
+    40.80064,
+    39.44383
+],
+  "geometry": {"coordinates":[40.80064,39.44383],"type":"Point"}
+}

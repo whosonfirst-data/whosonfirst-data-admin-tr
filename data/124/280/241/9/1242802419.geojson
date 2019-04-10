@@ -1,0 +1,73 @@
+{
+  "id": 1242802419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.80466,40.79812,42.80466,40.79812",
+    "geom:latitude":40.79812,
+    "geom:longitude":42.80466,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Kucuk Altinbulak",
+    "gn:country_code":"TR",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742406,
+    "gn:latitude":40.79812,
+    "gn:longitude":42.80466,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"K\u00fc\u00e7\u00fck Alt\u0131nbulak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fck Alt\u0131nbulak"
+    ],
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fckalt\u0131nbulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679511,
+        1108709521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742406
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d675553ecae485482efc553c07968fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709521,
+            "locality_id":1242802419,
+            "region_id":85679511
+        }
+    ],
+    "wof:id":1242802419,
+    "wof:lastmodified":1537707798,
+    "wof:name":"Kucuk Altinbulak",
+    "wof:parent_id":1108709521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.80466,
+    40.79812,
+    42.80466,
+    40.79812
+],
+  "geometry": {"coordinates":[42.80466,40.79812],"type":"Point"}
+}

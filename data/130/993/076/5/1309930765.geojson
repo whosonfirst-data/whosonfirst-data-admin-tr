@@ -1,0 +1,73 @@
+{
+  "id": 1309930765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.03838,39.16568,42.03838,39.16568",
+    "geom:latitude":39.16568,
+    "geom:longitude":42.03838,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Sehitveren",
+    "gn:country_code":"TR",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304055,
+    "gn:latitude":39.16568,
+    "gn:longitude":42.03838,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015eehitveren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eehitveren"
+    ],
+    "name:und_x_variant":[
+        "Musalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890463513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304055
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"40f80116aa4284048054258fd54d91e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463513,
+            "locality_id":1309930765,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1309930765,
+    "wof:lastmodified":1537706827,
+    "wof:name":"Sehitveren",
+    "wof:parent_id":890463513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.03838,
+    39.16568,
+    42.03838,
+    39.16568
+],
+  "geometry": {"coordinates":[42.03838,39.16568],"type":"Point"}
+}

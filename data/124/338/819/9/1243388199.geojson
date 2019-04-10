@@ -1,0 +1,67 @@
+{
+  "id": 1243388199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5,38.15,33.5,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":33.5,
+    "gn:admin1_code":"75",
+    "gn:asciiname":"Ihraciya Yaylasi",
+    "gn:country_code":"TR",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311655,
+    "gn:latitude":38.15,
+    "gn:longitude":33.5,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"\u0130hrac\u0131ya Yaylas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679457,
+        890462293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311655
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f022b044864d40266a312be6b79298a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462293,
+            "locality_id":1243388199,
+            "region_id":85679457
+        }
+    ],
+    "wof:id":1243388199,
+    "wof:lastmodified":1536889184,
+    "wof:name":"Ihraciya Yaylasi",
+    "wof:parent_id":890462293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5,
+    38.15,
+    33.5,
+    38.15
+],
+  "geometry": {"coordinates":[33.5,38.15],"type":"Point"}
+}

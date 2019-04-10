@@ -1,0 +1,67 @@
+{
+  "id": 1243470973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.98417,39.69806,36.98417,39.69806",
+    "geom:latitude":39.69806,
+    "geom:longitude":36.98417,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Esenyurt",
+    "gn:country_code":"TR",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315303,
+    "gn:latitude":39.69806,
+    "gn:longitude":36.98417,
+    "gn:modification_date":"2002-11-13",
+    "gn:name":"Esenyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315303
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"66017863c3a7738bf5c09c31d0d658e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1243470973,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1243470973,
+    "wof:lastmodified":1536770703,
+    "wof:name":"Esenyurt",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.98417,
+    39.69806,
+    36.98417,
+    39.69806
+],
+  "geometry": {"coordinates":[36.98417,39.69806],"type":"Point"}
+}

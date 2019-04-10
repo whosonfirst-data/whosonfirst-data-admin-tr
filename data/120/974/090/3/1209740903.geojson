@@ -1,0 +1,67 @@
+{
+  "id": 1209740903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05887,40.99847,33.05887,40.99847",
+    "geom:latitude":40.99847,
+    "geom:longitude":33.05887,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Karaoluk",
+    "gn:country_code":"TR",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7931067,
+    "gn:latitude":40.99847,
+    "gn:longitude":33.05887,
+    "gn:modification_date":"2011-08-10",
+    "gn:name":"Karaoluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890461875
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7931067
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dd94adee4ea8971965099afc5b577111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461875,
+            "locality_id":1209740903,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1209740903,
+    "wof:lastmodified":1536368425,
+    "wof:name":"Karaoluk",
+    "wof:parent_id":890461875,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05887,
+    40.99847000000001,
+    33.05887,
+    40.99847000000001
+],
+  "geometry": {"coordinates":[33.05887,40.99847000000001],"type":"Point"}
+}

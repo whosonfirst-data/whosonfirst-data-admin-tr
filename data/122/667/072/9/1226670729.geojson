@@ -1,0 +1,73 @@
+{
+  "id": 1226670729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.54261,40.79734,40.54261,40.79734",
+    "geom:latitude":40.79734,
+    "geom:longitude":40.54261,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ihlamur",
+    "gn:country_code":"TR",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7554806,
+    "gn:latitude":40.79734,
+    "gn:longitude":40.54261,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Ihlamur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ihlamur"
+    ],
+    "name:und_x_variant":[
+        "Ihlamurlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        890460673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7554806
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"05ad3ee9b0d76f8536661b05b1190f4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460673,
+            "locality_id":1226670729,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1226670729,
+    "wof:lastmodified":1537708240,
+    "wof:name":"Ihlamur",
+    "wof:parent_id":890460673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.54261,
+    40.79734000000001,
+    40.54261,
+    40.79734000000001
+],
+  "geometry": {"coordinates":[40.54261,40.79734000000001],"type":"Point"}
+}

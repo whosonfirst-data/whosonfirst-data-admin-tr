@@ -1,0 +1,64 @@
+{
+  "id": 1209541277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.78902,38.29199,42.78902,38.29199",
+    "geom:latitude":38.29199,
+    "geom:longitude":42.78902,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Tatlica",
+    "gn:country_code":"TR",
+    "gn:dem":2182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6967872,
+    "gn:latitude":38.29199,
+    "gn:longitude":42.78902,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Tatlica",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tatlica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6967872
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ad5cbb2c4aefb7ad079dd28c0bfc9fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541277
+        }
+    ],
+    "wof:id":1209541277,
+    "wof:lastmodified":1537708168,
+    "wof:name":"Tatlica",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.78902,
+    38.29199000000001,
+    42.78902,
+    38.29199000000001
+],
+  "geometry": {"coordinates":[42.78902,38.29199000000001],"type":"Point"}
+}

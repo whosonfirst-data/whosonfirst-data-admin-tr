@@ -1,0 +1,70 @@
+{
+  "id": 1310617625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2601,36.43056,29.2601,36.43056",
+    "geom:latitude":36.43056,
+    "geom:longitude":29.2601,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Yelken",
+    "gn:country_code":"TR",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10248636,
+    "gn:latitude":36.43056,
+    "gn:longitude":29.2601,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Yelken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yelken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10248636
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7e80699b57da0d1ce7977d4e5f665fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":1310617625,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1310617625,
+    "wof:lastmodified":1537708361,
+    "wof:name":"Yelken",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2601,
+    36.43056,
+    29.2601,
+    36.43056
+],
+  "geometry": {"coordinates":[29.2601,36.43056],"type":"Point"}
+}

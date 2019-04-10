@@ -1,0 +1,67 @@
+{
+  "id": 1309734827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40028,37.25778,35.40028,37.25778",
+    "geom:latitude":37.25778,
+    "geom:longitude":35.40028,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Tatik",
+    "gn:country_code":"TR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299614,
+    "gn:latitude":37.25778,
+    "gn:longitude":35.40028,
+    "gn:modification_date":"2001-02-02",
+    "gn:name":"Tat\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890461559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299614
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3bf438163334739c1002b22a2aa9b7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461559,
+            "locality_id":1309734827,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1309734827,
+    "wof:lastmodified":1537032090,
+    "wof:name":"Tatik",
+    "wof:parent_id":890461559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40028,
+    37.25778,
+    35.40028,
+    37.25778
+],
+  "geometry": {"coordinates":[35.40028,37.25778],"type":"Point"}
+}

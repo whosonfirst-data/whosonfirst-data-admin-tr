@@ -1,0 +1,71 @@
+{
+  "id": 1225870381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05157,40.48448,30.05157,40.48448",
+    "geom:latitude":40.48448,
+    "geom:longitude":30.05157,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Sehvarmaz",
+    "gn:country_code":"TR",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739700,
+    "gn:latitude":40.48448,
+    "gn:longitude":30.05157,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"\u015eehvarmaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eehvarmaz",
+        "\u015eeyhvarmaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739700
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e7802381d6f2fd44f76ea16e4d04cbe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709801,
+            "locality_id":1225870381,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1225870381,
+    "wof:lastmodified":1537707706,
+    "wof:name":"Sehvarmaz",
+    "wof:parent_id":1108709801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05157,
+    40.48448,
+    30.05157,
+    40.48448
+],
+  "geometry": {"coordinates":[30.05157,40.48448],"type":"Point"}
+}

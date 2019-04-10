@@ -1,0 +1,67 @@
+{
+  "id": 1343601539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.35583,38.48165,27.35583,38.48165",
+    "geom:latitude":38.48165,
+    "geom:longitude":27.35583,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Ulucak",
+    "gn:country_code":"TR",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298448,
+    "gn:latitude":38.48165,
+    "gn:longitude":27.35583,
+    "gn:modification_date":"2007-12-20",
+    "gn:name":"Ulucak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890464235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298448
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"435007984958552ab80037ec313bd3d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464235,
+            "locality_id":1343601539,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1343601539,
+    "wof:lastmodified":1537038365,
+    "wof:name":"Ulucak",
+    "wof:parent_id":890464235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35583,
+    38.48165,
+    27.35583,
+    38.48165
+],
+  "geometry": {"coordinates":[27.35583,38.48165],"type":"Point"}
+}

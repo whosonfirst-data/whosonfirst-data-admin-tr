@@ -1,0 +1,73 @@
+{
+  "id": 1343399201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2852,39.52079,34.2852,39.52079",
+    "geom:latitude":39.52079,
+    "geom:longitude":34.2852,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Asagihaciahmetli",
+    "gn:country_code":"TR",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312508,
+    "gn:latitude":39.52079,
+    "gn:longitude":34.2852,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u015fa\u011f\u0131hac\u0131ahmetli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00fcseyinli",
+        "Hasanl\u0131",
+        "Hasanali",
+        "A\u015fa\u011f\u0131hac\u0131ahmetli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        1108710071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312508
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"440c7b04b18e7ab9e40508cf601dc80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710071,
+            "locality_id":1343399201,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1343399201,
+    "wof:lastmodified":1537707092,
+    "wof:name":"Asagihaciahmetli",
+    "wof:parent_id":1108710071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2852,
+    39.52079000000001,
+    34.2852,
+    39.52079000000001
+],
+  "geometry": {"coordinates":[34.2852,39.52079000000001],"type":"Point"}
+}

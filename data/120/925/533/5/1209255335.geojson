@@ -1,0 +1,64 @@
+{
+  "id": 1209255335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.22972,41.19425,29.22972,41.19425",
+    "geom:latitude":41.19425,
+    "geom:longitude":29.22972,
+    "gn:admin1_code":"34",
+    "gn:asciiname":"Dagdere",
+    "gn:country_code":"TR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8623133,
+    "gn:latitude":41.19425,
+    "gn:longitude":29.22972,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Da\u011fdere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Da\u011fdere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8623133
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8d454f62a83739555de9ad9470785af3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209255335
+        }
+    ],
+    "wof:id":1209255335,
+    "wof:lastmodified":1537708303,
+    "wof:name":"Dagdere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.22972,
+    41.19425,
+    29.22972,
+    41.19425
+],
+  "geometry": {"coordinates":[29.22972,41.19425],"type":"Point"}
+}

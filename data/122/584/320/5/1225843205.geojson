@@ -1,0 +1,67 @@
+{
+  "id": 1225843205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3852,40.34139,35.3852,40.34139",
+    "geom:latitude":40.34139,
+    "geom:longitude":35.3852,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karasar",
+    "gn:country_code":"TR",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697610,
+    "gn:latitude":40.34139,
+    "gn:longitude":35.3852,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kara\u015far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890462747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697610
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"15514a0d8c19fc3399c5b03d4d1eb0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462747,
+            "locality_id":1225843205,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1225843205,
+    "wof:lastmodified":1537016663,
+    "wof:name":"Karasar",
+    "wof:parent_id":890462747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3852,
+    40.34139,
+    35.3852,
+    40.34139
+],
+  "geometry": {"coordinates":[35.3852,40.34139],"type":"Point"}
+}

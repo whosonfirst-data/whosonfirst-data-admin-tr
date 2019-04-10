@@ -1,0 +1,72 @@
+{
+  "id": 1259508833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.64467,40.07167,33.64467,40.07167",
+    "geom:latitude":40.07167,
+    "geom:longitude":33.64467,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Kabul",
+    "gn:country_code":"TR",
+    "gn:dem":999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748314,
+    "gn:latitude":40.07167,
+    "gn:longitude":33.64467,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kabul",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabil",
+        "Kabul",
+        "Dered\u00fcz\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679447,
+        1108709897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748314
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"78a10bc048b18675e0175ab562d93e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709897,
+            "locality_id":1259508833,
+            "region_id":85679447
+        }
+    ],
+    "wof:id":1259508833,
+    "wof:lastmodified":1537707990,
+    "wof:name":"Kabul",
+    "wof:parent_id":1108709897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.64467,
+    40.07167000000001,
+    33.64467,
+    40.07167000000001
+],
+  "geometry": {"coordinates":[33.64467,40.07167000000001],"type":"Point"}
+}

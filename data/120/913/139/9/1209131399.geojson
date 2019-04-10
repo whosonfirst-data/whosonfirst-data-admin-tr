@@ -1,0 +1,64 @@
+{
+  "id": 1209131399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43864,37.12352,37.43864,37.12352",
+    "geom:latitude":37.12352,
+    "geom:longitude":37.43864,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Serkenez",
+    "gn:country_code":"TR",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313706,
+    "gn:latitude":37.12352,
+    "gn:longitude":37.43864,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Serkenez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcll\u00fcce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313706
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fb05059c07e47155b2f93160525d37f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131399
+        }
+    ],
+    "wof:id":1209131399,
+    "wof:lastmodified":1537707133,
+    "wof:name":"Serkenez",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43864,
+    37.12352,
+    37.43864,
+    37.12352
+],
+  "geometry": {"coordinates":[37.43864,37.12352],"type":"Point"}
+}

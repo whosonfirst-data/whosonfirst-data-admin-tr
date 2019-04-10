@@ -1,0 +1,75 @@
+{
+  "id": 1225870307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.86667,37.98333,41.86667,37.98333",
+    "geom:latitude":37.98333,
+    "geom:longitude":41.86667,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Gundonu",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":440519,
+    "gn:latitude":37.98333,
+    "gn:longitude":41.86667,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gund\u00f6n\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gund\u00ebnyu"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcndino",
+        "Gund\u00f6n\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":440519
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b7238575be371519a2c1bc30c2e8927e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709747,
+            "locality_id":1225870307,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1225870307,
+    "wof:lastmodified":1537707584,
+    "wof:name":"Gundonu",
+    "wof:parent_id":1108709747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.86667,
+    37.98333,
+    41.86667,
+    37.98333
+],
+  "geometry": {"coordinates":[41.86667,37.98333],"type":"Point"}
+}

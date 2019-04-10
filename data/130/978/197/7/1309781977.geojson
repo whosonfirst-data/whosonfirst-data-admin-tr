@@ -1,0 +1,67 @@
+{
+  "id": 1309781977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.42514,39.73793,26.42514,39.73793",
+    "geom:latitude":39.73793,
+    "geom:longitude":26.42514,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Cetmi",
+    "gn:country_code":"TR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503297,
+    "gn:latitude":39.73793,
+    "gn:longitude":26.42514,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"\u00c7etmi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890464315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503297
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2019db1d19e8da1fabba55ffa823b8e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464315,
+            "locality_id":1309781977,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1309781977,
+    "wof:lastmodified":1536965288,
+    "wof:name":"Cetmi",
+    "wof:parent_id":890464315,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.42514000000001,
+    39.73793,
+    26.42514000000001,
+    39.73793
+],
+  "geometry": {"coordinates":[26.42514000000001,39.73793],"type":"Point"}
+}

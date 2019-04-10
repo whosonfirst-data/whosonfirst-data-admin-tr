@@ -1,0 +1,78 @@
+{
+  "id": 1242602255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51909,40.54189,36.51909,40.54189",
+    "geom:latitude":40.54189,
+    "geom:longitude":36.51909,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Sokutas",
+    "gn:country_code":"TR",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739400,
+    "gn:latitude":40.54189,
+    "gn:longitude":36.51909,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sokuta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sokuta\u015f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u0443\u0442\u0430\u0448"
+    ],
+    "name:und_x_variant":[
+        "Frenkhisar",
+        "Sern\u0131\u015f",
+        "Sokuta\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739400
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e0fe59b6fa1b74b5ee9840f5dafcf975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709485,
+            "locality_id":1242602255,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1242602255,
+    "wof:lastmodified":1537707698,
+    "wof:name":"Sokutas",
+    "wof:parent_id":1108709485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51909000000001,
+    40.54189,
+    36.51909000000001,
+    40.54189
+],
+  "geometry": {"coordinates":[36.51909000000001,40.54189],"type":"Point"}
+}

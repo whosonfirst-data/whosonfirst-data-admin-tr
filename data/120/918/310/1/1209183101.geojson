@@ -1,0 +1,65 @@
+{
+  "id": 1209183101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.31885,38.15052,40.31885,38.15052",
+    "geom:latitude":38.15052,
+    "geom:longitude":40.31885,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Balbegen",
+    "gn:country_code":"TR",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300033,
+    "gn:latitude":38.15052,
+    "gn:longitude":40.31885,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Balbe\u011fen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balbe\u011fen",
+        "Suta\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300033
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f3c9b70047b1a62c402d9d641e937b9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209183101
+        }
+    ],
+    "wof:id":1209183101,
+    "wof:lastmodified":1537706694,
+    "wof:name":"Balbegen",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.31885,
+    38.15052,
+    40.31885,
+    38.15052
+],
+  "geometry": {"coordinates":[40.31885,38.15052],"type":"Point"}
+}

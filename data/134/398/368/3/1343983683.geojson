@@ -1,0 +1,73 @@
+{
+  "id": 1343983683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.24632,40.26318,40.24632,40.26318",
+    "geom:latitude":40.26318,
+    "geom:longitude":40.24632,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Erenli",
+    "gn:country_code":"TR",
+    "gn:dem":1845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747453,
+    "gn:latitude":40.26318,
+    "gn:longitude":40.24632,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Erenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuduzar",
+        "Duduzar",
+        "Duduzlar",
+        "Erenli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679471,
+        1108709727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747453
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e8c1b4100134c6fe356f5b811e94a648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709727,
+            "locality_id":1343983683,
+            "region_id":85679471
+        }
+    ],
+    "wof:id":1343983683,
+    "wof:lastmodified":1537707962,
+    "wof:name":"Erenli",
+    "wof:parent_id":1108709727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.24632,
+    40.26318,
+    40.24632,
+    40.26318
+],
+  "geometry": {"coordinates":[40.24632,40.26318],"type":"Point"}
+}

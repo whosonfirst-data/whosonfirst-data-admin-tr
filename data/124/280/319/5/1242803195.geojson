@@ -1,0 +1,67 @@
+{
+  "id": 1242803195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55,41.28333,35.55,41.28333",
+    "geom:latitude":41.28333,
+    "geom:longitude":35.55,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Alancik",
+    "gn:country_code":"TR",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752205,
+    "gn:latitude":41.28333,
+    "gn:longitude":35.55,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Alanc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        890463729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752205
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aeaf994db56b915cf3d82314d281dabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463729,
+            "locality_id":1242803195,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1242803195,
+    "wof:lastmodified":1536738650,
+    "wof:name":"Alancik",
+    "wof:parent_id":890463729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55,
+    41.28333,
+    35.55,
+    41.28333
+],
+  "geometry": {"coordinates":[35.55,41.28333],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209439653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.82644,39.00555,34.82644,39.00555",
+    "geom:latitude":39.00555,
+    "geom:longitude":34.82644,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Topakli",
+    "gn:country_code":"TR",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":299031,
+    "gn:latitude":39.00555,
+    "gn:longitude":34.82644,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Topakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Topakl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299031
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b68c53dd8791528f80b4de6afd3394ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439653
+        }
+    ],
+    "wof:id":1209439653,
+    "wof:lastmodified":1537706661,
+    "wof:name":"Topakli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82644000000001,
+    39.00555,
+    34.82644000000001,
+    39.00555
+],
+  "geometry": {"coordinates":[34.82644000000001,39.00555],"type":"Point"}
+}

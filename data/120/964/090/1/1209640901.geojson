@@ -1,0 +1,67 @@
+{
+  "id": 1209640901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42815,41.04948,30.42815,41.04948",
+    "geom:latitude":41.04948,
+    "geom:longitude":30.42815,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ziahmet",
+    "gn:country_code":"TR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737038,
+    "gn:latitude":41.04948,
+    "gn:longitude":30.42815,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ziahmet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ziahmet"
+    ],
+    "name:tur_x_variant":[
+        "Ziyamet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737038
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1eaa0de7ff632904531cf79bd498015d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209640901
+        }
+    ],
+    "wof:id":1209640901,
+    "wof:lastmodified":1537707607,
+    "wof:name":"Ziahmet",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42815,
+    41.04948,
+    30.42815,
+    41.04948
+],
+  "geometry": {"coordinates":[30.42815,41.04948],"type":"Point"}
+}

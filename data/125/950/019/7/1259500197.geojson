@@ -1,0 +1,67 @@
+{
+  "id": 1259500197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.47361,39.64861,37.47361,39.64861",
+    "geom:latitude":39.64861,
+    "geom:longitude":37.47361,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Kabali",
+    "gn:country_code":"TR",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310979,
+    "gn:latitude":39.64861,
+    "gn:longitude":37.47361,
+    "gn:modification_date":"2002-11-13",
+    "gn:name":"Kabal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890463517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310979
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b8bca1754ccf2024f3769da05b1cbc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463517,
+            "locality_id":1259500197,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1259500197,
+    "wof:lastmodified":1536833776,
+    "wof:name":"Kabali",
+    "wof:parent_id":890463517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.47361,
+    39.64861,
+    37.47361,
+    39.64861
+],
+  "geometry": {"coordinates":[37.47361,39.64861],"type":"Point"}
+}

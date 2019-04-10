@@ -1,0 +1,74 @@
+{
+  "id": 1225818713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21916,40.74361,32.21916,40.74361",
+    "geom:latitude":40.74361,
+    "geom:longitude":32.21916,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Sapanliurgancilar",
+    "gn:country_code":"TR",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8195033,
+    "gn:latitude":40.74361,
+    "gn:longitude":32.21916,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Sapanl\u0131urganc\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sapanl\u0131urganc\u0131lar"
+    ],
+    "name:tur_x_variant":[
+        "Sapanlar",
+        "Urganc\u0131lar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8195033
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"63627d469b173d020b0101e8b145f426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462117,
+            "locality_id":1225818713,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1225818713,
+    "wof:lastmodified":1537708279,
+    "wof:name":"Sapanliurgancilar",
+    "wof:parent_id":890462117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21916,
+    40.74361,
+    32.21916,
+    40.74361
+],
+  "geometry": {"coordinates":[32.21916,40.74361],"type":"Point"}
+}

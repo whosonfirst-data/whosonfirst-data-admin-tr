@@ -1,0 +1,67 @@
+{
+  "id": 1260086529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97861,38.08972,29.97861,38.08972",
+    "geom:latitude":38.08972,
+    "geom:longitude":29.97861,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Barakli",
+    "gn:country_code":"TR",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322030,
+    "gn:latitude":38.08972,
+    "gn:longitude":29.97861,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Barakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890460145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322030
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"406c018961b5ff7002416401fadabbbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460145,
+            "locality_id":1260086529,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1260086529,
+    "wof:lastmodified":1536982839,
+    "wof:name":"Barakli",
+    "wof:parent_id":890460145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97861,
+    38.08972,
+    29.97861,
+    38.08972
+],
+  "geometry": {"coordinates":[29.97861,38.08972],"type":"Point"}
+}

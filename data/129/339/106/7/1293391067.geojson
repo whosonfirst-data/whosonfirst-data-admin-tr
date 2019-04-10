@@ -1,0 +1,73 @@
+{
+  "id": 1293391067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93401,38.67059,30.93401,38.67059",
+    "geom:latitude":38.67059,
+    "geom:longitude":30.93401,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kavukoglu Ciftligi",
+    "gn:country_code":"TR",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318833,
+    "gn:latitude":38.67059,
+    "gn:longitude":30.93401,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kavuko\u011flu \u00c7iftli\u011fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kavuko\u011flu \u00c7iftli\u011fi"
+    ],
+    "name:tur_x_variant":[
+        "\u00c7engelo\u011flu \u00c7iftli\u011fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318833
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0d4118747c0ddbae9549b9612d64b561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461843,
+            "locality_id":1293391067,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1293391067,
+    "wof:lastmodified":1537707297,
+    "wof:name":"Kavukoglu Ciftligi",
+    "wof:parent_id":890461843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93401,
+    38.67059,
+    30.93401,
+    38.67059
+],
+  "geometry": {"coordinates":[30.93401,38.67059],"type":"Point"}
+}

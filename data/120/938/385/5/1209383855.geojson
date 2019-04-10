@@ -1,0 +1,64 @@
+{
+  "id": 1209383855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.0993,38.30166,41.0993,38.30166",
+    "geom:latitude":38.30166,
+    "geom:longitude":41.0993,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Basbug",
+    "gn:country_code":"TR",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321975,
+    "gn:latitude":38.30166,
+    "gn:longitude":41.0993,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ba\u015fbu\u011f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u015fbu\u011f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321975
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dae8d1d8c6e8d539000297ab2882ca3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209383855
+        }
+    ],
+    "wof:id":1209383855,
+    "wof:lastmodified":1537707397,
+    "wof:name":"Basbug",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.0993,
+    38.30166,
+    41.0993,
+    38.30166
+],
+  "geometry": {"coordinates":[41.0993,38.30166],"type":"Point"}
+}

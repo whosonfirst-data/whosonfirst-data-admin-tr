@@ -1,0 +1,73 @@
+{
+  "id": 1242803353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.95556,37.99472,42.95556,37.99472",
+    "geom:latitude":37.99472,
+    "geom:longitude":42.95556,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Ovenler",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303071,
+    "gn:latitude":37.99472,
+    "gn:longitude":42.95556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00d6venler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kopulu",
+        "Direkori",
+        "\u00d6venler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303071
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"346e43327fb8ffa1b5d7279d9e43f947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710025,
+            "locality_id":1242803353,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1242803353,
+    "wof:lastmodified":1537706795,
+    "wof:name":"Ovenler",
+    "wof:parent_id":1108710025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.95556,
+    37.99472,
+    42.95556,
+    37.99472
+],
+  "geometry": {"coordinates":[42.95556,37.99472],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243479953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.07655,38.95548,44.07655,38.95548",
+    "geom:latitude":38.95548,
+    "geom:longitude":44.07655,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Gulyolu",
+    "gn:country_code":"TR",
+    "gn:dem":2204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443221,
+    "gn:latitude":38.95548,
+    "gn:longitude":44.07655,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"G\u00fclyolu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fclyolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443221
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6119d7cf69eb00e1c572a2c466f0df50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710011,
+            "locality_id":1243479953,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1243479953,
+    "wof:lastmodified":1537707605,
+    "wof:name":"Gulyolu",
+    "wof:parent_id":1108710011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.07655,
+    38.95548,
+    44.07655,
+    38.95548
+],
+  "geometry": {"coordinates":[44.07655,38.95548],"type":"Point"}
+}

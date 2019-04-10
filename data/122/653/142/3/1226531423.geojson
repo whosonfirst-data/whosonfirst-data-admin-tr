@@ -1,0 +1,67 @@
+{
+  "id": 1226531423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.42778,37.62833,27.42778,37.62833",
+    "geom:latitude":37.62833,
+    "geom:longitude":27.42778,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Ozbasi",
+    "gn:country_code":"TR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303010,
+    "gn:latitude":37.62833,
+    "gn:longitude":27.42778,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"\u00d6zba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890462297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303010
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c79cc9c6ba35ceb35e082efedd8c468f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462297,
+            "locality_id":1226531423,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1226531423,
+    "wof:lastmodified":1537017943,
+    "wof:name":"Ozbasi",
+    "wof:parent_id":890462297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.42778,
+    37.62833,
+    27.42778,
+    37.62833
+],
+  "geometry": {"coordinates":[27.42778,37.62833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259399347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76348,36.87819,35.76348,36.87819",
+    "geom:latitude":36.87819,
+    "geom:longitude":35.76348,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Doruk",
+    "gn:country_code":"TR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316277,
+    "gn:latitude":36.87819,
+    "gn:longitude":35.76348,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Doruk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toruk",
+        "Doruk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890460553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316277
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cb9d32f4534eea454128f56f5de1217a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460553,
+            "locality_id":1259399347,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1259399347,
+    "wof:lastmodified":1537707213,
+    "wof:name":"Doruk",
+    "wof:parent_id":890460553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76348,
+    36.87819,
+    35.76348,
+    36.87819
+],
+  "geometry": {"coordinates":[35.76348,36.87819],"type":"Point"}
+}

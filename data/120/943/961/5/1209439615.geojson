@@ -1,0 +1,65 @@
+{
+  "id": 1209439615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.42896,40.12804,37.42896,40.12804",
+    "geom:latitude":40.12804,
+    "geom:longitude":37.42896,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Basekin",
+    "gn:country_code":"TR",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751032,
+    "gn:latitude":40.12804,
+    "gn:longitude":37.42896,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ba\u015fekin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u015fekin",
+        "Ba\u015fekin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751032
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"008014c3fd2fd4a1a1d08f4c4c523f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439615
+        }
+    ],
+    "wof:id":1209439615,
+    "wof:lastmodified":1537708090,
+    "wof:name":"Basekin",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.42896,
+    40.12804000000001,
+    37.42896,
+    40.12804000000001
+],
+  "geometry": {"coordinates":[37.42896,40.12804000000001],"type":"Point"}
+}

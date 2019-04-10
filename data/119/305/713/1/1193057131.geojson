@@ -1,0 +1,67 @@
+{
+  "id": 1193057131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08333,41.31667,33.08333,41.31667",
+    "geom:latitude":41.31667,
+    "geom:longitude":33.08333,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Acemkoy",
+    "gn:country_code":"TR",
+    "gn:dem":828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752890,
+    "gn:latitude":41.31667,
+    "gn:longitude":33.08333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Acemk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890461625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752890
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ebb836751a768f4e4cdb394b6c2f7354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461625,
+            "locality_id":1193057131,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1193057131,
+    "wof:lastmodified":1536381708,
+    "wof:name":"Acemkoy",
+    "wof:parent_id":890461625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08333,
+    41.31667,
+    33.08333,
+    41.31667
+],
+  "geometry": {"coordinates":[33.08333,41.31667],"type":"Point"}
+}

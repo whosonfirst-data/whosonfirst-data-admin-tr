@@ -1,0 +1,73 @@
+{
+  "id": 1327151127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.56156,37.16445,38.56156,37.16445",
+    "geom:latitude":37.16445,
+    "geom:longitude":38.56156,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Sesigur",
+    "gn:country_code":"TR",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180801,
+    "gn:latitude":37.16445,
+    "gn:longitude":38.56156,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Sesigur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sesigur"
+    ],
+    "name:und_x_variant":[
+        "Zengyulyun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180801
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6142a51111f97b682e7754c822aa7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1327151127,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1327151127,
+    "wof:lastmodified":1537708402,
+    "wof:name":"Sesigur",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.56156,
+    37.16445,
+    38.56156,
+    37.16445
+],
+  "geometry": {"coordinates":[38.56156,37.16445],"type":"Point"}
+}

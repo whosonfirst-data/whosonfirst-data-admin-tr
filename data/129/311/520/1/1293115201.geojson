@@ -1,0 +1,70 @@
+{
+  "id": 1293115201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.75105,38.02688,42.75105,38.02688",
+    "geom:latitude":38.02688,
+    "geom:longitude":42.75105,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Konuk",
+    "gn:country_code":"TR",
+    "gn:dem":1758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969877,
+    "gn:latitude":38.02688,
+    "gn:longitude":42.75105,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Konuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Konuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108709347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969877
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7a5bf8049f95d5a8a43bdc5b2f935f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709347,
+            "locality_id":1293115201,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1293115201,
+    "wof:lastmodified":1537708181,
+    "wof:name":"Konuk",
+    "wof:parent_id":1108709347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.75105,
+    38.02688,
+    42.75105,
+    38.02688
+],
+  "geometry": {"coordinates":[42.75105,38.02688],"type":"Point"}
+}

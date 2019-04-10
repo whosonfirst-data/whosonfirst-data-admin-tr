@@ -1,0 +1,64 @@
+{
+  "id": 1209131345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1606,36.84238,36.1606,36.84238",
+    "geom:latitude":36.84238,
+    "geom:longitude":36.1606,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Kirikkopru",
+    "gn:country_code":"TR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11247983,
+    "gn:latitude":36.84238,
+    "gn:longitude":36.1606,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"K\u0131r\u0131kk\u00f6pr\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131r\u0131kk\u00f6pr\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11247983
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3dd62b3ea21c25ea954d2b9e2e60ffd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131345
+        }
+    ],
+    "wof:id":1209131345,
+    "wof:lastmodified":1537708407,
+    "wof:name":"Kirikkopru",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1606,
+    36.84238,
+    36.1606,
+    36.84238
+],
+  "geometry": {"coordinates":[36.1606,36.84238],"type":"Point"}
+}

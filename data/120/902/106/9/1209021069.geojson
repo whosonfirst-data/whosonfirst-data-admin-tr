@@ -1,0 +1,64 @@
+{
+  "id": 1209021069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31762,36.76736,29.31762,36.76736",
+    "geom:latitude":36.76736,
+    "geom:longitude":29.31762,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Cayan",
+    "gn:country_code":"TR",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10249244,
+    "gn:latitude":36.76736,
+    "gn:longitude":29.31762,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"\u00c7ayan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ayan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10249244
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c4c6f2115af1b7b1a6c31dc616b5fba4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209021069
+        }
+    ],
+    "wof:id":1209021069,
+    "wof:lastmodified":1537708362,
+    "wof:name":"Cayan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31762,
+    36.76736,
+    29.31762,
+    36.76736
+],
+  "geometry": {"coordinates":[29.31762,36.76736],"type":"Point"}
+}

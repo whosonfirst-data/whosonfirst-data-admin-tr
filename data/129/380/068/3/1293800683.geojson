@@ -1,0 +1,71 @@
+{
+  "id": 1293800683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.29326,37.05884,44.29326,37.05884",
+    "geom:latitude":37.05884,
+    "geom:longitude":44.29326,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Gurmese",
+    "gn:country_code":"TR",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312186,
+    "gn:latitude":37.05884,
+    "gn:longitude":44.29326,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fcrmese",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Herran",
+        "G\u00fcrmese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890464591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312186
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b21759ad2f05d5fd86aa89685b39740a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464591,
+            "locality_id":1293800683,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1293800683,
+    "wof:lastmodified":1537707082,
+    "wof:name":"Gurmese",
+    "wof:parent_id":890464591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.29326,
+    37.05884,
+    44.29326,
+    37.05884
+],
+  "geometry": {"coordinates":[44.29326,37.05884],"type":"Point"}
+}

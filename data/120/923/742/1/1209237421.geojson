@@ -1,0 +1,64 @@
+{
+  "id": 1209237421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48944,40.81591,30.48944,40.81591",
+    "geom:latitude":40.81591,
+    "geom:longitude":30.48944,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Solaklar",
+    "gn:country_code":"TR",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739397,
+    "gn:latitude":40.81591,
+    "gn:longitude":30.48944,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Solaklar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Solaklar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739397
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e7c4664958a0a9435ec76c96923f8b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209237421
+        }
+    ],
+    "wof:id":1209237421,
+    "wof:lastmodified":1537707697,
+    "wof:name":"Solaklar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48944,
+    40.81591,
+    30.48944,
+    40.81591
+],
+  "geometry": {"coordinates":[30.48944,40.81591],"type":"Point"}
+}

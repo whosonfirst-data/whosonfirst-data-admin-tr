@@ -1,0 +1,67 @@
+{
+  "id": 1309695331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69906,40.44035,30.69906,40.44035",
+    "geom:latitude":40.44035,
+    "geom:longitude":30.69906,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Bayalica",
+    "gn:country_code":"TR",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8183429,
+    "gn:latitude":40.44035,
+    "gn:longitude":30.69906,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Bayal\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890461159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8183429
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4a03f021e13cfec90793732bb3fafe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461159,
+            "locality_id":1309695331,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1309695331,
+    "wof:lastmodified":1537087239,
+    "wof:name":"Bayalica",
+    "wof:parent_id":890461159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69906,
+    40.44035,
+    30.69906,
+    40.44035
+],
+  "geometry": {"coordinates":[30.69906,40.44035],"type":"Point"}
+}

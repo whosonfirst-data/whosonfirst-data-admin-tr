@@ -1,0 +1,73 @@
+{
+  "id": 1209840337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25272,36.94383,36.25272,36.94383",
+    "geom:latitude":36.94383,
+    "geom:longitude":36.25272,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Baslamis",
+    "gn:country_code":"TR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321898,
+    "gn:latitude":36.94383,
+    "gn:longitude":36.25272,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Ba\u015flam\u0131\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u015flam\u0131\u015f"
+    ],
+    "name:tur_x_variant":[
+        "Bo\u015flam\u0131\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890462739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321898
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9677ae51cda9938a9fb7715b75ead8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462739,
+            "locality_id":1209840337,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1209840337,
+    "wof:lastmodified":1537707395,
+    "wof:name":"Baslamis",
+    "wof:parent_id":890462739,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25272,
+    36.94383,
+    36.25272,
+    36.94383
+],
+  "geometry": {"coordinates":[36.25272,36.94383],"type":"Point"}
+}

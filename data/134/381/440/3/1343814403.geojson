@@ -1,0 +1,67 @@
+{
+  "id": 1343814403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.50617,40.76503,26.50617,40.76503",
+    "geom:latitude":40.76503,
+    "geom:longitude":26.50617,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Karahisar",
+    "gn:country_code":"TR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744315,
+    "gn:latitude":40.76503,
+    "gn:longitude":26.50617,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karahisar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679213,
+        890463331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744315
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"29883a6afd447956ab1a622afb2f176f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463331,
+            "locality_id":1343814403,
+            "region_id":85679213
+        }
+    ],
+    "wof:id":1343814403,
+    "wof:lastmodified":1536733449,
+    "wof:name":"Karahisar",
+    "wof:parent_id":890463331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.50617,
+    40.76503,
+    26.50617,
+    40.76503
+],
+  "geometry": {"coordinates":[26.50617,40.76503],"type":"Point"}
+}

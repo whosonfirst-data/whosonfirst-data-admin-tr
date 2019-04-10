@@ -1,0 +1,67 @@
+{
+  "id": 1259709321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06907,40.17908,32.06907,40.17908",
+    "geom:latitude":40.17908,
+    "geom:longitude":32.06907,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Incepelit",
+    "gn:country_code":"TR",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745217,
+    "gn:latitude":40.17908,
+    "gn:longitude":32.06907,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"\u0130ncepelit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890461619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745217
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0cc99dd0db709416b98853ae2abf2864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461619,
+            "locality_id":1259709321,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1259709321,
+    "wof:lastmodified":1537028663,
+    "wof:name":"Incepelit",
+    "wof:parent_id":890461619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06907,
+    40.17908,
+    32.06907,
+    40.17908
+],
+  "geometry": {"coordinates":[32.06907,40.17908],"type":"Point"}
+}

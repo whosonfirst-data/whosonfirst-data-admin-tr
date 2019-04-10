@@ -1,0 +1,76 @@
+{
+  "id": 1276575323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81598,40.77943,42.81598,40.77943",
+    "geom:latitude":40.77943,
+    "geom:longitude":42.81598,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Cullu",
+    "gn:country_code":"TR",
+    "gn:dem":2242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748784,
+    "gn:latitude":40.77943,
+    "gn:longitude":42.81598,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u00c7ullu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7ullu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0443\u043b\u043b\u0443"
+    ],
+    "name:und_x_variant":[
+        "\u00c7ullu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679511,
+        1108709521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748784
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd964cda52e55fe77d625fb47118276e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709521,
+            "locality_id":1276575323,
+            "region_id":85679511
+        }
+    ],
+    "wof:id":1276575323,
+    "wof:lastmodified":1537708007,
+    "wof:name":"Cullu",
+    "wof:parent_id":1108709521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81598,
+    40.77943,
+    42.81598,
+    40.77943
+],
+  "geometry": {"coordinates":[42.81598,40.77943],"type":"Point"}
+}

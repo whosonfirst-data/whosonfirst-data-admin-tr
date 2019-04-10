@@ -1,0 +1,71 @@
+{
+  "id": 1243480133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44763,37.28964,35.44763,37.28964",
+    "geom:latitude":37.28964,
+    "geom:longitude":35.44763,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Sayca",
+    "gn:country_code":"TR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301425,
+    "gn:latitude":37.28964,
+    "gn:longitude":35.44763,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sayca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sar\u0131ca",
+        "Sayca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890464285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301425
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bd0cd765560a6b07c268e9225898b580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464285,
+            "locality_id":1243480133,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1243480133,
+    "wof:lastmodified":1537706742,
+    "wof:name":"Sayca",
+    "wof:parent_id":890464285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44763,
+    37.28964000000001,
+    35.44763,
+    37.28964000000001
+],
+  "geometry": {"coordinates":[35.44763,37.28964000000001],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226267443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.04722,39.41444,32.04722,39.41444",
+    "geom:latitude":39.41444,
+    "geom:longitude":32.04722,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Eski Karsak",
+    "gn:country_code":"TR",
+    "gn:dem":851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315244,
+    "gn:latitude":39.41444,
+    "gn:longitude":32.04722,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Eski Kar\u015fak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eski Kar\u015fak"
+    ],
+    "name:und_x_variant":[
+        "Zurk\u00e2nl\u0131",
+        "Eskikarsakl\u0131",
+        "Eskikarsak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315244
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d75e0c2275551c6c98ed2e6795593ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709821,
+            "locality_id":1226267443,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1226267443,
+    "wof:lastmodified":1537707181,
+    "wof:name":"Eski Karsak",
+    "wof:parent_id":1108709821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.04722,
+    39.41444,
+    32.04722,
+    39.41444
+],
+  "geometry": {"coordinates":[32.04722,39.41444],"type":"Point"}
+}

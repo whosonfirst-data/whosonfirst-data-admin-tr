@@ -1,0 +1,73 @@
+{
+  "id": 1225970061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6131,40.75953,33.6131,40.75953",
+    "geom:latitude":40.75953,
+    "geom:longitude":33.6131,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Ahlatkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752728,
+    "gn:latitude":40.75953,
+    "gn:longitude":33.6131,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ahlatk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ahlatk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Ahlat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        1108709731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752728
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3e976f45a80b4b71086b499db9519ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709731,
+            "locality_id":1225970061,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1225970061,
+    "wof:lastmodified":1537708151,
+    "wof:name":"Ahlatkoy",
+    "wof:parent_id":1108709731,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6131,
+    40.75953,
+    33.6131,
+    40.75953
+],
+  "geometry": {"coordinates":[33.6131,40.75953],"type":"Point"}
+}

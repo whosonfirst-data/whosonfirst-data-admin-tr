@@ -1,0 +1,75 @@
+{
+  "id": 1277153011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.99389,39.98889,26.99389,39.98889",
+    "geom:latitude":39.98889,
+    "geom:longitude":26.99389,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Hurma",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311834,
+    "gn:latitude":39.98889,
+    "gn:longitude":26.99389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hurma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burma-Koyu",
+        "Hurmak\u00f6y",
+        "Burma Keiyu",
+        "Kurmak\u00f6y",
+        "Hurma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890461697
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311834
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"417b757c2bbb6ce29154ac3ad92fc5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461697,
+            "locality_id":1277153011,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1277153011,
+    "wof:lastmodified":1537707068,
+    "wof:name":"Hurma",
+    "wof:parent_id":890461697,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.99389,
+    39.98889000000001,
+    26.99389,
+    39.98889000000001
+],
+  "geometry": {"coordinates":[26.99389,39.98889000000001],"type":"Point"}
+}

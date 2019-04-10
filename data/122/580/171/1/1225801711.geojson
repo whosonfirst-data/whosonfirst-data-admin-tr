@@ -1,0 +1,70 @@
+{
+  "id": 1225801711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.5697,38.566,40.5697,38.566",
+    "geom:latitude":38.566,
+    "geom:longitude":40.5697,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Vito",
+    "gn:country_code":"TR",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302152,
+    "gn:latitude":38.566,
+    "gn:longitude":40.5697,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vito",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eahverdiyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890462755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302152
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"00f72b90da301e51b120ecb45605a720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462755,
+            "locality_id":1225801711,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1225801711,
+    "wof:lastmodified":1537706764,
+    "wof:name":"Vito",
+    "wof:parent_id":890462755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.5697,
+    38.566,
+    40.5697,
+    38.566
+],
+  "geometry": {"coordinates":[40.5697,38.566],"type":"Point"}
+}

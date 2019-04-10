@@ -1,0 +1,70 @@
+{
+  "id": 890459411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.11139,37.255,42.11139,37.255",
+    "geom:latitude":37.255,
+    "geom:longitude":42.11139,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":742,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Bazift"
+    ],
+    "qs:name":"Katran",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":66,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890462509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308869,
+        "qs:id":547430,
+        "wk:page":"Katran"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053265,
+    "wof:geomhash":"e83c2a74f50bb63613044f18fbc22170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462509,
+            "locality_id":890459411,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":890459411,
+    "wof:lastmodified":1527793004,
+    "wof:name":"Katran",
+    "wof:parent_id":890462509,
+    "wof:placetype":"locality",
+    "wof:population":742,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.11139,
+    37.255,
+    42.11139,
+    37.255
+],
+  "geometry": {"coordinates":[42.11139,37.255],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243332545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.87372,38.16242,40.87372,38.16242",
+    "geom:latitude":38.16242,
+    "geom:longitude":40.87372,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gorduk",
+    "gn:country_code":"TR",
+    "gn:dem":778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7489918,
+    "gn:latitude":38.16242,
+    "gn:longitude":40.87372,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"G\u00f6rd\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7489918
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"73760a5f5da148e7934fead4e19338a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709881,
+            "locality_id":1243332545,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243332545,
+    "wof:lastmodified":1536969615,
+    "wof:name":"Gorduk",
+    "wof:parent_id":1108709881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.87372,
+    38.16242,
+    40.87372,
+    38.16242
+],
+  "geometry": {"coordinates":[40.87372,38.16242],"type":"Point"}
+}

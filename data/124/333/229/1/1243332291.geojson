@@ -1,0 +1,70 @@
+{
+  "id": 1243332291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.48779,41.28255,26.48779,41.28255",
+    "geom:latitude":41.28255,
+    "geom:longitude":26.48779,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Rahmanca",
+    "gn:country_code":"TR",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740504,
+    "gn:latitude":41.28255,
+    "gn:longitude":26.48779,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Rahmanca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Rahmanca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679213,
+        890461031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740504
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"046e3804b234f6aced62e7d7a90195ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461031,
+            "locality_id":1243332291,
+            "region_id":85679213
+        }
+    ],
+    "wof:id":1243332291,
+    "wof:lastmodified":1537707734,
+    "wof:name":"Rahmanca",
+    "wof:parent_id":890461031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.48779,
+    41.28255,
+    26.48779,
+    41.28255
+],
+  "geometry": {"coordinates":[26.48779,41.28255],"type":"Point"}
+}

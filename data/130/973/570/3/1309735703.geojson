@@ -1,0 +1,70 @@
+{
+  "id": 1309735703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9553,41.01065,29.9553,41.01065",
+    "geom:latitude":41.01065,
+    "geom:longitude":29.9553,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Calca",
+    "gn:country_code":"TR",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10645886,
+    "gn:latitude":41.01065,
+    "gn:longitude":29.9553,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"\u00c7alca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7alca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890463605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10645886
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e6aeccd07ede6b54f98dc3ccd64b5ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463605,
+            "locality_id":1309735703,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1309735703,
+    "wof:lastmodified":1537708389,
+    "wof:name":"Calca",
+    "wof:parent_id":890463605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9553,
+    41.01065,
+    29.9553,
+    41.01065
+],
+  "geometry": {"coordinates":[29.9553,41.01065],"type":"Point"}
+}

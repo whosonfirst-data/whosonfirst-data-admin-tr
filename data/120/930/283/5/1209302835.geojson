@@ -1,0 +1,64 @@
+{
+  "id": 1209302835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.25101,39.72578,28.25101,39.72578",
+    "geom:latitude":39.72578,
+    "geom:longitude":28.25101,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Mestanlar",
+    "gn:country_code":"TR",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551635,
+    "gn:latitude":39.72578,
+    "gn:longitude":28.25101,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Mestanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mestanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551635
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dc501dd016a4b7b695fbcb94013656c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209302835
+        }
+    ],
+    "wof:id":1209302835,
+    "wof:lastmodified":1537708301,
+    "wof:name":"Mestanlar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.25101,
+    39.72578,
+    28.25101,
+    39.72578
+],
+  "geometry": {"coordinates":[28.25101,39.72578],"type":"Point"}
+}

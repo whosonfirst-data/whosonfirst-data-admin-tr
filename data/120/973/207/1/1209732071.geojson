@@ -1,0 +1,74 @@
+{
+  "id": 1209732071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.33101,37.39465,40.33101,37.39465",
+    "geom:latitude":37.39465,
+    "geom:longitude":40.33101,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Sagmal",
+    "gn:country_code":"TR",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302219,
+    "gn:latitude":37.39465,
+    "gn:longitude":40.33101,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Sa\u011fmal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sa\u011fmal"
+    ],
+    "name:und_x_variant":[
+        "Birini",
+        "Seftek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302219
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90240aefb41c5ef2e0c542a01fbf5046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709713,
+            "locality_id":1209732071,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1209732071,
+    "wof:lastmodified":1537706767,
+    "wof:name":"Sagmal",
+    "wof:parent_id":1108709713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.33101,
+    37.39465,
+    40.33101,
+    37.39465
+],
+  "geometry": {"coordinates":[40.33101,37.39465],"type":"Point"}
+}

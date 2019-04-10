@@ -1,0 +1,76 @@
+{
+  "id": 1293558215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.87925,37.78532,40.87925,37.78532",
+    "geom:latitude":37.78532,
+    "geom:longitude":40.87925,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Asagioba",
+    "gn:country_code":"TR",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":439772,
+    "gn:latitude":37.78532,
+    "gn:longitude":40.87925,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"A\u015fa\u011f\u0131oba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131merbant"
+    ],
+    "name:tur_x_variant":[
+        "A\u015fa\u011f\u0131oba"
+    ],
+    "name:und_x_variant":[
+        "Ashagy-Merkhant"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439772
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"88ec518f30833e5af2d59756ea22549d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":1293558215,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1293558215,
+    "wof:lastmodified":1537707579,
+    "wof:name":"Asagioba",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.87925,
+    37.78532,
+    40.87925,
+    37.78532
+],
+  "geometry": {"coordinates":[40.87925,37.78532],"type":"Point"}
+}

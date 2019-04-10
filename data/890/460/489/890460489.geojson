@@ -1,0 +1,78 @@
+{
+  "id": 890460489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.60667,40.06194,38.60667,40.06194",
+    "geom:latitude":40.06194,
+    "geom:longitude":38.60667,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":4809,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "G\u00f6lova"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0433\u0432\u0430\u043d\u0438\u0441"
+    ],
+    "name:unk_x_variant":[
+        "A\u011fvanis"
+    ],
+    "qs:name":"G\u00f6lova",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":60,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108709527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746603,
+        "gp:id":2320857,
+        "qs:id":129201,
+        "wd:id":"Q1258883",
+        "wk:page":"G\u00f6lova"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053317,
+    "wof:geomhash":"1f2c29f39b40bcea9a0d06858891008d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709527,
+            "locality_id":890460489,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":890460489,
+    "wof:lastmodified":1527792911,
+    "wof:name":"G\u00f6lova",
+    "wof:parent_id":1108709527,
+    "wof:placetype":"locality",
+    "wof:population":4809,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.60667,
+    40.06194,
+    38.60667,
+    40.06194
+],
+  "geometry": {"coordinates":[38.60667,40.06194],"type":"Point"}
+}

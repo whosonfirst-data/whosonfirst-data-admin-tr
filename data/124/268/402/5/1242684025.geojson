@@ -1,0 +1,67 @@
+{
+  "id": 1242684025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68417,38.41778,30.68417,38.41778",
+    "geom:latitude":38.41778,
+    "geom:longitude":30.68417,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Icikli",
+    "gn:country_code":"TR",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311721,
+    "gn:latitude":38.41778,
+    "gn:longitude":30.68417,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"\u0130cikli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890463725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311721
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d16b682bf4d770c0abddf0d30b03286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463725,
+            "locality_id":1242684025,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1242684025,
+    "wof:lastmodified":1536910806,
+    "wof:name":"Icikli",
+    "wof:parent_id":890463725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68417,
+    38.41778,
+    30.68417,
+    38.41778
+],
+  "geometry": {"coordinates":[30.68417,38.41778],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243479217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.76831,39.59561,36.76831,39.59561",
+    "geom:latitude":39.59561,
+    "geom:longitude":36.76831,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Apa",
+    "gn:country_code":"TR",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323767,
+    "gn:latitude":39.59561,
+    "gn:longitude":36.76831,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Apa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323767
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dcbb2760b60e367a37317d776e52a3d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1243479217,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1243479217,
+    "wof:lastmodified":1536758441,
+    "wof:name":"Apa",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.76831,
+    39.59561,
+    36.76831,
+    39.59561
+],
+  "geometry": {"coordinates":[36.76831,39.59561],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360151517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4835,39.64683,31.4835,39.64683",
+    "geom:latitude":39.64683,
+    "geom:longitude":31.4835,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Karacam",
+    "gn:country_code":"TR",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310101,
+    "gn:latitude":39.64683,
+    "gn:longitude":31.4835,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Kara\u00e7am",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890463309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310101
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c88b36b39057174a2d8ae096cb377408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463309,
+            "locality_id":1360151517,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1360151517,
+    "wof:lastmodified":1536848858,
+    "wof:name":"Karacam",
+    "wof:parent_id":890463309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4835,
+    39.64683,
+    31.4835,
+    39.64683
+],
+  "geometry": {"coordinates":[31.4835,39.64683],"type":"Point"}
+}

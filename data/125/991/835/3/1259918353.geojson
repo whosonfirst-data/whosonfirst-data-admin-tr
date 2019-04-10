@@ -1,0 +1,67 @@
+{
+  "id": 1259918353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1,38.78333,35.1,38.78333",
+    "geom:latitude":38.78333,
+    "geom:longitude":35.1,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Kullu",
+    "gn:country_code":"TR",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305764,
+    "gn:latitude":38.78333,
+    "gn:longitude":35.1,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"K\u00fcll\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679321,
+        890462537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2e224e9c6dc8a63dcbb506ca8c4be962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462537,
+            "locality_id":1259918353,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":1259918353,
+    "wof:lastmodified":1536729338,
+    "wof:name":"Kullu",
+    "wof:parent_id":890462537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1,
+    38.78333,
+    35.1,
+    38.78333
+],
+  "geometry": {"coordinates":[35.1,38.78333],"type":"Point"}
+}

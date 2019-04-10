@@ -1,0 +1,61 @@
+{
+  "id": 1108950475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.911591698,40.9994070216,28.911591698,40.9994070216",
+    "geom:latitude":40.999407,
+    "geom:longitude":28.911592,
+    "iso:country":"TR",
+    "lbl:latitude":40.999407,
+    "lbl:longitude":28.911592,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890463097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368433,
+    "wof:geomhash":"58e885eb6290161c79730888c720ad59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463097,
+            "neighbourhood_id":1108950475,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950475,
+    "wof:lastmodified":1492123975,
+    "wof:name":"Telsiz",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.91159169798302,
+    40.99940702157798,
+    28.91159169798302,
+    40.99940702157798
+],
+  "geometry": {"coordinates":[28.91159169798302,40.99940702157798],"type":"Point"}
+}

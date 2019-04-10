@@ -1,0 +1,74 @@
+{
+  "id": 1209930929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.1989,39.05253,35.1989,39.05253",
+    "geom:latitude":39.05253,
+    "geom:longitude":35.1989,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Asagi Hasinli",
+    "gn:country_code":"TR",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323347,
+    "gn:latitude":39.05253,
+    "gn:longitude":35.1989,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"A\u015fa\u011f\u0131 Hasinli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Hasinli"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 Hasilli",
+        "A\u015fa\u011f\u0131 Has\u0131nl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890463279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323347
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24df0c032c294446091861b77d2682d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463279,
+            "locality_id":1209930929,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1209930929,
+    "wof:lastmodified":1537707443,
+    "wof:name":"Asagi Hasinli",
+    "wof:parent_id":890463279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.1989,
+    39.05253,
+    35.1989,
+    39.05253
+],
+  "geometry": {"coordinates":[35.1989,39.05253],"type":"Point"}
+}

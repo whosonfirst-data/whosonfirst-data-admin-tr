@@ -1,0 +1,74 @@
+{
+  "id": 1309931441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.17168,41.0641,39.17168,41.0641",
+    "geom:latitude":41.0641,
+    "geom:longitude":39.17168,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Seyitahmet",
+    "gn:country_code":"TR",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737125,
+    "gn:latitude":41.0641,
+    "gn:longitude":39.17168,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u015eeyitahmet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eeyitahmet"
+    ],
+    "name:und_x_variant":[
+        "\u015eehitahmet",
+        "Yuvabolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890464125
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737125
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"60f8d8af852a1d3fba5fe48979e4204b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464125,
+            "locality_id":1309931441,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1309931441,
+    "wof:lastmodified":1537707610,
+    "wof:name":"Seyitahmet",
+    "wof:parent_id":890464125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.17168,
+    41.0641,
+    39.17168,
+    41.0641
+],
+  "geometry": {"coordinates":[39.17168,41.0641],"type":"Point"}
+}

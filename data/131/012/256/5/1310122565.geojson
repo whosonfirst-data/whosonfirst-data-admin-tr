@@ -1,0 +1,73 @@
+{
+  "id": 1310122565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48883,41.63804,35.48883,41.63804",
+    "geom:latitude":41.63804,
+    "geom:longitude":35.48883,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kupluagiz",
+    "gn:country_code":"TR",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742213,
+    "gn:latitude":41.63804,
+    "gn:longitude":35.48883,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"K\u00fcpl\u00fca\u011f\u0131z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fcpl\u00fca\u011f\u0131z"
+    ],
+    "name:tur_x_variant":[
+        "K\u00fcpl\u00fca\u011fz\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709967
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742213
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ceef3a65261830535d4de0073dcbbdc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709967,
+            "locality_id":1310122565,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1310122565,
+    "wof:lastmodified":1537707792,
+    "wof:name":"Kupluagiz",
+    "wof:parent_id":1108709967,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48883,
+    41.63804,
+    35.48883,
+    41.63804
+],
+  "geometry": {"coordinates":[35.48883,41.63804],"type":"Point"}
+}

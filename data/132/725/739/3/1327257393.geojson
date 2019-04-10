@@ -1,0 +1,67 @@
+{
+  "id": 1327257393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51667,39.9,35.51667,39.9",
+    "geom:latitude":39.9,
+    "geom:longitude":35.51667,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Ortaoba",
+    "gn:country_code":"TR",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303264,
+    "gn:latitude":39.9,
+    "gn:longitude":35.51667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ortaoba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108710049
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303264
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b11f2655f17ff3aa0d9bb642d4d657e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710049,
+            "locality_id":1327257393,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1327257393,
+    "wof:lastmodified":1536934347,
+    "wof:name":"Ortaoba",
+    "wof:parent_id":1108710049,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51667,
+    39.9,
+    35.51667,
+    39.9
+],
+  "geometry": {"coordinates":[35.51667,39.9],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1309829819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.56344,39.00705,28.56344,39.00705",
+    "geom:latitude":39.00705,
+    "geom:longitude":28.56344,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Coruk",
+    "gn:country_code":"TR",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321017,
+    "gn:latitude":39.00705,
+    "gn:longitude":28.56344,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c7oruk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7oruk"
+    ],
+    "name:tur_x_variant":[
+        "B\u0131y\u0131klar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321017
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8790f281eff9ca3e096d3793507f8bf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709429,
+            "locality_id":1309829819,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1309829819,
+    "wof:lastmodified":1537707366,
+    "wof:name":"Coruk",
+    "wof:parent_id":1108709429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.56344,
+    39.00705,
+    28.56344,
+    39.00705
+],
+  "geometry": {"coordinates":[28.56344,39.00705],"type":"Point"}
+}

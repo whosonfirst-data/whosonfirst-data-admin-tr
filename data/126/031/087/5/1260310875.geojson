@@ -1,0 +1,73 @@
+{
+  "id": 1260310875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.92555,38.74139,36.92555,38.74139",
+    "geom:latitude":38.74139,
+    "geom:longitude":36.92555,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Gobekoren",
+    "gn:country_code":"TR",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314445,
+    "gn:latitude":38.74139,
+    "gn:longitude":36.92555,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6bek\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6pek\u00f6ren K\u00f6y\u00fc",
+        "G\u00f6bekviran",
+        "G\u00f6bekveren",
+        "G\u00f6bek\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890464133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314445
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4cc2e508bbb7cc879aa59717012975c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464133,
+            "locality_id":1260310875,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1260310875,
+    "wof:lastmodified":1537707156,
+    "wof:name":"Gobekoren",
+    "wof:parent_id":890464133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.92555,
+    38.74139,
+    36.92555,
+    38.74139
+],
+  "geometry": {"coordinates":[36.92555,38.74139],"type":"Point"}
+}

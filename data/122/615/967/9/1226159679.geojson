@@ -1,0 +1,67 @@
+{
+  "id": 1226159679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24766,40.73148,31.24766,40.73148",
+    "geom:latitude":40.73148,
+    "geom:longitude":31.24766,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Hamamustu",
+    "gn:country_code":"TR",
+    "gn:dem":594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140807,
+    "gn:latitude":40.73148,
+    "gn:longitude":31.24766,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Hamam\u00fcst\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        1108709733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140807
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dc146b7e08bee31afa50c5a193cd8fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709733,
+            "locality_id":1226159679,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1226159679,
+    "wof:lastmodified":1537055247,
+    "wof:name":"Hamamustu",
+    "wof:parent_id":1108709733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24766,
+    40.73148,
+    31.24766,
+    40.73148
+],
+  "geometry": {"coordinates":[31.24766,40.73148],"type":"Point"}
+}

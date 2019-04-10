@@ -1,0 +1,73 @@
+{
+  "id": 1193110435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60356,40.76095,31.60356,40.76095",
+    "geom:latitude":40.76095,
+    "geom:longitude":31.60356,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Saricalar",
+    "gn:country_code":"TR",
+    "gn:dem":825,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8185190,
+    "gn:latitude":40.76095,
+    "gn:longitude":31.60356,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Sar\u0131calar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sar\u0131calar"
+    ],
+    "name:tur_x_variant":[
+        "Sar\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8185190
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"acf086a593446f4c95dba26587d745a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462577,
+            "locality_id":1193110435,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1193110435,
+    "wof:lastmodified":1537708279,
+    "wof:name":"Saricalar",
+    "wof:parent_id":890462577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60356,
+    40.76095,
+    31.60356,
+    40.76095
+],
+  "geometry": {"coordinates":[31.60356,40.76095],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 85906615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000238,
+    "geom:area_square_m":2221270.652447,
+    "geom:bbox":"28.8967895508,40.9678245006,28.916015625,40.9861181248",
+    "geom:latitude":40.976594,
+    "geom:longitude":28.90515,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":40.991439,
+    "lbl:longitude":28.913904,
+    "mps:latitude":40.976747,
+    "mps:longitude":28.905334,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kazli\u00e7esme"
+    ],
+    "name:tur_x_preferred":[
+        "Kazl\u0131\u00e7e\u015fme Tren \u0130stasyonu"
+    ],
+    "name:tur_x_variant":[
+        "Kazli\u00e7esme"
+    ],
+    "name:und_x_preferred":[
+        "Kazli\u00e7esme"
+    ],
+    "name:unk_x_variant":[
+        "Kazli\u00e7esme"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Kazli\u00e7esme",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Zeytinburnu",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":5,
+    "qs:photo_sum":11,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390915,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        890463097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724160,
+        "qs:id":1109761,
+        "qs_pg:id":1109761,
+        "wd:id":"Q6089952"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"415961d2393d47b9caa12dec10eab3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463097,
+            "neighbourhood_id":85906615,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85906615,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1536864517,
+    "wof:name":"Kazlicesme",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.89678955080035,
+    40.96782450060024,
+    28.91601562500023,
+    40.9861181248253
+],
+  "geometry": {"coordinates":[[[28.903464221734,40.9861181248253],[28.90502924767509,40.98404494690004],[28.90502929690007,40.98404494690004],[28.91052246090857,40.98404494690004],[28.91052246092113,40.98404488172515],[28.91601562500023,40.97676812918125],[28.91601562500023,40.97632447905271],[28.91484694671203,40.97490044043839],[28.91333158123041,40.97365681212713],[28.91160271322389,40.97273271292489],[28.91069881916951,40.97245851966134],[28.9106767830167,40.97241729291896],[28.9105974109732,40.97226879826977],[28.90935378266192,40.97075343278813],[28.9078384171803,40.96950980447714],[28.90610954917395,40.968585705275],[28.90423361807024,40.96801664779591],[28.90228271485012,40.96782450060024],[28.90033181163,40.96801664779591],[28.89845588052663,40.968585705275],[28.89678955080035,40.96947637706998],[28.89678955080035,40.97625985689486],[28.89953613282103,40.97989800442539],[28.89953613281477,40.9798980696001],[28.89953613281352,40.98404494690004],[28.89953613282518,40.9861181248253],[28.903464221734,40.9861181248253]]],"type":"Polygon"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226823245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.30472,38.245,29.30472,38.245",
+    "geom:latitude":38.245,
+    "geom:longitude":29.30472,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Yesiloba",
+    "gn:country_code":"TR",
+    "gn:dem":701,
+    "gn:elevation":"701.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296822,
+    "gn:latitude":38.245,
+    "gn:longitude":29.30472,
+    "gn:modification_date":"2017-11-25",
+    "gn:name":"Yesiloba",
+    "gn:population":433,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Medele",
+        "Ye\u015filoba"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108709371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296822
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fb23d752086ff8fab4cc6fd76a6d20ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709371,
+            "locality_id":1226823245,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1226823245,
+    "wof:lastmodified":1537706584,
+    "wof:name":"Yesiloba",
+    "wof:parent_id":1108709371,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.30472,
+    38.245,
+    29.30472,
+    38.245
+],
+  "geometry": {"coordinates":[29.30472,38.245],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293908107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46639,38.49583,29.46639,38.49583",
+    "geom:latitude":38.49583,
+    "geom:longitude":29.46639,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Yoncali",
+    "gn:country_code":"TR",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296596,
+    "gn:latitude":38.49583,
+    "gn:longitude":29.46639,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Yoncal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        890462163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296596
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2cc208ea09c9f33cc047f823632ce1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462163,
+            "locality_id":1293908107,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1293908107,
+    "wof:lastmodified":1536677911,
+    "wof:name":"Yoncali",
+    "wof:parent_id":890462163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46639,
+    38.49583,
+    29.46639,
+    38.49583
+],
+  "geometry": {"coordinates":[29.46639,38.49583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242996207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70193,37.80611,35.70193,37.80611",
+    "geom:latitude":37.80611,
+    "geom:longitude":35.70193,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Sanz",
+    "gn:country_code":"TR",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7642975,
+    "gn:latitude":37.80611,
+    "gn:longitude":35.70193,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Sanz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890461379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7642975
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"21c8137d63c2cd23907c2594b630774e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461379,
+            "locality_id":1242996207,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1242996207,
+    "wof:lastmodified":1536957727,
+    "wof:name":"Sanz",
+    "wof:parent_id":890461379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70193,
+    37.80611,
+    35.70193,
+    37.80611
+],
+  "geometry": {"coordinates":[35.70193,37.80611],"type":"Point"}
+}

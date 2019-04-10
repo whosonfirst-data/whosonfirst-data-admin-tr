@@ -1,0 +1,72 @@
+{
+  "id": 1343815013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.70165,40.19515,41.70165,40.19515",
+    "geom:latitude":40.19515,
+    "geom:longitude":41.70165,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Bogakale",
+    "gn:country_code":"TR",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750561,
+    "gn:latitude":40.19515,
+    "gn:longitude":41.70165,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bo\u011fakale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u011fakale K\u00f6y\u00fc",
+        "Bu\u011fakale",
+        "Bo\u011fakale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750561
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"09de3f30b606bc8519dd3ec847aa6e97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709761,
+            "locality_id":1343815013,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1343815013,
+    "wof:lastmodified":1537708071,
+    "wof:name":"Bogakale",
+    "wof:parent_id":1108709761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.70165,
+    40.19515,
+    41.70165,
+    40.19515
+],
+  "geometry": {"coordinates":[41.70165,40.19515],"type":"Point"}
+}

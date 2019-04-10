@@ -1,0 +1,66 @@
+{
+  "id": 1108950035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9907890974,41.0728270602,28.9907890974,41.0728270602",
+    "geom:latitude":41.072827,
+    "geom:longitude":28.990789,
+    "iso:country":"TR",
+    "lbl:latitude":41.072827,
+    "lbl:longitude":28.990789,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Ku\u015ftepe"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912685,
+        890461743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368088,
+    "wof:geomhash":"4d46501520eb604f31b5bc6f9ef6d51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461743,
+            "locality_id":101912685,
+            "neighbourhood_id":1108950035,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950035,
+    "wof:lastmodified":1497292380,
+    "wof:name":"Kustepe",
+    "wof:parent_id":101912685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.99078909743516,
+    41.07282706015343,
+    28.99078909743516,
+    41.07282706015343
+],
+  "geometry": {"coordinates":[28.99078909743516,41.07282706015343],"type":"Point"}
+}

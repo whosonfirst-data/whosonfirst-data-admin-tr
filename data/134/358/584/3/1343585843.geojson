@@ -1,0 +1,70 @@
+{
+  "id": 1343585843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72214,40.72291,30.72214,40.72291",
+    "geom:latitude":40.72291,
+    "geom:longitude":30.72214,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Sariyer",
+    "gn:country_code":"TR",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281575,
+    "gn:latitude":40.72291,
+    "gn:longitude":30.72214,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Sar\u0131yer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sar\u0131yer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281575
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5b3e8c0bcb9d0a809b6254925cccc4ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460359,
+            "locality_id":1343585843,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1343585843,
+    "wof:lastmodified":1537708284,
+    "wof:name":"Sariyer",
+    "wof:parent_id":890460359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72214,
+    40.72291,
+    30.72214,
+    40.72291
+],
+  "geometry": {"coordinates":[30.72214,40.72291],"type":"Point"}
+}

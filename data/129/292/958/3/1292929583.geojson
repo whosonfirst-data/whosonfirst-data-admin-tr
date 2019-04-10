@@ -1,0 +1,73 @@
+{
+  "id": 1292929583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.58345,38.43558,37.58345,38.43558",
+    "geom:latitude":38.43558,
+    "geom:longitude":37.58345,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Asagi Ulupinar",
+    "gn:country_code":"TR",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323160,
+    "gn:latitude":38.43558,
+    "gn:longitude":37.58345,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"A\u015fa\u011f\u0131 Ulup\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Ulup\u0131nar"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131ulup\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        890460537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323160
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e44afd9fa6e85f61f90e236f50e99a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460537,
+            "locality_id":1292929583,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1292929583,
+    "wof:lastmodified":1537707435,
+    "wof:name":"Asagi Ulupinar",
+    "wof:parent_id":890460537,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.58345,
+    38.43558,
+    37.58345,
+    38.43558
+],
+  "geometry": {"coordinates":[37.58345,38.43558],"type":"Point"}
+}

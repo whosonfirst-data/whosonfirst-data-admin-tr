@@ -1,0 +1,67 @@
+{
+  "id": 1360085579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45276,38.92345,31.45276,38.92345",
+    "geom:latitude":38.92345,
+    "geom:longitude":31.45276,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Cevik Yaylasi",
+    "gn:country_code":"TR",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235670,
+    "gn:latitude":38.92345,
+    "gn:longitude":31.45276,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Cevik Yaylas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890462013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235670
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"30c619efd338c4d55c42d18348b029e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462013,
+            "locality_id":1360085579,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1360085579,
+    "wof:lastmodified":1536945395,
+    "wof:name":"Cevik Yaylasi",
+    "wof:parent_id":890462013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45276,
+    38.92345,
+    31.45276,
+    38.92345
+],
+  "geometry": {"coordinates":[31.45276,38.92345],"type":"Point"}
+}

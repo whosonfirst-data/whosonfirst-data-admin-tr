@@ -1,0 +1,71 @@
+{
+  "id": 1343883805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86865,41.29475,32.86865,41.29475",
+    "geom:latitude":41.29475,
+    "geom:longitude":32.86865,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Aloren",
+    "gn:country_code":"TR",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752103,
+    "gn:latitude":41.29475,
+    "gn:longitude":32.86865,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u00f6ren",
+        "Al\u0131nveren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        1108709837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752103
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b50a623a91e31514467b33edad47d2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709837,
+            "locality_id":1343883805,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1343883805,
+    "wof:lastmodified":1537708127,
+    "wof:name":"Aloren",
+    "wof:parent_id":1108709837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86865,
+    41.29475,
+    32.86865,
+    41.29475
+],
+  "geometry": {"coordinates":[32.86865,41.29475],"type":"Point"}
+}

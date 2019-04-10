@@ -1,0 +1,71 @@
+{
+  "id": 1344124213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.96386,40.84893,41.96386,40.84893",
+    "geom:latitude":40.84893,
+    "geom:longitude":41.96386,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Beskaya",
+    "gn:country_code":"TR",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750722,
+    "gn:latitude":40.84893,
+    "gn:longitude":41.96386,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Be\u015fkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parisor",
+        "Be\u015fkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750722
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bee00a77ef0cec3e62cfaba2def487a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709777,
+            "locality_id":1344124213,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1344124213,
+    "wof:lastmodified":1537708078,
+    "wof:name":"Beskaya",
+    "wof:parent_id":1108709777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.96386,
+    40.84893,
+    41.96386,
+    40.84893
+],
+  "geometry": {"coordinates":[41.96386,40.84893],"type":"Point"}
+}

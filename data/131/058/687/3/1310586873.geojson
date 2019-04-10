@@ -1,0 +1,75 @@
+{
+  "id": 1310586873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25506,36.34213,30.25506,36.34213",
+    "geom:latitude":36.34213,
+    "geom:longitude":30.25506,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kavakkoy",
+    "gn:country_code":"TR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312390,
+    "gn:latitude":36.34213,
+    "gn:longitude":30.25506,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kavakk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kavakk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Hatipk\u00f6y\u00fc",
+        "Hatip",
+        "Sar\u0131kavak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312390
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"64dfe7947d4c68fc65602aeaaf29d627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463099,
+            "locality_id":1310586873,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1310586873,
+    "wof:lastmodified":1537707088,
+    "wof:name":"Kavakkoy",
+    "wof:parent_id":890463099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25506,
+    36.34213,
+    30.25506,
+    36.34213
+],
+  "geometry": {"coordinates":[30.25506,36.34213],"type":"Point"}
+}

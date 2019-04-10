@@ -1,0 +1,70 @@
+{
+  "id": 1259905463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78196,39.35112,29.78196,39.35112",
+    "geom:latitude":39.35112,
+    "geom:longitude":29.78196,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Emrez",
+    "gn:country_code":"TR",
+    "gn:dem":1215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315571,
+    "gn:latitude":39.35112,
+    "gn:longitude":29.78196,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Emrez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Emrez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315571
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b131a5c906795bf01f9fd674c1193e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709301,
+            "locality_id":1259905463,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1259905463,
+    "wof:lastmodified":1537707192,
+    "wof:name":"Emrez",
+    "wof:parent_id":1108709301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78196,
+    39.35112,
+    29.78196,
+    39.35112
+],
+  "geometry": {"coordinates":[29.78196,39.35112],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260209087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.59583,36.87472,37.59583,36.87472",
+    "geom:latitude":36.87472,
+    "geom:longitude":37.59583,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Akchakhyuyuk",
+    "gn:country_code":"TR",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297067,
+    "gn:latitude":36.87472,
+    "gn:longitude":37.59583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akchakhyuyuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenik\u00f6y",
+        "Akchakhyuyuk",
+        "Ak\u00e7eh\u00fcy\u00fck",
+        "Ak\u00e7ah\u00fcy\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297067
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"62d68d6ec33bec82efa8cfa04fd1b4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709769,
+            "locality_id":1260209087,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1260209087,
+    "wof:lastmodified":1537706592,
+    "wof:name":"Akchakhyuyuk",
+    "wof:parent_id":1108709769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.59583,
+    36.87472,
+    37.59583,
+    36.87472
+],
+  "geometry": {"coordinates":[37.59583,36.87472],"type":"Point"}
+}

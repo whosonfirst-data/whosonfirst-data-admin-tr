@@ -1,0 +1,67 @@
+{
+  "id": 1293001647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53003,38.57583,30.53003,38.57583",
+    "geom:latitude":38.57583,
+    "geom:longitude":30.53003,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Karlik",
+    "gn:country_code":"TR",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8229845,
+    "gn:latitude":38.57583,
+    "gn:longitude":30.53003,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Karl\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890463725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8229845
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"72f96fd3c67e7065db0c6a987c7d7861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463725,
+            "locality_id":1293001647,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1293001647,
+    "wof:lastmodified":1536989590,
+    "wof:name":"Karlik",
+    "wof:parent_id":890463725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53003,
+    38.57583,
+    30.53003,
+    38.57583
+],
+  "geometry": {"coordinates":[30.53003,38.57583],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293414587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.43686,38.50656,43.43686,38.50656",
+    "geom:latitude":38.50656,
+    "geom:longitude":43.43686,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Bostanici",
+    "gn:country_code":"TR",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320823,
+    "gn:latitude":38.50656,
+    "gn:longitude":43.43686,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Bostani\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihke",
+        "Bostani\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890462703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320823
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b79d0b64fc6a93cd3be9cff3646f25c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462703,
+            "locality_id":1293414587,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1293414587,
+    "wof:lastmodified":1537707359,
+    "wof:name":"Bostanici",
+    "wof:parent_id":890462703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.43686,
+    38.50656,
+    43.43686,
+    38.50656
+],
+  "geometry": {"coordinates":[43.43686,38.50656],"type":"Point"}
+}

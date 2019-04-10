@@ -1,0 +1,62 @@
+{
+  "id": 1209353317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87061,41.27463,33.87061,41.27463",
+    "geom:latitude":41.27463,
+    "geom:longitude":33.87061,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ayvalar",
+    "gn:country_code":"TR",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751421,
+    "gn:latitude":41.27463,
+    "gn:longitude":33.87061,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ayvalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751421,
+        "wk:page":"Ayvalar%2C_Kastamonu"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6e477363a2681c107b794cd24c8485d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209353317
+        }
+    ],
+    "wof:id":1209353317,
+    "wof:lastmodified":1537574656,
+    "wof:name":"Ayvalar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87061,
+    41.27463,
+    33.87061,
+    41.27463
+],
+  "geometry": {"coordinates":[33.87061,41.27463],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1327046701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46684,41.22744,35.46684,41.22744",
+    "geom:latitude":41.22744,
+    "geom:longitude":35.46684,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Samur",
+    "gn:country_code":"TR",
+    "gn:dem":496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740260,
+    "gn:latitude":41.22744,
+    "gn:longitude":35.46684,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Samur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Semer",
+        "Semer K\u00f6y",
+        "Samur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        890463729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740260
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff01ce12e758e10d7bf177b1b9a50aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463729,
+            "locality_id":1327046701,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1327046701,
+    "wof:lastmodified":1537707727,
+    "wof:name":"Samur",
+    "wof:parent_id":890463729,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46684000000001,
+    41.22744,
+    35.46684000000001,
+    41.22744
+],
+  "geometry": {"coordinates":[35.46684000000001,41.22744],"type":"Point"}
+}

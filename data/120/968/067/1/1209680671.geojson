@@ -1,0 +1,65 @@
+{
+  "id": 1209680671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39743,40.81824,34.39743,40.81824",
+    "geom:latitude":40.81824,
+    "geom:longitude":34.39743,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Yanoglan",
+    "gn:country_code":"TR",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737987,
+    "gn:latitude":40.81824,
+    "gn:longitude":34.39743,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yano\u011flan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yano\u011flan",
+        "Yando\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737987
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e774485262d1a0d3f8fc00fdd761e00d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209680671
+        }
+    ],
+    "wof:id":1209680671,
+    "wof:lastmodified":1537707648,
+    "wof:name":"Yanoglan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39743,
+    40.81824,
+    34.39743,
+    40.81824
+],
+  "geometry": {"coordinates":[34.39743,40.81824],"type":"Point"}
+}

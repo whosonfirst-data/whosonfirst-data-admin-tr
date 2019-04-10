@@ -1,0 +1,67 @@
+{
+  "id": 1243516313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79697,40.48451,34.79697,40.48451",
+    "geom:latitude":40.48451,
+    "geom:longitude":34.79697,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Tatar",
+    "gn:country_code":"TR",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738999,
+    "gn:latitude":40.48451,
+    "gn:longitude":34.79697,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Tatar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890462433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738999
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"090728080dc71ff9ec32487413230e61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462433,
+            "locality_id":1243516313,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1243516313,
+    "wof:lastmodified":1536705166,
+    "wof:name":"Tatar",
+    "wof:parent_id":890462433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79697,
+    40.48451,
+    34.79697,
+    40.48451
+],
+  "geometry": {"coordinates":[34.79697,40.48451],"type":"Point"}
+}

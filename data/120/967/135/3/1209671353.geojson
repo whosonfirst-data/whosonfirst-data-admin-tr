@@ -1,0 +1,64 @@
+{
+  "id": 1209671353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.57711,38.72552,39.57711,38.72552",
+    "geom:latitude":38.72552,
+    "geom:longitude":39.57711,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Fahribey",
+    "gn:country_code":"TR",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315053,
+    "gn:latitude":38.72552,
+    "gn:longitude":39.57711,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Fahribey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Fahribey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315053
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3fbba835df5d1ff172c936d488f1011b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209671353
+        }
+    ],
+    "wof:id":1209671353,
+    "wof:lastmodified":1537707176,
+    "wof:name":"Fahribey",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.57711,
+    38.72552,
+    39.57711,
+    38.72552
+],
+  "geometry": {"coordinates":[39.57711,38.72552],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209541111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.08856,37.74693,44.08856,37.74693",
+    "geom:latitude":37.74693,
+    "geom:longitude":44.08856,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Yesildere",
+    "gn:country_code":"TR",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321050,
+    "gn:latitude":37.74693,
+    "gn:longitude":44.08856,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Ye\u015fildere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pirifkan",
+        "Ye\u015fildere",
+        "Biriman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321050
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"da9221781e85b2582becbef24960542e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541111
+        }
+    ],
+    "wof:id":1209541111,
+    "wof:lastmodified":1537707367,
+    "wof:name":"Yesildere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.08856,
+    37.74693,
+    44.08856,
+    37.74693
+],
+  "geometry": {"coordinates":[44.08856,37.74693],"type":"Point"}
+}

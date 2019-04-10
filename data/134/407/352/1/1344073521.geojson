@@ -1,0 +1,74 @@
+{
+  "id": 1344073521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.12081,37.35609,41.12081,37.35609",
+    "geom:latitude":37.35609,
+    "geom:longitude":41.12081,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Ikitepe",
+    "gn:country_code":"TR",
+    "gn:dem":936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308083,
+    "gn:latitude":37.35609,
+    "gn:longitude":41.12081,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u0130kitepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130kitepe"
+    ],
+    "name:und_x_variant":[
+        "Kersifar",
+        "Kersifan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108710073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308083
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"076332cdd6c702b27d1fb094a31a5bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710073,
+            "locality_id":1344073521,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1344073521,
+    "wof:lastmodified":1537706958,
+    "wof:name":"Ikitepe",
+    "wof:parent_id":1108710073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.12081,
+    37.35609,
+    41.12081,
+    37.35609
+],
+  "geometry": {"coordinates":[41.12081,37.35609],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209131299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9255,40.14881,30.9255,40.14881",
+    "geom:latitude":40.14881,
+    "geom:longitude":30.9255,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Ozankoy",
+    "gn:country_code":"TR",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740790,
+    "gn:latitude":40.14881,
+    "gn:longitude":30.9255,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ozank\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ozank\u00f6y",
+        "Ozan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740790
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0da1704dfd4dffbdd5a0557a7e9dc38d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131299
+        }
+    ],
+    "wof:id":1209131299,
+    "wof:lastmodified":1537707744,
+    "wof:name":"Ozankoy",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9255,
+    40.14881,
+    30.9255,
+    40.14881
+],
+  "geometry": {"coordinates":[30.9255,40.14881],"type":"Point"}
+}

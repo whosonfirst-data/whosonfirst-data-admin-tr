@@ -1,0 +1,71 @@
+{
+  "id": 1310623853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.58668,37.30415,39.58668,37.30415",
+    "geom:latitude":37.30415,
+    "geom:longitude":39.58668,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Elbegendi",
+    "gn:country_code":"TR",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315805,
+    "gn:latitude":37.30415,
+    "gn:longitude":39.58668,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Elbe\u011fendi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ha\u00e7\u00fck",
+        "Elbe\u011fendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315805
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"143cd0aa28263e80016432130b023acf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461923,
+            "locality_id":1310623853,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1310623853,
+    "wof:lastmodified":1537707197,
+    "wof:name":"Elbegendi",
+    "wof:parent_id":890461923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.58668,
+    37.30415,
+    39.58668,
+    37.30415
+],
+  "geometry": {"coordinates":[39.58668,37.30415],"type":"Point"}
+}

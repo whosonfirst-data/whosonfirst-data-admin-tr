@@ -1,0 +1,70 @@
+{
+  "id": 1243029365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4244,40.85199,38.4244,40.85199",
+    "geom:latitude":40.85199,
+    "geom:longitude":38.4244,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Gurkoy",
+    "gn:country_code":"TR",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7573828,
+    "gn:latitude":40.85199,
+    "gn:longitude":38.4244,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"G\u00fcrk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcrk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890460305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7573828
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"612b5f13f4726e6116070e4cf9d8c1cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460305,
+            "locality_id":1243029365,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1243029365,
+    "wof:lastmodified":1537708248,
+    "wof:name":"Gurkoy",
+    "wof:parent_id":890460305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4244,
+    40.85199,
+    38.4244,
+    40.85199
+],
+  "geometry": {"coordinates":[38.4244,40.85199],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327401253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.76501,40.40028,40.76501,40.40028",
+    "geom:latitude":40.40028,
+    "geom:longitude":40.76501,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gulcimen",
+    "gn:country_code":"TR",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750291,
+    "gn:latitude":40.40028,
+    "gn:longitude":40.76501,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"G\u00fcl\u00e7imen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcl\u00e7imen"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcl\u00fccimen",
+        "Bur\u00e7akl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890461879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750291
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ebf61e83700a6108130dc92c12dec0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461879,
+            "locality_id":1327401253,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1327401253,
+    "wof:lastmodified":1537708062,
+    "wof:name":"Gulcimen",
+    "wof:parent_id":890461879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.76501,
+    40.40028,
+    40.76501,
+    40.40028
+],
+  "geometry": {"coordinates":[40.76501,40.40028],"type":"Point"}
+}

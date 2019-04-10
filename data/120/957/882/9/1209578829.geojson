@@ -1,0 +1,65 @@
+{
+  "id": 1209578829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.14204,40.06827,27.14204,40.06827",
+    "geom:latitude":40.06827,
+    "geom:longitude":27.14204,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Maltepe",
+    "gn:country_code":"TR",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741764,
+    "gn:latitude":40.06827,
+    "gn:longitude":27.14204,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maltepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maltepe K\u00f6y\u00fc",
+        "Maltepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"820fe6d5ef445941785d6e672e7d5118",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209578829
+        }
+    ],
+    "wof:id":1209578829,
+    "wof:lastmodified":1537707777,
+    "wof:name":"Maltepe",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14204,
+    40.06827,
+    27.14204,
+    40.06827
+],
+  "geometry": {"coordinates":[27.14204,40.06827],"type":"Point"}
+}

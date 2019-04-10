@@ -1,0 +1,70 @@
+{
+  "id": 1276565213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.41302,38.58476,28.41302,38.58476",
+    "geom:latitude":38.58476,
+    "geom:longitude":28.41302,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Gulistan",
+    "gn:country_code":"TR",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9993877,
+    "gn:latitude":38.58476,
+    "gn:longitude":28.41302,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"G\u00fclistan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fclistan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890464531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9993877
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cfbec40a1619df46025be406275d70ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464531,
+            "locality_id":1276565213,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1276565213,
+    "wof:lastmodified":1537708322,
+    "wof:name":"Gulistan",
+    "wof:parent_id":890464531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.41302,
+    38.58476,
+    28.41302,
+    38.58476
+],
+  "geometry": {"coordinates":[28.41302,38.58476],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243196929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.37597,38.32514,44.37597,38.32514",
+    "geom:latitude":38.32514,
+    "geom:longitude":44.37597,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Gelenler",
+    "gn:country_code":"TR",
+    "gn:dem":2287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314693,
+    "gn:latitude":38.32514,
+    "gn:longitude":44.37597,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Gelenler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirato",
+        "Kireto",
+        "Gelenler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890460983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314693
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c530be5f1dc64c4c12f0f7f8a244e202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460983,
+            "locality_id":1243196929,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1243196929,
+    "wof:lastmodified":1537707164,
+    "wof:name":"Gelenler",
+    "wof:parent_id":890460983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.37597,
+    38.32514000000001,
+    44.37597,
+    38.32514000000001
+],
+  "geometry": {"coordinates":[44.37597,38.32514000000001],"type":"Point"}
+}

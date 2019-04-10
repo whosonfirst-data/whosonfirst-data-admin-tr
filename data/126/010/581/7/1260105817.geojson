@@ -1,0 +1,67 @@
+{
+  "id": 1260105817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.19649,38.0389,43.19649,38.0389",
+    "geom:latitude":38.0389,
+    "geom:longitude":43.19649,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Tellikaya",
+    "gn:country_code":"TR",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299385,
+    "gn:latitude":38.0389,
+    "gn:longitude":43.19649,
+    "gn:modification_date":"2009-01-30",
+    "gn:name":"Tellikaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299385
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8e1eb004b93a288f8dcc7a8906fbadda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710025,
+            "locality_id":1260105817,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1260105817,
+    "wof:lastmodified":1536955995,
+    "wof:name":"Tellikaya",
+    "wof:parent_id":1108710025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.19649,
+    38.0389,
+    43.19649,
+    38.0389
+],
+  "geometry": {"coordinates":[43.19649,38.0389],"type":"Point"}
+}

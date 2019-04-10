@@ -1,0 +1,64 @@
+{
+  "id": 1209062555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.61471,41.92456,26.61471,41.92456",
+    "geom:latitude":41.92456,
+    "geom:longitude":26.61471,
+    "gn:admin1_code":"22",
+    "gn:asciiname":"Tuglalik",
+    "gn:country_code":"TR",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10262748,
+    "gn:latitude":41.92456,
+    "gn:longitude":26.61471,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Tu\u011flal\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tu\u011flal\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10262748
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de1bb7b2b59a6110aaebef7b8762ec23",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209062555
+        }
+    ],
+    "wof:id":1209062555,
+    "wof:lastmodified":1537708373,
+    "wof:name":"Tuglalik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.61471,
+    41.92456,
+    26.61471,
+    41.92456
+],
+  "geometry": {"coordinates":[26.61471,41.92456],"type":"Point"}
+}

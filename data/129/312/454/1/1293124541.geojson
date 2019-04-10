@@ -1,0 +1,67 @@
+{
+  "id": 1293124541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61111,39.35444,32.61111,39.35444",
+    "geom:latitude":39.35444,
+    "geom:longitude":32.61111,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Karasuleymanli",
+    "gn:country_code":"TR",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309321,
+    "gn:latitude":39.35444,
+    "gn:longitude":32.61111,
+    "gn:modification_date":"2000-03-07",
+    "gn:name":"Karas\u00fcleymanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309321
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f18320feb8902a09997297fe62012f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464585,
+            "locality_id":1293124541,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1293124541,
+    "wof:lastmodified":1536812791,
+    "wof:name":"Karasuleymanli",
+    "wof:parent_id":890464585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61111,
+    39.35444,
+    32.61111,
+    39.35444
+],
+  "geometry": {"coordinates":[32.61111,39.35444],"type":"Point"}
+}

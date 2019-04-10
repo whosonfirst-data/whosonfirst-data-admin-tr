@@ -1,0 +1,81 @@
+{
+  "id": 890463409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.64976,38.54726,28.64976,38.54726",
+    "geom:latitude":38.54726,
+    "geom:longitude":28.64976,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":31100,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043b"
+    ],
+    "name:unk_x_variant":[
+        "Opsicium"
+    ],
+    "qs:name":"Kula",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Manisa",
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":230,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":208,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305810,
+        "gp:id":2344226,
+        "qs:id":1255686,
+        "wd:id":"Q1572650",
+        "wk:page":"Kula"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053429,
+    "wof:geomhash":"d67f7a48e5c49757da99d097a1984254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709679,
+            "locality_id":890463409,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":890463409,
+    "wof:lastmodified":1527729759,
+    "wof:name":"Kula",
+    "wof:parent_id":1108709679,
+    "wof:placetype":"locality",
+    "wof:population":31100,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.64976,
+    38.54726,
+    28.64976,
+    38.54726
+],
+  "geometry": {"coordinates":[28.64976,38.54726],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1327256773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.99365,37.12469,37.99365,37.12469",
+    "geom:latitude":37.12469,
+    "geom:longitude":37.99365,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Asagi Habib",
+    "gn:country_code":"TR",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537383,
+    "gn:latitude":37.12469,
+    "gn:longitude":37.99365,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"A\u015fa\u011f\u0131 Habib",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Habib"
+    ],
+    "name:tur_x_variant":[
+        "A\u015fa\u011f\u0131 Habip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890464331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537383
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bd84030ff3b334fb55f070a74d63444d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464331,
+            "locality_id":1327256773,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1327256773,
+    "wof:lastmodified":1537708227,
+    "wof:name":"Asagi Habib",
+    "wof:parent_id":890464331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.99365,
+    37.12469,
+    37.99365,
+    37.12469
+],
+  "geometry": {"coordinates":[37.99365,37.12469],"type":"Point"}
+}

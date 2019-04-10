@@ -1,0 +1,73 @@
+{
+  "id": 1209783009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.66667,40.25,40.66667,40.25",
+    "geom:latitude":40.25,
+    "geom:longitude":40.66667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Vartinik",
+    "gn:country_code":"TR",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738203,
+    "gn:latitude":40.25,
+    "gn:longitude":40.66667,
+    "gn:modification_date":"2006-08-08",
+    "gn:name":"Vartinik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Vartinik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u0442\u0438\u043d\u0438\u043a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890461605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738203
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6f8b1bdff9f1aaebf062270ce5625948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461605,
+            "locality_id":1209783009,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1209783009,
+    "wof:lastmodified":1537707657,
+    "wof:name":"Vartinik",
+    "wof:parent_id":890461605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.66667,
+    40.25,
+    40.66667,
+    40.25
+],
+  "geometry": {"coordinates":[40.66667,40.25],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310621011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.86139,36.74778,29.86139,36.74778",
+    "geom:latitude":36.74778,
+    "geom:longitude":29.86139,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kislakoy",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307474,
+    "gn:latitude":36.74778,
+    "gn:longitude":29.86139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0131\u015flak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131\u015flak\u00f6y\u00fc",
+        "K\u0131\u015fla",
+        "K\u0131\u015flak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890464317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307474
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4ba6323ead3476661718b073e27ceff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464317,
+            "locality_id":1310621011,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1310621011,
+    "wof:lastmodified":1537706940,
+    "wof:name":"Kislakoy",
+    "wof:parent_id":890464317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.86139,
+    36.74778,
+    29.86139,
+    36.74778
+],
+  "geometry": {"coordinates":[29.86139,36.74778],"type":"Point"}
+}

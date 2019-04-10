@@ -1,0 +1,67 @@
+{
+  "id": 1327456675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.4,38.2,41.4,38.2",
+    "geom:latitude":38.2,
+    "geom:longitude":41.4,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Kalkancik",
+    "gn:country_code":"TR",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295861,
+    "gn:latitude":38.2,
+    "gn:longitude":41.4,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kalkanc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295861
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f13eb1e5423076a60ec7e9edac98f2b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709675,
+            "locality_id":1327456675,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1327456675,
+    "wof:lastmodified":1536645254,
+    "wof:name":"Kalkancik",
+    "wof:parent_id":1108709675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.4,
+    38.2,
+    41.4,
+    38.2
+],
+  "geometry": {"coordinates":[41.4,38.2],"type":"Point"}
+}

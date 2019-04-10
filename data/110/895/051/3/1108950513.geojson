@@ -1,0 +1,64 @@
+{
+  "id": 1108950513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9276995352,41.0576011041,28.9276995352,41.0576011041",
+    "geom:latitude":41.057601,
+    "geom:longitude":28.9277,
+    "iso:country":"TR",
+    "lbl:latitude":41.057601,
+    "lbl:longitude":28.9277,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Karl\u0131tepe"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        890463845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368458,
+    "wof:geomhash":"a6afac01acc8ef1fcf4e821535fb72b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463845,
+            "neighbourhood_id":1108950513,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950513,
+    "wof:lastmodified":1497292380,
+    "wof:name":"Karlitepe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.92769953519963,
+    41.05760110411648,
+    28.92769953519963,
+    41.05760110411648
+],
+  "geometry": {"coordinates":[28.92769953519963,41.05760110411648],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209165875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67995,41.95058,33.67995,41.95058",
+    "geom:latitude":41.95058,
+    "geom:longitude":33.67995,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sakalar",
+    "gn:country_code":"TR",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737411,
+    "gn:latitude":41.95058,
+    "gn:longitude":33.67995,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sakalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00f6recik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737411
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e5301271f5e6a0c2e30d00947205885f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209165875
+        }
+    ],
+    "wof:id":1209165875,
+    "wof:lastmodified":1537707623,
+    "wof:name":"Sakalar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67995,
+    41.95058,
+    33.67995,
+    41.95058
+],
+  "geometry": {"coordinates":[33.67995,41.95058],"type":"Point"}
+}

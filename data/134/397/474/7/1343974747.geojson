@@ -1,0 +1,75 @@
+{
+  "id": 1343974747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97168,37.20744,34.97168,37.20744",
+    "geom:latitude":37.20744,
+    "geom:longitude":34.97168,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Demircit",
+    "gn:country_code":"TR",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316004,
+    "gn:latitude":37.20744,
+    "gn:longitude":34.97168,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Demir\u00e7it",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Demir\u00e7it"
+    ],
+    "name:und_x_variant":[
+        "Bolvatl\u0131",
+        "Eb\u00fclhadi",
+        "Demirci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890461559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316004
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2022d037a14976c993a4f60281481c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461559,
+            "locality_id":1343974747,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1343974747,
+    "wof:lastmodified":1537707204,
+    "wof:name":"Demircit",
+    "wof:parent_id":890461559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97168,
+    37.20744000000001,
+    34.97168,
+    37.20744000000001
+],
+  "geometry": {"coordinates":[34.97168,37.20744000000001],"type":"Point"}
+}

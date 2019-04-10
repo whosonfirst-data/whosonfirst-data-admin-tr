@@ -1,0 +1,72 @@
+{
+  "id": 1243578641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.1,39.25,38.1,39.25",
+    "geom:latitude":39.25,
+    "geom:longitude":38.1,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Ucpinar",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298545,
+    "gn:latitude":39.25,
+    "gn:longitude":38.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00dc\u00e7p\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dc\u00e7p\u0131nar K\u00f6y\u00fc",
+        "\u00dc\u00e7p\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298545
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"48473f35b4d9ce92311363ce4221a1e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462009,
+            "locality_id":1243578641,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1243578641,
+    "wof:lastmodified":1537706644,
+    "wof:name":"Ucpinar",
+    "wof:parent_id":890462009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.1,
+    39.25,
+    38.1,
+    39.25
+],
+  "geometry": {"coordinates":[38.1,39.25],"type":"Point"}
+}

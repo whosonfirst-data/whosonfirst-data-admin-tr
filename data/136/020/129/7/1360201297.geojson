@@ -1,0 +1,73 @@
+{
+  "id": 1360201297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.61667,38.26667,28.61667,38.26667",
+    "geom:latitude":38.26667,
+    "geom:longitude":28.61667,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Gacar",
+    "gn:country_code":"TR",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304961,
+    "gn:latitude":38.26667,
+    "gn:longitude":28.61667,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gacar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Gacar"
+    ],
+    "name:tur_x_variant":[
+        "Mahmutlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890463319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304961
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e333bb4427f00713865612281b3c4b45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463319,
+            "locality_id":1360201297,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1360201297,
+    "wof:lastmodified":1537706859,
+    "wof:name":"Gacar",
+    "wof:parent_id":890463319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.61667000000001,
+    38.26667,
+    28.61667000000001,
+    38.26667
+],
+  "geometry": {"coordinates":[28.61667000000001,38.26667],"type":"Point"}
+}

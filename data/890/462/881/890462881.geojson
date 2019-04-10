@@ -1,0 +1,78 @@
+{
+  "id": 890462881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60283,37.87056,27.60283,37.87056",
+    "geom:latitude":37.87056,
+    "geom:longitude":27.60283,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":11217,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u0130\u011fneabat"
+    ],
+    "qs:name":"Germencik",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ayd\u0131n",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":641,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890464529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314573,
+        "gp:id":2344014,
+        "qs:id":1168932,
+        "wd:id":"Q1004448",
+        "wk:page":"Germencik"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053407,
+    "wof:geomhash":"47d711ec4b85ccf6f882e08fd371d7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464529,
+            "locality_id":890462881,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":890462881,
+    "wof:lastmodified":1527738736,
+    "wof:name":"Germencik",
+    "wof:parent_id":890464529,
+    "wof:placetype":"locality",
+    "wof:population":11217,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60283,
+    37.87056,
+    27.60283,
+    37.87056
+],
+  "geometry": {"coordinates":[27.60283,37.87056],"type":"Point"}
+}

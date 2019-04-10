@@ -1,0 +1,71 @@
+{
+  "id": 1293605621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05782,41.33581,33.05782,41.33581",
+    "geom:latitude":41.33581,
+    "geom:longitude":33.05782,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Kurekoy",
+    "gn:country_code":"TR",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746264,
+    "gn:latitude":41.33581,
+    "gn:longitude":33.05782,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"K\u00fcrek\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fcrek\u00f6y",
+        "G\u00fcrek\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        890460371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746264
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24fb8d144a94e5ab49035c2097f988a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460371,
+            "locality_id":1293605621,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1293605621,
+    "wof:lastmodified":1537707918,
+    "wof:name":"Kurekoy",
+    "wof:parent_id":890460371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05782,
+    41.33581,
+    33.05782,
+    41.33581
+],
+  "geometry": {"coordinates":[33.05782,41.33581],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243084155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08084,39.37804,30.08084,39.37804",
+    "geom:latitude":39.37804,
+    "geom:longitude":30.08084,
+    "gn:admin1_code":"43.0",
+    "gn:asciiname":"Agackoy",
+    "gn:country_code":"TR",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325298,
+    "gn:latitude":39.37804,
+    "gn:longitude":30.08084,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u011fa\u00e7k\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u011fa\u00e7k\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "A\u011fa\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        890461533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325298
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dc06854e079cb5e9b39487392c9d2961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461533,
+            "locality_id":1243084155,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1243084155,
+    "wof:lastmodified":1537707507,
+    "wof:name":"Agackoy",
+    "wof:parent_id":890461533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08084,
+    39.37804000000001,
+    30.08084,
+    39.37804000000001
+],
+  "geometry": {"coordinates":[30.08084,39.37804000000001],"type":"Point"}
+}

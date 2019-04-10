@@ -1,0 +1,70 @@
+{
+  "id": 1309930741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.59044,37.53286,41.59044,37.53286",
+    "geom:latitude":37.53286,
+    "geom:longitude":41.59044,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Kirac",
+    "gn:country_code":"TR",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7009909,
+    "gn:latitude":37.53286,
+    "gn:longitude":41.59044,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"K\u0131ra\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131ra\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7009909
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6681932265b41c92d1d88b4ef52ac8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709423,
+            "locality_id":1309930741,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1309930741,
+    "wof:lastmodified":1537708202,
+    "wof:name":"Kirac",
+    "wof:parent_id":1108709423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.59044,
+    37.53286,
+    41.59044,
+    37.53286
+],
+  "geometry": {"coordinates":[41.59044,37.53286],"type":"Point"}
+}

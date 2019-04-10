@@ -1,0 +1,73 @@
+{
+  "id": 1276460353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.57076,38.42239,28.57076,38.42239",
+    "geom:latitude":38.42239,
+    "geom:longitude":28.57076,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Selce",
+    "gn:country_code":"TR",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301262,
+    "gn:latitude":38.42239,
+    "gn:longitude":28.57076,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Selce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Selce"
+    ],
+    "name:tur_x_variant":[
+        "Sek\u00e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890463319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301262
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91a428cf88276d3586d9da71da60c0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463319,
+            "locality_id":1276460353,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1276460353,
+    "wof:lastmodified":1537706736,
+    "wof:name":"Selce",
+    "wof:parent_id":890463319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.57076,
+    38.42239,
+    28.57076,
+    38.42239
+],
+  "geometry": {"coordinates":[28.57076,38.42239],"type":"Point"}
+}

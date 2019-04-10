@@ -1,0 +1,64 @@
+{
+  "id": 1209382111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.59765,39.32426,41.59765,39.32426",
+    "geom:latitude":39.32426,
+    "geom:longitude":41.59765,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Avcilar",
+    "gn:country_code":"TR",
+    "gn:dem":2124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322953,
+    "gn:latitude":39.32426,
+    "gn:longitude":41.59765,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Avc\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Avc\u0131lar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322953
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e815c28949d4201f21ab7910a369685b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209382111
+        }
+    ],
+    "wof:id":1209382111,
+    "wof:lastmodified":1537707428,
+    "wof:name":"Avcilar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.59765,
+    39.32426,
+    41.59765,
+    39.32426
+],
+  "geometry": {"coordinates":[41.59765,39.32426],"type":"Point"}
+}

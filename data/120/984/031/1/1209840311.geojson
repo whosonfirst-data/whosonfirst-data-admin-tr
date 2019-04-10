@@ -1,0 +1,67 @@
+{
+  "id": 1209840311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99183,39.9123,36.99183,39.9123",
+    "geom:latitude":39.9123,
+    "geom:longitude":36.99183,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Karacayir",
+    "gn:country_code":"TR",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310012,
+    "gn:latitude":39.9123,
+    "gn:longitude":36.99183,
+    "gn:modification_date":"2008-12-04",
+    "gn:name":"Kara\u00e7ay\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310012
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8f69c75ad9ecd691c3094e9e183bb601",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1209840311,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1209840311,
+    "wof:lastmodified":1536393025,
+    "wof:name":"Karacayir",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99183,
+    39.9123,
+    36.99183,
+    39.9123
+],
+  "geometry": {"coordinates":[36.99183,39.9123],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209094637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.66469,39.53192,27.66469,39.53192",
+    "geom:latitude":39.53192,
+    "geom:longitude":27.66469,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Yunakdere",
+    "gn:country_code":"TR",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8549578,
+    "gn:latitude":39.53192,
+    "gn:longitude":27.66469,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Yunakdere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yunakdere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8549578
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"640fd8489cd35f639c59093713b5f5d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209094637
+        }
+    ],
+    "wof:id":1209094637,
+    "wof:lastmodified":1537708299,
+    "wof:name":"Yunakdere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.66469,
+    39.53192,
+    27.66469,
+    39.53192
+],
+  "geometry": {"coordinates":[27.66469,39.53192],"type":"Point"}
+}

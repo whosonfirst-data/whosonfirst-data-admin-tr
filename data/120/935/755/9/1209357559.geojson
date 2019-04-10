@@ -1,0 +1,66 @@
+{
+  "id": 1209357559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42195,41.3051,34.42195,41.3051",
+    "geom:latitude":41.3051,
+    "geom:longitude":34.42195,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Ikizler",
+    "gn:country_code":"TR",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745359,
+    "gn:latitude":41.3051,
+    "gn:longitude":34.42195,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0130kizler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nigel",
+        "Migel",
+        "\u0130kizler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745359
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4e725c2976fcca39f0788c922547b64f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209357559
+        }
+    ],
+    "wof:id":1209357559,
+    "wof:lastmodified":1537707889,
+    "wof:name":"Ikizler",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42195,
+    41.3051,
+    34.42195,
+    41.3051
+],
+  "geometry": {"coordinates":[34.42195,41.3051],"type":"Point"}
+}

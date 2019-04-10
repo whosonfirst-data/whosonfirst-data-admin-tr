@@ -1,0 +1,70 @@
+{
+  "id": 1259800205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21967,40.91567,30.21967,40.91567",
+    "geom:latitude":40.91567,
+    "geom:longitude":30.21967,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Dugmeciler",
+    "gn:country_code":"TR",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10645891,
+    "gn:latitude":40.91567,
+    "gn:longitude":30.21967,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"D\u00fc\u011fmeciler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "D\u00fc\u011fmeciler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        1108709225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10645891
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"33420012900ff080445783790ae6fd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709225,
+            "locality_id":1259800205,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1259800205,
+    "wof:lastmodified":1537708389,
+    "wof:name":"Dugmeciler",
+    "wof:parent_id":1108709225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21967,
+    40.91567,
+    30.21967,
+    40.91567
+],
+  "geometry": {"coordinates":[30.21967,40.91567],"type":"Point"}
+}

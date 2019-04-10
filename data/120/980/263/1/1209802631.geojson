@@ -1,0 +1,73 @@
+{
+  "id": 1209802631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76417,40.03547,29.76417,40.03547",
+    "geom:latitude":40.03547,
+    "geom:longitude":29.76417,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bahcesultan",
+    "gn:country_code":"TR",
+    "gn:dem":1012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751253,
+    "gn:latitude":40.03547,
+    "gn:longitude":29.76417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bah\u00e7esultan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fckderbent",
+        "Derden",
+        "Bacasultan",
+        "Bah\u00e7esultan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        890462021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751253
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d7414df29060a725d6f4886aa7c35ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462021,
+            "locality_id":1209802631,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1209802631,
+    "wof:lastmodified":1537708097,
+    "wof:name":"Bahcesultan",
+    "wof:parent_id":890462021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76417,
+    40.03547,
+    29.76417,
+    40.03547
+],
+  "geometry": {"coordinates":[29.76417,40.03547],"type":"Point"}
+}

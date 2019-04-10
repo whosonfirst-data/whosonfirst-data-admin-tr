@@ -1,0 +1,67 @@
+{
+  "id": 1327200259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.53,39.55278,26.53,39.55278",
+    "geom:latitude":39.55278,
+    "geom:longitude":26.53,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Arikli",
+    "gn:country_code":"TR",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323633,
+    "gn:latitude":39.55278,
+    "gn:longitude":26.53,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Ar\u0131kl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890463243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323633
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"66e725204ce2068e98256192610914e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463243,
+            "locality_id":1327200259,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1327200259,
+    "wof:lastmodified":1537015383,
+    "wof:name":"Arikli",
+    "wof:parent_id":890463243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.53,
+    39.55278,
+    26.53,
+    39.55278
+],
+  "geometry": {"coordinates":[26.53,39.55278],"type":"Point"}
+}

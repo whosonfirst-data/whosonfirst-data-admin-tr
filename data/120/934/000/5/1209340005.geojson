@@ -1,0 +1,66 @@
+{
+  "id": 1209340005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.79267,36.62429,32.79267,36.62429",
+    "geom:latitude":36.62429,
+    "geom:longitude":32.79267,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Pamuklu",
+    "gn:country_code":"TR",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318825,
+    "gn:latitude":36.62429,
+    "gn:longitude":32.79267,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pamuklu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cennek\u00f6y",
+        "Cenne",
+        "Pamuklu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318825
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"76d91b03f2aabdd19bd1fe76ffd44776",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340005
+        }
+    ],
+    "wof:id":1209340005,
+    "wof:lastmodified":1537707297,
+    "wof:name":"Pamuklu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.79267,
+    36.62429,
+    32.79267,
+    36.62429
+],
+  "geometry": {"coordinates":[32.79267,36.62429],"type":"Point"}
+}

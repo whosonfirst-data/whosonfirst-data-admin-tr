@@ -1,0 +1,77 @@
+{
+  "id": 1210024193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.03748,37.70214,38.03748,37.70214",
+    "geom:latitude":37.70214,
+    "geom:longitude":38.03748,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Dogankaya",
+    "gn:country_code":"TR",
+    "gn:dem":716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301177,
+    "gn:latitude":37.70214,
+    "gn:longitude":38.03748,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Do\u011fankaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Do\u011fankaya"
+    ],
+    "name:und_x_variant":[
+        "\u015einikci",
+        "\u015eennikci",
+        "\u015eenikci",
+        "Sallak",
+        "Aptallar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890464115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301177
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"07961ba46334272f552a970c2f058a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464115,
+            "locality_id":1210024193,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1210024193,
+    "wof:lastmodified":1537706733,
+    "wof:name":"Dogankaya",
+    "wof:parent_id":890464115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.03748,
+    37.70214,
+    38.03748,
+    37.70214
+],
+  "geometry": {"coordinates":[38.03748,37.70214],"type":"Point"}
+}

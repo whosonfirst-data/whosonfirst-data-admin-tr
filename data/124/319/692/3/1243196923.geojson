@@ -1,0 +1,73 @@
+{
+  "id": 1243196923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.48969,38.76777,41.48969,38.76777",
+    "geom:latitude":38.76777,
+    "geom:longitude":41.48969,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Baglar",
+    "gn:country_code":"TR",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322477,
+    "gn:latitude":38.76777,
+    "gn:longitude":41.48969,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ba\u011flar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u011flar"
+    ],
+    "name:und_x_variant":[
+        "\u00c7iri\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890461239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322477
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e4ac4a8809500824e07c1806f7c43f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461239,
+            "locality_id":1243196923,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1243196923,
+    "wof:lastmodified":1537707414,
+    "wof:name":"Baglar",
+    "wof:parent_id":890461239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.48969,
+    38.76777,
+    41.48969,
+    38.76777
+],
+  "geometry": {"coordinates":[41.48969,38.76777],"type":"Point"}
+}

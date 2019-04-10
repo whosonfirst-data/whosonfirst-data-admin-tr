@@ -1,0 +1,70 @@
+{
+  "id": 1243092143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.06482,37.27253,42.06482,37.27253",
+    "geom:latitude":37.27253,
+    "geom:longitude":42.06482,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Girigah",
+    "gn:country_code":"TR",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007528,
+    "gn:latitude":37.27253,
+    "gn:longitude":42.06482,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Girigah",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Girigah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890462509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007528
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c3870c43b9b1c2fce3013a8132058154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462509,
+            "locality_id":1243092143,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1243092143,
+    "wof:lastmodified":1537708201,
+    "wof:name":"Girigah",
+    "wof:parent_id":890462509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.06482000000001,
+    37.27253,
+    42.06482000000001,
+    37.27253
+],
+  "geometry": {"coordinates":[42.06482000000001,37.27253],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209930881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99136,40.3,35.99136,40.3",
+    "geom:latitude":40.3,
+    "geom:longitude":35.99136,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Kirlar",
+    "gn:country_code":"TR",
+    "gn:dem":604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743154,
+    "gn:latitude":40.3,
+    "gn:longitude":35.99136,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0131rlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131slar",
+        "K\u0131rlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890461509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743154
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"44a1009301ee0cf1f814e8e4f34e50b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461509,
+            "locality_id":1209930881,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1209930881,
+    "wof:lastmodified":1537707822,
+    "wof:name":"Kirlar",
+    "wof:parent_id":890461509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99136,
+    40.3,
+    35.99136,
+    40.3
+],
+  "geometry": {"coordinates":[35.99136,40.3],"type":"Point"}
+}

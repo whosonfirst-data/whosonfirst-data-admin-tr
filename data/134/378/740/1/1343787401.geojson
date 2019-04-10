@@ -1,0 +1,70 @@
+{
+  "id": 1343787401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.32342,36.52714,29.32342,36.52714",
+    "geom:latitude":36.52714,
+    "geom:longitude":29.32342,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Bagyeri",
+    "gn:country_code":"TR",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10249384,
+    "gn:latitude":36.52714,
+    "gn:longitude":29.32342,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Ba\u011fyeri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u011fyeri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10249384
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7bc0a65fe4caea662abe77b59ac8735c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":1343787401,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1343787401,
+    "wof:lastmodified":1537708363,
+    "wof:name":"Bagyeri",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.32342,
+    36.52714,
+    29.32342,
+    36.52714
+],
+  "geometry": {"coordinates":[29.32342,36.52714],"type":"Point"}
+}

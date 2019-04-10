@@ -1,0 +1,70 @@
+{
+  "id": 1243322123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.22049,37.86029,40.22049,37.86029",
+    "geom:latitude":37.86029,
+    "geom:longitude":40.22049,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Harem",
+    "gn:country_code":"TR",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310964,
+    "gn:latitude":37.86029,
+    "gn:longitude":40.22049,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Harem",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e2bi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310964
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24cd15871c85500b564ec6932183af06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709329,
+            "locality_id":1243322123,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243322123,
+    "wof:lastmodified":1537707041,
+    "wof:name":"Harem",
+    "wof:parent_id":1108709329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.22049000000001,
+    37.86029,
+    40.22049000000001,
+    37.86029
+],
+  "geometry": {"coordinates":[40.22049000000001,37.86029],"type":"Point"}
+}

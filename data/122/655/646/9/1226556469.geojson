@@ -1,0 +1,67 @@
+{
+  "id": 1226556469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21706,41.33703,32.21706,41.33703",
+    "geom:latitude":41.33703,
+    "geom:longitude":32.21706,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Muharremler",
+    "gn:country_code":"TR",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8041575,
+    "gn:latitude":41.33703,
+    "gn:longitude":32.21706,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Muharremler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890463385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8041575
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e4e78e15c267fe24cdf8f605788393de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463385,
+            "locality_id":1226556469,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1226556469,
+    "wof:lastmodified":1536981916,
+    "wof:name":"Muharremler",
+    "wof:parent_id":890463385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21706,
+    41.33703,
+    32.21706,
+    41.33703
+],
+  "geometry": {"coordinates":[32.21706,41.33703],"type":"Point"}
+}

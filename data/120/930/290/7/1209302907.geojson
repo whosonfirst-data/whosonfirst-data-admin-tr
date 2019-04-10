@@ -1,0 +1,64 @@
+{
+  "id": 1209302907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.04563,39.75678,28.04563,39.75678",
+    "geom:latitude":39.75678,
+    "geom:longitude":28.04563,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Radar",
+    "gn:country_code":"TR",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8551629,
+    "gn:latitude":39.75678,
+    "gn:longitude":28.04563,
+    "gn:modification_date":"2013-06-06",
+    "gn:name":"Radar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Radar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8551629
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e8c5602b84bbc1c3d33fab327fc225d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209302907
+        }
+    ],
+    "wof:id":1209302907,
+    "wof:lastmodified":1537708300,
+    "wof:name":"Radar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.04563,
+    39.75678,
+    28.04563,
+    39.75678
+],
+  "geometry": {"coordinates":[28.04563,39.75678],"type":"Point"}
+}

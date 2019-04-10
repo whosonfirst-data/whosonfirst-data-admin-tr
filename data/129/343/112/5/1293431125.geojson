@@ -1,0 +1,67 @@
+{
+  "id": 1293431125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47941,36.5166,33.47941,36.5166",
+    "geom:latitude":36.5166,
+    "geom:longitude":33.47941,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Karadiken",
+    "gn:country_code":"TR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309920,
+    "gn:latitude":36.5166,
+    "gn:longitude":33.47941,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Karadiken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890464447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309920
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5dc66e2ba01cc9a6266948e70cbcb011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464447,
+            "locality_id":1293431125,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1293431125,
+    "wof:lastmodified":1536867000,
+    "wof:name":"Karadiken",
+    "wof:parent_id":890464447,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47940999999999,
+    36.5166,
+    33.47940999999999,
+    36.5166
+],
+  "geometry": {"coordinates":[33.47940999999999,36.5166],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1242794481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.10617,37.6653,42.10617,37.6653",
+    "geom:latitude":37.6653,
+    "geom:longitude":42.10617,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Hasinki",
+    "gn:country_code":"TR",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302959,
+    "gn:latitude":37.6653,
+    "gn:longitude":42.10617,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Hasinki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khasinki",
+        "Hesink\u00e2n",
+        "\u00d6zpelit",
+        "Hasinki",
+        "Hes\u0131ngan",
+        "Hezink\u00e2n",
+        "\u00d6zl\u00fcpelit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302959
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ce4397cdf96071f63370d1083f7eed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709493,
+            "locality_id":1242794481,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1242794481,
+    "wof:lastmodified":1537706791,
+    "wof:name":"Hasinki",
+    "wof:parent_id":1108709493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.10617,
+    37.6653,
+    42.10617,
+    37.6653
+],
+  "geometry": {"coordinates":[42.10617,37.6653],"type":"Point"}
+}

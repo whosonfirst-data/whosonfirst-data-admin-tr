@@ -1,0 +1,67 @@
+{
+  "id": 1293703325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50071,41.78041,32.50071,41.78041",
+    "geom:latitude":41.78041,
+    "geom:longitude":32.50071,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Hatipler",
+    "gn:country_code":"TR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028592,
+    "gn:latitude":41.78041,
+    "gn:longitude":32.50071,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Hatipler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679543,
+        890460803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028592
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf11c3065ef3d9fb41850b688b2bf892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460803,
+            "locality_id":1293703325,
+            "region_id":85679543
+        }
+    ],
+    "wof:id":1293703325,
+    "wof:lastmodified":1536972837,
+    "wof:name":"Hatipler",
+    "wof:parent_id":890460803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50071,
+    41.78041,
+    32.50071,
+    41.78041
+],
+  "geometry": {"coordinates":[32.50071,41.78041],"type":"Point"}
+}

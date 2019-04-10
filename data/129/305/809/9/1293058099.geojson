@@ -1,0 +1,75 @@
+{
+  "id": 1293058099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.5139,40.75015,42.5139,40.75015",
+    "geom:latitude":40.75015,
+    "geom:longitude":42.5139,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Zapgerek",
+    "gn:country_code":"TR",
+    "gn:dem":1880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737105,
+    "gn:latitude":40.75015,
+    "gn:longitude":42.5139,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Zapgerek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6\u015fkk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6\u015fk",
+        "Zapgerek",
+        "Zadgerek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737105
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"abb23a3534311e21dc08fdf349a3e682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709201,
+            "locality_id":1293058099,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1293058099,
+    "wof:lastmodified":1537707609,
+    "wof:name":"Zapgerek",
+    "wof:parent_id":1108709201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.5139,
+    40.75015,
+    42.5139,
+    40.75015
+],
+  "geometry": {"coordinates":[42.5139,40.75015],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293225401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04298,38.17653,36.04298,38.17653",
+    "geom:latitude":38.17653,
+    "geom:longitude":36.04298,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Emirgazi",
+    "gn:country_code":"TR",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7639725,
+    "gn:latitude":38.17653,
+    "gn:longitude":36.04298,
+    "gn:modification_date":"2011-01-05",
+    "gn:name":"Emirgazi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        1108709933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7639725
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"34a4f1d29ed9ab03d5b5af926d5786bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709933,
+            "locality_id":1293225401,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1293225401,
+    "wof:lastmodified":1536667948,
+    "wof:name":"Emirgazi",
+    "wof:parent_id":1108709933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04298,
+    38.17653,
+    36.04298,
+    38.17653
+],
+  "geometry": {"coordinates":[36.04298,38.17653],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276164533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13925,37.72312,31.13925,37.72312",
+    "geom:latitude":37.72312,
+    "geom:longitude":31.13925,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Kocular",
+    "gn:country_code":"TR",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306813,
+    "gn:latitude":37.72312,
+    "gn:longitude":31.13925,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Kocular",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890460363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306813
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf99ae34fbb12be803d27acbaaa44bc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460363,
+            "locality_id":1276164533,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":1276164533,
+    "wof:lastmodified":1537004168,
+    "wof:name":"Kocular",
+    "wof:parent_id":890460363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13925,
+    37.72312,
+    31.13925,
+    37.72312
+],
+  "geometry": {"coordinates":[31.13925,37.72312],"type":"Point"}
+}

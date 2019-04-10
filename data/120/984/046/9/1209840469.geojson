@@ -1,0 +1,76 @@
+{
+  "id": 1209840469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47073,36.3156,36.47073,36.3156",
+    "geom:latitude":36.3156,
+    "geom:longitude":36.47073,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Pasakoy",
+    "gn:country_code":"TR",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302851,
+    "gn:latitude":36.3156,
+    "gn:longitude":36.47073,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Pa\u015fak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u015fk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Bo\u015fk\u00f6y",
+        "Ba\u015fk\u00f6yabdullah",
+        "Pa\u015fak\u00f6y",
+        "Bask\u00f6ys\u00f6rri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890462851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302851
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4cb63ac9f4791def131dfc63b1aa10d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462851,
+            "locality_id":1209840469,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1209840469,
+    "wof:lastmodified":1537706788,
+    "wof:name":"Pasakoy",
+    "wof:parent_id":890462851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47073,
+    36.3156,
+    36.47073,
+    36.3156
+],
+  "geometry": {"coordinates":[36.47073,36.3156],"type":"Point"}
+}

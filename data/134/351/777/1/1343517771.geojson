@@ -1,0 +1,71 @@
+{
+  "id": 1343517771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.90216,41.30539,26.90216,41.30539",
+    "geom:latitude":41.30539,
+    "geom:longitude":26.90216,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kucuk Danisment",
+    "gn:country_code":"TR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742387,
+    "gn:latitude":41.30539,
+    "gn:longitude":26.90216,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"K\u00fc\u00e7\u00fck Dani\u015fment",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fck Dani\u015fment",
+        "K\u00fc\u00e7\u00fckdani\u015fmend"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679213,
+        1108709953
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742387
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ef70985fcdd02195d3897f3db62f839e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709953,
+            "locality_id":1343517771,
+            "region_id":85679213
+        }
+    ],
+    "wof:id":1343517771,
+    "wof:lastmodified":1537707797,
+    "wof:name":"Kucuk Danisment",
+    "wof:parent_id":1108709953,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.90216,
+    41.30539,
+    26.90216,
+    41.30539
+],
+  "geometry": {"coordinates":[26.90216,41.30539],"type":"Point"}
+}

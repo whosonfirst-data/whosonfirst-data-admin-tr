@@ -1,0 +1,64 @@
+{
+  "id": 1209371307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.30429,38.43492,40.30429,38.43492",
+    "geom:latitude":38.43492,
+    "geom:longitude":40.30429,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Abacilar",
+    "gn:country_code":"TR",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325537,
+    "gn:latitude":38.43492,
+    "gn:longitude":40.30429,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Abac\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Abac\u0131lar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325537
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c7b14bbcd21747bec5956ba2c82d0a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209371307
+        }
+    ],
+    "wof:id":1209371307,
+    "wof:lastmodified":1537707515,
+    "wof:name":"Abacilar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.30429,
+    38.43492,
+    40.30429,
+    38.43492
+],
+  "geometry": {"coordinates":[40.30429,38.43492],"type":"Point"}
+}

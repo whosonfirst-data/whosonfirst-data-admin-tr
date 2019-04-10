@@ -1,0 +1,67 @@
+{
+  "id": 1343882977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51488,41.76745,34.51488,41.76745",
+    "geom:latitude":41.76745,
+    "geom:longitude":34.51488,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Sevinc",
+    "gn:country_code":"TR",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739759,
+    "gn:latitude":41.76745,
+    "gn:longitude":34.51488,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Sevin\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739759
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70d9b729dedd7970304bcb055face047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709311,
+            "locality_id":1343882977,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1343882977,
+    "wof:lastmodified":1536632748,
+    "wof:name":"Sevinc",
+    "wof:parent_id":1108709311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51488,
+    41.76745,
+    34.51488,
+    41.76745
+],
+  "geometry": {"coordinates":[34.51488,41.76745],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243352611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.29985,37.52537,28.29985,37.52537",
+    "geom:latitude":37.52537,
+    "geom:longitude":28.29985,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Malkupu",
+    "gn:country_code":"TR",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201423,
+    "gn:latitude":37.52537,
+    "gn:longitude":28.29985,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Malk\u00fcp\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890463273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201423
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4200eea583c29c3131a87d319a98d93f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463273,
+            "locality_id":1243352611,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1243352611,
+    "wof:lastmodified":1536941467,
+    "wof:name":"Malkupu",
+    "wof:parent_id":890463273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.29985,
+    37.52537,
+    28.29985,
+    37.52537
+],
+  "geometry": {"coordinates":[28.29985,37.52537],"type":"Point"}
+}

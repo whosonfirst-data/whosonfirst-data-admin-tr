@@ -1,0 +1,67 @@
+{
+  "id": 1226565031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70206,40.91032,35.70206,40.91032",
+    "geom:latitude":40.91032,
+    "geom:longitude":35.70206,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Kuflek",
+    "gn:country_code":"TR",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698837,
+    "gn:latitude":40.91032,
+    "gn:longitude":35.70206,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"K\u00fcflek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        890464145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698837
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7ea72d6cf7e4d5076de8a20f0cd57f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464145,
+            "locality_id":1226565031,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1226565031,
+    "wof:lastmodified":1536970183,
+    "wof:name":"Kuflek",
+    "wof:parent_id":890464145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70206,
+    40.91032,
+    35.70206,
+    40.91032
+],
+  "geometry": {"coordinates":[35.70206,40.91032],"type":"Point"}
+}

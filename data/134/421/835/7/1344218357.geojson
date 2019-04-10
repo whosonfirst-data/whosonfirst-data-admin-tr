@@ -1,0 +1,73 @@
+{
+  "id": 1344218357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07756,40.93909,39.07756,40.93909",
+    "geom:latitude":40.93909,
+    "geom:longitude":39.07756,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Guvenlik",
+    "gn:country_code":"TR",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7569015,
+    "gn:latitude":40.93909,
+    "gn:longitude":39.07756,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"G\u00fcvenlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcvenlik"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcvendik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890463167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7569015
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b1f1a7674c51f7f8979c3eab739731ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463167,
+            "locality_id":1344218357,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1344218357,
+    "wof:lastmodified":1537708242,
+    "wof:name":"Guvenlik",
+    "wof:parent_id":890463167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07756,
+    40.93909,
+    39.07756,
+    40.93909
+],
+  "geometry": {"coordinates":[39.07756,40.93909],"type":"Point"}
+}

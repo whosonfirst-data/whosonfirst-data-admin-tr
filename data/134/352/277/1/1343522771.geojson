@@ -1,0 +1,74 @@
+{
+  "id": 1343522771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.4826,40.22945,38.4826,40.22945",
+    "geom:latitude":40.22945,
+    "geom:longitude":38.4826,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Tekkaya",
+    "gn:country_code":"TR",
+    "gn:dem":1225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738923,
+    "gn:latitude":40.22945,
+    "gn:longitude":38.4826,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Tekkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gu\u00e7",
+        "C\u00fcc K\u00f6y\u00fc",
+        "C\u00fc\u00e7k\u00f6y",
+        "C\u00fc\u00e7",
+        "Tekkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        1108709197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738923
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7548f9a31705ef3f6f947de5f040eaf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709197,
+            "locality_id":1343522771,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1343522771,
+    "wof:lastmodified":1537707680,
+    "wof:name":"Tekkaya",
+    "wof:parent_id":1108709197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.4826,
+    40.22945,
+    38.4826,
+    40.22945
+],
+  "geometry": {"coordinates":[38.4826,40.22945],"type":"Point"}
+}

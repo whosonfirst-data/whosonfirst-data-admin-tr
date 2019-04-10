@@ -1,0 +1,69 @@
+{
+  "id": 890459403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92,36.89444,38.92,36.89444",
+    "geom:latitude":36.89444,
+    "geom:longitude":38.92,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":318,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Koruklu"
+    ],
+    "qs:name":"Koruklu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        1108709267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306382,
+        "gp:id":2322777,
+        "qs:id":547390
+    },
+    "wof:country":"TR",
+    "wof:created":1469053265,
+    "wof:geomhash":"9a24e5d485a97964f4631e7ca0040260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709267,
+            "locality_id":890459403,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890459403,
+    "wof:lastmodified":1505343677,
+    "wof:name":"Koruklu",
+    "wof:parent_id":1108709267,
+    "wof:placetype":"locality",
+    "wof:population":318,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92,
+    36.89444,
+    38.92,
+    36.89444
+],
+  "geometry": {"coordinates":[38.92,36.89444],"type":"Point"}
+}

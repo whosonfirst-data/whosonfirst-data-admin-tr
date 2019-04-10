@@ -1,0 +1,73 @@
+{
+  "id": 1293160015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.91136,37.14113,34.91136,37.14113",
+    "geom:latitude":37.14113,
+    "geom:longitude":34.91136,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Kocmarli",
+    "gn:country_code":"TR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306826,
+    "gn:latitude":37.14113,
+    "gn:longitude":34.91136,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ko\u00e7marl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ko\u00e7marl\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Ko\u00e7\u00f6merli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890463423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306826
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26dae557a60322ffc55047a4f62ca8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463423,
+            "locality_id":1293160015,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1293160015,
+    "wof:lastmodified":1537706920,
+    "wof:name":"Kocmarli",
+    "wof:parent_id":890463423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.91135999999999,
+    37.14113,
+    34.91135999999999,
+    37.14113
+],
+  "geometry": {"coordinates":[34.91135999999999,37.14113],"type":"Point"}
+}

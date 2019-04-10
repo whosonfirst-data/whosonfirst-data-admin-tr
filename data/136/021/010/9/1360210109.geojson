@@ -1,0 +1,67 @@
+{
+  "id": 1360210109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.99869,40.57298,36.99869,40.57298",
+    "geom:latitude":40.57298,
+    "geom:longitude":36.99869,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ustahasan",
+    "gn:country_code":"TR",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738320,
+    "gn:latitude":40.57298,
+    "gn:longitude":36.99869,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Ustahasan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738320
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"59422a07cf058a8c3dff6dd5b9d26968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709765,
+            "locality_id":1360210109,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1360210109,
+    "wof:lastmodified":1536765746,
+    "wof:name":"Ustahasan",
+    "wof:parent_id":1108709765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.99869,
+    40.57298,
+    36.99869,
+    40.57298
+],
+  "geometry": {"coordinates":[36.99869,40.57298],"type":"Point"}
+}

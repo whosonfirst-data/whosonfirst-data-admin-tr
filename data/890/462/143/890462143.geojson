@@ -1,0 +1,79 @@
+{
+  "id": 890462143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24687,40.88414,30.24687,40.88414",
+    "geom:latitude":40.88414,
+    "geom:longitude":30.24687,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yenice"
+    ],
+    "qs:name":"Yeni",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Kocaeli",
+    "qs:photos":26,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":26,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":54,
+    "wof:belongsto":[
+        102191569,
+        85679241,
+        85632393,
+        1108709225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383893,
+        "gp:id":56042890,
+        "qs:id":993017,
+        "wd:id":"Q8052256",
+        "wk:page":"Yeni"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053379,
+    "wof:geomhash":"e84ca770bdeb6e9304dee7277235ec03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709225,
+            "neighbourhood_id":890462143,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":890462143,
+    "wof:lastmodified":1527749962,
+    "wof:name":"Yeni",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24687,
+    40.88414,
+    30.24687,
+    40.88414
+],
+  "geometry": {"coordinates":[30.24687,40.88414],"type":"Point"}
+}

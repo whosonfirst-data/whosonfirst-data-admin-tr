@@ -1,0 +1,70 @@
+{
+  "id": 1226617089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.90778,38.33231,41.90778,38.33231",
+    "geom:latitude":38.33231,
+    "geom:longitude":41.90778,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kasak",
+    "gn:country_code":"TR",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308939,
+    "gn:latitude":38.33231,
+    "gn:longitude":41.90778,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ka\u015fak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ka\u015fak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308939
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"37e15e222cf67eedebc720f0498077e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463443,
+            "locality_id":1226617089,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1226617089,
+    "wof:lastmodified":1537706984,
+    "wof:name":"Kasak",
+    "wof:parent_id":890463443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.90778,
+    38.33231,
+    41.90778,
+    38.33231
+],
+  "geometry": {"coordinates":[41.90778,38.33231],"type":"Point"}
+}

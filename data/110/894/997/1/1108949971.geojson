@@ -1,0 +1,66 @@
+{
+  "id": 1108949971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0052062554,41.0496257452,29.0052062554,41.0496257452",
+    "geom:latitude":41.049626,
+    "geom:longitude":29.005206,
+    "iso:country":"TR",
+    "lbl:latitude":41.049626,
+    "lbl:longitude":29.005206,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Abbasa\u011fa"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912685,
+        890461743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368040,
+    "wof:geomhash":"d2c8fba008be8c893847cb7531d2ff4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461743,
+            "locality_id":101912685,
+            "neighbourhood_id":1108949971,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108949971,
+    "wof:lastmodified":1497292381,
+    "wof:name":"Abbasaga",
+    "wof:parent_id":101912685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00520625540434,
+    41.04962574517113,
+    29.00520625540434,
+    41.04962574517113
+],
+  "geometry": {"coordinates":[29.00520625540434,41.04962574517113],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259599841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.69838,38.82743,41.69838,38.82743",
+    "geom:latitude":38.82743,
+    "geom:longitude":41.69838,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Yazla",
+    "gn:country_code":"TR",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305452,
+    "gn:latitude":38.82743,
+    "gn:longitude":41.69838,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Yazla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yazla"
+    ],
+    "name:und_x_variant":[
+        "K\u00fcrtzorava",
+        "K\u00fcrtzarova",
+        "K\u00fcrtzorova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890461239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305452
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fcc1aad07ba20d53b88d72793b697e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461239,
+            "locality_id":1259599841,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1259599841,
+    "wof:lastmodified":1537706874,
+    "wof:name":"Yazla",
+    "wof:parent_id":890461239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.69838,
+    38.82743,
+    41.69838,
+    38.82743
+],
+  "geometry": {"coordinates":[41.69838,38.82743],"type":"Point"}
+}

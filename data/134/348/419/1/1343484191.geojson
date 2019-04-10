@@ -1,0 +1,70 @@
+{
+  "id": 1343484191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.13262,38.72748,29.13262,38.72748",
+    "geom:latitude":38.72748,
+    "geom:longitude":29.13262,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Kurtler",
+    "gn:country_code":"TR",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10136874,
+    "gn:latitude":38.72748,
+    "gn:longitude":29.13262,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"K\u00fcrtler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fcrtler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        890462163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10136874
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"429a16a2dcb3216e6af81d3f03f72f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462163,
+            "locality_id":1343484191,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1343484191,
+    "wof:lastmodified":1537708343,
+    "wof:name":"Kurtler",
+    "wof:parent_id":890462163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.13262000000001,
+    38.72748,
+    29.13262000000001,
+    38.72748
+],
+  "geometry": {"coordinates":[29.13262000000001,38.72748],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343905165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.46684,40.70452,38.46684,40.70452",
+    "geom:latitude":40.70452,
+    "geom:longitude":38.46684,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kucuk Ahmet",
+    "gn:country_code":"TR",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7572439,
+    "gn:latitude":40.70452,
+    "gn:longitude":38.46684,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"K\u00fc\u00e7\u00fck Ahmet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fck Ahmet"
+    ],
+    "name:tur_x_variant":[
+        "K\u00fc\u00e7\u00fckahmetli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890462767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7572439
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f59c12d5f985ae1fa25151e5d4a78e31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462767,
+            "locality_id":1343905165,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1343905165,
+    "wof:lastmodified":1537708247,
+    "wof:name":"Kucuk Ahmet",
+    "wof:parent_id":890462767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.46684000000001,
+    40.70452,
+    38.46684000000001,
+    40.70452
+],
+  "geometry": {"coordinates":[38.46684000000001,40.70452],"type":"Point"}
+}

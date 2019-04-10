@@ -1,0 +1,70 @@
+{
+  "id": 1344256375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.89274,39.18955,42.89274,39.18955",
+    "geom:latitude":39.18955,
+    "geom:longitude":42.89274,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Camurlu",
+    "gn:country_code":"TR",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319553,
+    "gn:latitude":39.18955,
+    "gn:longitude":42.89274,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c7amurlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7amurlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319553
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1578f0f956073ea9df58d08d623aee44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709805,
+            "locality_id":1344256375,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1344256375,
+    "wof:lastmodified":1537707321,
+    "wof:name":"Camurlu",
+    "wof:parent_id":1108709805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.89274,
+    39.18955,
+    42.89274,
+    39.18955
+],
+  "geometry": {"coordinates":[42.89274,39.18955],"type":"Point"}
+}

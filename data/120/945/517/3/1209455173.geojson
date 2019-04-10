@@ -1,0 +1,64 @@
+{
+  "id": 1209455173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73483,37.99671,27.73483,37.99671",
+    "geom:latitude":37.99671,
+    "geom:longitude":27.73483,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Musalar",
+    "gn:country_code":"TR",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304060,
+    "gn:latitude":37.99671,
+    "gn:longitude":27.73483,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Musalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Musalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304060
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fefc1446d6f1e39e52d1e45957f248bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209455173
+        }
+    ],
+    "wof:id":1209455173,
+    "wof:lastmodified":1537706827,
+    "wof:name":"Musalar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73483,
+    37.99671,
+    27.73483,
+    37.99671
+],
+  "geometry": {"coordinates":[27.73483,37.99671],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260252925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2098,40.97317,32.2098,40.97317",
+    "geom:latitude":40.97317,
+    "geom:longitude":32.2098,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Burnuk",
+    "gn:country_code":"TR",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196028,
+    "gn:latitude":40.97317,
+    "gn:longitude":32.2098,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"B\u00fcrn\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890464291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196028
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b08136f16976f10408f75c929f4a372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464291,
+            "locality_id":1260252925,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1260252925,
+    "wof:lastmodified":1536753345,
+    "wof:name":"Burnuk",
+    "wof:parent_id":890464291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2098,
+    40.97317,
+    32.2098,
+    40.97317
+],
+  "geometry": {"coordinates":[32.2098,40.97317],"type":"Point"}
+}

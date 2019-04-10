@@ -1,0 +1,67 @@
+{
+  "id": 1209957749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17972,38.085,31.17972,38.085",
+    "geom:latitude":38.085,
+    "geom:longitude":31.17972,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Yenicekale",
+    "gn:country_code":"TR",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297135,
+    "gn:latitude":38.085,
+    "gn:longitude":31.17972,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Yenicekale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890464295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297135
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e4eb8efc5e5dd3f5669548e14958e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464295,
+            "locality_id":1209957749,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":1209957749,
+    "wof:lastmodified":1536376762,
+    "wof:name":"Yenicekale",
+    "wof:parent_id":890464295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17972,
+    38.085,
+    31.17972,
+    38.085
+],
+  "geometry": {"coordinates":[31.17972,38.085],"type":"Point"}
+}

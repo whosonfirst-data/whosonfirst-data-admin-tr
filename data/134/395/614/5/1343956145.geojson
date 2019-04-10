@@ -1,0 +1,71 @@
+{
+  "id": 1343956145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37327,40.74287,35.37327,40.74287",
+    "geom:latitude":40.74287,
+    "geom:longitude":35.37327,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Turkoglu",
+    "gn:country_code":"TR",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535632,
+    "gn:latitude":40.74287,
+    "gn:longitude":35.37327,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"T\u00fcrko\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fc\u00e7\u00fck Kam\u0131\u015fl\u0131",
+        "T\u00fcrko\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890461589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535632
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3dabdd834b3266195c3bf331eba7a56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461589,
+            "locality_id":1343956145,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1343956145,
+    "wof:lastmodified":1537708296,
+    "wof:name":"Turkoglu",
+    "wof:parent_id":890461589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37327,
+    40.74287,
+    35.37327,
+    40.74287
+],
+  "geometry": {"coordinates":[35.37327,40.74287],"type":"Point"}
+}

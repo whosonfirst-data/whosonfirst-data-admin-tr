@@ -1,0 +1,71 @@
+{
+  "id": 1343286593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.72344,40.51221,32.72344,40.51221",
+    "geom:latitude":40.51221,
+    "geom:longitude":32.72344,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Aksak",
+    "gn:country_code":"TR",
+    "gn:dem":1358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752380,
+    "gn:latitude":40.51221,
+    "gn:longitude":32.72344,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aksak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u011fsak",
+        "Aksak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752380
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fe986e86cf2bf5b2c08780025f319f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464243,
+            "locality_id":1343286593,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1343286593,
+    "wof:lastmodified":1537708137,
+    "wof:name":"Aksak",
+    "wof:parent_id":890464243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72344,
+    40.51221,
+    32.72344,
+    40.51221
+],
+  "geometry": {"coordinates":[32.72344,40.51221],"type":"Point"}
+}

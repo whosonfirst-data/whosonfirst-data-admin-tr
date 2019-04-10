@@ -1,0 +1,68 @@
+{
+  "id": 890464991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.67333,36.97833,37.67333,36.97833",
+    "geom:latitude":36.97833,
+    "geom:longitude":37.67333,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":2643,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Orui"
+    ],
+    "qs:name":"Sekili",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        890461691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301290,
+        "qs:id":547300
+    },
+    "wof:country":"TR",
+    "wof:created":1469053494,
+    "wof:geomhash":"e76e93ecc807f61da6fa1bb5581abf18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461691,
+            "locality_id":890464991,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":890464991,
+    "wof:lastmodified":1505343700,
+    "wof:name":"Sekili",
+    "wof:parent_id":890461691,
+    "wof:placetype":"locality",
+    "wof:population":2643,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.67333,
+    36.97833,
+    37.67333,
+    36.97833
+],
+  "geometry": {"coordinates":[37.67333,36.97833],"type":"Point"}
+}

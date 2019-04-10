@@ -1,0 +1,67 @@
+{
+  "id": 1326953045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.73168,38.396,28.73168,38.396",
+    "geom:latitude":38.396,
+    "geom:longitude":28.73168,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Hocalar",
+    "gn:country_code":"TR",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10003275,
+    "gn:latitude":38.396,
+    "gn:longitude":28.73168,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Hocalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10003275
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"df3d798542edd8c838c32b1fddee8112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709679,
+            "locality_id":1326953045,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1326953045,
+    "wof:lastmodified":1536873945,
+    "wof:name":"Hocalar",
+    "wof:parent_id":1108709679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.73168,
+    38.396,
+    28.73168,
+    38.396
+],
+  "geometry": {"coordinates":[28.73168,38.396],"type":"Point"}
+}

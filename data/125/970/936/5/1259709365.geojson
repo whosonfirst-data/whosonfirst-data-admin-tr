@@ -1,0 +1,67 @@
+{
+  "id": 1259709365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85233,40.63699,36.85233,40.63699",
+    "geom:latitude":40.63699,
+    "geom:longitude":36.85233,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Direkli",
+    "gn:country_code":"TR",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691090,
+    "gn:latitude":40.63699,
+    "gn:longitude":36.85233,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Direkli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691090
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"08b714cbed9e3d9effb5680f4af39a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709765,
+            "locality_id":1259709365,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1259709365,
+    "wof:lastmodified":1537028605,
+    "wof:name":"Direkli",
+    "wof:parent_id":1108709765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85233,
+    40.63699,
+    36.85233,
+    40.63699
+],
+  "geometry": {"coordinates":[36.85233,40.63699],"type":"Point"}
+}

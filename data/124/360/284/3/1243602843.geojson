@@ -1,0 +1,67 @@
+{
+  "id": 1243602843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91454,36.13893,32.91454,36.13893",
+    "geom:latitude":36.13893,
+    "geom:longitude":32.91454,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Risvan",
+    "gn:country_code":"TR",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7852207,
+    "gn:latitude":36.13893,
+    "gn:longitude":32.91454,
+    "gn:modification_date":"2011-06-07",
+    "gn:name":"Risvan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890462615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7852207
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"520d0a24fea3e1d39f127debe79dd677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462615,
+            "locality_id":1243602843,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1243602843,
+    "wof:lastmodified":1537074135,
+    "wof:name":"Risvan",
+    "wof:parent_id":890462615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91454,
+    36.13893,
+    32.91454,
+    36.13893
+],
+  "geometry": {"coordinates":[32.91454,36.13893],"type":"Point"}
+}

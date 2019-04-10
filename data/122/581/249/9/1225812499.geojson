@@ -1,0 +1,74 @@
+{
+  "id": 1225812499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.38489,40.34624,41.38489,40.34624",
+    "geom:latitude":40.34624,
+    "geom:longitude":41.38489,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Cakilli",
+    "gn:country_code":"TR",
+    "gn:dem":2183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741709,
+    "gn:latitude":40.34624,
+    "gn:longitude":41.38489,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"\u00c7ak\u0131ll\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ak\u0131ll\u0131"
+    ],
+    "name:und_x_variant":[
+        "\u00c7ak\u0131l\u0131",
+        "Ma\u015fut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741709
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f0935260bd13e95cf1bd120769ea226c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709929,
+            "locality_id":1225812499,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1225812499,
+    "wof:lastmodified":1537707775,
+    "wof:name":"Cakilli",
+    "wof:parent_id":1108709929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.38489000000001,
+    40.34624,
+    41.38489000000001,
+    40.34624
+],
+  "geometry": {"coordinates":[41.38489000000001,40.34624],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327335599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.05,37.65,38.05,37.65",
+    "geom:latitude":37.65,
+    "geom:longitude":38.05,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Karahalil",
+    "gn:country_code":"TR",
+    "gn:dem":591,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309824,
+    "gn:latitude":37.65,
+    "gn:longitude":38.05,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karahalil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890464115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309824
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9f27e1975c95bef5e59642780871ebe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464115,
+            "locality_id":1327335599,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1327335599,
+    "wof:lastmodified":1536819702,
+    "wof:name":"Karahalil",
+    "wof:parent_id":890464115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.05,
+    37.65,
+    38.05,
+    37.65
+],
+  "geometry": {"coordinates":[38.05,37.65],"type":"Point"}
+}

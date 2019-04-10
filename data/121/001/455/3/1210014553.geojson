@@ -1,0 +1,67 @@
+{
+  "id": 1210014553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69536,40.77292,35.69536,40.77292",
+    "geom:latitude":40.77292,
+    "geom:longitude":35.69536,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kurnaz",
+    "gn:country_code":"TR",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742176,
+    "gn:latitude":40.77292,
+    "gn:longitude":35.69536,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Kurnaz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890464247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742176
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c52603d496c71da53a501dfec631edb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464247,
+            "locality_id":1210014553,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1210014553,
+    "wof:lastmodified":1536395686,
+    "wof:name":"Kurnaz",
+    "wof:parent_id":890464247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69536,
+    40.77292,
+    35.69536,
+    40.77292
+],
+  "geometry": {"coordinates":[35.69536,40.77292],"type":"Point"}
+}

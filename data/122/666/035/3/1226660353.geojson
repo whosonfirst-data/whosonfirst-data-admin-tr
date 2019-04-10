@@ -1,0 +1,71 @@
+{
+  "id": 1226660353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.77381,40.5768,42.77381,40.5768",
+    "geom:latitude":40.5768,
+    "geom:longitude":42.77381,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Baykara",
+    "gn:country_code":"TR",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750899,
+    "gn:latitude":40.5768,
+    "gn:longitude":42.77381,
+    "gn:modification_date":"2010-08-03",
+    "gn:name":"Baykara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baygara",
+        "Baykara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890463575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750899
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d1e877bb3a4fd9db691f9800463e4056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463575,
+            "locality_id":1226660353,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1226660353,
+    "wof:lastmodified":1537708085,
+    "wof:name":"Baykara",
+    "wof:parent_id":890463575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.77381,
+    40.5768,
+    42.77381,
+    40.5768
+],
+  "geometry": {"coordinates":[42.77381,40.5768],"type":"Point"}
+}

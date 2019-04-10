@@ -1,0 +1,67 @@
+{
+  "id": 1226200963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.36667,38.41667,40.36667,38.41667",
+    "geom:latitude":38.41667,
+    "geom:longitude":40.36667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Pisil",
+    "gn:country_code":"TR",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302549,
+    "gn:latitude":38.41667,
+    "gn:longitude":40.36667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Pisil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302549
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d4647d143a26ed1e5a81429bc591f7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709569,
+            "locality_id":1226200963,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1226200963,
+    "wof:lastmodified":1536997559,
+    "wof:name":"Pisil",
+    "wof:parent_id":1108709569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.36667,
+    38.41667,
+    40.36667,
+    38.41667
+],
+  "geometry": {"coordinates":[40.36667,38.41667],"type":"Point"}
+}

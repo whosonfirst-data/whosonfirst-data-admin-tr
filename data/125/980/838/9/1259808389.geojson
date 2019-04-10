@@ -1,0 +1,77 @@
+{
+  "id": 1259808389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.49938,39.08928,41.49938,39.08928",
+    "geom:latitude":39.08928,
+    "geom:longitude":41.49938,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Tepekoy",
+    "gn:country_code":"TR",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295864,
+    "gn:latitude":39.08928,
+    "gn:longitude":41.49938,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Tepek\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tepe"
+    ],
+    "name:tur_x_variant":[
+        "Tepek\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Zerink",
+        "Zirink"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        1108709959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295864
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6a75aaadf8401fd51fe1c1977da3a772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709959,
+            "locality_id":1259808389,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1259808389,
+    "wof:lastmodified":1537706545,
+    "wof:name":"Tepekoy",
+    "wof:parent_id":1108709959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.49938,
+    39.08928,
+    41.49938,
+    39.08928
+],
+  "geometry": {"coordinates":[41.49938,39.08928],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326546759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90667,39.82509,33.90667,39.82509",
+    "geom:latitude":39.82509,
+    "geom:longitude":33.90667,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Karakoyunlu",
+    "gn:country_code":"TR",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319260,
+    "gn:latitude":39.82509,
+    "gn:longitude":33.90667,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Karakoyunlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karakoyunlu"
+    ],
+    "name:und_x_variant":[
+        "\u00c7atall\u0131karakoyun",
+        "\u00c7atall\u0131",
+        "\u00c7atall\u0131karakoyunlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679447,
+        1108709427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319260
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"28a57609f55ef9932cd31b421a5ab9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709427,
+            "locality_id":1326546759,
+            "region_id":85679447
+        }
+    ],
+    "wof:id":1326546759,
+    "wof:lastmodified":1537707312,
+    "wof:name":"Karakoyunlu",
+    "wof:parent_id":1108709427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90667,
+    39.82509,
+    33.90667,
+    39.82509
+],
+  "geometry": {"coordinates":[33.90667,39.82509],"type":"Point"}
+}

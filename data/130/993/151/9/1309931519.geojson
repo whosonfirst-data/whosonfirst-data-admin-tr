@@ -1,0 +1,67 @@
+{
+  "id": 1309931519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.75,36.95,28.75,36.95",
+    "geom:latitude":36.95,
+    "geom:longitude":28.75,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Aziziye",
+    "gn:country_code":"TR",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322636,
+    "gn:latitude":36.95,
+    "gn:longitude":28.75,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Aziziye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890461023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322636
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dffc2b2cc933e7ca85515852c1250b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461023,
+            "locality_id":1309931519,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1309931519,
+    "wof:lastmodified":1536749846,
+    "wof:name":"Aziziye",
+    "wof:parent_id":890461023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.75,
+    36.95,
+    28.75,
+    36.95
+],
+  "geometry": {"coordinates":[28.75,36.95],"type":"Point"}
+}

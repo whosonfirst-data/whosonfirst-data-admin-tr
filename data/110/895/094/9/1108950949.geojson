@@ -1,0 +1,61 @@
+{
+  "id": 1108950949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.6819523512,41.3416864434,28.6819523512,41.3416864434",
+    "geom:latitude":41.341686,
+    "geom:longitude":28.681952,
+    "iso:country":"TR",
+    "lbl:latitude":41.341686,
+    "lbl:longitude":28.681952,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        1108709297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368742,
+    "wof:geomhash":"4c5ff580981ff510cea9f7553872a8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709297,
+            "neighbourhood_id":1108950949,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950949,
+    "wof:lastmodified":1492123994,
+    "wof:name":"Karaburun",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.68195235116397,
+    41.34168644335029,
+    28.68195235116397,
+    41.34168644335029
+],
+  "geometry": {"coordinates":[28.68195235116397,41.34168644335029],"type":"Point"}
+}

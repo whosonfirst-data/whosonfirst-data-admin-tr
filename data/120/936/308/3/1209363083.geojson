@@ -1,0 +1,67 @@
+{
+  "id": 1209363083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.46316,40.40818,43.46316,40.40818",
+    "geom:latitude":40.40818,
+    "geom:longitude":43.46316,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Senol",
+    "gn:country_code":"TR",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739809,
+    "gn:latitude":40.40818,
+    "gn:longitude":43.46316,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015eenol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tashnik",
+        "Ta\u015fnik",
+        "T\u00fcrkta\u015fnik",
+        "\u015eenol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739809
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3be3b4aee84a845ba2306c2fe2ab98d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209363083
+        }
+    ],
+    "wof:id":1209363083,
+    "wof:lastmodified":1537707712,
+    "wof:name":"Senol",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.46316,
+    40.40818,
+    43.46316,
+    40.40818
+],
+  "geometry": {"coordinates":[43.46316,40.40818],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243389005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.51112,39.0896,29.51112,39.0896",
+    "geom:latitude":39.0896,
+    "geom:longitude":29.51112,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Polat",
+    "gn:country_code":"TR",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302476,
+    "gn:latitude":39.0896,
+    "gn:longitude":29.51112,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Polat",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Polat"
+    ],
+    "name:und_x_variant":[
+        "Pulatk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302476
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"97c40b2a0bac94703116dc6e58ffa17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709507,
+            "locality_id":1243389005,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1243389005,
+    "wof:lastmodified":1537706776,
+    "wof:name":"Polat",
+    "wof:parent_id":1108709507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.51112,
+    39.0896,
+    29.51112,
+    39.0896
+],
+  "geometry": {"coordinates":[29.51112,39.0896],"type":"Point"}
+}

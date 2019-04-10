@@ -1,0 +1,67 @@
+{
+  "id": 1276360217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63542,37.85384,34.63542,37.85384",
+    "geom:latitude":37.85384,
+    "geom:longitude":34.63542,
+    "gn:admin1_code":"73",
+    "gn:asciiname":"Kaynarca",
+    "gn:country_code":"TR",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308488,
+    "gn:latitude":37.85384,
+    "gn:longitude":34.63542,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kaynarca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679453,
+        1108709391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308488
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b7da5147626c642824605885f84aaa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709391,
+            "locality_id":1276360217,
+            "region_id":85679453
+        }
+    ],
+    "wof:id":1276360217,
+    "wof:lastmodified":1536742368,
+    "wof:name":"Kaynarca",
+    "wof:parent_id":1108709391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63542,
+    37.85384000000001,
+    34.63542,
+    37.85384000000001
+],
+  "geometry": {"coordinates":[34.63542,37.85384000000001],"type":"Point"}
+}

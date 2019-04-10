@@ -1,0 +1,67 @@
+{
+  "id": 1343525899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31667,36.93333,29.31667,36.93333",
+    "geom:latitude":36.93333,
+    "geom:longitude":29.31667,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Serler",
+    "gn:country_code":"TR",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301079,
+    "gn:latitude":36.93333,
+    "gn:longitude":29.31667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"\u015eerler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108710015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301079
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3512b34bf77234f789c4c04cc89cf54a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710015,
+            "locality_id":1343525899,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1343525899,
+    "wof:lastmodified":1536651792,
+    "wof:name":"Serler",
+    "wof:parent_id":1108710015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31667,
+    36.93333,
+    29.31667,
+    36.93333
+],
+  "geometry": {"coordinates":[29.31667,36.93333],"type":"Point"}
+}

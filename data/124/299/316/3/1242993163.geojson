@@ -1,0 +1,67 @@
+{
+  "id": 1242993163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42222,36.41528,30.42222,36.41528",
+    "geom:latitude":36.41528,
+    "geom:longitude":30.42222,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yenbey",
+    "gn:country_code":"TR",
+    "gn:dem":475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297210,
+    "gn:latitude":36.41528,
+    "gn:longitude":30.42222,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Yenbey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297210
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c41f57e9eb7d7dd6c9469638a07f7d3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463099,
+            "locality_id":1242993163,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1242993163,
+    "wof:lastmodified":1536961972,
+    "wof:name":"Yenbey",
+    "wof:parent_id":890463099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42222000000001,
+    36.41528,
+    30.42222000000001,
+    36.41528
+],
+  "geometry": {"coordinates":[30.42222000000001,36.41528],"type":"Point"}
+}

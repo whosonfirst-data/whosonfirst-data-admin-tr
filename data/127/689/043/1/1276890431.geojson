@@ -1,0 +1,67 @@
+{
+  "id": 1276890431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.38961,39.85314,34.38961,39.85314",
+    "geom:latitude":39.85314,
+    "geom:longitude":34.38961,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Orhan",
+    "gn:country_code":"TR",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303410,
+    "gn:latitude":39.85314,
+    "gn:longitude":34.38961,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Orhan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303410
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8752f6415f95ccf1729da3d2e8827e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709999,
+            "locality_id":1276890431,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1276890431,
+    "wof:lastmodified":1537025861,
+    "wof:name":"Orhan",
+    "wof:parent_id":1108709999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.38961,
+    39.85314,
+    34.38961,
+    39.85314
+],
+  "geometry": {"coordinates":[34.38961,39.85314],"type":"Point"}
+}

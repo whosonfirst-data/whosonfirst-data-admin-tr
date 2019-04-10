@@ -1,0 +1,67 @@
+{
+  "id": 1276360127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.84225,39.55104,36.84225,39.55104",
+    "geom:latitude":39.55104,
+    "geom:longitude":36.84225,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Kabasakal",
+    "gn:country_code":"TR",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310971,
+    "gn:latitude":39.55104,
+    "gn:longitude":36.84225,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kabasakal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310971
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"acb9ae0e1f413a10616415da8c79ee79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1276360127,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1276360127,
+    "wof:lastmodified":1536742489,
+    "wof:name":"Kabasakal",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.84225,
+    39.55104,
+    36.84225,
+    39.55104
+],
+  "geometry": {"coordinates":[36.84225,39.55104],"type":"Point"}
+}

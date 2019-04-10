@@ -1,0 +1,73 @@
+{
+  "id": 1260005059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2601,38.7724,44.2601,38.7724",
+    "geom:latitude":38.7724,
+    "geom:longitude":44.2601,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Tavre Qaleh",
+    "gn:country_code":"TR",
+    "gn:dem":2215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6672123,
+    "gn:latitude":38.7724,
+    "gn:longitude":44.2601,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"\u0162avre Q\u0101leh",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0637\u0648\u0631 \u0642\u0627\u0644\u0647"
+    ],
+    "name:und_x_variant":[
+        "\u0162avre Q\u0101leh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6672123
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d1e7f96c5c1c9078afa55205b03b1fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710079,
+            "locality_id":1260005059,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1260005059,
+    "wof:lastmodified":1537708166,
+    "wof:name":"Tavre Qaleh",
+    "wof:parent_id":1108710079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2601,
+    38.7724,
+    44.2601,
+    38.7724
+],
+  "geometry": {"coordinates":[44.2601,38.7724],"type":"Point"}
+}

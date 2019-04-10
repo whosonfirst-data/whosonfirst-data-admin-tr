@@ -1,0 +1,64 @@
+{
+  "id": 1209170699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.91821,38.03603,39.91821,38.03603",
+    "geom:latitude":38.03603,
+    "geom:longitude":39.91821,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Taban",
+    "gn:country_code":"TR",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299988,
+    "gn:latitude":38.03603,
+    "gn:longitude":39.91821,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Taban",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Taban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299988
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cfe920f1be2b5174d4ee54d4c0ce716b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209170699
+        }
+    ],
+    "wof:id":1209170699,
+    "wof:lastmodified":1537706693,
+    "wof:name":"Taban",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.91821,
+    38.03603,
+    39.91821,
+    38.03603
+],
+  "geometry": {"coordinates":[39.91821,38.03603],"type":"Point"}
+}

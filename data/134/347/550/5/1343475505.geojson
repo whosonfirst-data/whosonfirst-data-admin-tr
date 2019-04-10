@@ -1,0 +1,67 @@
+{
+  "id": 1343475505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24001,40.24546,31.24001,40.24546",
+    "geom:latitude":40.24546,
+    "geom:longitude":31.24001,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Kadikoy",
+    "gn:country_code":"TR",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744929,
+    "gn:latitude":40.24546,
+    "gn:longitude":31.24001,
+    "gn:modification_date":"2009-11-01",
+    "gn:name":"Kad\u0131k\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744929
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e62de98e28ff87f7bbd67160a6f3b702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464031,
+            "locality_id":1343475505,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1343475505,
+    "wof:lastmodified":1536724777,
+    "wof:name":"Kadikoy",
+    "wof:parent_id":890464031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24001,
+    40.24546,
+    31.24001,
+    40.24546
+],
+  "geometry": {"coordinates":[31.24001,40.24546],"type":"Point"}
+}

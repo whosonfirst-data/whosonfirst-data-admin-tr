@@ -1,0 +1,75 @@
+{
+  "id": 1209732121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.54111,36.74278,36.54111,36.74278",
+    "geom:latitude":36.74278,
+    "geom:longitude":36.54111,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Haydarbanisi",
+    "gn:country_code":"TR",
+    "gn:dem":327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":437204,
+    "gn:latitude":36.74278,
+    "gn:longitude":36.54111,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Haydarban\u0131s\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Haydarban\u0131s\u0131"
+    ],
+    "name:und_x_variant":[
+        "Khaydarlar",
+        "Haydarlarban\u0131s\u0131",
+        "Haydarlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":437204
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"069601ad55829013838fe0bf06cef011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709575,
+            "locality_id":1209732121,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1209732121,
+    "wof:lastmodified":1537707539,
+    "wof:name":"Haydarbanisi",
+    "wof:parent_id":1108709575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.54111,
+    36.74278,
+    36.54111,
+    36.74278
+],
+  "geometry": {"coordinates":[36.54111,36.74278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343381343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73381,36.31134,29.73381,36.31134",
+    "geom:latitude":36.31134,
+    "geom:longitude":29.73381,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kasaba",
+    "gn:country_code":"TR",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308944,
+    "gn:latitude":36.31134,
+    "gn:longitude":29.73381,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Kasaba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890462379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308944
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e50cf695d219c05413a5d609681f0e5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462379,
+            "locality_id":1343381343,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1343381343,
+    "wof:lastmodified":1536859072,
+    "wof:name":"Kasaba",
+    "wof:parent_id":890462379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73381,
+    36.31134,
+    29.73381,
+    36.31134
+],
+  "geometry": {"coordinates":[29.73381,36.31134],"type":"Point"}
+}

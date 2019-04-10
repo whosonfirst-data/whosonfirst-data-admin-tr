@@ -1,0 +1,70 @@
+{
+  "id": 1260004165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17777,39.03599,30.17777,39.03599",
+    "geom:latitude":39.03599,
+    "geom:longitude":30.17777,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Murathanlar",
+    "gn:country_code":"TR",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304117,
+    "gn:latitude":39.03599,
+    "gn:longitude":30.17777,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Murathanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Murathanlar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304117
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3dd8eb68998b94d6e74042344d78d069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709279,
+            "locality_id":1260004165,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1260004165,
+    "wof:lastmodified":1537706829,
+    "wof:name":"Murathanlar",
+    "wof:parent_id":1108709279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17777,
+    39.03599000000001,
+    30.17777,
+    39.03599000000001
+],
+  "geometry": {"coordinates":[30.17777,39.03599000000001],"type":"Point"}
+}

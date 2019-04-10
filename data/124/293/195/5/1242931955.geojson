@@ -1,0 +1,72 @@
+{
+  "id": 1242931955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.48453,38.11661,40.48453,38.11661",
+    "geom:latitude":38.11661,
+    "geom:longitude":40.48453,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Sakizcik",
+    "gn:country_code":"TR",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310542,
+    "gn:latitude":38.11661,
+    "gn:longitude":40.48453,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sak\u0131zc\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00e2nh\u0131d\u0131r",
+        "Sak\u0131zc\u0131k",
+        "K\u00e2nih\u0131d\u0131r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310542
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"67c19dca869b1c69651d2f8a7ba4cc5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709909,
+            "locality_id":1242931955,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1242931955,
+    "wof:lastmodified":1537707027,
+    "wof:name":"Sakizcik",
+    "wof:parent_id":1108709909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.48453,
+    38.11661,
+    40.48453,
+    38.11661
+],
+  "geometry": {"coordinates":[40.48453,38.11661],"type":"Point"}
+}

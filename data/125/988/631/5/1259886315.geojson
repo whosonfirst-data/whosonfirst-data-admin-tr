@@ -1,0 +1,71 @@
+{
+  "id": 1259886315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22337,38.11377,30.22337,38.11377",
+    "geom:latitude":38.11377,
+    "geom:longitude":30.22337,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Akgun",
+    "gn:country_code":"TR",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324706,
+    "gn:latitude":38.11377,
+    "gn:longitude":30.22337,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Akg\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeregiren",
+        "Akg\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324706
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"22ac097281677c8e8c358fdd478a3477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461199,
+            "locality_id":1259886315,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1259886315,
+    "wof:lastmodified":1537707489,
+    "wof:name":"Akgun",
+    "wof:parent_id":890461199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22337000000001,
+    38.11377,
+    30.22337000000001,
+    38.11377
+],
+  "geometry": {"coordinates":[30.22337000000001,38.11377],"type":"Point"}
+}

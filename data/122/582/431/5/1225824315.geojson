@@ -1,0 +1,73 @@
+{
+  "id": 1225824315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18335,38.80343,42.18335,38.80343",
+    "geom:latitude":38.80343,
+    "geom:longitude":42.18335,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Alakir",
+    "gn:country_code":"TR",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304423,
+    "gn:latitude":38.80343,
+    "gn:longitude":42.18335,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Alak\u0131r",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alak\u0131r"
+    ],
+    "name:und_x_variant":[
+        "Mezik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890464605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304423
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"035517e6531a672f3d66827ad2aea79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464605,
+            "locality_id":1225824315,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1225824315,
+    "wof:lastmodified":1537706841,
+    "wof:name":"Alakir",
+    "wof:parent_id":890464605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18335,
+    38.80343,
+    42.18335,
+    38.80343
+],
+  "geometry": {"coordinates":[42.18335,38.80343],"type":"Point"}
+}

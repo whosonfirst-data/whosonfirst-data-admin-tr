@@ -1,0 +1,65 @@
+{
+  "id": 1209541229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.11951,37.5623,39.11951,37.5623",
+    "geom:latitude":37.5623,
+    "geom:longitude":39.11951,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Dogrular",
+    "gn:country_code":"TR",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316417,
+    "gn:latitude":37.5623,
+    "gn:longitude":39.11951,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Do\u011frular",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Do\u011frular",
+        "Diru\u015fa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316417
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"11254cb84bad144e25746a597b2ef9c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541229
+        }
+    ],
+    "wof:id":1209541229,
+    "wof:lastmodified":1537707218,
+    "wof:name":"Dogrular",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.11951,
+    37.5623,
+    39.11951,
+    37.5623
+],
+  "geometry": {"coordinates":[39.11951,37.5623],"type":"Point"}
+}

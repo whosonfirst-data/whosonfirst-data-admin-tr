@@ -1,0 +1,74 @@
+{
+  "id": 1226012081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.88378,40.00453,40.88378,40.00453",
+    "geom:latitude":40.00453,
+    "geom:longitude":40.88378,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Bascakmak",
+    "gn:country_code":"TR",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741551,
+    "gn:latitude":40.00453,
+    "gn:longitude":40.88378,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Ba\u015f\u00e7akmak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Simansor"
+    ],
+    "name:und_x_variant":[
+        "Ba\u015f\u00e7akmak",
+        "Meymansur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741551
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d5f4351497bb98c68405abd301068e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709321,
+            "locality_id":1226012081,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1226012081,
+    "wof:lastmodified":1537707770,
+    "wof:name":"Bascakmak",
+    "wof:parent_id":1108709321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.88378,
+    40.00453,
+    40.88378,
+    40.00453
+],
+  "geometry": {"coordinates":[40.88378,40.00453],"type":"Point"}
+}

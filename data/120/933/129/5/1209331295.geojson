@@ -1,0 +1,64 @@
+{
+  "id": 1209331295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.45081,38.69238,43.45081,38.69238",
+    "geom:latitude":38.69238,
+    "geom:longitude":43.45081,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Adiguzel",
+    "gn:country_code":"TR",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325340,
+    "gn:latitude":38.69238,
+    "gn:longitude":43.45081,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Ad\u0131g\u00fczel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ad\u0131g\u00fczel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325340
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c056b6fd6d0315e6280946485dbc9db6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331295
+        }
+    ],
+    "wof:id":1209331295,
+    "wof:lastmodified":1537707508,
+    "wof:name":"Adiguzel",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.45081,
+    38.69238,
+    43.45081,
+    38.69238
+],
+  "geometry": {"coordinates":[43.45081,38.69238],"type":"Point"}
+}

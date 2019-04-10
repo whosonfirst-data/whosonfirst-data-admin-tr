@@ -1,0 +1,72 @@
+{
+  "id": 1225861457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.83641,38.92544,43.83641,38.92544",
+    "geom:latitude":38.92544,
+    "geom:longitude":43.83641,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Adakli",
+    "gn:country_code":"TR",
+    "gn:dem":2194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325381,
+    "gn:latitude":38.92544,
+    "gn:longitude":43.83641,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Adakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bincevan",
+        "Bincivan",
+        "Adakl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325381
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c22e2ca7f142e080b8c515e441d5c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464469,
+            "locality_id":1225861457,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1225861457,
+    "wof:lastmodified":1537707510,
+    "wof:name":"Adakli",
+    "wof:parent_id":890464469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.83641,
+    38.92544,
+    43.83641,
+    38.92544
+],
+  "geometry": {"coordinates":[43.83641,38.92544],"type":"Point"}
+}

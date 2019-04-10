@@ -1,0 +1,64 @@
+{
+  "id": 1209532415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09941,40.69055,30.09941,40.69055",
+    "geom:latitude":40.69055,
+    "geom:longitude":30.09941,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Nusretiye",
+    "gn:country_code":"TR",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8384195,
+    "gn:latitude":40.69055,
+    "gn:longitude":30.09941,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Nusretiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Nusretiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384195
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0f30a7c97d428e61f7d0fcab678f5701",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532415
+        }
+    ],
+    "wof:id":1209532415,
+    "wof:lastmodified":1537708290,
+    "wof:name":"Nusretiye",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09941,
+    40.69055,
+    30.09941,
+    40.69055
+],
+  "geometry": {"coordinates":[30.09941,40.69055],"type":"Point"}
+}

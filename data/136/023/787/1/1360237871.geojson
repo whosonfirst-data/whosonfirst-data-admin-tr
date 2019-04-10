@@ -1,0 +1,71 @@
+{
+  "id": 1360237871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.75322,38.02294,27.75322,38.02294",
+    "geom:latitude":38.02294,
+    "geom:longitude":27.75322,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kucukkomurcu",
+    "gn:country_code":"TR",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305908,
+    "gn:latitude":38.02294,
+    "gn:longitude":27.75322,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"K\u00fc\u00e7\u00fckk\u00f6m\u00fcrc\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6m\u00fcrc\u00fc",
+        "K\u00fc\u00e7\u00fckk\u00f6m\u00fcrc\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890462119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305908
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e2db9c84cccc9e6c6a044c335e0f6a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462119,
+            "locality_id":1360237871,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1360237871,
+    "wof:lastmodified":1537706888,
+    "wof:name":"Kucukkomurcu",
+    "wof:parent_id":890462119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.75322,
+    38.02294000000001,
+    27.75322,
+    38.02294000000001
+],
+  "geometry": {"coordinates":[27.75322,38.02294000000001],"type":"Point"}
+}

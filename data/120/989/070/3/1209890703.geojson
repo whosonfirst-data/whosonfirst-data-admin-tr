@@ -1,0 +1,73 @@
+{
+  "id": 1209890703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.20061,40.51908,35.20061,40.51908",
+    "geom:latitude":40.51908,
+    "geom:longitude":35.20061,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Akcakoyun",
+    "gn:country_code":"TR",
+    "gn:dem":915,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752577,
+    "gn:latitude":40.51908,
+    "gn:longitude":35.20061,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Ak\u00e7akoyun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u011fcakoyunu",
+        "Ak\u00e7akoyun",
+        "Ak\u00e7akoyunlu",
+        "A\u011fcakoyun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752577
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85a783ae0be9bcc2bd793f2065369179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709717,
+            "locality_id":1209890703,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1209890703,
+    "wof:lastmodified":1537708145,
+    "wof:name":"Akcakoyun",
+    "wof:parent_id":1108709717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.20061,
+    40.51908,
+    35.20061,
+    40.51908
+],
+  "geometry": {"coordinates":[35.20061,40.51908],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1344113409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28333,38.03333,39.28333,38.03333",
+    "geom:latitude":38.03333,
+    "geom:longitude":39.28333,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Seyhandede",
+    "gn:country_code":"TR",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300994,
+    "gn:latitude":38.03333,
+    "gn:longitude":39.28333,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u015eeyhandede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eeyhandede"
+    ],
+    "name:und_x_variant":[
+        "\u015eeyhandede K\u00f6y\u00fc",
+        "\u015eeyhandere",
+        "Seyhandede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108710061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300994
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"69cd02254186234d3a6e19103ca47a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710061,
+            "locality_id":1344113409,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1344113409,
+    "wof:lastmodified":1537706726,
+    "wof:name":"Seyhandede",
+    "wof:parent_id":1108710061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28333,
+    38.03333,
+    39.28333,
+    38.03333
+],
+  "geometry": {"coordinates":[39.28333,38.03333],"type":"Point"}
+}

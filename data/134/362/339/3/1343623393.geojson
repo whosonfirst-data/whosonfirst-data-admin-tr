@@ -1,0 +1,67 @@
+{
+  "id": 1343623393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.76824,40.92666,34.76824,40.92666",
+    "geom:latitude":40.92666,
+    "geom:longitude":34.76824,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Findicak",
+    "gn:country_code":"TR",
+    "gn:dem":776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747109,
+    "gn:latitude":40.92666,
+    "gn:longitude":34.76824,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"F\u0131nd\u0131cak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747109
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4099088da07d31e3cbf851c3b0749566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709785,
+            "locality_id":1343623393,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1343623393,
+    "wof:lastmodified":1537007919,
+    "wof:name":"Findicak",
+    "wof:parent_id":1108709785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.76824000000001,
+    40.92666,
+    34.76824000000001,
+    40.92666
+],
+  "geometry": {"coordinates":[34.76824000000001,40.92666],"type":"Point"}
+}

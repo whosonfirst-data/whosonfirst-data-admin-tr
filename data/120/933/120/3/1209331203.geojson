@@ -1,0 +1,64 @@
+{
+  "id": 1209331203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.92936,38.14928,37.92936,38.14928",
+    "geom:latitude":38.14928,
+    "geom:longitude":37.92936,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Polatderesi",
+    "gn:country_code":"TR",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302528,
+    "gn:latitude":38.14928,
+    "gn:longitude":37.92936,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Polatderesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Polatderesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302528
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1954a8f87fc02377d37bf6a0298549df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331203
+        }
+    ],
+    "wof:id":1209331203,
+    "wof:lastmodified":1537706777,
+    "wof:name":"Polatderesi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.92936,
+    38.14928,
+    37.92936,
+    38.14928
+],
+  "geometry": {"coordinates":[37.92936,38.14928],"type":"Point"}
+}

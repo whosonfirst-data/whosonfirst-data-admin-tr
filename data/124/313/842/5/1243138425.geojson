@@ -1,0 +1,68 @@
+{
+  "id": 1243138425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.41722,40.22836,26.41722,40.22836",
+    "geom:latitude":40.22836,
+    "geom:longitude":26.41722,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Sestos",
+    "gn:country_code":"TR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":8435885,
+    "gn:latitude":40.22836,
+    "gn:longitude":26.41722,
+    "gn:modification_date":"2012-12-14",
+    "gn:name":"Sestos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8435885,
+        "wk:page":"Sestos"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"62a4f44ad1c2fdb569d0d72d86598182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709471,
+            "locality_id":1243138425,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1243138425,
+    "wof:lastmodified":1537574688,
+    "wof:name":"Sestos",
+    "wof:parent_id":1108709471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.41722,
+    40.22836,
+    26.41722,
+    40.22836
+],
+  "geometry": {"coordinates":[26.41722,40.22836],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293513067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2726,38.5449,44.2726,38.5449",
+    "geom:latitude":38.5449,
+    "geom:longitude":44.2726,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Yaman Yurd",
+    "gn:country_code":"TR",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6672143,
+    "gn:latitude":38.5449,
+    "gn:longitude":44.2726,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Y\u0101m\u0101n Y\u016brd",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u06cc\u0627\u0645\u0627\u0646 \u06cc\u0648\u0631\u062f"
+    ],
+    "name:fas_x_variant":[
+        "Y\u0101m\u0101n Y\u016brd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108709859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6672143
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8865fd8b8a334deaf9eaaac8ad51b82a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709859,
+            "locality_id":1293513067,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1293513067,
+    "wof:lastmodified":1537708166,
+    "wof:name":"Yaman Yurd",
+    "wof:parent_id":1108709859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2726,
+    38.5449,
+    44.2726,
+    38.5449
+],
+  "geometry": {"coordinates":[44.2726,38.5449],"type":"Point"}
+}

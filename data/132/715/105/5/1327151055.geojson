@@ -1,0 +1,75 @@
+{
+  "id": 1327151055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.0561,37.6069,42.0561,37.6069",
+    "geom:latitude":37.6069,
+    "geom:longitude":42.0561,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Hiras",
+    "gn:country_code":"TR",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303008,
+    "gn:latitude":37.6069,
+    "gn:longitude":42.0561,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Hiras",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khararysh",
+        "Herari\u015f",
+        "\u00d6zba\u015f\u0131o\u011flu",
+        "Harari\u015f",
+        "Hiras",
+        "\u00d6zba\u015fo\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        1108709551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303008
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f6d135656f75b5cf9e4b496bb927fd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709551,
+            "locality_id":1327151055,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1327151055,
+    "wof:lastmodified":1537706793,
+    "wof:name":"Hiras",
+    "wof:parent_id":1108709551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.0561,
+    37.6069,
+    42.0561,
+    37.6069
+],
+  "geometry": {"coordinates":[42.0561,37.6069],"type":"Point"}
+}

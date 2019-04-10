@@ -1,0 +1,67 @@
+{
+  "id": 1343586723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.63333,40.66667,37.63333,40.66667",
+    "geom:latitude":40.66667,
+    "geom:longitude":37.63333,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Karagoz",
+    "gn:country_code":"TR",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744350,
+    "gn:latitude":40.66667,
+    "gn:longitude":37.63333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karag\u00f6z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        890464123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744350
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f481b98723fa30f7f985e7dddb5645da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464123,
+            "locality_id":1343586723,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1343586723,
+    "wof:lastmodified":1537059015,
+    "wof:name":"Karagoz",
+    "wof:parent_id":890464123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.63333,
+    40.66667,
+    37.63333,
+    40.66667
+],
+  "geometry": {"coordinates":[37.63333,40.66667],"type":"Point"}
+}

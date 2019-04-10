@@ -1,0 +1,70 @@
+{
+  "id": 1226592377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.56588,40.55412,43.56588,40.55412",
+    "geom:latitude":40.55412,
+    "geom:longitude":43.56588,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Arazoglu",
+    "gn:country_code":"TR",
+    "gn:dem":1526,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751954,
+    "gn:latitude":40.55412,
+    "gn:longitude":43.56588,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Arazo\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Arazo\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890462489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751954
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"80df64533df38b069894c380bdfae60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462489,
+            "locality_id":1226592377,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1226592377,
+    "wof:lastmodified":1537708122,
+    "wof:name":"Arazoglu",
+    "wof:parent_id":890462489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.56588,
+    40.55412000000001,
+    43.56588,
+    40.55412000000001
+],
+  "geometry": {"coordinates":[43.56588,40.55412000000001],"type":"Point"}
+}

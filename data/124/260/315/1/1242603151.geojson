@@ -1,0 +1,70 @@
+{
+  "id": 1242603151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.43308,41.01895,39.43308,41.01895",
+    "geom:latitude":41.01895,
+    "geom:longitude":39.43308,
+    "gn:admin1_code":"61",
+    "gn:asciiname":"Kovanli",
+    "gn:country_code":"TR",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234734,
+    "gn:latitude":41.01895,
+    "gn:longitude":39.43308,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kovanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kovanl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890462825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234734
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8bcd893bcb13261687f27186ba8c2cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462825,
+            "locality_id":1242603151,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1242603151,
+    "wof:lastmodified":1537708405,
+    "wof:name":"Kovanli",
+    "wof:parent_id":890462825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.43308,
+    41.01895,
+    39.43308,
+    41.01895
+],
+  "geometry": {"coordinates":[39.43308,41.01895],"type":"Point"}
+}

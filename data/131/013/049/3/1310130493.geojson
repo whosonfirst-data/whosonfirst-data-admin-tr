@@ -1,0 +1,77 @@
+{
+  "id": 1310130493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31421,40.03168,36.31421,40.03168",
+    "geom:latitude":40.03168,
+    "geom:longitude":36.31421,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Buget",
+    "gn:country_code":"TR",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750339,
+    "gn:latitude":40.03168,
+    "gn:longitude":36.31421,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00fc\u011fet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u00fc\u011fet"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u0433\u0435\u0442"
+    ],
+    "name:und_x_variant":[
+        "B\u00fcyet",
+        "B\u00fc\u011fet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890464169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750339
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b97321a73803777308f662cdf803c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464169,
+            "locality_id":1310130493,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1310130493,
+    "wof:lastmodified":1537708064,
+    "wof:name":"Buget",
+    "wof:parent_id":890464169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31421,
+    40.03168,
+    36.31421,
+    40.03168
+],
+  "geometry": {"coordinates":[36.31421,40.03168],"type":"Point"}
+}

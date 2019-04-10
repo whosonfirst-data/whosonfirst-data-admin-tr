@@ -1,0 +1,65 @@
+{
+  "id": 1209353305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02566,41.245,33.02566,41.245",
+    "geom:latitude":41.245,
+    "geom:longitude":33.02566,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kayabasi",
+    "gn:country_code":"TR",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743720,
+    "gn:latitude":41.245,
+    "gn:longitude":33.02566,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kayaba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayaba\u015f\u0131",
+        "Kayadibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743720
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2da573d6e99362d893d27362d2ed7651",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209353305
+        }
+    ],
+    "wof:id":1209353305,
+    "wof:lastmodified":1537707839,
+    "wof:name":"Kayabasi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02565999999999,
+    41.245,
+    33.02565999999999,
+    41.245
+],
+  "geometry": {"coordinates":[33.02565999999999,41.245],"type":"Point"}
+}

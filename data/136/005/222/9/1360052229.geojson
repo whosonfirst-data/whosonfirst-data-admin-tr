@@ -1,0 +1,67 @@
+{
+  "id": 1360052229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92222,39.56833,30.92222,39.56833",
+    "geom:latitude":39.56833,
+    "geom:longitude":30.92222,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Hamidiye",
+    "gn:country_code":"TR",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312753,
+    "gn:latitude":39.56833,
+    "gn:longitude":30.92222,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Hamidiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890461399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312753
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee7f3b5fb4fa79bc986d1d30decdce62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461399,
+            "locality_id":1360052229,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1360052229,
+    "wof:lastmodified":1536992383,
+    "wof:name":"Hamidiye",
+    "wof:parent_id":890461399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92222000000001,
+    39.56833,
+    30.92222000000001,
+    39.56833
+],
+  "geometry": {"coordinates":[30.92222000000001,39.56833],"type":"Point"}
+}

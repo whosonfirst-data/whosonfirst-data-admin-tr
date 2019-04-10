@@ -1,0 +1,78 @@
+{
+  "id": 1226662835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.33537,40.20969,39.33537,40.20969",
+    "geom:latitude":40.20969,
+    "geom:longitude":39.33537,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Sutveren",
+    "gn:country_code":"TR",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739172,
+    "gn:latitude":40.20969,
+    "gn:longitude":39.33537,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"S\u00fctveren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "S\u00fctveren"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u0440\u043d\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Pernik",
+        "Pernek",
+        "S\u00fctveren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890463525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739172
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1042278ce2db1f0103064acc6aa433ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463525,
+            "locality_id":1226662835,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1226662835,
+    "wof:lastmodified":1537707689,
+    "wof:name":"Sutveren",
+    "wof:parent_id":890463525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.33537000000001,
+    40.20969,
+    39.33537000000001,
+    40.20969
+],
+  "geometry": {"coordinates":[39.33537000000001,40.20969],"type":"Point"}
+}

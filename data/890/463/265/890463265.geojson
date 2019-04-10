@@ -1,0 +1,76 @@
+{
+  "id": 890463265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84473,39.94753,32.84473,39.94753",
+    "geom:latitude":39.94753,
+    "geom:longitude":32.84473,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Evliya \u00c7elebi",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ankara",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":1813,
+    "wof:belongsto":[
+        102191569,
+        85679409,
+        85632393,
+        890463833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927148,
+        "gp:id":55865340,
+        "qs:id":71741,
+        "wd:id":"Q202308",
+        "wk:page":"Evliya \u00c7elebi"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053423,
+    "wof:geomhash":"708061760ed73727cf8fbfebdc654e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463833,
+            "neighbourhood_id":890463265,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":890463265,
+    "wof:lastmodified":1527732944,
+    "wof:name":"Evliya \u00c7elebi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84473,
+    39.94753,
+    32.84473,
+    39.94753
+],
+  "geometry": {"coordinates":[32.84473,39.94753],"type":"Point"}
+}

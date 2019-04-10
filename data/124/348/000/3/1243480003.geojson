@@ -1,0 +1,73 @@
+{
+  "id": 1243480003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.7126,40.03554,38.7126,40.03554",
+    "geom:latitude":40.03554,
+    "geom:longitude":38.7126,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Karayakup",
+    "gn:country_code":"TR",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744049,
+    "gn:latitude":40.03554,
+    "gn:longitude":38.7126,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karayakup",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karayakup"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u044f\u043a\u0443\u043f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108709527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744049
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4cf91ee424ae9e85250806a7b3ccd965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709527,
+            "locality_id":1243480003,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1243480003,
+    "wof:lastmodified":1537707849,
+    "wof:name":"Karayakup",
+    "wof:parent_id":1108709527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.7126,
+    40.03554000000001,
+    38.7126,
+    40.03554000000001
+],
+  "geometry": {"coordinates":[38.7126,40.03554000000001],"type":"Point"}
+}

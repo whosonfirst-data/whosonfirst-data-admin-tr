@@ -1,0 +1,72 @@
+{
+  "id": 890459247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23222,36.09126,36.23222,36.09126",
+    "geom:latitude":36.09126,
+    "geom:longitude":36.23222,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":203,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akamber"
+    ],
+    "name:tur_x_variant":[
+        "Akanta\u015f",
+        "Akambar"
+    ],
+    "qs:name":"Akamber",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438175,
+        "qs:id":548189
+    },
+    "wof:country":"TR",
+    "wof:created":1469053259,
+    "wof:geomhash":"5a2e668e9a6dc31920574dd69c0dc259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709283,
+            "locality_id":890459247,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":890459247,
+    "wof:lastmodified":1505343676,
+    "wof:name":"Akamber",
+    "wof:parent_id":1108709283,
+    "wof:placetype":"locality",
+    "wof:population":203,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23222,
+    36.09126,
+    36.23222,
+    36.09126
+],
+  "geometry": {"coordinates":[36.23222,36.09126],"type":"Point"}
+}

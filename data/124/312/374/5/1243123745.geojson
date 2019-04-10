@@ -1,0 +1,71 @@
+{
+  "id": 1243123745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52428,41.45485,33.52428,41.45485",
+    "geom:latitude":41.45485,
+    "geom:longitude":33.52428,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Sorkun",
+    "gn:country_code":"TR",
+    "gn:dem":877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739376,
+    "gn:latitude":41.45485,
+    "gn:longitude":33.52428,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sorkun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sorgun",
+        "Sorkun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739376
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"281331c1cfb0f0e3c1d3597eaafdc0c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463479,
+            "locality_id":1243123745,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1243123745,
+    "wof:lastmodified":1537707697,
+    "wof:name":"Sorkun",
+    "wof:parent_id":890463479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52428,
+    41.45485,
+    33.52428,
+    41.45485
+],
+  "geometry": {"coordinates":[33.52428,41.45485],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890461303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.13306,40.86778,29.13306,40.86778",
+    "geom:latitude":40.86778,
+    "geom:longitude":29.13306,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":7335,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u044e\u043a\u0430\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "Prinkipo"
+    ],
+    "qs:name":"Adalar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890462793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750249,
+        "qs:id":1026826
+    },
+    "wof:country":"TR",
+    "wof:created":1469053346,
+    "wof:geomhash":"2a83aeec92c37ad65556029a76ef4fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462793,
+            "locality_id":890461303,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890461303,
+    "wof:lastmodified":1505343686,
+    "wof:name":"Adalar",
+    "wof:parent_id":890462793,
+    "wof:placetype":"locality",
+    "wof:population":7335,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.13306,
+    40.86778,
+    29.13306,
+    40.86778
+],
+  "geometry": {"coordinates":[29.13306,40.86778],"type":"Point"}
+}

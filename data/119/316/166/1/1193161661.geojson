@@ -1,0 +1,75 @@
+{
+  "id": 1193161661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.18253,37.99375,41.18253,37.99375",
+    "geom:latitude":37.99375,
+    "geom:longitude":41.18253,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Bayrakli",
+    "gn:country_code":"TR",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":440120,
+    "gn:latitude":37.99375,
+    "gn:longitude":41.18253,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bayrakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bayrakl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Li\u00e7kehas\u0131k",
+        "Lichkekhasik",
+        "Li\u00e7kihas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":440120
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a02855cbc6804a353b27a2373603d865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709725,
+            "locality_id":1193161661,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1193161661,
+    "wof:lastmodified":1537707581,
+    "wof:name":"Bayrakli",
+    "wof:parent_id":1108709725,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.18253,
+    37.99375,
+    41.18253,
+    37.99375
+],
+  "geometry": {"coordinates":[41.18253,37.99375],"type":"Point"}
+}

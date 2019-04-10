@@ -1,0 +1,71 @@
+{
+  "id": 1259962853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68946,40.22108,30.68946,40.22108",
+    "geom:latitude":40.22108,
+    "geom:longitude":30.68946,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kurnuc",
+    "gn:country_code":"TR",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742174,
+    "gn:latitude":40.22108,
+    "gn:longitude":30.68946,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00fcrn\u00fc\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6rn\u00fc\u00e7",
+        "K\u00fcrn\u00fc\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890461159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742174
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e0253bd5537b2a7a4770c6e747509f18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461159,
+            "locality_id":1259962853,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1259962853,
+    "wof:lastmodified":1537707790,
+    "wof:name":"Kurnuc",
+    "wof:parent_id":890461159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68946,
+    40.22108,
+    30.68946,
+    40.22108
+],
+  "geometry": {"coordinates":[30.68946,40.22108],"type":"Point"}
+}

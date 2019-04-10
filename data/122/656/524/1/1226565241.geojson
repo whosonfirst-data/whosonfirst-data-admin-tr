@@ -1,0 +1,71 @@
+{
+  "id": 1226565241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.67444,37.99889,42.67444,37.99889",
+    "geom:latitude":37.99889,
+    "geom:longitude":42.67444,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Sokmen",
+    "gn:country_code":"TR",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300398,
+    "gn:latitude":37.99889,
+    "gn:longitude":42.67444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"S\u00f6kmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6kmen",
+        "Sokmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        890461169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300398
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cfd779ccc88502852a57fc25b371d856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461169,
+            "locality_id":1226565241,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1226565241,
+    "wof:lastmodified":1537706705,
+    "wof:name":"Sokmen",
+    "wof:parent_id":890461169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.67444,
+    37.99889,
+    42.67444,
+    37.99889
+],
+  "geometry": {"coordinates":[42.67444,37.99889],"type":"Point"}
+}

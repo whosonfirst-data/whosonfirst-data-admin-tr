@@ -1,0 +1,67 @@
+{
+  "id": 1360210255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.26667,38.13333,41.26667,38.13333",
+    "geom:latitude":38.13333,
+    "geom:longitude":41.26667,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Kanteri",
+    "gn:country_code":"TR",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310484,
+    "gn:latitude":38.13333,
+    "gn:longitude":41.26667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kanteri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310484
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d8e6064bb44a2130c3978f5b3a9ade7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709675,
+            "locality_id":1360210255,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1360210255,
+    "wof:lastmodified":1536765527,
+    "wof:name":"Kanteri",
+    "wof:parent_id":1108709675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.26667,
+    38.13333,
+    41.26667,
+    38.13333
+],
+  "geometry": {"coordinates":[41.26667,38.13333],"type":"Point"}
+}

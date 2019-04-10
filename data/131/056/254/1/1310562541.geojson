@@ -1,0 +1,76 @@
+{
+  "id": 1310562541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.60059,40.52901,38.60059,40.52901",
+    "geom:latitude":40.52901,
+    "geom:longitude":38.60059,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Cakrak",
+    "gn:country_code":"TR",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750016,
+    "gn:latitude":40.52901,
+    "gn:longitude":38.60059,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00c7akrak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7akrak"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0430\u043a\u0440\u0430\u043a"
+    ],
+    "name:und_x_variant":[
+        "\u00c7akrak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890463379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750016
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f51a98ce6b3c70f66f23b9be6e2815c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463379,
+            "locality_id":1310562541,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1310562541,
+    "wof:lastmodified":1537708053,
+    "wof:name":"Cakrak",
+    "wof:parent_id":890463379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.60059,
+    40.52901,
+    38.60059,
+    40.52901
+],
+  "geometry": {"coordinates":[38.60059,40.52901],"type":"Point"}
+}

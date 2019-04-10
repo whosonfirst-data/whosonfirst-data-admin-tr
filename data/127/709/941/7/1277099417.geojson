@@ -1,0 +1,74 @@
+{
+  "id": 1277099417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7651,40.18119,35.7651,40.18119",
+    "geom:latitude":40.18119,
+    "geom:longitude":35.7651,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Karsiyaka",
+    "gn:country_code":"TR",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743938,
+    "gn:latitude":40.18119,
+    "gn:longitude":35.7651,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kar\u015f\u0131yaka",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ak\u00e7akale",
+        "Elarap",
+        "Ak\u00e7ake\u00e7e",
+        "Ak\u00e7akese",
+        "Kar\u015f\u0131yaka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890461509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743938
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c797840f7f7b6ecb92db360d6bd75a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461509,
+            "locality_id":1277099417,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1277099417,
+    "wof:lastmodified":1537707845,
+    "wof:name":"Karsiyaka",
+    "wof:parent_id":890461509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7651,
+    40.18119,
+    35.7651,
+    40.18119
+],
+  "geometry": {"coordinates":[35.7651,40.18119],"type":"Point"}
+}

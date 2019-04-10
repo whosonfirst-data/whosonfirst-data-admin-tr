@@ -1,0 +1,67 @@
+{
+  "id": 1310230321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04014,39.62678,35.04014,39.62678",
+    "geom:latitude":39.62678,
+    "geom:longitude":35.04014,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Yudan",
+    "gn:country_code":"TR",
+    "gn:dem":1028,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296541,
+    "gn:latitude":39.62678,
+    "gn:longitude":35.04014,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Yudan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890461841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296541
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c1437c4ea9430b7af2523f7f7a1d71d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461841,
+            "locality_id":1310230321,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1310230321,
+    "wof:lastmodified":1536815731,
+    "wof:name":"Yudan",
+    "wof:parent_id":890461841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04014,
+    39.62678,
+    35.04014,
+    39.62678
+],
+  "geometry": {"coordinates":[35.04014,39.62678],"type":"Point"}
+}

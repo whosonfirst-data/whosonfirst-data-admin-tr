@@ -1,0 +1,70 @@
+{
+  "id": 1260311695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88582,40.38673,35.88582,40.38673",
+    "geom:latitude":40.38673,
+    "geom:longitude":35.88582,
+    "gn:admin1_code":"60",
+    "gn:asciiname":"Civril",
+    "gn:country_code":"TR",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10313920,
+    "gn:latitude":40.38673,
+    "gn:longitude":35.88582,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"\u00c7ivril",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ivril"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890461861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10313920
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c21d099e659ab052bb961441a3e2065",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461861,
+            "locality_id":1260311695,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1260311695,
+    "wof:lastmodified":1537708376,
+    "wof:name":"Civril",
+    "wof:parent_id":890461861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88582,
+    40.38673,
+    35.88582,
+    40.38673
+],
+  "geometry": {"coordinates":[35.88582,40.38673],"type":"Point"}
+}

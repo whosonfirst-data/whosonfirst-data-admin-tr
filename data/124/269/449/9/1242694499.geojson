@@ -1,0 +1,73 @@
+{
+  "id": 1242694499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.19026,37.03919,40.19026,37.03919",
+    "geom:latitude":37.03919,
+    "geom:longitude":40.19026,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Arikli",
+    "gn:country_code":"TR",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323635,
+    "gn:latitude":37.03919,
+    "gn:longitude":40.19026,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ar\u0131kl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ar\u0131kl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Mustafamelik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323635
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ac5f93ccc69e7de95cfb6b04e7f43ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":1242694499,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1242694499,
+    "wof:lastmodified":1537707455,
+    "wof:name":"Arikli",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.19026,
+    37.03919000000001,
+    40.19026,
+    37.03919000000001
+],
+  "geometry": {"coordinates":[40.19026,37.03919000000001],"type":"Point"}
+}

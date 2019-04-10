@@ -1,0 +1,64 @@
+{
+  "id": 1209131439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.49801,36.82792,29.49801,36.82792",
+    "geom:latitude":36.82792,
+    "geom:longitude":29.49801,
+    "gn:admin1_code":"48.0",
+    "gn:asciiname":"Gacak",
+    "gn:country_code":"TR",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447247,
+    "gn:latitude":36.82792,
+    "gn:longitude":29.49801,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Gacak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Gacak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447247
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2dc3bded6d991b408242623960f0058",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131439
+        }
+    ],
+    "wof:id":1209131439,
+    "wof:lastmodified":1537707606,
+    "wof:name":"Gacak",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.49801,
+    36.82792,
+    29.49801,
+    36.82792
+],
+  "geometry": {"coordinates":[29.49801,36.82792],"type":"Point"}
+}

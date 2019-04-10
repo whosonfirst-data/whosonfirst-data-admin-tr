@@ -1,0 +1,73 @@
+{
+  "id": 1309686287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.15174,37.17261,29.15174,37.17261",
+    "geom:latitude":37.17261,
+    "geom:longitude":29.15174,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Hisarkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312076,
+    "gn:latitude":37.17261,
+    "gn:longitude":29.15174,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Hisark\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Hisark\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Hisar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        890462359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312076
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cb8c4101d75485a3fd9aab26cd4f4458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462359,
+            "locality_id":1309686287,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1309686287,
+    "wof:lastmodified":1537707077,
+    "wof:name":"Hisarkoy",
+    "wof:parent_id":890462359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15174,
+    37.17261,
+    29.15174,
+    37.17261
+],
+  "geometry": {"coordinates":[29.15174,37.17261],"type":"Point"}
+}

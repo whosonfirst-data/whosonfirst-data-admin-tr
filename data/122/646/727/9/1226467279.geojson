@@ -1,0 +1,67 @@
+{
+  "id": 1226467279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9861,41.3319,31.9861,41.3319",
+    "geom:latitude":41.3319,
+    "geom:longitude":31.9861,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Tepeoren",
+    "gn:country_code":"TR",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042044,
+    "gn:latitude":41.3319,
+    "gn:longitude":31.9861,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Tepe\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        1108709749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042044
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"774b8756748eae598cead1bbfe4c5c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709749,
+            "locality_id":1226467279,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1226467279,
+    "wof:lastmodified":1536611990,
+    "wof:name":"Tepeoren",
+    "wof:parent_id":1108709749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9861,
+    41.3319,
+    31.9861,
+    41.3319
+],
+  "geometry": {"coordinates":[31.9861,41.3319],"type":"Point"}
+}

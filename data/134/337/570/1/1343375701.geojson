@@ -1,0 +1,75 @@
+{
+  "id": 1343375701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64612,38.86703,43.64612,38.86703",
+    "geom:latitude":38.86703,
+    "geom:longitude":43.64612,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Otlakbasi",
+    "gn:country_code":"TR",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303156,
+    "gn:latitude":38.86703,
+    "gn:longitude":43.64612,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Otlakba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mezraak\u00f6p",
+        "Otlukba\u015f\u0131",
+        "Mezre",
+        "Mezrea",
+        "Mezra",
+        "Otlakba\u015f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890462703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303156
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5462b6fdfe14bb454fd9a520f9963b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462703,
+            "locality_id":1343375701,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1343375701,
+    "wof:lastmodified":1537706797,
+    "wof:name":"Otlakbasi",
+    "wof:parent_id":890462703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64612,
+    38.86703,
+    43.64612,
+    38.86703
+],
+  "geometry": {"coordinates":[43.64612,38.86703],"type":"Point"}
+}

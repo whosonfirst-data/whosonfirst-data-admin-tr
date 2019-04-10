@@ -1,0 +1,77 @@
+{
+  "id": 890461907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9434,41.05055,28.9434,41.05055",
+    "geom:latitude":41.05055,
+    "geom:longitude":28.9434,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"S\u00fctl\u00fcce",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos":115,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":115,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":28,
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101913185,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739177,
+        "gp:id":2343646,
+        "qs:id":884352,
+        "wk:page":"S\u00fctl\u00fcce"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053371,
+    "wof:geomhash":"b32c9e045f82c2fdb15454c02f73a290",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "locality_id":101913185,
+            "neighbourhood_id":890461907,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890461907,
+    "wof:lastmodified":1527792986,
+    "wof:name":"S\u00fctl\u00fcce",
+    "wof:parent_id":101913185,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9434,
+    41.05055,
+    28.9434,
+    41.05055
+],
+  "geometry": {"coordinates":[28.9434,41.05055],"type":"Point"}
+}

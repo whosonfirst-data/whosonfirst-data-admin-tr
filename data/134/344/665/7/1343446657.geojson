@@ -1,0 +1,71 @@
+{
+  "id": 1343446657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82067,36.60198,31.82067,36.60198",
+    "geom:latitude":36.60198,
+    "geom:longitude":31.82067,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732185.0",
+    "gn:asciiname":"Tuerkler",
+    "gn:country_code":"TR",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447025,
+    "gn:latitude":36.60198,
+    "gn:longitude":31.82067,
+    "gn:modification_date":"2013-11-10",
+    "gn:name":"T\u00fcrkler",
+    "gn:population":7240,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447025
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23cd68e372460ee5129006f6ed3220e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463831,
+            "locality_id":1343446657,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1343446657,
+    "wof:lastmodified":1536766615,
+    "wof:name":"Tuerkler",
+    "wof:parent_id":890463831,
+    "wof:placetype":"locality",
+    "wof:population":7240,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82067,
+    36.60198,
+    31.82067,
+    36.60198
+],
+  "geometry": {"coordinates":[31.82067,36.60198],"type":"Point"}
+}

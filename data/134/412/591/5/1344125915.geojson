@@ -1,0 +1,70 @@
+{
+  "id": 1344125915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.51118,38.09663,39.51118,38.09663",
+    "geom:latitude":38.09663,
+    "geom:longitude":39.51118,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Baykal",
+    "gn:country_code":"TR",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305482,
+    "gn:latitude":38.09663,
+    "gn:longitude":39.51118,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Baykal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kurto\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108710061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305482
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89021e469061801ecd15c8de3ac56a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710061,
+            "locality_id":1344125915,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1344125915,
+    "wof:lastmodified":1537706875,
+    "wof:name":"Baykal",
+    "wof:parent_id":1108710061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.51118,
+    38.09663,
+    39.51118,
+    38.09663
+],
+  "geometry": {"coordinates":[39.51118,38.09663],"type":"Point"}
+}

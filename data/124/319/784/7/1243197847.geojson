@@ -1,0 +1,67 @@
+{
+  "id": 1243197847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05746,39.84136,36.05746,39.84136",
+    "geom:latitude":39.84136,
+    "geom:longitude":36.05746,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Alicik",
+    "gn:country_code":"TR",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324069,
+    "gn:latitude":39.84136,
+    "gn:longitude":36.05746,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Alicik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324069
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eed75b2a557826b5a43a7445a0e34839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709255,
+            "locality_id":1243197847,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1243197847,
+    "wof:lastmodified":1536667044,
+    "wof:name":"Alicik",
+    "wof:parent_id":1108709255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05746,
+    39.84136,
+    36.05746,
+    39.84136
+],
+  "geometry": {"coordinates":[36.05746,39.84136],"type":"Point"}
+}

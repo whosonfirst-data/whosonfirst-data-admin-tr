@@ -1,0 +1,70 @@
+{
+  "id": 1343585881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.15035,41.13917,41.15035,41.13917",
+    "geom:latitude":41.13917,
+    "geom:longitude":41.15035,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Sendere",
+    "gn:country_code":"TR",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651767,
+    "gn:latitude":41.13917,
+    "gn:longitude":41.15035,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"\u015eendere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eendere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        890463175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651767
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e295fa6b5c7ccc37c38468191113d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463175,
+            "locality_id":1343585881,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1343585881,
+    "wof:lastmodified":1537708305,
+    "wof:name":"Sendere",
+    "wof:parent_id":890463175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.15035,
+    41.13917,
+    41.15035,
+    41.13917
+],
+  "geometry": {"coordinates":[41.15035,41.13917],"type":"Point"}
+}

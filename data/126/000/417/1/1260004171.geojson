@@ -1,0 +1,73 @@
+{
+  "id": 1260004171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.5204,37.2866,39.5204,37.2866",
+    "geom:latitude":37.2866,
+    "geom:longitude":39.5204,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Ayranci",
+    "gn:country_code":"TR",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322719,
+    "gn:latitude":37.2866,
+    "gn:longitude":39.5204,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Ayranc\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ayranc\u0131"
+    ],
+    "name:und_x_variant":[
+        "Ayrancl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890460733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322719
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"66ce4be7bae20e4be4eed96679f2a52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460733,
+            "locality_id":1260004171,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1260004171,
+    "wof:lastmodified":1537707420,
+    "wof:name":"Ayranci",
+    "wof:parent_id":890460733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.5204,
+    37.2866,
+    39.5204,
+    37.2866
+],
+  "geometry": {"coordinates":[39.5204,37.2866],"type":"Point"}
+}

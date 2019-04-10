@@ -1,0 +1,73 @@
+{
+  "id": 1259545423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.97306,40.95857,34.97306,40.95857",
+    "geom:latitude":40.95857,
+    "geom:longitude":34.97306,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Madara",
+    "gn:country_code":"TR",
+    "gn:dem":884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741846,
+    "gn:latitude":40.95857,
+    "gn:longitude":34.97306,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Madara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "S\u00fctl\u00fcce"
+    ],
+    "name:tur_x_variant":[
+        "Madara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741846
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d45b17c7878d8525ceac0acbc02eb6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709785,
+            "locality_id":1259545423,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1259545423,
+    "wof:lastmodified":1537707779,
+    "wof:name":"Madara",
+    "wof:parent_id":1108709785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.97306,
+    40.95857,
+    34.97306,
+    40.95857
+],
+  "geometry": {"coordinates":[34.97306,40.95857],"type":"Point"}
+}

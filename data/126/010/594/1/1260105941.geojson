@@ -1,0 +1,70 @@
+{
+  "id": 1260105941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05408,40.96637,30.05408,40.96637",
+    "geom:latitude":40.96637,
+    "geom:longitude":30.05408,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Ugumce",
+    "gn:country_code":"TR",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383530,
+    "gn:latitude":40.96637,
+    "gn:longitude":30.05408,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"\u00dc\u011f\u00fcmce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00dc\u011f\u00fcmce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890463605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383530
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1dfb9b0c6a6182c12ad531e20da30ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463605,
+            "locality_id":1260105941,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1260105941,
+    "wof:lastmodified":1537708289,
+    "wof:name":"Ugumce",
+    "wof:parent_id":890463605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05408,
+    40.96637,
+    30.05408,
+    40.96637
+],
+  "geometry": {"coordinates":[30.05408,40.96637],"type":"Point"}
+}

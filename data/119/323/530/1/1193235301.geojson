@@ -1,0 +1,70 @@
+{
+  "id": 1193235301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.60531,39.57899,41.60531,39.57899",
+    "geom:latitude":39.57899,
+    "geom:longitude":41.60531,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Gunesli",
+    "gn:country_code":"TR",
+    "gn:dem":2093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313489,
+    "gn:latitude":39.57899,
+    "gn:longitude":41.60531,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"G\u00fcne\u015fli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcne\u015fli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890464443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313489
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b3d92f169a197fee9be64512093048ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464443,
+            "locality_id":1193235301,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1193235301,
+    "wof:lastmodified":1537707125,
+    "wof:name":"Gunesli",
+    "wof:parent_id":890464443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.60531,
+    39.57899000000001,
+    41.60531,
+    39.57899000000001
+],
+  "geometry": {"coordinates":[41.60531,39.57899000000001],"type":"Point"}
+}

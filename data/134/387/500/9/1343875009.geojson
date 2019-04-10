@@ -1,0 +1,71 @@
+{
+  "id": 1343875009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.62053,37.07322,36.62053,37.07322",
+    "geom:latitude":37.07322,
+    "geom:longitude":36.62053,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Turkbahce",
+    "gn:country_code":"TR",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298803,
+    "gn:latitude":37.07322,
+    "gn:longitude":36.62053,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"T\u00fcrkbah\u00e7e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u00fcrtbah\u00e7e",
+        "T\u00fcrkbah\u00e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298803
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b95e07905b052536c98156242342cc0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709219,
+            "locality_id":1343875009,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1343875009,
+    "wof:lastmodified":1537706653,
+    "wof:name":"Turkbahce",
+    "wof:parent_id":1108709219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.62053,
+    37.07322,
+    36.62053,
+    37.07322
+],
+  "geometry": {"coordinates":[36.62053,37.07322],"type":"Point"}
+}

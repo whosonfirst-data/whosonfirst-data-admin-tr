@@ -1,0 +1,67 @@
+{
+  "id": 1343787299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56711,40.90002,32.56711,40.90002",
+    "geom:latitude":40.90002,
+    "geom:longitude":32.56711,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Oren",
+    "gn:country_code":"TR",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029465,
+    "gn:latitude":40.90002,
+    "gn:longitude":32.56711,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"\u00d6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        890462325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029465
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85373df14aeffdaeabafa6085fbe1c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462325,
+            "locality_id":1343787299,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1343787299,
+    "wof:lastmodified":1536772919,
+    "wof:name":"Oren",
+    "wof:parent_id":890462325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56711,
+    40.90002,
+    32.56711,
+    40.90002
+],
+  "geometry": {"coordinates":[32.56711,40.90002],"type":"Point"}
+}

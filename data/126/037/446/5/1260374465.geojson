@@ -1,0 +1,74 @@
+{
+  "id": 1260374465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.9016,37.72932,27.9016,37.72932",
+    "geom:latitude":37.72932,
+    "geom:longitude":27.9016,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bocekkoy",
+    "gn:country_code":"TR",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321002,
+    "gn:latitude":37.72932,
+    "gn:longitude":27.9016,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"B\u00f6cekk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "B\u00f6cekk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "B\u00f6cek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890461265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321002,
+        "wk:page":"B%C3%B6cek%2C_Ayd%C4%B1n"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fa1ed8005c70062728cb109668393dd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461265,
+            "locality_id":1260374465,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1260374465,
+    "wof:lastmodified":1537707365,
+    "wof:name":"Bocekkoy",
+    "wof:parent_id":890461265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.9016,
+    37.72932,
+    27.9016,
+    37.72932
+],
+  "geometry": {"coordinates":[27.9016,37.72932],"type":"Point"}
+}

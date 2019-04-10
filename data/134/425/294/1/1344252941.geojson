@@ -1,0 +1,74 @@
+{
+  "id": 1344252941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81062,36.93919,30.81062,36.93919",
+    "geom:latitude":36.93919,
+    "geom:longitude":30.81062,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pinarli",
+    "gn:country_code":"TR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318509,
+    "gn:latitude":36.93919,
+    "gn:longitude":30.81062,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"P\u0131narl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "P\u0131narl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Muhacirbeyli",
+        "Cihadiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318509
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5034c70713c4584ae05a175c48d1662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709263,
+            "locality_id":1344252941,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1344252941,
+    "wof:lastmodified":1537707285,
+    "wof:name":"Pinarli",
+    "wof:parent_id":1108709263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81062,
+    36.93919,
+    30.81062,
+    36.93919
+],
+  "geometry": {"coordinates":[30.81062,36.93919],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259450345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.93333,40.06667,41.93333,40.06667",
+    "geom:latitude":40.06667,
+    "geom:longitude":41.93333,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gecik",
+    "gn:country_code":"TR",
+    "gn:dem":2059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747011,
+    "gn:latitude":40.06667,
+    "gn:longitude":41.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ge\u00e7ik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ge\u00e7ik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0435\u0447\u0438\u043a"
+    ],
+    "name:und_x_variant":[
+        "Ge\u00e7ik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747011
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb405f912b20c531f971e6417e6166ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709593,
+            "locality_id":1259450345,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1259450345,
+    "wof:lastmodified":1537707947,
+    "wof:name":"Gecik",
+    "wof:parent_id":1108709593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.93333,
+    40.06667,
+    41.93333,
+    40.06667
+],
+  "geometry": {"coordinates":[41.93333,40.06667],"type":"Point"}
+}

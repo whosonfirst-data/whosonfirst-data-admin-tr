@@ -1,0 +1,70 @@
+{
+  "id": 1343384929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01916,40.5091,30.01916,40.5091",
+    "geom:latitude":40.5091,
+    "geom:longitude":30.01916,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Akcakaya",
+    "gn:country_code":"TR",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752599,
+    "gn:latitude":40.5091,
+    "gn:longitude":30.01916,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ak\u00e7akaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ak\u00e7akaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752599
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"30683be77fdc67e5f421cb5b68ad05e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709801,
+            "locality_id":1343384929,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1343384929,
+    "wof:lastmodified":1537708146,
+    "wof:name":"Akcakaya",
+    "wof:parent_id":1108709801,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01916,
+    40.5091,
+    30.01916,
+    40.5091
+],
+  "geometry": {"coordinates":[30.01916,40.5091],"type":"Point"}
+}

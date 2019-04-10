@@ -1,0 +1,67 @@
+{
+  "id": 1226268289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.61608,37.79138,41.61608,37.79138",
+    "geom:latitude":37.79138,
+    "geom:longitude":41.61608,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Orta",
+    "gn:country_code":"TR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7451785,
+    "gn:latitude":37.79138,
+    "gn:longitude":41.61608,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Orta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7451785
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9133c19dad03fffd94f8a992e2404c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709369,
+            "locality_id":1226268289,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1226268289,
+    "wof:lastmodified":1536901250,
+    "wof:name":"Orta",
+    "wof:parent_id":1108709369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.61608,
+    37.79138,
+    41.61608,
+    37.79138
+],
+  "geometry": {"coordinates":[41.61608,37.79138],"type":"Point"}
+}

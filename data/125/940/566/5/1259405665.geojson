@@ -1,0 +1,71 @@
+{
+  "id": 1259405665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.743,40.87519,33.743,40.87519",
+    "geom:latitude":40.87519,
+    "geom:longitude":33.743,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Yuvasaray",
+    "gn:country_code":"TR",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737109,
+    "gn:latitude":40.87519,
+    "gn:longitude":33.743,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yuvasaray",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Engine",
+        "Yuvasaray"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890461135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737109
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1f0edf5e09e8c83bd26bde3e0725e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461135,
+            "locality_id":1259405665,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1259405665,
+    "wof:lastmodified":1537707610,
+    "wof:name":"Yuvasaray",
+    "wof:parent_id":890461135,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.743,
+    40.87519,
+    33.743,
+    40.87519
+],
+  "geometry": {"coordinates":[33.743,40.87519],"type":"Point"}
+}

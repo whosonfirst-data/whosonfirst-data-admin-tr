@@ -1,0 +1,70 @@
+{
+  "id": 1343540321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.6824,38.93182,42.6824,38.93182",
+    "geom:latitude":38.93182,
+    "geom:longitude":42.6824,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Dizdar",
+    "gn:country_code":"TR",
+    "gn:dem":2224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316537,
+    "gn:latitude":38.93182,
+    "gn:longitude":42.6824,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Dizdar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dizdar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        1108709243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316537
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83c323f8deaa3f54ae7c34b3b8b682ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709243,
+            "locality_id":1343540321,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1343540321,
+    "wof:lastmodified":1537707223,
+    "wof:name":"Dizdar",
+    "wof:parent_id":1108709243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.6824,
+    38.93182,
+    42.6824,
+    38.93182
+],
+  "geometry": {"coordinates":[42.6824,38.93182],"type":"Point"}
+}

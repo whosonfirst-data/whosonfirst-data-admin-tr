@@ -1,0 +1,73 @@
+{
+  "id": 1310030327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.9513,37.94892,43.9513,37.94892",
+    "geom:latitude":37.94892,
+    "geom:longitude":43.9513,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Orenkale",
+    "gn:country_code":"TR",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303434,
+    "gn:latitude":37.94892,
+    "gn:longitude":43.9513,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"\u00d6renkale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kale Harabesi Pizan",
+        "Piran",
+        "Pizan",
+        "\u00d6renkale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890460983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303434
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a39fc1320c71f97aecc69c3ffff38c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460983,
+            "locality_id":1310030327,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1310030327,
+    "wof:lastmodified":1537706806,
+    "wof:name":"Orenkale",
+    "wof:parent_id":890460983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.9513,
+    37.94892,
+    43.9513,
+    37.94892
+],
+  "geometry": {"coordinates":[43.9513,37.94892],"type":"Point"}
+}

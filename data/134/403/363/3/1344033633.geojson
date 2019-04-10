@@ -1,0 +1,67 @@
+{
+  "id": 1344033633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.50356,40.27361,27.50356,40.27361",
+    "geom:latitude":40.27361,
+    "geom:longitude":27.50356,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Kepekli",
+    "gn:country_code":"TR",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318641,
+    "gn:latitude":40.27361,
+    "gn:longitude":27.50356,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Kepekli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890463247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318641
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"04c80d2090cd9c089c306a1e0d225e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463247,
+            "locality_id":1344033633,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1344033633,
+    "wof:lastmodified":1536914887,
+    "wof:name":"Kepekli",
+    "wof:parent_id":890463247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.50356,
+    40.27361,
+    27.50356,
+    40.27361
+],
+  "geometry": {"coordinates":[27.50356,40.27361],"type":"Point"}
+}

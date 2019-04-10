@@ -1,0 +1,71 @@
+{
+  "id": 890460901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.81831,37.65105,40.81831,37.65105",
+    "geom:latitude":37.65105,
+    "geom:longitude":40.81831,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":588,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Soylu"
+    ],
+    "name:unk_x_variant":[
+        "Derri\u015f"
+    ],
+    "qs:name":"Soylu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300324,
+        "qs:id":547284
+    },
+    "wof:country":"TR",
+    "wof:created":1469053331,
+    "wof:geomhash":"0675b9516869cbed7f7bdf2f1f049fb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709869,
+            "locality_id":890460901,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890460901,
+    "wof:lastmodified":1505343684,
+    "wof:name":"Soylu",
+    "wof:parent_id":1108709869,
+    "wof:placetype":"locality",
+    "wof:population":588,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.81831,
+    37.65105,
+    40.81831,
+    37.65105
+],
+  "geometry": {"coordinates":[40.81831,37.65105],"type":"Point"}
+}

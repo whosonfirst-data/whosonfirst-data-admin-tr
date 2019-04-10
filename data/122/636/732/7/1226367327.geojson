@@ -1,0 +1,67 @@
+{
+  "id": 1226367327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.25172,40.4316,32.25172,40.4316",
+    "geom:latitude":40.4316,
+    "geom:longitude":32.25172,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Osmansin",
+    "gn:country_code":"TR",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740862,
+    "gn:latitude":40.4316,
+    "gn:longitude":32.25172,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Osmansin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890461263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740862
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7d40ac0f5eea78ee475ce5dc0bd1d714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461263,
+            "locality_id":1226367327,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1226367327,
+    "wof:lastmodified":1536758636,
+    "wof:name":"Osmansin",
+    "wof:parent_id":890461263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.25172,
+    40.4316,
+    32.25172,
+    40.4316
+],
+  "geometry": {"coordinates":[32.25172,40.4316],"type":"Point"}
+}

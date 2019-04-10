@@ -1,0 +1,76 @@
+{
+  "id": 890462047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.87027,40.34653,41.87027,40.34653",
+    "geom:latitude":40.34653,
+    "geom:longitude":41.87027,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":10104,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u0130d"
+    ],
+    "qs:name":"Narman",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Erzurum",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":85,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741330,
+        "gp:id":2344281,
+        "qs:id":384082,
+        "wd:id":"Q1025415",
+        "wk:page":"Narman"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053376,
+    "wof:geomhash":"d4ae4e50174c0cf4a0b025923a149108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709761,
+            "locality_id":890462047,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":890462047,
+    "wof:lastmodified":1527738737,
+    "wof:name":"Narman",
+    "wof:parent_id":1108709761,
+    "wof:placetype":"locality",
+    "wof:population":10104,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.87027,
+    40.34653,
+    41.87027,
+    40.34653
+],
+  "geometry": {"coordinates":[41.87027,40.34653],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310518095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.701,40.91326,42.701,40.91326",
+    "geom:latitude":40.91326,
+    "geom:longitude":42.701,
+    "gn:admin1_code":"86.0",
+    "gn:asciiname":"Tellioglu",
+    "gn:country_code":"TR",
+    "gn:dem":1991,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738888,
+    "gn:latitude":40.91326,
+    "gn:longitude":42.701,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Tellio\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tellio\u011flu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0435\u043b\u043b\u0438\u043e\u0433\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Tellio\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679511,
+        1108709521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738888
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6a9cb78b8de891524fc416b2078caf23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709521,
+            "locality_id":1310518095,
+            "region_id":85679511
+        }
+    ],
+    "wof:id":1310518095,
+    "wof:lastmodified":1537707679,
+    "wof:name":"Tellioglu",
+    "wof:parent_id":1108709521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.701,
+    40.91326,
+    42.701,
+    40.91326
+],
+  "geometry": {"coordinates":[42.701,40.91326],"type":"Point"}
+}

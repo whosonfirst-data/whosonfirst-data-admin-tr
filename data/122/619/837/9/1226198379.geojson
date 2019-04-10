@@ -1,0 +1,67 @@
+{
+  "id": 1226198379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06667,39.06667,40.06667,39.06667",
+    "geom:latitude":39.06667,
+    "geom:longitude":40.06667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Beydere",
+    "gn:country_code":"TR",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321272,
+    "gn:latitude":39.06667,
+    "gn:longitude":40.06667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Beydere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321272
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3faa4e0b29b36cb09f44d2b8fe7a204b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462281,
+            "locality_id":1226198379,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1226198379,
+    "wof:lastmodified":1537001259,
+    "wof:name":"Beydere",
+    "wof:parent_id":890462281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06667,
+    39.06667,
+    40.06667,
+    39.06667
+],
+  "geometry": {"coordinates":[40.06667,39.06667],"type":"Point"}
+}

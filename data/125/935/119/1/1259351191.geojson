@@ -1,0 +1,73 @@
+{
+  "id": 1259351191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.07754,38.35435,39.07754,38.35435",
+    "geom:latitude":38.35435,
+    "geom:longitude":39.07754,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Doganbagi",
+    "gn:country_code":"TR",
+    "gn:dem":872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296522,
+    "gn:latitude":38.35435,
+    "gn:longitude":39.07754,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Do\u011fanba\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayvaz\u00fclya",
+        "Yukar\u0131 Alyos",
+        "Do\u011fanba\u011f\u0131",
+        "Yukar\u0131 Ayvas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296522
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c3fd7cd6d7c8dc6cb467c5b7dd31403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709891,
+            "locality_id":1259351191,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1259351191,
+    "wof:lastmodified":1537706573,
+    "wof:name":"Doganbagi",
+    "wof:parent_id":1108709891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.07754,
+    38.35435,
+    39.07754,
+    38.35435
+],
+  "geometry": {"coordinates":[39.07754,38.35435],"type":"Point"}
+}

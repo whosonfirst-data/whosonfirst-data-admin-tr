@@ -1,0 +1,71 @@
+{
+  "id": 1243322593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.20153,37.07869,29.20153,37.07869",
+    "geom:latitude":37.07869,
+    "geom:longitude":29.20153,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kolak",
+    "gn:country_code":"TR",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306743,
+    "gn:latitude":37.07869,
+    "gn:longitude":29.20153,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kolak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kulakk\u00f6y",
+        "Kolak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108710015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306743
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"540f536e79514b79c069dcff1cebb8e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710015,
+            "locality_id":1243322593,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1243322593,
+    "wof:lastmodified":1537706917,
+    "wof:name":"Kolak",
+    "wof:parent_id":1108710015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.20153,
+    37.07869,
+    29.20153,
+    37.07869
+],
+  "geometry": {"coordinates":[29.20153,37.07869],"type":"Point"}
+}

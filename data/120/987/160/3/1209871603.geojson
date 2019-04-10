@@ -1,0 +1,74 @@
+{
+  "id": 1209871603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.91505,39.50243,38.91505,39.50243",
+    "geom:latitude":39.50243,
+    "geom:longitude":38.91505,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Yucubelen",
+    "gn:country_code":"TR",
+    "gn:dem":1440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296553,
+    "gn:latitude":39.50243,
+    "gn:longitude":38.91505,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Y\u00fcc\u00fcbelen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Y\u00fcc\u00fcbelen"
+    ],
+    "name:und_x_variant":[
+        "\u00dcsk\u00fcb\u00fcrt",
+        "Y\u00fccebelen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890462479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296553
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6e4c0da8bd5d615482a2f302151ca902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462479,
+            "locality_id":1209871603,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1209871603,
+    "wof:lastmodified":1537706575,
+    "wof:name":"Yucubelen",
+    "wof:parent_id":890462479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.91505,
+    39.50243,
+    38.91505,
+    39.50243
+],
+  "geometry": {"coordinates":[38.91505,39.50243],"type":"Point"}
+}

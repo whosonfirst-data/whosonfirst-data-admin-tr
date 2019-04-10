@@ -1,0 +1,65 @@
+{
+  "id": 890463019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54167,40.86596,32.54167,40.86596",
+    "geom:latitude":40.86596,
+    "geom:longitude":32.54167,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":8305,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"G\u00f6zyeri",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        890462325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747263,
+        "qs:id":83398
+    },
+    "wof:country":"TR",
+    "wof:created":1469053413,
+    "wof:geomhash":"23cf56ad71ffd20b9429baa702de5b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462325,
+            "locality_id":890463019,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":890463019,
+    "wof:lastmodified":1505343692,
+    "wof:name":"G\u00f6zyeri",
+    "wof:parent_id":890462325,
+    "wof:placetype":"locality",
+    "wof:population":8305,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54167,
+    40.86596,
+    32.54167,
+    40.86596
+],
+  "geometry": {"coordinates":[32.54167,40.86596],"type":"Point"}
+}

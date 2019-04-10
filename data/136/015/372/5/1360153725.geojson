@@ -1,0 +1,74 @@
+{
+  "id": 1360153725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.95502,38.13567,40.95502,38.13567",
+    "geom:latitude":38.13567,
+    "geom:longitude":40.95502,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Yolac",
+    "gn:country_code":"TR",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296659,
+    "gn:latitude":38.13567,
+    "gn:longitude":40.95502,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yola\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yola\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Susa",
+        "Susa K\u00f6y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296659
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2850156b9c0802bb003289ecdc4eecf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709881,
+            "locality_id":1360153725,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1360153725,
+    "wof:lastmodified":1537706579,
+    "wof:name":"Yolac",
+    "wof:parent_id":1108709881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.95502000000001,
+    38.13567000000001,
+    40.95502000000001,
+    38.13567000000001
+],
+  "geometry": {"coordinates":[40.95502000000001,38.13567000000001],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890459269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03028,36.91444,39.03028,36.91444",
+    "geom:latitude":36.91444,
+    "geom:longitude":39.03028,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":966,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Kuruyer",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439035,
+        "gp:id":2322777,
+        "qs:id":548233
+    },
+    "wof:country":"TR",
+    "wof:created":1469053260,
+    "wof:geomhash":"e80e4b9e081ebe8c0b167024f89d3539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461929,
+            "locality_id":890459269,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890459269,
+    "wof:lastmodified":1505343676,
+    "wof:name":"Kuruyer",
+    "wof:parent_id":890461929,
+    "wof:placetype":"locality",
+    "wof:population":966,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03028,
+    36.91444,
+    39.03028,
+    36.91444
+],
+  "geometry": {"coordinates":[39.03028,36.91444],"type":"Point"}
+}

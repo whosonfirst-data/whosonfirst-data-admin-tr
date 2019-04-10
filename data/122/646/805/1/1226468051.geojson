@@ -1,0 +1,72 @@
+{
+  "id": 1226468051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03249,37.61498,33.03249,37.61498",
+    "geom:latitude":37.61498,
+    "geom:longitude":33.03249,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Turkmen Karahuyuk",
+    "gn:country_code":"TR",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298780,
+    "gn:latitude":37.61498,
+    "gn:longitude":33.03249,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00fcrkmen Karah\u00fcy\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karah\u00fcy\u00fck",
+        "T\u00fcrkmenkarah\u00fcy\u00fck",
+        "T\u00fcrkmen Karah\u00fcy\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890464377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298780
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d9d1bab2d2319925e7f6b9c0e6505970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464377,
+            "locality_id":1226468051,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1226468051,
+    "wof:lastmodified":1537706652,
+    "wof:name":"Turkmen Karahuyuk",
+    "wof:parent_id":890464377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03249,
+    37.61498,
+    33.03249,
+    37.61498
+],
+  "geometry": {"coordinates":[33.03249,37.61498],"type":"Point"}
+}

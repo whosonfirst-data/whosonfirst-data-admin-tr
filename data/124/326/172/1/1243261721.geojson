@@ -1,0 +1,67 @@
+{
+  "id": 1243261721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41397,40.78791,35.41397,40.78791",
+    "geom:latitude":40.78791,
+    "geom:longitude":35.41397,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Oymak",
+    "gn:country_code":"TR",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7697612,
+    "gn:latitude":40.78791,
+    "gn:longitude":35.41397,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oymak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890461589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7697612
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ac831e954fe553eb18d1457693ea95ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461589,
+            "locality_id":1243261721,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1243261721,
+    "wof:lastmodified":1537068856,
+    "wof:name":"Oymak",
+    "wof:parent_id":890461589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41397,
+    40.78791,
+    35.41397,
+    40.78791
+],
+  "geometry": {"coordinates":[35.41397,40.78791],"type":"Point"}
+}

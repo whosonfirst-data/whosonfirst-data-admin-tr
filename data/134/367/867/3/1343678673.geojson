@@ -1,0 +1,67 @@
+{
+  "id": 1343678673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.73333,38.15,42.73333,38.15",
+    "geom:latitude":38.15,
+    "geom:longitude":42.73333,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Polis",
+    "gn:country_code":"TR",
+    "gn:dem":2128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302520,
+    "gn:latitude":38.15,
+    "gn:longitude":42.73333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Polis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108709347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302520
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"485f5ea993f32791f609ec0e82cfbfa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709347,
+            "locality_id":1343678673,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1343678673,
+    "wof:lastmodified":1536929538,
+    "wof:name":"Polis",
+    "wof:parent_id":1108709347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.73333,
+    38.15,
+    42.73333,
+    38.15
+],
+  "geometry": {"coordinates":[42.73333,38.15],"type":"Point"}
+}

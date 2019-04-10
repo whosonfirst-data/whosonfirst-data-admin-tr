@@ -1,0 +1,65 @@
+{
+  "id": 1209231361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.09453,37.38063,32.09453,37.38063",
+    "geom:latitude":37.38063,
+    "geom:longitude":32.09453,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Orta Karaoren",
+    "gn:country_code":"TR",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303327,
+    "gn:latitude":37.38063,
+    "gn:longitude":32.09453,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Orta Kara\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ortakaraviran",
+        "Orta Kara\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303327
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b56484f57a58fc0632e1653e9e52f609",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209231361
+        }
+    ],
+    "wof:id":1209231361,
+    "wof:lastmodified":1537706803,
+    "wof:name":"Orta Karaoren",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.09453,
+    37.38063,
+    32.09453,
+    37.38063
+],
+  "geometry": {"coordinates":[32.09453,37.38063],"type":"Point"}
+}

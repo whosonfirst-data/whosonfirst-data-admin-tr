@@ -1,0 +1,74 @@
+{
+  "id": 890464611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.82556,41.05361,28.82556,41.05361",
+    "geom:latitude":41.05361,
+    "geom:longitude":28.82556,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mahmutbey"
+    ],
+    "qs:name":"Mahmutbey",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890464319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741812,
+        "gp:id":2331930,
+        "qs:id":249086
+    },
+    "wof:country":"TR",
+    "wof:created":1469053479,
+    "wof:geomhash":"96ca1ea0720733412a18d097875890b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464319,
+            "locality_id":890464611,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890464611,
+    "wof:lastmodified":1505343698,
+    "wof:name":"Mahmutbey",
+    "wof:parent_id":890464319,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.82556,
+    41.05361,
+    28.82556,
+    41.05361
+],
+  "geometry": {"coordinates":[28.82556,41.05361],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890462077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94167,38.17583,27.94167,38.17583",
+    "geom:latitude":38.17583,
+    "geom:longitude":27.94167,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Karaova",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ayd\u0131n",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":49,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":34,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309645,
+        "gp:id":55966566,
+        "qs:id":970855,
+        "wk:page":"Karaova Dam"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053377,
+    "wof:geomhash":"096c6ee74e8faa7249cd8d02c70c11f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461543,
+            "locality_id":890462077,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":890462077,
+    "wof:lastmodified":1527738736,
+    "wof:name":"Karaova",
+    "wof:parent_id":890461543,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94167,
+    38.17583,
+    27.94167,
+    38.17583
+],
+  "geometry": {"coordinates":[27.94167,38.17583],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310389297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.81126,37.58624,27.81126,37.58624",
+    "geom:latitude":37.58624,
+    "geom:longitude":27.81126,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kisla Mahallesi",
+    "gn:country_code":"TR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307449,
+    "gn:latitude":37.58624,
+    "gn:longitude":27.81126,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"K\u0131\u015fla Mahallesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131\u015fla Mahallesi"
+    ],
+    "name:und_x_variant":[
+        "K\u0131\u015fla",
+        "K\u0131\u015flak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307449
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70146368db216ca26e2a29f0811f3384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709635,
+            "locality_id":1310389297,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1310389297,
+    "wof:lastmodified":1537706939,
+    "wof:name":"Kisla Mahallesi",
+    "wof:parent_id":1108709635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.81126,
+    37.58624,
+    27.81126,
+    37.58624
+],
+  "geometry": {"coordinates":[27.81126,37.58624],"type":"Point"}
+}

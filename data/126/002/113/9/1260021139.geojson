@@ -1,0 +1,67 @@
+{
+  "id": 1260021139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86667,36.15,32.86667,36.15",
+    "geom:latitude":36.15,
+    "geom:longitude":32.86667,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Ferizler",
+    "gn:country_code":"TR",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314974,
+    "gn:latitude":36.15,
+    "gn:longitude":32.86667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ferizler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890462615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314974
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0e94a29b6855abda5850bc653a8247e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462615,
+            "locality_id":1260021139,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1260021139,
+    "wof:lastmodified":1537074682,
+    "wof:name":"Ferizler",
+    "wof:parent_id":890462615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86667,
+    36.15,
+    32.86667,
+    36.15
+],
+  "geometry": {"coordinates":[32.86667,36.15],"type":"Point"}
+}

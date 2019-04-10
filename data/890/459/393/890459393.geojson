@@ -1,0 +1,65 @@
+{
+  "id": 890459393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.37176,37.41325,34.37176,37.41325",
+    "geom:latitude":37.41325,
+    "geom:longitude":34.37176,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":315,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Osmank\u00f6seli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        1108709557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303177,
+        "qs:id":547341
+    },
+    "wof:country":"TR",
+    "wof:created":1469053264,
+    "wof:geomhash":"3354f9fb925a551c5c2d4b8804c40d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709557,
+            "locality_id":890459393,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":890459393,
+    "wof:lastmodified":1505343676,
+    "wof:name":"Osmank\u00f6seli",
+    "wof:parent_id":1108709557,
+    "wof:placetype":"locality",
+    "wof:population":315,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37176,
+    37.41325,
+    34.37176,
+    37.41325
+],
+  "geometry": {"coordinates":[34.37176,37.41325],"type":"Point"}
+}

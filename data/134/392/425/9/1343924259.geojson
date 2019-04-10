@@ -1,0 +1,67 @@
+{
+  "id": 1343924259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.60364,40.04458,26.60364,40.04458",
+    "geom:latitude":40.04458,
+    "geom:longitude":26.60364,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Turkemic",
+    "gn:country_code":"TR",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738611,
+    "gn:latitude":40.04458,
+    "gn:longitude":26.60364,
+    "gn:modification_date":"2008-12-30",
+    "gn:name":"T\u00fcrkemi\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890462343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738611
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cd2c7ce050189f6121b52794e1062227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462343,
+            "locality_id":1343924259,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1343924259,
+    "wof:lastmodified":1537069315,
+    "wof:name":"Turkemic",
+    "wof:parent_id":890462343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.60364,
+    40.04458,
+    26.60364,
+    40.04458
+],
+  "geometry": {"coordinates":[26.60364,40.04458],"type":"Point"}
+}

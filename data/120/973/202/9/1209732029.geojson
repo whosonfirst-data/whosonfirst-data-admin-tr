@@ -1,0 +1,73 @@
+{
+  "id": 1209732029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.24333,39.48722,32.24333,39.48722",
+    "geom:latitude":39.48722,
+    "geom:longitude":32.24333,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Gundogan",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313535,
+    "gn:latitude":39.48722,
+    "gn:longitude":32.24333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fcndo\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayyurt",
+        "Bayburt",
+        "G\u00fcndo\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313535
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"426861bc95dec0a3b82ee9e50649c2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709821,
+            "locality_id":1209732029,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1209732029,
+    "wof:lastmodified":1537707126,
+    "wof:name":"Gundogan",
+    "wof:parent_id":1108709821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24333,
+    39.48722,
+    32.24333,
+    39.48722
+],
+  "geometry": {"coordinates":[32.24333,39.48722],"type":"Point"}
+}

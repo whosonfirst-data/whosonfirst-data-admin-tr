@@ -1,0 +1,70 @@
+{
+  "id": 1343925185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30458,39.90123,42.30458,39.90123",
+    "geom:latitude":39.90123,
+    "geom:longitude":42.30458,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Haydarli",
+    "gn:country_code":"TR",
+    "gn:dem":1983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312310,
+    "gn:latitude":39.90123,
+    "gn:longitude":42.30458,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Haydarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Haydarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312310
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c295009654ad96479d54f4da9775eee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709593,
+            "locality_id":1343925185,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1343925185,
+    "wof:lastmodified":1537707086,
+    "wof:name":"Haydarli",
+    "wof:parent_id":1108709593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30458,
+    39.90123,
+    42.30458,
+    39.90123
+],
+  "geometry": {"coordinates":[42.30458,39.90123],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310221711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71667,39.36667,35.71667,39.36667",
+    "geom:latitude":39.36667,
+    "geom:longitude":35.71667,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"bayburt",
+    "gn:country_code":"TR",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317013,
+    "gn:latitude":39.36667,
+    "gn:longitude":35.71667,
+    "gn:modification_date":"2007-06-29",
+    "gn:name":"bayburt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108710035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317013
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c0eb3f4a3f1dffc86ba600caba1c50b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710035,
+            "locality_id":1310221711,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1310221711,
+    "wof:lastmodified":1536827891,
+    "wof:name":"bayburt",
+    "wof:parent_id":1108710035,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71667,
+    39.36667,
+    35.71667,
+    39.36667
+],
+  "geometry": {"coordinates":[35.71667,39.36667],"type":"Point"}
+}

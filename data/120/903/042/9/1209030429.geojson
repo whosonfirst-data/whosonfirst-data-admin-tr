@@ -1,0 +1,68 @@
+{
+  "id": 1209030429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.1047,40.92761,27.1047,40.92761",
+    "geom:latitude":40.92761,
+    "geom:longitude":27.1047,
+    "gn:admin1_code":"59.0",
+    "gn:asciiname":"Kermeyan",
+    "gn:country_code":"TR",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743455,
+    "gn:latitude":40.92761,
+    "gn:longitude":27.1047,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kermeyan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Germeyan",
+        "Kermen",
+        "Kermeyen",
+        "Kermian",
+        "Kermeyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743455
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"543a287c5747817899dc5814da9d0808",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209030429
+        }
+    ],
+    "wof:id":1209030429,
+    "wof:lastmodified":1537707832,
+    "wof:name":"Kermeyan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.1047,
+    40.92761,
+    27.1047,
+    40.92761
+],
+  "geometry": {"coordinates":[27.1047,40.92761],"type":"Point"}
+}

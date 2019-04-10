@@ -1,0 +1,64 @@
+{
+  "id": 1209431525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36864,40.51033,30.36864,40.51033",
+    "geom:latitude":40.51033,
+    "geom:longitude":30.36864,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Burhaniye",
+    "gn:country_code":"TR",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275814,
+    "gn:latitude":40.51033,
+    "gn:longitude":30.36864,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Burhaniye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Burhaniye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275814
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ce3343b4301e586c98b335f05172a3f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209431525
+        }
+    ],
+    "wof:id":1209431525,
+    "wof:lastmodified":1537708282,
+    "wof:name":"Burhaniye",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36864000000001,
+    40.51033,
+    30.36864000000001,
+    40.51033
+],
+  "geometry": {"coordinates":[30.36864000000001,40.51033],"type":"Point"}
+}

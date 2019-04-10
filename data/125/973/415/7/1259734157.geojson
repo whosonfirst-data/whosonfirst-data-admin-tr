@@ -1,0 +1,77 @@
+{
+  "id": 1259734157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.21604,40.56146,38.21604,40.56146",
+    "geom:latitude":40.56146,
+    "geom:longitude":38.21604,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Aksu",
+    "gn:country_code":"TR",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752353,
+    "gn:latitude":40.56146,
+    "gn:longitude":38.21604,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Aksu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aksu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043a\u0441\u0443\u043a\u0435\u0439"
+    ],
+    "name:und_x_variant":[
+        "Aksuk\u00f6y",
+        "Aksu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890462767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752353
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ead11e3121fb0a0c3d01882de510f3a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462767,
+            "locality_id":1259734157,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1259734157,
+    "wof:lastmodified":1537708136,
+    "wof:name":"Aksu",
+    "wof:parent_id":890462767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.21604,
+    40.56146,
+    38.21604,
+    40.56146
+],
+  "geometry": {"coordinates":[38.21604,40.56146],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242890677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.96667,39.98333,37.96667,39.98333",
+    "geom:latitude":39.98333,
+    "geom:longitude":37.96667,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Kumoglu",
+    "gn:country_code":"TR",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305666,
+    "gn:latitude":39.98333,
+    "gn:longitude":37.96667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kumo\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        1108710005
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305666
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf3d22724a9aa6dd50f5d3f6fcbd5c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710005,
+            "locality_id":1242890677,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1242890677,
+    "wof:lastmodified":1536610084,
+    "wof:name":"Kumoglu",
+    "wof:parent_id":1108710005,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.96667,
+    39.98333,
+    37.96667,
+    39.98333
+],
+  "geometry": {"coordinates":[37.96667,39.98333],"type":"Point"}
+}

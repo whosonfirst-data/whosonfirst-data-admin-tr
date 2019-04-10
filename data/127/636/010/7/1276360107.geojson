@@ -1,0 +1,71 @@
+{
+  "id": 1276360107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35384,39.80367,33.35384,39.80367",
+    "geom:latitude":39.80367,
+    "geom:longitude":33.35384,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Bedesten",
+    "gn:country_code":"TR",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321689,
+    "gn:latitude":39.80367,
+    "gn:longitude":33.35384,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bedesten",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bedestan",
+        "Bedesten"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679447,
+        1108709963
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321689
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a1c8cdaa9f49debf0635d23cb771a0e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709963,
+            "locality_id":1276360107,
+            "region_id":85679447
+        }
+    ],
+    "wof:id":1276360107,
+    "wof:lastmodified":1537707388,
+    "wof:name":"Bedesten",
+    "wof:parent_id":1108709963,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35384000000001,
+    39.80367,
+    33.35384000000001,
+    39.80367
+],
+  "geometry": {"coordinates":[33.35384000000001,39.80367],"type":"Point"}
+}

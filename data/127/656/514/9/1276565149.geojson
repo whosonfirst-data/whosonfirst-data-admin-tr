@@ -1,0 +1,70 @@
+{
+  "id": 1276565149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.04179,39.05632,43.04179,39.05632",
+    "geom:latitude":39.05632,
+    "geom:longitude":43.04179,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Serefli",
+    "gn:country_code":"TR",
+    "gn:dem":2225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301120,
+    "gn:latitude":39.05632,
+    "gn:longitude":43.04179,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u015eerefli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eerefli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301120
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a377e4ba316df0b5d64f3e3ac22f1761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464421,
+            "locality_id":1276565149,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1276565149,
+    "wof:lastmodified":1537706730,
+    "wof:name":"Serefli",
+    "wof:parent_id":890464421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.04179,
+    39.05632,
+    43.04179,
+    39.05632
+],
+  "geometry": {"coordinates":[43.04179,39.05632],"type":"Point"}
+}

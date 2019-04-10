@@ -1,0 +1,67 @@
+{
+  "id": 1226800711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32817,41.99377,33.32817,41.99377",
+    "geom:latitude":41.99377,
+    "geom:longitude":33.32817,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Baltaci",
+    "gn:country_code":"TR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751089,
+    "gn:latitude":41.99377,
+    "gn:longitude":33.32817,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Baltac\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890462849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751089
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cd61398b327ba302e252004632b73d5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462849,
+            "locality_id":1226800711,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1226800711,
+    "wof:lastmodified":1536635273,
+    "wof:name":"Baltaci",
+    "wof:parent_id":890462849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32817,
+    41.99377,
+    33.32817,
+    41.99377
+],
+  "geometry": {"coordinates":[33.32817,41.99377],"type":"Point"}
+}

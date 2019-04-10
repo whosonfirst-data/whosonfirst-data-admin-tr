@@ -1,0 +1,71 @@
+{
+  "id": 1276574267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.35551,37.76909,42.35551,37.76909",
+    "geom:latitude":37.76909,
+    "geom:longitude":42.35551,
+    "gn:admin1_code":"74",
+    "gn:asciiname":"Erkent",
+    "gn:country_code":"TR",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315412,
+    "gn:latitude":37.76909,
+    "gn:longitude":42.35551,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Erkent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erkennt",
+        "Erkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        890461169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315412
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cc98d9e4f69bf306ba1cb3e118afad95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461169,
+            "locality_id":1276574267,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1276574267,
+    "wof:lastmodified":1537707187,
+    "wof:name":"Erkent",
+    "wof:parent_id":890461169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.35551,
+    37.76909000000001,
+    42.35551,
+    37.76909000000001
+],
+  "geometry": {"coordinates":[42.35551,37.76909000000001],"type":"Point"}
+}

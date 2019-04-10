@@ -1,0 +1,71 @@
+{
+  "id": 1259709313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.28684,38.97315,39.28684,38.97315",
+    "geom:latitude":38.97315,
+    "geom:longitude":39.28684,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Ardic",
+    "gn:country_code":"TR",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302217,
+    "gn:latitude":38.97315,
+    "gn:longitude":39.28684,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ard\u0131\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ard\u0131\u00e7",
+        "Sa\u011fmandersimi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302217
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a8f291485ebf6b56a80b37ad6d9921e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709815,
+            "locality_id":1259709313,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1259709313,
+    "wof:lastmodified":1537706767,
+    "wof:name":"Ardic",
+    "wof:parent_id":1108709815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.28684000000001,
+    38.97315,
+    39.28684000000001,
+    38.97315
+],
+  "geometry": {"coordinates":[39.28684000000001,38.97315],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243286773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.18007,37.56978,44.18007,37.56978",
+    "geom:latitude":37.56978,
+    "geom:longitude":44.18007,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Koprucuk",
+    "gn:country_code":"TR",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298341,
+    "gn:latitude":37.56978,
+    "gn:longitude":44.18007,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"K\u00f6pr\u00fcc\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6pr\u00fcc\u00fck"
+    ],
+    "name:und_x_variant":[
+        "\u00dcnl\u00fcce",
+        "K\u00f6pr\u00fccek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        1108710003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298341
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5bbb9b3d1a0a0565fe8cb316defd04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710003,
+            "locality_id":1243286773,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1243286773,
+    "wof:lastmodified":1537706638,
+    "wof:name":"Koprucuk",
+    "wof:parent_id":1108710003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.18007,
+    37.56978,
+    44.18007,
+    37.56978
+],
+  "geometry": {"coordinates":[44.18007,37.56978],"type":"Point"}
+}

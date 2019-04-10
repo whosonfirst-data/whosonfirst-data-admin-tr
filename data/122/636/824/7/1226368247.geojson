@@ -1,0 +1,71 @@
+{
+  "id": 1226368247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19903,36.05447,36.19903,36.05447",
+    "geom:latitude":36.05447,
+    "geom:longitude":36.19903,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Akdenktas",
+    "gn:country_code":"TR",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301347,
+    "gn:latitude":36.05447,
+    "gn:longitude":36.19903,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Akdenkta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akdenkta\u015f",
+        "Seferli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301347
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"12f692285ae2b162941bd6fed6bc5e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461775,
+            "locality_id":1226368247,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1226368247,
+    "wof:lastmodified":1537706739,
+    "wof:name":"Akdenktas",
+    "wof:parent_id":890461775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19903,
+    36.05447,
+    36.19903,
+    36.05447
+],
+  "geometry": {"coordinates":[36.19903,36.05447],"type":"Point"}
+}

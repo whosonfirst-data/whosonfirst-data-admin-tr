@@ -1,0 +1,68 @@
+{
+  "id": 890461391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12476,41.01643,29.12476,41.01643",
+    "geom:latitude":41.01643,
+    "geom:longitude":29.12476,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":573265,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Umraniye",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":818,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890461267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738377,
+        "qs:id":1062333,
+        "wd:id":"Q334924",
+        "wk:page":"\u00dcmraniye"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053349,
+    "wof:geomhash":"583dd25f8ca2f263077e5a611b995db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":890461391,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890461391,
+    "wof:lastmodified":1527792987,
+    "wof:name":"Umraniye",
+    "wof:parent_id":890461267,
+    "wof:placetype":"locality",
+    "wof:population":573265,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12476,
+    41.01643,
+    29.12476,
+    41.01643
+],
+  "geometry": {"coordinates":[29.12476,41.01643],"type":"Point"}
+}

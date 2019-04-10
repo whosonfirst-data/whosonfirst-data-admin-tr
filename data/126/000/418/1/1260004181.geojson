@@ -1,0 +1,67 @@
+{
+  "id": 1260004181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.60286,39.21158,36.60286,39.21158",
+    "geom:latitude":39.21158,
+    "geom:longitude":36.60286,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Samankaya",
+    "gn:country_code":"TR",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301974,
+    "gn:latitude":39.21158,
+    "gn:longitude":36.60286,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Samankaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890460123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301974
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9845c42c9c909a5def6ef502966e7178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460123,
+            "locality_id":1260004181,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1260004181,
+    "wof:lastmodified":1536602210,
+    "wof:name":"Samankaya",
+    "wof:parent_id":890460123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.60286,
+    39.21158,
+    36.60286,
+    39.21158
+],
+  "geometry": {"coordinates":[36.60286,39.21158],"type":"Point"}
+}

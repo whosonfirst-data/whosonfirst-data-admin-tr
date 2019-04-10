@@ -1,0 +1,64 @@
+{
+  "id": 1209514621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.82868,39.29404,42.82868,39.29404",
+    "geom:latitude":39.29404,
+    "geom:longitude":42.82868,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baltacik",
+    "gn:country_code":"TR",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6970672,
+    "gn:latitude":39.29404,
+    "gn:longitude":42.82868,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Baltac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Baltac\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6970672
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d709353636465dd08b5f0b92840154fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209514621
+        }
+    ],
+    "wof:id":1209514621,
+    "wof:lastmodified":1537708182,
+    "wof:name":"Baltacik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.82868,
+    39.29404,
+    42.82868,
+    39.29404
+],
+  "geometry": {"coordinates":[42.82868,39.29404],"type":"Point"}
+}

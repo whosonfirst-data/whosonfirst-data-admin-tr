@@ -1,0 +1,67 @@
+{
+  "id": 1260209131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1849,39.89097,34.1849,39.89097",
+    "geom:latitude":39.89097,
+    "geom:longitude":34.1849,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Terzili",
+    "gn:country_code":"TR",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299240,
+    "gn:latitude":39.89097,
+    "gn:longitude":34.1849,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Terzili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299240
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"19434c419c262047d076590b2fc7b75d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709999,
+            "locality_id":1260209131,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1260209131,
+    "wof:lastmodified":1536812278,
+    "wof:name":"Terzili",
+    "wof:parent_id":1108709999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1849,
+    39.89097,
+    34.1849,
+    39.89097
+],
+  "geometry": {"coordinates":[34.1849,39.89097],"type":"Point"}
+}

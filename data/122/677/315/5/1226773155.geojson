@@ -1,0 +1,73 @@
+{
+  "id": 1226773155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.44617,39.35208,42.44617,39.35208",
+    "geom:latitude":39.35208,
+    "geom:longitude":42.44617,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kardesler",
+    "gn:country_code":"TR",
+    "gn:dem":1688,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322042,
+    "gn:latitude":39.35208,
+    "gn:longitude":42.44617,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Karde\u015fler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karde\u015fler"
+    ],
+    "name:und_x_variant":[
+        "Bani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322042
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f1f70aa06849c6f178b89d42cf6374de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1226773155,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1226773155,
+    "wof:lastmodified":1537707399,
+    "wof:name":"Kardesler",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.44617,
+    39.35208,
+    42.44617,
+    39.35208
+],
+  "geometry": {"coordinates":[42.44617,39.35208],"type":"Point"}
+}

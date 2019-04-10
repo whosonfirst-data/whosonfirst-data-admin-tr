@@ -1,0 +1,67 @@
+{
+  "id": 1259405801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.64778,38.17444,28.64778,38.17444",
+    "geom:latitude":38.17444,
+    "geom:longitude":28.64778,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Dadagli",
+    "gn:country_code":"TR",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317809,
+    "gn:latitude":38.17444,
+    "gn:longitude":28.64778,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Dada\u011fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317809
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9ba3e8326bc261dfbdf464da61d371e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709843,
+            "locality_id":1259405801,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1259405801,
+    "wof:lastmodified":1536970075,
+    "wof:name":"Dadagli",
+    "wof:parent_id":1108709843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.64778,
+    38.17444,
+    28.64778,
+    38.17444
+],
+  "geometry": {"coordinates":[28.64778,38.17444],"type":"Point"}
+}

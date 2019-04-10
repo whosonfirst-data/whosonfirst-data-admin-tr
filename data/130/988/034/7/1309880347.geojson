@@ -1,0 +1,67 @@
+{
+  "id": 1309880347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15,40.53333,34.15,40.53333",
+    "geom:latitude":40.53333,
+    "geom:longitude":34.15,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Eskialibey",
+    "gn:country_code":"TR",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747308,
+    "gn:latitude":40.53333,
+    "gn:longitude":34.15,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Eskialibey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747308
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dac217cb6c4027bbf9168d8cc64a0e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709365,
+            "locality_id":1309880347,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1309880347,
+    "wof:lastmodified":1536822867,
+    "wof:name":"Eskialibey",
+    "wof:parent_id":1108709365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15,
+    40.53333,
+    34.15,
+    40.53333
+],
+  "geometry": {"coordinates":[34.15,40.53333],"type":"Point"}
+}

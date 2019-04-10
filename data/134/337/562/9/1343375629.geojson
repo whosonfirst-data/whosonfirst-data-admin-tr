@@ -1,0 +1,77 @@
+{
+  "id": 1343375629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.2699,39.94739,36.2699,39.94739",
+    "geom:latitude":39.94739,
+    "geom:longitude":36.2699,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Topluyurdu",
+    "gn:country_code":"TR",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299012,
+    "gn:latitude":39.94739,
+    "gn:longitude":36.2699,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Topluyurdu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Topluyurdu"
+    ],
+    "name:und_x_variant":[
+        "B\u00fcy\u00fck\u00e7ay\u0131r",
+        "Topulyurt",
+        "Topuzyurdu",
+        "Topulyurdu",
+        "Topalyurdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890461429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299012
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d71e6a8a8eb85d276867020f670b35c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461429,
+            "locality_id":1343375629,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1343375629,
+    "wof:lastmodified":1537706660,
+    "wof:name":"Topluyurdu",
+    "wof:parent_id":890461429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.2699,
+    39.94739000000001,
+    36.2699,
+    39.94739000000001
+],
+  "geometry": {"coordinates":[36.2699,39.94739000000001],"type":"Point"}
+}

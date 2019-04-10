@@ -1,0 +1,70 @@
+{
+  "id": 1226168313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.37405,37.58274,42.37405,37.58274",
+    "geom:latitude":37.58274,
+    "geom:longitude":42.37405,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Uveylik",
+    "gn:country_code":"TR",
+    "gn:dem":986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7007200,
+    "gn:latitude":37.58274,
+    "gn:longitude":42.37405,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"\u00dcveylik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00dcveylik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890460285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7007200
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70c5c75720c09150e219b527799c5f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460285,
+            "locality_id":1226168313,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":1226168313,
+    "wof:lastmodified":1537708200,
+    "wof:name":"Uveylik",
+    "wof:parent_id":890460285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.37405,
+    37.58274,
+    42.37405,
+    37.58274
+],
+  "geometry": {"coordinates":[42.37405,37.58274],"type":"Point"}
+}

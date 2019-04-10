@@ -1,0 +1,67 @@
+{
+  "id": 1226688711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00076,41.87844,33.00076,41.87844",
+    "geom:latitude":41.87844,
+    "geom:longitude":33.00076,
+    "gn:admin1_code":"37",
+    "gn:asciiname":"Kirci",
+    "gn:country_code":"TR",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8026164,
+    "gn:latitude":41.87844,
+    "gn:longitude":33.00076,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"K\u0131rc\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890462849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8026164
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3e91a1a638326c7341b664eb29096973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462849,
+            "locality_id":1226688711,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1226688711,
+    "wof:lastmodified":1536797826,
+    "wof:name":"Kirci",
+    "wof:parent_id":890462849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00076,
+    41.87844000000001,
+    33.00076,
+    41.87844000000001
+],
+  "geometry": {"coordinates":[33.00076,41.87844000000001],"type":"Point"}
+}

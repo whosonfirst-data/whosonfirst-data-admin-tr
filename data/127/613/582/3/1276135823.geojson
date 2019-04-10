@@ -1,0 +1,73 @@
+{
+  "id": 1276135823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52759,37.22433,35.52759,37.22433",
+    "geom:latitude":37.22433,
+    "geom:longitude":35.52759,
+    "gn:admin1_code":"81.0",
+    "gn:asciiname":"Gerenli",
+    "gn:country_code":"TR",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7642599,
+    "gn:latitude":37.22433,
+    "gn:longitude":35.52759,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Gerenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Gerenli"
+    ],
+    "name:tur_x_variant":[
+        "Cerenli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        1108709855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7642599
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"12761162a030b7e8208d144e72eb3a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709855,
+            "locality_id":1276135823,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1276135823,
+    "wof:lastmodified":1537708265,
+    "wof:name":"Gerenli",
+    "wof:parent_id":1108709855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52759000000001,
+    37.22433,
+    35.52759000000001,
+    37.22433
+],
+  "geometry": {"coordinates":[35.52759000000001,37.22433],"type":"Point"}
+}

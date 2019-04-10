@@ -1,0 +1,72 @@
+{
+  "id": 1226816375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.5048,39.43848,41.5048,39.43848",
+    "geom:latitude":39.43848,
+    "geom:longitude":41.5048,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Hayran",
+    "gn:country_code":"TR",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316893,
+    "gn:latitude":39.43848,
+    "gn:longitude":41.5048,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Hayran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Direk",
+        "Hayran",
+        "Derik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316893
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"59f93bcf501fa821b9b926e5b77ed95a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709553,
+            "locality_id":1226816375,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1226816375,
+    "wof:lastmodified":1537707234,
+    "wof:name":"Hayran",
+    "wof:parent_id":1108709553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.5048,
+    39.43848,
+    41.5048,
+    39.43848
+],
+  "geometry": {"coordinates":[41.5048,39.43848],"type":"Point"}
+}

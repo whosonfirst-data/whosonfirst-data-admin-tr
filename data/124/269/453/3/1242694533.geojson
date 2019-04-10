@@ -1,0 +1,70 @@
+{
+  "id": 1242694533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.09423,37.25039,39.09423,37.25039",
+    "geom:latitude":37.25039,
+    "geom:longitude":39.09423,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Aktas",
+    "gn:country_code":"TR",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324450,
+    "gn:latitude":37.25039,
+    "gn:longitude":39.09423,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Akta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akta\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324450
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"56279b38eef5d58c7208b68ddd58a39c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1242694533,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1242694533,
+    "wof:lastmodified":1537707481,
+    "wof:name":"Aktas",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.09423,
+    37.25039,
+    39.09423,
+    37.25039
+],
+  "geometry": {"coordinates":[39.09423,37.25039],"type":"Point"}
+}

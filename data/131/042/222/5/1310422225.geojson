@@ -1,0 +1,67 @@
+{
+  "id": 1310422225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.2,38.11667,44.2,38.11667",
+    "geom:latitude":38.11667,
+    "geom:longitude":44.2,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Velisarik",
+    "gn:country_code":"TR",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298064,
+    "gn:latitude":38.11667,
+    "gn:longitude":44.2,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Velisarik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890460983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298064
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4cd892c1a0864ba65656494aee81936d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460983,
+            "locality_id":1310422225,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1310422225,
+    "wof:lastmodified":1537035601,
+    "wof:name":"Velisarik",
+    "wof:parent_id":890460983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.2,
+    38.11667,
+    44.2,
+    38.11667
+],
+  "geometry": {"coordinates":[44.2,38.11667],"type":"Point"}
+}

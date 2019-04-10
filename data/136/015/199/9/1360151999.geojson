@@ -1,0 +1,76 @@
+{
+  "id": 1360151999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.07254,40.33593,42.07254,40.33593",
+    "geom:latitude":40.33593,
+    "geom:longitude":42.07254,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Tasburun",
+    "gn:country_code":"TR",
+    "gn:dem":2150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739093,
+    "gn:latitude":40.33593,
+    "gn:longitude":42.07254,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Ta\u015fburun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ta\u015fburun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0448\u0431\u0443\u0440\u0443\u043d"
+    ],
+    "name:und_x_variant":[
+        "Ta\u015fburun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739093
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26cc7c6cfcd8f70f3f6b3e5c0e12a144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709761,
+            "locality_id":1360151999,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1360151999,
+    "wof:lastmodified":1537707686,
+    "wof:name":"Tasburun",
+    "wof:parent_id":1108709761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.07254,
+    40.33593,
+    42.07254,
+    40.33593
+],
+  "geometry": {"coordinates":[42.07254,40.33593],"type":"Point"}
+}

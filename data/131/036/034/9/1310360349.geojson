@@ -1,0 +1,76 @@
+{
+  "id": 1310360349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.9,40.28333,41.9,40.28333",
+    "geom:latitude":40.28333,
+    "geom:longitude":41.9,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Karsim",
+    "gn:country_code":"TR",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743941,
+    "gn:latitude":40.28333,
+    "gn:longitude":41.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kar\u015fim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kar\u015fim"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0448\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "Kar\u015fim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743941
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2b7ab39a5ad8d0af21e2713a9ff64d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709761,
+            "locality_id":1310360349,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1310360349,
+    "wof:lastmodified":1537707846,
+    "wof:name":"Karsim",
+    "wof:parent_id":1108709761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.9,
+    40.28333,
+    41.9,
+    40.28333
+],
+  "geometry": {"coordinates":[41.9,40.28333],"type":"Point"}
+}

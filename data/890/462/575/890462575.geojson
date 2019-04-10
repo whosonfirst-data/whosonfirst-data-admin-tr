@@ -1,0 +1,75 @@
+{
+  "id": 890462575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76786,40.43397,30.76786,40.43397",
+    "geom:latitude":40.43397,
+    "geom:longitude":30.76786,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"Orta",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Eski\u015fehir",
+    "qs:photos":5,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":128,
+    "wof:belongsto":[
+        102191569,
+        85679249,
+        85632393,
+        890461159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8183434,
+        "gp:id":56043423,
+        "qs:id":1105206,
+        "wk:page":"Orta"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053395,
+    "wof:geomhash":"6eb7ac9246ea9782fcfe6b15e9e36d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461159,
+            "neighbourhood_id":890462575,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":890462575,
+    "wof:lastmodified":1527749962,
+    "wof:name":"Orta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76786,
+    40.43397,
+    30.76786,
+    40.43397
+],
+  "geometry": {"coordinates":[30.76786,40.43397],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310112209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09489,38.94899,31.09489,38.94899",
+    "geom:latitude":38.94899,
+    "geom:longitude":31.09489,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Arizli Mahallesi",
+    "gn:country_code":"TR",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231779,
+    "gn:latitude":38.94899,
+    "gn:longitude":31.09489,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Ar\u0131zl\u0131 Mahallesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890462013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231779
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"38f143a45450d48c2459a2019d353245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462013,
+            "locality_id":1310112209,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1310112209,
+    "wof:lastmodified":1536985961,
+    "wof:name":"Arizli Mahallesi",
+    "wof:parent_id":890462013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09489,
+    38.94899,
+    31.09489,
+    38.94899
+],
+  "geometry": {"coordinates":[31.09489,38.94899],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260021883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.40663,40.32654,43.40663,40.32654",
+    "geom:latitude":40.32654,
+    "geom:longitude":43.40663,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Varli",
+    "gn:country_code":"TR",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738209,
+    "gn:latitude":40.32654,
+    "gn:longitude":43.40663,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Varl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Varl\u0131"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0440\u043b\u044b"
+    ],
+    "name:und_x_variant":[
+        "Z\u0131pn\u0131",
+        "Zibni",
+        "Varl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890460721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738209
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83f7b8e3e2e7885cb8762d2ce74a3967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460721,
+            "locality_id":1260021883,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1260021883,
+    "wof:lastmodified":1537707657,
+    "wof:name":"Varli",
+    "wof:parent_id":890460721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.40663,
+    40.32654,
+    43.40663,
+    40.32654
+],
+  "geometry": {"coordinates":[43.40663,40.32654],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310164195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41667,37.95,40.41667,37.95",
+    "geom:latitude":37.95,
+    "geom:longitude":40.41667,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Korpinar",
+    "gn:country_code":"TR",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299442,
+    "gn:latitude":37.95,
+    "gn:longitude":40.41667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00f6rp\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tekkaynak"
+    ],
+    "name:und_x_variant":[
+        "K\u00f6rp\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299442
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0f6fe86666f2243c280b6c4ece167ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709909,
+            "locality_id":1310164195,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1310164195,
+    "wof:lastmodified":1537706675,
+    "wof:name":"Korpinar",
+    "wof:parent_id":1108709909,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41667,
+    37.95,
+    40.41667,
+    37.95
+],
+  "geometry": {"coordinates":[40.41667,37.95],"type":"Point"}
+}

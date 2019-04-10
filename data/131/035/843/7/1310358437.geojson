@@ -1,0 +1,67 @@
+{
+  "id": 1310358437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.80099,38.35452,26.80099,38.35452",
+    "geom:latitude":38.35452,
+    "geom:longitude":26.80099,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Kalabak",
+    "gn:country_code":"TR",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6686939,
+    "gn:latitude":38.35452,
+    "gn:longitude":26.80099,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Kalabak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686939
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"968a5a76b936fe34de3853e5c2897448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461745,
+            "locality_id":1310358437,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1310358437,
+    "wof:lastmodified":1536630131,
+    "wof:name":"Kalabak",
+    "wof:parent_id":890461745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.80099,
+    38.35452,
+    26.80099,
+    38.35452
+],
+  "geometry": {"coordinates":[26.80099,38.35452],"type":"Point"}
+}

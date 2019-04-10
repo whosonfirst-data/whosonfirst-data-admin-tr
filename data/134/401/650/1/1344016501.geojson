@@ -1,0 +1,67 @@
+{
+  "id": 1344016501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.54631,40.74176,26.54631,40.74176",
+    "geom:latitude":40.74176,
+    "geom:longitude":26.54631,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Karli",
+    "gn:country_code":"TR",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743987,
+    "gn:latitude":40.74176,
+    "gn:longitude":26.54631,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679213,
+        890463331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743987
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4529872d4b159c5a6ff8593a1b043be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463331,
+            "locality_id":1344016501,
+            "region_id":85679213
+        }
+    ],
+    "wof:id":1344016501,
+    "wof:lastmodified":1536939939,
+    "wof:name":"Karli",
+    "wof:parent_id":890463331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.54631,
+    40.74176,
+    26.54631,
+    40.74176
+],
+  "geometry": {"coordinates":[26.54631,40.74176],"type":"Point"}
+}

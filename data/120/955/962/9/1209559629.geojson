@@ -1,0 +1,64 @@
+{
+  "id": 1209559629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68097,38.02984,27.68097,38.02984",
+    "geom:latitude":38.02984,
+    "geom:longitude":27.68097,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Yemisler",
+    "gn:country_code":"TR",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297218,
+    "gn:latitude":38.02984,
+    "gn:longitude":27.68097,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Yemi\u015fler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yemi\u015fler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297218
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1cdbe2cf235d9c487cfab53a33fc7239",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209559629
+        }
+    ],
+    "wof:id":1209559629,
+    "wof:lastmodified":1537706597,
+    "wof:name":"Yemisler",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68097,
+    38.02984,
+    27.68097,
+    38.02984
+],
+  "geometry": {"coordinates":[27.68097,38.02984],"type":"Point"}
+}

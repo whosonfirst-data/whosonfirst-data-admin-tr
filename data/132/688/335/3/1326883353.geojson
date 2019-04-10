@@ -1,0 +1,73 @@
+{
+  "id": 1326883353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.88663,38.72996,26.88663,38.72996",
+    "geom:latitude":38.72996,
+    "geom:longitude":26.88663,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Gencerli",
+    "gn:country_code":"TR",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9888161,
+    "gn:latitude":38.72996,
+    "gn:longitude":26.88663,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Gen\u00e7erli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Gen\u00e7erli"
+    ],
+    "name:tur_x_variant":[
+        "Cumhuriyet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9888161
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2a2fbbd8c829ac5e48c890fba9f5e313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461441,
+            "locality_id":1326883353,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1326883353,
+    "wof:lastmodified":1537708310,
+    "wof:name":"Gencerli",
+    "wof:parent_id":890461441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.88663,
+    38.72996,
+    26.88663,
+    38.72996
+],
+  "geometry": {"coordinates":[26.88663,38.72996],"type":"Point"}
+}

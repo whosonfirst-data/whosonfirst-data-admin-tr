@@ -1,0 +1,74 @@
+{
+  "id": 1226368011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18026,40.11053,39.18026,40.11053",
+    "geom:latitude":40.11053,
+    "geom:longitude":39.18026,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Asagi Durucay",
+    "gn:country_code":"TR",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751757,
+    "gn:latitude":40.11053,
+    "gn:longitude":39.18026,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"A\u015fa\u011f\u0131 Duru\u00e7ay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Duru\u00e7ay"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131hozman",
+        "A\u015fa\u011f\u0131duru\u00e7ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890461585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751757
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d976a0531942670b5593e153aaa8c837",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461585,
+            "locality_id":1226368011,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1226368011,
+    "wof:lastmodified":1537708114,
+    "wof:name":"Asagi Durucay",
+    "wof:parent_id":890461585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18026,
+    40.11053,
+    39.18026,
+    40.11053
+],
+  "geometry": {"coordinates":[39.18026,40.11053],"type":"Point"}
+}

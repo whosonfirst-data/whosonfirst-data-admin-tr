@@ -1,0 +1,67 @@
+{
+  "id": 1242703337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88608,39.73525,33.88608,39.73525",
+    "geom:latitude":39.73525,
+    "geom:longitude":33.88608,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Kosker",
+    "gn:country_code":"TR",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8199727,
+    "gn:latitude":39.73525,
+    "gn:longitude":33.88608,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"K\u00f6\u015fker",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679447,
+        890464139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199727
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4e532a99242010960bad7f07e0da0a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464139,
+            "locality_id":1242703337,
+            "region_id":85679447
+        }
+    ],
+    "wof:id":1242703337,
+    "wof:lastmodified":1536882007,
+    "wof:name":"Kosker",
+    "wof:parent_id":890464139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88608,
+    39.73525,
+    33.88608,
+    39.73525
+],
+  "geometry": {"coordinates":[33.88608,39.73525],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209488663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.88945,40.35184,30.88945,40.35184",
+    "geom:latitude":40.35184,
+    "geom:longitude":30.88945,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Koper",
+    "gn:country_code":"TR",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742695,
+    "gn:latitude":40.35184,
+    "gn:longitude":30.88945,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"K\u00f6per",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00fcper",
+        "K\u00f6per"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742695
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"570d79c8ec3f7cece5f2d47762af63ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209488663
+        }
+    ],
+    "wof:id":1209488663,
+    "wof:lastmodified":1537707807,
+    "wof:name":"Koper",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.88945,
+    40.35184,
+    30.88945,
+    40.35184
+],
+  "geometry": {"coordinates":[30.88945,40.35184],"type":"Point"}
+}

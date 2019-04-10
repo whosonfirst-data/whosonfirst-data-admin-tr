@@ -1,0 +1,70 @@
+{
+  "id": 1243152431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37302,40.21803,30.37302,40.21803",
+    "geom:latitude":40.21803,
+    "geom:longitude":30.37302,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Kumbet",
+    "gn:country_code":"TR",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742272,
+    "gn:latitude":40.21803,
+    "gn:longitude":30.37302,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"K\u00fcmbet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fcmbet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        890463491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742272
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"357ce97122ff8a92f30fdbf18da4a607",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463491,
+            "locality_id":1243152431,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1243152431,
+    "wof:lastmodified":1537707793,
+    "wof:name":"Kumbet",
+    "wof:parent_id":890463491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37302,
+    40.21803,
+    30.37302,
+    40.21803
+],
+  "geometry": {"coordinates":[30.37302,40.21803],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276467045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73392,37.65411,33.73392,37.65411",
+    "geom:latitude":37.65411,
+    "geom:longitude":33.73392,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Kesmez",
+    "gn:country_code":"TR",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308010,
+    "gn:latitude":37.65411,
+    "gn:longitude":33.73392,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Kesmez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890460133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308010
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0b50614fa9c9c1e5cee8e74362f53224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460133,
+            "locality_id":1276467045,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1276467045,
+    "wof:lastmodified":1537093560,
+    "wof:name":"Kesmez",
+    "wof:parent_id":890460133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73392,
+    37.65411,
+    33.73392,
+    37.65411
+],
+  "geometry": {"coordinates":[33.73392,37.65411],"type":"Point"}
+}

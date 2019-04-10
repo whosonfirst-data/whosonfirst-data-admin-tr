@@ -1,0 +1,73 @@
+{
+  "id": 1343384825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09362,36.14869,36.09362,36.14869",
+    "geom:latitude":36.14869,
+    "geom:longitude":36.09362,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Tavlakoy",
+    "gn:country_code":"TR",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299571,
+    "gn:latitude":36.14869,
+    "gn:longitude":36.09362,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tavlak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tavla"
+    ],
+    "name:tur_x_variant":[
+        "Tavlak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299571
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b9c702e5088b1b60080f388b1aa658a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461775,
+            "locality_id":1343384825,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1343384825,
+    "wof:lastmodified":1537706679,
+    "wof:name":"Tavlakoy",
+    "wof:parent_id":890461775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09362,
+    36.14869,
+    36.09362,
+    36.14869
+],
+  "geometry": {"coordinates":[36.09362,36.14869],"type":"Point"}
+}

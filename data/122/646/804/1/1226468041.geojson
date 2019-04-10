@@ -1,0 +1,71 @@
+{
+  "id": 1226468041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.04348,39.46865,40.04348,39.46865",
+    "geom:latitude":39.46865,
+    "geom:longitude":40.04348,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Kirklar",
+    "gn:country_code":"TR",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302737,
+    "gn:latitude":39.46865,
+    "gn:longitude":40.04348,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"K\u0131rklar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131rklar",
+        "Pergini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302737
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"09d45c3bd625b9c17acbee6871048f07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709827,
+            "locality_id":1226468041,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1226468041,
+    "wof:lastmodified":1537706784,
+    "wof:name":"Kirklar",
+    "wof:parent_id":1108709827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.04348,
+    39.46865,
+    40.04348,
+    39.46865
+],
+  "geometry": {"coordinates":[40.04348,39.46865],"type":"Point"}
+}

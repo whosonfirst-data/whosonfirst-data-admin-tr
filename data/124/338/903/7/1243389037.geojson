@@ -1,0 +1,71 @@
+{
+  "id": 1243389037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.88333,41.5,31.88333,41.5",
+    "geom:latitude":41.5,
+    "geom:longitude":31.88333,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Kuzkaya",
+    "gn:country_code":"TR",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741928,
+    "gn:latitude":41.5,
+    "gn:longitude":31.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kuzkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kozika",
+        "Kuzkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        1108709749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741928
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"baa37bed1130004fd3b3e92c322c0e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709749,
+            "locality_id":1243389037,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1243389037,
+    "wof:lastmodified":1537707782,
+    "wof:name":"Kuzkaya",
+    "wof:parent_id":1108709749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.88333,
+    41.5,
+    31.88333,
+    41.5
+],
+  "geometry": {"coordinates":[31.88333,41.5],"type":"Point"}
+}

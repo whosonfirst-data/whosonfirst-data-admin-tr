@@ -1,0 +1,67 @@
+{
+  "id": 1327407185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.07436,40.58748,31.07436,40.58748",
+    "geom:latitude":40.58748,
+    "geom:longitude":31.07436,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Hamitler",
+    "gn:country_code":"TR",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8184059,
+    "gn:latitude":40.58748,
+    "gn:longitude":31.07436,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Hamitler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890463475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8184059
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"12eb7abd12c077008efcc21db6f497d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463475,
+            "locality_id":1327407185,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1327407185,
+    "wof:lastmodified":1536717577,
+    "wof:name":"Hamitler",
+    "wof:parent_id":890463475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.07436,
+    40.58748,
+    31.07436,
+    40.58748
+],
+  "geometry": {"coordinates":[31.07436,40.58748],"type":"Point"}
+}

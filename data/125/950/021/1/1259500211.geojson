@@ -1,0 +1,75 @@
+{
+  "id": 1259500211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.07635,41.1273,41.07635,41.1273",
+    "geom:latitude":41.1273,
+    "geom:longitude":41.07635,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Doganay",
+    "gn:country_code":"TR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751651,
+    "gn:latitude":41.1273,
+    "gn:longitude":41.07635,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Do\u011fanay",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sang\u00fcl"
+    ],
+    "name:und_x_variant":[
+        "Zigamis\u00fcfl\u00e2",
+        "A\u015fa\u011f\u0131 Zigam",
+        "Do\u011fanay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        890463175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751651
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"de562b1f6c1d4cc0721f7249c52f1cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463175,
+            "locality_id":1259500211,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1259500211,
+    "wof:lastmodified":1537708109,
+    "wof:name":"Doganay",
+    "wof:parent_id":890463175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.07635,
+    41.1273,
+    41.07635,
+    41.1273
+],
+  "geometry": {"coordinates":[41.07635,41.1273],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225903315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.40413,37.91528,29.40413,37.91528",
+    "geom:latitude":37.91528,
+    "geom:longitude":29.40413,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Belevi",
+    "gn:country_code":"TR",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321530,
+    "gn:latitude":37.91528,
+    "gn:longitude":29.40413,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Belevi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108710013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321530
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f20821cd723be3fad596b59766720012",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710013,
+            "locality_id":1225903315,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1225903315,
+    "wof:lastmodified":1536931620,
+    "wof:name":"Belevi",
+    "wof:parent_id":1108710013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.40413,
+    37.91528,
+    29.40413,
+    37.91528
+],
+  "geometry": {"coordinates":[29.40413,37.91528],"type":"Point"}
+}

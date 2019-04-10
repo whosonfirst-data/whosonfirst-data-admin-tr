@@ -1,0 +1,66 @@
+{
+  "id": 890465485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.34611,36.90583,38.34611,36.90583",
+    "geom:latitude":36.90583,
+    "geom:longitude":38.34611,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":1535,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"K\u00fc\u00e7\u00fckkendirci",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890460731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":436324,
+        "gp:id":56122718,
+        "qs:id":548112
+    },
+    "wof:country":"TR",
+    "wof:created":1469053521,
+    "wof:geomhash":"8b2754d8c46e91e35ee2dbb84bac9cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460731,
+            "locality_id":890465485,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890465485,
+    "wof:lastmodified":1505343703,
+    "wof:name":"K\u00fc\u00e7\u00fckkendirci",
+    "wof:parent_id":890460731,
+    "wof:placetype":"locality",
+    "wof:population":1535,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.34611,
+    36.90583,
+    38.34611,
+    36.90583
+],
+  "geometry": {"coordinates":[38.34611,36.90583],"type":"Point"}
+}

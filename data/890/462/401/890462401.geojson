@@ -1,0 +1,74 @@
+{
+  "id": 890462401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.18972,38.43838,27.18972,38.43838",
+    "geom:latitude":38.43838,
+    "geom:longitude":27.18972,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7amdibi"
+    ],
+    "qs:name":"\u00c7amdibi",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130zmir",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":5,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890463111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319691,
+        "gp:id":2313566,
+        "qs:id":1072316
+    },
+    "wof:country":"TR",
+    "wof:created":1469053388,
+    "wof:geomhash":"2454a15d4c9c9a86fe0929c6a071ea43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463111,
+            "locality_id":890462401,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":890462401,
+    "wof:lastmodified":1505343689,
+    "wof:name":"\u00c7amdibi",
+    "wof:parent_id":890463111,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.18972,
+    38.43838,
+    27.18972,
+    38.43838
+],
+  "geometry": {"coordinates":[27.18972,38.43838],"type":"Point"}
+}

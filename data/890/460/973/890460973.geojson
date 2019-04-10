@@ -1,0 +1,71 @@
+{
+  "id": 890460973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83139,37.8375,40.83139,37.8375",
+    "geom:latitude":37.8375,
+    "geom:longitude":40.83139,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":223,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Isal\u0131"
+    ],
+    "name:tur_x_variant":[
+        "\u0130sal\u0131"
+    ],
+    "qs:name":"Isal\u0131",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439707,
+        "qs:id":548271
+    },
+    "wof:country":"TR",
+    "wof:created":1469053334,
+    "wof:geomhash":"c0d1e1140fec7260cc717b5804b24df4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":890460973,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890460973,
+    "wof:lastmodified":1505343684,
+    "wof:name":"Isal\u0131",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83139,
+    37.8375,
+    40.83139,
+    37.8375
+],
+  "geometry": {"coordinates":[40.83139,37.8375],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243084213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45,37.81667,32.45,37.81667",
+    "geom:latitude":37.81667,
+    "geom:longitude":32.45,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Karahuyuk",
+    "gn:country_code":"TR",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309774,
+    "gn:latitude":37.81667,
+    "gn:longitude":32.45,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Karah\u00fcy\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890462363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309774
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91b363d95da17444c1b1d76694799a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462363,
+            "locality_id":1243084213,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1243084213,
+    "wof:lastmodified":1536829700,
+    "wof:name":"Karahuyuk",
+    "wof:parent_id":890462363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45,
+    37.81667,
+    32.45,
+    37.81667
+],
+  "geometry": {"coordinates":[32.45,37.81667],"type":"Point"}
+}

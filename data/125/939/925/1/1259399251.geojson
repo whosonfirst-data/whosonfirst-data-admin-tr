@@ -1,0 +1,67 @@
+{
+  "id": 1259399251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.55806,38.31102,41.55806,38.31102",
+    "geom:latitude":38.31102,
+    "geom:longitude":41.55806,
+    "gn:admin1_code":"76.0",
+    "gn:asciiname":"Ikizce",
+    "gn:country_code":"TR",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7454482,
+    "gn:latitude":38.31102,
+    "gn:longitude":41.55806,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"\u0130kizce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7454482
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9412762e7a4b173c037c0daf0c668f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709675,
+            "locality_id":1259399251,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1259399251,
+    "wof:lastmodified":1536979052,
+    "wof:name":"Ikizce",
+    "wof:parent_id":1108709675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.55806,
+    38.31102,
+    41.55806,
+    38.31102
+],
+  "geometry": {"coordinates":[41.55806,38.31102],"type":"Point"}
+}

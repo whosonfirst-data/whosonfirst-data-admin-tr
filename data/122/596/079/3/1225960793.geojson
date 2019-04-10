@@ -1,0 +1,70 @@
+{
+  "id": 1225960793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.43479,40.84743,37.43479,40.84743",
+    "geom:latitude":40.84743,
+    "geom:longitude":37.43479,
+    "gn:admin1_code":"52",
+    "gn:asciiname":"Karahasan",
+    "gn:country_code":"TR",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10953512,
+    "gn:latitude":40.84743,
+    "gn:longitude":37.43479,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Karahasan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karahasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        1108710029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10953512
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0cf7f55754a5e61d76269376b80f4d5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710029,
+            "locality_id":1225960793,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1225960793,
+    "wof:lastmodified":1537708399,
+    "wof:name":"Karahasan",
+    "wof:parent_id":1108710029,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.43479,
+    40.84743,
+    37.43479,
+    40.84743
+],
+  "geometry": {"coordinates":[37.43479,40.84743],"type":"Point"}
+}

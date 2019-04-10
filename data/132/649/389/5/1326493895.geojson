@@ -1,0 +1,67 @@
+{
+  "id": 1326493895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03333,39.15,29.03333,39.15",
+    "geom:latitude":39.15,
+    "geom:longitude":29.03333,
+    "gn:admin1_code":"16",
+    "gn:asciiname":"Cinar",
+    "gn:country_code":"TR",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318401,
+    "gn:latitude":39.15,
+    "gn:longitude":29.03333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"\u00c7\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318401
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"35d8d1b27b6e0f61abda8284ad94d3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709885,
+            "locality_id":1326493895,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1326493895,
+    "wof:lastmodified":1537037742,
+    "wof:name":"Cinar",
+    "wof:parent_id":1108709885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03333,
+    39.15,
+    29.03333,
+    39.15
+],
+  "geometry": {"coordinates":[29.03333,39.15],"type":"Point"}
+}

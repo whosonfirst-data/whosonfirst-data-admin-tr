@@ -1,0 +1,73 @@
+{
+  "id": 1243594267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.68276,38.36563,26.68276,38.36563",
+    "geom:latitude":38.36563,
+    "geom:longitude":26.68276,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Liman",
+    "gn:country_code":"TR",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9888576,
+    "gn:latitude":38.36563,
+    "gn:longitude":26.68276,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Liman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Liman"
+    ],
+    "name:tur_x_variant":[
+        "Aldum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9888576
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0c7615c794977252e35d0e55331348c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461745,
+            "locality_id":1243594267,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1243594267,
+    "wof:lastmodified":1537708315,
+    "wof:name":"Liman",
+    "wof:parent_id":890461745,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.68276,
+    38.36563,
+    26.68276,
+    38.36563
+],
+  "geometry": {"coordinates":[26.68276,38.36563],"type":"Point"}
+}

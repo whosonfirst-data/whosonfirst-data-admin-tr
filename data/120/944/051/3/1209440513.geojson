@@ -1,0 +1,67 @@
+{
+  "id": 1209440513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.81695,37.02882,38.81695,37.02882",
+    "geom:latitude":37.02882,
+    "geom:longitude":38.81695,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Bildim",
+    "gn:country_code":"TR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7539622,
+    "gn:latitude":37.02882,
+    "gn:longitude":38.81695,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Bildim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bildim"
+    ],
+    "name:und_x_variant":[
+        "Kharapsor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7539622
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f102055e948dd1d77c81d11fc92271de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440513
+        }
+    ],
+    "wof:id":1209440513,
+    "wof:lastmodified":1537708229,
+    "wof:name":"Bildim",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.81695,
+    37.02882,
+    38.81695,
+    37.02882
+],
+  "geometry": {"coordinates":[38.81695,37.02882],"type":"Point"}
+}

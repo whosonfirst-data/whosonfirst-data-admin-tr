@@ -1,0 +1,67 @@
+{
+  "id": 1344157679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06749,38.92903,31.06749,38.92903",
+    "geom:latitude":38.92903,
+    "geom:longitude":31.06749,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dere Mahallesi",
+    "gn:country_code":"TR",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8231778,
+    "gn:latitude":38.92903,
+    "gn:longitude":31.06749,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Dere Mahallesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890462013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8231778
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"64b0330ef27670382485799da6ca23e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462013,
+            "locality_id":1344157679,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1344157679,
+    "wof:lastmodified":1536735421,
+    "wof:name":"Dere Mahallesi",
+    "wof:parent_id":890462013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06749000000001,
+    38.92903,
+    31.06749000000001,
+    38.92903
+],
+  "geometry": {"coordinates":[31.06749000000001,38.92903],"type":"Point"}
+}

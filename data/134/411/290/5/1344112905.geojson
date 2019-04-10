@@ -1,0 +1,73 @@
+{
+  "id": 1344112905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.06667,38.55,40.06667,38.55",
+    "geom:latitude":38.55,
+    "geom:longitude":40.06667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Keydak",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307970,
+    "gn:latitude":38.55,
+    "gn:longitude":40.06667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Keydak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gedek",
+        "Kedak",
+        "Keydak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307970
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3452c5376ccea178bb9e80a742dbeefd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709287,
+            "locality_id":1344112905,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1344112905,
+    "wof:lastmodified":1537706955,
+    "wof:name":"Keydak",
+    "wof:parent_id":1108709287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.06667,
+    38.55,
+    40.06667,
+    38.55
+],
+  "geometry": {"coordinates":[40.06667,38.55],"type":"Point"}
+}

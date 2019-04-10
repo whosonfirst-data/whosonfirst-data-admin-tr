@@ -1,0 +1,65 @@
+{
+  "id": 1209486955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.45931,40.32652,28.45931,40.32652",
+    "geom:latitude":40.32652,
+    "geom:longitude":28.45931,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Ekmekci",
+    "gn:country_code":"TR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747646,
+    "gn:latitude":40.32652,
+    "gn:longitude":28.45931,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ekmek\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ekmek\u00e7imeras\u0131",
+        "Ekmek\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747646
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5ec8c587d403813d77aed7470618d1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209486955
+        }
+    ],
+    "wof:id":1209486955,
+    "wof:lastmodified":1537707967,
+    "wof:name":"Ekmekci",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.45931,
+    40.32652,
+    28.45931,
+    40.32652
+],
+  "geometry": {"coordinates":[28.45931,40.32652],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343982801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3384,37.49256,28.3384,37.49256",
+    "geom:latitude":37.49256,
+    "geom:longitude":28.3384,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Killar",
+    "gn:country_code":"TR",
+    "gn:dem":648,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10253792,
+    "gn:latitude":37.49256,
+    "gn:longitude":28.3384,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"K\u0131llar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u0131llar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        1108709639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10253792
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"44cf8b2e200f00cb1c676502c5b2f015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709639,
+            "locality_id":1343982801,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1343982801,
+    "wof:lastmodified":1537708369,
+    "wof:name":"Killar",
+    "wof:parent_id":1108709639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3384,
+    37.49256,
+    28.3384,
+    37.49256
+],
+  "geometry": {"coordinates":[28.3384,37.49256],"type":"Point"}
+}

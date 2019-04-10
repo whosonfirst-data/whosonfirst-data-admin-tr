@@ -1,0 +1,71 @@
+{
+  "id": 1343278505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.92654,40.22523,38.92654,40.22523",
+    "geom:latitude":40.22523,
+    "geom:longitude":38.92654,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Arakoy",
+    "gn:country_code":"TR",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751969,
+    "gn:latitude":40.22523,
+    "gn:longitude":38.92654,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Arak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ara",
+        "Arak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890461585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751969
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"730ad762c1d29942aa8aad3ed071db97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461585,
+            "locality_id":1343278505,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1343278505,
+    "wof:lastmodified":1537708123,
+    "wof:name":"Arakoy",
+    "wof:parent_id":890461585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.92654,
+    40.22523,
+    38.92654,
+    40.22523
+],
+  "geometry": {"coordinates":[38.92654,40.22523],"type":"Point"}
+}

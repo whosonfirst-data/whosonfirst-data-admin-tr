@@ -1,0 +1,64 @@
+{
+  "id": 1209331247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.31179,38.84388,28.31179,38.84388",
+    "geom:latitude":38.84388,
+    "geom:longitude":28.31179,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Aliefe",
+    "gn:country_code":"TR",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9998390,
+    "gn:latitude":38.84388,
+    "gn:longitude":28.31179,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Aliefe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Aliefe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9998390
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"36a45baa3d781aa478e47522b99bc47c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331247
+        }
+    ],
+    "wof:id":1209331247,
+    "wof:lastmodified":1537708328,
+    "wof:name":"Aliefe",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.31179,
+    38.84388,
+    28.31179,
+    38.84388
+],
+  "geometry": {"coordinates":[28.31179,38.84388],"type":"Point"}
+}

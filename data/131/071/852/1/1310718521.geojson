@@ -1,0 +1,67 @@
+{
+  "id": 1310718521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.0,39.7,37.0,39.7",
+    "geom:latitude":39.7,
+    "geom:longitude":37.0,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Simkurek",
+    "gn:country_code":"TR",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300778,
+    "gn:latitude":39.7,
+    "gn:longitude":37.0,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"\u015eimk\u00fcrek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890462707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300778
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d80147c97a32af69f86ca97775514f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462707,
+            "locality_id":1310718521,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1310718521,
+    "wof:lastmodified":1536606794,
+    "wof:name":"Simkurek",
+    "wof:parent_id":890462707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.0,
+    39.7,
+    37.0,
+    39.7
+],
+  "geometry": {"coordinates":[37.0,39.7],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890462335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6819,36.9131,30.6819,36.9131",
+    "geom:latitude":36.9131,
+    "geom:longitude":30.6819,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u00d6zg\u00fcrl\u00fck",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        101912921,
+        1108709655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8074173,
+        "gp:id":55870721,
+        "qs:id":1060075
+    },
+    "wof:country":"TR",
+    "wof:created":1469053385,
+    "wof:geomhash":"456d6384a525aa5ea4be1c56212ed469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709655,
+            "locality_id":101912921,
+            "neighbourhood_id":890462335,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":890462335,
+    "wof:lastmodified":1505343689,
+    "wof:name":"\u00d6zg\u00fcrl\u00fck",
+    "wof:parent_id":101912921,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6819,
+    36.9131,
+    30.6819,
+    36.9131
+],
+  "geometry": {"coordinates":[30.6819,36.9131],"type":"Point"}
+}

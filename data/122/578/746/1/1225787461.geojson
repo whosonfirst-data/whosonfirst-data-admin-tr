@@ -1,0 +1,67 @@
+{
+  "id": 1225787461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.37723,38.98993,34.37723,38.98993",
+    "geom:latitude":38.98993,
+    "geom:longitude":34.37723,
+    "gn:admin1_code":"40.0",
+    "gn:asciiname":"Aksakli",
+    "gn:country_code":"TR",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324502,
+    "gn:latitude":38.98993,
+    "gn:longitude":34.37723,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Aksakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        890460229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324502
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2b4be45598fa2dda53d4e0fa855f92b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460229,
+            "locality_id":1225787461,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1225787461,
+    "wof:lastmodified":1537094580,
+    "wof:name":"Aksakli",
+    "wof:parent_id":890460229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.37723,
+    38.98993,
+    34.37723,
+    38.98993
+],
+  "geometry": {"coordinates":[34.37723,38.98993],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360011103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.54528,36.87944,37.54528,36.87944",
+    "geom:latitude":36.87944,
+    "geom:longitude":37.54528,
+    "gn:admin1_code":"83.0",
+    "gn:asciiname":"Tilbasar",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":436033,
+    "gn:latitude":36.87944,
+    "gn:longitude":37.54528,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tilba\u015far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Til\u2019bashar"
+    ],
+    "name:und_x_variant":[
+        "Tilbe\u015far",
+        "Tilba\u015far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":436033,
+        "wk:page":"Turbessel"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6506c9aa1403d167f09e51fcd224ac3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709769,
+            "locality_id":1360011103,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1360011103,
+    "wof:lastmodified":1537707521,
+    "wof:name":"Tilbasar",
+    "wof:parent_id":1108709769,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.54528,
+    36.87944,
+    37.54528,
+    36.87944
+],
+  "geometry": {"coordinates":[37.54528,36.87944],"type":"Point"}
+}

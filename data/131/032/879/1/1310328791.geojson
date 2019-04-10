@@ -1,0 +1,67 @@
+{
+  "id": 1310328791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38066,40.29539,32.38066,40.29539",
+    "geom:latitude":40.29539,
+    "geom:longitude":32.38066,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Kislak",
+    "gn:country_code":"TR",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743110,
+    "gn:latitude":40.29539,
+    "gn:longitude":32.38066,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"K\u0131\u015flak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743110
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"33cdb37ed3fdce567da08c92ef22ad32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464243,
+            "locality_id":1310328791,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1310328791,
+    "wof:lastmodified":1536674401,
+    "wof:name":"Kislak",
+    "wof:parent_id":890464243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38066,
+    40.29539000000001,
+    32.38066,
+    40.29539000000001
+],
+  "geometry": {"coordinates":[32.38066,40.29539000000001],"type":"Point"}
+}

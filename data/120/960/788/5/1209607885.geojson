@@ -1,0 +1,65 @@
+{
+  "id": 1209607885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53839,40.6971,35.53839,40.6971",
+    "geom:latitude":40.6971,
+    "geom:longitude":35.53839,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Esentepe",
+    "gn:country_code":"TR",
+    "gn:dem":779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747330,
+    "gn:latitude":40.6971,
+    "gn:longitude":35.53839,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Esentepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuvala",
+        "Esentepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747330
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50653f454a4c69a1476fa1488e4ea422",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209607885
+        }
+    ],
+    "wof:id":1209607885,
+    "wof:lastmodified":1537707957,
+    "wof:name":"Esentepe",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53839,
+    40.6971,
+    35.53839,
+    40.6971
+],
+  "geometry": {"coordinates":[35.53839,40.6971],"type":"Point"}
+}

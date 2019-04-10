@@ -1,0 +1,71 @@
+{
+  "id": 1242633287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.22014,39.14454,40.22014,39.14454",
+    "geom:latitude":39.14454,
+    "geom:longitude":40.22014,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Karacan",
+    "gn:country_code":"TR",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305753,
+    "gn:latitude":39.14454,
+    "gn:longitude":40.22014,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kara\u00e7an",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kara\u00e7an",
+        "K\u00fcll\u00fckhan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305753
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5bf4c4854c8832a6022a30d26e6988eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462281,
+            "locality_id":1242633287,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1242633287,
+    "wof:lastmodified":1537706883,
+    "wof:name":"Karacan",
+    "wof:parent_id":890462281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.22014,
+    39.14454,
+    40.22014,
+    39.14454
+],
+  "geometry": {"coordinates":[40.22014,39.14454],"type":"Point"}
+}

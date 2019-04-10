@@ -1,0 +1,67 @@
+{
+  "id": 1259700439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.22175,39.44972,32.22175,39.44972",
+    "geom:latitude":39.44972,
+    "geom:longitude":32.22175,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Karakuyu",
+    "gn:country_code":"TR",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309571,
+    "gn:latitude":39.44972,
+    "gn:longitude":32.22175,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Karakuyu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309571
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8d74638961d865047e9bcdc1077b5c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709821,
+            "locality_id":1259700439,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1259700439,
+    "wof:lastmodified":1537040907,
+    "wof:name":"Karakuyu",
+    "wof:parent_id":1108709821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.22175,
+    39.44972,
+    32.22175,
+    39.44972
+],
+  "geometry": {"coordinates":[32.22175,39.44972],"type":"Point"}
+}

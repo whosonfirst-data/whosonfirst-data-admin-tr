@@ -1,0 +1,73 @@
+{
+  "id": 1260268701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08278,36.50861,32.08278,36.50861",
+    "geom:latitude":36.50861,
+    "geom:longitude":32.08278,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kestel",
+    "gn:country_code":"TR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319528,
+    "gn:latitude":36.50861,
+    "gn:longitude":32.08278,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kestel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kestel"
+    ],
+    "name:tur_x_variant":[
+        "\u00c7amyolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319528
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"78ea50cb775a63eda0fe372cfe81df39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463831,
+            "locality_id":1260268701,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1260268701,
+    "wof:lastmodified":1537707319,
+    "wof:name":"Kestel",
+    "wof:parent_id":890463831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08278,
+    36.50861,
+    32.08278,
+    36.50861
+],
+  "geometry": {"coordinates":[32.08278,36.50861],"type":"Point"}
+}

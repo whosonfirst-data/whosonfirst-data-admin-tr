@@ -1,0 +1,73 @@
+{
+  "id": 1193041201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.55894,37.41908,28.55894,37.41908",
+    "geom:latitude":37.41908,
+    "geom:longitude":28.55894,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Goktepe",
+    "gn:country_code":"TR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":314162,
+    "gn:latitude":37.41908,
+    "gn:longitude":28.55894,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"G\u00f6ktepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Belenye",
+        "Belanye",
+        "Belanya",
+        "G\u00f6ktepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890464307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314162
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1910a70ef49519e25e15ad8a315cf325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464307,
+            "locality_id":1193041201,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1193041201,
+    "wof:lastmodified":1537707148,
+    "wof:name":"Goktepe",
+    "wof:parent_id":890464307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55894,
+    37.41908,
+    28.55894,
+    37.41908
+],
+  "geometry": {"coordinates":[28.55894,37.41908],"type":"Point"}
+}

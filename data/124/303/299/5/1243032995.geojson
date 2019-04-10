@@ -1,0 +1,74 @@
+{
+  "id": 1243032995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1,40.13333,34.1,40.13333",
+    "geom:latitude":40.13333,
+    "geom:longitude":34.1,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Guvendik",
+    "gn:country_code":"TR",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751961,
+    "gn:latitude":40.13333,
+    "gn:longitude":34.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fcvendik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcvendik"
+    ],
+    "name:und_x_variant":[
+        "Arap",
+        "Arap K\u00f6y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751961
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6ab9c1acf4e10a434f4fae165ac11754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709907,
+            "locality_id":1243032995,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1243032995,
+    "wof:lastmodified":1537708123,
+    "wof:name":"Guvendik",
+    "wof:parent_id":1108709907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1,
+    40.13333,
+    34.1,
+    40.13333
+],
+  "geometry": {"coordinates":[34.1,40.13333],"type":"Point"}
+}

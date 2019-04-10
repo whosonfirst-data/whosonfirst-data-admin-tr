@@ -1,0 +1,68 @@
+{
+  "id": 1242815813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22739,36.26876,33.22739,36.26876",
+    "geom:latitude":36.26876,
+    "geom:longitude":33.22739,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Pembecik",
+    "gn:country_code":"TR",
+    "gn:dem":789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302748,
+    "gn:latitude":36.26876,
+    "gn:longitude":33.22739,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Pembecik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890462653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302748,
+        "wk:page":"Pembecik"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9fa4b22f3bfb13d5a35f208e60016247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462653,
+            "locality_id":1242815813,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1242815813,
+    "wof:lastmodified":1537574484,
+    "wof:name":"Pembecik",
+    "wof:parent_id":890462653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22739,
+    36.26876,
+    33.22739,
+    36.26876
+],
+  "geometry": {"coordinates":[33.22739,36.26876],"type":"Point"}
+}

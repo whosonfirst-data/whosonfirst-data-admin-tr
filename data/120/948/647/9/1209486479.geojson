@@ -1,0 +1,64 @@
+{
+  "id": 1209486479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.53537,38.20119,42.53537,38.20119",
+    "geom:latitude":38.20119,
+    "geom:longitude":42.53537,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Guvendik",
+    "gn:country_code":"TR",
+    "gn:dem":2004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986060,
+    "gn:latitude":38.20119,
+    "gn:longitude":42.53537,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"G\u00fcvendik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcvendik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986060
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c4acb3a3ef6fe013134196761bbdd967",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209486479
+        }
+    ],
+    "wof:id":1209486479,
+    "wof:lastmodified":1537708191,
+    "wof:name":"Guvendik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.53537,
+    38.20119,
+    42.53537,
+    38.20119
+],
+  "geometry": {"coordinates":[42.53537,38.20119],"type":"Point"}
+}

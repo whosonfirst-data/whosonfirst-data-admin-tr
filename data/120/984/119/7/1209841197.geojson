@@ -1,0 +1,73 @@
+{
+  "id": 1209841197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.42882,39.21266,30.42882,39.21266",
+    "geom:latitude":39.21266,
+    "geom:longitude":30.42882,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Inciler",
+    "gn:country_code":"TR",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311276,
+    "gn:latitude":39.21266,
+    "gn:longitude":30.42882,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u0130nciler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130nciler"
+    ],
+    "name:tur_x_variant":[
+        "\u0130nli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        890461533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311276
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0cc62d450aa9607a75d488091e28755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461533,
+            "locality_id":1209841197,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1209841197,
+    "wof:lastmodified":1537707050,
+    "wof:name":"Inciler",
+    "wof:parent_id":890461533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.42882,
+    39.21266,
+    30.42882,
+    39.21266
+],
+  "geometry": {"coordinates":[30.42882,39.21266],"type":"Point"}
+}

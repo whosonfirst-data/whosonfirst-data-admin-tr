@@ -1,0 +1,65 @@
+{
+  "id": 1209131313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.20717,37.43624,42.20717,37.43624",
+    "geom:latitude":37.43624,
+    "geom:longitude":42.20717,
+    "gn:admin1_code":"80.0",
+    "gn:asciiname":"Durmuslu",
+    "gn:country_code":"TR",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438731,
+    "gn:latitude":37.43624,
+    "gn:longitude":42.20717,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Durmu\u015flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durmu\u015flu",
+        "Saman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438731
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc8b56fa81cb02def0a47ce36855c6ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131313
+        }
+    ],
+    "wof:id":1209131313,
+    "wof:lastmodified":1537707570,
+    "wof:name":"Durmuslu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.20717,
+    37.43624000000001,
+    42.20717,
+    37.43624000000001
+],
+  "geometry": {"coordinates":[42.20717,37.43624000000001],"type":"Point"}
+}

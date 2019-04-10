@@ -1,0 +1,73 @@
+{
+  "id": 1310269789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.42442,40.77962,34.42442,40.77962",
+    "geom:latitude":40.77962,
+    "geom:longitude":34.42442,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kavakkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7750643,
+    "gn:latitude":40.77962,
+    "gn:longitude":34.42442,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Kavakk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kavakk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Kavak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7750643
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3a4d16ee7169184421c9e32db21de264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709215,
+            "locality_id":1310269789,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1310269789,
+    "wof:lastmodified":1537708271,
+    "wof:name":"Kavakkoy",
+    "wof:parent_id":1108709215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.42442,
+    40.77962,
+    34.42442,
+    40.77962
+],
+  "geometry": {"coordinates":[34.42442,40.77962],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209523121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.80142,37.94469,38.80142,37.94469",
+    "geom:latitude":37.94469,
+    "geom:longitude":38.80142,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sutepe",
+    "gn:country_code":"TR",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7519513,
+    "gn:latitude":37.94469,
+    "gn:longitude":38.80142,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Sutepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519513,
+        "wk:page":"Sutepe%2C_Gerger"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89f2d2617d855c6f878b92db609e9092",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209523121
+        }
+    ],
+    "wof:id":1209523121,
+    "wof:lastmodified":1537574675,
+    "wof:name":"Sutepe",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.80142,
+    37.94469,
+    38.80142,
+    37.94469
+],
+  "geometry": {"coordinates":[38.80142,37.94469],"type":"Point"}
+}

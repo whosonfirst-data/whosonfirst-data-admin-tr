@@ -1,0 +1,67 @@
+{
+  "id": 1276135791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.43375,40.46654,40.43375,40.46654",
+    "geom:latitude":40.46654,
+    "geom:longitude":40.43375,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Kazburnu",
+    "gn:country_code":"TR",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7567359,
+    "gn:latitude":40.46654,
+    "gn:longitude":40.43375,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Kazburnu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679471,
+        1108709727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7567359
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cc031e3cc9b14e1af99e5704ed6f123b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709727,
+            "locality_id":1276135791,
+            "region_id":85679471
+        }
+    ],
+    "wof:id":1276135791,
+    "wof:lastmodified":1537041598,
+    "wof:name":"Kazburnu",
+    "wof:parent_id":1108709727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.43375,
+    40.46654,
+    40.43375,
+    40.46654
+],
+  "geometry": {"coordinates":[40.43375,40.46654],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260105011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.36099,37.50241,37.36099,37.50241",
+    "geom:latitude":37.50241,
+    "geom:longitude":37.36099,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Ulubahce",
+    "gn:country_code":"TR",
+    "gn:dem":875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298455,
+    "gn:latitude":37.50241,
+    "gn:longitude":37.36099,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ulubah\u00e7e",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u011fd\u0131nkebir",
+        "Yukar\u0131ba\u011fdin",
+        "Ba\u011fdini K\u00f6y\u00fc",
+        "Ulubah\u00e7e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        1108709807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298455
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a740c8212f77ba38ddad7bf99a3c194c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709807,
+            "locality_id":1260105011,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1260105011,
+    "wof:lastmodified":1537706641,
+    "wof:name":"Ulubahce",
+    "wof:parent_id":1108709807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.36099,
+    37.50241,
+    37.36099,
+    37.50241
+],
+  "geometry": {"coordinates":[37.36099,37.50241],"type":"Point"}
+}

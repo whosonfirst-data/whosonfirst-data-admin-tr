@@ -1,0 +1,67 @@
+{
+  "id": 1226065335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80444,36.63972,31.80444,36.63972",
+    "geom:latitude":36.63972,
+    "geom:longitude":31.80444,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Akdam",
+    "gn:country_code":"TR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324764,
+    "gn:latitude":36.63972,
+    "gn:longitude":31.80444,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Akdam",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324764
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f3d8acb8901b9655fd972b642974505b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463831,
+            "locality_id":1226065335,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1226065335,
+    "wof:lastmodified":1536697187,
+    "wof:name":"Akdam",
+    "wof:parent_id":890463831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80444,
+    36.63972,
+    31.80444,
+    36.63972
+],
+  "geometry": {"coordinates":[31.80444,36.63972],"type":"Point"}
+}

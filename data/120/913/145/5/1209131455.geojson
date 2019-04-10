@@ -1,0 +1,64 @@
+{
+  "id": 1209131455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.51854,38.9739,29.51854,38.9739",
+    "geom:latitude":38.9739,
+    "geom:longitude":29.51854,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Saz",
+    "gn:country_code":"TR",
+    "gn:dem":831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301390,
+    "gn:latitude":38.9739,
+    "gn:longitude":29.51854,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Saz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Saz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301390
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fa587fcfd9e4661a8c0de66c8a7c80ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209131455
+        }
+    ],
+    "wof:id":1209131455,
+    "wof:lastmodified":1537706741,
+    "wof:name":"Saz",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.51854,
+    38.9739,
+    29.51854,
+    38.9739
+],
+  "geometry": {"coordinates":[29.51854,38.9739],"type":"Point"}
+}

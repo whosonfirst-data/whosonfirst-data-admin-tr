@@ -1,0 +1,71 @@
+{
+  "id": 1226197347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.1001,40.28896,41.1001,40.28896",
+    "geom:latitude":40.28896,
+    "geom:longitude":41.1001,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Baskent",
+    "gn:country_code":"TR",
+    "gn:dem":2201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751021,
+    "gn:latitude":40.28896,
+    "gn:longitude":41.1001,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Ba\u015fkent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ba\u015fkend",
+        "Ba\u015fkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751021
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f3142a50d562a80578b1bd3e600b0bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709321,
+            "locality_id":1226197347,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1226197347,
+    "wof:lastmodified":1537708089,
+    "wof:name":"Baskent",
+    "wof:parent_id":1108709321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.1001,
+    40.28896,
+    41.1001,
+    40.28896
+],
+  "geometry": {"coordinates":[41.1001,40.28896],"type":"Point"}
+}

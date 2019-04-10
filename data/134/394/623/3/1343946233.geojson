@@ -1,0 +1,70 @@
+{
+  "id": 1343946233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.23651,39.87438,28.23651,39.87438",
+    "geom:latitude":39.87438,
+    "geom:longitude":28.23651,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gurece",
+    "gn:country_code":"TR",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313952,
+    "gn:latitude":39.87438,
+    "gn:longitude":28.23651,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"G\u00fcrece",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcrece"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313952
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"57f6346cc4a272a322d36923568bce67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462063,
+            "locality_id":1343946233,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1343946233,
+    "wof:lastmodified":1537707141,
+    "wof:name":"Gurece",
+    "wof:parent_id":890462063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.23651,
+    39.87438,
+    28.23651,
+    39.87438
+],
+  "geometry": {"coordinates":[28.23651,39.87438],"type":"Point"}
+}

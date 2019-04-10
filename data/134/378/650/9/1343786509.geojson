@@ -1,0 +1,67 @@
+{
+  "id": 1343786509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.35749,38.26719,37.35749,38.26719",
+    "geom:latitude":38.26719,
+    "geom:longitude":37.35749,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Gundere",
+    "gn:country_code":"TR",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313539,
+    "gn:latitude":38.26719,
+    "gn:longitude":37.35749,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"G\u00fcndere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        1108709475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313539
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2ef245e0910256a0a420e320bd79da7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709475,
+            "locality_id":1343786509,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1343786509,
+    "wof:lastmodified":1536774091,
+    "wof:name":"Gundere",
+    "wof:parent_id":1108709475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.35749000000001,
+    38.26719,
+    37.35749000000001,
+    38.26719
+],
+  "geometry": {"coordinates":[37.35749000000001,38.26719],"type":"Point"}
+}

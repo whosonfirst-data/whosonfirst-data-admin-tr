@@ -1,0 +1,77 @@
+{
+  "id": 1225969883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.97414,37.06735,38.97414,37.06735",
+    "geom:latitude":37.06735,
+    "geom:longitude":38.97414,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Kurucuk",
+    "gn:country_code":"TR",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315750,
+    "gn:latitude":37.06735,
+    "gn:longitude":38.97414,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Kurucuk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kurucuk"
+    ],
+    "name:und_x_variant":[
+        "\u0130lgiran",
+        "Elk\u0131ran",
+        "Elgiran",
+        "Korucuk",
+        "Korudzhuk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315750
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b1662f772aa895871a8a91bce55d53db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1225969883,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1225969883,
+    "wof:lastmodified":1537707196,
+    "wof:name":"Kurucuk",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.97414000000001,
+    37.06735,
+    38.97414000000001,
+    37.06735
+],
+  "geometry": {"coordinates":[38.97414000000001,37.06735],"type":"Point"}
+}

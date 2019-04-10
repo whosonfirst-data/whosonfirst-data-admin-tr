@@ -1,0 +1,72 @@
+{
+  "id": 1259841317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3904,40.43708,34.3904,40.43708",
+    "geom:latitude":40.43708,
+    "geom:longitude":34.3904,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kucukerikli",
+    "gn:country_code":"TR",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742374,
+    "gn:latitude":40.43708,
+    "gn:longitude":34.3904,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u00fc\u00e7\u00fckerikli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yamad\u0131k\u00fc\u00e7\u00fck",
+        "K\u00fc\u00e7\u00fck Yamad\u0131",
+        "K\u00fc\u00e7\u00fckerikli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742374
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7f9a756ba73e3271d92ec0613f3eb400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709947,
+            "locality_id":1259841317,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1259841317,
+    "wof:lastmodified":1537707797,
+    "wof:name":"Kucukerikli",
+    "wof:parent_id":1108709947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3904,
+    40.43708,
+    34.3904,
+    40.43708
+],
+  "geometry": {"coordinates":[34.3904,40.43708],"type":"Point"}
+}

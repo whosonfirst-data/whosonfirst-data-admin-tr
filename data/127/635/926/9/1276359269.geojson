@@ -1,0 +1,77 @@
+{
+  "id": 1276359269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.67635,38.99118,27.67635,38.99118",
+    "geom:latitude":38.99118,
+    "geom:longitude":27.67635,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Zeytinliova",
+    "gn:country_code":"TR",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":295907,
+    "gn:latitude":38.99118,
+    "gn:longitude":27.67635,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Zeytinliova",
+    "gn:population":4905,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palamut",
+        "Yavak\u00f6y",
+        "Yayak\u00f6y",
+        "Zeytinliova"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890461947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295907,
+        "wk:page":"Zeytinliova"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1a07375f420b4ebbc70a9c7e04a21687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461947,
+            "locality_id":1276359269,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1276359269,
+    "wof:lastmodified":1537706547,
+    "wof:name":"Zeytinliova",
+    "wof:parent_id":890461947,
+    "wof:placetype":"locality",
+    "wof:population":4905,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.67635,
+    38.99118,
+    27.67635,
+    38.99118
+],
+  "geometry": {"coordinates":[27.67635,38.99118],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343686605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84328,40.19276,35.84328,40.19276",
+    "geom:latitude":40.19276,
+    "geom:longitude":35.84328,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Alayurt",
+    "gn:country_code":"TR",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752174,
+    "gn:latitude":40.19276,
+    "gn:longitude":35.84328,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alayurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Araplar",
+        "Alayurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890461509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752174
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4162042ac6ca25d65f0052e5e2fe89ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461509,
+            "locality_id":1343686605,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1343686605,
+    "wof:lastmodified":1537708130,
+    "wof:name":"Alayurt",
+    "wof:parent_id":890461509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84328,
+    40.19276,
+    35.84328,
+    40.19276
+],
+  "geometry": {"coordinates":[35.84328,40.19276],"type":"Point"}
+}

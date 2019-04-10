@@ -1,0 +1,64 @@
+{
+  "id": 1209021037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.79243,39.09529,41.79243,39.09529",
+    "geom:latitude":39.09529,
+    "geom:longitude":41.79243,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Erdogan",
+    "gn:country_code":"TR",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315507,
+    "gn:latitude":39.09529,
+    "gn:longitude":41.79243,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Erdo\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Erdo\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315507
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7b605aaa0d4c8570c49420eb6a7fa9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209021037
+        }
+    ],
+    "wof:id":1209021037,
+    "wof:lastmodified":1537707189,
+    "wof:name":"Erdogan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.79243,
+    39.09529000000001,
+    41.79243,
+    39.09529000000001
+],
+  "geometry": {"coordinates":[41.79243,39.09529000000001],"type":"Point"}
+}

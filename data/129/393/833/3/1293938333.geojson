@@ -1,0 +1,67 @@
+{
+  "id": 1293938333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.21667,39.41667,42.21667,39.41667",
+    "geom:latitude":39.41667,
+    "geom:longitude":42.21667,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kopal",
+    "gn:country_code":"TR",
+    "gn:dem":1851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306565,
+    "gn:latitude":39.41667,
+    "gn:longitude":42.21667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kopal",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306565
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5687bd96d31cac2eae797ba9ae2c6256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1293938333,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1293938333,
+    "wof:lastmodified":1536633027,
+    "wof:name":"Kopal",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.21667,
+    39.41667,
+    42.21667,
+    39.41667
+],
+  "geometry": {"coordinates":[42.21667,39.41667],"type":"Point"}
+}

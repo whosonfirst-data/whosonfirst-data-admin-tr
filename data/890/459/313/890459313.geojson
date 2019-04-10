@@ -1,0 +1,69 @@
+{
+  "id": 890459313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11615,36.23506,36.11615,36.23506",
+    "geom:latitude":36.23506,
+    "geom:longitude":36.11615,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":2154,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcnyaz\u0131"
+    ],
+    "qs:name":"G\u00fcnyaz\u0131",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438243,
+        "gp:id":2344073,
+        "qs:id":548205
+    },
+    "wof:country":"TR",
+    "wof:created":1469053262,
+    "wof:geomhash":"4e173b29b7c1c6852786140e2ea1d00c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461775,
+            "locality_id":890459313,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":890459313,
+    "wof:lastmodified":1505343676,
+    "wof:name":"G\u00fcnyaz\u0131",
+    "wof:parent_id":890461775,
+    "wof:placetype":"locality",
+    "wof:population":2154,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11615,
+    36.23506,
+    36.11615,
+    36.23506
+],
+  "geometry": {"coordinates":[36.11615,36.23506],"type":"Point"}
+}

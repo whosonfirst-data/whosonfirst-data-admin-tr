@@ -1,0 +1,67 @@
+{
+  "id": 1293636959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81906,40.07758,30.81906,40.07758",
+    "geom:latitude":40.07758,
+    "geom:longitude":30.81906,
+    "gn:admin1_code":"26.0",
+    "gn:asciiname":"Duzkoy",
+    "gn:country_code":"TR",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747753,
+    "gn:latitude":40.07758,
+    "gn:longitude":30.81906,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"D\u00fczk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890463237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747753
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f32b8e601494ddd85ee0461f5fd967d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463237,
+            "locality_id":1293636959,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1293636959,
+    "wof:lastmodified":1537065935,
+    "wof:name":"Duzkoy",
+    "wof:parent_id":890463237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81906,
+    40.07758,
+    30.81906,
+    40.07758
+],
+  "geometry": {"coordinates":[30.81906,40.07758],"type":"Point"}
+}

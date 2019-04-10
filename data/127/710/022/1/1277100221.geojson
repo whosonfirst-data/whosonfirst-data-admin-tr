@@ -1,0 +1,73 @@
+{
+  "id": 1277100221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.29697,40.22999,36.29697,40.22999",
+    "geom:latitude":40.22999,
+    "geom:longitude":36.29697,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ballica",
+    "gn:country_code":"TR",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751110,
+    "gn:latitude":40.22999,
+    "gn:longitude":36.29697,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ball\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abayl\u0131",
+        "Abayel",
+        "Abay\u0131l",
+        "Ball\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890462023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751110
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b8624d1ac92c960b8314f36bf5a5d509",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462023,
+            "locality_id":1277100221,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1277100221,
+    "wof:lastmodified":1537708092,
+    "wof:name":"Ballica",
+    "wof:parent_id":890462023,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.29697,
+    40.22999,
+    36.29697,
+    40.22999
+],
+  "geometry": {"coordinates":[36.29697,40.22999],"type":"Point"}
+}

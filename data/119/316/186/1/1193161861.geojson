@@ -1,0 +1,67 @@
+{
+  "id": 1193161861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.51667,41.88333,34.51667,41.88333",
+    "geom:latitude":41.88333,
+    "geom:longitude":34.51667,
+    "gn:admin1_code":"57.0",
+    "gn:asciiname":"Harmanlar",
+    "gn:country_code":"TR",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745840,
+    "gn:latitude":41.88333,
+    "gn:longitude":34.51667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Harmanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679351,
+        1108709311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745840
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"919b29ed9342ede29cf084d48639f549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709311,
+            "locality_id":1193161861,
+            "region_id":85679351
+        }
+    ],
+    "wof:id":1193161861,
+    "wof:lastmodified":1536367090,
+    "wof:name":"Harmanlar",
+    "wof:parent_id":1108709311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.51667,
+    41.88333,
+    34.51667,
+    41.88333
+],
+  "geometry": {"coordinates":[34.51667,41.88333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343974559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.06144,39.08918,43.06144,39.08918",
+    "geom:latitude":39.08918,
+    "geom:longitude":43.06144,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Ortayayla",
+    "gn:country_code":"TR",
+    "gn:dem":2018,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6968876,
+    "gn:latitude":39.08918,
+    "gn:longitude":43.06144,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ortayayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ortayayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6968876
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5a018247348166f3e00f43d85b2d5fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464421,
+            "locality_id":1343974559,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1343974559,
+    "wof:lastmodified":1537708171,
+    "wof:name":"Ortayayla",
+    "wof:parent_id":890464421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.06144000000001,
+    39.08918,
+    43.06144000000001,
+    39.08918
+],
+  "geometry": {"coordinates":[43.06144000000001,39.08918],"type":"Point"}
+}

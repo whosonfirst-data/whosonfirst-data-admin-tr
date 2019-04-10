@@ -1,0 +1,67 @@
+{
+  "id": 1225870419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.06851,41.50961,27.06851,41.50961",
+    "geom:latitude":41.50961,
+    "geom:longitude":27.06851,
+    "gn:admin1_code":"39",
+    "gn:asciiname":"Oruclu",
+    "gn:country_code":"TR",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8051332,
+    "gn:latitude":41.50961,
+    "gn:longitude":27.06851,
+    "gn:modification_date":"2011-11-02",
+    "gn:name":"Oru\u00e7lu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679219,
+        1108709337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051332
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4851b133a76c9c6535e77453e7cb8515",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709337,
+            "locality_id":1225870419,
+            "region_id":85679219
+        }
+    ],
+    "wof:id":1225870419,
+    "wof:lastmodified":1536977580,
+    "wof:name":"Oruclu",
+    "wof:parent_id":1108709337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.06851,
+    41.50961,
+    27.06851,
+    41.50961
+],
+  "geometry": {"coordinates":[27.06851,41.50961],"type":"Point"}
+}

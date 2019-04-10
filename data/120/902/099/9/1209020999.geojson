@@ -1,0 +1,65 @@
+{
+  "id": 1209020999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.72487,41.16876,36.72487,41.16876",
+    "geom:latitude":41.16876,
+    "geom:longitude":36.72487,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Beyyenice",
+    "gn:country_code":"TR",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750628,
+    "gn:latitude":41.16876,
+    "gn:longitude":36.72487,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beyyenice",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenice",
+        "Beyyenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750628
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e947fb7a0532caf474f38d760af288f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209020999
+        }
+    ],
+    "wof:id":1209020999,
+    "wof:lastmodified":1537708074,
+    "wof:name":"Beyyenice",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.72487,
+    41.16876,
+    36.72487,
+    41.16876
+],
+  "geometry": {"coordinates":[36.72487,41.16876],"type":"Point"}
+}

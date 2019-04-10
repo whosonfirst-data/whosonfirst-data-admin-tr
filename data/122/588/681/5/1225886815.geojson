@@ -1,0 +1,76 @@
+{
+  "id": 1225886815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.71399,40.22449,42.71399,40.22449",
+    "geom:latitude":40.22449,
+    "geom:longitude":42.71399,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Sehitemin",
+    "gn:country_code":"TR",
+    "gn:dem":2011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739895,
+    "gn:latitude":40.22449,
+    "gn:longitude":42.71399,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015eehitemin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015eehitemin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0435\u0445\u0438\u0442\u0435\u043c\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "\u015eehitemin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890461201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739895
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a41e6e347f1a0cf7ecc56b05c44286f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461201,
+            "locality_id":1225886815,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1225886815,
+    "wof:lastmodified":1537707715,
+    "wof:name":"Sehitemin",
+    "wof:parent_id":890461201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.71399,
+    40.22449,
+    42.71399,
+    40.22449
+],
+  "geometry": {"coordinates":[42.71399,40.22449],"type":"Point"}
+}

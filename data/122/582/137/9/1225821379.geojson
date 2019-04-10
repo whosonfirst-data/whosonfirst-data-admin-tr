@@ -1,0 +1,76 @@
+{
+  "id": 1225821379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.33134,40.28154,26.33134,40.28154",
+    "geom:latitude":40.28154,
+    "geom:longitude":26.33134,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Buyukanafarta",
+    "gn:country_code":"TR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750240,
+    "gn:latitude":40.28154,
+    "gn:longitude":26.33134,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"B\u00fcy\u00fckanafarta",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Big Hanafart"
+    ],
+    "name:und_x_variant":[
+        "Buyuk Hanafart",
+        "B\u00fcy\u00fck Anafarta",
+        "B\u00fcy\u00fckanafarta",
+        "Biyuk Anafarta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750240
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1322c72208e638251e774b25112742cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709471,
+            "locality_id":1225821379,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1225821379,
+    "wof:lastmodified":1537708061,
+    "wof:name":"Buyukanafarta",
+    "wof:parent_id":1108709471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.33134,
+    40.28154,
+    26.33134,
+    40.28154
+],
+  "geometry": {"coordinates":[26.33134,40.28154],"type":"Point"}
+}

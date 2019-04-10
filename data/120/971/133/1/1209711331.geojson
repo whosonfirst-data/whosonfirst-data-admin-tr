@@ -1,0 +1,67 @@
+{
+  "id": 1209711331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17694,37.18194,30.17694,37.18194",
+    "geom:latitude":37.18194,
+    "geom:longitude":30.17694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gumuslu",
+    "gn:country_code":"TR",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":446969,
+    "gn:latitude":37.18194,
+    "gn:longitude":30.17694,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"G\u00fcm\u00fc\u015fl\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890460807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":446969
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"40ebf54b43a77b69a0f715ae5cc3a716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460807,
+            "locality_id":1209711331,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1209711331,
+    "wof:lastmodified":1536390557,
+    "wof:name":"Gumuslu",
+    "wof:parent_id":890460807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17694,
+    37.18194,
+    30.17694,
+    37.18194
+],
+  "geometry": {"coordinates":[30.17694,37.18194],"type":"Point"}
+}

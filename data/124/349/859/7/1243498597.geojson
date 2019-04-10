@@ -1,0 +1,70 @@
+{
+  "id": 1243498597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3,38.13333,28.3,38.13333",
+    "geom:latitude":38.13333,
+    "geom:longitude":28.3,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Kokarca",
+    "gn:country_code":"TR",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306776,
+    "gn:latitude":38.13333,
+    "gn:longitude":28.3,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kokarca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kokarca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        1108709377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306776
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2f2bd79365eb4dbca5454ad05bd7e9c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709377,
+            "locality_id":1243498597,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1243498597,
+    "wof:lastmodified":1537706918,
+    "wof:name":"Kokarca",
+    "wof:parent_id":1108709377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.3,
+    38.13333,
+    28.3,
+    38.13333
+],
+  "geometry": {"coordinates":[28.3,38.13333],"type":"Point"}
+}

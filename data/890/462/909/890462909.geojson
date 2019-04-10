@@ -1,0 +1,68 @@
+{
+  "id": 890462909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.65965,37.65685,40.65965,37.65685",
+    "geom:latitude":37.65685,
+    "geom:longitude":40.65965,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":1017,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130\u015fg\u00f6ren"
+    ],
+    "qs:name":"Kavsan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311191,
+        "qs:id":80071
+    },
+    "wof:country":"TR",
+    "wof:created":1469053408,
+    "wof:geomhash":"dd884167e7256a4d691d2437bea14d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709869,
+            "locality_id":890462909,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890462909,
+    "wof:lastmodified":1505343691,
+    "wof:name":"Kavsan",
+    "wof:parent_id":1108709869,
+    "wof:placetype":"locality",
+    "wof:population":1017,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.65965,
+    37.65685,
+    40.65965,
+    37.65685
+],
+  "geometry": {"coordinates":[40.65965,37.65685],"type":"Point"}
+}

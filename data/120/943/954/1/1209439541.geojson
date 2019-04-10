@@ -1,0 +1,64 @@
+{
+  "id": 1209439541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.61065,40.51893,37.61065,40.51893",
+    "geom:latitude":40.51893,
+    "geom:longitude":37.61065,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Kuyucak",
+    "gn:country_code":"TR",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741968,
+    "gn:latitude":40.51893,
+    "gn:longitude":37.61065,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kuyucak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kuyucak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741968
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"530f832152a826a396988f7ba973af55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439541
+        }
+    ],
+    "wof:id":1209439541,
+    "wof:lastmodified":1537707784,
+    "wof:name":"Kuyucak",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.61065,
+    40.51893,
+    37.61065,
+    40.51893
+],
+  "geometry": {"coordinates":[37.61065,40.51893],"type":"Point"}
+}

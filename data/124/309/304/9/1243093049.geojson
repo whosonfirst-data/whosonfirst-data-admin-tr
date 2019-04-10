@@ -1,0 +1,71 @@
+{
+  "id": 1243093049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.90387,40.84888,32.90387,40.84888",
+    "geom:latitude":40.84888,
+    "geom:longitude":32.90387,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Seyhdogan",
+    "gn:country_code":"TR",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739731,
+    "gn:latitude":40.84888,
+    "gn:longitude":32.90387,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u015eeyhdo\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u0131hdo\u011fan",
+        "\u015eeyhdo\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890460977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739731
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f2b60d43aaf3f8129a4e48daa969f8bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460977,
+            "locality_id":1243093049,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1243093049,
+    "wof:lastmodified":1537707708,
+    "wof:name":"Seyhdogan",
+    "wof:parent_id":890460977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.90387,
+    40.84888,
+    32.90387,
+    40.84888
+],
+  "geometry": {"coordinates":[32.90387,40.84888],"type":"Point"}
+}

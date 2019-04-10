@@ -1,0 +1,64 @@
+{
+  "id": 1209594487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.39733,38.46105,42.39733,38.46105",
+    "geom:latitude":38.46105,
+    "geom:longitude":42.39733,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Tasdemir",
+    "gn:country_code":"TR",
+    "gn:dem":1847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6985977,
+    "gn:latitude":38.46105,
+    "gn:longitude":42.39733,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ta\u015fdemir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ta\u015fdemir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6985977
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"678834677c265cba8f128b7bc5ae18e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209594487
+        }
+    ],
+    "wof:id":1209594487,
+    "wof:lastmodified":1537708189,
+    "wof:name":"Tasdemir",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.39733,
+    38.46105,
+    42.39733,
+    38.46105
+],
+  "geometry": {"coordinates":[42.39733,38.46105],"type":"Point"}
+}

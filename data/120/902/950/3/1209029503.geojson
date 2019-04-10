@@ -1,0 +1,64 @@
+{
+  "id": 1209029503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.31667,41.03333,39.31667,41.03333",
+    "geom:latitude":41.03333,
+    "geom:longitude":39.31667,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Cerasus",
+    "gn:country_code":"TR",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750162,
+    "gn:latitude":41.03333,
+    "gn:longitude":39.31667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cerasus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fcy\u00fckliman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750162
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d685f2ec6914c8b86c55326142573580",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209029503
+        }
+    ],
+    "wof:id":1209029503,
+    "wof:lastmodified":1537708058,
+    "wof:name":"Cerasus",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.31667,
+    41.03333,
+    39.31667,
+    41.03333
+],
+  "geometry": {"coordinates":[39.31667,41.03333],"type":"Point"}
+}

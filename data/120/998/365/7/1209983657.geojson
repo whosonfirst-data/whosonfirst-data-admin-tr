@@ -1,0 +1,70 @@
+{
+  "id": 1209983657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.90349,39.94557,41.90349,39.94557",
+    "geom:latitude":39.94557,
+    "geom:longitude":41.90349,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Yagan",
+    "gn:country_code":"TR",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298020,
+    "gn:latitude":39.94557,
+    "gn:longitude":41.90349,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ya\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ya\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298020
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cc68ba8ba106baf41f7aeb08a1508ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709693,
+            "locality_id":1209983657,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1209983657,
+    "wof:lastmodified":1537706627,
+    "wof:name":"Yagan",
+    "wof:parent_id":1108709693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.90349000000001,
+    39.94557,
+    41.90349000000001,
+    39.94557
+],
+  "geometry": {"coordinates":[41.90349000000001,39.94557],"type":"Point"}
+}

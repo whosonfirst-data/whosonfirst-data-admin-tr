@@ -1,0 +1,78 @@
+{
+  "id": 890464625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.93865,38.5196,27.93865,38.5196",
+    "geom:latitude":38.5196,
+    "geom:longitude":27.93865,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":11377,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ahmetli"
+    ],
+    "qs:name":"Ahmetli",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Manisa",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":194,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325066,
+        "gp:id":2306848,
+        "qs:id":251821,
+        "wd:id":"Q2248722",
+        "wk:page":"Ahmetli"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053479,
+    "wof:geomhash":"3a57ef4fa74722901e892a39f91d0db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709249,
+            "locality_id":890464625,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":890464625,
+    "wof:lastmodified":1527734170,
+    "wof:name":"Ahmetli",
+    "wof:parent_id":1108709249,
+    "wof:placetype":"locality",
+    "wof:population":11377,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.93865,
+    38.5196,
+    27.93865,
+    38.5196
+],
+  "geometry": {"coordinates":[27.93865,38.5196],"type":"Point"}
+}

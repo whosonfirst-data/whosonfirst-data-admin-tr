@@ -1,0 +1,74 @@
+{
+  "id": 1259640065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.24787,37.81816,40.24787,37.81816",
+    "geom:latitude":37.81816,
+    "geom:longitude":40.24787,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Tilseref",
+    "gn:country_code":"TR",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307538,
+    "gn:latitude":37.81816,
+    "gn:longitude":40.24787,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u0131lseref",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "T\u0131lseref"
+    ],
+    "name:und_x_variant":[
+        "Arapyenice",
+        "Arabyenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307538
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"593e2d57b8d860b2bc69e5ec025b532e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463353,
+            "locality_id":1259640065,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1259640065,
+    "wof:lastmodified":1537706941,
+    "wof:name":"Tilseref",
+    "wof:parent_id":890463353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.24787,
+    37.81816,
+    40.24787,
+    37.81816
+],
+  "geometry": {"coordinates":[40.24787,37.81816],"type":"Point"}
+}

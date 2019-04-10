@@ -1,0 +1,71 @@
+{
+  "id": 1293900143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.258,36.156,36.258,36.156",
+    "geom:latitude":36.156,
+    "geom:longitude":36.258,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Paslikaya",
+    "gn:country_code":"TR",
+    "gn:dem":317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302823,
+    "gn:latitude":36.156,
+    "gn:longitude":36.258,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pasl\u0131kaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pasl\u0131kaya",
+        "Alt\u0131nkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302823
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ad393d1140f3f35f28ffc8a2fafc73c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709283,
+            "locality_id":1293900143,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1293900143,
+    "wof:lastmodified":1537706787,
+    "wof:name":"Paslikaya",
+    "wof:parent_id":1108709283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.258,
+    36.156,
+    36.258,
+    36.156
+],
+  "geometry": {"coordinates":[36.258,36.156],"type":"Point"}
+}

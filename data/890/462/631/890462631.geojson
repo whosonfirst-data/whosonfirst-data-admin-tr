@@ -1,0 +1,75 @@
+{
+  "id": 890462631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.07722,40.21889,29.07722,40.21889",
+    "geom:latitude":40.21889,
+    "geom:longitude":29.07722,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fckbal\u0131kl\u0131"
+    ],
+    "name:unk_x_variant":[
+        "Baluklu"
+    ],
+    "qs:name":"K\u00fc\u00e7\u00fckbal\u0131kl\u0131",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Bursa",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679231,
+        890463107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742401,
+        "gp:id":2330640,
+        "qs:id":1116950
+    },
+    "wof:country":"TR",
+    "wof:created":1469053398,
+    "wof:geomhash":"b95fcbb3632d7b4c8734c0a582991611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463107,
+            "locality_id":890462631,
+            "region_id":85679231
+        }
+    ],
+    "wof:id":890462631,
+    "wof:lastmodified":1505343690,
+    "wof:name":"K\u00fc\u00e7\u00fckbal\u0131kl\u0131",
+    "wof:parent_id":890463107,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.07722,
+    40.21889,
+    29.07722,
+    40.21889
+],
+  "geometry": {"coordinates":[29.07722,40.21889],"type":"Point"}
+}

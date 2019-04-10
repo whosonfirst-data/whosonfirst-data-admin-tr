@@ -1,0 +1,67 @@
+{
+  "id": 1243146827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.01106,40.6081,35.01106,40.6081",
+    "geom:latitude":40.6081,
+    "geom:longitude":35.01106,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Buget",
+    "gn:country_code":"TR",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750338,
+    "gn:latitude":40.6081,
+    "gn:longitude":35.01106,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"B\u00fc\u011fet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890462433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750338
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c92a495b8af6be3ab3948fb6ea02949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462433,
+            "locality_id":1243146827,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1243146827,
+    "wof:lastmodified":1536740464,
+    "wof:name":"Buget",
+    "wof:parent_id":890462433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.01106,
+    40.6081,
+    35.01106,
+    40.6081
+],
+  "geometry": {"coordinates":[35.01106,40.6081],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276837103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.47369,40.00206,41.47369,40.00206",
+    "geom:latitude":40.00206,
+    "geom:longitude":41.47369,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Saksi",
+    "gn:country_code":"TR",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740601,
+    "gn:latitude":40.00206,
+    "gn:longitude":41.47369,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Saks\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saks\u0131",
+        "Pertek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740601
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f568411142acc1e4a7b24ebb24d70c3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709803,
+            "locality_id":1276837103,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1276837103,
+    "wof:lastmodified":1537707738,
+    "wof:name":"Saksi",
+    "wof:parent_id":1108709803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.47369000000001,
+    40.00206,
+    41.47369000000001,
+    40.00206
+],
+  "geometry": {"coordinates":[41.47369000000001,40.00206],"type":"Point"}
+}

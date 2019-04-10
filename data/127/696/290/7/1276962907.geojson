@@ -1,0 +1,71 @@
+{
+  "id": 1276962907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.52012,37.61692,27.52012,37.61692",
+    "geom:latitude":37.61692,
+    "geom:longitude":27.52012,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sayrakci",
+    "gn:country_code":"TR",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301419,
+    "gn:latitude":37.61692,
+    "gn:longitude":27.52012,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Sayrak\u00e7\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayrakc\u0131",
+        "Sayrak\u00e7\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890462297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301419
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c5577edef904108e32e16c0e3a8ec29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462297,
+            "locality_id":1276962907,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1276962907,
+    "wof:lastmodified":1537706741,
+    "wof:name":"Sayrakci",
+    "wof:parent_id":890462297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.52012,
+    37.61692,
+    27.52012,
+    37.61692
+],
+  "geometry": {"coordinates":[27.52012,37.61692],"type":"Point"}
+}

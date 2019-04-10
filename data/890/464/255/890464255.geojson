@@ -1,0 +1,76 @@
+{
+  "id": 890464255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.27792,38.27363,26.27792,38.27363",
+    "geom:latitude":38.27363,
+    "geom:longitude":26.27792,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Altinkum",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130zmir",
+    "qs:photos":84,
+    "qs:photos_1k":17,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":84,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":695,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890460535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7117382,
+        "gp:id":55966472,
+        "qs:id":894672,
+        "wd:id":"Q4834182",
+        "wk:page":"Alt\u0131nkum"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053466,
+    "wof:geomhash":"915ae4db3d2a9b239d0cd9c1afefe6b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460535,
+            "locality_id":890464255,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":890464255,
+    "wof:lastmodified":1527734174,
+    "wof:name":"Altinkum",
+    "wof:parent_id":890460535,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.27792,
+    38.27363,
+    26.27792,
+    38.27363
+],
+  "geometry": {"coordinates":[26.27792,38.27363],"type":"Point"}
+}

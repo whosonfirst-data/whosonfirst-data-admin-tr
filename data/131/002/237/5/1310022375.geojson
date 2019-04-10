@@ -1,0 +1,67 @@
+{
+  "id": 1310022375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.43333,37.16667,44.43333,37.16667",
+    "geom:latitude":37.16667,
+    "geom:longitude":44.43333,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Orencik",
+    "gn:country_code":"TR",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303455,
+    "gn:latitude":37.16667,
+    "gn:longitude":44.43333,
+    "gn:modification_date":"2009-03-18",
+    "gn:name":"\u00d6rencik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890464591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303455
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f34114ec07e2f51404ce06fb0b887081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464591,
+            "locality_id":1310022375,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1310022375,
+    "wof:lastmodified":1536616745,
+    "wof:name":"Orencik",
+    "wof:parent_id":890464591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.43333,
+    37.16667,
+    44.43333,
+    37.16667
+],
+  "geometry": {"coordinates":[44.43333,37.16667],"type":"Point"}
+}

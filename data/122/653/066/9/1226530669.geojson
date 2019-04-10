@@ -1,0 +1,73 @@
+{
+  "id": 1226530669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.10038,40.11073,28.10038,40.11073",
+    "geom:latitude":40.11073,
+    "geom:longitude":28.10038,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karacalilik",
+    "gn:country_code":"TR",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744494,
+    "gn:latitude":40.11073,
+    "gn:longitude":28.10038,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kara\u00e7al\u0131l\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kara\u00e7al\u0131l\u0131k"
+    ],
+    "name:tur_x_variant":[
+        "Karacaoluk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744494
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9027b53e359cb065766ea08a209cf006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462505,
+            "locality_id":1226530669,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1226530669,
+    "wof:lastmodified":1537707861,
+    "wof:name":"Karacalilik",
+    "wof:parent_id":890462505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.10038,
+    40.11073,
+    28.10038,
+    40.11073
+],
+  "geometry": {"coordinates":[28.10038,40.11073],"type":"Point"}
+}

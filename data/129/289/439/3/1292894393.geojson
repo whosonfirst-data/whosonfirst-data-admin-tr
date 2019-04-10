@@ -1,0 +1,76 @@
+{
+  "id": 1292894393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.8862,40.06904,27.8862,40.06904",
+    "geom:latitude":40.06904,
+    "geom:longitude":27.8862,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Derekoy",
+    "gn:country_code":"TR",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748304,
+    "gn:latitude":40.06904,
+    "gn:longitude":27.8862,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Derek\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ota_x_preferred":[
+        "\u0627\u0644\u06a9\u0633\u06cc"
+    ],
+    "name:und_x_variant":[
+        "Aleksi",
+        "Dere",
+        "Eleksi",
+        "Derek\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748304
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b30c893c6204e291a170cd06641674e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709709,
+            "locality_id":1292894393,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1292894393,
+    "wof:lastmodified":1537707990,
+    "wof:name":"Derekoy",
+    "wof:parent_id":1108709709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.8862,
+    40.06904,
+    27.8862,
+    40.06904
+],
+  "geometry": {"coordinates":[27.8862,40.06904],"type":"Point"}
+}

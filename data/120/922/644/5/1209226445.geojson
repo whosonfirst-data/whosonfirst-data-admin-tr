@@ -1,0 +1,65 @@
+{
+  "id": 1209226445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.6589,37.8641,38.6589,37.8641",
+    "geom:latitude":37.8641,
+    "geom:longitude":38.6589,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Golgeli",
+    "gn:country_code":"TR",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314078,
+    "gn:latitude":37.8641,
+    "gn:longitude":38.6589,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6lgeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bervedol",
+        "G\u00f6lgeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314078
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"709577443dc8897d26f13a0e721c61e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209226445
+        }
+    ],
+    "wof:id":1209226445,
+    "wof:lastmodified":1537707145,
+    "wof:name":"Golgeli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.6589,
+    37.8641,
+    38.6589,
+    37.8641
+],
+  "geometry": {"coordinates":[38.6589,37.8641],"type":"Point"}
+}

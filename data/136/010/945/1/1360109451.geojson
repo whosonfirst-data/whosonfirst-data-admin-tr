@@ -1,0 +1,71 @@
+{
+  "id": 1360109451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.85595,38.91938,39.85595,38.91938",
+    "geom:latitude":38.91938,
+    "geom:longitude":39.85595,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Sokucek",
+    "gn:country_code":"TR",
+    "gn:dem":1013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311074,
+    "gn:latitude":38.91938,
+    "gn:longitude":39.85595,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"S\u00f6k\u00fccek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00f6k\u00fccek",
+        "\u0130snis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311074
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f91d0a1e2104129c07e671b596fbdf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709715,
+            "locality_id":1360109451,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1360109451,
+    "wof:lastmodified":1537707043,
+    "wof:name":"Sokucek",
+    "wof:parent_id":1108709715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.85595,
+    38.91938,
+    39.85595,
+    38.91938
+],
+  "geometry": {"coordinates":[39.85595,38.91938],"type":"Point"}
+}

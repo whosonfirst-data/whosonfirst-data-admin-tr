@@ -1,0 +1,73 @@
+{
+  "id": 1343365337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11639,39.24028,31.11639,39.24028",
+    "geom:latitude":39.24028,
+    "geom:longitude":31.11639,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Beyoren",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321203,
+    "gn:latitude":39.24028,
+    "gn:longitude":31.11639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bey\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u00fckraniye",
+        "H\u0131rs\u0131z\u00f6ren",
+        "Bey\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890462013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321203
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"301869a48e34bb00b7ff335d4c060030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462013,
+            "locality_id":1343365337,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1343365337,
+    "wof:lastmodified":1537707372,
+    "wof:name":"Beyoren",
+    "wof:parent_id":890462013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11639000000001,
+    39.24028,
+    31.11639000000001,
+    39.24028
+],
+  "geometry": {"coordinates":[31.11639000000001,39.24028],"type":"Point"}
+}

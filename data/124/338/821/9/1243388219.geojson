@@ -1,0 +1,79 @@
+{
+  "id": 1243388219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.36122,37.17014,40.36122,37.17014",
+    "geom:latitude":37.17014,
+    "geom:longitude":40.36122,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Kucuk Ayrik",
+    "gn:country_code":"TR",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305997,
+    "gn:latitude":37.17014,
+    "gn:longitude":40.36122,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"K\u00fc\u00e7\u00fck Ayr\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fckayr\u0131k"
+    ],
+    "name:tur_x_variant":[
+        "K\u00fc\u00e7\u00fck Ayr\u0131k"
+    ],
+    "name:und_x_variant":[
+        "Me\u015fkoksa\u011fir",
+        "K\u00fc\u00e7\u00fckme\u015fkok",
+        "K\u00fc\u00e7\u00fckma\u015fkok",
+        "K\u00fc\u00e7\u00fckme\u015fk\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305997
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1a7ca71000c73495feb9f0be51596f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":1243388219,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1243388219,
+    "wof:lastmodified":1537706892,
+    "wof:name":"Kucuk Ayrik",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.36122,
+    37.17014,
+    40.36122,
+    37.17014
+],
+  "geometry": {"coordinates":[40.36122,37.17014],"type":"Point"}
+}

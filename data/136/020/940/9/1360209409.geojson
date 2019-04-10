@@ -1,0 +1,70 @@
+{
+  "id": 1360209409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.24645,39.11493,29.24645,39.11493",
+    "geom:latitude":39.11493,
+    "geom:longitude":29.24645,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Kopenez",
+    "gn:country_code":"TR",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10014850,
+    "gn:latitude":39.11493,
+    "gn:longitude":29.24645,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"K\u00f6penez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6penez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10014850
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e91017502b4cd8b4ec5dfe8c19c38362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709507,
+            "locality_id":1360209409,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1360209409,
+    "wof:lastmodified":1537708331,
+    "wof:name":"Kopenez",
+    "wof:parent_id":1108709507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.24645,
+    39.11493,
+    29.24645,
+    39.11493
+],
+  "geometry": {"coordinates":[29.24645,39.11493],"type":"Point"}
+}

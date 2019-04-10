@@ -1,0 +1,70 @@
+{
+  "id": 1225969825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08763,40.96137,30.08763,40.96137",
+    "geom:latitude":40.96137,
+    "geom:longitude":30.08763,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Sepetci",
+    "gn:country_code":"TR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8395692,
+    "gn:latitude":40.96137,
+    "gn:longitude":30.08763,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Sepet\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sepet\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890463605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8395692
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b9e6d6051e3d9c9e17f50d6c8c2a8cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463605,
+            "locality_id":1225969825,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1225969825,
+    "wof:lastmodified":1537708292,
+    "wof:name":"Sepetci",
+    "wof:parent_id":890463605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08763,
+    40.96137,
+    30.08763,
+    40.96137
+],
+  "geometry": {"coordinates":[30.08763,40.96137],"type":"Point"}
+}

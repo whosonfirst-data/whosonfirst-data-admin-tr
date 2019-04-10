@@ -1,0 +1,67 @@
+{
+  "id": 1243336795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81111,40.74349,31.81111,40.74349",
+    "geom:latitude":40.74349,
+    "geom:longitude":31.81111,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kirha",
+    "gn:country_code":"TR",
+    "gn:dem":993,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8185186,
+    "gn:latitude":40.74349,
+    "gn:longitude":31.81111,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"K\u0131rha",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8185186
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dc9405fa2033291678a833d7a483fccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462577,
+            "locality_id":1243336795,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1243336795,
+    "wof:lastmodified":1536963586,
+    "wof:name":"Kirha",
+    "wof:parent_id":890462577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81111,
+    40.74349,
+    31.81111,
+    40.74349
+],
+  "geometry": {"coordinates":[31.81111,40.74349],"type":"Point"}
+}

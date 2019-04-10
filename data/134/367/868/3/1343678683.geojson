@@ -1,0 +1,73 @@
+{
+  "id": 1343678683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.07513,37.35086,41.07513,37.35086",
+    "geom:latitude":37.35086,
+    "geom:longitude":41.07513,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Ziyaret",
+    "gn:country_code":"TR",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":441471,
+    "gn:latitude":37.35086,
+    "gn:longitude":41.07513,
+    "gn:modification_date":"2013-07-07",
+    "gn:name":"Ziyaret",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ziyaret"
+    ],
+    "name:und_x_variant":[
+        "Keferdin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108710073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":441471
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"254cce8adb79ee0bb2de67c3b6e7fc1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710073,
+            "locality_id":1343678683,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1343678683,
+    "wof:lastmodified":1537707592,
+    "wof:name":"Ziyaret",
+    "wof:parent_id":1108710073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.07513,
+    37.35086,
+    41.07513,
+    37.35086
+],
+  "geometry": {"coordinates":[41.07513,37.35086],"type":"Point"}
+}

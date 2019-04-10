@@ -1,0 +1,67 @@
+{
+  "id": 1310170335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31667,40.96667,34.31667,40.96667",
+    "geom:latitude":40.96667,
+    "geom:longitude":34.31667,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Memiler",
+    "gn:country_code":"TR",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741657,
+    "gn:latitude":40.96667,
+    "gn:longitude":34.31667,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Memiler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741657
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4f95a6284d0ffc79e91ae579823e9b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709215,
+            "locality_id":1310170335,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1310170335,
+    "wof:lastmodified":1536903358,
+    "wof:name":"Memiler",
+    "wof:parent_id":1108709215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31667,
+    40.96667,
+    34.31667,
+    40.96667
+],
+  "geometry": {"coordinates":[34.31667,40.96667],"type":"Point"}
+}

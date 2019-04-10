@@ -1,0 +1,67 @@
+{
+  "id": 1343348041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.64518,39.27532,40.64518,39.27532",
+    "geom:latitude":39.27532,
+    "geom:longitude":40.64518,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Uzunpazar",
+    "gn:country_code":"TR",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298164,
+    "gn:latitude":39.27532,
+    "gn:longitude":40.64518,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Uzunpazar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        1108709239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298164
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e3e0fbc6bb001b2f63579d981fb6a3e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709239,
+            "locality_id":1343348041,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1343348041,
+    "wof:lastmodified":1536908842,
+    "wof:name":"Uzunpazar",
+    "wof:parent_id":1108709239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.64518,
+    39.27532,
+    40.64518,
+    39.27532
+],
+  "geometry": {"coordinates":[40.64518,39.27532],"type":"Point"}
+}

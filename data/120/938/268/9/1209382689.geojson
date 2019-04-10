@@ -1,0 +1,64 @@
+{
+  "id": 1209382689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0533,39.75004,39.0533,39.75004",
+    "geom:latitude":39.75004,
+    "geom:longitude":39.0533,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Kerer",
+    "gn:country_code":"TR",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308121,
+    "gn:latitude":39.75004,
+    "gn:longitude":39.0533,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kerer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kerer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308121
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a224a06b72be7b1a8a3f97028bb16ecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209382689
+        }
+    ],
+    "wof:id":1209382689,
+    "wof:lastmodified":1537706959,
+    "wof:name":"Kerer",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0533,
+    39.75004000000001,
+    39.0533,
+    39.75004000000001
+],
+  "geometry": {"coordinates":[39.0533,39.75004000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259736223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05778,38.08167,28.05778,38.08167",
+    "geom:latitude":38.08167,
+    "geom:longitude":28.05778,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Bademli",
+    "gn:country_code":"TR",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":322559,
+    "gn:latitude":38.08167,
+    "gn:longitude":28.05778,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Bademli",
+    "gn:population":2856,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bademiyekasabas\u0131",
+        "Bademiye",
+        "Bademya",
+        "Bademli"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322559,
+        "wk:page":"Bademli%2C_%C4%B0zmir"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7c78b4bdb9ba2cd0bde389b8f79d0943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461543,
+            "locality_id":1259736223,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1259736223,
+    "wof:lastmodified":1537707416,
+    "wof:name":"Bademli",
+    "wof:parent_id":890461543,
+    "wof:placetype":"locality",
+    "wof:population":2856,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05778,
+    38.08167,
+    28.05778,
+    38.08167
+],
+  "geometry": {"coordinates":[28.05778,38.08167],"type":"Point"}
+}

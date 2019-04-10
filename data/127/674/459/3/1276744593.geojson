@@ -1,0 +1,74 @@
+{
+  "id": 1276744593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46667,40.35,29.46667,40.35",
+    "geom:latitude":40.35,
+    "geom:longitude":29.46667,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Kiblepinar",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743384,
+    "gn:latitude":40.35,
+    "gn:longitude":29.46667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0131blep\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tepek\u00f6y",
+        "K\u0131blep\u0131nar\u0131",
+        "K\u0131pl\u0131p\u0131nar",
+        "K\u0131blep\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679231,
+        1108709979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743384
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2d34f4c00579da747b2c83c949a0373f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709979,
+            "locality_id":1276744593,
+            "region_id":85679231
+        }
+    ],
+    "wof:id":1276744593,
+    "wof:lastmodified":1537707829,
+    "wof:name":"Kiblepinar",
+    "wof:parent_id":1108709979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46667,
+    40.35,
+    29.46667,
+    40.35
+],
+  "geometry": {"coordinates":[29.46667,40.35],"type":"Point"}
+}

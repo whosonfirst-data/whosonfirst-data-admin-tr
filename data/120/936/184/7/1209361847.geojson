@@ -1,0 +1,64 @@
+{
+  "id": 1209361847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.70816,40.15221,38.70816,40.15221",
+    "geom:latitude":40.15221,
+    "geom:longitude":38.70816,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Vartana",
+    "gn:country_code":"TR",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742647,
+    "gn:latitude":40.15221,
+    "gn:longitude":38.70816,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Vartana",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6ro\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742647
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e86c14fb5626cf1093a28ea87b536ec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209361847
+        }
+    ],
+    "wof:id":1209361847,
+    "wof:lastmodified":1537707806,
+    "wof:name":"Vartana",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.70816,
+    40.15221,
+    38.70816,
+    40.15221
+],
+  "geometry": {"coordinates":[38.70816,40.15221],"type":"Point"}
+}

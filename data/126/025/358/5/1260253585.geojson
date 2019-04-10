@@ -1,0 +1,76 @@
+{
+  "id": 1260253585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.62458,38.046,42.62458,38.046",
+    "geom:latitude":38.046,
+    "geom:longitude":42.62458,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Meydan",
+    "gn:country_code":"TR",
+    "gn:dem":1488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310668,
+    "gn:latitude":38.046,
+    "gn:longitude":42.62458,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Meydan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kalkanl\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Meydan"
+    ],
+    "name:und_x_variant":[
+        "\u00c7ircak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310668
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6c2b50df4216cd0931b09b8a6f6f9460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463855,
+            "locality_id":1260253585,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1260253585,
+    "wof:lastmodified":1537707031,
+    "wof:name":"Meydan",
+    "wof:parent_id":890463855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.62458,
+    38.046,
+    42.62458,
+    38.046
+],
+  "geometry": {"coordinates":[42.62458,38.046],"type":"Point"}
+}

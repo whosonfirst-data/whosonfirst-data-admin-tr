@@ -1,0 +1,67 @@
+{
+  "id": 1293167533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53412,39.2329,30.53412,39.2329",
+    "geom:latitude":39.2329,
+    "geom:longitude":30.53412,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Fethiye",
+    "gn:country_code":"TR",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314964,
+    "gn:latitude":39.2329,
+    "gn:longitude":30.53412,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Fethiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890464477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314964
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"39c53cdca7af3d42da9d8f42d8869a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464477,
+            "locality_id":1293167533,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1293167533,
+    "wof:lastmodified":1536751419,
+    "wof:name":"Fethiye",
+    "wof:parent_id":890464477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53412,
+    39.2329,
+    30.53412,
+    39.2329
+],
+  "geometry": {"coordinates":[30.53412,39.2329],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360070943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35,36.31667,30.35,36.31667",
+    "geom:latitude":36.31667,
+    "geom:longitude":30.35,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Mavikent",
+    "gn:country_code":"TR",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297130,
+    "gn:latitude":36.31667,
+    "gn:longitude":30.35,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Mavikent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenice",
+        "Mavikent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297130
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"475a42ed96777a4d02850e755c52d514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463099,
+            "locality_id":1360070943,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1360070943,
+    "wof:lastmodified":1537706594,
+    "wof:name":"Mavikent",
+    "wof:parent_id":890463099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35,
+    36.31667,
+    30.35,
+    36.31667
+],
+  "geometry": {"coordinates":[30.35,36.31667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226168179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69926,40.05253,32.69926,40.05253",
+    "geom:latitude":40.05253,
+    "geom:longitude":32.69926,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Karacakaya",
+    "gn:country_code":"TR",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744526,
+    "gn:latitude":40.05253,
+    "gn:longitude":32.69926,
+    "gn:modification_date":"2007-12-21",
+    "gn:name":"Karacakaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890462771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744526
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cf569d2c7f97110db0f3bf61c4548dbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462771,
+            "locality_id":1226168179,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1226168179,
+    "wof:lastmodified":1537043576,
+    "wof:name":"Karacakaya",
+    "wof:parent_id":890462771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69926,
+    40.05253,
+    32.69926,
+    40.05253
+],
+  "geometry": {"coordinates":[32.69926,40.05253],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890460851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66407,38.09806,35.66407,38.09806",
+    "geom:latitude":38.09806,
+    "geom:longitude":35.66407,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Yenik\u00f6y",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Kayseri",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":115,
+    "wof:belongsto":[
+        102191569,
+        85679321,
+        85632393,
+        890462519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297020,
+        "gp:id":56043232,
+        "qs:id":287949,
+        "wd:id":"Q440494",
+        "wk:page":"Yenik\u00f6y"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053329,
+    "wof:geomhash":"48c7576b29d830daf88750c85e51fc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462519,
+            "neighbourhood_id":890460851,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":890460851,
+    "wof:lastmodified":1527792906,
+    "wof:name":"Yenik\u00f6y",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66407,
+    38.09806,
+    35.66407,
+    38.09806
+],
+  "geometry": {"coordinates":[35.66407,38.09806],"type":"Point"}
+}

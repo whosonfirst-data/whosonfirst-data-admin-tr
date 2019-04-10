@@ -1,0 +1,73 @@
+{
+  "id": 1293442789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.24526,37.98376,27.24526,37.98376",
+    "geom:latitude":37.98376,
+    "geom:longitude":27.24526,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Yoncakoy",
+    "gn:country_code":"TR",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9888533,
+    "gn:latitude":37.98376,
+    "gn:longitude":27.24526,
+    "gn:modification_date":"2015-01-08",
+    "gn:name":"Yoncak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yoncak\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Pananos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890463865
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9888533
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ed5a2f849dbaab7e3151a0c8eaade87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463865,
+            "locality_id":1293442789,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1293442789,
+    "wof:lastmodified":1537708314,
+    "wof:name":"Yoncakoy",
+    "wof:parent_id":890463865,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.24526,
+    37.98376,
+    27.24526,
+    37.98376
+],
+  "geometry": {"coordinates":[27.24526,37.98376],"type":"Point"}
+}

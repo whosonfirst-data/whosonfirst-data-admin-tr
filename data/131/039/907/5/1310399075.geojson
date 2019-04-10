@@ -1,0 +1,67 @@
+{
+  "id": 1310399075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76784,36.95107,31.76784,36.95107",
+    "geom:latitude":36.95107,
+    "geom:longitude":31.76784,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cemerler",
+    "gn:country_code":"TR",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318847,
+    "gn:latitude":36.95107,
+    "gn:longitude":31.76784,
+    "gn:modification_date":"2011-12-07",
+    "gn:name":"Cemerler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890464323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318847
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"efbfa6b222190655d13ed5a114f6823d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464323,
+            "locality_id":1310399075,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1310399075,
+    "wof:lastmodified":1537067591,
+    "wof:name":"Cemerler",
+    "wof:parent_id":890464323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76784,
+    36.95107,
+    31.76784,
+    36.95107
+],
+  "geometry": {"coordinates":[31.76784,36.95107],"type":"Point"}
+}

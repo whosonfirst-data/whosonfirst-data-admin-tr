@@ -1,0 +1,64 @@
+{
+  "id": 1209440621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35269,41.11515,30.35269,41.11515",
+    "geom:latitude":41.11515,
+    "geom:longitude":30.35269,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Birlik",
+    "gn:country_code":"TR",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281839,
+    "gn:latitude":41.11515,
+    "gn:longitude":30.35269,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Birlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Birlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281839
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f916f9ba6005f6699f21c36d39b23eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440621
+        }
+    ],
+    "wof:id":1209440621,
+    "wof:lastmodified":1537708287,
+    "wof:name":"Birlik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35269000000001,
+    41.11515,
+    30.35269000000001,
+    41.11515
+],
+  "geometry": {"coordinates":[30.35269000000001,41.11515],"type":"Point"}
+}

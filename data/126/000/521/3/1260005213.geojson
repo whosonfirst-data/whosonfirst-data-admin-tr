@@ -1,0 +1,71 @@
+{
+  "id": 1260005213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.33845,38.88101,38.33845,38.88101",
+    "geom:latitude":38.88101,
+    "geom:longitude":38.33845,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Kocak",
+    "gn:country_code":"TR",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306955,
+    "gn:latitude":38.88101,
+    "gn:longitude":38.33845,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Ko\u00e7ak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamusa",
+        "Ko\u00e7ak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        1108709293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306955
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"82858bcede7d322b25a3f98406d5044c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709293,
+            "locality_id":1260005213,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1260005213,
+    "wof:lastmodified":1537706923,
+    "wof:name":"Kocak",
+    "wof:parent_id":1108709293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.33845,
+    38.88101,
+    38.33845,
+    38.88101
+],
+  "geometry": {"coordinates":[38.33845,38.88101],"type":"Point"}
+}

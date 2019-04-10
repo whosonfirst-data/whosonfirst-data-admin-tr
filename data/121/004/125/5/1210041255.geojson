@@ -1,0 +1,71 @@
+{
+  "id": 1210041255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.81274,40.69252,36.81274,40.69252",
+    "geom:latitude":40.69252,
+    "geom:longitude":36.81274,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Gunebakan",
+    "gn:country_code":"TR",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746363,
+    "gn:latitude":40.69252,
+    "gn:longitude":36.81274,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fcnebakan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alahtiyan",
+        "G\u00fcnebakan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746363
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d63e172efc4760c229f7dd68aef6e1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709765,
+            "locality_id":1210041255,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1210041255,
+    "wof:lastmodified":1537707923,
+    "wof:name":"Gunebakan",
+    "wof:parent_id":1108709765,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.81274000000001,
+    40.69252,
+    36.81274000000001,
+    40.69252
+],
+  "geometry": {"coordinates":[36.81274000000001,40.69252],"type":"Point"}
+}

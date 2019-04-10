@@ -1,0 +1,86 @@
+{
+  "id": 890463531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13275,38.54256,27.13275,38.54256",
+    "geom:latitude":38.54256,
+    "geom:longitude":27.13275,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Yamanlar"
+    ],
+    "name:eng_x_preferred":[
+        "Yamanlar"
+    ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0645\u0627\u0646\u0644\u0631\u060c \u06cc\u0636\u0645\u06cc\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Yamanlar"
+    ],
+    "qs:name":"Yamanlar",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130zmir",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":965,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297768,
+        "gp:id":55966405,
+        "qs:id":355558,
+        "wd:id":"Q8047890",
+        "wk:page":"Yamanlar"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053433,
+    "wof:geomhash":"61ea5ef00096d082db82f0606c0b6302",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461021,
+            "locality_id":890463531,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":890463531,
+    "wof:lastmodified":1527729763,
+    "wof:name":"Yamanlar",
+    "wof:parent_id":890461021,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13275,
+    38.54256,
+    27.13275,
+    38.54256
+],
+  "geometry": {"coordinates":[27.13275,38.54256],"type":"Point"}
+}

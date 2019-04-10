@@ -1,0 +1,75 @@
+{
+  "id": 1259608963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51788,36.85551,36.51788,36.85551",
+    "geom:latitude":36.85551,
+    "geom:longitude":36.51788,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Akbez",
+    "gn:country_code":"TR",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302006,
+    "gn:latitude":36.85551,
+    "gn:longitude":36.51788,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Akbez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Salmanu\u015fa\u011f\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Akbez",
+        "Akbezsalman U\u015fa\u011f\u0131",
+        "Akbaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302006
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bba4b3656e4b75046480beb144b7b61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709575,
+            "locality_id":1259608963,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1259608963,
+    "wof:lastmodified":1537706759,
+    "wof:name":"Akbez",
+    "wof:parent_id":1108709575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51788,
+    36.85551,
+    36.51788,
+    36.85551
+],
+  "geometry": {"coordinates":[36.51788,36.85551],"type":"Point"}
+}

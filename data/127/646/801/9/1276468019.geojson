@@ -1,0 +1,67 @@
+{
+  "id": 1276468019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53779,41.2257,31.53779,41.2257",
+    "geom:latitude":41.2257,
+    "geom:longitude":31.53779,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Imranlar",
+    "gn:country_code":"TR",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042661,
+    "gn:latitude":41.2257,
+    "gn:longitude":31.53779,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"\u0130mranlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890462743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042661
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dd76e3beaa23004ca10d93dcad4dcd68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462743,
+            "locality_id":1276468019,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1276468019,
+    "wof:lastmodified":1537092225,
+    "wof:name":"Imranlar",
+    "wof:parent_id":890462743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53779,
+    41.2257,
+    31.53779,
+    41.2257
+],
+  "geometry": {"coordinates":[31.53779,41.2257],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293800495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.82089,37.33717,37.82089,37.33717",
+    "geom:latitude":37.33717,
+    "geom:longitude":37.82089,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Sarikaya",
+    "gn:country_code":"TR",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9979601,
+    "gn:latitude":37.33717,
+    "gn:longitude":37.82089,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Sar\u0131kaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sar\u0131kaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        890460361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9979601
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c94644b55e757753beda4bc005fb804f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460361,
+            "locality_id":1293800495,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1293800495,
+    "wof:lastmodified":1537708316,
+    "wof:name":"Sarikaya",
+    "wof:parent_id":890460361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.82089000000001,
+    37.33717,
+    37.82089000000001,
+    37.33717
+],
+  "geometry": {"coordinates":[37.82089000000001,37.33717],"type":"Point"}
+}

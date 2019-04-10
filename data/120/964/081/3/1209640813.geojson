@@ -1,0 +1,65 @@
+{
+  "id": 1209640813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9012,41.44682,32.9012,41.44682",
+    "geom:latitude":41.44682,
+    "geom:longitude":32.9012,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Cengeller",
+    "gn:country_code":"TR",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742848,
+    "gn:latitude":41.44682,
+    "gn:longitude":32.9012,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7engeller",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7engeller",
+        "Kocakulak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742848
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70f3dc1cbec4452426ca28adf718299f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209640813
+        }
+    ],
+    "wof:id":1209640813,
+    "wof:lastmodified":1537707813,
+    "wof:name":"Cengeller",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9012,
+    41.44682,
+    32.9012,
+    41.44682
+],
+  "geometry": {"coordinates":[32.9012,41.44682],"type":"Point"}
+}

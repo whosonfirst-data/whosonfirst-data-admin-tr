@@ -1,0 +1,67 @@
+{
+  "id": 1276658255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50219,38.79637,31.50219,38.79637",
+    "geom:latitude":38.79637,
+    "geom:longitude":31.50219,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Haciahmet Mahallesi",
+    "gn:country_code":"TR",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8235657,
+    "gn:latitude":38.79637,
+    "gn:longitude":31.50219,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Hac\u0131ahmet Mahallesi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890462013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8235657
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"461eea92b9fe762d6dfc62cd2f984ee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462013,
+            "locality_id":1276658255,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1276658255,
+    "wof:lastmodified":1536839326,
+    "wof:name":"Haciahmet Mahallesi",
+    "wof:parent_id":890462013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50219,
+    38.79637,
+    31.50219,
+    38.79637
+],
+  "geometry": {"coordinates":[31.50219,38.79637],"type":"Point"}
+}

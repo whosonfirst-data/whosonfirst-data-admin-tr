@@ -1,0 +1,73 @@
+{
+  "id": 1225870271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.95584,39.31897,28.95584,39.31897",
+    "geom:latitude":39.31897,
+    "geom:longitude":28.95584,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Yavu",
+    "gn:country_code":"TR",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297544,
+    "gn:latitude":39.31897,
+    "gn:longitude":28.95584,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yavu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yavu"
+    ],
+    "name:und_x_variant":[
+        "Yavik\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709885
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297544
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1fc6e7df87c7e66bc08694427ba5bc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709885,
+            "locality_id":1225870271,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1225870271,
+    "wof:lastmodified":1537706610,
+    "wof:name":"Yavu",
+    "wof:parent_id":1108709885,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95584,
+    39.31897,
+    28.95584,
+    39.31897
+],
+  "geometry": {"coordinates":[28.95584,39.31897],"type":"Point"}
+}

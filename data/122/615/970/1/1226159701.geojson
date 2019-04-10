@@ -1,0 +1,67 @@
+{
+  "id": 1226159701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.89872,39.2877,34.89872,39.2877",
+    "geom:latitude":39.2877,
+    "geom:longitude":34.89872,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Kanlica",
+    "gn:country_code":"TR",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310515,
+    "gn:latitude":39.2877,
+    "gn:longitude":34.89872,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Kanl\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679327,
+        1108709673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310515
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ebece491abe6a1ad17c5083aaf62d827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709673,
+            "locality_id":1226159701,
+            "region_id":85679327
+        }
+    ],
+    "wof:id":1226159701,
+    "wof:lastmodified":1537055215,
+    "wof:name":"Kanlica",
+    "wof:parent_id":1108709673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.89872,
+    39.2877,
+    34.89872,
+    39.2877
+],
+  "geometry": {"coordinates":[34.89872,39.2877],"type":"Point"}
+}

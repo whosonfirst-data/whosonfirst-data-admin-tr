@@ -1,0 +1,64 @@
+{
+  "id": 1209440627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.51545,37.56123,36.51545,37.56123",
+    "geom:latitude":37.56123,
+    "geom:longitude":36.51545,
+    "gn:admin1_code":"46.0",
+    "gn:asciiname":"Suluyayla",
+    "gn:country_code":"TR",
+    "gn:dem":879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7592236,
+    "gn:latitude":37.56123,
+    "gn:longitude":36.51545,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Suluyayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Suluyayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7592236
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d66f2f91739558b3780bb04a14aa4630",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440627
+        }
+    ],
+    "wof:id":1209440627,
+    "wof:lastmodified":1537708259,
+    "wof:name":"Suluyayla",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.51545,
+    37.56123,
+    36.51545,
+    37.56123
+],
+  "geometry": {"coordinates":[36.51545,37.56123],"type":"Point"}
+}

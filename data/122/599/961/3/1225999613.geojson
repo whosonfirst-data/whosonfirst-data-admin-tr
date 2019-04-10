@@ -1,0 +1,70 @@
+{
+  "id": 1225999613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.91565,40.5249,40.91565,40.5249",
+    "geom:latitude":40.5249,
+    "geom:longitude":40.91565,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ozluce",
+    "gn:country_code":"TR",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740757,
+    "gn:latitude":40.5249,
+    "gn:longitude":40.91565,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"\u00d6zl\u00fcce",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6zl\u00fcce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890461605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740757
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a8a43b2e14a5dcaf79b84c7fa459ec30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461605,
+            "locality_id":1225999613,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1225999613,
+    "wof:lastmodified":1537707742,
+    "wof:name":"Ozluce",
+    "wof:parent_id":890461605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.91565,
+    40.5249,
+    40.91565,
+    40.5249
+],
+  "geometry": {"coordinates":[40.91565,40.5249],"type":"Point"}
+}

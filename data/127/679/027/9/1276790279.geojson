@@ -1,0 +1,76 @@
+{
+  "id": 1276790279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.14199,36.46192,34.14199,36.46192",
+    "geom:latitude":36.46192,
+    "geom:longitude":34.14199,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kizkalesi",
+    "gn:country_code":"TR",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":437794,
+    "gn:latitude":36.46192,
+    "gn:longitude":34.14199,
+    "gn:modification_date":"2017-11-02",
+    "gn:name":"K\u0131zkalesi",
+    "gn:population":1742,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0437\u043a\u0430\u043b\u0435\u0441\u0438"
+    ],
+    "name:tur_x_preferred":[
+        "K\u0131zkalesi"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890464483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":437794
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8e347ad9df0919ea914c7d7b514e0c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464483,
+            "locality_id":1276790279,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1276790279,
+    "wof:lastmodified":1537707547,
+    "wof:name":"Kizkalesi",
+    "wof:parent_id":890464483,
+    "wof:placetype":"locality",
+    "wof:population":1742,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.14199,
+    36.46192,
+    34.14199,
+    36.46192
+],
+  "geometry": {"coordinates":[34.14199,36.46192],"type":"Point"}
+}

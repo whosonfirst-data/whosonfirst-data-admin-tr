@@ -1,0 +1,70 @@
+{
+  "id": 1259896569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.50538,39.82944,29.50538,39.82944",
+    "geom:latitude":39.82944,
+    "geom:longitude":29.50538,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Ortaca",
+    "gn:country_code":"TR",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303345,
+    "gn:latitude":39.82944,
+    "gn:longitude":29.50538,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ortaca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ortaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303345
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"95ae78c85f77e43a49a93b1bbc7944a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709455,
+            "locality_id":1259896569,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1259896569,
+    "wof:lastmodified":1537706803,
+    "wof:name":"Ortaca",
+    "wof:parent_id":1108709455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.50538,
+    39.82944000000001,
+    29.50538,
+    39.82944000000001
+],
+  "geometry": {"coordinates":[29.50538,39.82944000000001],"type":"Point"}
+}

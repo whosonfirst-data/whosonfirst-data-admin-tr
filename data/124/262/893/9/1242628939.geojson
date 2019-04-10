@@ -1,0 +1,67 @@
+{
+  "id": 1242628939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06846,41.86838,33.06846,41.86838",
+    "geom:latitude":41.86838,
+    "geom:longitude":33.06846,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Velioglu",
+    "gn:country_code":"TR",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738180,
+    "gn:latitude":41.86838,
+    "gn:longitude":33.06846,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"Velio\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890462849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738180
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4f53c30a37eafd68df4b96c0e9cdba54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462849,
+            "locality_id":1242628939,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1242628939,
+    "wof:lastmodified":1536989150,
+    "wof:name":"Velioglu",
+    "wof:parent_id":890462849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06845999999999,
+    41.86838,
+    33.06845999999999,
+    41.86838
+],
+  "geometry": {"coordinates":[33.06845999999999,41.86838],"type":"Point"}
+}

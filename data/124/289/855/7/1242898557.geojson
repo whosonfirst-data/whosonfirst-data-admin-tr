@@ -1,0 +1,71 @@
+{
+  "id": 1242898557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24112,40.18886,35.24112,40.18886",
+    "geom:latitude":40.18886,
+    "geom:longitude":35.24112,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Guroglu",
+    "gn:country_code":"TR",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746243,
+    "gn:latitude":40.18886,
+    "gn:longitude":35.24112,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"G\u00fcro\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6ro\u011flu",
+        "G\u00fcro\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746243
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0cc4efb7077f7d816043be09f2b36799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709313,
+            "locality_id":1242898557,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1242898557,
+    "wof:lastmodified":1537707917,
+    "wof:name":"Guroglu",
+    "wof:parent_id":1108709313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24112,
+    40.18886,
+    35.24112,
+    40.18886
+],
+  "geometry": {"coordinates":[35.24112,40.18886],"type":"Point"}
+}

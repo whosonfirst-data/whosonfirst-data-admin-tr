@@ -1,0 +1,74 @@
+{
+  "id": 1260037941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.66694,38.77137,39.66694,38.77137",
+    "geom:latitude":38.77137,
+    "geom:longitude":39.66694,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Yukari Kazanlar",
+    "gn:country_code":"TR",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296295,
+    "gn:latitude":38.77137,
+    "gn:longitude":39.66694,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Yukar\u0131 Kazanlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yukar\u0131 Kazanlar"
+    ],
+    "name:und_x_variant":[
+        "Yukar\u0131kozanlar",
+        "Yukar\u0131kazan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709671
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296295
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a5a0ccd1e688a2ad7d3ab7b00215eacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709671,
+            "locality_id":1260037941,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1260037941,
+    "wof:lastmodified":1537706561,
+    "wof:name":"Yukari Kazanlar",
+    "wof:parent_id":1108709671,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.66694,
+    38.77137000000001,
+    39.66694,
+    38.77137000000001
+],
+  "geometry": {"coordinates":[39.66694,38.77137000000001],"type":"Point"}
+}

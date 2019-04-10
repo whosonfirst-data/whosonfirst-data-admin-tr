@@ -1,0 +1,70 @@
+{
+  "id": 1210032835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.91579,37.52324,39.91579,37.52324",
+    "geom:latitude":37.52324,
+    "geom:longitude":39.91579,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Konak",
+    "gn:country_code":"TR",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7012680,
+    "gn:latitude":37.52324,
+    "gn:longitude":39.91579,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Konak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Konak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7012680
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"526d86923f3344376db6b2260d856dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463353,
+            "locality_id":1210032835,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1210032835,
+    "wof:lastmodified":1537708206,
+    "wof:name":"Konak",
+    "wof:parent_id":890463353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.91579,
+    37.52324,
+    39.91579,
+    37.52324
+],
+  "geometry": {"coordinates":[39.91579,37.52324],"type":"Point"}
+}

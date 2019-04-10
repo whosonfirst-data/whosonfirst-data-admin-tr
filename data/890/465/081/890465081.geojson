@@ -1,0 +1,69 @@
+{
+  "id": 890465081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.00444,36.93083,39.00444,36.93083",
+    "geom:latitude":36.93083,
+    "geom:longitude":39.00444,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":1240,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Minare"
+    ],
+    "qs:name":"Minare",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304341,
+        "gp:id":2322777,
+        "qs:id":547356
+    },
+    "wof:country":"TR",
+    "wof:created":1469053500,
+    "wof:geomhash":"bb27a4eecdfad8e73bd0cc5ae35dd6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461929,
+            "locality_id":890465081,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890465081,
+    "wof:lastmodified":1505343701,
+    "wof:name":"Minare",
+    "wof:parent_id":890461929,
+    "wof:placetype":"locality",
+    "wof:population":1240,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.00444,
+    36.93083,
+    39.00444,
+    36.93083
+],
+  "geometry": {"coordinates":[39.00444,36.93083],"type":"Point"}
+}

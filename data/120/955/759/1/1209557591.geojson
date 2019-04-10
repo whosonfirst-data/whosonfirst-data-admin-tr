@@ -1,0 +1,67 @@
+{
+  "id": 1209557591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.63855,40.71419,43.63855,40.71419",
+    "geom:latitude":40.71419,
+    "geom:longitude":43.63855,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Demirkent",
+    "gn:country_code":"TR",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748403,
+    "gn:latitude":40.71419,
+    "gn:longitude":43.63855,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Demirkent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeniergine",
+        "\u0130sl\u00e2mergine",
+        "Eskiergine",
+        "Demirkent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748403
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"29555b1f3c7acd279255fe3d2054b1e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209557591
+        }
+    ],
+    "wof:id":1209557591,
+    "wof:lastmodified":1537707994,
+    "wof:name":"Demirkent",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.63855,
+    40.71419,
+    43.63855,
+    40.71419
+],
+  "geometry": {"coordinates":[43.63855,40.71419],"type":"Point"}
+}

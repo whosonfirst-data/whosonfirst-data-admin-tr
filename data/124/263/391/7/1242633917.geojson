@@ -1,0 +1,70 @@
+{
+  "id": 1242633917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.41289,38.38409,40.41289,38.38409",
+    "geom:latitude":38.38409,
+    "geom:longitude":40.41289,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ozkaya",
+    "gn:country_code":"TR",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312664,
+    "gn:latitude":38.38409,
+    "gn:longitude":40.41289,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00d6zkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6zkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312664
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dab58b9502680842bba221460588297c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709569,
+            "locality_id":1242633917,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1242633917,
+    "wof:lastmodified":1537707097,
+    "wof:name":"Ozkaya",
+    "wof:parent_id":1108709569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.41289,
+    38.38409,
+    40.41289,
+    38.38409
+],
+  "geometry": {"coordinates":[40.41289,38.38409],"type":"Point"}
+}

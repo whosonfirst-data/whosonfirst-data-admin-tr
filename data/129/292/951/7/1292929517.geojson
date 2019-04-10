@@ -1,0 +1,67 @@
+{
+  "id": 1292929517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,41.08333,31.48333,41.08333",
+    "geom:latitude":41.08333,
+    "geom:longitude":31.48333,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Halli",
+    "gn:country_code":"TR",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745973,
+    "gn:latitude":41.08333,
+    "gn:longitude":31.48333,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Hall\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890461687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745973
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"77495d72e5feb77ce4f9cddd76180fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461687,
+            "locality_id":1292929517,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1292929517,
+    "wof:lastmodified":1537091345,
+    "wof:name":"Halli",
+    "wof:parent_id":890461687,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    41.08333,
+    31.48333,
+    41.08333
+],
+  "geometry": {"coordinates":[31.48333,41.08333],"type":"Point"}
+}

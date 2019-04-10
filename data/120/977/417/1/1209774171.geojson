@@ -1,0 +1,73 @@
+{
+  "id": 1209774171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.86425,38.43034,40.86425,38.43034",
+    "geom:latitude":38.43034,
+    "geom:longitude":40.86425,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Karaagac",
+    "gn:country_code":"TR",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310377,
+    "gn:latitude":38.43034,
+    "gn:longitude":40.86425,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karaa\u011fa\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karaa\u011fa\u00e7"
+    ],
+    "name:und_x_variant":[
+        "Benin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310377
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c38c07ed7f5dea7d4078c1b20b300679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463481,
+            "locality_id":1209774171,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1209774171,
+    "wof:lastmodified":1537707022,
+    "wof:name":"Karaagac",
+    "wof:parent_id":890463481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.86425,
+    38.43034,
+    40.86425,
+    38.43034
+],
+  "geometry": {"coordinates":[40.86425,38.43034],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209613089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78293,40.76033,35.78293,40.76033",
+    "geom:latitude":40.76033,
+    "geom:longitude":35.78293,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Degirmendere",
+    "gn:country_code":"TR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748542,
+    "gn:latitude":40.76033,
+    "gn:longitude":35.78293,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"De\u011firmendere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u011firmenderek\u00f6y",
+        "De\u011firmendere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748542
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"13dd3ed07995d1e6575c5b480817b443",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209613089
+        }
+    ],
+    "wof:id":1209613089,
+    "wof:lastmodified":1537707998,
+    "wof:name":"Degirmendere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78293,
+    40.76033,
+    35.78293,
+    40.76033
+],
+  "geometry": {"coordinates":[35.78293,40.76033],"type":"Point"}
+}

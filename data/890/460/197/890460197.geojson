@@ -1,0 +1,75 @@
+{
+  "id": 890460197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.63139,40.99111,36.63139,40.99111",
+    "geom:latitude":40.99111,
+    "geom:longitude":36.63139,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":5731,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Ayvac\u0131k",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Samsun",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":20,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        1108709319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751427,
+        "gp:id":2343756,
+        "qs:id":129234,
+        "wd:id":"Q440451",
+        "wk:page":"Ayvac\u0131k"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053307,
+    "wof:geomhash":"7a94add977c6e96d448167c4821d6c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709319,
+            "locality_id":890460197,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":890460197,
+    "wof:lastmodified":1527792909,
+    "wof:name":"Ayvac\u0131k",
+    "wof:parent_id":1108709319,
+    "wof:placetype":"locality",
+    "wof:population":5731,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.63139,
+    40.99111,
+    36.63139,
+    40.99111
+],
+  "geometry": {"coordinates":[36.63139,40.99111],"type":"Point"}
+}

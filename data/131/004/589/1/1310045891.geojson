@@ -1,0 +1,67 @@
+{
+  "id": 1310045891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.23155,38.60755,27.23155,38.60755",
+    "geom:latitude":38.60755,
+    "geom:longitude":27.23155,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Karaorman",
+    "gn:country_code":"TR",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6685908,
+    "gn:latitude":38.60755,
+    "gn:longitude":27.23155,
+    "gn:modification_date":"2008-02-09",
+    "gn:name":"Karaorman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890460565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6685908
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0d60e0e765897596447a2dfef6132d7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460565,
+            "locality_id":1310045891,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1310045891,
+    "wof:lastmodified":1537079261,
+    "wof:name":"Karaorman",
+    "wof:parent_id":890460565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.23155,
+    38.60755,
+    27.23155,
+    38.60755
+],
+  "geometry": {"coordinates":[27.23155,38.60755],"type":"Point"}
+}

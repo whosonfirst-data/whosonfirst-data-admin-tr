@@ -1,0 +1,71 @@
+{
+  "id": 1259466725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31905,38.43899,42.31905,38.43899",
+    "geom:latitude":38.43899,
+    "geom:longitude":42.31905,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kotum",
+    "gn:country_code":"TR",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":305859,
+    "gn:latitude":38.43899,
+    "gn:longitude":42.31905,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kotum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotom",
+        "K\u00fc\u00e7\u00fcksu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890461715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305859
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5789c6b877a9b6fba11adf6a76140180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461715,
+            "locality_id":1259466725,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1259466725,
+    "wof:lastmodified":1537706886,
+    "wof:name":"Kotum",
+    "wof:parent_id":890461715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31905,
+    38.43899,
+    42.31905,
+    38.43899
+],
+  "geometry": {"coordinates":[42.31905,38.43899],"type":"Point"}
+}

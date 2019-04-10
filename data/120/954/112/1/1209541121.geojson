@@ -1,0 +1,67 @@
+{
+  "id": 1209541121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.69665,37.50758,38.69665,37.50758",
+    "geom:latitude":37.50758,
+    "geom:longitude":38.69665,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Yakinyurt",
+    "gn:country_code":"TR",
+    "gn:dem":613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7537285,
+    "gn:latitude":37.50758,
+    "gn:longitude":38.69665,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Yak\u0131nyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yak\u0131nyurt"
+    ],
+    "name:tur_x_variant":[
+        "Poro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7537285
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d709f9bcfdf02f0bc1a10445f5aa1d47",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541121
+        }
+    ],
+    "wof:id":1209541121,
+    "wof:lastmodified":1537708226,
+    "wof:name":"Yakinyurt",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.69665,
+    37.50758,
+    38.69665,
+    37.50758
+],
+  "geometry": {"coordinates":[38.69665,37.50758],"type":"Point"}
+}

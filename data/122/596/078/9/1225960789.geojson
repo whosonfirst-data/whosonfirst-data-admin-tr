@@ -1,0 +1,70 @@
+{
+  "id": 1225960789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.05681,39.28451,39.05681,39.28451",
+    "geom:latitude":39.28451,
+    "geom:longitude":39.05681,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Sogutlu",
+    "gn:country_code":"TR",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300425,
+    "gn:latitude":39.28451,
+    "gn:longitude":39.05681,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"S\u00f6\u011f\u00fctl\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "S\u00f6\u011f\u00fctl\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709791
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300425
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bbd09d3044a9c7fd63d04507ed8bf44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709791,
+            "locality_id":1225960789,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1225960789,
+    "wof:lastmodified":1537706706,
+    "wof:name":"Sogutlu",
+    "wof:parent_id":1108709791,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.05681,
+    39.28451,
+    39.05681,
+    39.28451
+],
+  "geometry": {"coordinates":[39.05681,39.28451],"type":"Point"}
+}

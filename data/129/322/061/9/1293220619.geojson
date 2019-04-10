@@ -1,0 +1,70 @@
+{
+  "id": 1293220619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51868,36.87288,30.51868,36.87288",
+    "geom:latitude":36.87288,
+    "geom:longitude":30.51868,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Akdamlar",
+    "gn:country_code":"TR",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8073704,
+    "gn:latitude":36.87288,
+    "gn:longitude":30.51868,
+    "gn:modification_date":"2015-03-16",
+    "gn:name":"Akdamlar",
+    "gn:population":402,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709665
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8073704
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d211df75b9988abe4f4432e59a17e314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709665,
+            "locality_id":1293220619,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1293220619,
+    "wof:lastmodified":1536674779,
+    "wof:name":"Akdamlar",
+    "wof:parent_id":1108709665,
+    "wof:placetype":"locality",
+    "wof:population":402,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51868,
+    36.87288,
+    30.51868,
+    36.87288
+],
+  "geometry": {"coordinates":[30.51868,36.87288],"type":"Point"}
+}

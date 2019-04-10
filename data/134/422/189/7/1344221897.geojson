@@ -1,0 +1,73 @@
+{
+  "id": 1344221897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.60642,40.05108,34.60642,40.05108",
+    "geom:latitude":40.05108,
+    "geom:longitude":34.60642,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Evren",
+    "gn:country_code":"TR",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737785,
+    "gn:latitude":40.05108,
+    "gn:longitude":34.60642,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Evren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Evren"
+    ],
+    "name:und_x_variant":[
+        "Yekba\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890461405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737785
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4a93a9bd36c927dae8f8cc40556b65f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461405,
+            "locality_id":1344221897,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1344221897,
+    "wof:lastmodified":1537707639,
+    "wof:name":"Evren",
+    "wof:parent_id":890461405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.60642,
+    40.05108,
+    34.60642,
+    40.05108
+],
+  "geometry": {"coordinates":[34.60642,40.05108],"type":"Point"}
+}

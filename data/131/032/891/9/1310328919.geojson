@@ -1,0 +1,67 @@
+{
+  "id": 1310328919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80057,39.86413,35.80057,39.86413",
+    "geom:latitude":39.86413,
+    "geom:longitude":35.80057,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Dolak",
+    "gn:country_code":"TR",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316378,
+    "gn:latitude":39.86413,
+    "gn:longitude":35.80057,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Dolak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316378
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8c0640c682f163c7581d324eb0716ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709255,
+            "locality_id":1310328919,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1310328919,
+    "wof:lastmodified":1536674219,
+    "wof:name":"Dolak",
+    "wof:parent_id":1108709255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80057,
+    39.86413,
+    35.80057,
+    39.86413
+],
+  "geometry": {"coordinates":[35.80057,39.86413],"type":"Point"}
+}

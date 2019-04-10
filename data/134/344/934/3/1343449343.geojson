@@ -1,0 +1,70 @@
+{
+  "id": 1343449343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.74928,39.51093,27.74928,39.51093",
+    "geom:latitude":39.51093,
+    "geom:longitude":27.74928,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Bagalan",
+    "gn:country_code":"TR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322539,
+    "gn:latitude":39.51093,
+    "gn:longitude":27.74928,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Ba\u011falan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u011falan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322539
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7e3243e55316912b2180056fbc03da69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462339,
+            "locality_id":1343449343,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1343449343,
+    "wof:lastmodified":1537707415,
+    "wof:name":"Bagalan",
+    "wof:parent_id":890462339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74928,
+    39.51093,
+    27.74928,
+    39.51093
+],
+  "geometry": {"coordinates":[27.74928,39.51093],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326894943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01006,37.25139,29.01006,37.25139",
+    "geom:latitude":37.25139,
+    "geom:longitude":29.01006,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Kozlar",
+    "gn:country_code":"TR",
+    "gn:dem":1016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306079,
+    "gn:latitude":37.25139,
+    "gn:longitude":29.01006,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Kozlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        890461955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306079
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b9e954f6d6da538012399e3c09eb9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461955,
+            "locality_id":1326894943,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1326894943,
+    "wof:lastmodified":1536958555,
+    "wof:name":"Kozlar",
+    "wof:parent_id":890461955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01006,
+    37.25139,
+    29.01006,
+    37.25139
+],
+  "geometry": {"coordinates":[29.01006,37.25139],"type":"Point"}
+}

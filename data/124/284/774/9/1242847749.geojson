@@ -1,0 +1,67 @@
+{
+  "id": 1242847749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.20815,40.92197,32.20815,40.92197",
+    "geom:latitude":40.92197,
+    "geom:longitude":32.20815,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gozecik",
+    "gn:country_code":"TR",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196069,
+    "gn:latitude":40.92197,
+    "gn:longitude":32.20815,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"G\u00f6zecik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890464291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196069
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"be77b56aa3bdf8ba48a47718c7b1d46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464291,
+            "locality_id":1242847749,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1242847749,
+    "wof:lastmodified":1536674593,
+    "wof:name":"Gozecik",
+    "wof:parent_id":890464291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.20815,
+    40.92197,
+    32.20815,
+    40.92197
+],
+  "geometry": {"coordinates":[32.20815,40.92197],"type":"Point"}
+}

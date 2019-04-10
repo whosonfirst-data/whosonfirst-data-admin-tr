@@ -1,0 +1,67 @@
+{
+  "id": 1343300599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66667,41.65,33.66667,41.65",
+    "geom:latitude":41.65,
+    "geom:longitude":33.66667,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Salgam",
+    "gn:country_code":"TR",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740326,
+    "gn:latitude":41.65,
+    "gn:longitude":33.66667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"\u015ealgam",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890464161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740326
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c76702c1c353a17d6615741267faaad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464161,
+            "locality_id":1343300599,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1343300599,
+    "wof:lastmodified":1536976374,
+    "wof:name":"Salgam",
+    "wof:parent_id":890464161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66667,
+    41.65,
+    33.66667,
+    41.65
+],
+  "geometry": {"coordinates":[33.66667,41.65],"type":"Point"}
+}

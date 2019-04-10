@@ -1,0 +1,73 @@
+{
+  "id": 1343475457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.09952,38.13206,43.09952,38.13206",
+    "geom:latitude":38.13206,
+    "geom:longitude":43.09952,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Asagi Narlica",
+    "gn:country_code":"TR",
+    "gn:dem":2202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323239,
+    "gn:latitude":38.13206,
+    "gn:longitude":43.09952,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"A\u015fa\u011f\u0131 Narl\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u015fa\u011f\u0131 Narl\u0131ca"
+    ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131narl\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323239
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"89b9732f972cddbadbfcdc9966c9fdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710025,
+            "locality_id":1343475457,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1343475457,
+    "wof:lastmodified":1537707439,
+    "wof:name":"Asagi Narlica",
+    "wof:parent_id":1108710025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.09952,
+    38.13206,
+    43.09952,
+    38.13206
+],
+  "geometry": {"coordinates":[43.09952,38.13206],"type":"Point"}
+}

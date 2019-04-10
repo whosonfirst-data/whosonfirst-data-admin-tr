@@ -1,0 +1,67 @@
+{
+  "id": 1326868319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82624,39.52491,33.82624,39.52491",
+    "geom:latitude":39.52491,
+    "geom:longitude":33.82624,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Kirdok",
+    "gn:country_code":"TR",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":307688,
+    "gn:latitude":39.52491,
+    "gn:longitude":33.82624,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"K\u0131rd\u00f6k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        890460539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":307688
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd901aa9316664b8e85041c1d77009a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460539,
+            "locality_id":1326868319,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1326868319,
+    "wof:lastmodified":1536995978,
+    "wof:name":"Kirdok",
+    "wof:parent_id":890460539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82624000000001,
+    39.52491,
+    33.82624000000001,
+    39.52491
+],
+  "geometry": {"coordinates":[33.82624000000001,39.52491],"type":"Point"}
+}

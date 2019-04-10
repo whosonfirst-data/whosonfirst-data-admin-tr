@@ -1,0 +1,70 @@
+{
+  "id": 1225801715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.17722,38.6086,41.17722,38.6086",
+    "geom:latitude":38.6086,
+    "geom:longitude":41.17722,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Alaca",
+    "gn:country_code":"TR",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300581,
+    "gn:latitude":38.6086,
+    "gn:longitude":41.17722,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Alaca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sivriyayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300581
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"293238b6eebb234d52324a1a28094d66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463481,
+            "locality_id":1225801715,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1225801715,
+    "wof:lastmodified":1537706711,
+    "wof:name":"Alaca",
+    "wof:parent_id":890463481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.17722,
+    38.6086,
+    41.17722,
+    38.6086
+],
+  "geometry": {"coordinates":[41.17722,38.6086],"type":"Point"}
+}

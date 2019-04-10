@@ -1,0 +1,67 @@
+{
+  "id": 1243505695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50054,38.83715,35.50054,38.83715",
+    "geom:latitude":38.83715,
+    "geom:longitude":35.50054,
+    "gn:admin1_code":"38.0",
+    "gn:asciiname":"Hasanarpa",
+    "gn:country_code":"TR",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325180,
+    "gn:latitude":38.83715,
+    "gn:longitude":35.50054,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Hasanarpa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679321,
+        890462393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325180
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"01b8056bcb604ccc5ff1cf71b7abbe3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462393,
+            "locality_id":1243505695,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":1243505695,
+    "wof:lastmodified":1536720590,
+    "wof:name":"Hasanarpa",
+    "wof:parent_id":890462393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50054,
+    38.83715,
+    35.50054,
+    38.83715
+],
+  "geometry": {"coordinates":[35.50054,38.83715],"type":"Point"}
+}

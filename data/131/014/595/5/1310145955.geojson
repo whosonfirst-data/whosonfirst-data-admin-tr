@@ -1,0 +1,67 @@
+{
+  "id": 1310145955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36917,38.56167,26.36917,38.56167",
+    "geom:latitude":38.56167,
+    "geom:longitude":26.36917,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Tolos",
+    "gn:country_code":"TR",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":411339,
+    "gn:latitude":38.56167,
+    "gn:longitude":26.36917,
+    "gn:modification_date":"1998-03-11",
+    "gn:name":"Tolos",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":411339
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"50a2899d17ab2256fc7ca800bbdc0b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461015,
+            "locality_id":1310145955,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1310145955,
+    "wof:lastmodified":1536938919,
+    "wof:name":"Tolos",
+    "wof:parent_id":890461015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36917,
+    38.56167,
+    26.36917,
+    38.56167
+],
+  "geometry": {"coordinates":[26.36917,38.56167],"type":"Point"}
+}

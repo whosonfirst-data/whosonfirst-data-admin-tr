@@ -1,0 +1,73 @@
+{
+  "id": 1193195917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.30977,39.34941,27.30977,39.34941",
+    "geom:latitude":39.34941,
+    "geom:longitude":27.30977,
+    "gn:admin1_code":"35.0",
+    "gn:asciiname":"Ikizler",
+    "gn:country_code":"TR",
+    "gn:dem":489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":325403,
+    "gn:latitude":39.34941,
+    "gn:longitude":27.30977,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"\u0130kizler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130kizler"
+    ],
+    "name:tur_x_variant":[
+        "Ada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890462839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":325403
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"397f4ceab72bf504211cfde44b533150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462839,
+            "locality_id":1193195917,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1193195917,
+    "wof:lastmodified":1537707510,
+    "wof:name":"Ikizler",
+    "wof:parent_id":890462839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.30977,
+    39.34941,
+    27.30977,
+    39.34941
+],
+  "geometry": {"coordinates":[27.30977,39.34941],"type":"Point"}
+}

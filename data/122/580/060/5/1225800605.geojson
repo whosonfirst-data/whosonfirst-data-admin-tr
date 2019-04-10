@@ -1,0 +1,71 @@
+{
+  "id": 1225800605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.84273,39.63966,38.84273,39.63966",
+    "geom:latitude":39.63966,
+    "geom:longitude":38.84273,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Bargisor",
+    "gn:country_code":"TR",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321423,
+    "gn:latitude":39.63966,
+    "gn:longitude":38.84273,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Bargisor",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Berkisor",
+        "Bergisor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890462479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321423
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"609325deed5795541c48521db00e1bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462479,
+            "locality_id":1225800605,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1225800605,
+    "wof:lastmodified":1537707379,
+    "wof:name":"Bargisor",
+    "wof:parent_id":890462479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.84273,
+    39.63966,
+    38.84273,
+    39.63966
+],
+  "geometry": {"coordinates":[38.84273,39.63966],"type":"Point"}
+}

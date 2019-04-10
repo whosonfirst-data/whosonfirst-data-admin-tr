@@ -1,0 +1,71 @@
+{
+  "id": 1192985821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.39975,39.51014,41.39975,39.51014",
+    "geom:latitude":39.51014,
+    "geom:longitude":41.39975,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Kocyayla",
+    "gn:country_code":"TR",
+    "gn:dem":2073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312103,
+    "gn:latitude":39.51014,
+    "gn:longitude":41.39975,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Ko\u00e7yayla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ko\u00e7yayla",
+        "Hirbesor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890464443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312103
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1ad93ce1ecced8b2d3c3a9819b52d35b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464443,
+            "locality_id":1192985821,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1192985821,
+    "wof:lastmodified":1537707078,
+    "wof:name":"Kocyayla",
+    "wof:parent_id":890464443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.39975,
+    39.51014,
+    41.39975,
+    39.51014
+],
+  "geometry": {"coordinates":[41.39975,39.51014],"type":"Point"}
+}

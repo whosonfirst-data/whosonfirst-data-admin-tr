@@ -1,0 +1,67 @@
+{
+  "id": 1277090767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.40358,41.4913,27.40358,41.4913",
+    "geom:latitude":41.4913,
+    "geom:longitude":27.40358,
+    "gn:admin1_code":"39.0",
+    "gn:asciiname":"Eskitasli",
+    "gn:country_code":"TR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747254,
+    "gn:latitude":41.4913,
+    "gn:longitude":27.40358,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Eskita\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679219,
+        890463081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747254
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2646948c8338fadf5d8eba5be872061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463081,
+            "locality_id":1277090767,
+            "region_id":85679219
+        }
+    ],
+    "wof:id":1277090767,
+    "wof:lastmodified":1536756108,
+    "wof:name":"Eskitasli",
+    "wof:parent_id":890463081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.40358,
+    41.4913,
+    27.40358,
+    41.4913
+],
+  "geometry": {"coordinates":[27.40358,41.4913],"type":"Point"}
+}

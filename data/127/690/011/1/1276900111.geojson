@@ -1,0 +1,71 @@
+{
+  "id": 1276900111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.85738,38.2475,38.85738,38.2475",
+    "geom:latitude":38.2475,
+    "geom:longitude":38.85738,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Ormeli",
+    "gn:country_code":"TR",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299115,
+    "gn:latitude":38.2475,
+    "gn:longitude":38.85738,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u00d6rmeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Titirin",
+        "\u00d6rmeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        1108709831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299115
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5f81551e6ce84adc46d40e122e93201f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709831,
+            "locality_id":1276900111,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1276900111,
+    "wof:lastmodified":1537706663,
+    "wof:name":"Ormeli",
+    "wof:parent_id":1108709831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.85738,
+    38.2475,
+    38.85738,
+    38.2475
+],
+  "geometry": {"coordinates":[38.85738,38.2475],"type":"Point"}
+}

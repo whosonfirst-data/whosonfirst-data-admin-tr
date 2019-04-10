@@ -1,0 +1,74 @@
+{
+  "id": 1293513079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.68562,39.0756,32.68562,39.0756",
+    "geom:latitude":39.0756,
+    "geom:longitude":32.68562,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Serefli",
+    "gn:country_code":"TR",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320331,
+    "gn:latitude":39.0756,
+    "gn:longitude":32.68562,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"\u015eerefli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "T\u00fcrk\u015ferefli"
+    ],
+    "name:und_x_variant":[
+        "\u015eerefli",
+        "Burunsuz\u015fereflisi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890463445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320331
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fffcc1c6189167222bfe713dfef53166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463445,
+            "locality_id":1293513079,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1293513079,
+    "wof:lastmodified":1537707346,
+    "wof:name":"Serefli",
+    "wof:parent_id":890463445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.68562,
+    39.0756,
+    32.68562,
+    39.0756
+],
+  "geometry": {"coordinates":[32.68562,39.0756],"type":"Point"}
+}

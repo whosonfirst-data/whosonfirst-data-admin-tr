@@ -1,0 +1,77 @@
+{
+  "id": 890461525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.14774,38.48258,28.14774,38.48258",
+    "geom:latitude":38.48258,
+    "geom:longitude":28.14774,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":88906,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Salihli",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Manisa",
+    "qs:photos":100,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":100,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":1723,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890464531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302043,
+        "gp:id":2344348,
+        "qs:id":277175,
+        "wd:id":"Q1012935",
+        "wk:page":"Salihli"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053354,
+    "wof:geomhash":"aefe6455835ccf794e6ab28e6a042020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464531,
+            "locality_id":890461525,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":890461525,
+    "wof:lastmodified":1527792998,
+    "wof:name":"Salihli",
+    "wof:parent_id":890464531,
+    "wof:placetype":"locality",
+    "wof:population":88906,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.14774,
+    38.48258,
+    28.14774,
+    38.48258
+],
+  "geometry": {"coordinates":[28.14774,38.48258],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209930805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.98744,37.32461,40.98744,37.32461",
+    "geom:latitude":37.32461,
+    "geom:longitude":40.98744,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Kayagoze",
+    "gn:country_code":"TR",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":441785,
+    "gn:latitude":37.32461,
+    "gn:longitude":40.98744,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kayag\u00f6ze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kayag\u00f6ze"
+    ],
+    "name:und_x_variant":[
+        "Beytmollahasan",
+        "Beytmollakhasan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108710073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":441785
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c39d1e912527299b4321d9559573084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710073,
+            "locality_id":1209930805,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1209930805,
+    "wof:lastmodified":1537707598,
+    "wof:name":"Kayagoze",
+    "wof:parent_id":1108710073,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.98744,
+    37.32461,
+    40.98744,
+    37.32461
+],
+  "geometry": {"coordinates":[40.98744,37.32461],"type":"Point"}
+}

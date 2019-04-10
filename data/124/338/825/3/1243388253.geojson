@@ -1,0 +1,70 @@
+{
+  "id": 1243388253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.35845,39.20139,42.35845,39.20139",
+    "geom:latitude":39.20139,
+    "geom:longitude":42.35845,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Arslankaya",
+    "gn:country_code":"TR",
+    "gn:dem":1492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323519,
+    "gn:latitude":39.20139,
+    "gn:longitude":42.35845,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Arslankaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Arslankaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323519
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5dc8a59d62fff13bf1752420d754af66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1243388253,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1243388253,
+    "wof:lastmodified":1537707451,
+    "wof:name":"Arslankaya",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.35845,
+    39.20139,
+    42.35845,
+    39.20139
+],
+  "geometry": {"coordinates":[42.35845,39.20139],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225970023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.32017,37.5446,37.32017,37.5446",
+    "geom:latitude":37.5446,
+    "geom:longitude":37.32017,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Sahintepe",
+    "gn:country_code":"TR",
+    "gn:dem":861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10632615,
+    "gn:latitude":37.5446,
+    "gn:longitude":37.32017,
+    "gn:modification_date":"2015-09-08",
+    "gn:name":"\u015eahintepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eahintepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        1108709807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10632615
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff976bf0033d2a57e41ef1269c63d396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709807,
+            "locality_id":1225970023,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1225970023,
+    "wof:lastmodified":1537708388,
+    "wof:name":"Sahintepe",
+    "wof:parent_id":1108709807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.32017000000001,
+    37.5446,
+    37.32017000000001,
+    37.5446
+],
+  "geometry": {"coordinates":[37.32017000000001,37.5446],"type":"Point"}
+}

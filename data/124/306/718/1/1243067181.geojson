@@ -1,0 +1,70 @@
+{
+  "id": 1243067181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.5045,39.45155,43.5045,39.45155",
+    "geom:latitude":39.45155,
+    "geom:longitude":43.5045,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Akcevre",
+    "gn:country_code":"TR",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6971670,
+    "gn:latitude":39.45155,
+    "gn:longitude":43.5045,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Ak\u00e7evre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ak\u00e7evre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        890461651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6971670
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"633e75ca42d4837ba4c89d4555414199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461651,
+            "locality_id":1243067181,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1243067181,
+    "wof:lastmodified":1537708186,
+    "wof:name":"Akcevre",
+    "wof:parent_id":890461651,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.5045,
+    39.45155,
+    43.5045,
+    39.45155
+],
+  "geometry": {"coordinates":[43.5045,39.45155],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1326686837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.37975,39.67,41.37975,39.67",
+    "geom:latitude":39.67,
+    "geom:longitude":41.37975,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Duzyurt",
+    "gn:country_code":"TR",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316021,
+    "gn:latitude":39.67,
+    "gn:longitude":41.37975,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"D\u00fczyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "D\u00fczyurt"
+    ],
+    "name:und_x_variant":[
+        "D\u00fczyurdu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890464443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316021
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"74d582a14d0eaaf921b189d299e3f0fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464443,
+            "locality_id":1326686837,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1326686837,
+    "wof:lastmodified":1537707205,
+    "wof:name":"Duzyurt",
+    "wof:parent_id":890464443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.37975,
+    39.67,
+    41.37975,
+    39.67
+],
+  "geometry": {"coordinates":[41.37975,39.67],"type":"Point"}
+}

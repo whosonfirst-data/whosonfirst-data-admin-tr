@@ -1,0 +1,64 @@
+{
+  "id": 1209683051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.5316,40.73888,42.5316,40.73888",
+    "geom:latitude":40.73888,
+    "geom:longitude":42.5316,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Degirmenlidere",
+    "gn:country_code":"TR",
+    "gn:dem":1862,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748517,
+    "gn:latitude":40.73888,
+    "gn:longitude":42.5316,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"De\u011firmenlidere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "De\u011firmenlidere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748517
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24a574a2c1699a49836b0461c7955ec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209683051
+        }
+    ],
+    "wof:id":1209683051,
+    "wof:lastmodified":1537707997,
+    "wof:name":"Degirmenlidere",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.5316,
+    40.73888,
+    42.5316,
+    40.73888
+],
+  "geometry": {"coordinates":[42.5316,40.73888],"type":"Point"}
+}

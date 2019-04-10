@@ -1,0 +1,65 @@
+{
+  "id": 890459401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26842,37.41176,34.26842,37.41176",
+    "geom:latitude":37.41176,
+    "geom:longitude":34.26842,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":408,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"K\u00f6sere",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        1108709557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306299,
+        "qs:id":547389
+    },
+    "wof:country":"TR",
+    "wof:created":1469053265,
+    "wof:geomhash":"18bb9bf10b482020181a1f73b6e74f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709557,
+            "locality_id":890459401,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":890459401,
+    "wof:lastmodified":1505343677,
+    "wof:name":"K\u00f6sere",
+    "wof:parent_id":1108709557,
+    "wof:placetype":"locality",
+    "wof:population":408,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26842,
+    37.41176,
+    34.26842,
+    37.41176
+],
+  "geometry": {"coordinates":[34.26842,37.41176],"type":"Point"}
+}

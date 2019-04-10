@@ -1,0 +1,64 @@
+{
+  "id": 1209541187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.12318,38.68761,38.12318,38.68761",
+    "geom:latitude":38.68761,
+    "geom:longitude":38.12318,
+    "gn:admin1_code":"44.0",
+    "gn:asciiname":"Akyazi",
+    "gn:country_code":"TR",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7458584,
+    "gn:latitude":38.68761,
+    "gn:longitude":38.12318,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Akyaz\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akyaz\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7458584
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b3324eecc72a17fa60ac9724661632e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541187
+        }
+    ],
+    "wof:id":1209541187,
+    "wof:lastmodified":1537708211,
+    "wof:name":"Akyazi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.12318,
+    38.68761,
+    38.12318,
+    38.68761
+],
+  "geometry": {"coordinates":[38.12318,38.68761],"type":"Point"}
+}

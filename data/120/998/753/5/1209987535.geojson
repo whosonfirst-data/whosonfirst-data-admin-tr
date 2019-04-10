@@ -1,0 +1,73 @@
+{
+  "id": 1209987535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.05132,38.32254,42.05132,38.32254",
+    "geom:latitude":38.32254,
+    "geom:longitude":42.05132,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Agacdere",
+    "gn:country_code":"TR",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312902,
+    "gn:latitude":38.32254,
+    "gn:longitude":42.05132,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"A\u011fa\u00e7dere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "A\u011fa\u00e7dere"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00e7uyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890460679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312902
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8d8823959983af8d5c75b0b80ad85afb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460679,
+            "locality_id":1209987535,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1209987535,
+    "wof:lastmodified":1537707105,
+    "wof:name":"Agacdere",
+    "wof:parent_id":890460679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.05132,
+    38.32254,
+    42.05132,
+    38.32254
+],
+  "geometry": {"coordinates":[42.05132,38.32254],"type":"Point"}
+}

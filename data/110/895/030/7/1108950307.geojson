@@ -1,0 +1,61 @@
+{
+  "id": 1108950307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9427592399,41.0370964521,28.9427592399,41.0370964521",
+    "geom:latitude":41.037096,
+    "geom:longitude":28.942759,
+    "iso:country":"TR",
+    "lbl:latitude":41.037096,
+    "lbl:longitude":28.942759,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368274,
+    "wof:geomhash":"d44e7b768a76521542ace7fab671a604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "neighbourhood_id":1108950307,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950307,
+    "wof:lastmodified":1492123969,
+    "wof:name":"Ayvansaray",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94275923994775,
+    41.03709645205576,
+    28.94275923994775,
+    41.03709645205576
+],
+  "geometry": {"coordinates":[28.94275923994775,41.03709645205576],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209373401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.0845,37.81764,40.0845,37.81764",
+    "geom:latitude":37.81764,
+    "geom:longitude":40.0845,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Gultepe",
+    "gn:country_code":"TR",
+    "gn:dem":772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317610,
+    "gn:latitude":37.81764,
+    "gn:longitude":40.0845,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00fcltepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcltepe",
+        "Dank\u0131ran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317610
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"10c699c6dd5287beb1cc8bea09477c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209373401
+        }
+    ],
+    "wof:id":1209373401,
+    "wof:lastmodified":1537707255,
+    "wof:name":"Gultepe",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.0845,
+    37.81764,
+    40.0845,
+    37.81764
+],
+  "geometry": {"coordinates":[40.0845,37.81764],"type":"Point"}
+}

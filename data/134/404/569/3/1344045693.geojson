@@ -1,0 +1,70 @@
+{
+  "id": 1344045693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.29917,39.41694,27.29917,39.41694",
+    "geom:latitude":39.41694,
+    "geom:longitude":27.29917,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Gumeli",
+    "gn:country_code":"TR",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313626,
+    "gn:latitude":39.41694,
+    "gn:longitude":27.29917,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"G\u00fcmeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcmeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313626
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"42e323305d7e9bcb1caa90f85eaedcaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709221,
+            "locality_id":1344045693,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1344045693,
+    "wof:lastmodified":1537707130,
+    "wof:name":"Gumeli",
+    "wof:parent_id":1108709221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.29917,
+    39.41694,
+    27.29917,
+    39.41694
+],
+  "geometry": {"coordinates":[27.29917,39.41694],"type":"Point"}
+}

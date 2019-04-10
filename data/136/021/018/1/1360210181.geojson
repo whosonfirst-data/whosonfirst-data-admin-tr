@@ -1,0 +1,73 @@
+{
+  "id": 1360210181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.28527,38.77655,41.28527,38.77655",
+    "geom:latitude":38.77655,
+    "geom:longitude":41.28527,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Gudumlu",
+    "gn:country_code":"TR",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301123,
+    "gn:latitude":38.77655,
+    "gn:longitude":41.28527,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00fcd\u00fcml\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcd\u00fcml\u00fc"
+    ],
+    "name:und_x_variant":[
+        "\u015eerefk\u00e2n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890461239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301123
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"75013884e0ee4308029957d67506b4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461239,
+            "locality_id":1360210181,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1360210181,
+    "wof:lastmodified":1537706730,
+    "wof:name":"Gudumlu",
+    "wof:parent_id":890461239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.28527,
+    38.77655,
+    41.28527,
+    38.77655
+],
+  "geometry": {"coordinates":[41.28527,38.77655],"type":"Point"}
+}

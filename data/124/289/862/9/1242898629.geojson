@@ -1,0 +1,70 @@
+{
+  "id": 1242898629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.03646,36.9184,29.03646,36.9184",
+    "geom:latitude":36.9184,
+    "geom:longitude":29.03646,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Gurlek",
+    "gn:country_code":"TR",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10248461,
+    "gn:latitude":36.9184,
+    "gn:longitude":29.03646,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"G\u00fcrlek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcrlek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        1108709417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10248461
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"14c7c033fb279ab21ea3e2bbd5de2c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709417,
+            "locality_id":1242898629,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1242898629,
+    "wof:lastmodified":1537708360,
+    "wof:name":"Gurlek",
+    "wof:parent_id":1108709417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03646,
+    36.9184,
+    29.03646,
+    36.9184
+],
+  "geometry": {"coordinates":[29.03646,36.9184],"type":"Point"}
+}

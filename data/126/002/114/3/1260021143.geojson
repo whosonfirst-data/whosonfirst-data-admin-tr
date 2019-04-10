@@ -1,0 +1,71 @@
+{
+  "id": 1260021143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92035,36.33447,33.92035,36.33447",
+    "geom:latitude":36.33447,
+    "geom:longitude":33.92035,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Gulumpasali",
+    "gn:country_code":"TR",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313646,
+    "gn:latitude":36.33447,
+    "gn:longitude":33.92035,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"G\u00fcl\u00fcmpa\u015fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00fcl\u00fcmpa\u015fal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890464483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313646,
+        "wk:page":"G%C3%BCl%C3%BCmpa%C5%9Fal%C4%B1"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"40380603e17a34680a0cf2e030a4d6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464483,
+            "locality_id":1260021143,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1260021143,
+    "wof:lastmodified":1537707131,
+    "wof:name":"Gulumpasali",
+    "wof:parent_id":890464483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92035,
+    36.33447,
+    33.92035,
+    36.33447
+],
+  "geometry": {"coordinates":[33.92035,36.33447],"type":"Point"}
+}

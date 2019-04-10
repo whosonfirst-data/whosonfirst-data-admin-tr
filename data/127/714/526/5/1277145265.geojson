@@ -1,0 +1,70 @@
+{
+  "id": 1277145265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.93145,38.81744,38.93145,38.81744",
+    "geom:latitude":38.81744,
+    "geom:longitude":38.93145,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Dallica",
+    "gn:country_code":"TR",
+    "gn:dem":1002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317695,
+    "gn:latitude":38.81744,
+    "gn:longitude":38.93145,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dall\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dall\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317695
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5eba46f0e5636c18cbc40df121af20fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462513,
+            "locality_id":1277145265,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1277145265,
+    "wof:lastmodified":1537707258,
+    "wof:name":"Dallica",
+    "wof:parent_id":890462513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.93145,
+    38.81744000000001,
+    38.93145,
+    38.81744000000001
+],
+  "geometry": {"coordinates":[38.93145,38.81744000000001],"type":"Point"}
+}

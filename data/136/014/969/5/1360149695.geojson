@@ -1,0 +1,71 @@
+{
+  "id": 1360149695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.17618,40.50416,35.17618,40.50416",
+    "geom:latitude":40.50416,
+    "geom:longitude":35.17618,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Zennun",
+    "gn:country_code":"TR",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739412,
+    "gn:latitude":40.50416,
+    "gn:longitude":35.17618,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zennun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zennun K\u00f6y\u00fc",
+        "S\u00f6\u011f\u00fctyolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709717
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739412
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dea6f5c4250ec1755a368ce2a8253347",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709717,
+            "locality_id":1360149695,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1360149695,
+    "wof:lastmodified":1537707698,
+    "wof:name":"Zennun",
+    "wof:parent_id":1108709717,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.17618,
+    40.50416,
+    35.17618,
+    40.50416
+],
+  "geometry": {"coordinates":[35.17618,40.50416],"type":"Point"}
+}

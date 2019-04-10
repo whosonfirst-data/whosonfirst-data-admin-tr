@@ -1,0 +1,68 @@
+{
+  "id": 1242815811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13641,36.86978,34.13641,36.86978",
+    "geom:latitude":36.86978,
+    "geom:longitude":34.13641,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sorgun",
+    "gn:country_code":"TR",
+    "gn:dem":1407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300354,
+    "gn:latitude":36.86978,
+    "gn:longitude":34.13641,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sorgun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890460375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300354,
+        "wk:page":"Sorgun%2C_Mersin"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f732fe471d4c3e961a6d8d8a3741b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460375,
+            "locality_id":1242815811,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1242815811,
+    "wof:lastmodified":1537574474,
+    "wof:name":"Sorgun",
+    "wof:parent_id":890460375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13641,
+    36.86978,
+    34.13641,
+    36.86978
+],
+  "geometry": {"coordinates":[34.13641,36.86978],"type":"Point"}
+}

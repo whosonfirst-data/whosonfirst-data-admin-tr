@@ -1,0 +1,73 @@
+{
+  "id": 1226259457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23243,41.0416,30.23243,41.0416",
+    "geom:latitude":41.0416,
+    "geom:longitude":30.23243,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Kanatlar",
+    "gn:country_code":"TR",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740559,
+    "gn:latitude":41.0416,
+    "gn:longitude":30.23243,
+    "gn:modification_date":"2012-09-06",
+    "gn:name":"Kanatlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kanatlar"
+    ],
+    "name:und_x_variant":[
+        "Pirceler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        890463605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740559
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c3d0675d40f05553a53ba2c413bc5232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463605,
+            "locality_id":1226259457,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1226259457,
+    "wof:lastmodified":1537707736,
+    "wof:name":"Kanatlar",
+    "wof:parent_id":890463605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23243,
+    41.0416,
+    30.23243,
+    41.0416
+],
+  "geometry": {"coordinates":[30.23243,41.0416],"type":"Point"}
+}

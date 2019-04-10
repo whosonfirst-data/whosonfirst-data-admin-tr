@@ -1,0 +1,68 @@
+{
+  "id": 890459295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.25333,36.67889,39.25333,36.67889",
+    "geom:latitude":36.67889,
+    "geom:longitude":39.25333,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":532,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kepezli"
+    ],
+    "qs:name":"Kepezli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        1108709267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439093,
+        "qs:id":548237
+    },
+    "wof:country":"TR",
+    "wof:created":1469053261,
+    "wof:geomhash":"3d7cfc0019a929e26cd95932fd95e883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709267,
+            "locality_id":890459295,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890459295,
+    "wof:lastmodified":1505343676,
+    "wof:name":"Kepezli",
+    "wof:parent_id":1108709267,
+    "wof:placetype":"locality",
+    "wof:population":532,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.25333,
+    36.67889,
+    39.25333,
+    36.67889
+],
+  "geometry": {"coordinates":[39.25333,36.67889],"type":"Point"}
+}

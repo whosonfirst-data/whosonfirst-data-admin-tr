@@ -1,0 +1,72 @@
+{
+  "id": 1344211483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80389,39.30472,31.80389,39.30472",
+    "geom:latitude":39.30472,
+    "geom:longitude":31.80389,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Kayakent",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308623,
+    "gn:latitude":39.30472,
+    "gn:longitude":31.80389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kayakent",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Holanta",
+        "Kayakent"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308623
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"738b77233c0b87d431aef1a4e28e7577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709539,
+            "locality_id":1344211483,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1344211483,
+    "wof:lastmodified":1537706975,
+    "wof:name":"Kayakent",
+    "wof:parent_id":1108709539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80389000000001,
+    39.30472,
+    31.80389000000001,
+    39.30472
+],
+  "geometry": {"coordinates":[31.80389000000001,39.30472],"type":"Point"}
+}

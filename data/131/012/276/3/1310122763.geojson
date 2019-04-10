@@ -1,0 +1,74 @@
+{
+  "id": 1310122763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.14046,39.93893,42.14046,39.93893",
+    "geom:latitude":39.93893,
+    "geom:longitude":42.14046,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Dikili",
+    "gn:country_code":"TR",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313553,
+    "gn:latitude":39.93893,
+    "gn:longitude":42.14046,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Dikili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dikili"
+    ],
+    "name:und_x_variant":[
+        "Dikli",
+        "G\u00fcnbatmaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313553
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b4d513fd5fe5cfd02068c11d1535dfc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709593,
+            "locality_id":1310122763,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1310122763,
+    "wof:lastmodified":1537707127,
+    "wof:name":"Dikili",
+    "wof:parent_id":1108709593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.14046,
+    39.93893,
+    42.14046,
+    39.93893
+],
+  "geometry": {"coordinates":[42.14046,39.93893],"type":"Point"}
+}

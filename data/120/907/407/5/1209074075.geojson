@@ -1,0 +1,64 @@
+{
+  "id": 1209074075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18639,39.61393,39.18639,39.61393",
+    "geom:latitude":39.61393,
+    "geom:longitude":39.18639,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Alpkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":323965,
+    "gn:latitude":39.61393,
+    "gn:longitude":39.18639,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Alpk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alpk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323965
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1c216c388971c6a87fe00fc6105b5f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209074075
+        }
+    ],
+    "wof:id":1209074075,
+    "wof:lastmodified":1537707466,
+    "wof:name":"Alpkoy",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18639,
+    39.61393,
+    39.18639,
+    39.61393
+],
+  "geometry": {"coordinates":[39.18639,39.61393],"type":"Point"}
+}

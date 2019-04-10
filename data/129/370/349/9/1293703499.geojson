@@ -1,0 +1,72 @@
+{
+  "id": 1293703499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.61595,40.08339,39.61595,40.08339",
+    "geom:latitude":40.08339,
+    "geom:longitude":39.61595,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Kilicli",
+    "gn:country_code":"TR",
+    "gn:dem":1597,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743353,
+    "gn:latitude":40.08339,
+    "gn:longitude":39.61595,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"K\u0131l\u0131\u00e7l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131l\u0131\u00e7\u00e7\u0131",
+        "K\u0131l\u0131n\u00e7c\u0131",
+        "K\u0131l\u0131\u00e7l\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890463525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743353
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c1d34ad1e829f9be5f1db5ef9825c744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463525,
+            "locality_id":1293703499,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1293703499,
+    "wof:lastmodified":1537707829,
+    "wof:name":"Kilicli",
+    "wof:parent_id":890463525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.61595,
+    40.08339,
+    39.61595,
+    40.08339
+],
+  "geometry": {"coordinates":[39.61595,40.08339],"type":"Point"}
+}

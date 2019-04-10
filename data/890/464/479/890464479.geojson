@@ -1,0 +1,84 @@
+{
+  "id": 890464479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3075,41.03083,30.3075,41.03083",
+    "geom:latitude":41.03083,
+    "geom:longitude":30.3075,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":6183,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:tur_x_preferred":[
+        "\u015eeyhler"
+    ],
+    "name:tur_x_variant":[
+        "\u015eeyhl\u00fc",
+        "Kaynarca"
+    ],
+    "name:unk_x_variant":[
+        "K\u00fc\u00e7\u00fck Kaynarca"
+    ],
+    "qs:name":"Kaynarca",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Sakarya",
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":4,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":61,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743633,
+        "gp:id":29390480,
+        "qs:id":235034,
+        "wd:id":"Q6380636",
+        "wk:page":"Kaynarca"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053474,
+    "wof:geomhash":"6ae19a9e4ec86bda6142e2c40fd57caa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464479,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":890464479,
+    "wof:lastmodified":1527734163,
+    "wof:name":"Kaynarca",
+    "wof:parent_id":85679241,
+    "wof:placetype":"county",
+    "wof:population":6183,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3075,
+    41.03083,
+    30.3075,
+    41.03083
+],
+  "geometry": {"coordinates":[30.3075,41.03083],"type":"Point"}
+}

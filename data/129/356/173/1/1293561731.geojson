@@ -1,0 +1,67 @@
+{
+  "id": 1293561731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37527,37.57751,30.37527,37.57751",
+    "geom:latitude":37.57751,
+    "geom:longitude":30.37527,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Beskavak",
+    "gn:country_code":"TR",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321351,
+    "gn:latitude":37.57751,
+    "gn:longitude":30.37527,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Be\u015fkavak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679273,
+        890463173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321351
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d91600c4c08bc97864d5582574ad363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463173,
+            "locality_id":1293561731,
+            "region_id":85679273
+        }
+    ],
+    "wof:id":1293561731,
+    "wof:lastmodified":1536680125,
+    "wof:name":"Beskavak",
+    "wof:parent_id":890463173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37527,
+    37.57751,
+    30.37527,
+    37.57751
+],
+  "geometry": {"coordinates":[30.37527,37.57751],"type":"Point"}
+}

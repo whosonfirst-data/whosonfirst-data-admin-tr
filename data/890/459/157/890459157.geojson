@@ -1,0 +1,71 @@
+{
+  "id": 890459157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.83778,37.82694,40.83778,37.82694",
+    "geom:latitude":37.82694,
+    "geom:longitude":40.83778,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":136,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alu\u00e7"
+    ],
+    "name:unk_x_variant":[
+        "Aluz"
+    ],
+    "qs:name":"Alu\u00e7",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323876,
+        "qs:id":547708
+    },
+    "wof:country":"TR",
+    "wof:created":1469053257,
+    "wof:geomhash":"47be90637f5004b7255c3e5aa15adfc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":890459157,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890459157,
+    "wof:lastmodified":1505343675,
+    "wof:name":"Alu\u00e7",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:population":136,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.83778,
+    37.82694,
+    40.83778,
+    37.82694
+],
+  "geometry": {"coordinates":[40.83778,37.82694],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276460377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.33225,38.38376,29.33225,38.38376",
+    "geom:latitude":38.38376,
+    "geom:longitude":29.33225,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Emekse",
+    "gn:country_code":"TR",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315644,
+    "gn:latitude":38.38376,
+    "gn:longitude":29.33225,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Emekse",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Emekse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        1108709949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315644
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dad942d3974b2b084438fe56b0c95ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709949,
+            "locality_id":1276460377,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1276460377,
+    "wof:lastmodified":1537707193,
+    "wof:name":"Emekse",
+    "wof:parent_id":1108709949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.33225,
+    38.38376,
+    29.33225,
+    38.38376
+],
+  "geometry": {"coordinates":[29.33225,38.38376],"type":"Point"}
+}

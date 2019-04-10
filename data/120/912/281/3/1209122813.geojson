@@ -1,0 +1,64 @@
+{
+  "id": 1209122813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.63746,40.09259,39.63746,40.09259",
+    "geom:latitude":40.09259,
+    "geom:longitude":39.63746,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Halkevi",
+    "gn:country_code":"TR",
+    "gn:dem":1852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7563192,
+    "gn:latitude":40.09259,
+    "gn:longitude":39.63746,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Halkevi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Halkevi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7563192
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7f5bb4343fdc332402ec55eb7e4f40aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209122813
+        }
+    ],
+    "wof:id":1209122813,
+    "wof:lastmodified":1537708242,
+    "wof:name":"Halkevi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.63746,
+    40.09259,
+    39.63746,
+    40.09259
+],
+  "geometry": {"coordinates":[39.63746,40.09259],"type":"Point"}
+}

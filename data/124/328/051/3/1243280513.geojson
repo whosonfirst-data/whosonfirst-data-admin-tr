@@ -1,0 +1,67 @@
+{
+  "id": 1243280513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72134,40.90572,35.72134,40.90572",
+    "geom:latitude":40.90572,
+    "geom:longitude":35.72134,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Oymapinar",
+    "gn:country_code":"TR",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7698838,
+    "gn:latitude":40.90572,
+    "gn:longitude":35.72134,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Oymap\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        890464145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7698838
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c445034782f86013e2a41978cfac371e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464145,
+            "locality_id":1243280513,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1243280513,
+    "wof:lastmodified":1537042956,
+    "wof:name":"Oymapinar",
+    "wof:parent_id":890464145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72134000000001,
+    40.90572,
+    35.72134000000001,
+    40.90572
+],
+  "geometry": {"coordinates":[35.72134000000001,40.90572],"type":"Point"}
+}

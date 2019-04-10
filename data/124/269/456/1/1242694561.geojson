@@ -1,0 +1,67 @@
+{
+  "id": 1242694561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.64231,38.96052,33.64231,38.96052",
+    "geom:latitude":38.96052,
+    "geom:longitude":33.64231,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Seymenli",
+    "gn:country_code":"TR",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300907,
+    "gn:latitude":38.96052,
+    "gn:longitude":33.64231,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"Seymenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300907
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6b51d7ec2f0a93fa78fdfa1404fbb221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464457,
+            "locality_id":1242694561,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1242694561,
+    "wof:lastmodified":1536895108,
+    "wof:name":"Seymenli",
+    "wof:parent_id":890464457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.64230999999999,
+    38.96052,
+    33.64230999999999,
+    38.96052
+],
+  "geometry": {"coordinates":[33.64230999999999,38.96052],"type":"Point"}
+}

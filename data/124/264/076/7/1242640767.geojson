@@ -1,0 +1,67 @@
+{
+  "id": 1242640767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.87666,40.1416,25.87666,40.1416",
+    "geom:latitude":40.1416,
+    "geom:longitude":25.87666,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Konacik",
+    "gn:country_code":"TR",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318662,
+    "gn:latitude":40.1416,
+    "gn:longitude":25.87666,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Konac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890461677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318662
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3712172f687a5490269090d030c84998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461677,
+            "locality_id":1242640767,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1242640767,
+    "wof:lastmodified":1536972563,
+    "wof:name":"Konacik",
+    "wof:parent_id":890461677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.87666,
+    40.1416,
+    25.87666,
+    40.1416
+],
+  "geometry": {"coordinates":[25.87666,40.1416],"type":"Point"}
+}

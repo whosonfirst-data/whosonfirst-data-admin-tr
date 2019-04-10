@@ -1,0 +1,70 @@
+{
+  "id": 1225801137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.6974,38.62122,38.6974,38.62122",
+    "geom:latitude":38.62122,
+    "geom:longitude":38.6974,
+    "gn:admin1_code":"23.0",
+    "gn:asciiname":"Akdemir",
+    "gn:country_code":"TR",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324752,
+    "gn:latitude":38.62122,
+    "gn:longitude":38.6974,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Akdemir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akdemir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324752
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b5413e99f7b94d2901305ba9f08764aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709359,
+            "locality_id":1225801137,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1225801137,
+    "wof:lastmodified":1537707491,
+    "wof:name":"Akdemir",
+    "wof:parent_id":1108709359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.6974,
+    38.62122,
+    38.6974,
+    38.62122
+],
+  "geometry": {"coordinates":[38.6974,38.62122],"type":"Point"}
+}

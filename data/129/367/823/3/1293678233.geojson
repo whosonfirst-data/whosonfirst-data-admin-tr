@@ -1,0 +1,70 @@
+{
+  "id": 1293678233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.70137,37.53384,27.70137,37.53384",
+    "geom:latitude":37.53384,
+    "geom:longitude":27.70137,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Kullar",
+    "gn:country_code":"TR",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305769,
+    "gn:latitude":37.53384,
+    "gn:longitude":27.70137,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kullar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kullar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305769
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"19ed61713a344988d68d4e722ac54339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709677,
+            "locality_id":1293678233,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1293678233,
+    "wof:lastmodified":1537706883,
+    "wof:name":"Kullar",
+    "wof:parent_id":1108709677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.70137,
+    37.53384000000001,
+    27.70137,
+    37.53384000000001
+],
+  "geometry": {"coordinates":[27.70137,37.53384000000001],"type":"Point"}
+}

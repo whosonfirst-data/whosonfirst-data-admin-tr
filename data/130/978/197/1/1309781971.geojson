@@ -1,0 +1,73 @@
+{
+  "id": 1309781971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.46194,39.56083,26.46194,39.56083",
+    "geom:latitude":39.56083,
+    "geom:longitude":26.46194,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Huseyinfaki",
+    "gn:country_code":"TR",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311808,
+    "gn:latitude":39.56083,
+    "gn:longitude":26.46194,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"H\u00fcseyinfak\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00fcseyinfak\u0131",
+        "H\u00fcseyinfak\u0131hl\u0131",
+        "H\u00fcseyinfak\u0131h",
+        "H\u00fcseyin\u00e7ak\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890463243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311808
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ebd139ff3f900c1e5324b8ded0b729af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463243,
+            "locality_id":1309781971,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1309781971,
+    "wof:lastmodified":1537707067,
+    "wof:name":"Huseyinfaki",
+    "wof:parent_id":890463243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.46194,
+    39.56083,
+    26.46194,
+    39.56083
+],
+  "geometry": {"coordinates":[26.46194,39.56083],"type":"Point"}
+}

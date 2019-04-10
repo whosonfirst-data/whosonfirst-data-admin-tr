@@ -1,0 +1,64 @@
+{
+  "id": 1209439637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49053,40.99998,30.49053,40.99998",
+    "geom:latitude":40.99998,
+    "geom:longitude":30.49053,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Teberlik",
+    "gn:country_code":"TR",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281822,
+    "gn:latitude":40.99998,
+    "gn:longitude":30.49053,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Teberlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Teberlik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281822
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"773adaa226a7e338624a759f95938c40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209439637
+        }
+    ],
+    "wof:id":1209439637,
+    "wof:lastmodified":1537708287,
+    "wof:name":"Teberlik",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49053,
+    40.99998,
+    30.49053,
+    40.99998
+],
+  "geometry": {"coordinates":[30.49053,40.99998],"type":"Point"}
+}

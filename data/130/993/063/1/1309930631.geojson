@@ -1,0 +1,78 @@
+{
+  "id": 1309930631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.03667,40.31444,37.03667,40.31444",
+    "geom:latitude":40.31444,
+    "geom:longitude":37.03667,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Golgeli",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":857,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746634,
+    "gn:latitude":40.31444,
+    "gn:longitude":37.03667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6lgeli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "G\u00f6lgeli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0435\u043a\u0435"
+    ],
+    "name:und_x_variant":[
+        "Leveke",
+        "G\u00f6lgeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890463229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746634
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b228e35273233230f6ef4dcbe098d373",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463229,
+            "locality_id":1309930631,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1309930631,
+    "wof:lastmodified":1537707933,
+    "wof:name":"Golgeli",
+    "wof:parent_id":890463229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.03667,
+    40.31444000000001,
+    37.03667,
+    40.31444000000001
+],
+  "geometry": {"coordinates":[37.03667,40.31444000000001],"type":"Point"}
+}

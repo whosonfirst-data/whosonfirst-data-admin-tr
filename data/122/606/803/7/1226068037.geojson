@@ -1,0 +1,73 @@
+{
+  "id": 1226068037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87536,37.41759,32.87536,37.41759",
+    "geom:latitude":37.41759,
+    "geom:longitude":32.87536,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Yorukcamili",
+    "gn:country_code":"TR",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296073,
+    "gn:latitude":37.41759,
+    "gn:longitude":32.87536,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Y\u00f6r\u00fckcamili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Camili",
+        "Y\u00f6r\u00fckcamili",
+        "Y\u00fcr\u00fckcamili K\u00f6y\u00fc",
+        "Y\u00fcr\u00fckcamili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890464377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296073
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"506b1b619c916057040aeaaa7186744a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464377,
+            "locality_id":1226068037,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1226068037,
+    "wof:lastmodified":1537706553,
+    "wof:name":"Yorukcamili",
+    "wof:parent_id":890464377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87536,
+    37.41759,
+    32.87536,
+    37.41759
+],
+  "geometry": {"coordinates":[32.87536,37.41759],"type":"Point"}
+}

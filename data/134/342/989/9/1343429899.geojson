@@ -1,0 +1,74 @@
+{
+  "id": 1343429899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.82008,37.94062,40.82008,37.94062",
+    "geom:latitude":37.94062,
+    "geom:longitude":40.82008,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Alibey",
+    "gn:country_code":"TR",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324097,
+    "gn:latitude":37.94062,
+    "gn:longitude":40.82008,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Alibey",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alibey"
+    ],
+    "name:und_x_variant":[
+        "Alodinan",
+        "Aplodinap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324097
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2990a3cf40a549ec527fb2cf7afb0122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":1343429899,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1343429899,
+    "wof:lastmodified":1537707470,
+    "wof:name":"Alibey",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.82008,
+    37.94062,
+    40.82008,
+    37.94062
+],
+  "geometry": {"coordinates":[40.82008,37.94062],"type":"Point"}
+}

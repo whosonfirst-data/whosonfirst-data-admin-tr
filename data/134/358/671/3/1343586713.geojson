@@ -1,0 +1,73 @@
+{
+  "id": 1343586713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.83443,38.98134,38.83443,38.98134",
+    "geom:latitude":38.98134,
+    "geom:longitude":38.83443,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Bagsuyu",
+    "gn:country_code":"TR",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304978,
+    "gn:latitude":38.98134,
+    "gn:longitude":38.83443,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ba\u011fsuyu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahmant",
+        "Mahmunut",
+        "Mahmunot",
+        "Ba\u011fsuyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108710059
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304978
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ffba90c797308fca72d99192dc72636c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710059,
+            "locality_id":1343586713,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1343586713,
+    "wof:lastmodified":1537706859,
+    "wof:name":"Bagsuyu",
+    "wof:parent_id":1108710059,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.83443,
+    38.98134,
+    38.83443,
+    38.98134
+],
+  "geometry": {"coordinates":[38.83443,38.98134],"type":"Point"}
+}

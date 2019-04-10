@@ -1,0 +1,71 @@
+{
+  "id": 1293375733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79225,37.20677,30.79225,37.20677",
+    "geom:latitude":37.20677,
+    "geom:longitude":30.79225,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kayadibi",
+    "gn:country_code":"TR",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308641,
+    "gn:latitude":37.20677,
+    "gn:longitude":30.79225,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kayadibi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yenice",
+        "Kayadibi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308641
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3e4d515c59db61ce8e863a40c3b6ffe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709263,
+            "locality_id":1293375733,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1293375733,
+    "wof:lastmodified":1537706975,
+    "wof:name":"Kayadibi",
+    "wof:parent_id":1108709263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79225,
+    37.20677,
+    30.79225,
+    37.20677
+],
+  "geometry": {"coordinates":[30.79225,37.20677],"type":"Point"}
+}

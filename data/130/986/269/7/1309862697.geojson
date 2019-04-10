@@ -1,0 +1,73 @@
+{
+  "id": 1309862697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.81945,39.95503,40.81945,39.95503",
+    "geom:latitude":39.95503,
+    "geom:longitude":40.81945,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Caykoy",
+    "gn:country_code":"TR",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319101,
+    "gn:latitude":39.95503,
+    "gn:longitude":40.81945,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"\u00c7ayk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ayk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "\u00c7ay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319101
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a6c410d73953ddb70947ce51307ce7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709231,
+            "locality_id":1309862697,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1309862697,
+    "wof:lastmodified":1537707306,
+    "wof:name":"Caykoy",
+    "wof:parent_id":1108709231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.81945,
+    39.95503,
+    40.81945,
+    39.95503
+],
+  "geometry": {"coordinates":[40.81945,39.95503],"type":"Point"}
+}

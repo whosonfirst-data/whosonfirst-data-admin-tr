@@ -1,0 +1,67 @@
+{
+  "id": 1326953867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30829,41.55656,32.30829,41.55656",
+    "geom:latitude":41.55656,
+    "geom:longitude":32.30829,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Gaziler",
+    "gn:country_code":"TR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028605,
+    "gn:latitude":41.55656,
+    "gn:longitude":32.30829,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Gaziler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679543,
+        1108709723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028605
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ef838c2d54a96ae2d1724e8db6fbb937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709723,
+            "locality_id":1326953867,
+            "region_id":85679543
+        }
+    ],
+    "wof:id":1326953867,
+    "wof:lastmodified":1536872702,
+    "wof:name":"Gaziler",
+    "wof:parent_id":1108709723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30829,
+    41.55656,
+    32.30829,
+    41.55656
+],
+  "geometry": {"coordinates":[32.30829,41.55656],"type":"Point"}
+}

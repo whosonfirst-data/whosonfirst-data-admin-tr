@@ -1,0 +1,67 @@
+{
+  "id": 1193161749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.81667,41.13333,40.81667,41.13333",
+    "geom:latitude":41.13333,
+    "geom:longitude":40.81667,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Ozdilek",
+    "gn:country_code":"TR",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740766,
+    "gn:latitude":41.13333,
+    "gn:longitude":40.81667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"\u00d6zdilek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        890462431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740766
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e114a0becf95081260827cacbe0eb058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462431,
+            "locality_id":1193161749,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1193161749,
+    "wof:lastmodified":1536367169,
+    "wof:name":"Ozdilek",
+    "wof:parent_id":890462431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.81667,
+    41.13333,
+    40.81667,
+    41.13333
+],
+  "geometry": {"coordinates":[40.81667,41.13333],"type":"Point"}
+}

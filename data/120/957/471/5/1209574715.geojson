@@ -1,0 +1,67 @@
+{
+  "id": 1209574715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.46019,37.04032,34.46019,37.04032",
+    "geom:latitude":37.04032,
+    "geom:longitude":34.46019,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Horozlu",
+    "gn:country_code":"TR",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315164,
+    "gn:latitude":37.04032,
+    "gn:longitude":34.46019,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Horozlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Horozlu"
+    ],
+    "name:tur_x_variant":[
+        "E\u015fraf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315164
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ea9e693c12982ea19df48d6c7485c730",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209574715
+        }
+    ],
+    "wof:id":1209574715,
+    "wof:lastmodified":1537707179,
+    "wof:name":"Horozlu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.46019,
+    37.04032,
+    34.46019,
+    37.04032
+],
+  "geometry": {"coordinates":[34.46019,37.04032],"type":"Point"}
+}

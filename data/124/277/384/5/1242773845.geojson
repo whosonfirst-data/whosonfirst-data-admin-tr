@@ -1,0 +1,73 @@
+{
+  "id": 1242773845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.18199,41.28132,42.18199,41.28132",
+    "geom:latitude":41.28132,
+    "geom:longitude":42.18199,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Eskikale",
+    "gn:country_code":"TR",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747283,
+    "gn:latitude":41.28132,
+    "gn:longitude":42.18199,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Eskikale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Eskikale"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0441\u043a\u0438-\u041a\u0430\u043b\u0435"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        1108709193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747283
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e91bd53de3c77a8ae9b9758897f78f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709193,
+            "locality_id":1242773845,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1242773845,
+    "wof:lastmodified":1537707956,
+    "wof:name":"Eskikale",
+    "wof:parent_id":1108709193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.18199,
+    41.28132,
+    42.18199,
+    41.28132
+],
+  "geometry": {"coordinates":[42.18199,41.28132],"type":"Point"}
+}

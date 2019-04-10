@@ -1,0 +1,74 @@
+{
+  "id": 1259700423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03333,38.08333,39.03333,38.08333",
+    "geom:latitude":38.08333,
+    "geom:longitude":39.03333,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Erbaun",
+    "gn:country_code":"TR",
+    "gn:dem":1740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323377,
+    "gn:latitude":38.08333,
+    "gn:longitude":39.03333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Erbaun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erbeun S\u00fcfla",
+        "A\u015fa\u011f\u0131 Erbaun",
+        "Erbaun",
+        "Erbaunus\u00fcfl\u00e2",
+        "A\u015fa\u011f\u0131 Eurbeun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890462843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323377
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26aad548d0c286ca3b9edde20a9de48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462843,
+            "locality_id":1259700423,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1259700423,
+    "wof:lastmodified":1537707445,
+    "wof:name":"Erbaun",
+    "wof:parent_id":890462843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03333,
+    38.08333,
+    39.03333,
+    38.08333
+],
+  "geometry": {"coordinates":[39.03333,38.08333],"type":"Point"}
+}

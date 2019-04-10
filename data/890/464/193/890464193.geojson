@@ -1,0 +1,71 @@
+{
+  "id": 890464193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7159,36.93729,30.7159,36.93729",
+    "geom:latitude":36.93729,
+    "geom:longitude":30.7159,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Gazi",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        101912923,
+        1108709753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8074154,
+        "gp:id":55870998,
+        "qs:id":207639
+    },
+    "wof:country":"TR",
+    "wof:created":1469053464,
+    "wof:geomhash":"9d82c36501d483b48388a0bda0612d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709753,
+            "locality_id":101912923,
+            "neighbourhood_id":890464193,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":890464193,
+    "wof:lastmodified":1505343697,
+    "wof:name":"Gazi",
+    "wof:parent_id":101912923,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7159,
+    36.93729,
+    30.7159,
+    36.93729
+],
+  "geometry": {"coordinates":[30.7159,36.93729],"type":"Point"}
+}

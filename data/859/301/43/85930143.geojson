@@ -1,0 +1,108 @@
+{
+  "id": 85930143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000385,
+    "geom:area_square_m":3587546.722704,
+    "geom:bbox":"29.0241186524,41.1493694188,29.0439154107,41.1774869778",
+    "geom:latitude":41.163643,
+    "geom:longitude":29.032954,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":41.168049,
+    "lbl:longitude":29.036503,
+    "mps:latitude":41.163391,
+    "mps:longitude":29.032152,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Kayal\u0131k\u00f6y Baraj\u0131"
+    ],
+    "name:und_x_preferred":[
+        "Kocatas"
+    ],
+    "name:unk_x_variant":[
+        "Kocatas"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Kocatas",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Sar\u0131yer",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":12,
+    "qs:photo_sum":25,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390733,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55871341,
+        "qs:id":1337773,
+        "qs_pg:id":1337773
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8539be72a982678668836efd0c6872e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "neighbourhood_id":85930143,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85930143,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527268716,
+    "wof:name":"Kocatas",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.02411865235018,
+    41.14936941877143,
+    29.04391541069674,
+    41.17748697779787
+],
+  "geometry": {"coordinates":[[[29.0396118164,41.16576211873094],[29.04235834929904,41.16211393939808],[29.04235839840004,41.16211393940004],[29.04235839841459,41.16211387415019],[29.04235839841459,41.1579782787001],[29.0423583984209,41.15797821347537],[29.04391541069674,41.1559101874255],[29.04235844755476,41.15384235710005],[29.04235839842511,41.15384229185011],[29.03686523438154,41.15384229185011],[29.03375091511037,41.14970610927544],[29.03324388004586,41.14936941877143],[29.02413626692487,41.15608916167915],[29.02431079954602,41.15786122112029],[29.02487985702493,41.15973715222363],[29.02504492814882,41.16004597857541],[29.0248798570251,41.1603548049264],[29.02431079954602,41.16223073603001],[29.02411865235018,41.16418163925013],[29.02431079954602,41.16613254247044],[29.0243462096231,41.16624927385028],[29.02431079954602,41.16636600522996],[29.02411865235018,41.16831690845],[29.02431079954602,41.17026781167013],[29.0248798570251,41.17214374277383],[29.02580395622715,41.17387261078018],[29.02704758453842,41.17538797626182],[29.02856295002005,41.17663160457307],[29.03016324076629,41.17748697779787],[29.0418779505406,41.1722991699589],[29.04188237244603,41.17228154707887],[29.0396118164,41.16624927385028],[29.0396118164,41.16576211873094]]],"type":"Polygon"}
+}

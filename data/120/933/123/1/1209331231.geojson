@@ -1,0 +1,65 @@
+{
+  "id": 1209331231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.11009,37.56126,42.11009,37.56126",
+    "geom:latitude":37.56126,
+    "geom:longitude":42.11009,
+    "gn:admin1_code":"80",
+    "gn:asciiname":"Karagecit",
+    "gn:country_code":"TR",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309879,
+    "gn:latitude":37.56126,
+    "gn:longitude":42.11009,
+    "gn:modification_date":"2014-10-01",
+    "gn:name":"Karage\u00e7it",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0130spiviyan",
+        "Karage\u00e7it"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309879
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8980f27dcb064d8f4ec896350e5192a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331231
+        }
+    ],
+    "wof:id":1209331231,
+    "wof:lastmodified":1537707008,
+    "wof:name":"Karagecit",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.11009,
+    37.56126,
+    42.11009,
+    37.56126
+],
+  "geometry": {"coordinates":[42.11009,37.56126],"type":"Point"}
+}

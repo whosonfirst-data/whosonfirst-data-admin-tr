@@ -1,0 +1,73 @@
+{
+  "id": 1193110439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81334,40.77091,31.81334,40.77091",
+    "geom:latitude":40.77091,
+    "geom:longitude":31.81334,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Sazaksihlar",
+    "gn:country_code":"TR",
+    "gn:dem":814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751672,
+    "gn:latitude":40.77091,
+    "gn:longitude":31.81334,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Sazaks\u0131hlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u0131hlar",
+        "A\u015fa\u011f\u0131 \u015e\u0131hlar",
+        "Sazaks\u0131hlar",
+        "Sazak\u015feyhler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751672
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"585c9cff37ad82ec95eb6a9c04d7a5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462577,
+            "locality_id":1193110439,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1193110439,
+    "wof:lastmodified":1537708110,
+    "wof:name":"Sazaksihlar",
+    "wof:parent_id":890462577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81334,
+    40.77091,
+    31.81334,
+    40.77091
+],
+  "geometry": {"coordinates":[31.81334,40.77091],"type":"Point"}
+}

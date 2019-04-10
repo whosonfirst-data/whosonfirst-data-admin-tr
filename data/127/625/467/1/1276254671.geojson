@@ -1,0 +1,67 @@
+{
+  "id": 1276254671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.24101,40.52192,37.24101,40.52192",
+    "geom:latitude":40.52192,
+    "geom:longitude":37.24101,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Elmacik",
+    "gn:country_code":"TR",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7691171,
+    "gn:latitude":40.52192,
+    "gn:longitude":37.24101,
+    "gn:modification_date":"2011-03-07",
+    "gn:name":"Elmac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7691171
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"03402e84b9512bce81e5886bc736c2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709833,
+            "locality_id":1276254671,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1276254671,
+    "wof:lastmodified":1536883480,
+    "wof:name":"Elmacik",
+    "wof:parent_id":1108709833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.24101,
+    40.52192,
+    37.24101,
+    40.52192
+],
+  "geometry": {"coordinates":[37.24101,40.52192],"type":"Point"}
+}

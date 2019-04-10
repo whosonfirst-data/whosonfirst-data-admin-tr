@@ -1,0 +1,63 @@
+{
+  "id": 1108950811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7060707868,40.989702219,28.7060707868,40.989702219",
+    "geom:latitude":40.989702,
+    "geom:longitude":28.706071,
+    "iso:country":"TR",
+    "lbl:latitude":40.989702,
+    "lbl:longitude":28.706071,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912655,
+        1108709309,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368658,
+    "wof:geomhash":"ae5861942cbc2a50c778bdbab7d36416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709309,
+            "locality_id":101912655,
+            "neighbourhood_id":1108950811,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950811,
+    "wof:lastmodified":1492123988,
+    "wof:name":"Cihangir",
+    "wof:parent_id":101912655,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70607078676115,
+    40.98970221901808,
+    28.70607078676115,
+    40.98970221901808
+],
+  "geometry": {"coordinates":[28.70607078676115,40.98970221901808],"type":"Point"}
+}

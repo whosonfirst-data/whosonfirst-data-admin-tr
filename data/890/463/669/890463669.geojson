@@ -1,0 +1,74 @@
+{
+  "id": 890463669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.21108,40.60811,29.21108,40.60811",
+    "geom:latitude":40.60811,
+    "geom:longitude":29.21108,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yenimahalle"
+    ],
+    "qs:name":"Yenimahalle",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679529,
+        890461537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8384782,
+        "gp:id":2343662,
+        "qs:id":194953
+    },
+    "wof:country":"TR",
+    "wof:created":1469053439,
+    "wof:geomhash":"c58f9f576418c74b30d4a4323ee43ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461537,
+            "locality_id":890463669,
+            "region_id":85679529
+        }
+    ],
+    "wof:id":890463669,
+    "wof:lastmodified":1505343694,
+    "wof:name":"Yenimahalle",
+    "wof:parent_id":890461537,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.21108,
+    40.60811,
+    29.21108,
+    40.60811
+],
+  "geometry": {"coordinates":[29.21108,40.60811],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209873047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.51887,40.26098,41.51887,40.26098",
+    "geom:latitude":40.26098,
+    "geom:longitude":41.51887,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Tasbasi",
+    "gn:country_code":"TR",
+    "gn:dem":2074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739584,
+    "gn:latitude":40.26098,
+    "gn:longitude":41.51887,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Ta\u015fba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u015eipek"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0438\u043f\u0435\u043a"
+    ],
+    "name:und_x_variant":[
+        "Ta\u015fba\u015f\u0131",
+        "\u015eipek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739584
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bb3de614aba99d279009f77d4f57f157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709929,
+            "locality_id":1209873047,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1209873047,
+    "wof:lastmodified":1537707703,
+    "wof:name":"Tasbasi",
+    "wof:parent_id":1108709929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.51887,
+    40.26098,
+    41.51887,
+    40.26098
+],
+  "geometry": {"coordinates":[41.51887,40.26098],"type":"Point"}
+}

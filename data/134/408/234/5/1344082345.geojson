@@ -1,0 +1,67 @@
+{
+  "id": 1344082345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.22658,41.0033,39.22658,41.0033",
+    "geom:latitude":41.0033,
+    "geom:longitude":39.22658,
+    "gn:admin1_code":"61.0",
+    "gn:asciiname":"Gurgenli",
+    "gn:country_code":"TR",
+    "gn:dem":453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7548267,
+    "gn:latitude":41.0033,
+    "gn:longitude":39.22658,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"G\u00fcrgenli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890460231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7548267
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"263cd0b423af8ee7041a9b2620037914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460231,
+            "locality_id":1344082345,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1344082345,
+    "wof:lastmodified":1536843069,
+    "wof:name":"Gurgenli",
+    "wof:parent_id":890460231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.22658,
+    41.0033,
+    39.22658,
+    41.0033
+],
+  "geometry": {"coordinates":[39.22658,41.0033],"type":"Point"}
+}

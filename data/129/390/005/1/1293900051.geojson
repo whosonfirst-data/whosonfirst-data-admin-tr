@@ -1,0 +1,76 @@
+{
+  "id": 1293900051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22563,36.88383,36.22563,36.88383",
+    "geom:latitude":36.88383,
+    "geom:longitude":36.22563,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Turunchgiller",
+    "gn:country_code":"TR",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388317,
+    "gn:latitude":36.88383,
+    "gn:longitude":36.22563,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Turunchgiller",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kuzuculu"
+    ],
+    "name:und_x_variant":[
+        "Kuzulucu",
+        "Turunchgiller",
+        "Dzhumkhuriyet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388317,
+        "wk:page":"Kuzuculu"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ff7c1dc4d1db89a62fc6ac0fc44f5ded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709463,
+            "locality_id":1293900051,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1293900051,
+    "wof:lastmodified":1537707516,
+    "wof:name":"Turunchgiller",
+    "wof:parent_id":1108709463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22563,
+    36.88383,
+    36.22563,
+    36.88383
+],
+  "geometry": {"coordinates":[36.22563,36.88383],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344082207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.46029,39.65086,34.46029,39.65086",
+    "geom:latitude":39.65086,
+    "geom:longitude":34.46029,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Koseli",
+    "gn:country_code":"TR",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306305,
+    "gn:latitude":39.65086,
+    "gn:longitude":34.46029,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"K\u00f6seli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6seli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        1108710071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306305
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"43ad6badb8d023b701726dd8b35a9abe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710071,
+            "locality_id":1344082207,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1344082207,
+    "wof:lastmodified":1537706902,
+    "wof:name":"Koseli",
+    "wof:parent_id":1108710071,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.46029,
+    39.65086,
+    34.46029,
+    39.65086
+],
+  "geometry": {"coordinates":[34.46029,39.65086],"type":"Point"}
+}

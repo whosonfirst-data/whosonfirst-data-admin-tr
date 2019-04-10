@@ -1,0 +1,74 @@
+{
+  "id": 1310489893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98776,40.11992,27.98776,40.11992",
+    "geom:latitude":40.11992,
+    "geom:longitude":27.98776,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kiziksa",
+    "gn:country_code":"TR",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743594,
+    "gn:latitude":40.11992,
+    "gn:longitude":27.98776,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kiziksa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0131z\u0131l",
+        "Kiziksa",
+        "K\u0131z\u0131l Kilise",
+        "K\u0131z\u0131lk\u00f6y",
+        "Kaz\u0131ksa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743594
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8fa0441b645bf0edf7c8a0cb9969c9e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709709,
+            "locality_id":1310489893,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1310489893,
+    "wof:lastmodified":1537707835,
+    "wof:name":"Kiziksa",
+    "wof:parent_id":1108709709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98776,
+    40.11992,
+    27.98776,
+    40.11992
+],
+  "geometry": {"coordinates":[27.98776,40.11992],"type":"Point"}
+}

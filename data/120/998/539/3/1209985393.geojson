@@ -1,0 +1,74 @@
+{
+  "id": 1209985393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.5899,38.39628,40.5899,38.39628",
+    "geom:latitude":38.39628,
+    "geom:longitude":40.5899,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Arikli",
+    "gn:country_code":"TR",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323634,
+    "gn:latitude":38.39628,
+    "gn:longitude":40.5899,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ar\u0131kl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ar\u0131kl\u0131"
+    ],
+    "name:und_x_variant":[
+        "H\u00fcseyinik",
+        "H\u00fcseynik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890462755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323634
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f5e2d19f14c9aabdaa3d58eca8d1ac80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462755,
+            "locality_id":1209985393,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1209985393,
+    "wof:lastmodified":1537707455,
+    "wof:name":"Arikli",
+    "wof:parent_id":890462755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.5899,
+    38.39628,
+    40.5899,
+    38.39628
+],
+  "geometry": {"coordinates":[40.5899,38.39628],"type":"Point"}
+}

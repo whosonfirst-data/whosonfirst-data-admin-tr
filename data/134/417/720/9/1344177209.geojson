@@ -1,0 +1,72 @@
+{
+  "id": 1344177209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08494,36.91548,31.08494,36.91548",
+    "geom:latitude":36.91548,
+    "geom:longitude":31.08494,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gedik",
+    "gn:country_code":"TR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310230,
+    "gn:latitude":36.91548,
+    "gn:longitude":31.08494,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Gedik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaboynuzlar",
+        "Karaboynuz",
+        "Gedik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310230
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"766ef5ca161d6c2cef4fe7f7334a8866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463871,
+            "locality_id":1344177209,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1344177209,
+    "wof:lastmodified":1537707018,
+    "wof:name":"Gedik",
+    "wof:parent_id":890463871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08494,
+    36.91548,
+    31.08494,
+    36.91548
+],
+  "geometry": {"coordinates":[31.08494,36.91548],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226259345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.04848,41.12386,41.04848,41.12386",
+    "geom:latitude":41.12386,
+    "geom:longitude":41.04848,
+    "gn:admin1_code":"53.0",
+    "gn:asciiname":"Koprukoy",
+    "gn:country_code":"TR",
+    "gn:dem":568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7555071,
+    "gn:latitude":41.12386,
+    "gn:longitude":41.04848,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"K\u00f6pr\u00fck\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        890463175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7555071
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b77211ee365bfaa4cb5ef024028e45cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463175,
+            "locality_id":1226259345,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1226259345,
+    "wof:lastmodified":1536914496,
+    "wof:name":"Koprukoy",
+    "wof:parent_id":890463175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.04848,
+    41.12386,
+    41.04848,
+    41.12386
+],
+  "geometry": {"coordinates":[41.04848,41.12386],"type":"Point"}
+}

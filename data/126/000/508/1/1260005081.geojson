@@ -1,0 +1,67 @@
+{
+  "id": 1260005081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.03255,39.76235,35.03255,39.76235",
+    "geom:latitude":39.76235,
+    "geom:longitude":35.03255,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Gozbaba",
+    "gn:country_code":"TR",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313879,
+    "gn:latitude":39.76235,
+    "gn:longitude":35.03255,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"G\u00f6zbaba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890464289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313879
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9c533368782f1566f7f4716688f9d1d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464289,
+            "locality_id":1260005081,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1260005081,
+    "wof:lastmodified":1536600846,
+    "wof:name":"Gozbaba",
+    "wof:parent_id":890464289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.03255,
+    39.76235,
+    35.03255,
+    39.76235
+],
+  "geometry": {"coordinates":[35.03255,39.76235],"type":"Point"}
+}

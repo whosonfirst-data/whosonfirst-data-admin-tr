@@ -1,0 +1,71 @@
+{
+  "id": 1209702279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.07749,39.40161,41.07749,39.40161",
+    "geom:latitude":39.40161,
+    "geom:longitude":41.07749,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Mollasakir",
+    "gn:country_code":"TR",
+    "gn:dem":1904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301073,
+    "gn:latitude":39.40161,
+    "gn:longitude":41.07749,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Molla\u015fakir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serpmekaya",
+        "Molla\u015fakir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890463853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301073
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d1d1ebdd46d3217f29bd26cdebaf6ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463853,
+            "locality_id":1209702279,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1209702279,
+    "wof:lastmodified":1537706729,
+    "wof:name":"Mollasakir",
+    "wof:parent_id":890463853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.07749,
+    39.40161,
+    41.07749,
+    39.40161
+],
+  "geometry": {"coordinates":[41.07749,39.40161],"type":"Point"}
+}

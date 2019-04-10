@@ -1,0 +1,65 @@
+{
+  "id": 1209151075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22781,41.87292,33.22781,41.87292",
+    "geom:latitude":41.87292,
+    "geom:longitude":33.22781,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Dordul",
+    "gn:country_code":"TR",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747900,
+    "gn:latitude":41.87292,
+    "gn:longitude":33.22781,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"D\u00f6rd\u00fcl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00fcrd\u00fcl",
+        "D\u00f6rd\u00fcl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747900
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c9b5e9b0e4503e82c1d072ec374d31ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209151075
+        }
+    ],
+    "wof:id":1209151075,
+    "wof:lastmodified":1537707976,
+    "wof:name":"Dordul",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22781,
+    41.87292,
+    33.22781,
+    41.87292
+],
+  "geometry": {"coordinates":[33.22781,41.87292],"type":"Point"}
+}

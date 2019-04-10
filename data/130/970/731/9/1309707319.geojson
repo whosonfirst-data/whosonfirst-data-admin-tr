@@ -1,0 +1,77 @@
+{
+  "id": 1309707319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.48624,41.41538,41.48624,41.41538",
+    "geom:latitude":41.41538,
+    "geom:longitude":41.48624,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Basoba",
+    "gn:country_code":"TR",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742028,
+    "gn:latitude":41.41538,
+    "gn:longitude":41.48624,
+    "gn:modification_date":"2013-12-12",
+    "gn:name":"Ba\u015foba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Hikoba"
+    ],
+    "name:tur_x_variant":[
+        "Higoba"
+    ],
+    "name:und_x_variant":[
+        "Ba\u015foba",
+        "K\u00fc\u015fenast\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890463113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742028
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"34cc40e6d0a3aeb0b6e2f72963b73c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463113,
+            "locality_id":1309707319,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1309707319,
+    "wof:lastmodified":1537707786,
+    "wof:name":"Basoba",
+    "wof:parent_id":890463113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.48624,
+    41.41538,
+    41.48624,
+    41.41538
+],
+  "geometry": {"coordinates":[41.48624,41.41538],"type":"Point"}
+}

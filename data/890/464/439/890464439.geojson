@@ -1,0 +1,71 @@
+{
+  "id": 890464439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.14943,40.4351,29.14943,40.4351",
+    "geom:latitude":40.4351,
+    "geom:longitude":29.14943,
+    "gn:country":"TR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Gemlik",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Bursa",
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":148,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":442,
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732330,
+        "gp:id":29390345,
+        "qs:id":231467,
+        "wd:id":"Q753752",
+        "wk:page":"Gemlik"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053473,
+    "wof:geomhash":"87d1978e945305114a12fe1cab45c23d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "county_id":890464439
+        }
+    ],
+    "wof:id":890464439,
+    "wof:lastmodified":1527734163,
+    "wof:name":"Gemlik",
+    "wof:parent_id":-1,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.14943,
+    40.4351,
+    29.14943,
+    40.4351
+],
+  "geometry": {"coordinates":[29.14943,40.4351],"type":"Point"}
+}

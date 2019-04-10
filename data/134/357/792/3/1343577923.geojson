@@ -1,0 +1,67 @@
+{
+  "id": 1343577923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12145,40.75362,31.12145,40.75362",
+    "geom:latitude":40.75362,
+    "geom:longitude":31.12145,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Basilanyatak",
+    "gn:country_code":"TR",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140757,
+    "gn:latitude":40.75362,
+    "gn:longitude":31.12145,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Ba\u015f\u0131lanyatak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        1108709733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140757
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ed1757d1608f47f48e8e0001bdeb9a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709733,
+            "locality_id":1343577923,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1343577923,
+    "wof:lastmodified":1537071197,
+    "wof:name":"Basilanyatak",
+    "wof:parent_id":1108709733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12145,
+    40.75362,
+    31.12145,
+    40.75362
+],
+  "geometry": {"coordinates":[31.12145,40.75362],"type":"Point"}
+}

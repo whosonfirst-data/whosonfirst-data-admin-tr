@@ -1,0 +1,67 @@
+{
+  "id": 1360136123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.19568,41.51745,34.19568,41.51745",
+    "geom:latitude":41.51745,
+    "geom:longitude":34.19568,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Acikisi",
+    "gn:country_code":"TR",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752882,
+    "gn:latitude":41.51745,
+    "gn:longitude":34.19568,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Ac\u0131kisi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        1108709917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752882
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"af1d7f39d05ea9aafd65c701c02c799a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709917,
+            "locality_id":1360136123,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1360136123,
+    "wof:lastmodified":1536871089,
+    "wof:name":"Acikisi",
+    "wof:parent_id":1108709917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.19568,
+    41.51745,
+    34.19568,
+    41.51745
+],
+  "geometry": {"coordinates":[34.19568,41.51745],"type":"Point"}
+}

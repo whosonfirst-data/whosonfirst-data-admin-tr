@@ -1,0 +1,72 @@
+{
+  "id": 1243220197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.97433,38.42501,39.97433,38.42501",
+    "geom:latitude":38.42501,
+    "geom:longitude":39.97433,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Kizik",
+    "gn:country_code":"TR",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322316,
+    "gn:latitude":38.42501,
+    "gn:longitude":39.97433,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"K\u0131z\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahro",
+        "K\u0131z\u0131k",
+        "Bahru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322316
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8cec480db7b5c3df1ac6aa5985c5df8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709443,
+            "locality_id":1243220197,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243220197,
+    "wof:lastmodified":1537707408,
+    "wof:name":"Kizik",
+    "wof:parent_id":1108709443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.97433,
+    38.42501,
+    39.97433,
+    38.42501
+],
+  "geometry": {"coordinates":[39.97433,38.42501],"type":"Point"}
+}

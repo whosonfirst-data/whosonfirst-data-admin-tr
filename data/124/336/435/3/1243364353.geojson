@@ -1,0 +1,71 @@
+{
+  "id": 1243364353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31176,38.98936,31.31176,38.98936",
+    "geom:latitude":38.98936,
+    "geom:longitude":31.31176,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Incik",
+    "gn:country_code":"TR",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311344,
+    "gn:latitude":38.98936,
+    "gn:longitude":31.31176,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"\u0130ncik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0130ncikli",
+        "\u0130ncik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890462013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311344
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5f075abcc89bcd840edc8c21dd9c1b0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462013,
+            "locality_id":1243364353,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1243364353,
+    "wof:lastmodified":1537707052,
+    "wof:name":"Incik",
+    "wof:parent_id":890462013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31176,
+    38.98936,
+    31.31176,
+    38.98936
+],
+  "geometry": {"coordinates":[31.31176,38.98936],"type":"Point"}
+}

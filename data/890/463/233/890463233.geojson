@@ -1,0 +1,78 @@
+{
+  "id": 890463233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.258,38.259,27.258,38.259",
+    "geom:latitude":38.259,
+    "geom:longitude":27.258,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tur_x_preferred":[
+        "T\u00fcrkmen"
+    ],
+    "qs:name":"T\u00fcrkmen",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ayd\u0131n",
+    "qs:photos":317,
+    "qs:photos_1k":64,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":317,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":45,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890463311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6686889,
+        "gp:id":55966702,
+        "qs:id":1311721,
+        "wk:page":"T\u00fcrkmen"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053422,
+    "wof:geomhash":"8eba7a3ed0c1eeef59819024e962859c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463311,
+            "locality_id":890463233,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":890463233,
+    "wof:lastmodified":1527729760,
+    "wof:name":"T\u00fcrkmen",
+    "wof:parent_id":890463311,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.258,
+    38.259,
+    27.258,
+    38.259
+],
+  "geometry": {"coordinates":[27.258,38.259],"type":"Point"}
+}

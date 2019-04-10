@@ -1,0 +1,70 @@
+{
+  "id": 1293513253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.53962,40.50149,37.53962,40.50149",
+    "geom:latitude":40.50149,
+    "geom:longitude":37.53962,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Demircili",
+    "gn:country_code":"TR",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748428,
+    "gn:latitude":40.50149,
+    "gn:longitude":37.53962,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Demircili",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Demircili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748428
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d5472a642f52c44c361eb1c11919bb92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709833,
+            "locality_id":1293513253,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1293513253,
+    "wof:lastmodified":1537707995,
+    "wof:name":"Demircili",
+    "wof:parent_id":1108709833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.53962,
+    40.50149,
+    37.53962,
+    40.50149
+],
+  "geometry": {"coordinates":[37.53962,40.50149],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226565213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.54949,39.49185,34.54949,39.49185",
+    "geom:latitude":39.49185,
+    "geom:longitude":34.54949,
+    "gn:admin1_code":"66.0",
+    "gn:asciiname":"Yukari Eyerci",
+    "gn:country_code":"TR",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7686390,
+    "gn:latitude":39.49185,
+    "gn:longitude":34.54949,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Yukar\u0131 Eyerci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yukar\u0131 Eyerci"
+    ],
+    "name:tur_x_variant":[
+        "Yukar\u0131e\u011ferci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686390
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"31b21d5ce2f674e0e0b5cdddb8624455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709999,
+            "locality_id":1226565213,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1226565213,
+    "wof:lastmodified":1537708266,
+    "wof:name":"Yukari Eyerci",
+    "wof:parent_id":1108709999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.54949000000001,
+    39.49185,
+    34.54949000000001,
+    39.49185
+],
+  "geometry": {"coordinates":[34.54949000000001,39.49185],"type":"Point"}
+}

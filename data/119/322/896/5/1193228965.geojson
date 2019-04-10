@@ -1,0 +1,67 @@
+{
+  "id": 1193228965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.18489,41.06997,39.18489,41.06997",
+    "geom:latitude":41.06997,
+    "geom:longitude":39.18489,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Denizli",
+    "gn:country_code":"TR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748358,
+    "gn:latitude":41.06997,
+    "gn:longitude":39.18489,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Denizli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679383,
+        890460231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748358
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"35c76e2a0f31a9ec5c035f1f7241d500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460231,
+            "locality_id":1193228965,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":1193228965,
+    "wof:lastmodified":1536367317,
+    "wof:name":"Denizli",
+    "wof:parent_id":890460231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.18489,
+    41.06997,
+    39.18489,
+    41.06997
+],
+  "geometry": {"coordinates":[39.18489,41.06997],"type":"Point"}
+}

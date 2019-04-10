@@ -1,0 +1,73 @@
+{
+  "id": 1259424109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.94029,37.03819,34.94029,37.03819",
+    "geom:latitude":37.03819,
+    "geom:longitude":34.94029,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Eskisehir",
+    "gn:country_code":"TR",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297065,
+    "gn:latitude":37.03819,
+    "gn:longitude":34.94029,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Eski\u015fehir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eski\u015fehir"
+    ],
+    "name:tur_x_variant":[
+        "Yenik\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890463423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297065
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aef00c1c2907d06f7209df67920de23e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463423,
+            "locality_id":1259424109,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1259424109,
+    "wof:lastmodified":1537706592,
+    "wof:name":"Eskisehir",
+    "wof:parent_id":890463423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.94029,
+    37.03819,
+    34.94029,
+    37.03819
+],
+  "geometry": {"coordinates":[34.94029,37.03819],"type":"Point"}
+}

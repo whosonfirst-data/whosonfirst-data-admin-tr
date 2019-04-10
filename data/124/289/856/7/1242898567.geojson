@@ -1,0 +1,67 @@
+{
+  "id": 1242898567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00247,41.05161,33.00247,41.05161",
+    "geom:latitude":41.05161,
+    "geom:longitude":33.00247,
+    "gn:admin1_code":"89",
+    "gn:asciiname":"Hoca",
+    "gn:country_code":"TR",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8029535,
+    "gn:latitude":41.05161,
+    "gn:longitude":33.00247,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Hoca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        890464155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8029535
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e9e6e05bca37576682c08500648c93e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464155,
+            "locality_id":1242898567,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1242898567,
+    "wof:lastmodified":1537095139,
+    "wof:name":"Hoca",
+    "wof:parent_id":890464155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00247,
+    41.05161,
+    33.00247,
+    41.05161
+],
+  "geometry": {"coordinates":[33.00247,41.05161],"type":"Point"}
+}

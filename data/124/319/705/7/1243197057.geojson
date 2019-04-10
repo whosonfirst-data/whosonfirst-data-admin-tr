@@ -1,0 +1,67 @@
+{
+  "id": 1243197057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.74867,39.95217,33.74867,39.95217",
+    "geom:latitude":39.95217,
+    "geom:longitude":33.74867,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Eldelek",
+    "gn:country_code":"TR",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315783,
+    "gn:latitude":39.95217,
+    "gn:longitude":33.74867,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Eldelek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679447,
+        1108709351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315783
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6d5cd371c36a4c595348dd1f88a62724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709351,
+            "locality_id":1243197057,
+            "region_id":85679447
+        }
+    ],
+    "wof:id":1243197057,
+    "wof:lastmodified":1536668161,
+    "wof:name":"Eldelek",
+    "wof:parent_id":1108709351,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.74867,
+    39.95217,
+    33.74867,
+    39.95217
+],
+  "geometry": {"coordinates":[33.74867,39.95217],"type":"Point"}
+}

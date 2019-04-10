@@ -1,0 +1,76 @@
+{
+  "id": 890461489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.11361,38.41444,32.11361,38.41444",
+    "geom:latitude":38.41444,
+    "geom:longitude":32.11361,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u00c7erkezatland\u0131"
+    ],
+    "qs:name":"Mahmuriye",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Konya",
+    "qs:photos":362,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":362,
+    "qs:photos_sr":6,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85679425,
+        85632393,
+        890464137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304985,
+        "gp:id":56042671,
+        "qs:id":421351
+    },
+    "wof:country":"TR",
+    "wof:created":1469053353,
+    "wof:geomhash":"400f1c599e31d59d97c561211fb88392",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464137,
+            "neighbourhood_id":890461489,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":890461489,
+    "wof:lastmodified":1505343686,
+    "wof:name":"Mahmuriye",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.11361,
+    38.41444,
+    32.11361,
+    38.41444
+],
+  "geometry": {"coordinates":[32.11361,38.41444],"type":"Point"}
+}

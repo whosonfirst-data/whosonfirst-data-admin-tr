@@ -1,0 +1,70 @@
+{
+  "id": 1276215143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.69042,39.55238,28.69042,39.55238",
+    "geom:latitude":39.55238,
+    "geom:longitude":28.69042,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Beyel",
+    "gn:country_code":"TR",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321260,
+    "gn:latitude":39.55238,
+    "gn:longitude":28.69042,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Beyel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Beyel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321260
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cc99b1f7056fbe224c49ccfe3d6449c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709459,
+            "locality_id":1276215143,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1276215143,
+    "wof:lastmodified":1537707374,
+    "wof:name":"Beyel",
+    "wof:parent_id":1108709459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.69042,
+    39.55238,
+    28.69042,
+    39.55238
+],
+  "geometry": {"coordinates":[28.69042,39.55238],"type":"Point"}
+}

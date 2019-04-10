@@ -1,0 +1,67 @@
+{
+  "id": 1209238291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.37614,38.76852,41.37614,38.76852",
+    "geom:latitude":38.76852,
+    "geom:longitude":41.37614,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Toprakkale",
+    "gn:country_code":"TR",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306689,
+    "gn:latitude":38.76852,
+    "gn:longitude":41.37614,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Toprakkale",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Komlar"
+    ],
+    "name:tur_x_variant":[
+        "Toprakkale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306689
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"674cba09cf13cca3dc0ad1ea81da6359",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209238291
+        }
+    ],
+    "wof:id":1209238291,
+    "wof:lastmodified":1537706915,
+    "wof:name":"Toprakkale",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.37614,
+    38.76852,
+    41.37614,
+    38.76852
+],
+  "geometry": {"coordinates":[41.37614,38.76852],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209334735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.29987,36.59209,32.29987,36.59209",
+    "geom:latitude":36.59209,
+    "geom:longitude":32.29987,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Alacami",
+    "gn:country_code":"TR",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324310,
+    "gn:latitude":36.59209,
+    "gn:longitude":32.29987,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ala\u00e7ami",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimalacami",
+        "Ala\u00e7am",
+        "Ala\u00e7ami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324310
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a242d01f2ad3493c0919f426fee0e10b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209334735
+        }
+    ],
+    "wof:id":1209334735,
+    "wof:lastmodified":1537707476,
+    "wof:name":"Alacami",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.29987,
+    36.59209,
+    32.29987,
+    36.59209
+],
+  "geometry": {"coordinates":[32.29987,36.59209],"type":"Point"}
+}

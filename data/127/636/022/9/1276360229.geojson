@@ -1,0 +1,67 @@
+{
+  "id": 1276360229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.04497,37.30598,35.04497,37.30598",
+    "geom:latitude":37.30598,
+    "geom:longitude":35.04497,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Nergizlik",
+    "gn:country_code":"TR",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303842,
+    "gn:latitude":37.30598,
+    "gn:longitude":35.04497,
+    "gn:modification_date":"2001-02-02",
+    "gn:name":"Nergizlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        890461559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303842
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"020fceb15569cce55796b200b7791844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461559,
+            "locality_id":1276360229,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1276360229,
+    "wof:lastmodified":1536742357,
+    "wof:name":"Nergizlik",
+    "wof:parent_id":890461559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.04497,
+    37.30598,
+    35.04497,
+    37.30598
+],
+  "geometry": {"coordinates":[35.04497,37.30598],"type":"Point"}
+}

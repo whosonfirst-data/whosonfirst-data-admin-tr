@@ -1,0 +1,67 @@
+{
+  "id": 1360209341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.57809,39.99611,43.57809,39.99611",
+    "geom:latitude":39.99611,
+    "geom:longitude":43.57809,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Goktasi",
+    "gn:country_code":"TR",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7509648,
+    "gn:latitude":39.99611,
+    "gn:longitude":43.57809,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"G\u00f6kta\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7509648
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f73713128d735b7cc37265f6b4b007b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":1360209341,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1360209341,
+    "wof:lastmodified":1536766895,
+    "wof:name":"Goktasi",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.57809,
+    39.99611,
+    43.57809,
+    39.99611
+],
+  "geometry": {"coordinates":[43.57809,39.99611],"type":"Point"}
+}

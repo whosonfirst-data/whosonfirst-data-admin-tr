@@ -1,0 +1,65 @@
+{
+  "id": 1209440499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.42461,39.02931,39.42461,39.02931",
+    "geom:latitude":39.02931,
+    "geom:longitude":39.42461,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Dolukup",
+    "gn:country_code":"TR",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316341,
+    "gn:latitude":39.02931,
+    "gn:longitude":39.42461,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Doluk\u00fcp",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merho",
+        "Doluk\u00fcp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316341
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c9d9cb6534e6f0edf9902c698caa49d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440499
+        }
+    ],
+    "wof:id":1209440499,
+    "wof:lastmodified":1537707215,
+    "wof:name":"Dolukup",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.42461,
+    39.02931,
+    39.42461,
+    39.02931
+],
+  "geometry": {"coordinates":[39.42461,39.02931],"type":"Point"}
+}

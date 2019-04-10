@@ -1,0 +1,71 @@
+{
+  "id": 1344003175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.42748,37.70665,31.42748,37.70665",
+    "geom:latitude":37.70665,
+    "geom:longitude":31.42748,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Golkonak",
+    "gn:country_code":"TR",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297175,
+    "gn:latitude":37.70665,
+    "gn:longitude":31.42748,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"G\u00f6lkonak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6lkonak",
+        "Yenice"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890461205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297175
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"586ba0d472972975ba261367b04a4a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461205,
+            "locality_id":1344003175,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":1344003175,
+    "wof:lastmodified":1537706595,
+    "wof:name":"Golkonak",
+    "wof:parent_id":890461205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.42748,
+    37.70665,
+    31.42748,
+    37.70665
+],
+  "geometry": {"coordinates":[31.42748,37.70665],"type":"Point"}
+}

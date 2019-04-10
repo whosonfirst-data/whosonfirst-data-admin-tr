@@ -1,0 +1,73 @@
+{
+  "id": 1209840441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.45421,37.15725,40.45421,37.15725",
+    "geom:latitude":37.15725,
+    "geom:longitude":40.45421,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Demirci",
+    "gn:country_code":"TR",
+    "gn:dem":468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":317251,
+    "gn:latitude":37.15725,
+    "gn:longitude":40.45421,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Demirci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Demirci"
+    ],
+    "name:und_x_variant":[
+        "Hadidi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317251
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83c285bca3e481e1b416de628d9773dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":1209840441,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1209840441,
+    "wof:lastmodified":1537707245,
+    "wof:name":"Demirci",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.45421,
+    37.15725,
+    40.45421,
+    37.15725
+],
+  "geometry": {"coordinates":[40.45421,37.15725],"type":"Point"}
+}

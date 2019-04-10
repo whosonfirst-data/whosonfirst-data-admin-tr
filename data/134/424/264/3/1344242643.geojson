@@ -1,0 +1,67 @@
+{
+  "id": 1344242643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.48706,36.24218,32.48706,36.24218",
+    "geom:latitude":36.24218,
+    "geom:longitude":32.48706,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cile",
+    "gn:country_code":"TR",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8068878,
+    "gn:latitude":36.24218,
+    "gn:longitude":32.48706,
+    "gn:modification_date":"2011-12-08",
+    "gn:name":"\u00c7ile",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890461675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8068878
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0079260ea3461bf810fddd1c2fdd3932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461675,
+            "locality_id":1344242643,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1344242643,
+    "wof:lastmodified":1536610090,
+    "wof:name":"Cile",
+    "wof:parent_id":890461675,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48706,
+    36.24218,
+    32.48706,
+    36.24218
+],
+  "geometry": {"coordinates":[32.48706,36.24218],"type":"Point"}
+}

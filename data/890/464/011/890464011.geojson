@@ -1,0 +1,89 @@
+{
+  "id": 890464011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.26778,37.37556,27.26778,37.37556",
+    "geom:latitude":37.37556,
+    "geom:longitude":27.26778,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":26000,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Didim"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0438\u0434\u0438\u043c\u044b"
+    ],
+    "name:tur_x_preferred":[
+        "Yenihisar"
+    ],
+    "name:tur_x_variant":[
+        "Didim"
+    ],
+    "name:unk_x_variant":[
+        "Yoran"
+    ],
+    "qs:name":"Yenihisar",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ayd\u0131n",
+    "qs:photos":148,
+    "qs:photos_1k":30,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":148,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297090,
+        "gp:id":2344514,
+        "qs:id":1256497
+    },
+    "wof:country":"TR",
+    "wof:created":1469053451,
+    "wof:geomhash":"fdf06d93dac55521b8bcc3ab163b58be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709445,
+            "locality_id":890464011,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":890464011,
+    "wof:lastmodified":1505343696,
+    "wof:name":"Yenihisar",
+    "wof:parent_id":1108709445,
+    "wof:placetype":"locality",
+    "wof:population":26000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.26778,
+    37.37556,
+    27.26778,
+    37.37556
+],
+  "geometry": {"coordinates":[27.26778,37.37556],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360269275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.39187,37.60814,28.39187,37.60814",
+    "geom:latitude":37.60814,
+    "geom:longitude":28.39187,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Dumen",
+    "gn:country_code":"TR",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201520,
+    "gn:latitude":37.60814,
+    "gn:longitude":28.39187,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"D\u00fcmen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "D\u00fcmen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890463273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201520
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"94debff05fadd6113b3b3d071678e212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463273,
+            "locality_id":1360269275,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1360269275,
+    "wof:lastmodified":1537708358,
+    "wof:name":"Dumen",
+    "wof:parent_id":890463273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.39187,
+    37.60814,
+    28.39187,
+    37.60814
+],
+  "geometry": {"coordinates":[28.39187,37.60814],"type":"Point"}
+}

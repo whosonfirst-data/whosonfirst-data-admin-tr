@@ -1,0 +1,67 @@
+{
+  "id": 1276998151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47367,41.20206,31.47367,41.20206",
+    "geom:latitude":41.20206,
+    "geom:longitude":31.47367,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Ketenciler",
+    "gn:country_code":"TR",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042680,
+    "gn:latitude":41.20206,
+    "gn:longitude":31.47367,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Ketenciler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890462743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042680
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"56f8269a2fa099aab3ea40792b742249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462743,
+            "locality_id":1276998151,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1276998151,
+    "wof:lastmodified":1536881892,
+    "wof:name":"Ketenciler",
+    "wof:parent_id":890462743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47367,
+    41.20206,
+    31.47367,
+    41.20206
+],
+  "geometry": {"coordinates":[31.47367,41.20206],"type":"Point"}
+}

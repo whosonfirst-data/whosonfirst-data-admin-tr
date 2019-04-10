@@ -1,0 +1,70 @@
+{
+  "id": 1343945147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.76696,40.00535,29.76696,40.00535",
+    "geom:latitude":40.00535,
+    "geom:longitude":29.76696,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Gude",
+    "gn:country_code":"TR",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8273482,
+    "gn:latitude":40.00535,
+    "gn:longitude":29.76696,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"G\u00fcde",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        890462021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8273482
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bc512ad0b3b998401c972dddb9bf2dcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462021,
+            "locality_id":1343945147,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1343945147,
+    "wof:lastmodified":1537708281,
+    "wof:name":"Gude",
+    "wof:parent_id":890462021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.76696,
+    40.00535,
+    29.76696,
+    40.00535
+],
+  "geometry": {"coordinates":[29.76696,40.00535],"type":"Point"}
+}

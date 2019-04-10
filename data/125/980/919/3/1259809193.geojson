@@ -1,0 +1,73 @@
+{
+  "id": 1259809193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08806,39.86219,33.08806,39.86219",
+    "geom:latitude":39.86219,
+    "geom:longitude":33.08806,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Kutludugun Yaylasi",
+    "gn:country_code":"TR",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321776,
+    "gn:latitude":39.86219,
+    "gn:longitude":33.08806,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kutlud\u00fc\u011f\u00fcn Yaylas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kutlud\u00fc\u011f\u00fcn Yaylas\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Bay\u0131nd\u0131r Yaylas\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890462777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321776
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"83ccf40adce56d5be78477e7f7040d30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462777,
+            "locality_id":1259809193,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1259809193,
+    "wof:lastmodified":1537707391,
+    "wof:name":"Kutludugun Yaylasi",
+    "wof:parent_id":890462777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08806,
+    39.86219000000001,
+    33.08806,
+    39.86219000000001
+],
+  "geometry": {"coordinates":[33.08806,39.86219000000001],"type":"Point"}
+}

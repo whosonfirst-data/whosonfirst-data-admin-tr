@@ -1,0 +1,70 @@
+{
+  "id": 1243560945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3,38.43333,30.3,38.43333",
+    "geom:latitude":38.43333,
+    "geom:longitude":30.3,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Selcik",
+    "gn:country_code":"TR",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301259,
+    "gn:latitude":38.43333,
+    "gn:longitude":30.3,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sel\u00e7ik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sel\u00e7ik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301259
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"86142b1067c5250e3f3d94d8bdcfd5ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461685,
+            "locality_id":1243560945,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1243560945,
+    "wof:lastmodified":1537706736,
+    "wof:name":"Selcik",
+    "wof:parent_id":890461685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3,
+    38.43333,
+    30.3,
+    38.43333
+],
+  "geometry": {"coordinates":[30.3,38.43333],"type":"Point"}
+}

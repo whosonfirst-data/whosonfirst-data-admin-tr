@@ -1,0 +1,64 @@
+{
+  "id": 1209055281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84079,36.10934,32.84079,36.10934",
+    "geom:latitude":36.10934,
+    "geom:longitude":32.84079,
+    "gn:admin1_code":"32.0",
+    "gn:asciiname":"Koprubasi",
+    "gn:country_code":"TR",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7850606,
+    "gn:latitude":36.10934,
+    "gn:longitude":32.84079,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"K\u00f6pr\u00fcba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00f6pr\u00fcba\u015f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7850606
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1103924a4ee37b7905b20808a19d64a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209055281
+        }
+    ],
+    "wof:id":1209055281,
+    "wof:lastmodified":1537708273,
+    "wof:name":"Koprubasi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84079000000001,
+    36.10934,
+    32.84079000000001,
+    36.10934
+],
+  "geometry": {"coordinates":[32.84079000000001,36.10934],"type":"Point"}
+}

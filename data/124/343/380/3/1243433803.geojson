@@ -1,0 +1,71 @@
+{
+  "id": 1243433803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.71223,39.23357,40.71223,39.23357",
+    "geom:latitude":39.23357,
+    "geom:longitude":40.71223,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Feruz",
+    "gn:country_code":"TR",
+    "gn:dem":2029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314972,
+    "gn:latitude":39.23357,
+    "gn:longitude":40.71223,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Feruz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fars",
+        "Feruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        1108709239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314972
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"73c78026ca8a9b76141d4cea92fa5a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709239,
+            "locality_id":1243433803,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1243433803,
+    "wof:lastmodified":1537707173,
+    "wof:name":"Feruz",
+    "wof:parent_id":1108709239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.71223,
+    39.23357,
+    40.71223,
+    39.23357
+],
+  "geometry": {"coordinates":[40.71223,39.23357],"type":"Point"}
+}

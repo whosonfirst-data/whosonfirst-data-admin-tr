@@ -1,0 +1,67 @@
+{
+  "id": 1193066135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.72152,39.13076,33.72152,39.13076",
+    "geom:latitude":39.13076,
+    "geom:longitude":33.72152,
+    "gn:admin1_code":"40",
+    "gn:asciiname":"Tokluman",
+    "gn:country_code":"TR",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299075,
+    "gn:latitude":39.13076,
+    "gn:longitude":33.72152,
+    "gn:modification_date":"2002-11-13",
+    "gn:name":"Tokluman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679317,
+        890461355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299075
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3ff80565ec930699d552b32f9fe308a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461355,
+            "locality_id":1193066135,
+            "region_id":85679317
+        }
+    ],
+    "wof:id":1193066135,
+    "wof:lastmodified":1536372757,
+    "wof:name":"Tokluman",
+    "wof:parent_id":890461355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.72152,
+    39.13076,
+    33.72152,
+    39.13076
+],
+  "geometry": {"coordinates":[33.72152,39.13076],"type":"Point"}
+}

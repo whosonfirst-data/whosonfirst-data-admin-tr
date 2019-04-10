@@ -1,0 +1,63 @@
+{
+  "id": 1108950715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7807528997,41.0116142951,28.7807528997,41.0116142951",
+    "geom:latitude":41.011614,
+    "geom:longitude":28.780753,
+    "iso:country":"TR",
+    "lbl:latitude":41.011614,
+    "lbl:longitude":28.780753,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912655,
+        1108709309,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368598,
+    "wof:geomhash":"c8bdb0f28cdf7f372ef9ed500254656a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709309,
+            "locality_id":101912655,
+            "neighbourhood_id":1108950715,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950715,
+    "wof:lastmodified":1492123985,
+    "wof:name":"Kanarya",
+    "wof:parent_id":101912655,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.78075289974294,
+    41.01161429510484,
+    28.78075289974294,
+    41.01161429510484
+],
+  "geometry": {"coordinates":[28.78075289974294,41.01161429510484],"type":"Point"}
+}

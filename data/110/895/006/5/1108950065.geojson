@@ -1,0 +1,66 @@
+{
+  "id": 1108950065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9729792206,41.0712093982,28.9729792206,41.0712093982",
+    "geom:latitude":41.071209,
+    "geom:longitude":28.972979,
+    "iso:country":"TR",
+    "lbl:latitude":41.071209,
+    "lbl:longitude":28.972979,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "G\u00fcrsel"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912685,
+        890461743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368103,
+    "wof:geomhash":"645fbce2a03f306b5e4edb704d63ea04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461743,
+            "locality_id":101912685,
+            "neighbourhood_id":1108950065,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950065,
+    "wof:lastmodified":1497292378,
+    "wof:name":"Gursel",
+    "wof:parent_id":101912685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9729792206152,
+    41.07120939819745,
+    28.9729792206152,
+    41.07120939819745
+],
+  "geometry": {"coordinates":[28.9729792206152,41.07120939819745],"type":"Point"}
+}

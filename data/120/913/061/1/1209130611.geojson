@@ -1,0 +1,64 @@
+{
+  "id": 1209130611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.94309,36.94075,28.94309,36.94075",
+    "geom:latitude":36.94075,
+    "geom:longitude":28.94309,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Calti",
+    "gn:country_code":"TR",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319744,
+    "gn:latitude":36.94075,
+    "gn:longitude":28.94309,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"\u00c7alt\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7alt\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319744
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"53b26de1aeee6b4b12c0a310dc346978",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209130611
+        }
+    ],
+    "wof:id":1209130611,
+    "wof:lastmodified":1537707327,
+    "wof:name":"Calti",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94309,
+    36.94075,
+    28.94309,
+    36.94075
+],
+  "geometry": {"coordinates":[28.94309,36.94075],"type":"Point"}
+}

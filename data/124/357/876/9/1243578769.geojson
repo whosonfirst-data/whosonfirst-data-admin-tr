@@ -1,0 +1,74 @@
+{
+  "id": 1243578769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47017,40.02101,33.47017,40.02101",
+    "geom:latitude":40.02101,
+    "geom:longitude":33.47017,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Samanlikkoy",
+    "gn:country_code":"TR",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751679,
+    "gn:latitude":40.02101,
+    "gn:longitude":33.47017,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Samanl\u0131kk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Samanl\u0131kk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Samanl\u0131k",
+        "A\u015fa\u011f\u0131samanl\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751679
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4c9048480f4b7f6b3fc08266d2dd7d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709611,
+            "locality_id":1243578769,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1243578769,
+    "wof:lastmodified":1537708111,
+    "wof:name":"Samanlikkoy",
+    "wof:parent_id":1108709611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47017,
+    40.02101,
+    33.47017,
+    40.02101
+],
+  "geometry": {"coordinates":[33.47017,40.02101],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343983621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.49881,40.19617,39.49881,40.19617",
+    "geom:latitude":40.19617,
+    "geom:longitude":39.49881,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Gudul",
+    "gn:country_code":"TR",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746498,
+    "gn:latitude":40.19617,
+    "gn:longitude":39.49881,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00fcd\u00fcl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6d\u00fcl",
+        "G\u00fcd\u00fcl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890463525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746498
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"000564707a6d6cdd4ea75256d7026177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463525,
+            "locality_id":1343983621,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1343983621,
+    "wof:lastmodified":1537707928,
+    "wof:name":"Gudul",
+    "wof:parent_id":890463525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.49881,
+    40.19617,
+    39.49881,
+    40.19617
+],
+  "geometry": {"coordinates":[39.49881,40.19617],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209740857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.91268,40.7886,30.91268,40.7886",
+    "geom:latitude":40.7886,
+    "geom:longitude":30.91268,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Hidirli",
+    "gn:country_code":"TR",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140724,
+    "gn:latitude":40.7886,
+    "gn:longitude":30.91268,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"H\u0131d\u0131rl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        1108709529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140724
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf69b8970c3faf4e0c68f4e080f89587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709529,
+            "locality_id":1209740857,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1209740857,
+    "wof:lastmodified":1536368474,
+    "wof:name":"Hidirli",
+    "wof:parent_id":1108709529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.91268,
+    40.7886,
+    30.91268,
+    40.7886
+],
+  "geometry": {"coordinates":[30.91268,40.7886],"type":"Point"}
+}

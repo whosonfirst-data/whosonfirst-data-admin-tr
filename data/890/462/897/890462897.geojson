@@ -1,0 +1,68 @@
+{
+  "id": 890462897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.92983,37.33388,40.92983,37.33388",
+    "geom:latitude":37.33388,
+    "geom:longitude":40.92983,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":1571,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaynakkaya"
+    ],
+    "qs:name":"Kaynakkaya",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108710073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308496,
+        "qs:id":80059
+    },
+    "wof:country":"TR",
+    "wof:created":1469053408,
+    "wof:geomhash":"d092255ddb4de5b6d2fb4da9534f8ecf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710073,
+            "locality_id":890462897,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890462897,
+    "wof:lastmodified":1505343691,
+    "wof:name":"Kaynakkaya",
+    "wof:parent_id":1108710073,
+    "wof:placetype":"locality",
+    "wof:population":1571,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.92983,
+    37.33388,
+    40.92983,
+    37.33388
+],
+  "geometry": {"coordinates":[40.92983,37.33388],"type":"Point"}
+}

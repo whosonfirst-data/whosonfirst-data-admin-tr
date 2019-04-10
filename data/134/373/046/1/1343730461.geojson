@@ -1,0 +1,70 @@
+{
+  "id": 1343730461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.22139,38.53831,40.22139,38.53831",
+    "geom:latitude":38.53831,
+    "geom:longitude":40.22139,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Karakas",
+    "gn:country_code":"TR",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309749,
+    "gn:latitude":38.53831,
+    "gn:longitude":40.22139,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Karaka\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karaka\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309749
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3a6d9ec3f61eda00e12f20cf59522baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709287,
+            "locality_id":1343730461,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1343730461,
+    "wof:lastmodified":1537707005,
+    "wof:name":"Karakas",
+    "wof:parent_id":1108709287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.22139,
+    38.53831,
+    40.22139,
+    38.53831
+],
+  "geometry": {"coordinates":[40.22139,38.53831],"type":"Point"}
+}

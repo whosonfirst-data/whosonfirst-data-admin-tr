@@ -1,0 +1,76 @@
+{
+  "id": 1343875053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03111,37.375,28.03111,37.375",
+    "geom:latitude":37.375,
+    "geom:longitude":28.03111,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Turgut",
+    "gn:country_code":"TR",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":298816,
+    "gn:latitude":37.375,
+    "gn:longitude":28.03111,
+    "gn:modification_date":"2013-09-08",
+    "gn:name":"Turgut",
+    "gn:population":2065,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Leyna",
+        "Leyne",
+        "Turgut"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298816,
+        "wk:page":"Turgut%2C_Mu%C4%9Fla"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8f33a400581394b33ad7c6106819b1e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462539,
+            "locality_id":1343875053,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1343875053,
+    "wof:lastmodified":1537706653,
+    "wof:name":"Turgut",
+    "wof:parent_id":890462539,
+    "wof:placetype":"locality",
+    "wof:population":2065,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03111,
+    37.375,
+    28.03111,
+    37.375
+],
+  "geometry": {"coordinates":[28.03111,37.375],"type":"Point"}
+}

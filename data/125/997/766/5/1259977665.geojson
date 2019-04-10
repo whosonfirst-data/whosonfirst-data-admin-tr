@@ -1,0 +1,67 @@
+{
+  "id": 1259977665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74547,40.4702,35.74547,40.4702",
+    "geom:latitude":40.4702,
+    "geom:longitude":35.74547,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Musakoy",
+    "gn:country_code":"TR",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741412,
+    "gn:latitude":40.4702,
+    "gn:longitude":35.74547,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Musak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890463241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741412
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6eda3d6fcf08bf77c359d6a3e7572c32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463241,
+            "locality_id":1259977665,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1259977665,
+    "wof:lastmodified":1536642808,
+    "wof:name":"Musakoy",
+    "wof:parent_id":890463241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74547000000001,
+    40.4702,
+    35.74547000000001,
+    40.4702
+],
+  "geometry": {"coordinates":[35.74547000000001,40.4702],"type":"Point"}
+}

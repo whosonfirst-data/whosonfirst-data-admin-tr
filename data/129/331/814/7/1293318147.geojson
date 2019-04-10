@@ -1,0 +1,67 @@
+{
+  "id": 1293318147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58694,38.905,32.58694,38.905",
+    "geom:latitude":38.905,
+    "geom:longitude":32.58694,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Kelhasan",
+    "gn:country_code":"TR",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308258,
+    "gn:latitude":38.905,
+    "gn:longitude":32.58694,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Kelhasan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890460979
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308258
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8e9ef34da2f31b9c894934e2ff5eb90d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460979,
+            "locality_id":1293318147,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1293318147,
+    "wof:lastmodified":1537029914,
+    "wof:name":"Kelhasan",
+    "wof:parent_id":890460979,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58694000000001,
+    38.905,
+    32.58694000000001,
+    38.905
+],
+  "geometry": {"coordinates":[32.58694000000001,38.905],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293026375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77533,36.99923,32.77533,36.99923",
+    "geom:latitude":36.99923,
+    "geom:longitude":32.77533,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Gognukkisla",
+    "gn:country_code":"TR",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313886,
+    "gn:latitude":36.99923,
+    "gn:longitude":32.77533,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6\u011fn\u00fckk\u0131\u015fla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "C\u00f6yn\u00fckk\u0131\u015fla",
+        "G\u00f6yn\u00fckk\u0131\u015fla",
+        "G\u00f6\u011fn\u00fckk\u0131\u015fla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        1108709555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313886
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"106c1adc8109d45763ab5f6181737737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709555,
+            "locality_id":1293026375,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1293026375,
+    "wof:lastmodified":1537707139,
+    "wof:name":"Gognukkisla",
+    "wof:parent_id":1108709555,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77533,
+    36.99923,
+    32.77533,
+    36.99923
+],
+  "geometry": {"coordinates":[32.77533,36.99923],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209267509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.3246,39.27682,27.3246,39.27682",
+    "geom:latitude":39.27682,
+    "geom:longitude":27.3246,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Turanli",
+    "gn:country_code":"TR",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":316960,
+    "gn:latitude":39.27682,
+    "gn:longitude":27.3246,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Turanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turanl\u0131",
+        "Derek\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316960
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c67662364d77f2d1cda76f8ab6e211c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209267509
+        }
+    ],
+    "wof:id":1209267509,
+    "wof:lastmodified":1537707236,
+    "wof:name":"Turanli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.3246,
+    39.27682,
+    27.3246,
+    39.27682
+],
+  "geometry": {"coordinates":[27.3246,39.27682],"type":"Point"}
+}

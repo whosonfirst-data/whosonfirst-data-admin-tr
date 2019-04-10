@@ -1,0 +1,76 @@
+{
+  "id": 890459583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62252,39.82979,30.62252,39.82979",
+    "geom:latitude":39.82979,
+    "geom:longitude":30.62252,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Cumhuriyet",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Sakarya",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":1126,
+    "wof:belongsto":[
+        102191569,
+        85679255,
+        85632393,
+        1108709923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8245945,
+        "gp:id":56042869,
+        "qs:id":908080,
+        "wd:id":"Q1143794",
+        "wk:page":"Cumhuriyet"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053274,
+    "wof:geomhash":"53a860946d9d5cbca500f791761cf41d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709923,
+            "neighbourhood_id":890459583,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":890459583,
+    "wof:lastmodified":1527793005,
+    "wof:name":"Cumhuriyet",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62252,
+    39.82979,
+    30.62252,
+    39.82979
+],
+  "geometry": {"coordinates":[30.62252,39.82979],"type":"Point"}
+}

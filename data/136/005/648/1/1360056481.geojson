@@ -1,0 +1,71 @@
+{
+  "id": 1360056481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.60617,38.33069,42.60617,38.33069",
+    "geom:latitude":38.33069,
+    "geom:longitude":42.60617,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Sallica",
+    "gn:country_code":"TR",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302020,
+    "gn:latitude":38.33069,
+    "gn:longitude":42.60617,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Sall\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kancas",
+        "Sall\u0131ca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890461715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302020
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dc547d2452890929694cbbd9946bec43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461715,
+            "locality_id":1360056481,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1360056481,
+    "wof:lastmodified":1537706760,
+    "wof:name":"Sallica",
+    "wof:parent_id":890461715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.60617,
+    38.33069,
+    42.60617,
+    38.33069
+],
+  "geometry": {"coordinates":[42.60617,38.33069],"type":"Point"}
+}

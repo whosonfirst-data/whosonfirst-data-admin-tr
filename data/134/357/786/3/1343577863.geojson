@@ -1,0 +1,67 @@
+{
+  "id": 1343577863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.53333,36.96667,36.53333,36.96667",
+    "geom:latitude":36.96667,
+    "geom:longitude":36.53333,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Kerkut",
+    "gn:country_code":"TR",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308101,
+    "gn:latitude":36.96667,
+    "gn:longitude":36.53333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kerk\u00fct",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308101
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"81297ef2e6b584e65367c168bb425526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709219,
+            "locality_id":1343577863,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1343577863,
+    "wof:lastmodified":1537071286,
+    "wof:name":"Kerkut",
+    "wof:parent_id":1108709219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.53333,
+    36.96667,
+    36.53333,
+    36.96667
+],
+  "geometry": {"coordinates":[36.53333,36.96667],"type":"Point"}
+}

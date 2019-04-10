@@ -1,0 +1,72 @@
+{
+  "id": 1260209165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.22197,39.06057,43.22197,39.06057",
+    "geom:latitude":39.06057,
+    "geom:longitude":43.22197,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Yoldere",
+    "gn:country_code":"TR",
+    "gn:dem":1743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296626,
+    "gn:latitude":39.06057,
+    "gn:longitude":43.22197,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yoldere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akrak",
+        "Ekrek",
+        "Yoldere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296626
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e186c6610924b0ca8ebc0f0a9fa3fe22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464421,
+            "locality_id":1260209165,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1260209165,
+    "wof:lastmodified":1537706577,
+    "wof:name":"Yoldere",
+    "wof:parent_id":890464421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.22197,
+    39.06057,
+    43.22197,
+    39.06057
+],
+  "geometry": {"coordinates":[43.22197,39.06057],"type":"Point"}
+}

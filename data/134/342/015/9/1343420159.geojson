@@ -1,0 +1,70 @@
+{
+  "id": 1343420159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90205,36.55618,33.90205,36.55618",
+    "geom:latitude":36.55618,
+    "geom:longitude":33.90205,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Sinan",
+    "gn:country_code":"TR",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300769,
+    "gn:latitude":36.55618,
+    "gn:longitude":33.90205,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sinan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sinan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890464483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300769
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"befe005160b77a0b10faf43c082f6186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464483,
+            "locality_id":1343420159,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1343420159,
+    "wof:lastmodified":1537706717,
+    "wof:name":"Sinan",
+    "wof:parent_id":890464483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90205,
+    36.55618,
+    33.90205,
+    36.55618
+],
+  "geometry": {"coordinates":[33.90205,36.55618],"type":"Point"}
+}

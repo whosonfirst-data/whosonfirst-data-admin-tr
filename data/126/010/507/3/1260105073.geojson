@@ -1,0 +1,70 @@
+{
+  "id": 1260105073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5838,36.66699,32.5838,36.66699",
+    "geom:latitude":36.66699,
+    "geom:longitude":32.5838,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Civler",
+    "gn:country_code":"TR",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318269,
+    "gn:latitude":36.66699,
+    "gn:longitude":32.5838,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Civler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Civler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679427,
+        1108709849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318269
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2832b1316d1dbd177e2942cf90ea0a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709849,
+            "locality_id":1260105073,
+            "region_id":85679427
+        }
+    ],
+    "wof:id":1260105073,
+    "wof:lastmodified":1537707277,
+    "wof:name":"Civler",
+    "wof:parent_id":1108709849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5838,
+    36.66699000000001,
+    32.5838,
+    36.66699000000001
+],
+  "geometry": {"coordinates":[32.5838,36.66699000000001],"type":"Point"}
+}

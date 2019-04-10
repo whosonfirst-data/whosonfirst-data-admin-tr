@@ -1,0 +1,64 @@
+{
+  "id": 1209021065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01839,41.0592,33.01839,41.0592",
+    "geom:latitude":41.0592,
+    "geom:longitude":33.01839,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Avlagikaya",
+    "gn:country_code":"TR",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751536,
+    "gn:latitude":41.0592,
+    "gn:longitude":33.01839,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Avla\u011f\u0131kaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Avla\u011f\u0131kaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751536
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f3f67e32a2dd601af33b4295a935c482",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209021065
+        }
+    ],
+    "wof:id":1209021065,
+    "wof:lastmodified":1537708106,
+    "wof:name":"Avlagikaya",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01839,
+    41.0592,
+    33.01839,
+    41.0592
+],
+  "geometry": {"coordinates":[33.01839,41.0592],"type":"Point"}
+}

@@ -1,0 +1,116 @@
+{
+  "id": 890461267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004498,
+    "geom:area_square_m":41959248.452851,
+    "geom:bbox":"29.0839473459,40.9798693783,29.1897946251,41.0624114622",
+    "geom:latitude":41.021266,
+    "geom:longitude":29.133202,
+    "gn:country":"TR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "label:eng_x_preferred_disambiguation":[
+        "\u00dcmraniye (Istanbul)"
+    ],
+    "lbl:latitude":41.017335,
+    "lbl:longitude":29.132365,
+    "meso:admin1_en":"Istanbul",
+    "meso:admin_1":"Istanbul",
+    "meso:gadm_admin":"\u00dcmraniye",
+    "meso:gadm_hasc2":"TR.IB.UM",
+    "meso:gaul_adm2":"Umraniye",
+    "meso:mps_x":29.132365,
+    "meso:mps_y":41.017335,
+    "meso:name_local":"\u00dcmraniye",
+    "meso:source":"AOTM",
+    "mps:latitude":41.017335,
+    "mps:longitude":29.132365,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "\u00dcmraniye"
+    ],
+    "name:eng_x_variant":[
+        "\u00dcmraniye"
+    ],
+    "qs:name":"\u00dcmraniye",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos":58,
+    "qs:photos_1k":12,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":863,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2007-12-31",
+    "statoids:area_km":"110",
+    "statoids:as_of_date":"2007-12-31",
+    "statoids:capital":"",
+    "statoids:country":"TR",
+    "statoids:hasc":"TR.IB",
+    "statoids:name":"\u00dcmraniye (Istanbul)",
+    "statoids:population":"897260",
+    "statoids:statoid":"TR.IB.UM",
+    "statoids:timezone":"+2~",
+    "statoids:type":"district",
+    "wd:wordcount":818,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732588,
+        "gp:id":29390841,
+        "hasc:id":"TR.IB.UM",
+        "qs:id":374480,
+        "wd:id":"Q334924",
+        "wk:page":"\u00dcmraniye"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053344,
+    "wof:geomhash":"4869020d44bb9e49d0eff4e76284fed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890461267,
+    "wof:lastmodified":1553131980,
+    "wof:name":"\u00dcmraniye",
+    "wof:parent_id":85679237,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":897260,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:shortcode":"UM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.08394734591274,
+    40.97986937827949,
+    29.18979462512744,
+    41.06241146215676
+],
+  "geometry": {"coordinates":[[[29.08628940694682,41.06241146215676],[29.1040213690959,41.05735413588274],[29.10793811879363,41.05376394485893],[29.11207663571823,41.05177886555749],[29.11666576610342,41.05028860503041],[29.12173734656358,41.04993015399708],[29.12902874693826,41.05079277665678],[29.13649465402491,41.05092091840888],[29.14056750970834,41.04936030286954],[29.14174446316473,41.04792553890435],[29.1419352085467,41.04756139598307],[29.14682643710456,41.03601060313355],[29.15301926806344,41.03469555686821],[29.16114355288055,41.03353893052645],[29.16943990111876,41.02882760836981],[29.17594154756248,41.02020023323792],[29.18080648352241,41.01291661177059],[29.18444685419883,41.00994821952661],[29.1857813659887,41.0094559368284],[29.18979462512744,40.98982317879549],[29.1882738650759,40.98211412915013],[29.18748358922528,40.97986937827949],[29.18679957434023,40.98006419560321],[29.16917525742015,40.99451878244291],[29.1639135917539,40.99418024095782],[29.15599671266022,40.99446255237228],[29.14637632880651,40.99514729775653],[29.13730557788848,40.99427407182581],[29.13035195680993,40.99310242675755],[29.12483172128744,40.99387668968828],[29.11714458021808,40.99764630037789],[29.10953752718466,41.00503643826232],[29.10545375631759,41.0118770890337],[29.10146806263549,41.01371144364774],[29.09541960980547,41.01279365541798],[29.09073273437377,41.01217989869967],[29.08936254775917,41.0120608094159],[29.08832613070497,41.01351454160245],[29.08567115351245,41.01866878920822],[29.08394734591274,41.02541638364937],[29.08511649599548,41.03016594356471],[29.08796046943661,41.03402631684945],[29.08950016885758,41.03910072353531],[29.08777899319999,41.04502863226649],[29.08628940694682,41.06241146215676]]],"type":"Polygon"}
+}

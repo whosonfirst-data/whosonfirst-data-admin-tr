@@ -1,0 +1,68 @@
+{
+  "id": 890460107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.12352,40.51783,29.12352,40.51783",
+    "geom:latitude":40.51783,
+    "geom:longitude":29.12352,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":297,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Haydariye"
+    ],
+    "qs:name":"Haydariye",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679231,
+        1108709513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745711,
+        "qs:id":83393
+    },
+    "wof:country":"TR",
+    "wof:created":1469053303,
+    "wof:geomhash":"f7a936831e100d98190c03ebe342b741",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709513,
+            "locality_id":890460107,
+            "region_id":85679231
+        }
+    ],
+    "wof:id":890460107,
+    "wof:lastmodified":1505343680,
+    "wof:name":"Haydariye",
+    "wof:parent_id":1108709513,
+    "wof:placetype":"locality",
+    "wof:population":297,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.12352,
+    40.51783,
+    29.12352,
+    40.51783
+],
+  "geometry": {"coordinates":[29.12352,40.51783],"type":"Point"}
+}

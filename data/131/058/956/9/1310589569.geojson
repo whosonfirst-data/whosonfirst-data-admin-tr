@@ -1,0 +1,70 @@
+{
+  "id": 1310589569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.96405,40.07161,27.96405,40.07161",
+    "geom:latitude":40.07161,
+    "geom:longitude":27.96405,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kayaca",
+    "gn:country_code":"TR",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743735,
+    "gn:latitude":40.07161,
+    "gn:longitude":27.96405,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kayaca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kayaca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743735
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"28fbc55f6d560348361da33385075eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709709,
+            "locality_id":1310589569,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1310589569,
+    "wof:lastmodified":1537707839,
+    "wof:name":"Kayaca",
+    "wof:parent_id":1108709709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.96405,
+    40.07161,
+    27.96405,
+    40.07161
+],
+  "geometry": {"coordinates":[27.96405,40.07161],"type":"Point"}
+}

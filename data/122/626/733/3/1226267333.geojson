@@ -1,0 +1,71 @@
+{
+  "id": 1226267333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.84316,39.51651,39.84316,39.51651",
+    "geom:latitude":39.51651,
+    "geom:longitude":39.84316,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Goneli",
+    "gn:country_code":"TR",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321801,
+    "gn:latitude":39.51651,
+    "gn:longitude":39.84316,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6neli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6neli",
+        "Bayburtlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321801
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9d4992ab2c96f17eb64869d0f20ff64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709827,
+            "locality_id":1226267333,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1226267333,
+    "wof:lastmodified":1537707392,
+    "wof:name":"Goneli",
+    "wof:parent_id":1108709827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.84316,
+    39.51651,
+    39.84316,
+    39.51651
+],
+  "geometry": {"coordinates":[39.84316,39.51651],"type":"Point"}
+}

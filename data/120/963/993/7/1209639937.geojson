@@ -1,0 +1,64 @@
+{
+  "id": 1209639937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23688,39.34996,42.23688,39.34996",
+    "geom:latitude":39.34996,
+    "geom:longitude":42.23688,
+    "gn:admin1_code":"49.0",
+    "gn:asciiname":"Duvenci",
+    "gn:country_code":"TR",
+    "gn:dem":1714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986296,
+    "gn:latitude":39.34996,
+    "gn:longitude":42.23688,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"D\u00fcvenci",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "D\u00fcvenci"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986296
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54e46bc9b49a9ff8ec77003623ad8cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209639937
+        }
+    ],
+    "wof:id":1209639937,
+    "wof:lastmodified":1537708195,
+    "wof:name":"Duvenci",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23688,
+    39.34996,
+    42.23688,
+    39.34996
+],
+  "geometry": {"coordinates":[42.23688,39.34996],"type":"Point"}
+}

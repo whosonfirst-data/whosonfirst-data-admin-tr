@@ -1,0 +1,75 @@
+{
+  "id": 890461867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70363,39.96221,32.70363,39.96221",
+    "geom:latitude":39.96221,
+    "geom:longitude":32.70363,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bat\u0131 Sitesi",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ankara",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85679409,
+        102191569,
+        85632393,
+        101912785,
+        890462771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927407,
+        "gp:id":55865180,
+        "qs:id":529843
+    },
+    "wof:country":"TR",
+    "wof:created":1469053369,
+    "wof:geomhash":"def514b0e2b82bdf29da73d6c94ab617",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462771,
+            "locality_id":101912785,
+            "neighbourhood_id":890461867,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":890461867,
+    "wof:lastmodified":1505343688,
+    "wof:name":"Bat\u0131 Sitesi",
+    "wof:parent_id":101912785,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70363,
+    39.96221,
+    32.70363,
+    39.96221
+],
+  "geometry": {"coordinates":[32.70363,39.96221],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243351801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.84306,40.15556,27.84306,40.15556",
+    "geom:latitude":40.15556,
+    "geom:longitude":27.84306,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kocagol",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742863,
+    "gn:latitude":40.15556,
+    "gn:longitude":27.84306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kocag\u00f6l",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eski Kazaklar",
+        "Kocag\u00f6l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742863
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"07111dc5e809f45fbd511f59b467d548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709709,
+            "locality_id":1243351801,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1243351801,
+    "wof:lastmodified":1537707814,
+    "wof:name":"Kocagol",
+    "wof:parent_id":1108709709,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.84306,
+    40.15556,
+    27.84306,
+    40.15556
+],
+  "geometry": {"coordinates":[27.84306,40.15556],"type":"Point"}
+}

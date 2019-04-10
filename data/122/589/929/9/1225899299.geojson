@@ -1,0 +1,72 @@
+{
+  "id": 1225899299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.78203,39.30286,41.78203,39.30286",
+    "geom:latitude":39.30286,
+    "geom:longitude":41.78203,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Bayirkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304292,
+    "gn:latitude":39.30286,
+    "gn:longitude":41.78203,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Bay\u0131rk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay\u0131r",
+        "Mi\u015fk\u00e2n",
+        "Bay\u0131rk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304292
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"37bab2538246d9da6097b84028afff2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709553,
+            "locality_id":1225899299,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1225899299,
+    "wof:lastmodified":1537706836,
+    "wof:name":"Bayirkoy",
+    "wof:parent_id":1108709553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.78203,
+    39.30286,
+    41.78203,
+    39.30286
+],
+  "geometry": {"coordinates":[41.78203,39.30286],"type":"Point"}
+}

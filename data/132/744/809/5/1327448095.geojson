@@ -1,0 +1,67 @@
+{
+  "id": 1327448095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.33333,39.08333,42.33333,39.08333",
+    "geom:latitude":39.08333,
+    "geom:longitude":42.33333,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Mescitli",
+    "gn:country_code":"TR",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304504,
+    "gn:latitude":39.08333,
+    "gn:longitude":42.33333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Mescitli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890463513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304504
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b6799f9a2235b8df87d24a2a048c8d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463513,
+            "locality_id":1327448095,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1327448095,
+    "wof:lastmodified":1536658207,
+    "wof:name":"Mescitli",
+    "wof:parent_id":890463513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.33333,
+    39.08333,
+    42.33333,
+    39.08333
+],
+  "geometry": {"coordinates":[42.33333,39.08333],"type":"Point"}
+}

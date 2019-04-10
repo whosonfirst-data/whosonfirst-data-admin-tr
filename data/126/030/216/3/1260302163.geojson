@@ -1,0 +1,70 @@
+{
+  "id": 1260302163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.79265,38.02723,43.79265,38.02723",
+    "geom:latitude":38.02723,
+    "geom:longitude":43.79265,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Tutak",
+    "gn:country_code":"TR",
+    "gn:dem":2681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9815322,
+    "gn:latitude":38.02723,
+    "gn:longitude":43.79265,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Tutak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tutak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890461373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9815322
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"40206e1fb3077ec9871168f753855ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461373,
+            "locality_id":1260302163,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1260302163,
+    "wof:lastmodified":1537708307,
+    "wof:name":"Tutak",
+    "wof:parent_id":890461373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.79265,
+    38.02723,
+    43.79265,
+    38.02723
+],
+  "geometry": {"coordinates":[43.79265,38.02723],"type":"Point"}
+}

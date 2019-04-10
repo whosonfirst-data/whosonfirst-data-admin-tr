@@ -1,0 +1,72 @@
+{
+  "id": 1226703145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15,38.2,28.15,38.2",
+    "geom:latitude":38.2,
+    "geom:longitude":28.15,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Yeni Mahalle",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296955,
+    "gn:latitude":38.2,
+    "gn:longitude":28.15,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yeni Mahalle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uzundere",
+        "Yeni Mahalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296955
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"df4cbff8afb8ca843a6703930e26a651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461543,
+            "locality_id":1226703145,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1226703145,
+    "wof:lastmodified":1537706588,
+    "wof:name":"Yeni Mahalle",
+    "wof:parent_id":890461543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15,
+    38.2,
+    28.15,
+    38.2
+],
+  "geometry": {"coordinates":[28.15,38.2],"type":"Point"}
+}

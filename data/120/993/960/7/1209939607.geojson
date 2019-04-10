@@ -1,0 +1,67 @@
+{
+  "id": 1209939607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37422,37.45096,36.37422,37.45096",
+    "geom:latitude":37.45096,
+    "geom:longitude":36.37422,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Kuzgun",
+    "gn:country_code":"TR",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305164,
+    "gn:latitude":37.45096,
+    "gn:longitude":36.37422,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kuzgun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        890464105
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305164
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0aa0393b9ff17a3c8d80bade6f2a6a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464105,
+            "locality_id":1209939607,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1209939607,
+    "wof:lastmodified":1536389085,
+    "wof:name":"Kuzgun",
+    "wof:parent_id":890464105,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37422,
+    37.45096,
+    36.37422,
+    37.45096
+],
+  "geometry": {"coordinates":[36.37422,37.45096],"type":"Point"}
+}

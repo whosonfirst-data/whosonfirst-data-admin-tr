@@ -1,0 +1,75 @@
+{
+  "id": 1293668047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.35465,38.45567,42.35465,38.45567",
+    "geom:latitude":38.45567,
+    "geom:longitude":42.35465,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Cevrekoy",
+    "gn:country_code":"TR",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318686,
+    "gn:latitude":38.45567,
+    "gn:longitude":42.35465,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"\u00c7evrek\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7evrek\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "\u0130zk\u00f6y",
+        "\u0130z",
+        "\u00c7evre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890461715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318686
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"970a8bd45ab32726ebac70a7f9f8a2ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461715,
+            "locality_id":1293668047,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1293668047,
+    "wof:lastmodified":1537707292,
+    "wof:name":"Cevrekoy",
+    "wof:parent_id":890461715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.35465,
+    38.45567,
+    42.35465,
+    38.45567
+],
+  "geometry": {"coordinates":[42.35465,38.45567],"type":"Point"}
+}

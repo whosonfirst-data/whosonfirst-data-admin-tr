@@ -1,0 +1,73 @@
+{
+  "id": 1310718391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.84745,39.02442,28.84745,39.02442",
+    "geom:latitude":39.02442,
+    "geom:longitude":28.84745,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Kargin Isiklar",
+    "gn:country_code":"TR",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309103,
+    "gn:latitude":39.02442,
+    "gn:longitude":28.84745,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Karg\u0131n I\u015f\u0131klar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karg\u0131n I\u015f\u0131klar"
+    ],
+    "name:tur_x_variant":[
+        "Karg\u0131n\u0131\u015f\u0131klar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309103
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5e69b955d3cbea10c720890c680a8e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709429,
+            "locality_id":1310718391,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1310718391,
+    "wof:lastmodified":1537706989,
+    "wof:name":"Kargin Isiklar",
+    "wof:parent_id":1108709429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84745,
+    39.02442,
+    28.84745,
+    39.02442
+],
+  "geometry": {"coordinates":[28.84745,39.02442],"type":"Point"}
+}

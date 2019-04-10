@@ -1,0 +1,111 @@
+{
+  "id": 1126093987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37373,40.37663,33.37373,40.37663",
+    "geom:latitude":40.37663,
+    "geom:longitude":33.37373,
+    "gn:gn_country":"TR",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"TR",
+    "lbl:latitude":40.37663,
+    "lbl:longitude":33.37373,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Demirta\u015f"
+    ],
+    "name:eng_x_preferred":[
+        "Demirta\u015f"
+    ],
+    "name:ger_x_preferred":[
+        "Demirta\u015f"
+    ],
+    "name:may_x_preferred":[
+        "Demirta\u015f"
+    ],
+    "name:nan_x_preferred":[
+        "Demirta\u015f"
+    ],
+    "name:tur_x_preferred":[
+        "Demirta\u015f"
+    ],
+    "name:vie_x_preferred":[
+        "Demirta\u015f"
+    ],
+    "qs_pg:aaroncc":"TR",
+    "qs_pg:gn_country":"TR",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":748377,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Demirta\u015f",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Ankara",
+    "qs_pg:photos":130,
+    "qs_pg:photos_1k":26,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":130,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":225565,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55865184,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Ankara",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679409,
+        102191569,
+        85632393,
+        1108709611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748377,
+        "gp:id":55865184,
+        "qs_pg:id":225565,
+        "wd:id":"Q4831541"
+    },
+    "wof:country":"TR",
+    "wof:created":1497314763,
+    "wof:geomhash":"2f7dfb5775d8aeca22c52688cb799c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709611,
+            "locality_id":-1,
+            "neighbourhood_id":1126093987,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1126093987,
+    "wof:lastmodified":1514506962,
+    "wof:name":"Demirta\u015f",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37373,
+    40.37663,
+    33.37373,
+    40.37663
+],
+  "geometry": {"coordinates":[33.37373,40.37663],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260105797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.92181,41.36425,31.92181,41.36425",
+    "geom:latitude":41.36425,
+    "geom:longitude":31.92181,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Davutlar",
+    "gn:country_code":"TR",
+    "gn:dem":720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042049,
+    "gn:latitude":41.36425,
+    "gn:longitude":31.92181,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Davutlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        1108709749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042049
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fc70f9cd8a2b26d7a4be8f5f6fea2672",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709749,
+            "locality_id":1260105797,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1260105797,
+    "wof:lastmodified":1536956022,
+    "wof:name":"Davutlar",
+    "wof:parent_id":1108709749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.92181,
+    41.36425,
+    31.92181,
+    41.36425
+],
+  "geometry": {"coordinates":[31.92181,41.36425],"type":"Point"}
+}

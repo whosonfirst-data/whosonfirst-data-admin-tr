@@ -1,0 +1,71 @@
+{
+  "id": 1343586725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.52102,39.07027,43.52102,39.07027",
+    "geom:latitude":39.07027,
+    "geom:longitude":43.52102,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Goze",
+    "gn:country_code":"TR",
+    "gn:dem":1888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313874,
+    "gn:latitude":39.07027,
+    "gn:longitude":43.52102,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"G\u00f6ze",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131g\u00f6ze",
+        "G\u00f6ze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313874
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"650dfb450125c6bb030765804100c481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464421,
+            "locality_id":1343586725,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1343586725,
+    "wof:lastmodified":1537707139,
+    "wof:name":"Goze",
+    "wof:parent_id":890464421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.52102,
+    39.07027,
+    43.52102,
+    39.07027
+],
+  "geometry": {"coordinates":[43.52102,39.07027],"type":"Point"}
+}

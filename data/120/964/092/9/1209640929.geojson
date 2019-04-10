@@ -1,0 +1,64 @@
+{
+  "id": 1209640929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3671,40.4769,30.3671,40.4769",
+    "geom:latitude":40.4769,
+    "geom:longitude":30.3671,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Ahibaba",
+    "gn:country_code":"TR",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8275551,
+    "gn:latitude":40.4769,
+    "gn:longitude":30.3671,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"Ahibaba",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ahibaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275551
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d5add33c2dbd2cfecc5ba1f52e9f3be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209640929
+        }
+    ],
+    "wof:id":1209640929,
+    "wof:lastmodified":1537708282,
+    "wof:name":"Ahibaba",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3671,
+    40.4769,
+    30.3671,
+    40.4769
+],
+  "geometry": {"coordinates":[30.3671,40.4769],"type":"Point"}
+}

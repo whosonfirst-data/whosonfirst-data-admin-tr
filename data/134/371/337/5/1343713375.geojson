@@ -1,0 +1,67 @@
+{
+  "id": 1343713375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89663,41.261,33.89663,41.261",
+    "geom:latitude":41.261,
+    "geom:longitude":33.89663,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Cavundur",
+    "gn:country_code":"TR",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749580,
+    "gn:latitude":41.261,
+    "gn:longitude":33.89663,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"\u00c7avundur",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749580
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"16ba3483870717005cc03e0daeac2ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463421,
+            "locality_id":1343713375,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1343713375,
+    "wof:lastmodified":1536878105,
+    "wof:name":"Cavundur",
+    "wof:parent_id":890463421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89663,
+    41.261,
+    33.89663,
+    41.261
+],
+  "geometry": {"coordinates":[33.89663,41.261],"type":"Point"}
+}

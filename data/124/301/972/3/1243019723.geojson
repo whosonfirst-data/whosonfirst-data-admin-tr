@@ -1,0 +1,71 @@
+{
+  "id": 1243019723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32017,41.30083,33.32017,41.30083",
+    "geom:latitude":41.30083,
+    "geom:longitude":33.32017,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Pelitoren",
+    "gn:country_code":"TR",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":740627,
+    "gn:latitude":41.30083,
+    "gn:longitude":33.32017,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pelit\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pelitviran",
+        "Pelit\u00f6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890461625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":740627
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91404450d8436b3b9eee4aa4b4a2512f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461625,
+            "locality_id":1243019723,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1243019723,
+    "wof:lastmodified":1537707738,
+    "wof:name":"Pelitoren",
+    "wof:parent_id":890461625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32017,
+    41.30083,
+    33.32017,
+    41.30083
+],
+  "geometry": {"coordinates":[33.32017,41.30083],"type":"Point"}
+}

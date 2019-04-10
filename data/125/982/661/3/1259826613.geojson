@@ -1,0 +1,67 @@
+{
+  "id": 1259826613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.434,40.27913,38.434,40.27913",
+    "geom:latitude":40.27913,
+    "geom:longitude":38.434,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Akbudak",
+    "gn:country_code":"TR",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7572424,
+    "gn:latitude":40.27913,
+    "gn:longitude":38.434,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Akbudak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        1108709197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7572424
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1ec12bed4e24d2c1369633d324f34a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709197,
+            "locality_id":1259826613,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1259826613,
+    "wof:lastmodified":1536859794,
+    "wof:name":"Akbudak",
+    "wof:parent_id":1108709197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.434,
+    40.27913,
+    38.434,
+    40.27913
+],
+  "geometry": {"coordinates":[38.434,40.27913],"type":"Point"}
+}

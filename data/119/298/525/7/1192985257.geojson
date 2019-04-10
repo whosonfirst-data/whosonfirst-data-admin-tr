@@ -1,0 +1,67 @@
+{
+  "id": 1192985257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33115,39.71164,30.33115,39.71164",
+    "geom:latitude":39.71164,
+    "geom:longitude":30.33115,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Takmak",
+    "gn:country_code":"TR",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299904,
+    "gn:latitude":39.71164,
+    "gn:longitude":30.33115,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Takmak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299904
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70848249ea1ceed8e6337e6b63cb689b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709923,
+            "locality_id":1192985257,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1192985257,
+    "wof:lastmodified":1536364765,
+    "wof:name":"Takmak",
+    "wof:parent_id":1108709923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33115,
+    39.71164,
+    30.33115,
+    39.71164
+],
+  "geometry": {"coordinates":[30.33115,39.71164],"type":"Point"}
+}

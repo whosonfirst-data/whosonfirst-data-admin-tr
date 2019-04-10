@@ -1,0 +1,65 @@
+{
+  "id": 1209670189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.94508,40.25257,40.94508,40.25257",
+    "geom:latitude":40.25257,
+    "geom:longitude":40.94508,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Akdag",
+    "gn:country_code":"TR",
+    "gn:dem":2275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752519,
+    "gn:latitude":40.25257,
+    "gn:longitude":40.94508,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Akda\u011f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akda\u011f K\u00f6y\u00fc",
+        "Akda\u011f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752519
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"11fedd80e1ca294cddeee63873a8c42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209670189
+        }
+    ],
+    "wof:id":1209670189,
+    "wof:lastmodified":1537708142,
+    "wof:name":"Akdag",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.94508,
+    40.25257,
+    40.94508,
+    40.25257
+],
+  "geometry": {"coordinates":[40.94508,40.25257],"type":"Point"}
+}

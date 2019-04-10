@@ -1,0 +1,70 @@
+{
+  "id": 1310321735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.45,37.13916,40.45,37.13916",
+    "geom:latitude":37.13916,
+    "geom:longitude":40.45,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Mutlu",
+    "gn:country_code":"TR",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010418,
+    "gn:latitude":37.13916,
+    "gn:longitude":40.45,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Mutlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mutlu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890460129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010418
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"41f6e024f15964c32883fc042b92e778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460129,
+            "locality_id":1310321735,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1310321735,
+    "wof:lastmodified":1537708203,
+    "wof:name":"Mutlu",
+    "wof:parent_id":890460129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.45,
+    37.13916,
+    40.45,
+    37.13916
+],
+  "geometry": {"coordinates":[40.45,37.13916],"type":"Point"}
+}

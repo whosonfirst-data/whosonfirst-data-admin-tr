@@ -1,0 +1,67 @@
+{
+  "id": 1293748535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.7343,40.86981,34.7343,40.86981",
+    "geom:latitude":40.86981,
+    "geom:longitude":34.7343,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Alpagut",
+    "gn:country_code":"TR",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752070,
+    "gn:latitude":40.86981,
+    "gn:longitude":34.7343,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Alpagut",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752070
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c00939faefab8f23709b49df1beba5ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709453,
+            "locality_id":1293748535,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1293748535,
+    "wof:lastmodified":1536908277,
+    "wof:name":"Alpagut",
+    "wof:parent_id":1108709453,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7343,
+    40.86981,
+    34.7343,
+    40.86981
+],
+  "geometry": {"coordinates":[34.7343,40.86981],"type":"Point"}
+}

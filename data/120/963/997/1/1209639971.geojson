@@ -1,0 +1,64 @@
+{
+  "id": 1209639971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.52564,37.25193,28.52564,37.25193",
+    "geom:latitude":37.25193,
+    "geom:longitude":28.52564,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Eskiyalar",
+    "gn:country_code":"TR",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10253429,
+    "gn:latitude":37.25193,
+    "gn:longitude":28.52564,
+    "gn:modification_date":"2015-05-08",
+    "gn:name":"Eskiyalar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eskiyalar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10253429
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dafeae6bea9e5608a32b802533b30bac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209639971
+        }
+    ],
+    "wof:id":1209639971,
+    "wof:lastmodified":1537708368,
+    "wof:name":"Eskiyalar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.52564000000001,
+    37.25193,
+    28.52564000000001,
+    37.25193
+],
+  "geometry": {"coordinates":[28.52564000000001,37.25193],"type":"Point"}
+}

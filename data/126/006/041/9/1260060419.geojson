@@ -1,0 +1,71 @@
+{
+  "id": 1260060419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21245,40.04176,30.21245,40.04176",
+    "geom:latitude":40.04176,
+    "geom:longitude":30.21245,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Borcak",
+    "gn:country_code":"TR",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750498,
+    "gn:latitude":40.04176,
+    "gn:longitude":30.21245,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Borcak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bur\u00e7ak",
+        "Borcak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679227,
+        890464287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750498
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"387e993e7bb041c094b9d409a2ddb027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464287,
+            "locality_id":1260060419,
+            "region_id":85679227
+        }
+    ],
+    "wof:id":1260060419,
+    "wof:lastmodified":1537708069,
+    "wof:name":"Borcak",
+    "wof:parent_id":890464287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21245,
+    40.04176,
+    30.21245,
+    40.04176
+],
+  "geometry": {"coordinates":[30.21245,40.04176],"type":"Point"}
+}

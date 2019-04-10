@@ -1,0 +1,64 @@
+{
+  "id": 1209263273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.12763,36.54824,34.12763,36.54824",
+    "geom:latitude":36.54824,
+    "geom:longitude":34.12763,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Karaahmetli",
+    "gn:country_code":"TR",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310331,
+    "gn:latitude":36.54824,
+    "gn:longitude":34.12763,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Karaahmetli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karaahmetli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310331
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8ba1854d38d06545dbc0b4a12ad52e9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209263273
+        }
+    ],
+    "wof:id":1209263273,
+    "wof:lastmodified":1537707021,
+    "wof:name":"Karaahmetli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.12763,
+    36.54824,
+    34.12763,
+    36.54824
+],
+  "geometry": {"coordinates":[34.12763,36.54824],"type":"Point"}
+}

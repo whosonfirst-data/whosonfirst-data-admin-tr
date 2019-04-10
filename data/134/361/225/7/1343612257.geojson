@@ -1,0 +1,75 @@
+{
+  "id": 1343612257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.90282,40.97809,38.90282,40.97809",
+    "geom:latitude":40.97809,
+    "geom:longitude":38.90282,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Yukari Ortacami",
+    "gn:country_code":"TR",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737255,
+    "gn:latitude":40.97809,
+    "gn:longitude":38.90282,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yukar\u0131 Ortacami",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yukar\u0131 Ortacami"
+    ],
+    "name:und_x_variant":[
+        "Ortacamiibal\u00e2",
+        "Ortacamib\u00e2l\u00e2",
+        "Yukar\u0131ortacami"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890461657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737255
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7a1d74d63bb1821cbe2f620afdeb0c1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461657,
+            "locality_id":1343612257,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1343612257,
+    "wof:lastmodified":1537707616,
+    "wof:name":"Yukari Ortacami",
+    "wof:parent_id":890461657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.90282,
+    40.97809,
+    38.90282,
+    40.97809
+],
+  "geometry": {"coordinates":[38.90282,40.97809],"type":"Point"}
+}

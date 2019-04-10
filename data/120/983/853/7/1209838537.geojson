@@ -1,0 +1,71 @@
+{
+  "id": 1209838537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.81721,39.62306,42.81721,39.62306",
+    "geom:latitude":39.62306,
+    "geom:longitude":42.81721,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ekincek",
+    "gn:country_code":"TR",
+    "gn:dem":1881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315857,
+    "gn:latitude":39.62306,
+    "gn:longitude":42.81721,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ekincek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sivik",
+        "Ekincek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315857
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"717dcfb9ae78987645a91061dd653d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709939,
+            "locality_id":1209838537,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1209838537,
+    "wof:lastmodified":1537707200,
+    "wof:name":"Ekincek",
+    "wof:parent_id":1108709939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.81721,
+    39.62306,
+    42.81721,
+    39.62306
+],
+  "geometry": {"coordinates":[42.81721,39.62306],"type":"Point"}
+}

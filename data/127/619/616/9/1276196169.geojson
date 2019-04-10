@@ -1,0 +1,73 @@
+{
+  "id": 1276196169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97484,40.6,30.97484,40.6",
+    "geom:latitude":40.6,
+    "geom:longitude":30.97484,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Bakdemirler",
+    "gn:country_code":"TR",
+    "gn:dem":542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751227,
+    "gn:latitude":40.6,
+    "gn:longitude":30.97484,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bakdemirler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pekdemirler",
+        "Beydemirler",
+        "Bektem\u00fcrler",
+        "Bakdemirler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890463475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751227
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2fb1ce7c5dfcbbb0e85262fb1e662a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463475,
+            "locality_id":1276196169,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1276196169,
+    "wof:lastmodified":1537708096,
+    "wof:name":"Bakdemirler",
+    "wof:parent_id":890463475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97484,
+    40.6,
+    30.97484,
+    40.6
+],
+  "geometry": {"coordinates":[30.97484,40.6],"type":"Point"}
+}

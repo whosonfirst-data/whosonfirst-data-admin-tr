@@ -1,0 +1,72 @@
+{
+  "id": 1193003945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46361,37.16,30.46361,37.16",
+    "geom:latitude":37.16,
+    "geom:longitude":30.46361,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Akkoc",
+    "gn:country_code":"TR",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296566,
+    "gn:latitude":37.16,
+    "gn:longitude":30.46361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Akko\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcr\u00fckbademlisi",
+        "Y\u00f6r\u00fckbademli",
+        "Akko\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296566
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"496db3cf133786794c07e7a20ce38e58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709461,
+            "locality_id":1193003945,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1193003945,
+    "wof:lastmodified":1537706575,
+    "wof:name":"Akkoc",
+    "wof:parent_id":1108709461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46361,
+    37.16,
+    30.46361,
+    37.16
+],
+  "geometry": {"coordinates":[30.46361,37.16],"type":"Point"}
+}

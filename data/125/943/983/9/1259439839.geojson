@@ -1,0 +1,67 @@
+{
+  "id": 1259439839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.7,40.23333,41.7,40.23333",
+    "geom:latitude":40.23333,
+    "geom:longitude":41.7,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Gormeri",
+    "gn:country_code":"TR",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746556,
+    "gn:latitude":40.23333,
+    "gn:longitude":41.7,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"G\u00f6rmeri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746556
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4e4527df055f2149c875d49656a3c2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709929,
+            "locality_id":1259439839,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1259439839,
+    "wof:lastmodified":1536922342,
+    "wof:name":"Gormeri",
+    "wof:parent_id":1108709929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.7,
+    40.23333,
+    41.7,
+    40.23333
+],
+  "geometry": {"coordinates":[41.7,40.23333],"type":"Point"}
+}

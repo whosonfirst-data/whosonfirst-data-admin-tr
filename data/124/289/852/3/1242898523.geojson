@@ -1,0 +1,67 @@
+{
+  "id": 1242898523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74199,41.23951,31.74199,41.23951",
+    "geom:latitude":41.23951,
+    "geom:longitude":31.74199,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Hasbeyler",
+    "gn:country_code":"TR",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8042624,
+    "gn:latitude":41.23951,
+    "gn:longitude":31.74199,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Hasbeyler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890462743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8042624
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"707518267e2cd9f0e8fc75b3a1c89495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462743,
+            "locality_id":1242898523,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1242898523,
+    "wof:lastmodified":1537095202,
+    "wof:name":"Hasbeyler",
+    "wof:parent_id":890462743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74199,
+    41.23951,
+    31.74199,
+    41.23951
+],
+  "geometry": {"coordinates":[31.74199,41.23951],"type":"Point"}
+}

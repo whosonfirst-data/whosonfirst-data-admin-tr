@@ -1,0 +1,65 @@
+{
+  "id": 1209532367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73243,39.17199,32.73243,39.17199",
+    "geom:latitude":39.17199,
+    "geom:longitude":32.73243,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Yukarisebil",
+    "gn:country_code":"TR",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296240,
+    "gn:latitude":39.17199,
+    "gn:longitude":32.73243,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yukar\u0131sebil",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sebilibal\u00e2",
+        "Yukar\u0131sebil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296240
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0cc9c95504610000be707e03825fa580",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532367
+        }
+    ],
+    "wof:id":1209532367,
+    "wof:lastmodified":1537706559,
+    "wof:name":"Yukarisebil",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73243,
+    39.17199,
+    32.73243,
+    39.17199
+],
+  "geometry": {"coordinates":[32.73243,39.17199],"type":"Point"}
+}

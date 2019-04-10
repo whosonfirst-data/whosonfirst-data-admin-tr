@@ -1,0 +1,67 @@
+{
+  "id": 1360201219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03437,41.39777,32.03437,41.39777",
+    "geom:latitude":41.39777,
+    "geom:longitude":32.03437,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Alikoy",
+    "gn:country_code":"TR",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752111,
+    "gn:latitude":41.39777,
+    "gn:longitude":32.03437,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Alik\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890461695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752111
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a29b65ca309eabdde9d82ff0f91d5087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461695,
+            "locality_id":1360201219,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1360201219,
+    "wof:lastmodified":1536778666,
+    "wof:name":"Alikoy",
+    "wof:parent_id":890461695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03437,
+    41.39777,
+    32.03437,
+    41.39777
+],
+  "geometry": {"coordinates":[32.03437,41.39777],"type":"Point"}
+}

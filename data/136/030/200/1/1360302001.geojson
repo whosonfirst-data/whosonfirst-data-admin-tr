@@ -1,0 +1,67 @@
+{
+  "id": 1360302001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.85594,38.45758,28.85594,38.45758",
+    "geom:latitude":38.45758,
+    "geom:longitude":28.85594,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Curukler",
+    "gn:country_code":"TR",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10002696,
+    "gn:latitude":38.45758,
+    "gn:longitude":28.85594,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"\u00c7\u00fcr\u00fckler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        1108709467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10002696
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8728661d0aa8eb7fcea606809e904730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709467,
+            "locality_id":1360302001,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1360302001,
+    "wof:lastmodified":1536631165,
+    "wof:name":"Curukler",
+    "wof:parent_id":1108709467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.85594,
+    38.45758,
+    28.85594,
+    38.45758
+],
+  "geometry": {"coordinates":[28.85594,38.45758],"type":"Point"}
+}

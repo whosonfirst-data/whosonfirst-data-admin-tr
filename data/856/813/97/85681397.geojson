@@ -1,0 +1,71 @@
+{
+  "id": 85681397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":114889.639301,
+    "geom:bbox":"33.7780054048,36.1736921247,33.7876082694,36.1815046243",
+    "geom:latitude":36.177978,
+    "geom:longitude":33.782291,
+    "gp:id":0,
+    "iso:country":"TR",
+    "lbl:latitude":36.177888,
+    "lbl:longitude":33.781819,
+    "mps:latitude":36.177888,
+    "mps:longitude":33.781819,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:eng_x_preferred":[
+        "Minor islands of Turkey"
+    ],
+    "qs:a0":"Turkey",
+    "qs:a0_lc":"TR",
+    "qs:a1_lc":"TUR+99?",
+    "qs:adm0":"Turkey",
+    "qs:adm0_a3":"TUR",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 minor island",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:geomhash":"dd1182b5ea82bd5cfe80de08e5ffe9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "region_id":85681397
+        }
+    ],
+    "wof:id":85681397,
+    "wof:lastmodified":1529540522,
+    "wof:name":"Minor islands of Turkey",
+    "wof:parent_id":85632393,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77800540482565,
+    36.17369212469185,
+    33.78760826940618,
+    36.18150462433897
+],
+  "geometry": {"coordinates":[[[33.78760826940618,36.18150462433897],[33.77800540482565,36.17369212469185],[33.78126061338668,36.17873769728698],[33.78760826940618,36.18150462433897]]],"type":"Polygon"}
+}

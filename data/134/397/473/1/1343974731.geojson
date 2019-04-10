@@ -1,0 +1,67 @@
+{
+  "id": 1343974731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55,36.95,36.55,36.95",
+    "geom:latitude":36.95,
+    "geom:longitude":36.55,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Sulumagara",
+    "gn:country_code":"TR",
+    "gn:dem":817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300150,
+    "gn:latitude":36.95,
+    "gn:longitude":36.55,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Suluma\u011fara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300150
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2f59613fa68a42becb83199e644f26b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709219,
+            "locality_id":1343974731,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1343974731,
+    "wof:lastmodified":1536998691,
+    "wof:name":"Sulumagara",
+    "wof:parent_id":1108709219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55,
+    36.95,
+    36.55,
+    36.95
+],
+  "geometry": {"coordinates":[36.55,36.95],"type":"Point"}
+}

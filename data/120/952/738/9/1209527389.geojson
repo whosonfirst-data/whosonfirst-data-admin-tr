@@ -1,0 +1,64 @@
+{
+  "id": 1209527389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.72813,37.7674,38.72813,37.7674",
+    "geom:latitude":37.7674,
+    "geom:longitude":38.72813,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karamagar",
+    "gn:country_code":"TR",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7519579,
+    "gn:latitude":37.7674,
+    "gn:longitude":38.72813,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Karama\u011far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karama\u011far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7519579
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"749aee214221e29fdd58eac6368b5c06",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209527389
+        }
+    ],
+    "wof:id":1209527389,
+    "wof:lastmodified":1537708224,
+    "wof:name":"Karamagar",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.72813,
+    37.7674,
+    38.72813,
+    37.7674
+],
+  "geometry": {"coordinates":[38.72813,37.7674],"type":"Point"}
+}

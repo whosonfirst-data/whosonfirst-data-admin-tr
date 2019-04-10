@@ -1,0 +1,70 @@
+{
+  "id": 1260138791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.17256,38.46896,40.17256,38.46896",
+    "geom:latitude":38.46896,
+    "geom:longitude":40.17256,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Bukardi",
+    "gn:country_code":"TR",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6611106,
+    "gn:latitude":38.46896,
+    "gn:longitude":40.17256,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"B\u00fckard\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "B\u00fckard\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6611106
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f9ea8ebf4660bae59e46c78bbd6267f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709287,
+            "locality_id":1260138791,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1260138791,
+    "wof:lastmodified":1537708159,
+    "wof:name":"Bukardi",
+    "wof:parent_id":1108709287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.17256,
+    38.46896,
+    40.17256,
+    38.46896
+],
+  "geometry": {"coordinates":[40.17256,38.46896],"type":"Point"}
+}

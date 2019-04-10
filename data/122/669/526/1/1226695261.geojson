@@ -1,0 +1,67 @@
+{
+  "id": 1226695261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.02225,37.83057,31.02225,37.83057",
+    "geom:latitude":37.83057,
+    "geom:longitude":31.02225,
+    "gn:admin1_code":"33",
+    "gn:asciiname":"Sofular",
+    "gn:country_code":"TR",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304331,
+    "gn:latitude":37.83057,
+    "gn:longitude":31.02225,
+    "gn:modification_date":"2012-02-28",
+    "gn:name":"Sofular",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679279,
+        890460363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304331
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7114b0c1ca3f8be27ed0895b72e87a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460363,
+            "locality_id":1226695261,
+            "region_id":85679279
+        }
+    ],
+    "wof:id":1226695261,
+    "wof:lastmodified":1536788789,
+    "wof:name":"Sofular",
+    "wof:parent_id":890460363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.02225,
+    37.83057,
+    31.02225,
+    37.83057
+],
+  "geometry": {"coordinates":[31.02225,37.83057],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890463137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.975496,41.0390025,28.975496,41.0390025",
+    "geom:latitude":41.039003,
+    "geom:longitude":28.975496,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Bostan",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos":132,
+    "qs:photos_1k":27,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":132,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":106,
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101913185,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724086,
+        "qs:id":14476,
+        "wk:page":"Bostan"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053418,
+    "wof:geomhash":"cd7d78a4de6bd24cb384cb04b30e6aa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "locality_id":101913185,
+            "neighbourhood_id":890463137,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890463137,
+    "wof:lastmodified":1534379467,
+    "wof:name":"Bostan",
+    "wof:parent_id":101913185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        1108950389
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.975496,
+    41.0390025,
+    28.975496,
+    41.0390025
+],
+  "geometry": {"coordinates":[28.975496,41.0390025],"type":"Point"}
+}

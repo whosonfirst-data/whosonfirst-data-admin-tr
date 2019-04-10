@@ -1,0 +1,73 @@
+{
+  "id": 1360311025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98353,39.98265,33.98353,39.98265",
+    "geom:latitude":39.98265,
+    "geom:longitude":33.98353,
+    "gn:admin1_code":"79.0",
+    "gn:asciiname":"Arbisli",
+    "gn:country_code":"TR",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7754623,
+    "gn:latitude":39.98265,
+    "gn:longitude":33.98353,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Arb\u0131\u015fl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Arb\u0131\u015fl\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Arbi\u015fli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679447,
+        1108709427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7754623
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"311bbbb702b4307a283a4a01ef837d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709427,
+            "locality_id":1360311025,
+            "region_id":85679447
+        }
+    ],
+    "wof:id":1360311025,
+    "wof:lastmodified":1537708272,
+    "wof:name":"Arbisli",
+    "wof:parent_id":1108709427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98353,
+    39.98265,
+    33.98353,
+    39.98265
+],
+  "geometry": {"coordinates":[33.98353,39.98265],"type":"Point"}
+}

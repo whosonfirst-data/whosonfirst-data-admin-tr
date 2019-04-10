@@ -1,0 +1,70 @@
+{
+  "id": 1259406523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25345,40.4235,30.25345,40.4235",
+    "geom:latitude":40.4235,
+    "geom:longitude":30.25345,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Akdogan",
+    "gn:country_code":"TR",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752508,
+    "gn:latitude":40.4235,
+    "gn:longitude":30.25345,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Akdo\u011fan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akdo\u011fan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752508
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e8c71aa13be7195c83d4d96982893346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460559,
+            "locality_id":1259406523,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1259406523,
+    "wof:lastmodified":1537708142,
+    "wof:name":"Akdogan",
+    "wof:parent_id":890460559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25345,
+    40.4235,
+    30.25345,
+    40.4235
+],
+  "geometry": {"coordinates":[30.25345,40.4235],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890462039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.05081,36.70827,29.05081,36.70827",
+    "geom:latitude":36.70827,
+    "geom:longitude":29.05081,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":2598,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u042f\u043d\u044b\u043a\u043b\u0430\u0440"
+    ],
+    "name:tur_x_preferred":[
+        "Yan\u0131klar"
+    ],
+    "qs:name":"Yaniklar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7280504,
+        "qs:id":671085
+    },
+    "wof:country":"TR",
+    "wof:created":1469053376,
+    "wof:geomhash":"809b4b817c7c1e7111a69e56ae02e60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":890462039,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":890462039,
+    "wof:lastmodified":1505343688,
+    "wof:name":"Yaniklar",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:population":2598,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.05081,
+    36.70827,
+    29.05081,
+    36.70827
+],
+  "geometry": {"coordinates":[29.05081,36.70827],"type":"Point"}
+}

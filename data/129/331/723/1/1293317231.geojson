@@ -1,0 +1,79 @@
+{
+  "id": 1293317231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.59468,36.38304,36.59468,36.38304",
+    "geom:latitude":36.38304,
+    "geom:longitude":36.59468,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Sarkihamen",
+    "gn:country_code":"TR",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":437973,
+    "gn:latitude":36.38304,
+    "gn:longitude":36.59468,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"\u015earkihamen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Arapk\u00eby"
+    ],
+    "name:tur_x_preferred":[
+        "\u015earkihamen"
+    ],
+    "name:tur_x_variant":[
+        "Hamam"
+    ],
+    "name:und_x_variant":[
+        "Arap K\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        1108709681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":437973
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"45613b79ebb69d86fda0658497f03275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709681,
+            "locality_id":1293317231,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1293317231,
+    "wof:lastmodified":1537707551,
+    "wof:name":"Sarkihamen",
+    "wof:parent_id":1108709681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.59468,
+    36.38304,
+    36.59468,
+    36.38304
+],
+  "geometry": {"coordinates":[36.59468,36.38304],"type":"Point"}
+}

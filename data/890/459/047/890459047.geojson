@@ -1,0 +1,92 @@
+{
+  "id": 890459047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.27917,37.01306,27.27917,37.01306",
+    "geom:latitude":37.01306,
+    "geom:longitude":27.27917,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Akyarlar"
+    ],
+    "name:eng_x_preferred":[
+        "Akyarlar"
+    ],
+    "name:ger_x_preferred":[
+        "Akyarlar"
+    ],
+    "name:tur_x_preferred":[
+        "Akyarlar"
+    ],
+    "name:unk_x_variant":[
+        "Kefaluka"
+    ],
+    "name:vie_x_preferred":[
+        "Akyarlar"
+    ],
+    "qs:name":"Akyarlar",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Mu\u011fla",
+    "qs:photos":252,
+    "qs:photos_1k":51,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":252,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462453
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324380,
+        "gp:id":55966432,
+        "qs:id":1276958,
+        "wd:id":"Q6942843"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053252,
+    "wof:geomhash":"c850dab3bcae7530299e621cd5d84d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462453,
+            "locality_id":890459047,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":890459047,
+    "wof:lastmodified":1514506772,
+    "wof:name":"Akyarlar",
+    "wof:parent_id":890462453,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.27917,
+    37.01306,
+    27.27917,
+    37.01306
+],
+  "geometry": {"coordinates":[27.27917,37.01306],"type":"Point"}
+}

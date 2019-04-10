@@ -1,0 +1,73 @@
+{
+  "id": 1310091987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.87438,39.13947,40.87438,39.13947",
+    "geom:latitude":39.13947,
+    "geom:longitude":40.87438,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Goynuk",
+    "gn:country_code":"TR",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA3",
+    "gn:geonameid":313892,
+    "gn:latitude":39.13947,
+    "gn:longitude":40.87438,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"G\u00f6yn\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O\u011fnut",
+        "G\u00f6n\u00fck",
+        "G\u00f6yn\u00fck",
+        "G\u00f6\u011fn\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890463853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313892
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f72b2f15cadf00be7a6a0b0865dac73e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463853,
+            "locality_id":1310091987,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1310091987,
+    "wof:lastmodified":1537707139,
+    "wof:name":"Goynuk",
+    "wof:parent_id":890463853,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.87438,
+    39.13947,
+    40.87438,
+    39.13947
+],
+  "geometry": {"coordinates":[40.87438,39.13947],"type":"Point"}
+}

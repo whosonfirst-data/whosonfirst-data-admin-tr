@@ -1,0 +1,74 @@
+{
+  "id": 1259405787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67624,41.35271,31.67624,41.35271",
+    "geom:latitude":41.35271,
+    "geom:longitude":31.67624,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Sakakoy",
+    "gn:country_code":"TR",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748433,
+    "gn:latitude":41.35271,
+    "gn:longitude":31.67624,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Sakak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Sakak\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Saka",
+        "Demirciler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        1108709749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748433
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"785c47f5eb772793fb2ab41c19a26c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709749,
+            "locality_id":1259405787,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1259405787,
+    "wof:lastmodified":1537707995,
+    "wof:name":"Sakakoy",
+    "wof:parent_id":1108709749,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67624,
+    41.35271,
+    31.67624,
+    41.35271
+],
+  "geometry": {"coordinates":[31.67624,41.35271],"type":"Point"}
+}

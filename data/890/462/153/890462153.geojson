@@ -1,0 +1,80 @@
+{
+  "id": 890462153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.87619,41.0435,28.87619,41.0435",
+    "geom:latitude":41.0435,
+    "geom:longitude":28.87619,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":520235,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Litros"
+    ],
+    "qs:name":"Esenler",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":247,
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747340,
+        "gp:id":55871113,
+        "qs:id":1070929,
+        "wd:id":"Q378714",
+        "wk:page":"Esenler"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053379,
+    "wof:geomhash":"5e5ee71c102bb667c343bc4f9c7074dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709495,
+            "neighbourhood_id":890462153,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890462153,
+    "wof:lastmodified":1534379465,
+    "wof:name":"Esenler",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":520235,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        1108950631
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.87619,
+    41.0435,
+    28.87619,
+    41.0435
+],
+  "geometry": {"coordinates":[28.87619,41.0435],"type":"Point"}
+}

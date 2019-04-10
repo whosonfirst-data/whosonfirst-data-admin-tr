@@ -1,0 +1,78 @@
+{
+  "id": 1260238333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.73775,40.32555,41.73775,40.32555",
+    "geom:latitude":40.32555,
+    "geom:longitude":41.73775,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Sehitler",
+    "gn:country_code":"TR",
+    "gn:dem":2001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739629,
+    "gn:latitude":40.32555,
+    "gn:longitude":41.73775,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"\u015eehitler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Simserkis"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043c\u0441\u0438\u0440\u043a\u0438\u0437"
+    ],
+    "name:und_x_variant":[
+        "Simserkiz",
+        "\u015eehitler",
+        "Simserkis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709761
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739629
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26373b9d6a1c466a7f0894f6ce0eb78d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709761,
+            "locality_id":1260238333,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1260238333,
+    "wof:lastmodified":1537707705,
+    "wof:name":"Sehitler",
+    "wof:parent_id":1108709761,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.73775,
+    40.32555,
+    41.73775,
+    40.32555
+],
+  "geometry": {"coordinates":[41.73775,40.32555],"type":"Point"}
+}

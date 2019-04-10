@@ -1,0 +1,70 @@
+{
+  "id": 1193161649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33447,41.05136,30.33447,41.05136",
+    "geom:latitude":41.05136,
+    "geom:longitude":30.33447,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Topcu",
+    "gn:country_code":"TR",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281845,
+    "gn:latitude":41.05136,
+    "gn:longitude":30.33447,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Top\u00e7u",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Top\u00e7u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281845
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f77fa3e68c763cb34da5791dcb82f67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709645,
+            "locality_id":1193161649,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1193161649,
+    "wof:lastmodified":1537708287,
+    "wof:name":"Topcu",
+    "wof:parent_id":1108709645,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33447,
+    41.05136,
+    30.33447,
+    41.05136
+],
+  "geometry": {"coordinates":[30.33447,41.05136],"type":"Point"}
+}

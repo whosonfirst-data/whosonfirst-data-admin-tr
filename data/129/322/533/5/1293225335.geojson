@@ -1,0 +1,72 @@
+{
+  "id": 1293225335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49145,39.96158,43.49145,39.96158",
+    "geom:latitude":39.96158,
+    "geom:longitude":43.49145,
+    "gn:admin1_code":"88",
+    "gn:asciiname":"Kataca",
+    "gn:country_code":"TR",
+    "gn:dem":2048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310825,
+    "gn:latitude":39.96158,
+    "gn:longitude":43.49145,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Kata\u00e7a",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalaca",
+        "Kala\u00e7",
+        "Kata\u00e7a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        890463299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310825
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1b60c98dd09031765ca52f0dc5daf829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463299,
+            "locality_id":1293225335,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1293225335,
+    "wof:lastmodified":1537707037,
+    "wof:name":"Kataca",
+    "wof:parent_id":890463299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49145,
+    39.96158,
+    43.49145,
+    39.96158
+],
+  "geometry": {"coordinates":[43.49145,39.96158],"type":"Point"}
+}

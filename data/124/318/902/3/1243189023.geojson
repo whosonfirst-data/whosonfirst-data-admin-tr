@@ -1,0 +1,72 @@
+{
+  "id": 1243189023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.55722,37.10305,36.55722,37.10305",
+    "geom:latitude":37.10305,
+    "geom:longitude":36.55722,
+    "gn:admin1_code":"91",
+    "gn:asciiname":"Camlik",
+    "gn:country_code":"TR",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304459,
+    "gn:latitude":37.10305,
+    "gn:longitude":36.55722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Caml\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maydan",
+        "Meydan",
+        "Caml\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304459
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4fb87be6d838d847bb44d93151c04e9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709573,
+            "locality_id":1243189023,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1243189023,
+    "wof:lastmodified":1537706842,
+    "wof:name":"Camlik",
+    "wof:parent_id":1108709573,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.55722,
+    37.10305,
+    36.55722,
+    37.10305
+],
+  "geometry": {"coordinates":[36.55722,37.10305],"type":"Point"}
+}

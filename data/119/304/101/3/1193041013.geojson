@@ -1,0 +1,67 @@
+{
+  "id": 1193041013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9,37.73333,36.9,37.73333",
+    "geom:latitude":37.73333,
+    "geom:longitude":36.9,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Maksutlu",
+    "gn:country_code":"TR",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304936,
+    "gn:latitude":37.73333,
+    "gn:longitude":36.9,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Maksutlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        1108709737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304936
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e366dd9c0ed4ad7e4f79bf4b0cec74ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709737,
+            "locality_id":1193041013,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1193041013,
+    "wof:lastmodified":1536375900,
+    "wof:name":"Maksutlu",
+    "wof:parent_id":1108709737,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9,
+    37.73333,
+    36.9,
+    37.73333
+],
+  "geometry": {"coordinates":[36.9,37.73333],"type":"Point"}
+}

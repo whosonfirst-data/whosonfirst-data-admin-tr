@@ -1,0 +1,67 @@
+{
+  "id": 1360201209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31487,41.51071,32.31487,41.51071",
+    "geom:latitude":41.51071,
+    "geom:longitude":32.31487,
+    "gn:admin1_code":"87",
+    "gn:asciiname":"Bezirciler",
+    "gn:country_code":"TR",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8028615,
+    "gn:latitude":41.51071,
+    "gn:longitude":32.31487,
+    "gn:modification_date":"2011-09-13",
+    "gn:name":"Bezirciler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679543,
+        1108709723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8028615
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b7e0a4e0f672850e30f1e8ae694c88b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709723,
+            "locality_id":1360201209,
+            "region_id":85679543
+        }
+    ],
+    "wof:id":1360201209,
+    "wof:lastmodified":1536778683,
+    "wof:name":"Bezirciler",
+    "wof:parent_id":1108709723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31487,
+    41.51071,
+    32.31487,
+    41.51071
+],
+  "geometry": {"coordinates":[32.31487,41.51071],"type":"Point"}
+}

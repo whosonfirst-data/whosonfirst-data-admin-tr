@@ -1,0 +1,67 @@
+{
+  "id": 1327456607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66733,41.21234,31.66733,41.21234",
+    "geom:latitude":41.21234,
+    "geom:longitude":31.66733,
+    "gn:admin1_code":"85.0",
+    "gn:asciiname":"Asarli",
+    "gn:country_code":"TR",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751628,
+    "gn:latitude":41.21234,
+    "gn:longitude":31.66733,
+    "gn:modification_date":"2011-10-10",
+    "gn:name":"Asarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890462743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751628
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"af6d5be7c1ef0d4e8f971fa871e7e528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462743,
+            "locality_id":1327456607,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1327456607,
+    "wof:lastmodified":1536645366,
+    "wof:name":"Asarli",
+    "wof:parent_id":890462743,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66733,
+    41.21234000000001,
+    31.66733,
+    41.21234000000001
+],
+  "geometry": {"coordinates":[31.66733,41.21234000000001],"type":"Point"}
+}

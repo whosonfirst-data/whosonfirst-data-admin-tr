@@ -1,0 +1,78 @@
+{
+  "id": 1293225319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.57437,37.50024,40.57437,37.50024",
+    "geom:latitude":37.50024,
+    "geom:longitude":40.57437,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Bilge",
+    "gn:country_code":"TR",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311172,
+    "gn:latitude":37.50024,
+    "gn:longitude":40.57437,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bilge",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "I\u015f\u0131kyaka"
+    ],
+    "name:tur_x_variant":[
+        "Bilge"
+    ],
+    "name:und_x_variant":[
+        "Birki",
+        "I\u015f\u0131kkaya",
+        "Birk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311172
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f62b9a940167d50a3bd35b93859faa5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709713,
+            "locality_id":1293225319,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1293225319,
+    "wof:lastmodified":1537707047,
+    "wof:name":"Bilge",
+    "wof:parent_id":1108709713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.57437,
+    37.50024000000001,
+    40.57437,
+    37.50024000000001
+],
+  "geometry": {"coordinates":[40.57437,37.50024000000001],"type":"Point"}
+}

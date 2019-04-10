@@ -1,0 +1,67 @@
+{
+  "id": 1360101695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04184,41.11483,33.04184,41.11483",
+    "geom:latitude":41.11483,
+    "geom:longitude":33.04184,
+    "gn:admin1_code":"89.0",
+    "gn:asciiname":"Cevre",
+    "gn:country_code":"TR",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749220,
+    "gn:latitude":41.11483,
+    "gn:longitude":33.04184,
+    "gn:modification_date":"2011-09-11",
+    "gn:name":"\u00c7evre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679537,
+        890464155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749220
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0242355d2d095c7770edc85584420cd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464155,
+            "locality_id":1360101695,
+            "region_id":85679537
+        }
+    ],
+    "wof:id":1360101695,
+    "wof:lastmodified":1536922342,
+    "wof:name":"Cevre",
+    "wof:parent_id":890464155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04184,
+    41.11483,
+    33.04184,
+    41.11483
+],
+  "geometry": {"coordinates":[33.04184,41.11483],"type":"Point"}
+}

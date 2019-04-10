@@ -1,0 +1,73 @@
+{
+  "id": 1327247921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.55073,36.8766,29.55073,36.8766",
+    "geom:latitude":36.8766,
+    "geom:longitude":29.55073,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Eldirek",
+    "gn:country_code":"TR",
+    "gn:dem":1263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10303752,
+    "gn:latitude":36.8766,
+    "gn:longitude":29.55073,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Eldirek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eldirek"
+    ],
+    "name:tur_x_variant":[
+        "Erdelek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890462845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10303752
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fbe0194fa628f89e615dde8575d80873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462845,
+            "locality_id":1327247921,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1327247921,
+    "wof:lastmodified":1537708373,
+    "wof:name":"Eldirek",
+    "wof:parent_id":890462845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.55073,
+    36.8766,
+    29.55073,
+    36.8766
+],
+  "geometry": {"coordinates":[29.55073,36.8766],"type":"Point"}
+}

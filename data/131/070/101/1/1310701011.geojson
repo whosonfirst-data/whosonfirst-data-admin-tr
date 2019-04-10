@@ -1,0 +1,67 @@
+{
+  "id": 1310701011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.96667,39.23333,42.96667,39.23333",
+    "geom:latitude":39.23333,
+    "geom:longitude":42.96667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kamisvan",
+    "gn:country_code":"TR",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310597,
+    "gn:latitude":39.23333,
+    "gn:longitude":42.96667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kam\u0131\u015fvan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310597
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4c7f2d86bba1e90f3abeade18081c529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709805,
+            "locality_id":1310701011,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1310701011,
+    "wof:lastmodified":1536633469,
+    "wof:name":"Kamisvan",
+    "wof:parent_id":1108709805,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.96667,
+    39.23333,
+    42.96667,
+    39.23333
+],
+  "geometry": {"coordinates":[42.96667,39.23333],"type":"Point"}
+}

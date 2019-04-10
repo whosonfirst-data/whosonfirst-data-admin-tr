@@ -1,0 +1,70 @@
+{
+  "id": 1226159641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24684,39.0273,28.24684,39.0273",
+    "geom:latitude":39.0273,
+    "geom:longitude":28.24684,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Begel",
+    "gn:country_code":"TR",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321677,
+    "gn:latitude":39.0273,
+    "gn:longitude":28.24684,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Be\u011fel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Be\u011fel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321677
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3ff0587b1ecec56234154ba6266e799f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709543,
+            "locality_id":1226159641,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1226159641,
+    "wof:lastmodified":1537707388,
+    "wof:name":"Begel",
+    "wof:parent_id":1108709543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24684,
+    39.0273,
+    28.24684,
+    39.0273
+],
+  "geometry": {"coordinates":[28.24684,39.0273],"type":"Point"}
+}

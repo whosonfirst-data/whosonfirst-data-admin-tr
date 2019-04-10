@@ -1,0 +1,67 @@
+{
+  "id": 1360078553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.70655,36.8841,30.70655,36.8841",
+    "geom:latitude":36.8841,
+    "geom:longitude":30.70655,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kaleici",
+    "gn:country_code":"TR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7303622,
+    "gn:latitude":36.8841,
+    "gn:longitude":30.70655,
+    "gn:modification_date":"2010-07-13",
+    "gn:name":"Kaleici",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303622
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"337dd6c96356d08fc995cf9b3f2504bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709753,
+            "locality_id":1360078553,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1360078553,
+    "wof:lastmodified":1536955218,
+    "wof:name":"Kaleici",
+    "wof:parent_id":1108709753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.70655,
+    36.8841,
+    30.70655,
+    36.8841
+],
+  "geometry": {"coordinates":[30.70655,36.8841],"type":"Point"}
+}

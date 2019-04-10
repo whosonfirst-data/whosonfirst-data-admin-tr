@@ -1,0 +1,67 @@
+{
+  "id": 1193235297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.49303,39.67807,41.49303,39.67807",
+    "geom:latitude":39.67807,
+    "geom:longitude":41.49303,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Aktuzla",
+    "gn:country_code":"TR",
+    "gn:dem":1935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324405,
+    "gn:latitude":39.67807,
+    "gn:longitude":41.49303,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Aktuzla",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890464443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324405
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4a185c370a9c55ba449135ba4e3b68e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464443,
+            "locality_id":1193235297,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1193235297,
+    "wof:lastmodified":1536384196,
+    "wof:name":"Aktuzla",
+    "wof:parent_id":890464443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.49303,
+    39.67807,
+    41.49303,
+    39.67807
+],
+  "geometry": {"coordinates":[41.49303,39.67807],"type":"Point"}
+}

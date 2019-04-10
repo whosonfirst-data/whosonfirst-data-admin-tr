@@ -1,0 +1,67 @@
+{
+  "id": 1309735729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16639,35.925,36.16639,35.925",
+    "geom:latitude":35.925,
+    "geom:longitude":36.16639,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Kandum",
+    "gn:country_code":"TR",
+    "gn:dem":576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438291,
+    "gn:latitude":35.925,
+    "gn:longitude":36.16639,
+    "gn:modification_date":"2004-11-19",
+    "gn:name":"Kandum",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438291
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3799d28788803e6bfa5cfd5599a02905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461931,
+            "locality_id":1309735729,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1309735729,
+    "wof:lastmodified":1537030843,
+    "wof:name":"Kandum",
+    "wof:parent_id":890461931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16639,
+    35.925,
+    36.16639,
+    35.925
+],
+  "geometry": {"coordinates":[36.16639,35.925],"type":"Point"}
+}

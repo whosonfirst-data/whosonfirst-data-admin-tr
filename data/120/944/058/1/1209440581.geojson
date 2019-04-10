@@ -1,0 +1,66 @@
+{
+  "id": 1209440581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.00654,37.12364,37.00654,37.12364",
+    "geom:latitude":37.12364,
+    "geom:longitude":37.00654,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Terken",
+    "gn:country_code":"TR",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299262,
+    "gn:latitude":37.12364,
+    "gn:longitude":37.00654,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Terken",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Terk\u00e2n",
+        "Terken"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299262,
+        "wk:page":"Terken"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dd45f8b08a2e519c0b05b15eb088b641",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209440581
+        }
+    ],
+    "wof:id":1209440581,
+    "wof:lastmodified":1537706668,
+    "wof:name":"Terken",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.00654,
+    37.12364,
+    37.00654,
+    37.12364
+],
+  "geometry": {"coordinates":[37.00654,37.12364],"type":"Point"}
+}

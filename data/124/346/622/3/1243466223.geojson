@@ -1,0 +1,67 @@
+{
+  "id": 1243466223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.66667,37.78333,37.66667,37.78333",
+    "geom:latitude":37.78333,
+    "geom:longitude":37.66667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kulaksiz",
+    "gn:country_code":"TR",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305798,
+    "gn:latitude":37.78333,
+    "gn:longitude":37.66667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kulaks\u0131z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679295,
+        890460139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305798
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23c72a74a59a0c6ca7855729acbf0d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460139,
+            "locality_id":1243466223,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":1243466223,
+    "wof:lastmodified":1536777517,
+    "wof:name":"Kulaksiz",
+    "wof:parent_id":890460139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.66667,
+    37.78333,
+    37.66667,
+    37.78333
+],
+  "geometry": {"coordinates":[37.66667,37.78333],"type":"Point"}
+}

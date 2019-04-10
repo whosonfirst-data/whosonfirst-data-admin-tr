@@ -1,0 +1,75 @@
+{
+  "id": 1243109563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.17543,40.2488,42.17543,40.2488",
+    "geom:latitude":40.2488,
+    "geom:longitude":42.17543,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Balabantasi",
+    "gn:country_code":"TR",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751183,
+    "gn:latitude":40.2488,
+    "gn:longitude":42.17543,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Balabanta\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Balabanta\u015f\u0131"
+    ],
+    "name:und_x_variant":[
+        "Ko\u00e7esor",
+        "Ke\u00e7esor",
+        "Balabanta\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890461201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751183
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ffb8f44021d9622a8d21c9260cf77cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461201,
+            "locality_id":1243109563,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1243109563,
+    "wof:lastmodified":1537708094,
+    "wof:name":"Balabantasi",
+    "wof:parent_id":890461201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.17543,
+    40.2488,
+    42.17543,
+    40.2488
+],
+  "geometry": {"coordinates":[42.17543,40.2488],"type":"Point"}
+}

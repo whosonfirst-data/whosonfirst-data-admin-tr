@@ -1,0 +1,69 @@
+{
+  "id": 1108950819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7061566175,41.032124287,28.7061566175,41.032124287",
+    "geom:latitude":41.032124,
+    "geom:longitude":28.706157,
+    "iso:country":"TR",
+    "lbl:latitude":41.032124,
+    "lbl:longitude":28.706157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Ye\u015filkent"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912655,
+        1108709309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368661,
+    "wof:geomhash":"ae8e007b658862b19568c4da2d1bf97d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709309,
+            "locality_id":101912655,
+            "neighbourhood_id":1108950819,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950819,
+    "wof:lastmodified":1534379467,
+    "wof:name":"Yesilkent",
+    "wof:parent_id":101912655,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1108950863
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.70615661749282,
+    41.03212428703664,
+    28.70615661749282,
+    41.03212428703664
+],
+  "geometry": {"coordinates":[28.70615661749282,41.03212428703664],"type":"Point"}
+}

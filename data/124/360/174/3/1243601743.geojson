@@ -1,0 +1,67 @@
+{
+  "id": 1243601743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62742,39.17172,30.62742,39.17172",
+    "geom:latitude":39.17172,
+    "geom:longitude":30.62742,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Oynas",
+    "gn:country_code":"TR",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8244553,
+    "gn:latitude":39.17172,
+    "gn:longitude":30.62742,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Oyna\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890464477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8244553
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"949bc0740a7a70f9802fb55aa16b857d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464477,
+            "locality_id":1243601743,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1243601743,
+    "wof:lastmodified":1537075600,
+    "wof:name":"Oynas",
+    "wof:parent_id":890464477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62742,
+    39.17172,
+    30.62742,
+    39.17172
+],
+  "geometry": {"coordinates":[30.62742,39.17172],"type":"Point"}
+}

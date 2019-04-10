@@ -1,0 +1,74 @@
+{
+  "id": 1277007665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26777,40.53823,30.26777,40.53823",
+    "geom:latitude":40.53823,
+    "geom:longitude":30.26777,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Alifuatpasa",
+    "gn:country_code":"TR",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747767,
+    "gn:latitude":40.53823,
+    "gn:longitude":30.26777,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Alifuatpa\u015fa",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Alifuatpa\u015fa"
+    ],
+    "name:und_x_variant":[
+        "D\u00fczokca\u015fehir",
+        "D\u00fczak\u00e7a\u015fehir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        890460559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747767
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"878d7c92c9158d649c520ae3cd76f7b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460559,
+            "locality_id":1277007665,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1277007665,
+    "wof:lastmodified":1537707971,
+    "wof:name":"Alifuatpasa",
+    "wof:parent_id":890460559,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26777,
+    40.53823,
+    30.26777,
+    40.53823
+],
+  "geometry": {"coordinates":[30.26777,40.53823],"type":"Point"}
+}

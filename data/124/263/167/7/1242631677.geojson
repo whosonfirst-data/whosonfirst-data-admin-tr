@@ -1,0 +1,67 @@
+{
+  "id": 1242631677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86703,39.36454,31.86703,39.36454",
+    "geom:latitude":39.36454,
+    "geom:longitude":31.86703,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Mercan",
+    "gn:country_code":"TR",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304579,
+    "gn:latitude":39.36454,
+    "gn:longitude":31.86703,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Mercan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        1108709539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304579
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dfa46971e6ea2f9e858b207837b162ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709539,
+            "locality_id":1242631677,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1242631677,
+    "wof:lastmodified":1536985234,
+    "wof:name":"Mercan",
+    "wof:parent_id":1108709539,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.86703,
+    39.36454000000001,
+    31.86703,
+    39.36454000000001
+],
+  "geometry": {"coordinates":[31.86703,39.36454000000001],"type":"Point"}
+}

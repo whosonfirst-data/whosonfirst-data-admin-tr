@@ -1,0 +1,67 @@
+{
+  "id": 1242694461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.88139,38.88361,43.88139,38.88361",
+    "geom:latitude":38.88361,
+    "geom:longitude":43.88139,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Gunduzlu",
+    "gn:country_code":"TR",
+    "gn:dem":2242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313506,
+    "gn:latitude":38.88361,
+    "gn:longitude":43.88139,
+    "gn:modification_date":"2003-03-11",
+    "gn:name":"G\u00fcnd\u00fczl\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313506
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b1e42e4bfd9b8ab21a3e855d52d78484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710079,
+            "locality_id":1242694461,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1242694461,
+    "wof:lastmodified":1536895261,
+    "wof:name":"Gunduzlu",
+    "wof:parent_id":1108710079,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.88139,
+    38.88361,
+    43.88139,
+    38.88361
+],
+  "geometry": {"coordinates":[43.88139,38.88361],"type":"Point"}
+}

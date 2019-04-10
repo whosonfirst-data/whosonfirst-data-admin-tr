@@ -1,0 +1,67 @@
+{
+  "id": 1276468091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30711,39.43139,32.30711,39.43139",
+    "geom:latitude":39.43139,
+    "geom:longitude":32.30711,
+    "gn:admin1_code":"68",
+    "gn:asciiname":"Sivri",
+    "gn:country_code":"TR",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300607,
+    "gn:latitude":39.43139,
+    "gn:longitude":32.30711,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Sivri",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        1108709821
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300607
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c65e9b7ff668d663291499b9f8271d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709821,
+            "locality_id":1276468091,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1276468091,
+    "wof:lastmodified":1537092127,
+    "wof:name":"Sivri",
+    "wof:parent_id":1108709821,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30710999999999,
+    39.43139,
+    32.30710999999999,
+    39.43139
+],
+  "geometry": {"coordinates":[32.30710999999999,39.43139],"type":"Point"}
+}

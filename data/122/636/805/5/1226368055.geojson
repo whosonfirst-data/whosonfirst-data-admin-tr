@@ -1,0 +1,67 @@
+{
+  "id": 1226368055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.52943,37.5645,32.52943,37.5645",
+    "geom:latitude":37.5645,
+    "geom:longitude":32.52943,
+    "gn:admin1_code":"71",
+    "gn:asciiname":"Secme",
+    "gn:country_code":"TR",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301361,
+    "gn:latitude":37.5645,
+    "gn:longitude":32.52943,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Se\u00e7me",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        890464377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301361
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"67f97d1da678f60809a5835023eed3ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464377,
+            "locality_id":1226368055,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1226368055,
+    "wof:lastmodified":1536757568,
+    "wof:name":"Secme",
+    "wof:parent_id":890464377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.52943,
+    37.5645,
+    32.52943,
+    37.5645
+],
+  "geometry": {"coordinates":[32.52943,37.5645],"type":"Point"}
+}

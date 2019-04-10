@@ -1,0 +1,67 @@
+{
+  "id": 1310131343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.16667,38.03333,43.16667,38.03333",
+    "geom:latitude":38.03333,
+    "geom:longitude":43.16667,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Arkanis",
+    "gn:country_code":"TR",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323611,
+    "gn:latitude":38.03333,
+    "gn:longitude":43.16667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Arkanis",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323611
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0aee18e2f70fad70be468e377131dc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710025,
+            "locality_id":1310131343,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1310131343,
+    "wof:lastmodified":1536959236,
+    "wof:name":"Arkanis",
+    "wof:parent_id":1108710025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.16667,
+    38.03333,
+    43.16667,
+    38.03333
+],
+  "geometry": {"coordinates":[43.16667,38.03333],"type":"Point"}
+}

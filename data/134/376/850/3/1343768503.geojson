@@ -1,0 +1,67 @@
+{
+  "id": 1343768503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16363,38.33827,30.16363,38.33827",
+    "geom:latitude":38.33827,
+    "geom:longitude":30.16363,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alamescit",
+    "gn:country_code":"TR",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8227232,
+    "gn:latitude":38.33827,
+    "gn:longitude":30.16363,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Alamescit",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8227232
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"65700ea24fd7b00fd9092641eaf5a88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461685,
+            "locality_id":1343768503,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1343768503,
+    "wof:lastmodified":1536799395,
+    "wof:name":"Alamescit",
+    "wof:parent_id":890461685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16363,
+    38.33827,
+    30.16363,
+    38.33827
+],
+  "geometry": {"coordinates":[30.16363,38.33827],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 85906529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0001,
+    "geom:area_square_m":932343.850143,
+    "geom:bbox":"28.9420263947,41.0151382071,28.9544677734,41.0258563577",
+    "geom:latitude":41.020849,
+    "geom:longitude":28.948485,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":41.020061,
+    "lbl:longitude":28.951023,
+    "mps:latitude":41.021355,
+    "mps:longitude":28.947981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"??",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Seyh Resmi"
+    ],
+    "name:und_x_preferred":[
+        "\u015eeyh Resmi"
+    ],
+    "name:unk_x_variant":[
+        "\u015eeyh Resmi"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"\u015eeyh Resmi",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Fatih",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":120,
+    "qs:photo_sum":321,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390328,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724064,
+        "qs:id":14455
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a4b0621f02c3b5dd062f2a64becf4a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "neighbourhood_id":85906529,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85906529,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527268836,
+    "wof:name":"\u015eeyh Resmi",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.94202639474327,
+    41.01513820705021,
+    28.95446777341687,
+    41.02585635766827
+],
+  "geometry": {"coordinates":[[[28.95446777341687,41.01721057005017],[28.95446777341476,41.01620930624976],[28.9544677734001,41.01513821520004],[28.95365960023634,41.01513820759351],[28.95172119140022,41.01513820705021],[28.95172119140022,41.01721056869188],[28.94897460938176,41.01721056950687],[28.94622802731431,41.01721056950687],[28.94544620316611,41.01617436410005],[28.94348144530022,41.01617436410005],[28.94348144530022,41.01721057820009],[28.94348144301796,41.01928286614071],[28.94210815427522,41.02110302073514],[28.94210815427522,41.02338999041721],[28.94202639474327,41.02357060585902],[28.94345495358544,41.02546419767029],[28.94348144530011,41.02547122078357],[28.94348144530011,41.02549937830007],[28.9435876575829,41.02549937830007],[28.94493421077107,41.02585635766827],[28.94574215795853,41.02549937830007],[28.94897460938489,41.02549937196132],[28.95172119140011,41.02549936888245],[28.95172119140022,41.02342726989059],[28.95446777341368,41.02342726659181],[28.95446777341687,41.02135510053759],[28.95446777341402,41.01928286786254],[28.95446777341687,41.01721057005017]]],"type":"Polygon"}
+}

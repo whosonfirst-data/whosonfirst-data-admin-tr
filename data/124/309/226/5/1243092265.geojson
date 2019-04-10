@@ -1,0 +1,71 @@
+{
+  "id": 1243092265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.93333,38.0,42.93333,38.0",
+    "geom:latitude":38.0,
+    "geom:longitude":42.93333,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Sim",
+    "gn:country_code":"TR",
+    "gn:dem":2184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300794,
+    "gn:latitude":38.0,
+    "gn:longitude":42.93333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sim",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sin",
+        "Sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710025
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300794
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0194a87683039dd4eb7460a54783d238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710025,
+            "locality_id":1243092265,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1243092265,
+    "wof:lastmodified":1537706718,
+    "wof:name":"Sim",
+    "wof:parent_id":1108710025,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.93333,
+    38.0,
+    42.93333,
+    38.0
+],
+  "geometry": {"coordinates":[42.93333,38.0],"type":"Point"}
+}

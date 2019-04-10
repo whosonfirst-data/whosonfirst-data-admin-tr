@@ -1,0 +1,73 @@
+{
+  "id": 1209841151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.24121,38.67392,43.24121,38.67392",
+    "geom:latitude":38.67392,
+    "geom:longitude":43.24121,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Alakoy",
+    "gn:country_code":"TR",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324231,
+    "gn:latitude":38.67392,
+    "gn:longitude":43.24121,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Alak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alayk\u00f6y",
+        "Alay",
+        "Ala",
+        "Alak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890462703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324231
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a7cf1e5c935ec4d6e5df168f2b5a74d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462703,
+            "locality_id":1209841151,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1209841151,
+    "wof:lastmodified":1537707474,
+    "wof:name":"Alakoy",
+    "wof:parent_id":890462703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.24121,
+    38.67392,
+    43.24121,
+    38.67392
+],
+  "geometry": {"coordinates":[43.24121,38.67392],"type":"Point"}
+}

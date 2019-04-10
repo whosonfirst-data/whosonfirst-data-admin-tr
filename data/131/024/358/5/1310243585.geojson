@@ -1,0 +1,67 @@
+{
+  "id": 1310243585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42601,41.60434,33.42601,41.60434",
+    "geom:latitude":41.60434,
+    "geom:longitude":33.42601,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Kayaoglu",
+    "gn:country_code":"TR",
+    "gn:dem":909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743686,
+    "gn:latitude":41.60434,
+    "gn:longitude":33.42601,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kayao\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890460195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743686
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5c0c930a9dba2fe5010fdc6e8a13e198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460195,
+            "locality_id":1310243585,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1310243585,
+    "wof:lastmodified":1536797373,
+    "wof:name":"Kayaoglu",
+    "wof:parent_id":890460195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42601,
+    41.60434,
+    33.42601,
+    41.60434
+],
+  "geometry": {"coordinates":[33.42601,41.60434],"type":"Point"}
+}

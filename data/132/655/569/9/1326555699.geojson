@@ -1,0 +1,67 @@
+{
+  "id": 1326555699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.75314,38.28829,28.75314,38.28829",
+    "geom:latitude":38.28829,
+    "geom:longitude":28.75314,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Omerler",
+    "gn:country_code":"TR",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10003281,
+    "gn:latitude":38.28829,
+    "gn:longitude":28.75314,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"\u00d6merler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10003281
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"426322c23bd1404a0147cfdb2219f839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709843,
+            "locality_id":1326555699,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1326555699,
+    "wof:lastmodified":1536950459,
+    "wof:name":"Omerler",
+    "wof:parent_id":1108709843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.75314,
+    38.28829,
+    28.75314,
+    38.28829
+],
+  "geometry": {"coordinates":[28.75314,38.28829],"type":"Point"}
+}

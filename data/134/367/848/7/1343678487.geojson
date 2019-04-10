@@ -1,0 +1,67 @@
+{
+  "id": 1343678487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.27083,38.65111,28.27083,38.65111",
+    "geom:latitude":38.65111,
+    "geom:longitude":28.27083,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Ortakoy",
+    "gn:country_code":"TR",
+    "gn:dem":581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303292,
+    "gn:latitude":38.65111,
+    "gn:longitude":28.27083,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Ortak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890464531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303292
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bd9a05aa2277b621746a8e11122404a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464531,
+            "locality_id":1343678487,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1343678487,
+    "wof:lastmodified":1536929804,
+    "wof:name":"Ortakoy",
+    "wof:parent_id":890464531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.27083,
+    38.65111,
+    28.27083,
+    38.65111
+],
+  "geometry": {"coordinates":[28.27083,38.65111],"type":"Point"}
+}

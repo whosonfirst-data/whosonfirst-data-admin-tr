@@ -1,0 +1,78 @@
+{
+  "id": 1259508885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.95,36.89417,37.95,36.89417",
+    "geom:latitude":36.89417,
+    "geom:longitude":37.95,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Cisrin",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":318297,
+    "gn:latitude":36.89417,
+    "gn:longitude":37.95,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Cisrin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6rmeta\u015f"
+    ],
+    "name:und_x_variant":[
+        "Cisri",
+        "Dzhisrin",
+        "Davuto\u011flu",
+        "Cirsin",
+        "Cisrin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        1108709633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":318297
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"553c5d5a05758bb17201dfc2804e0350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709633,
+            "locality_id":1259508885,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1259508885,
+    "wof:lastmodified":1537707278,
+    "wof:name":"Cisrin",
+    "wof:parent_id":1108709633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.95,
+    36.89417,
+    37.95,
+    36.89417
+],
+  "geometry": {"coordinates":[37.95,36.89417],"type":"Point"}
+}

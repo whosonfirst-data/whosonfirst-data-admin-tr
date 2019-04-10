@@ -1,0 +1,67 @@
+{
+  "id": 1293253445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.5,40.6,38.5,40.6",
+    "geom:latitude":40.6,
+    "geom:longitude":38.5,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Kozkoy",
+    "gn:country_code":"TR",
+    "gn:dem":2251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":742450,
+    "gn:latitude":40.6,
+    "gn:longitude":38.5,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kozk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890462767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":742450
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"98526ec210e9f96fa0edcddafaa2f9f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462767,
+            "locality_id":1293253445,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1293253445,
+    "wof:lastmodified":1536625629,
+    "wof:name":"Kozkoy",
+    "wof:parent_id":890462767,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.5,
+    40.6,
+    38.5,
+    40.6
+],
+  "geometry": {"coordinates":[38.5,40.6],"type":"Point"}
+}

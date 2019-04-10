@@ -1,0 +1,73 @@
+{
+  "id": 1309750369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.14867,38.89093,27.14867,38.89093",
+    "geom:latitude":38.89093,
+    "geom:longitude":27.14867,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Yuksek",
+    "gn:country_code":"TR",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296177,
+    "gn:latitude":38.89093,
+    "gn:longitude":27.14867,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Y\u00fcksek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Y\u00fcksek"
+    ],
+    "name:tur_x_variant":[
+        "Y\u00fcksekk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890462515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296177
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7797488d999f36d2b6421c6a8ac7c0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462515,
+            "locality_id":1309750369,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1309750369,
+    "wof:lastmodified":1537706556,
+    "wof:name":"Yuksek",
+    "wof:parent_id":890462515,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.14867000000001,
+    38.89093,
+    27.14867000000001,
+    38.89093
+],
+  "geometry": {"coordinates":[27.14867000000001,38.89093],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259809063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03257,39.13125,28.03257,39.13125",
+    "geom:latitude":39.13125,
+    "geom:longitude":28.03257,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Isaca",
+    "gn:country_code":"TR",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311212,
+    "gn:latitude":39.13125,
+    "gn:longitude":28.03257,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u0130saca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esece",
+        "\u0130saca"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890461947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311212
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"85690af99ee0c29e549bac430d8edb51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461947,
+            "locality_id":1259809063,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1259809063,
+    "wof:lastmodified":1537707048,
+    "wof:name":"Isaca",
+    "wof:parent_id":890461947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03257,
+    39.13125,
+    28.03257,
+    39.13125
+],
+  "geometry": {"coordinates":[28.03257,39.13125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343813043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.23518,40.87681,42.23518,40.87681",
+    "geom:latitude":40.87681,
+    "geom:longitude":42.23518,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Urunlu",
+    "gn:country_code":"TR",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748789,
+    "gn:latitude":40.87681,
+    "gn:longitude":42.23518,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"\u00dcr\u00fcnl\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dcr\u00fcnl\u00fc",
+        "C\u00fclek\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748789
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"156c88ae313c9848053577e2a4e7345c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709777,
+            "locality_id":1343813043,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1343813043,
+    "wof:lastmodified":1537708007,
+    "wof:name":"Urunlu",
+    "wof:parent_id":1108709777,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.23518,
+    40.87681,
+    42.23518,
+    40.87681
+],
+  "geometry": {"coordinates":[42.23518,40.87681],"type":"Point"}
+}

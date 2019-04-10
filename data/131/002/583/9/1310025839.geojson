@@ -1,0 +1,67 @@
+{
+  "id": 1310025839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79889,37.13722,30.79889,37.13722",
+    "geom:latitude":37.13722,
+    "geom:longitude":30.79889,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yenimahalle",
+    "gn:country_code":"TR",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296956,
+    "gn:latitude":37.13722,
+    "gn:longitude":30.79889,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Yenimahalle",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296956
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d11b6a5147f0e5bc72692c33537014b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709263,
+            "locality_id":1310025839,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1310025839,
+    "wof:lastmodified":1536611496,
+    "wof:name":"Yenimahalle",
+    "wof:parent_id":1108709263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79889,
+    37.13722,
+    30.79889,
+    37.13722
+],
+  "geometry": {"coordinates":[30.79889,37.13722],"type":"Point"}
+}

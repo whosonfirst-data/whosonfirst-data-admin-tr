@@ -1,0 +1,70 @@
+{
+  "id": 1310327889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.41953,40.97753,30.41953,40.97753",
+    "geom:latitude":40.97753,
+    "geom:longitude":30.41953,
+    "gn:admin1_code":"54",
+    "gn:asciiname":"Sirakoy",
+    "gn:country_code":"TR",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8281829,
+    "gn:latitude":40.97753,
+    "gn:longitude":30.41953,
+    "gn:modification_date":"2012-05-07",
+    "gn:name":"S\u0131rak\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "S\u0131rak\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8281829
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"60978e3077e75ab7509ef7a85ad43894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709911,
+            "locality_id":1310327889,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1310327889,
+    "wof:lastmodified":1537708287,
+    "wof:name":"Sirakoy",
+    "wof:parent_id":1108709911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.41953,
+    40.97753,
+    30.41953,
+    40.97753
+],
+  "geometry": {"coordinates":[30.41953,40.97753],"type":"Point"}
+}

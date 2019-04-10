@@ -1,0 +1,72 @@
+{
+  "id": 1259584321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.745,39.00111,30.745,39.00111",
+    "geom:latitude":39.00111,
+    "geom:longitude":30.745,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Alanyurt",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324182,
+    "gn:latitude":39.00111,
+    "gn:longitude":30.745,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Alanyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bavurdu",
+        "Alanyurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890460069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324182
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f102caccd4102f026cb925f664297401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460069,
+            "locality_id":1259584321,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1259584321,
+    "wof:lastmodified":1537707473,
+    "wof:name":"Alanyurt",
+    "wof:parent_id":890460069,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.745,
+    39.00111,
+    30.745,
+    39.00111
+],
+  "geometry": {"coordinates":[30.745,39.00111],"type":"Point"}
+}

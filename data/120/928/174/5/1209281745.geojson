@@ -1,0 +1,64 @@
+{
+  "id": 1209281745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.62156,39.48234,41.62156,39.48234",
+    "geom:latitude":39.48234,
+    "geom:longitude":41.62156,
+    "gn:admin1_code":"25",
+    "gn:asciiname":"Sildiz",
+    "gn:country_code":"TR",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300811,
+    "gn:latitude":39.48234,
+    "gn:longitude":41.62156,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"S\u0131ld\u0131z",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "S\u0131ld\u0131z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300811
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1d8cec1753bdb3145aebfe3846ccf43b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209281745
+        }
+    ],
+    "wof:id":1209281745,
+    "wof:lastmodified":1537706718,
+    "wof:name":"Sildiz",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.62156,
+    39.48234,
+    41.62156,
+    39.48234
+],
+  "geometry": {"coordinates":[41.62156,39.48234],"type":"Point"}
+}

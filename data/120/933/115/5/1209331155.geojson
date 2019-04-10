@@ -1,0 +1,68 @@
+{
+  "id": 1209331155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.45663,38.59862,41.45663,38.59862",
+    "geom:latitude":38.59862,
+    "geom:longitude":41.45663,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Incesu",
+    "gn:country_code":"TR",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299977,
+    "gn:latitude":38.59862,
+    "gn:longitude":41.45663,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"\u0130ncesu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130ncesu"
+    ],
+    "name:und_x_variant":[
+        "Tapik",
+        "Tabik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299977
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e2aac4c88e65c2abd58c3d58f26ecdc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209331155
+        }
+    ],
+    "wof:id":1209331155,
+    "wof:lastmodified":1537706692,
+    "wof:name":"Incesu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.45663,
+    38.59862,
+    41.45663,
+    38.59862
+],
+  "geometry": {"coordinates":[41.45663,38.59862],"type":"Point"}
+}

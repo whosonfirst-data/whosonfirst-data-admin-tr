@@ -1,0 +1,110 @@
+{
+  "id": 1126102345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.06176,41.07081,29.06176,41.07081",
+    "geom:latitude":41.07081,
+    "geom:longitude":29.06176,
+    "gn:gn_country":"TR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"TR",
+    "lbl:latitude":41.07081,
+    "lbl:longitude":29.06176,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Kandilli"
+    ],
+    "name:fre_x_preferred":[
+        "Kandilli"
+    ],
+    "name:ger_x_preferred":[
+        "Kandilli"
+    ],
+    "name:ita_x_preferred":[
+        "Kandilli"
+    ],
+    "name:tur_x_preferred":[
+        "Kandilli"
+    ],
+    "qs_pg:aaroncc":"TR",
+    "qs_pg:gn_country":"TR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":744717,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kandilli",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":313,
+    "qs_pg:photos_1k":63,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":313,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":119731,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2343597,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912647,
+        890462769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744717,
+        "gp:id":2343597,
+        "qs_pg:id":119731,
+        "wd:id":"Q12810206"
+    },
+    "wof:country":"TR",
+    "wof:created":1497316297,
+    "wof:geomhash":"326cb132db5eab8a0367ece24b1aca01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912647,
+            "neighbourhood_id":1126102345,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1126102345,
+    "wof:lastmodified":1534379468,
+    "wof:name":"Kandilli",
+    "wof:parent_id":101912647,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        85904121
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.06176,
+    41.07081,
+    29.06176,
+    41.07081
+],
+  "geometry": {"coordinates":[29.06176,41.07081],"type":"Point"}
+}

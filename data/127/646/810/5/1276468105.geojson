@@ -1,0 +1,67 @@
+{
+  "id": 1276468105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.69611,37.44583,41.69611,37.44583",
+    "geom:latitude":37.44583,
+    "geom:longitude":41.69611,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Doluca",
+    "gn:country_code":"TR",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316353,
+    "gn:latitude":37.44583,
+    "gn:longitude":41.69611,
+    "gn:modification_date":"2005-05-24",
+    "gn:name":"Doluca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316353
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7a07680c62089d4b6419bac7caabcd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463867,
+            "locality_id":1276468105,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1276468105,
+    "wof:lastmodified":1537092107,
+    "wof:name":"Doluca",
+    "wof:parent_id":890463867,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.69611,
+    37.44583,
+    41.69611,
+    37.44583
+],
+  "geometry": {"coordinates":[41.69611,37.44583],"type":"Point"}
+}

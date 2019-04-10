@@ -1,0 +1,64 @@
+{
+  "id": 1209576729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.37916,40.85085,38.37916,40.85085",
+    "geom:latitude":40.85085,
+    "geom:longitude":38.37916,
+    "gn:admin1_code":"28",
+    "gn:asciiname":"Evrenkoy",
+    "gn:country_code":"TR",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10409619,
+    "gn:latitude":40.85085,
+    "gn:longitude":38.37916,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Evrenk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Evrenk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10409619
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"31578e5dab34bcf3b3b06887669401ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209576729
+        }
+    ],
+    "wof:id":1209576729,
+    "wof:lastmodified":1537708382,
+    "wof:name":"Evrenkoy",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.37916,
+    40.85085,
+    38.37916,
+    40.85085
+],
+  "geometry": {"coordinates":[38.37916,40.85085],"type":"Point"}
+}

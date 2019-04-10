@@ -1,0 +1,67 @@
+{
+  "id": 1309856491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.88066,41.00101,38.88066,41.00101",
+    "geom:latitude":41.00101,
+    "geom:longitude":38.88066,
+    "gn:admin1_code":"28.0",
+    "gn:asciiname":"Avcili",
+    "gn:country_code":"TR",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751553,
+    "gn:latitude":41.00101,
+    "gn:longitude":38.88066,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Avc\u0131l\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679341,
+        890461657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751553
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c157f3f1d841d33103ad3c60989aef7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461657,
+            "locality_id":1309856491,
+            "region_id":85679341
+        }
+    ],
+    "wof:id":1309856491,
+    "wof:lastmodified":1536856948,
+    "wof:name":"Avcili",
+    "wof:parent_id":890461657,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.88066,
+    41.00101,
+    38.88066,
+    41.00101
+],
+  "geometry": {"coordinates":[38.88066,41.00101],"type":"Point"}
+}

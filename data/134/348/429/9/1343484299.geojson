@@ -1,0 +1,67 @@
+{
+  "id": 1343484299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.09847,38.50514,34.09847,38.50514",
+    "geom:latitude":38.50514,
+    "geom:longitude":34.09847,
+    "gn:admin1_code":"75",
+    "gn:asciiname":"Ekecektol",
+    "gn:country_code":"TR",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315870,
+    "gn:latitude":38.50514,
+    "gn:longitude":34.09847,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Ekecektol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679457,
+        890461771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315870
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e555ae09d7648bfd8c1aa046d2fbf173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461771,
+            "locality_id":1343484299,
+            "region_id":85679457
+        }
+    ],
+    "wof:id":1343484299,
+    "wof:lastmodified":1536712105,
+    "wof:name":"Ekecektol",
+    "wof:parent_id":890461771,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.09847,
+    38.50514,
+    34.09847,
+    38.50514
+],
+  "geometry": {"coordinates":[34.09847,38.50514],"type":"Point"}
+}

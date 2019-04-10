@@ -1,0 +1,73 @@
+{
+  "id": 1360052863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.63613,40.02956,40.63613,40.02956",
+    "geom:latitude":40.02956,
+    "geom:longitude":40.63613,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Musadanisman",
+    "gn:country_code":"TR",
+    "gn:dem":2013,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741415,
+    "gn:latitude":40.02956,
+    "gn:longitude":40.63613,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Musadan\u0131\u015fman",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musudan\u0131\u015fman",
+        "Musatan\u0131\u015fmen",
+        "Musatan\u0131\u015fman",
+        "Musadan\u0131\u015fman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741415
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ded0cee2985564f95ae0b18bd7539ae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709231,
+            "locality_id":1360052863,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1360052863,
+    "wof:lastmodified":1537707765,
+    "wof:name":"Musadanisman",
+    "wof:parent_id":1108709231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.63613,
+    40.02956,
+    40.63613,
+    40.02956
+],
+  "geometry": {"coordinates":[40.63613,40.02956],"type":"Point"}
+}

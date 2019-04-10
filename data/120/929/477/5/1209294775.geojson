@@ -1,0 +1,65 @@
+{
+  "id": 1209294775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.10873,40.26953,30.10873,40.26953",
+    "geom:latitude":40.26953,
+    "geom:longitude":30.10873,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Uyuk",
+    "gn:country_code":"TR",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738303,
+    "gn:latitude":40.26953,
+    "gn:longitude":30.10873,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00dcy\u00fck",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00dcy\u00fckk\u00f6y",
+        "\u00dcy\u00fck"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738303
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9c76e4629c168a6e0f6196ddd14dcffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209294775
+        }
+    ],
+    "wof:id":1209294775,
+    "wof:lastmodified":1537707660,
+    "wof:name":"Uyuk",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.10873,
+    40.26953,
+    30.10873,
+    40.26953
+],
+  "geometry": {"coordinates":[30.10873,40.26953],"type":"Point"}
+}

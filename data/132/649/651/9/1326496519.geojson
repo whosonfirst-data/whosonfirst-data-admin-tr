@@ -1,0 +1,76 @@
+{
+  "id": 1326496519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.28867,39.89068,27.28867,39.89068",
+    "geom:latitude":39.89068,
+    "geom:longitude":27.28867,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Namazgah",
+    "gn:country_code":"TR",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303949,
+    "gn:latitude":39.89068,
+    "gn:longitude":27.28867,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Namazg\u00e2h",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Namazg\u00e2hk\u00f6y"
+    ],
+    "name:tur_x_variant":[
+        "Namaz"
+    ],
+    "name:und_x_variant":[
+        "Namazg\u00e2h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303949
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0a1c77a113d74c907ffe739ed48353d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709985,
+            "locality_id":1326496519,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1326496519,
+    "wof:lastmodified":1537706823,
+    "wof:name":"Namazgah",
+    "wof:parent_id":1108709985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.28867,
+    39.89068,
+    27.28867,
+    39.89068
+],
+  "geometry": {"coordinates":[27.28867,39.89068],"type":"Point"}
+}

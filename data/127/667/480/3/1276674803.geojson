@@ -1,0 +1,67 @@
+{
+  "id": 1276674803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94335,40.91503,30.94335,40.91503",
+    "geom:latitude":40.91503,
+    "geom:longitude":30.94335,
+    "gn:admin1_code":"93",
+    "gn:asciiname":"Horoz",
+    "gn:country_code":"TR",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140627,
+    "gn:latitude":40.91503,
+    "gn:longitude":30.94335,
+    "gn:modification_date":"2012-01-22",
+    "gn:name":"Horoz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679533,
+        890464119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140627
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"27ff43dbec19817ca19d845a6afac7c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464119,
+            "locality_id":1276674803,
+            "region_id":85679533
+        }
+    ],
+    "wof:id":1276674803,
+    "wof:lastmodified":1536817358,
+    "wof:name":"Horoz",
+    "wof:parent_id":890464119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94335,
+    40.91503,
+    30.94335,
+    40.91503
+],
+  "geometry": {"coordinates":[30.94335,40.91503],"type":"Point"}
+}

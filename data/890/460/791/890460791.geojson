@@ -1,0 +1,76 @@
+{
+  "id": 890460791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21594,38.53108,36.21594,38.53108",
+    "geom:latitude":38.53108,
+    "geom:longitude":36.21594,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Keltepe"
+    ],
+    "qs:name":"G\u00fcltepe",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Kayseri",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85679321,
+        85632393,
+        890460627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313655,
+        "gp:id":56043204,
+        "qs:id":1314407
+    },
+    "wof:country":"TR",
+    "wof:created":1469053327,
+    "wof:geomhash":"235b59fd00ef8080661bea62afcb438b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460627,
+            "neighbourhood_id":890460791,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":890460791,
+    "wof:lastmodified":1505343683,
+    "wof:name":"G\u00fcltepe",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21594,
+    38.53108,
+    36.21594,
+    38.53108
+],
+  "geometry": {"coordinates":[36.21594,38.53108],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1108950227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9573865153,41.0134178813,28.9573865153,41.0134178813",
+    "geom:latitude":41.013418,
+    "geom:longitude":28.957387,
+    "iso:country":"TR",
+    "lbl:latitude":41.013418,
+    "lbl:longitude":28.957387,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":15.0,
+    "mz:min_zoom":11.0,
+    "mz:tier_metro":30,
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368228,
+    "wof:geomhash":"7c21953d6dd9783c0931233c55188228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "neighbourhood_id":1108950227,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950227,
+    "wof:lastmodified":1534379466,
+    "wof:name":"Fatih",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        890462675
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.95738651533367,
+    41.01341788131778,
+    28.95738651533367,
+    41.01341788131778
+],
+  "geometry": {"coordinates":[28.95738651533367,41.01341788131778],"type":"Point"}
+}

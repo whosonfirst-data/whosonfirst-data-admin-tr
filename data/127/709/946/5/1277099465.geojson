@@ -1,0 +1,67 @@
+{
+  "id": 1277099465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.69505,39.13861,43.69505,39.13861",
+    "geom:latitude":39.13861,
+    "geom:longitude":43.69505,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Karavul",
+    "gn:country_code":"TR",
+    "gn:dem":2267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309221,
+    "gn:latitude":39.13861,
+    "gn:longitude":43.69505,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Karavul",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890464469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309221
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c1156beb9cd0952c63ce7edc14b74fc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464469,
+            "locality_id":1277099465,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1277099465,
+    "wof:lastmodified":1536743312,
+    "wof:name":"Karavul",
+    "wof:parent_id":890464469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.69505,
+    39.13861,
+    43.69505,
+    39.13861
+],
+  "geometry": {"coordinates":[43.69505,39.13861],"type":"Point"}
+}

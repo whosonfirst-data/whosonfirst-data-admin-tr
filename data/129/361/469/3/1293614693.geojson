@@ -1,0 +1,67 @@
+{
+  "id": 1293614693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.66829,37.535,43.66829,37.535",
+    "geom:latitude":37.535,
+    "geom:longitude":43.66829,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Kasalti",
+    "gn:country_code":"TR",
+    "gn:dem":2661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308937,
+    "gn:latitude":37.535,
+    "gn:longitude":43.66829,
+    "gn:modification_date":"2009-03-31",
+    "gn:name":"Ka\u015falt\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679501,
+        890464425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308937
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0c7f85e714921c8cb636fa64ee50aa01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464425,
+            "locality_id":1293614693,
+            "region_id":85679501
+        }
+    ],
+    "wof:id":1293614693,
+    "wof:lastmodified":1536600564,
+    "wof:name":"Kasalti",
+    "wof:parent_id":890464425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.66829,
+    37.535,
+    43.66829,
+    37.535
+],
+  "geometry": {"coordinates":[43.66829,37.535],"type":"Point"}
+}

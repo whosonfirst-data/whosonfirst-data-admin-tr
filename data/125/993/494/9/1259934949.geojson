@@ -1,0 +1,67 @@
+{
+  "id": 1259934949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.71667,40.43333,40.71667,40.43333",
+    "geom:latitude":40.43333,
+    "geom:longitude":40.71667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kadmir",
+    "gn:country_code":"TR",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744880,
+    "gn:latitude":40.43333,
+    "gn:longitude":40.71667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kadmir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890461879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744880
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b76bf895dd432d60e2ba53a5233dbfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461879,
+            "locality_id":1259934949,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1259934949,
+    "wof:lastmodified":1536705491,
+    "wof:name":"Kadmir",
+    "wof:parent_id":890461879,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.71667,
+    40.43333,
+    40.71667,
+    40.43333
+],
+  "geometry": {"coordinates":[40.71667,40.43333],"type":"Point"}
+}

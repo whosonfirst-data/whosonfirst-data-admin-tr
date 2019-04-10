@@ -1,0 +1,70 @@
+{
+  "id": 1343330029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.03788,38.60372,39.03788,38.60372",
+    "geom:latitude":38.60372,
+    "geom:longitude":39.03788,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Bagdere",
+    "gn:country_code":"TR",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322515,
+    "gn:latitude":38.60372,
+    "gn:longitude":39.03788,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ba\u011fdere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u011fdere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322515
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1380fc1aba26b1c6a052d84973f6648d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462513,
+            "locality_id":1343330029,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1343330029,
+    "wof:lastmodified":1537707415,
+    "wof:name":"Bagdere",
+    "wof:parent_id":890462513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.03788,
+    38.60372,
+    39.03788,
+    38.60372
+],
+  "geometry": {"coordinates":[39.03788,38.60372],"type":"Point"}
+}

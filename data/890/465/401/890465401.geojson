@@ -1,0 +1,68 @@
+{
+  "id": 890465401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.10083,37.39167,43.10083,37.39167",
+    "geom:latitude":37.39167,
+    "geom:longitude":43.10083,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":916,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Hedri\u015f"
+    ],
+    "qs:name":"Da\u011fdibi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679493,
+        890462089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317765,
+        "qs:id":547593
+    },
+    "wof:country":"TR",
+    "wof:created":1469053518,
+    "wof:geomhash":"41c4fa8b17f57d438af5134f5dd7f117",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462089,
+            "locality_id":890465401,
+            "region_id":85679493
+        }
+    ],
+    "wof:id":890465401,
+    "wof:lastmodified":1505343703,
+    "wof:name":"Da\u011fdibi",
+    "wof:parent_id":890462089,
+    "wof:placetype":"locality",
+    "wof:population":916,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.10083,
+    37.39167,
+    43.10083,
+    37.39167
+],
+  "geometry": {"coordinates":[43.10083,37.39167],"type":"Point"}
+}

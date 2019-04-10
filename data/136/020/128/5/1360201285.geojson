@@ -1,0 +1,70 @@
+{
+  "id": 1360201285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.48638,40.29046,37.48638,40.29046",
+    "geom:latitude":40.29046,
+    "geom:longitude":37.48638,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Ozen",
+    "gn:country_code":"TR",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024253,
+    "gn:latitude":40.29046,
+    "gn:longitude":37.48638,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"\u00d6zen",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00d6zen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024253
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"227560eafc5c6fde5a260515db8381a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709833,
+            "locality_id":1360201285,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1360201285,
+    "wof:lastmodified":1537708402,
+    "wof:name":"Ozen",
+    "wof:parent_id":1108709833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.48638,
+    40.29046,
+    37.48638,
+    40.29046
+],
+  "geometry": {"coordinates":[37.48638,40.29046],"type":"Point"}
+}

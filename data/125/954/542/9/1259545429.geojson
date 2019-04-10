@@ -1,0 +1,74 @@
+{
+  "id": 1259545429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.06077,40.65561,35.06077,40.65561",
+    "geom:latitude":40.65561,
+    "geom:longitude":35.06077,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Hizirdede",
+    "gn:country_code":"TR",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745639,
+    "gn:latitude":40.65561,
+    "gn:longitude":35.06077,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u0131z\u0131rdede",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "H\u0131z\u0131rdede"
+    ],
+    "name:und_x_variant":[
+        "H\u0131z\u0131rderek\u00f6y",
+        "H\u0131d\u0131rdede"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890462433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745639
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6aeb1fdcde48dbdc7e34efa313e17deb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462433,
+            "locality_id":1259545429,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1259545429,
+    "wof:lastmodified":1537707898,
+    "wof:name":"Hizirdede",
+    "wof:parent_id":890462433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.06077,
+    40.65561,
+    35.06077,
+    40.65561
+],
+  "geometry": {"coordinates":[35.06077,40.65561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890459169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41583,36.89667,38.41583,36.89667",
+    "geom:latitude":36.89667,
+    "geom:longitude":38.41583,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":159,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Zehvan"
+    ],
+    "qs:name":"Alanyurt",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":40,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890460731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324185,
+        "gp:id":56122718,
+        "qs:id":547713,
+        "wk:page":"Alanyurt"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053257,
+    "wof:geomhash":"c1fbd40ab81069c2ed1b9ef806525ab5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460731,
+            "locality_id":890459169,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":890459169,
+    "wof:lastmodified":1527793000,
+    "wof:name":"Alanyurt",
+    "wof:parent_id":890460731,
+    "wof:placetype":"locality",
+    "wof:population":159,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41583,
+    36.89667,
+    38.41583,
+    36.89667
+],
+  "geometry": {"coordinates":[38.41583,36.89667],"type":"Point"}
+}

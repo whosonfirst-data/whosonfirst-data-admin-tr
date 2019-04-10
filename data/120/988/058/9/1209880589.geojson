@@ -1,0 +1,70 @@
+{
+  "id": 1209880589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.73641,37.41354,28.73641,37.41354",
+    "geom:latitude":37.41354,
+    "geom:longitude":28.73641,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Ova",
+    "gn:country_code":"TR",
+    "gn:dem":841,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10181768,
+    "gn:latitude":37.41354,
+    "gn:longitude":28.73641,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Ova",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ova"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        1108709615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10181768
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bf6077a4571bfecb2910ffd8bb4dd9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709615,
+            "locality_id":1209880589,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1209880589,
+    "wof:lastmodified":1537708349,
+    "wof:name":"Ova",
+    "wof:parent_id":1108709615,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.73641,
+    37.41354000000001,
+    28.73641,
+    37.41354000000001
+],
+  "geometry": {"coordinates":[28.73641,37.41354000000001],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1360151513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61667,39.45,30.61667,39.45",
+    "geom:latitude":39.45,
+    "geom:longitude":30.61667,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Secaattin",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301365,
+    "gn:latitude":39.45,
+    "gn:longitude":30.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u015eecaattin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015e\u00fccaatin",
+        "\u015eecaaddin",
+        "\u015eecaattin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890464477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301365
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ae450ad528fb9b9e73482744512a9126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464477,
+            "locality_id":1360151513,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1360151513,
+    "wof:lastmodified":1537706740,
+    "wof:name":"Secaattin",
+    "wof:parent_id":890464477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61667000000001,
+    39.45,
+    30.61667000000001,
+    39.45
+],
+  "geometry": {"coordinates":[30.61667000000001,39.45],"type":"Point"}
+}

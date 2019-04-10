@@ -1,0 +1,74 @@
+{
+  "id": 1243025105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.7683,40.04262,41.7683,40.04262",
+    "geom:latitude":40.04262,
+    "geom:longitude":41.7683,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Tasli Guney",
+    "gn:country_code":"TR",
+    "gn:dem":1944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739046,
+    "gn:latitude":40.04262,
+    "gn:longitude":41.7683,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Ta\u015fl\u0131 G\u00fcney",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ta\u015fl\u0131 G\u00fcney"
+    ],
+    "name:und_x_variant":[
+        "Sansor",
+        "Ta\u015fl\u0131g\u00fcney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709803
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739046
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"044a23bb248e0283f6cbcc041748e740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709803,
+            "locality_id":1243025105,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1243025105,
+    "wof:lastmodified":1537707685,
+    "wof:name":"Tasli Guney",
+    "wof:parent_id":1108709803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.7683,
+    40.04262,
+    41.7683,
+    40.04262
+],
+  "geometry": {"coordinates":[41.7683,40.04262],"type":"Point"}
+}

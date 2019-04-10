@@ -1,0 +1,67 @@
+{
+  "id": 1243092135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25796,37.88905,36.25796,37.88905",
+    "geom:latitude":37.88905,
+    "geom:longitude":36.25796,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Topallar",
+    "gn:country_code":"TR",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299020,
+    "gn:latitude":37.88905,
+    "gn:longitude":36.25796,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Topallar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        1108709839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299020
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"605b14a97a4afd1ea11df39dedccce63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709839,
+            "locality_id":1243092135,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1243092135,
+    "wof:lastmodified":1536818380,
+    "wof:name":"Topallar",
+    "wof:parent_id":1108709839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25796,
+    37.88905,
+    36.25796,
+    37.88905
+],
+  "geometry": {"coordinates":[36.25796,37.88905],"type":"Point"}
+}

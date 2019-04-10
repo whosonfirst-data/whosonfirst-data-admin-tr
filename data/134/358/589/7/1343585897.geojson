@@ -1,0 +1,73 @@
+{
+  "id": 1343585897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.16108,37.39321,37.16108,37.39321",
+    "geom:latitude":37.39321,
+    "geom:longitude":37.16108,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Cigdemtepe",
+    "gn:country_code":"TR",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319237,
+    "gn:latitude":37.39321,
+    "gn:longitude":37.16108,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"\u00c7i\u011fdemtepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ataltepek\u00f6y",
+        "\u00c7atalh\u00fcy\u00fck",
+        "\u00c7atalh\u00f6y\u00fck Mezraas\u0131",
+        "\u00c7i\u011fdemtepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        1108709807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319237
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"102f48680ccfd6e5a774b9589ba32e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709807,
+            "locality_id":1343585897,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1343585897,
+    "wof:lastmodified":1537707311,
+    "wof:name":"Cigdemtepe",
+    "wof:parent_id":1108709807,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.16108,
+    37.39321,
+    37.16108,
+    37.39321
+],
+  "geometry": {"coordinates":[37.16108,37.39321],"type":"Point"}
+}

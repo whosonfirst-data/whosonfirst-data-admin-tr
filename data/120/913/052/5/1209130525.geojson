@@ -1,0 +1,64 @@
+{
+  "id": 1209130525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47126,41.47221,35.47126,41.47221",
+    "geom:latitude":41.47221,
+    "geom:longitude":35.47126,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Sakarinek",
+    "gn:country_code":"TR",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746855,
+    "gn:latitude":41.47221,
+    "gn:longitude":35.47126,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sakarinek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gog\u00f6z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746855
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4f7948f537c10d1a808475cbebc1270a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209130525
+        }
+    ],
+    "wof:id":1209130525,
+    "wof:lastmodified":1537707942,
+    "wof:name":"Sakarinek",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47126,
+    41.47221,
+    35.47126,
+    41.47221
+],
+  "geometry": {"coordinates":[35.47126,41.47221],"type":"Point"}
+}

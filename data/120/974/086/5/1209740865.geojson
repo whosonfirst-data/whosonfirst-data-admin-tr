@@ -1,0 +1,76 @@
+{
+  "id": 1209740865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.40335,40.50787,37.40335,40.50787",
+    "geom:latitude":40.50787,
+    "geom:longitude":37.40335,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Ketenigi",
+    "gn:country_code":"TR",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743395,
+    "gn:latitude":40.50787,
+    "gn:longitude":37.40335,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Keteni\u011fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Keteni\u011fi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u0442\u0435\u043d\u0438\u0433\u0438"
+    ],
+    "name:und_x_variant":[
+        "Keteni\u011fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        1108709833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743395
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6bae88892266e43be997d600478666f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709833,
+            "locality_id":1209740865,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1209740865,
+    "wof:lastmodified":1537707830,
+    "wof:name":"Ketenigi",
+    "wof:parent_id":1108709833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.40335,
+    40.50787,
+    37.40335,
+    40.50787
+],
+  "geometry": {"coordinates":[37.40335,40.50787],"type":"Point"}
+}

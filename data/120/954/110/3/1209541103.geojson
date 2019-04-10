@@ -1,0 +1,64 @@
+{
+  "id": 1209541103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.51456,37.79647,43.51456,37.79647",
+    "geom:latitude":37.79647,
+    "geom:longitude":43.51456,
+    "gn:admin1_code":"65.0",
+    "gn:asciiname":"Kaya",
+    "gn:country_code":"TR",
+    "gn:dem":2484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6969636,
+    "gn:latitude":37.79647,
+    "gn:longitude":43.51456,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6969636
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4a8d492f024aa449a59a131937913420",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541103
+        }
+    ],
+    "wof:id":1209541103,
+    "wof:lastmodified":1537708177,
+    "wof:name":"Kaya",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.51456,
+    37.79647,
+    43.51456,
+    37.79647
+],
+  "geometry": {"coordinates":[43.51456,37.79647],"type":"Point"}
+}

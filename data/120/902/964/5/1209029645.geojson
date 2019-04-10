@@ -1,0 +1,65 @@
+{
+  "id": 1209029645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21473,36.66944,36.21473,36.66944",
+    "geom:latitude":36.66944,
+    "geom:longitude":36.21473,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Sariseki",
+    "gn:country_code":"TR",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301594,
+    "gn:latitude":36.66944,
+    "gn:longitude":36.21473,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Sar\u0131seki",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sari Sakliyeh",
+        "Sar\u0131seki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301594
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0854c958b6b9aa750b93a50b0ad58f7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209029645
+        }
+    ],
+    "wof:id":1209029645,
+    "wof:lastmodified":1537706747,
+    "wof:name":"Sariseki",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21473,
+    36.66944,
+    36.21473,
+    36.66944
+],
+  "geometry": {"coordinates":[36.21473,36.66944],"type":"Point"}
+}

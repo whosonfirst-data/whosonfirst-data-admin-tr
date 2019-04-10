@@ -1,0 +1,70 @@
+{
+  "id": 1260004989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.35668,40.67311,30.35668,40.67311",
+    "geom:latitude":40.67311,
+    "geom:longitude":30.35668,
+    "gn:admin1_code":"54.0",
+    "gn:asciiname":"Ahmediye",
+    "gn:country_code":"TR",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752714,
+    "gn:latitude":40.67311,
+    "gn:longitude":30.35668,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"Ahmediye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ahmediye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679245,
+        1108709295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752714
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"574ee363fa994b3654a165f09e12a620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709295,
+            "locality_id":1260004989,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":1260004989,
+    "wof:lastmodified":1537708151,
+    "wof:name":"Ahmediye",
+    "wof:parent_id":1108709295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.35668,
+    40.67311,
+    30.35668,
+    40.67311
+],
+  "geometry": {"coordinates":[30.35668,40.67311],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293055937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.16667,40.63333,41.16667,40.63333",
+    "geom:latitude":40.63333,
+    "geom:longitude":41.16667,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Savakli",
+    "gn:country_code":"TR",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739959,
+    "gn:latitude":40.63333,
+    "gn:longitude":41.16667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Savakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        890461605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739959
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"70f252808d639f4e9a89c2210803f3de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461605,
+            "locality_id":1293055937,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1293055937,
+    "wof:lastmodified":1536912858,
+    "wof:name":"Savakli",
+    "wof:parent_id":890461605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.16667,
+    40.63333,
+    41.16667,
+    40.63333
+],
+  "geometry": {"coordinates":[41.16667,40.63333],"type":"Point"}
+}

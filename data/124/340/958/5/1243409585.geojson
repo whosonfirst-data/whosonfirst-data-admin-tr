@@ -1,0 +1,72 @@
+{
+  "id": 1243409585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.08083,39.74936,40.08083,39.74936",
+    "geom:latitude":39.74936,
+    "geom:longitude":40.08083,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Pinarli",
+    "gn:country_code":"TR",
+    "gn:dem":1731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302630,
+    "gn:latitude":39.74936,
+    "gn:longitude":40.08083,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"P\u0131narl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toklistan",
+        "Tohlistan",
+        "P\u0131narl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        1108710037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302630
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"54f80a4b4039e9c8a2b3ae83580837df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710037,
+            "locality_id":1243409585,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1243409585,
+    "wof:lastmodified":1537706781,
+    "wof:name":"Pinarli",
+    "wof:parent_id":1108710037,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.08083,
+    39.74936,
+    40.08083,
+    39.74936
+],
+  "geometry": {"coordinates":[40.08083,39.74936],"type":"Point"}
+}

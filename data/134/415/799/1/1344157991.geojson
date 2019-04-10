@@ -1,0 +1,73 @@
+{
+  "id": 1344157991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.12001,37.93069,30.12001,37.93069",
+    "geom:latitude":37.93069,
+    "geom:longitude":30.12001,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ekinlik",
+    "gn:country_code":"TR",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8227208,
+    "gn:latitude":37.93069,
+    "gn:longitude":30.12001,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Ekinlik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ekinlik"
+    ],
+    "name:tur_x_variant":[
+        "Ekinlik Mahallesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        1108709331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8227208
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"139e979f78763a413bfa76dba0831902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709331,
+            "locality_id":1344157991,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1344157991,
+    "wof:lastmodified":1537708280,
+    "wof:name":"Ekinlik",
+    "wof:parent_id":1108709331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12001,
+    37.93069000000001,
+    30.12001,
+    37.93069000000001
+],
+  "geometry": {"coordinates":[30.12001,37.93069000000001],"type":"Point"}
+}

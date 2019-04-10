@@ -1,0 +1,70 @@
+{
+  "id": 1242803199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.02113,41.14203,41.02113,41.14203",
+    "geom:latitude":41.14203,
+    "geom:longitude":41.02113,
+    "gn:admin1_code":"53",
+    "gn:asciiname":"Yavuz",
+    "gn:country_code":"TR",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8651756,
+    "gn:latitude":41.14203,
+    "gn:longitude":41.02113,
+    "gn:modification_date":"2013-12-17",
+    "gn:name":"Yavuz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yavuz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679377,
+        890463175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8651756
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"953a75eb84e06f677f2b8f6b0219bf6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463175,
+            "locality_id":1242803199,
+            "region_id":85679377
+        }
+    ],
+    "wof:id":1242803199,
+    "wof:lastmodified":1537708305,
+    "wof:name":"Yavuz",
+    "wof:parent_id":890463175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.02113,
+    41.14203,
+    41.02113,
+    41.14203
+],
+  "geometry": {"coordinates":[41.02113,41.14203],"type":"Point"}
+}

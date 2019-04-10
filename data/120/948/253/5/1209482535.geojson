@@ -1,0 +1,64 @@
+{
+  "id": 1209482535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.31646,40.67811,42.31646,40.67811",
+    "geom:latitude":40.67811,
+    "geom:longitude":42.31646,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Sogutler",
+    "gn:country_code":"TR",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739433,
+    "gn:latitude":40.67811,
+    "gn:longitude":42.31646,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"S\u00f6\u011f\u00fctler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "S\u00f6\u011f\u00fctler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739433
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"02b4ef9749cbd8e78c60cecb4243f48b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209482535
+        }
+    ],
+    "wof:id":1209482535,
+    "wof:lastmodified":1537707699,
+    "wof:name":"Sogutler",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.31646,
+    40.67811,
+    42.31646,
+    40.67811
+],
+  "geometry": {"coordinates":[42.31646,40.67811],"type":"Point"}
+}

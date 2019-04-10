@@ -1,0 +1,106 @@
+{
+  "id": 890462793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000643,
+    "geom:area_square_m":6014718.992306,
+    "geom:bbox":"29.104528427,40.83291626,29.135416031,40.871250153",
+    "geom:latitude":40.853873,
+    "geom:longitude":29.118255,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "label:eng_x_preferred_disambiguation":[
+        "Adalar (Istanbul)"
+    ],
+    "lbl:latitude":40.859949,
+    "lbl:longitude":29.119308,
+    "meso:admin1_en":"Istanbul",
+    "meso:admin_1":"Istanbul",
+    "meso:gadm_admin":"Adalar",
+    "meso:gadm_hasc2":"TR.IB.AD",
+    "meso:gaul_adm2":"Adalar",
+    "meso:mps_x":29.119308,
+    "meso:mps_y":40.859949,
+    "meso:name_local":"Adalar",
+    "meso:source":"AOTM",
+    "mps:latitude":40.859949,
+    "mps:longitude":29.119308,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Adalar"
+    ],
+    "qs:name":"Adalar",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:photos":131,
+    "qs:photos_1k":27,
+    "qs:photos_9k":23,
+    "qs:photos_9r":14,
+    "qs:photos_all":5179,
+    "qs:photos_sr":3,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:geom":"meso",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2007-12-31",
+    "statoids:area_km":"16",
+    "statoids:as_of_date":"2007-12-31",
+    "statoids:capital":"",
+    "statoids:country":"TR",
+    "statoids:hasc":"TR.IB",
+    "statoids:name":"Adalar (Istanbul)",
+    "statoids:population":"10460",
+    "statoids:statoid":"TR.IB.AD",
+    "statoids:timezone":"+2~",
+    "statoids:type":"district",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":29390036,
+        "hasc:id":"TR.IB.AD",
+        "qs:id":1155096
+    },
+    "wof:country":"TR",
+    "wof:created":1469053404,
+    "wof:geomhash":"3c444ec0eaa3b099fef4ee04c8b19fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462793,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890462793,
+    "wof:lastmodified":1553131982,
+    "wof:name":"Adalar",
+    "wof:parent_id":85679237,
+    "wof:placetype":"county",
+    "wof:placetype_local":"district",
+    "wof:population":10460,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:shortcode":"AD",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10452842700005,
+    40.83291626000005,
+    29.13541603100003,
+    40.87125015300006
+],
+  "geometry": {"coordinates":[[[29.10580635100007,40.85705566400003],[29.11000061000004,40.85705566400003],[29.11119461100003,40.85833358800005],[29.11211204500006,40.86580658000003],[29.11330604600005,40.86791610700004],[29.11502838100006,40.86788940400004],[29.11580467200002,40.86872100800008],[29.11661148100006,40.86791610700004],[29.11830520600006,40.86952590900006],[29.11997222900004,40.86955642700008],[29.12169456500004,40.87125015300006],[29.13163948100004,40.87122345000006],[29.13413810700007,40.86958313000008],[29.13455581700003,40.86833190900006],[29.13541603100003,40.86663818400007],[29.13125038100003,40.85916519200003],[29.13205528300006,40.85830688500005],[29.12997245800005,40.85708236700003],[29.12916755700007,40.85788726800007],[29.12750053400003,40.85708236700003],[29.12125015300006,40.85083389300007],[29.12202835100004,40.84916687000003],[29.12208366400006,40.84080505400004],[29.12036132800006,40.83666610700004],[29.11911201500004,40.83291626000005],[29.11747169500006,40.83375167800006],[29.11077690100007,40.83369445800002],[29.109972,40.83455658000003],[29.10750007600006,40.83455658000003],[29.10536193800004,40.83830642700008],[29.10786056500007,40.84164047200005],[29.10794448900003,40.84416580200008],[29.10538864100005,40.84919357300004],[29.10625076300005,40.85247039800004],[29.10872268700007,40.85413742100008],[29.10452842700005,40.85497283900003],[29.10580635100007,40.85705566400003]]],"type":"Polygon"}
+}

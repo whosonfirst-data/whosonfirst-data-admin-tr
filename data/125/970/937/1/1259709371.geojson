@@ -1,0 +1,67 @@
+{
+  "id": 1259709371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.72611,37.88583,41.72611,37.88583",
+    "geom:latitude":37.88583,
+    "geom:longitude":41.72611,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Silnet",
+    "gn:country_code":"TR",
+    "gn:dem":759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":440610,
+    "gn:latitude":37.88583,
+    "gn:longitude":41.72611,
+    "gn:modification_date":"2005-05-31",
+    "gn:name":"Silnet",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":440610
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4754ade5dca3d335881752eee42ac4e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709683,
+            "locality_id":1259709371,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1259709371,
+    "wof:lastmodified":1537028596,
+    "wof:name":"Silnet",
+    "wof:parent_id":1108709683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.72611,
+    37.88583,
+    41.72611,
+    37.88583
+],
+  "geometry": {"coordinates":[41.72611,37.88583],"type":"Point"}
+}

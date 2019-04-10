@@ -1,0 +1,67 @@
+{
+  "id": 1343996619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.10601,41.896,33.10601,41.896",
+    "geom:latitude":41.896,
+    "geom:longitude":33.10601,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Mencekli",
+    "gn:country_code":"TR",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741652,
+    "gn:latitude":41.896,
+    "gn:longitude":33.10601,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Mencekli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890462849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741652
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b881e6b2c18f2a2e71e6a3a44da22732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462849,
+            "locality_id":1343996619,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1343996619,
+    "wof:lastmodified":1536967484,
+    "wof:name":"Mencekli",
+    "wof:parent_id":890462849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.10601,
+    41.896,
+    33.10601,
+    41.896
+],
+  "geometry": {"coordinates":[33.10601,41.896],"type":"Point"}
+}

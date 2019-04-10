@@ -1,0 +1,67 @@
+{
+  "id": 1193162563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.63333,37.83333,41.63333,37.83333",
+    "geom:latitude":37.83333,
+    "geom:longitude":41.63333,
+    "gn:admin1_code":"76",
+    "gn:asciiname":"Hafi",
+    "gn:country_code":"TR",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312895,
+    "gn:latitude":37.83333,
+    "gn:longitude":41.63333,
+    "gn:modification_date":"2005-05-24",
+    "gn:name":"Hafi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679483,
+        1108709369
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312895
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9d85736cf1debc46857e330142e7ffb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709369,
+            "locality_id":1193162563,
+            "region_id":85679483
+        }
+    ],
+    "wof:id":1193162563,
+    "wof:lastmodified":1536366592,
+    "wof:name":"Hafi",
+    "wof:parent_id":1108709369,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.63333,
+    37.83333,
+    41.63333,
+    37.83333
+],
+  "geometry": {"coordinates":[41.63333,37.83333],"type":"Point"}
+}

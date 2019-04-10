@@ -1,0 +1,76 @@
+{
+  "id": 1326554917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.46489,39.16693,42.46489,39.16693",
+    "geom:latitude":39.16693,
+    "geom:longitude":42.46489,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Aynilihoca",
+    "gn:country_code":"TR",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308911,
+    "gn:latitude":39.16693,
+    "gn:longitude":42.46489,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ayn\u0131l\u0131hoca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Aynal\u0131hoca"
+    ],
+    "name:tur_x_variant":[
+        "Ayn\u0131l\u0131hoca"
+    ],
+    "name:und_x_variant":[
+        "Kas\u0131miye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308911
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"200950ddc600fb88bc9b64f14b546975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1326554917,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1326554917,
+    "wof:lastmodified":1537706983,
+    "wof:name":"Aynilihoca",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.46489,
+    39.16693,
+    42.46489,
+    39.16693
+],
+  "geometry": {"coordinates":[42.46489,39.16693],"type":"Point"}
+}

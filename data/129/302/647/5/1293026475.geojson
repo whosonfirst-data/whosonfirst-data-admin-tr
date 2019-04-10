@@ -1,0 +1,76 @@
+{
+  "id": 1293026475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.41694,39.8275,38.41694,39.8275",
+    "geom:latitude":39.8275,
+    "geom:longitude":38.41694,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Aydin",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322828,
+    "gn:latitude":39.8275,
+    "gn:longitude":38.41694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ayd\u0131n",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0410\u0439\u0434\u0438\u043d"
+    ],
+    "name:und_x_variant":[
+        "K\u00fcrtyenice",
+        "Yenice",
+        "Ayd\u0131n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890461455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322828
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d2077a3051c5b5a87024c896115fde0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461455,
+            "locality_id":1293026475,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1293026475,
+    "wof:lastmodified":1537707424,
+    "wof:name":"Aydin",
+    "wof:parent_id":890461455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.41694,
+    39.8275,
+    38.41694,
+    39.8275
+],
+  "geometry": {"coordinates":[38.41694,39.8275],"type":"Point"}
+}

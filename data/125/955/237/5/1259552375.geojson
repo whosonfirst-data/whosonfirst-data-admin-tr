@@ -1,0 +1,70 @@
+{
+  "id": 1259552375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.27743,38.1231,39.27743,38.1231",
+    "geom:latitude":38.1231,
+    "geom:longitude":39.27743,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Ibikkaya",
+    "gn:country_code":"TR",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311759,
+    "gn:latitude":38.1231,
+    "gn:longitude":39.27743,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u0130bikkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u0130bikkaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108710083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311759
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"01df95b774e3121ed3ff14d4c6c3d075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710083,
+            "locality_id":1259552375,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1259552375,
+    "wof:lastmodified":1537707064,
+    "wof:name":"Ibikkaya",
+    "wof:parent_id":1108710083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.27743,
+    38.1231,
+    39.27743,
+    38.1231
+],
+  "geometry": {"coordinates":[39.27743,38.1231],"type":"Point"}
+}

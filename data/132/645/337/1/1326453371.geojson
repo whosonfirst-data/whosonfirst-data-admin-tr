@@ -1,0 +1,67 @@
+{
+  "id": 1326453371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78718,39.75487,33.78718,39.75487",
+    "geom:latitude":39.75487,
+    "geom:longitude":33.78718,
+    "gn:admin1_code":"79",
+    "gn:asciiname":"Olunlu",
+    "gn:country_code":"TR",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303563,
+    "gn:latitude":39.75487,
+    "gn:longitude":33.78718,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Olunlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679447,
+        890464139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303563
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"956aac1b22530ef9698e06a6497b3e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464139,
+            "locality_id":1326453371,
+            "region_id":85679447
+        }
+    ],
+    "wof:id":1326453371,
+    "wof:lastmodified":1537094449,
+    "wof:name":"Olunlu",
+    "wof:parent_id":890464139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78718,
+    39.75487,
+    33.78718,
+    39.75487
+],
+  "geometry": {"coordinates":[33.78718,39.75487],"type":"Point"}
+}

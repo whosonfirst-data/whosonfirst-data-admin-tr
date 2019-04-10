@@ -1,0 +1,73 @@
+{
+  "id": 1276488177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58718,41.41774,33.58718,41.41774",
+    "geom:latitude":41.41774,
+    "geom:longitude":33.58718,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Baltaci Kuyucagi",
+    "gn:country_code":"TR",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750434,
+    "gn:latitude":41.41774,
+    "gn:longitude":33.58718,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Baltac\u0131 Kuyuca\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bozac\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Baltac\u0131 Kuyuca\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890463421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750434
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6c373ebac4fda18c3c10865e01f8171a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463421,
+            "locality_id":1276488177,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1276488177,
+    "wof:lastmodified":1537708066,
+    "wof:name":"Baltaci Kuyucagi",
+    "wof:parent_id":890463421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58718,
+    41.41774,
+    33.58718,
+    41.41774
+],
+  "geometry": {"coordinates":[33.58718,41.41774],"type":"Point"}
+}

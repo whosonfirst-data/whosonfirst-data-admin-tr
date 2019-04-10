@@ -1,0 +1,70 @@
+{
+  "id": 1277090945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.44179,37.38271,40.44179,37.38271",
+    "geom:latitude":37.38271,
+    "geom:longitude":40.44179,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Kolciyan",
+    "gn:country_code":"TR",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7010387,
+    "gn:latitude":37.38271,
+    "gn:longitude":40.44179,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kolciyan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kolciyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7010387
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"18d92564175046df408b481a83f774c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709713,
+            "locality_id":1277090945,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1277090945,
+    "wof:lastmodified":1537708203,
+    "wof:name":"Kolciyan",
+    "wof:parent_id":1108709713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.44179000000001,
+    37.38271,
+    40.44179000000001,
+    37.38271
+],
+  "geometry": {"coordinates":[40.44179000000001,37.38271],"type":"Point"}
+}

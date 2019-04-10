@@ -1,0 +1,67 @@
+{
+  "id": 1243427719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79799,40.7753,31.79799,40.7753",
+    "geom:latitude":40.7753,
+    "geom:longitude":31.79799,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ayazlar",
+    "gn:country_code":"TR",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8185526,
+    "gn:latitude":40.7753,
+    "gn:longitude":31.79799,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Ayazlar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8185526
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8e5038e69bdf493488634a4ecceb60ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462577,
+            "locality_id":1243427719,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1243427719,
+    "wof:lastmodified":1536831544,
+    "wof:name":"Ayazlar",
+    "wof:parent_id":890462577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79799,
+    40.7753,
+    31.79799,
+    40.7753
+],
+  "geometry": {"coordinates":[31.79799,40.7753],"type":"Point"}
+}

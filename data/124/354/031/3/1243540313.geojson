@@ -1,0 +1,68 @@
+{
+  "id": 1243540313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37846,36.81741,31.37846,36.81741",
+    "geom:latitude":36.81741,
+    "geom:longitude":31.37846,
+    "gn:admin1_code":"07",
+    "gn:admin2_code":"7732193",
+    "gn:asciiname":"Gultepe",
+    "gn:country_code":"TR",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8070028,
+    "gn:latitude":36.81741,
+    "gn:longitude":31.37846,
+    "gn:modification_date":"2013-11-16",
+    "gn:name":"G\u00fcltepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890464359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8070028
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e2f3985aba2158bc09384dd28ffeb9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464359,
+            "locality_id":1243540313,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1243540313,
+    "wof:lastmodified":1536670260,
+    "wof:name":"Gultepe",
+    "wof:parent_id":890464359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37846,
+    36.81741,
+    31.37846,
+    36.81741
+],
+  "geometry": {"coordinates":[31.37846,36.81741],"type":"Point"}
+}

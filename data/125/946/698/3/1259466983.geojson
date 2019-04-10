@@ -1,0 +1,70 @@
+{
+  "id": 1259466983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.83716,37.7326,27.83716,37.7326",
+    "geom:latitude":37.7326,
+    "geom:longitude":27.83716,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Bogazici",
+    "gn:country_code":"TR",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10190057,
+    "gn:latitude":37.7326,
+    "gn:longitude":27.83716,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Bo\u011fazi\u00e7i",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bo\u011fazi\u00e7i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10190057
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f85d5791b914807c2b8f69fdd9022277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709677,
+            "locality_id":1259466983,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1259466983,
+    "wof:lastmodified":1537708354,
+    "wof:name":"Bogazici",
+    "wof:parent_id":1108709677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.83716,
+    37.7326,
+    27.83716,
+    37.7326
+],
+  "geometry": {"coordinates":[27.83716,37.7326],"type":"Point"}
+}

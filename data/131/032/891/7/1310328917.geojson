@@ -1,0 +1,73 @@
+{
+  "id": 1310328917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.26939,39.25593,41.26939,39.25593",
+    "geom:latitude":39.25593,
+    "geom:longitude":41.26939,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kucuktepe",
+    "gn:country_code":"TR",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298283,
+    "gn:latitude":39.25593,
+    "gn:longitude":41.26939,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"K\u00fc\u00e7\u00fcktepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u00fcy\u00fck \u00dcst\u00fckran",
+        "Yukar\u0131 \u00dcst\u00fckran",
+        "K\u00fc\u00e7\u00fcktepe",
+        "\u00dcst\u00fckran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        1108709959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298283
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"857ce45c391debf5e4d0488aba82d6d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709959,
+            "locality_id":1310328917,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1310328917,
+    "wof:lastmodified":1537706636,
+    "wof:name":"Kucuktepe",
+    "wof:parent_id":1108709959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.26939,
+    39.25593,
+    41.26939,
+    39.25593
+],
+  "geometry": {"coordinates":[41.26939,39.25593],"type":"Point"}
+}

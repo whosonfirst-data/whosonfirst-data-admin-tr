@@ -1,0 +1,73 @@
+{
+  "id": 1243480117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99583,40.80028,29.99583,40.80028",
+    "geom:latitude":40.80028,
+    "geom:longitude":29.99583,
+    "gn:admin1_code":"41.0",
+    "gn:asciiname":"Cayirkoy",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749475,
+    "gn:latitude":40.80028,
+    "gn:longitude":29.99583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7ay\u0131rk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7ay\u0131rk\u00f6ydivan\u0131",
+        "\u00c7ay\u0131r Divan\u0131",
+        "\u00c7ay\u0131rk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        1108709225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749475
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c6ee0d2fdfed8e40328083c553c81e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709225,
+            "locality_id":1243480117,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1243480117,
+    "wof:lastmodified":1537708032,
+    "wof:name":"Cayirkoy",
+    "wof:parent_id":1108709225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99583,
+    40.80028,
+    29.99583,
+    40.80028
+],
+  "geometry": {"coordinates":[29.99583,40.80028],"type":"Point"}
+}

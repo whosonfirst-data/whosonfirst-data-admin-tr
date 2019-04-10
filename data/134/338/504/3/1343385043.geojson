@@ -1,0 +1,72 @@
+{
+  "id": 1343385043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.79681,40.19818,39.79681,40.19818",
+    "geom:latitude":40.19818,
+    "geom:longitude":39.79681,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Orensar",
+    "gn:country_code":"TR",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741050,
+    "gn:latitude":40.19818,
+    "gn:longitude":39.79681,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"\u00d6ren\u015far",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Veran\u015fehir",
+        "Viran\u015fehir",
+        "\u00d6ren\u015far"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890461595
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741050
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd345bf6582f3e8f09f0bdd0f1d81cfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461595,
+            "locality_id":1343385043,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1343385043,
+    "wof:lastmodified":1537707753,
+    "wof:name":"Orensar",
+    "wof:parent_id":890461595,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.79681,
+    40.19818,
+    39.79681,
+    40.19818
+],
+  "geometry": {"coordinates":[39.79681,40.19818],"type":"Point"}
+}

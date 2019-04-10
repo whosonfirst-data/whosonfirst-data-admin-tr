@@ -1,0 +1,75 @@
+{
+  "id": 1343384861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.65,39.01667,39.65,39.01667",
+    "geom:latitude":39.01667,
+    "geom:longitude":39.65,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Yukari Oyumca",
+    "gn:country_code":"TR",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296229,
+    "gn:latitude":39.01667,
+    "gn:longitude":39.65,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yukar\u0131 Oyumca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yukar\u0131 Oyumca"
+    ],
+    "name:und_x_variant":[
+        "Yukar\u0131 Sandam Mezraas\u0131",
+        "Yukar\u0131oyumca",
+        "Yukar\u0131 Sindam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679497,
+        1108709715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296229
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3af8e3c8a8e6b531159152600eaffd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709715,
+            "locality_id":1343384861,
+            "region_id":85679497
+        }
+    ],
+    "wof:id":1343384861,
+    "wof:lastmodified":1537706558,
+    "wof:name":"Yukari Oyumca",
+    "wof:parent_id":1108709715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.65,
+    39.01667,
+    39.65,
+    39.01667
+],
+  "geometry": {"coordinates":[39.65,39.01667],"type":"Point"}
+}

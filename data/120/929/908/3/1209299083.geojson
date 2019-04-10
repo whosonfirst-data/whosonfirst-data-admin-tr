@@ -1,0 +1,64 @@
+{
+  "id": 1209299083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.77625,40.70475,41.77625,40.70475",
+    "geom:latitude":40.70475,
+    "geom:longitude":41.77625,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dagetegi",
+    "gn:country_code":"TR",
+    "gn:dem":978,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748744,
+    "gn:latitude":40.70475,
+    "gn:longitude":41.77625,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Da\u011fete\u011fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Da\u011fete\u011fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748744
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1a121e6aa93d608dc278c6141499f160",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209299083
+        }
+    ],
+    "wof:id":1209299083,
+    "wof:lastmodified":1537708006,
+    "wof:name":"Dagetegi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.77625,
+    40.70475,
+    41.77625,
+    40.70475
+],
+  "geometry": {"coordinates":[41.77625,40.70475],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890461681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.564,39.45503,38.564,39.45503",
+    "geom:latitude":39.45503,
+    "geom:longitude":38.564,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA2",
+    "gn:pop":2151,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Pu\u015fad\u0131"
+    ],
+    "qs:name":"Il\u0131\u00e7",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Erzincan",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":17,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311547,
+        "gp:id":29390434,
+        "qs:id":357018
+    },
+    "wof:country":"TR",
+    "wof:created":1469053360,
+    "wof:geomhash":"b7a60bf6ef335efda4701e12b239102c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461681,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":890461681,
+    "wof:lastmodified":1505343687,
+    "wof:name":"Il\u0131\u00e7",
+    "wof:parent_id":85679373,
+    "wof:placetype":"county",
+    "wof:population":2151,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.564,
+    39.45503,
+    38.564,
+    39.45503
+],
+  "geometry": {"coordinates":[38.564,39.45503],"type":"Point"}
+}

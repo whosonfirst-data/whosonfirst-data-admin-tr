@@ -1,0 +1,67 @@
+{
+  "id": 1276317107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24257,37.83399,28.24257,37.83399",
+    "geom:latitude":37.83399,
+    "geom:longitude":28.24257,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Donduran",
+    "gn:country_code":"TR",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316312,
+    "gn:latitude":37.83399,
+    "gn:longitude":28.24257,
+    "gn:modification_date":"2015-04-06",
+    "gn:name":"Donduran",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        1108709993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316312
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0f4d2f0ced79b04b9f8002ceefae97fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709993,
+            "locality_id":1276317107,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1276317107,
+    "wof:lastmodified":1536800533,
+    "wof:name":"Donduran",
+    "wof:parent_id":1108709993,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24257,
+    37.83399,
+    28.24257,
+    37.83399
+],
+  "geometry": {"coordinates":[28.24257,37.83399],"type":"Point"}
+}

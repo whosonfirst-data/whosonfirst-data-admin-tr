@@ -1,0 +1,67 @@
+{
+  "id": 1327350345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.09083,38.9275,28.09083,38.9275",
+    "geom:latitude":38.9275,
+    "geom:longitude":28.09083,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Gokceler",
+    "gn:country_code":"TR",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314318,
+    "gn:latitude":38.9275,
+    "gn:longitude":28.09083,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"G\u00f6k\u00e7eler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890461947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314318
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3756b555115bc73830532e7e926ef653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461947,
+            "locality_id":1327350345,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1327350345,
+    "wof:lastmodified":1536799411,
+    "wof:name":"Gokceler",
+    "wof:parent_id":890461947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.09083,
+    38.9275,
+    28.09083,
+    38.9275
+],
+  "geometry": {"coordinates":[28.09083,38.9275],"type":"Point"}
+}

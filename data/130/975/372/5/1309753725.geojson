@@ -1,0 +1,67 @@
+{
+  "id": 1309753725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16389,39.29194,31.16389,39.29194",
+    "geom:latitude":39.29194,
+    "geom:longitude":31.16389,
+    "gn:admin1_code":"26",
+    "gn:asciiname":"Sadiroglu",
+    "gn:country_code":"TR",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302260,
+    "gn:latitude":39.29194,
+    "gn:longitude":31.16389,
+    "gn:modification_date":"2003-02-05",
+    "gn:name":"Sad\u0131ro\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679255,
+        890464417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302260
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9a3ea53cc657fc6527f3817c6db56190",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464417,
+            "locality_id":1309753725,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":1309753725,
+    "wof:lastmodified":1537005427,
+    "wof:name":"Sadiroglu",
+    "wof:parent_id":890464417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16389,
+    39.29194,
+    31.16389,
+    39.29194
+],
+  "geometry": {"coordinates":[31.16389,39.29194],"type":"Point"}
+}

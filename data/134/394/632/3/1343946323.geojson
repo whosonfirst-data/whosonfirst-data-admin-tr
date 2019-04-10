@@ -1,0 +1,73 @@
+{
+  "id": 1343946323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.55126,39.32925,28.55126,39.32925",
+    "geom:latitude":39.32925,
+    "geom:longitude":28.55126,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Citak",
+    "gn:country_code":"TR",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313360,
+    "gn:latitude":39.32925,
+    "gn:longitude":28.55126,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"\u00c7\u0131tak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7atak"
+    ],
+    "name:und_x_variant":[
+        "\u00c7\u0131tak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313360
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"bd9f09d4680ca21c45bbe94cbad320aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709389,
+            "locality_id":1343946323,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1343946323,
+    "wof:lastmodified":1537707120,
+    "wof:name":"Citak",
+    "wof:parent_id":1108709389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.55126,
+    39.32925,
+    28.55126,
+    39.32925
+],
+  "geometry": {"coordinates":[28.55126,39.32925],"type":"Point"}
+}

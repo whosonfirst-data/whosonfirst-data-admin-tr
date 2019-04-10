@@ -1,0 +1,70 @@
+{
+  "id": 1260005191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.35939,38.45956,43.35939,38.45956",
+    "geom:latitude":38.45956,
+    "geom:longitude":43.35939,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Kavurma",
+    "gn:country_code":"TR",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308716,
+    "gn:latitude":38.45956,
+    "gn:longitude":43.35939,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kavurma",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kavurma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        890462703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308716
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3e044d2df092969a876544c6d0efee9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462703,
+            "locality_id":1260005191,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1260005191,
+    "wof:lastmodified":1537706977,
+    "wof:name":"Kavurma",
+    "wof:parent_id":890462703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.35939000000001,
+    38.45956,
+    43.35939000000001,
+    38.45956
+],
+  "geometry": {"coordinates":[43.35939000000001,38.45956],"type":"Point"}
+}

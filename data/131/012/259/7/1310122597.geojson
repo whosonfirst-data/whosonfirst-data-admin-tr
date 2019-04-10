@@ -1,0 +1,74 @@
+{
+  "id": 1310122597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"44.21546,39.99929,44.21546,39.99929",
+    "geom:latitude":39.99929,
+    "geom:longitude":44.21546,
+    "gn:admin1_code":"88.0",
+    "gn:asciiname":"Kacar Dogansali",
+    "gn:country_code":"TR",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744948,
+    "gn:latitude":39.99929,
+    "gn:longitude":44.21546,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Kacar Do\u011fan\u015fal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kacar Do\u011fan\u015fal\u0131"
+    ],
+    "name:und_x_variant":[
+        "Ka\u00e7ardo\u011fan",
+        "Kacardo\u011fan\u015fal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679515,
+        1108709625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744948
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c47285fad279babe9882c06334f1ddd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709625,
+            "locality_id":1310122597,
+            "region_id":85679515
+        }
+    ],
+    "wof:id":1310122597,
+    "wof:lastmodified":1537707875,
+    "wof:name":"Kacar Dogansali",
+    "wof:parent_id":1108709625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    44.21546,
+    39.99929,
+    44.21546,
+    39.99929
+],
+  "geometry": {"coordinates":[44.21546,39.99929],"type":"Point"}
+}

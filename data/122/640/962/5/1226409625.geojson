@@ -1,0 +1,77 @@
+{
+  "id": 1226409625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.99727,40.20049,40.99727,40.20049",
+    "geom:latitude":40.20049,
+    "geom:longitude":40.99727,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Ovacik",
+    "gn:country_code":"TR",
+    "gn:dem":2195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":738510,
+    "gn:latitude":40.20049,
+    "gn:longitude":40.99727,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Ovac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00dc\u00e7k\u00f6\u015fe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0447\u043a\u043e\u0441\u0435"
+    ],
+    "name:und_x_variant":[
+        "Ovac\u0131k",
+        "\u00dc\u00e7k\u00f6\u015fe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738510
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f34378fe841879bd7fccd60eca30dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709321,
+            "locality_id":1226409625,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1226409625,
+    "wof:lastmodified":1537707667,
+    "wof:name":"Ovacik",
+    "wof:parent_id":1108709321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.99727,
+    40.20049,
+    40.99727,
+    40.20049
+],
+  "geometry": {"coordinates":[40.99727,40.20049],"type":"Point"}
+}

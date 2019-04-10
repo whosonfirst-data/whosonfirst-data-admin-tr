@@ -1,0 +1,64 @@
+{
+  "id": 1209467851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.51761,38.46723,27.51761,38.46723",
+    "geom:latitude":38.46723,
+    "geom:longitude":27.51761,
+    "gn:admin1_code":"35",
+    "gn:asciiname":"Cambel",
+    "gn:country_code":"TR",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":319701,
+    "gn:latitude":38.46723,
+    "gn:longitude":27.51761,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"\u00c7ambel",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u00c7ambel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":319701
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5f0922591d8952bd57afb9bba4585a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209467851
+        }
+    ],
+    "wof:id":1209467851,
+    "wof:lastmodified":1537707326,
+    "wof:name":"Cambel",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.51761,
+    38.46723,
+    27.51761,
+    38.46723
+],
+  "geometry": {"coordinates":[27.51761,38.46723],"type":"Point"}
+}

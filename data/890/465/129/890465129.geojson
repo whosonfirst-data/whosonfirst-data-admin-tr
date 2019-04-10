@@ -1,0 +1,76 @@
+{
+  "id": 890465129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.955,37.8175,40.955,37.8175",
+    "geom:latitude":37.8175,
+    "geom:longitude":40.955,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":146,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:rus_x_preferred":[
+        "K\u00ebpryuk\u00ebyu"
+    ],
+    "name:tur_x_preferred":[
+        "K\u00f6pr\u00fc"
+    ],
+    "name:unk_x_variant":[
+        "K\u00f6pr\u00fck\u00f6y\u00fc"
+    ],
+    "qs:name":"K\u00f6pr\u00fc",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":57,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306546,
+        "qs:id":547396,
+        "wk:page":"K\u00f6pr\u00fc"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053503,
+    "wof:geomhash":"b2ad931141ba99e03e440cb5cce5ad8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":890465129,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":890465129,
+    "wof:lastmodified":1527736652,
+    "wof:name":"K\u00f6pr\u00fc",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:population":146,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.955,
+    37.8175,
+    40.955,
+    37.8175
+],
+  "geometry": {"coordinates":[40.955,37.8175],"type":"Point"}
+}

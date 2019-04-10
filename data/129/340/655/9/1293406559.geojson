@@ -1,0 +1,67 @@
+{
+  "id": 1293406559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05888,41.20094,32.05888,41.20094",
+    "geom:latitude":41.20094,
+    "geom:longitude":32.05888,
+    "gn:admin1_code":"85",
+    "gn:asciiname":"Kocak",
+    "gn:country_code":"TR",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8041675,
+    "gn:latitude":41.20094,
+    "gn:longitude":32.05888,
+    "gn:modification_date":"2011-10-15",
+    "gn:name":"Kocak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679419,
+        890464313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8041675
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6eba24e048c30baa5cc042257b32f364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464313,
+            "locality_id":1293406559,
+            "region_id":85679419
+        }
+    ],
+    "wof:id":1293406559,
+    "wof:lastmodified":1536903877,
+    "wof:name":"Kocak",
+    "wof:parent_id":890464313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05888,
+    41.20094,
+    32.05888,
+    41.20094
+],
+  "geometry": {"coordinates":[32.05888,41.20094],"type":"Point"}
+}

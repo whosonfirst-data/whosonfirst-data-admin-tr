@@ -1,0 +1,77 @@
+{
+  "id": 1259836089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.96333,37.98694,40.96333,37.98694",
+    "geom:latitude":37.98694,
+    "geom:longitude":40.96333,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Gilgilo",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":439613,
+    "gn:latitude":37.98694,
+    "gn:longitude":40.96333,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Gilgilo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "Gil\u2019gilo"
+    ],
+    "name:tur_x_preferred":[
+        "Gilgilo"
+    ],
+    "name:und_x_variant":[
+        "G\u00fclg\u00fcla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890461785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439613
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0867b1c1e75d072967d4e3bdd64cf156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461785,
+            "locality_id":1259836089,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1259836089,
+    "wof:lastmodified":1537707578,
+    "wof:name":"Gilgilo",
+    "wof:parent_id":890461785,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.96333,
+    37.98694,
+    40.96333,
+    37.98694
+],
+  "geometry": {"coordinates":[40.96333,37.98694],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293809393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.56254,37.10707,41.56254,37.10707",
+    "geom:latitude":37.10707,
+    "geom:longitude":41.56254,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Tekir",
+    "gn:country_code":"TR",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442035,
+    "gn:latitude":37.10707,
+    "gn:longitude":41.56254,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Tekir",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tekir"
+    ],
+    "name:und_x_variant":[
+        "Girevshi",
+        "Girev\u015fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890462299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442035
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e0a0ad1678a59450531c87d7864e69fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462299,
+            "locality_id":1293809393,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1293809393,
+    "wof:lastmodified":1537707604,
+    "wof:name":"Tekir",
+    "wof:parent_id":890462299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.56254000000001,
+    37.10707,
+    41.56254000000001,
+    37.10707
+],
+  "geometry": {"coordinates":[41.56254000000001,37.10707],"type":"Point"}
+}

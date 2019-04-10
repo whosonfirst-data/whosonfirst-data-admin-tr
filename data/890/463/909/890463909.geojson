@@ -1,0 +1,71 @@
+{
+  "id": 890463909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.2363,37.37263,41.2363,37.37263",
+    "geom:latitude":37.37263,
+    "geom:longitude":41.2363,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":161,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kayalar"
+    ],
+    "name:unk_x_variant":[
+        "Keferzota"
+    ],
+    "qs:name":"Kayalar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308612,
+        "qs:id":204879
+    },
+    "wof:country":"TR",
+    "wof:created":1469053448,
+    "wof:geomhash":"372ff0ed7a0a5dcef3a4d95c6a3522c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463867,
+            "locality_id":890463909,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":890463909,
+    "wof:lastmodified":1505343695,
+    "wof:name":"Kayalar",
+    "wof:parent_id":890463867,
+    "wof:placetype":"locality",
+    "wof:population":161,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.2363,
+    37.37263,
+    41.2363,
+    37.37263
+],
+  "geometry": {"coordinates":[41.2363,37.37263],"type":"Point"}
+}

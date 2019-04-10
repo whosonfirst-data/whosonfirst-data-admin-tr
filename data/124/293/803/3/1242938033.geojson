@@ -1,0 +1,67 @@
+{
+  "id": 1242938033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.40175,40.85135,34.40175,40.85135",
+    "geom:latitude":40.85135,
+    "geom:longitude":34.40175,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Kuzkoy",
+    "gn:country_code":"TR",
+    "gn:dem":906,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741924,
+    "gn:latitude":40.85135,
+    "gn:longitude":34.40175,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kuzk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741924
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"92633b1ed6f33826a061c84f8b932780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709215,
+            "locality_id":1242938033,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1242938033,
+    "wof:lastmodified":1537039978,
+    "wof:name":"Kuzkoy",
+    "wof:parent_id":1108709215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.40175,
+    40.85135,
+    34.40175,
+    40.85135
+],
+  "geometry": {"coordinates":[34.40175,40.85135],"type":"Point"}
+}

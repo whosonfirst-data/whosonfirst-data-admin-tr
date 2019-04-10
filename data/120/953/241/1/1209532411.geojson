@@ -1,0 +1,64 @@
+{
+  "id": 1209532411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.42143,40.06807,38.42143,40.06807",
+    "geom:latitude":40.06807,
+    "geom:longitude":38.42143,
+    "gn:admin1_code":"58.0",
+    "gn:asciiname":"Kayi",
+    "gn:country_code":"TR",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7582763,
+    "gn:latitude":40.06807,
+    "gn:longitude":38.42143,
+    "gn:modification_date":"2015-08-08",
+    "gn:name":"Kay\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kay\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582763
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd6e46d76957861632cd95166e3cfebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209532411
+        }
+    ],
+    "wof:id":1209532411,
+    "wof:lastmodified":1537708254,
+    "wof:name":"Kayi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.42143,
+    40.06807,
+    38.42143,
+    40.06807
+],
+  "geometry": {"coordinates":[38.42143,40.06807],"type":"Point"}
+}

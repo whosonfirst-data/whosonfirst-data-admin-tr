@@ -1,0 +1,93 @@
+{
+  "id": 1126102309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.13333,38.46667,27.13333,38.46667",
+    "geom:latitude":38.46667,
+    "geom:longitude":27.13333,
+    "gn:gn_country":"TR",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"TR",
+    "lbl:latitude":38.46667,
+    "lbl:longitude":27.13333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"TR",
+    "qs_pg:gn_country":"TR",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":324153,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Alaybey",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130zmir",
+    "qs_pg:photos":317,
+    "qs_pg:photos_1k":64,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":317,
+    "qs_pg:photos_sr":5,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":118495,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2343536,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130zmir",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85679201,
+        102191569,
+        85632393,
+        890460335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324153,
+        "gp:id":2343536,
+        "qs_pg:id":118495
+    },
+    "wof:country":"TR",
+    "wof:created":1497316292,
+    "wof:geomhash":"7ed67a4855486069cdabebf565c5fc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460335,
+            "locality_id":-1,
+            "neighbourhood_id":1126102309,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":1126102309,
+    "wof:lastmodified":1534379468,
+    "wof:name":"Alaybey",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[
+        85904071
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.13333,
+    38.46667,
+    27.13333,
+    38.46667
+],
+  "geometry": {"coordinates":[27.13333,38.46667],"type":"Point"}
+}

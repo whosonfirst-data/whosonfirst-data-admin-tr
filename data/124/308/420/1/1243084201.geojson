@@ -1,0 +1,73 @@
+{
+  "id": 1243084201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.88361,36.99556,37.88361,36.99556",
+    "geom:latitude":36.99556,
+    "geom:longitude":37.88361,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Baglica",
+    "gn:country_code":"TR",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306023,
+    "gn:latitude":36.99556,
+    "gn:longitude":37.88361,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Ba\u011fl\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u011fl\u0131ca"
+    ],
+    "name:tur_x_variant":[
+        "Kubbin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679437,
+        890461691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306023
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"468c3791b90c37aea442de020cb3489e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461691,
+            "locality_id":1243084201,
+            "region_id":85679437
+        }
+    ],
+    "wof:id":1243084201,
+    "wof:lastmodified":1537706893,
+    "wof:name":"Baglica",
+    "wof:parent_id":890461691,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.88361,
+    36.99556,
+    37.88361,
+    36.99556
+],
+  "geometry": {"coordinates":[37.88361,36.99556],"type":"Point"}
+}

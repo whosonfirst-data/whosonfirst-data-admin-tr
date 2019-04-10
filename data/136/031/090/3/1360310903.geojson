@@ -1,0 +1,67 @@
+{
+  "id": 1360310903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16667,39.13333,30.16667,39.13333",
+    "geom:latitude":39.13333,
+    "geom:longitude":30.16667,
+    "gn:admin1_code":"62",
+    "gn:asciiname":"Pah",
+    "gn:country_code":"TR",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302939,
+    "gn:latitude":39.13333,
+    "gn:longitude":30.16667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Pah",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709279
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302939
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2219e1eedd9ece610bcd61b93ab8040d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709279,
+            "locality_id":1360310903,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1360310903,
+    "wof:lastmodified":1536617693,
+    "wof:name":"Pah",
+    "wof:parent_id":1108709279,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16667,
+    39.13333,
+    30.16667,
+    39.13333
+],
+  "geometry": {"coordinates":[30.16667,39.13333],"type":"Point"}
+}

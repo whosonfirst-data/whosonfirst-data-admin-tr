@@ -1,0 +1,74 @@
+{
+  "id": 1276809081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6623,37.16327,34.6623,37.16327",
+    "geom:latitude":37.16327,
+    "geom:longitude":34.6623,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Belcinar",
+    "gn:country_code":"TR",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314924,
+    "gn:latitude":37.16327,
+    "gn:longitude":34.6623,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Bel\u00e7\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bel\u00e7\u0131nar"
+    ],
+    "name:und_x_variant":[
+        "F\u0131nd\u0131kp\u0131naryaylas\u0131k\u00f6y",
+        "F\u0131nd\u0131kp\u0131naryayla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        1108710019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314924
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8b945ab610c2a01976044c2f44ff4990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710019,
+            "locality_id":1276809081,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1276809081,
+    "wof:lastmodified":1537707171,
+    "wof:name":"Belcinar",
+    "wof:parent_id":1108710019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6623,
+    37.16327,
+    34.6623,
+    37.16327
+],
+  "geometry": {"coordinates":[34.6623,37.16327],"type":"Point"}
+}

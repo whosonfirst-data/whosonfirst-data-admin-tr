@@ -1,0 +1,71 @@
+{
+  "id": 1210014555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16978,40.8565,35.16978,40.8565",
+    "geom:latitude":40.8565,
+    "geom:longitude":35.16978,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karakaya",
+    "gn:country_code":"TR",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744271,
+    "gn:latitude":40.8565,
+    "gn:longitude":35.16978,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karakaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karakaya K\u00f6y\u00fc",
+        "Karakaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        1108709531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744271
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a11da38279340403a12330368e9dce74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709531,
+            "locality_id":1210014555,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1210014555,
+    "wof:lastmodified":1537707854,
+    "wof:name":"Karakaya",
+    "wof:parent_id":1108709531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16978,
+    40.8565,
+    35.16978,
+    40.8565
+],
+  "geometry": {"coordinates":[35.16978,40.8565],"type":"Point"}
+}

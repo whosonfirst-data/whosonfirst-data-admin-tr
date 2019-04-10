@@ -1,0 +1,67 @@
+{
+  "id": 1209473483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.10258,38.1501,40.10258,38.1501",
+    "geom:latitude":38.1501,
+    "geom:longitude":40.10258,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Baysu",
+    "gn:country_code":"TR",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321715,
+    "gn:latitude":38.1501,
+    "gn:longitude":40.10258,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Baysu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Baysu"
+    ],
+    "name:und_x_variant":[
+        "Beysu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321715
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e82e0c50c27e4aaa8aee6d1d250edbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209473483
+        }
+    ],
+    "wof:id":1209473483,
+    "wof:lastmodified":1537707389,
+    "wof:name":"Baysu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.10258,
+    38.1501,
+    40.10258,
+    38.1501
+],
+  "geometry": {"coordinates":[40.10258,38.1501],"type":"Point"}
+}

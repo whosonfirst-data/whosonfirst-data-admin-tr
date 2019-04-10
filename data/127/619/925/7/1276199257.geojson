@@ -1,0 +1,67 @@
+{
+  "id": 1276199257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.09719,40.69185,32.09719,40.69185",
+    "geom:latitude":40.69185,
+    "geom:longitude":32.09719,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Yalacik",
+    "gn:country_code":"TR",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194979,
+    "gn:latitude":40.69185,
+    "gn:longitude":32.09719,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Yalac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890461653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194979
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2a3e76e3e7b73516791ea639a24d286a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461653,
+            "locality_id":1276199257,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1276199257,
+    "wof:lastmodified":1536958686,
+    "wof:name":"Yalacik",
+    "wof:parent_id":890461653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.09719,
+    40.69185,
+    32.09719,
+    40.69185
+],
+  "geometry": {"coordinates":[32.09719,40.69185],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276998145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.45,38.0,36.45,38.0",
+    "geom:latitude":38.0,
+    "geom:longitude":36.45,
+    "gn:admin1_code":"46",
+    "gn:asciiname":"Yiricek",
+    "gn:country_code":"TR",
+    "gn:dem":1370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296687,
+    "gn:latitude":38.0,
+    "gn:longitude":36.45,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Yiricek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679303,
+        890461673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296687
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0e4aea2d7db5ec907c9c497170ff9f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461673,
+            "locality_id":1276998145,
+            "region_id":85679303
+        }
+    ],
+    "wof:id":1276998145,
+    "wof:lastmodified":1536881899,
+    "wof:name":"Yiricek",
+    "wof:parent_id":890461673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.45,
+    38.0,
+    36.45,
+    38.0
+],
+  "geometry": {"coordinates":[36.45,38.0],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209541183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.89597,40.8998,37.89597,40.8998",
+    "geom:latitude":40.8998,
+    "geom:longitude":37.89597,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Bayadi",
+    "gn:country_code":"TR",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750957,
+    "gn:latitude":40.8998,
+    "gn:longitude":37.89597,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Bayad\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bayad\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750957
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cceda9673faf8446ef0cbf3a4526cfcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541183
+        }
+    ],
+    "wof:id":1209541183,
+    "wof:lastmodified":1537708087,
+    "wof:name":"Bayadi",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.89597,
+    40.8998,
+    37.89597,
+    40.8998
+],
+  "geometry": {"coordinates":[37.89597,40.8998],"type":"Point"}
+}

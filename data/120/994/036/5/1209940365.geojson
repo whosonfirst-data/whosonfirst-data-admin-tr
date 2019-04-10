@@ -1,0 +1,78 @@
+{
+  "id": 1209940365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.85639,40.29694,36.85639,40.29694",
+    "geom:latitude":40.29694,
+    "geom:longitude":36.85639,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Cevreli",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749217,
+    "gn:latitude":40.29694,
+    "gn:longitude":36.85639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00c7evreli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u00c7evreli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0445\u0430\u0442"
+    ],
+    "name:und_x_variant":[
+        "Muhat",
+        "\u00c7evreli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679363,
+        890463229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749217
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"374ef78ac6e44335adca9363cdccb3eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463229,
+            "locality_id":1209940365,
+            "region_id":85679363
+        }
+    ],
+    "wof:id":1209940365,
+    "wof:lastmodified":1537708023,
+    "wof:name":"Cevreli",
+    "wof:parent_id":890463229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.85639000000001,
+    40.29694,
+    36.85639000000001,
+    40.29694
+],
+  "geometry": {"coordinates":[36.85639000000001,40.29694],"type":"Point"}
+}

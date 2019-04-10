@@ -1,0 +1,67 @@
+{
+  "id": 1242898483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.90233,39.10658,43.90233,39.10658",
+    "geom:latitude":39.10658,
+    "geom:longitude":43.90233,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Sellik",
+    "gn:country_code":"TR",
+    "gn:dem":2034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301220,
+    "gn:latitude":39.10658,
+    "gn:longitude":43.90233,
+    "gn:modification_date":"2009-01-28",
+    "gn:name":"Sellik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679509,
+        1108710011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301220
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"eec48ccd90b66d374b8faf30eaf45453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710011,
+            "locality_id":1242898483,
+            "region_id":85679509
+        }
+    ],
+    "wof:id":1242898483,
+    "wof:lastmodified":1537095259,
+    "wof:name":"Sellik",
+    "wof:parent_id":1108710011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.90233,
+    39.10658,
+    43.90233,
+    39.10658
+],
+  "geometry": {"coordinates":[43.90233,39.10658],"type":"Point"}
+}

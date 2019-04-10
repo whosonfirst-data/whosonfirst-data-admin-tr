@@ -1,0 +1,71 @@
+{
+  "id": 1276789367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.29425,40.40113,33.29425,40.40113",
+    "geom:latitude":40.40113,
+    "geom:longitude":33.29425,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Odek",
+    "gn:country_code":"TR",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741246,
+    "gn:latitude":40.40113,
+    "gn:longitude":33.29425,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"\u00d6dek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00d6dek",
+        "\u00d6ren"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890462535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741246
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"00335a5e61cf7c0db66a6ec96f356de5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462535,
+            "locality_id":1276789367,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1276789367,
+    "wof:lastmodified":1537707760,
+    "wof:name":"Odek",
+    "wof:parent_id":890462535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.29425,
+    40.40113,
+    33.29425,
+    40.40113
+],
+  "geometry": {"coordinates":[33.29425,40.40113],"type":"Point"}
+}

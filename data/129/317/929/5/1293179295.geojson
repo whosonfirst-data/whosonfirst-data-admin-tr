@@ -1,0 +1,74 @@
+{
+  "id": 1293179295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.30306,39.55,27.30306,39.55",
+    "geom:latitude":39.55,
+    "geom:longitude":27.30306,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Huseyinbeyler",
+    "gn:country_code":"TR",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311800,
+    "gn:latitude":39.55,
+    "gn:longitude":27.30306,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"H\u00fcseyinbeyler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "H\u00fcseyinbeyler"
+    ],
+    "name:und_x_variant":[
+        "H\u00fcseyinpa\u015falar",
+        "H\u00fcseyinbe\u015feler"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311800
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a5ee9ae81a483a855eedab3c24416946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709579,
+            "locality_id":1293179295,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1293179295,
+    "wof:lastmodified":1537707066,
+    "wof:name":"Huseyinbeyler",
+    "wof:parent_id":1108709579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.30306,
+    39.55,
+    27.30306,
+    39.55
+],
+  "geometry": {"coordinates":[27.30306,39.55],"type":"Point"}
+}

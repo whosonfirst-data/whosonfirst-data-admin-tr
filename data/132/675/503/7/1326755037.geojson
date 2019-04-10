@@ -1,0 +1,67 @@
+{
+  "id": 1326755037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.52086,38.70916,29.52086,38.70916",
+    "geom:latitude":38.70916,
+    "geom:longitude":29.52086,
+    "gn:admin1_code":"64",
+    "gn:asciiname":"Mesudiye",
+    "gn:country_code":"TR",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304470,
+    "gn:latitude":38.70916,
+    "gn:longitude":29.52086,
+    "gn:modification_date":"2011-04-06",
+    "gn:name":"Mesudiye",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679431,
+        890462163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304470
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"119f038eb80763f221c8f20ab62c0bfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462163,
+            "locality_id":1326755037,
+            "region_id":85679431
+        }
+    ],
+    "wof:id":1326755037,
+    "wof:lastmodified":1536662849,
+    "wof:name":"Mesudiye",
+    "wof:parent_id":890462163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.52086,
+    38.70916,
+    29.52086,
+    38.70916
+],
+  "geometry": {"coordinates":[29.52086,38.70916],"type":"Point"}
+}

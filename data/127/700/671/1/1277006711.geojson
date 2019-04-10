@@ -1,0 +1,67 @@
+{
+  "id": 1277006711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.09392,39.94897,38.09392,39.94897",
+    "geom:latitude":39.94897,
+    "geom:longitude":38.09392,
+    "gn:admin1_code":"58",
+    "gn:asciiname":"Borular",
+    "gn:country_code":"TR",
+    "gn:dem":1850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320850,
+    "gn:latitude":39.94897,
+    "gn:longitude":38.09392,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Borular",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679355,
+        890461455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320850
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26d75b0c3922dad25158b359e9bcaab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461455,
+            "locality_id":1277006711,
+            "region_id":85679355
+        }
+    ],
+    "wof:id":1277006711,
+    "wof:lastmodified":1536870071,
+    "wof:name":"Borular",
+    "wof:parent_id":890461455,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.09392,
+    39.94897,
+    38.09392,
+    39.94897
+],
+  "geometry": {"coordinates":[38.09392,39.94897],"type":"Point"}
+}

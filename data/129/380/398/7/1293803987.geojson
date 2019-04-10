@@ -1,0 +1,77 @@
+{
+  "id": 1293803987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.72275,36.67809,31.72275,36.67809",
+    "geom:latitude":36.67809,
+    "geom:longitude":31.72275,
+    "gn:admin1_code":"7.0",
+    "gn:admin2_code":"7732185.0",
+    "gn:asciiname":"Alara",
+    "gn:country_code":"TR",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447026,
+    "gn:latitude":36.67809,
+    "gn:longitude":31.72275,
+    "gn:modification_date":"2013-11-24",
+    "gn:name":"Alara",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_historical":[
+        "Ulug\u00fcney"
+    ],
+    "name:tur_x_preferred":[
+        "Alara"
+    ],
+    "name:tur_x_variant":[
+        "Ulug\u00fcney"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        890463831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447026
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fcb5579604c8c262508eb064c4d7c0ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463831,
+            "locality_id":1293803987,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1293803987,
+    "wof:lastmodified":1537707605,
+    "wof:name":"Alara",
+    "wof:parent_id":890463831,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.72275,
+    36.67809000000001,
+    31.72275,
+    36.67809000000001
+],
+  "geometry": {"coordinates":[31.72275,36.67809000000001],"type":"Point"}
+}

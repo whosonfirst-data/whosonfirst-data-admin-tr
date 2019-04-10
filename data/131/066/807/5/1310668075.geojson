@@ -1,0 +1,67 @@
+{
+  "id": 1310668075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.4,40.13333,41.4,40.13333",
+    "geom:latitude":40.13333,
+    "geom:longitude":41.4,
+    "gn:admin1_code":"25.0",
+    "gn:asciiname":"Kelevurt",
+    "gn:country_code":"TR",
+    "gn:dem":2130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743541,
+    "gn:latitude":40.13333,
+    "gn:longitude":41.4,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kelevurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679369,
+        1108709969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743541
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"157af47e4d7028a56388ffe906cd6041",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709969,
+            "locality_id":1310668075,
+            "region_id":85679369
+        }
+    ],
+    "wof:id":1310668075,
+    "wof:lastmodified":1536682380,
+    "wof:name":"Kelevurt",
+    "wof:parent_id":1108709969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.4,
+    40.13333,
+    41.4,
+    40.13333
+],
+  "geometry": {"coordinates":[41.4,40.13333],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293503965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.7887,40.47192,39.7887,40.47192",
+    "geom:latitude":40.47192,
+    "geom:longitude":39.7887,
+    "gn:admin1_code":"69.0",
+    "gn:asciiname":"Yayladere",
+    "gn:country_code":"TR",
+    "gn:dem":1831,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":738169,
+    "gn:latitude":40.47192,
+    "gn:longitude":39.7887,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yayladere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Veyserni"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0435\u0439\u0441\u0435\u0440\u043d\u0438"
+    ],
+    "name:und_x_variant":[
+        "Veyserni",
+        "Yayladere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679465,
+        890464141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":738169
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5081887b26880cc80e131dd3d7be4114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464141,
+            "locality_id":1293503965,
+            "region_id":85679465
+        }
+    ],
+    "wof:id":1293503965,
+    "wof:lastmodified":1537707656,
+    "wof:name":"Yayladere",
+    "wof:parent_id":890464141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.7887,
+    40.47192,
+    39.7887,
+    40.47192
+],
+  "geometry": {"coordinates":[39.7887,40.47192],"type":"Point"}
+}

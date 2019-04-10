@@ -1,0 +1,70 @@
+{
+  "id": 1343385011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.139,36.57252,36.139,36.57252",
+    "geom:latitude":36.57252,
+    "geom:longitude":36.139,
+    "gn:admin1_code":"31.0",
+    "gn:asciiname":"Konarli",
+    "gn:country_code":"TR",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":388291,
+    "gn:latitude":36.57252,
+    "gn:longitude":36.139,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Konarl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Konarl\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890464451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":388291
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"59980ac855deba687dbb1181cc593683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464451,
+            "locality_id":1343385011,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1343385011,
+    "wof:lastmodified":1537707515,
+    "wof:name":"Konarli",
+    "wof:parent_id":890464451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.139,
+    36.57252,
+    36.139,
+    36.57252
+],
+  "geometry": {"coordinates":[36.139,36.57252],"type":"Point"}
+}

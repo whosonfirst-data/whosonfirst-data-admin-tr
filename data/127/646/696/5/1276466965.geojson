@@ -1,0 +1,67 @@
+{
+  "id": 1276466965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.22587,39.63861,35.22587,39.63861",
+    "geom:latitude":39.63861,
+    "geom:longitude":35.22587,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Karaveli",
+    "gn:country_code":"TR",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":309229,
+    "gn:latitude":39.63861,
+    "gn:longitude":35.22587,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karaveli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        890464289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":309229
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5b11afb317267dcfa2a75eec6a88ccae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464289,
+            "locality_id":1276466965,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1276466965,
+    "wof:lastmodified":1537093664,
+    "wof:name":"Karaveli",
+    "wof:parent_id":890464289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.22587,
+    39.63861,
+    35.22587,
+    39.63861
+],
+  "geometry": {"coordinates":[35.22587,39.63861],"type":"Point"}
+}

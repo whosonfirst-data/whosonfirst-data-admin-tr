@@ -1,0 +1,73 @@
+{
+  "id": 1226468011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4241,38.07959,33.4241,38.07959",
+    "geom:latitude":38.07959,
+    "geom:longitude":33.4241,
+    "gn:admin1_code":"75",
+    "gn:asciiname":"Kucuksekeller Yaylasi",
+    "gn:country_code":"TR",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313192,
+    "gn:latitude":38.07959,
+    "gn:longitude":33.4241,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"K\u00fc\u00e7\u00fcksekeller Yaylas\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "K\u00fc\u00e7\u00fcksekeller Yaylas\u0131"
+    ],
+    "name:tur_x_variant":[
+        "G\u00fczerli Yaylas\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679457,
+        890462293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313192
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7273f173aeb4dd99fc000caea9a8ab21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462293,
+            "locality_id":1226468011,
+            "region_id":85679457
+        }
+    ],
+    "wof:id":1226468011,
+    "wof:lastmodified":1537707114,
+    "wof:name":"Kucuksekeller Yaylasi",
+    "wof:parent_id":890462293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4241,
+    38.07959,
+    33.4241,
+    38.07959
+],
+  "geometry": {"coordinates":[33.4241,38.07959],"type":"Point"}
+}

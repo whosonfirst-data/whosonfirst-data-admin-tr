@@ -1,0 +1,67 @@
+{
+  "id": 1343537375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.37906,39.75511,27.37906,39.75511",
+    "geom:latitude":39.75511,
+    "geom:longitude":27.37906,
+    "gn:admin1_code":"17",
+    "gn:asciiname":"Hacilar",
+    "gn:country_code":"TR",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313005,
+    "gn:latitude":39.75511,
+    "gn:longitude":27.37906,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Hac\u0131lar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313005
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"79117be65c5215d64d1ccba0d772fa27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709985,
+            "locality_id":1343537375,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1343537375,
+    "wof:lastmodified":1536633975,
+    "wof:name":"Hacilar",
+    "wof:parent_id":1108709985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.37906,
+    39.75511,
+    27.37906,
+    39.75511
+],
+  "geometry": {"coordinates":[27.37906,39.75511],"type":"Point"}
+}

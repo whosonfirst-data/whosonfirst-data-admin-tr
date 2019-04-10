@@ -1,0 +1,70 @@
+{
+  "id": 1243123747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00736,41.79283,33.00736,41.79283",
+    "geom:latitude":41.79283,
+    "geom:longitude":33.00736,
+    "gn:admin1_code":"37.0",
+    "gn:asciiname":"Derebucagi",
+    "gn:country_code":"TR",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":748333,
+    "gn:latitude":41.79283,
+    "gn:longitude":33.00736,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Derebuca\u011f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Derebuca\u011f\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679259,
+        890462849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":748333
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a0551d03bd8eac14de3999909a7d9c1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462849,
+            "locality_id":1243123747,
+            "region_id":85679259
+        }
+    ],
+    "wof:id":1243123747,
+    "wof:lastmodified":1537707991,
+    "wof:name":"Derebucagi",
+    "wof:parent_id":890462849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00736,
+    41.79283,
+    33.00736,
+    41.79283
+],
+  "geometry": {"coordinates":[33.00736,41.79283],"type":"Point"}
+}

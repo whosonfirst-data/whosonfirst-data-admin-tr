@@ -1,0 +1,77 @@
+{
+  "id": 1260149505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.26705,38.37812,40.26705,38.37812",
+    "geom:latitude":38.37812,
+    "geom:longitude":40.26705,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Arikoy",
+    "gn:country_code":"TR",
+    "gn:dem":821,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323627,
+    "gn:latitude":38.37812,
+    "gn:longitude":40.26705,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Ar\u0131k\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ar\u0131k\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Yukar\u0131 Kortik",
+        "Yukar\u0131kortenik",
+        "Yukar\u0131kertenit",
+        "Yukar\u0131kortenit",
+        "Yukar\u0131 Kortinik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":323627
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7eeea76847351a67b9ae99b92a136642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709443,
+            "locality_id":1260149505,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1260149505,
+    "wof:lastmodified":1537707455,
+    "wof:name":"Arikoy",
+    "wof:parent_id":1108709443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.26705,
+    38.37812,
+    40.26705,
+    38.37812
+],
+  "geometry": {"coordinates":[40.26705,38.37812],"type":"Point"}
+}

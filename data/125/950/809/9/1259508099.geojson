@@ -1,0 +1,74 @@
+{
+  "id": 1259508099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4349,39.04519,29.4349,39.04519",
+    "geom:latitude":39.04519,
+    "geom:longitude":29.4349,
+    "gn:admin1_code":"43",
+    "gn:asciiname":"Eski Gediz",
+    "gn:country_code":"TR",
+    "gn:dem":871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304543,
+    "gn:latitude":39.04519,
+    "gn:longitude":29.4349,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Eski Gediz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Eski Gediz"
+    ],
+    "name:und_x_variant":[
+        "Merkepveren",
+        "Merkepviran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679283,
+        1108709507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304543
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dad76b6679fdd088ec168d95e7c8044a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709507,
+            "locality_id":1259508099,
+            "region_id":85679283
+        }
+    ],
+    "wof:id":1259508099,
+    "wof:lastmodified":1537706845,
+    "wof:name":"Eski Gediz",
+    "wof:parent_id":1108709507,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4349,
+    39.04519000000001,
+    29.4349,
+    39.04519000000001
+],
+  "geometry": {"coordinates":[29.4349,39.04519000000001],"type":"Point"}
+}

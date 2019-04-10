@@ -1,0 +1,67 @@
+{
+  "id": 1259608881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12655,38.31533,36.12655,38.31533",
+    "geom:latitude":38.31533,
+    "geom:longitude":36.12655,
+    "gn:admin1_code":"81",
+    "gn:asciiname":"Tozlu",
+    "gn:country_code":"TR",
+    "gn:dem":1692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":298888,
+    "gn:latitude":38.31533,
+    "gn:longitude":36.12655,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Tozlu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679443,
+        1108709933
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":298888
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a60b420efa096bfbb9e04136bc05b79b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709933,
+            "locality_id":1259608881,
+            "region_id":85679443
+        }
+    ],
+    "wof:id":1259608881,
+    "wof:lastmodified":1536678253,
+    "wof:name":"Tozlu",
+    "wof:parent_id":1108709933,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12655,
+    38.31533,
+    36.12655,
+    38.31533
+],
+  "geometry": {"coordinates":[36.12655,38.31533],"type":"Point"}
+}

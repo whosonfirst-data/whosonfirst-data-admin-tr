@@ -1,0 +1,67 @@
+{
+  "id": 1242720247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.70407,40.81834,43.70407,40.81834",
+    "geom:latitude":40.81834,
+    "geom:longitude":43.70407,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Mehmetcik",
+    "gn:country_code":"TR",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":741684,
+    "gn:latitude":40.81834,
+    "gn:longitude":43.70407,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Mehmetcik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890460683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":741684
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aef3266383baa33186d82d61082aad71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460683,
+            "locality_id":1242720247,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1242720247,
+    "wof:lastmodified":1536857134,
+    "wof:name":"Mehmetcik",
+    "wof:parent_id":890460683,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.70407,
+    40.81834,
+    43.70407,
+    40.81834
+],
+  "geometry": {"coordinates":[43.70407,40.81834],"type":"Point"}
+}

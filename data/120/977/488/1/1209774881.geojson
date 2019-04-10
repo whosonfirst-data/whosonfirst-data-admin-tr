@@ -1,0 +1,67 @@
+{
+  "id": 1209774881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4,36.2,33.4,36.2",
+    "geom:latitude":36.2,
+    "geom:longitude":33.4,
+    "gn:admin1_code":"32",
+    "gn:asciiname":"Fidik",
+    "gn:country_code":"TR",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314947,
+    "gn:latitude":36.2,
+    "gn:longitude":33.4,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Fidik",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679313,
+        890462653
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314947
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"80f84ad078eac17f85bd2e56561613d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462653,
+            "locality_id":1209774881,
+            "region_id":85679313
+        }
+    ],
+    "wof:id":1209774881,
+    "wof:lastmodified":1536379961,
+    "wof:name":"Fidik",
+    "wof:parent_id":890462653,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4,
+    36.2,
+    33.4,
+    36.2
+],
+  "geometry": {"coordinates":[33.4,36.2],"type":"Point"}
+}

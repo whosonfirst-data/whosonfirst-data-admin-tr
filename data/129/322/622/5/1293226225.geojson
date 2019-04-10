@@ -1,0 +1,70 @@
+{
+  "id": 1293226225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.95252,38.74683,27.95252,38.74683",
+    "geom:latitude":38.74683,
+    "geom:longitude":27.95252,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Hiroglu",
+    "gn:country_code":"TR",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312085,
+    "gn:latitude":38.74683,
+    "gn:longitude":27.95252,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"H\u0131ro\u011flu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "H\u0131ro\u011flu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        1108709525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312085
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"12a60ca976f3a3899139a1adfcfbc4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709525,
+            "locality_id":1293226225,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1293226225,
+    "wof:lastmodified":1537707078,
+    "wof:name":"Hiroglu",
+    "wof:parent_id":1108709525,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.95252,
+    38.74683,
+    27.95252,
+    38.74683
+],
+  "geometry": {"coordinates":[27.95252,38.74683],"type":"Point"}
+}

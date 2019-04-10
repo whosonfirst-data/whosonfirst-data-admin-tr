@@ -1,0 +1,67 @@
+{
+  "id": 1327419511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93858,36.26517,29.93858,36.26517",
+    "geom:latitude":36.26517,
+    "geom:longitude":29.93858,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Gurses",
+    "gn:country_code":"TR",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313324,
+    "gn:latitude":36.26517,
+    "gn:longitude":29.93858,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"G\u00fcrses",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679263,
+        1108709435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313324
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b0825862ea496cdb208a8724d4d892ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709435,
+            "locality_id":1327419511,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":1327419511,
+    "wof:lastmodified":1536699695,
+    "wof:name":"Gurses",
+    "wof:parent_id":1108709435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93858,
+    36.26517,
+    29.93858,
+    36.26517
+],
+  "geometry": {"coordinates":[29.93858,36.26517],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209271011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.88316,37.87191,39.88316,37.87191",
+    "geom:latitude":37.87191,
+    "geom:longitude":39.88316,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Yigityolu",
+    "gn:country_code":"TR",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296756,
+    "gn:latitude":37.87191,
+    "gn:longitude":39.88316,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yi\u011fityolu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yi\u011fityolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296756
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"49810fa5826f41d7b3787e941ff8097f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209271011
+        }
+    ],
+    "wof:id":1209271011,
+    "wof:lastmodified":1537706582,
+    "wof:name":"Yigityolu",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.88316,
+    37.87191,
+    39.88316,
+    37.87191
+],
+  "geometry": {"coordinates":[39.88316,37.87191],"type":"Point"}
+}

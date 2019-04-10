@@ -1,0 +1,76 @@
+{
+  "id": 890460589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69278,39.43528,32.69278,39.43528",
+    "geom:latitude":39.43528,
+    "geom:longitude":32.69278,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u00c7ubuk",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ankara",
+    "qs:photos":96,
+    "qs:photos_1k":19,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":96,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":363,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890464585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":317867,
+        "gp:id":2343905,
+        "qs:id":1333281,
+        "wd:id":"Q2868524",
+        "wk:page":"\u00c7ubuk, Ankara"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053320,
+    "wof:geomhash":"b45de3609dd77f49649f9e925b036c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464585,
+            "locality_id":890460589,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":890460589,
+    "wof:lastmodified":1527792908,
+    "wof:name":"\u00c7ubuk",
+    "wof:parent_id":890464585,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69278,
+    39.43528,
+    32.69278,
+    39.43528
+],
+  "geometry": {"coordinates":[32.69278,39.43528],"type":"Point"}
+}

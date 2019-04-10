@@ -1,0 +1,107 @@
+{
+  "id": 101912659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000212,
+    "geom:area_square_m":1972110.04304,
+    "geom:bbox":"29.0391841306,41.0804299876,29.057807006,41.0985661762",
+    "geom:latitude":41.088286,
+    "geom:longitude":29.04941,
+    "iso:country":"TR",
+    "lbl:latitude":41.087846,
+    "lbl:longitude":29.049587,
+    "mps:latitude":41.087846,
+    "mps:longitude":29.049587,
+    "mz:hierarchy_label":1,
+    "name:afr_x_preferred":[
+        "Anadoluhisar\u0131"
+    ],
+    "name:aze_x_preferred":[
+        "Anadolu Hasar\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u0410\u043d\u0430\u0434\u043e\u043b\u0443\u0445\u0438\u0441\u0430\u0440"
+    ],
+    "name:cat_x_preferred":[
+        "Anadolu Hisari"
+    ],
+    "name:deu_x_preferred":[
+        "Anadolu Hisar\u0131"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bd\u03b1\u03bd\u03c4\u03bf\u03bb\u03bf\u03c5\u03c7\u03b9\u03c3\u03ac\u03c1\u03b9"
+    ],
+    "name:fra_x_preferred":[
+        "Anadolu Hisar\u0131"
+    ],
+    "name:ind_x_preferred":[
+        "Anadolu Hisar\u0131"
+    ],
+    "name:lav_x_preferred":[
+        "Anatolijas cietoksnis"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043d\u0430\u0434\u043e\u043b\u0441\u043a\u0438 \u0425\u0438\u0441\u0430\u0440"
+    ],
+    "qs:a0":"Turkey",
+    "qs:a1":"*",
+    "qs:a1r":"9",
+    "qs:adm0":"Turkey",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Anadoluhisar\u0131",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751994,
+        "gp:id":2343539,
+        "qs:id":239484,
+        "qs_pg:id":239484,
+        "wd:id":"Q81650",
+        "wk:page":"Anadoluhisar\u0131"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"dae358ec49a77ca1900e29edc6697705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "locality_id":101912659,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":101912659,
+    "wof:lastmodified":1497299243,
+    "wof:name":"Anadoluhisar\u0131",
+    "wof:parent_id":890463467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03918413061132,
+    41.08042998761039,
+    29.05780700595233,
+    41.0985661761631
+],
+  "geometry": {"coordinates":[[[29.05204667165799,41.0985661761631],[29.05267882089618,41.09795942844704],[29.05452447014119,41.09844512561682],[29.05441935830316,41.09811061658939],[29.05557755736891,41.09788437882685],[29.05492409693255,41.0958043738712],[29.05420793395774,41.09352478286047],[29.05536605184079,41.09329855007809],[29.05509214377798,41.0924266287538],[29.05625023956185,41.09220038619475],[29.05597632719315,41.09132846661942],[29.05713440087919,41.09110221428415],[29.0565865779933,41.08935837669003],[29.0577446148165,41.08913211826786],[29.05664903551616,41.08564443455043],[29.05780700595233,41.08541817741934],[29.05684611750922,41.08235889208549],[29.04343427254821,41.08042998761039],[29.03918413061132,41.08779256914312],[29.05204667165799,41.0985661761631]]],"type":"Polygon"}
+}

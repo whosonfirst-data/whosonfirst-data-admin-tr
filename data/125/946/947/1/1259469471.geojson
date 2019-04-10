@@ -1,0 +1,70 @@
+{
+  "id": 1259469471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.47641,39.04389,40.47641,39.04389",
+    "geom:latitude":39.04389,
+    "geom:longitude":40.47641,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Oguldere",
+    "gn:country_code":"TR",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303664,
+    "gn:latitude":39.04389,
+    "gn:longitude":40.47641,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"O\u011fuldere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "O\u011fuldere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890464151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303664
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6a3ce13609ff2b9a1a7761569eab563e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464151,
+            "locality_id":1259469471,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1259469471,
+    "wof:lastmodified":1537706814,
+    "wof:name":"Oguldere",
+    "wof:parent_id":890464151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.47641,
+    39.04389000000001,
+    40.47641,
+    39.04389000000001
+],
+  "geometry": {"coordinates":[40.47641,39.04389000000001],"type":"Point"}
+}

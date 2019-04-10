@@ -1,0 +1,72 @@
+{
+  "id": 1243578783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.56443,38.98841,42.56443,38.98841",
+    "geom:latitude":38.98841,
+    "geom:longitude":42.56443,
+    "gn:admin1_code":"49",
+    "gn:asciiname":"Kulcak",
+    "gn:country_code":"TR",
+    "gn:dem":2004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":305785,
+    "gn:latitude":38.98841,
+    "gn:longitude":42.56443,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Kulcak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abdo",
+        "Kula\u00e7",
+        "Kulcak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679401,
+        890464143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":305785
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3f088712a9b5f62c4b65ab9edebfa9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464143,
+            "locality_id":1243578783,
+            "region_id":85679401
+        }
+    ],
+    "wof:id":1243578783,
+    "wof:lastmodified":1537706884,
+    "wof:name":"Kulcak",
+    "wof:parent_id":890464143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.56443,
+    38.98841,
+    42.56443,
+    38.98841
+],
+  "geometry": {"coordinates":[42.56443,38.98841],"type":"Point"}
+}

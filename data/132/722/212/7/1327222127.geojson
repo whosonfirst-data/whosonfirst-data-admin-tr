@@ -1,0 +1,71 @@
+{
+  "id": 1327222127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.15316,40.31523,28.15316,40.31523",
+    "geom:latitude":40.31523,
+    "geom:longitude":28.15316,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Emre",
+    "gn:country_code":"TR",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747509,
+    "gn:latitude":40.31523,
+    "gn:longitude":28.15316,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Emre",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emirler",
+        "Emre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        890462505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747509
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1badbdee094e7c702bf1c4c5f4f3ae7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462505,
+            "locality_id":1327222127,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1327222127,
+    "wof:lastmodified":1537707964,
+    "wof:name":"Emre",
+    "wof:parent_id":890462505,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.15316,
+    40.31523,
+    28.15316,
+    40.31523
+],
+  "geometry": {"coordinates":[28.15316,40.31523],"type":"Point"}
+}

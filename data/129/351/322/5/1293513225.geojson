@@ -1,0 +1,71 @@
+{
+  "id": 1293513225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.62046,39.61527,34.62046,39.61527",
+    "geom:latitude":39.61527,
+    "geom:longitude":34.62046,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Kordeve",
+    "gn:country_code":"TR",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306500,
+    "gn:latitude":39.61527,
+    "gn:longitude":34.62046,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"K\u00f6rdeve",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6rdeve K\u00f6y\u00fc",
+        "K\u00f6rdeve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306500
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"5089be045852b4c24fecb78f838bc1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709999,
+            "locality_id":1293513225,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1293513225,
+    "wof:lastmodified":1537706908,
+    "wof:name":"Kordeve",
+    "wof:parent_id":1108709999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.62045999999999,
+    39.61527,
+    34.62045999999999,
+    39.61527
+],
+  "geometry": {"coordinates":[34.62045999999999,39.61527],"type":"Point"}
+}

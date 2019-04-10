@@ -1,0 +1,74 @@
+{
+  "id": 1242962519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.94227,37.78692,27.94227,37.78692",
+    "geom:latitude":37.78692,
+    "geom:longitude":27.94227,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Sahnali",
+    "gn:country_code":"TR",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302200,
+    "gn:latitude":37.78692,
+    "gn:longitude":27.94227,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"\u015eahnal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "\u015eahnal\u0131"
+    ],
+    "name:tur_x_variant":[
+        "\u015eahinali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679195,
+        890461265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302200,
+        "wk:page":"%C5%9Eahnal%C4%B1%2C_Ayd%C4%B1n"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"294cee291a3fb179e7df3677738d0f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461265,
+            "locality_id":1242962519,
+            "region_id":85679195
+        }
+    ],
+    "wof:id":1242962519,
+    "wof:lastmodified":1537706766,
+    "wof:name":"Sahnali",
+    "wof:parent_id":890461265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.94227,
+    37.78692,
+    27.94227,
+    37.78692
+],
+  "geometry": {"coordinates":[27.94227,37.78692],"type":"Point"}
+}

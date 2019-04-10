@@ -1,0 +1,71 @@
+{
+  "id": 1343399419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90194,38.74529,35.90194,38.74529",
+    "geom:latitude":38.74529,
+    "geom:longitude":35.90194,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Yeni Suksun",
+    "gn:country_code":"TR",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300262,
+    "gn:latitude":38.74529,
+    "gn:longitude":35.90194,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Yeni S\u00fcks\u00fcn",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u00fcks\u00fcn",
+        "Yeni S\u00fcks\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679321,
+        890461983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300262
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2c0e0f14b4318f4919021ce488288de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461983,
+            "locality_id":1343399419,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":1343399419,
+    "wof:lastmodified":1537706700,
+    "wof:name":"Yeni Suksun",
+    "wof:parent_id":890461983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90194,
+    38.74529,
+    35.90194,
+    38.74529
+],
+  "geometry": {"coordinates":[35.90194,38.74529],"type":"Point"}
+}

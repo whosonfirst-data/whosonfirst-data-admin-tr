@@ -1,0 +1,105 @@
+{
+  "id": 85906461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000043,
+    "geom:area_square_m":397673.738832,
+    "geom:bbox":"28.9371802649,41.0285722027,28.9462280273,41.0358589042",
+    "geom:latitude":41.03324,
+    "geom:longitude":28.942003,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":41.033608,
+    "lbl:longitude":28.94119,
+    "mps:latitude":41.03322,
+    "mps:longitude":28.941637,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Avcibey"
+    ],
+    "name:und_x_preferred":[
+        "Avc\u0131bey"
+    ],
+    "name:unk_x_variant":[
+        "Avc\u0131bey"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Avc\u0131bey",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Fatih",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":65,
+    "qs:photo_sum":207,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390328,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724005,
+        "qs:id":1184250
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3ad61956833e670f29f65db66716bcef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "neighbourhood_id":85906461,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85906461,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1527268911,
+    "wof:name":"Avc\u0131bey",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.93718026488534,
+    41.02857220267795,
+    28.94622802731925,
+    41.0358589041669
+],
+  "geometry": {"coordinates":[[[28.94622802731402,41.03378712705019],[28.94622802731925,41.03171528759073],[28.94348144530022,41.03171528429195],[28.94348144530011,41.02964338266541],[28.94267338807435,41.02857220267795],[28.94073486327511,41.02942876475878],[28.94073486328529,41.02964338720001],[28.94073486328557,41.03100117675662],[28.93969492961315,41.03146070289394],[28.93963091379669,41.03171529380008],[28.93936157230013,41.03171529380008],[28.93936157230013,41.03223325956253],[28.93867492678447,41.03223325965962],[28.9386749267851,41.03275122270007],[28.93798828120009,41.03275122270007],[28.93798828120009,41.03310827781542],[28.93757429757341,41.03329121403155],[28.93744959985025,41.03378713493464],[28.93718026488534,41.03485827589466],[28.93718028334001,41.0348583003607],[28.93743186187828,41.03585889512543],[28.93798828120009,41.03585889972797],[28.94073486328176,41.03585890272032],[28.94348144530022,41.0358589041669],[28.94622802731368,41.03585890190658],[28.94622802731402,41.03378712705019]]],"type":"Polygon"}
+}

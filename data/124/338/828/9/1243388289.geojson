@@ -1,0 +1,73 @@
+{
+  "id": 1243388289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.15743,37.32962,40.15743,37.32962",
+    "geom:latitude":37.32962,
+    "geom:longitude":40.15743,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Dumanli",
+    "gn:country_code":"TR",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":316188,
+    "gn:latitude":37.32962,
+    "gn:longitude":40.15743,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dumanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dumanl\u0131"
+    ],
+    "name:und_x_variant":[
+        "Harar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        890463301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":316188
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"09a1b37f964181e7ea95ee0520fa25c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463301,
+            "locality_id":1243388289,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1243388289,
+    "wof:lastmodified":1537707210,
+    "wof:name":"Dumanli",
+    "wof:parent_id":890463301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.15743,
+    37.32962,
+    40.15743,
+    37.32962
+],
+  "geometry": {"coordinates":[40.15743,37.32962],"type":"Point"}
+}

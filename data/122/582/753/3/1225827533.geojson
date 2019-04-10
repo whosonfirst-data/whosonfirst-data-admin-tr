@@ -1,0 +1,67 @@
+{
+  "id": 1225827533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.60805,37.28359,30.60805,37.28359",
+    "geom:latitude":37.28359,
+    "geom:longitude":30.60805,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Koletasi",
+    "gn:country_code":"TR",
+    "gn:dem":863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8208051,
+    "gn:latitude":37.28359,
+    "gn:longitude":30.60805,
+    "gn:modification_date":"2012-02-29",
+    "gn:name":"K\u00f6leta\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679273,
+        890460843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8208051
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"28f720bb39c9175ad87b9ed9f1a758f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460843,
+            "locality_id":1225827533,
+            "region_id":85679273
+        }
+    ],
+    "wof:id":1225827533,
+    "wof:lastmodified":1537038311,
+    "wof:name":"Koletasi",
+    "wof:parent_id":890460843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.60805,
+    37.28359,
+    30.60805,
+    37.28359
+],
+  "geometry": {"coordinates":[30.60805,37.28359],"type":"Point"}
+}

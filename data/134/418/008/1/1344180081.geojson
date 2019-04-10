@@ -1,0 +1,71 @@
+{
+  "id": 1344180081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.70221,39.81625,42.70221,39.81625",
+    "geom:latitude":39.81625,
+    "geom:longitude":42.70221,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Yigintas",
+    "gn:country_code":"TR",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":296773,
+    "gn:latitude":39.81625,
+    "gn:longitude":42.70221,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Y\u0131\u011f\u0131nta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eadiyan",
+        "Y\u0131\u011f\u0131nta\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679387,
+        1108709477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":296773
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3572c201f96f3c870dda8ef961c90bc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709477,
+            "locality_id":1344180081,
+            "region_id":85679387
+        }
+    ],
+    "wof:id":1344180081,
+    "wof:lastmodified":1537706582,
+    "wof:name":"Yigintas",
+    "wof:parent_id":1108709477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.70221,
+    39.81625,
+    42.70221,
+    39.81625
+],
+  "geometry": {"coordinates":[42.70221,39.81625],"type":"Point"}
+}

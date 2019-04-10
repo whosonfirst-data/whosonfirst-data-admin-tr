@@ -1,0 +1,75 @@
+{
+  "id": 1225870385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.61028,37.53556,41.61028,37.53556",
+    "geom:latitude":37.53556,
+    "geom:longitude":41.61028,
+    "gn:admin1_code":"72.0",
+    "gn:asciiname":"Gunduksilo",
+    "gn:cc2":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":441637,
+    "gn:latitude":37.53556,
+    "gn:longitude":41.61028,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"G\u00fcnd\u00fcksilo",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "G\u00fcnd\u00fcksilo"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcnd\u00fcsl\u00fc",
+        "Gyundyukkhadzhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":441637
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"90df9dac9f929ddeb8da17140ece5e91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709423,
+            "locality_id":1225870385,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1225870385,
+    "wof:lastmodified":1537707595,
+    "wof:name":"Gunduksilo",
+    "wof:parent_id":1108709423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.61028,
+    37.53556,
+    41.61028,
+    37.53556
+],
+  "geometry": {"coordinates":[41.61028,37.53556],"type":"Point"}
+}

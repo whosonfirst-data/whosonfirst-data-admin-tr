@@ -1,0 +1,67 @@
+{
+  "id": 1343475421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.80111,37.74611,41.80111,37.74611",
+    "geom:latitude":37.74611,
+    "geom:longitude":41.80111,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Balak",
+    "gn:country_code":"TR",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":440766,
+    "gn:latitude":37.74611,
+    "gn:longitude":41.80111,
+    "gn:modification_date":"2005-05-31",
+    "gn:name":"Balak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        1108709747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":440766
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b4e20537d7d994dce2679f68471361a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709747,
+            "locality_id":1343475421,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1343475421,
+    "wof:lastmodified":1536724894,
+    "wof:name":"Balak",
+    "wof:parent_id":1108709747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.80111,
+    37.74611,
+    41.80111,
+    37.74611
+],
+  "geometry": {"coordinates":[41.80111,37.74611],"type":"Point"}
+}

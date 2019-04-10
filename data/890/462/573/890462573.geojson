@@ -1,0 +1,78 @@
+{
+  "id": 890462573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13503,40.51016,30.13503,40.51016",
+    "geom:latitude":40.51016,
+    "geom:longitude":30.13503,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:tur_x_preferred":[
+        "Karap\u0131nar"
+    ],
+    "qs:name":"Karapinar",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Eski\u015fehir",
+    "qs:photos":11,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":11,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":132,
+    "wof:belongsto":[
+        102191569,
+        85679245,
+        85632393,
+        1108709801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8275401,
+        "gp:id":56043416,
+        "qs:id":1105205,
+        "wk:page":"Karapinar"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053395,
+    "wof:geomhash":"72f7f0184f3b2068b949a0f5b4b21839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709801,
+            "neighbourhood_id":890462573,
+            "region_id":85679245
+        }
+    ],
+    "wof:id":890462573,
+    "wof:lastmodified":1527749962,
+    "wof:name":"Karapinar",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13503,
+    40.51016,
+    30.13503,
+    40.51016
+],
+  "geometry": {"coordinates":[30.13503,40.51016],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193252595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31833,37.75,29.31833,37.75",
+    "geom:latitude":37.75,
+    "geom:longitude":29.31833,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Mentese",
+    "gn:country_code":"TR",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304595,
+    "gn:latitude":37.75,
+    "gn:longitude":29.31833,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Mente\u015fe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Mente\u015fe"
+    ],
+    "name:tur_x_variant":[
+        "Mente\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        890461523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304595
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2672160e7818d2fabede3617749a583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461523,
+            "locality_id":1193252595,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1193252595,
+    "wof:lastmodified":1537706846,
+    "wof:name":"Mentese",
+    "wof:parent_id":890461523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31833,
+    37.75,
+    29.31833,
+    37.75
+],
+  "geometry": {"coordinates":[29.31833,37.75],"type":"Point"}
+}

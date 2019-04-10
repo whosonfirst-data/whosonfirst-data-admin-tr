@@ -1,0 +1,73 @@
+{
+  "id": 1293250387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.0579,38.50534,39.0579,38.50534",
+    "geom:latitude":38.50534,
+    "geom:longitude":39.0579,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Temurkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299368,
+    "gn:latitude":38.50534,
+    "gn:longitude":39.0579,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Tem\u00fcrk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Tem\u00fcrk\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Tem\u00fcr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        890462513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299368
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f5c352c432ad1dbf1d2c8ba4cb16cbdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462513,
+            "locality_id":1293250387,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1293250387,
+    "wof:lastmodified":1537706672,
+    "wof:name":"Temurkoy",
+    "wof:parent_id":890462513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.0579,
+    38.50534,
+    39.0579,
+    38.50534
+],
+  "geometry": {"coordinates":[39.0579,38.50534],"type":"Point"}
+}

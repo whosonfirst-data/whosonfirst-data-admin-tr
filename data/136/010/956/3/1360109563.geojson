@@ -1,0 +1,75 @@
+{
+  "id": 1360109563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64795,39.73177,35.64795,39.73177",
+    "geom:latitude":39.73177,
+    "geom:longitude":35.64795,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Karahisartatlisi",
+    "gn:country_code":"TR",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":322587,
+    "gn:latitude":39.73177,
+    "gn:longitude":35.64795,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Karahisartatl\u0131s\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Karahisartatl\u0131s\u0131"
+    ],
+    "name:und_x_variant":[
+        "Babo",
+        "Babu",
+        "Karahisartarl\u0131s\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":322587
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4c74c625b073774ee5280a1d59dd657a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709255,
+            "locality_id":1360109563,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1360109563,
+    "wof:lastmodified":1537707417,
+    "wof:name":"Karahisartatlisi",
+    "wof:parent_id":1108709255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64795,
+    39.73177,
+    35.64795,
+    39.73177
+],
+  "geometry": {"coordinates":[35.64795,39.73177],"type":"Point"}
+}

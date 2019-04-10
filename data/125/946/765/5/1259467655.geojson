@@ -1,0 +1,70 @@
+{
+  "id": 1259467655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.7546,41.31362,41.7546,41.31362",
+    "geom:latitude":41.31362,
+    "geom:longitude":41.7546,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Adagul",
+    "gn:country_code":"TR",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":752859,
+    "gn:latitude":41.31362,
+    "gn:longitude":41.7546,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Adag\u00fcl",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Adag\u00fcl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        890460815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":752859
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ca4008dc02686bad0ab3872a0e61b14b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460815,
+            "locality_id":1259467655,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1259467655,
+    "wof:lastmodified":1537708156,
+    "wof:name":"Adagul",
+    "wof:parent_id":890460815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.7546,
+    41.31362,
+    41.7546,
+    41.31362
+],
+  "geometry": {"coordinates":[41.7546,41.31362],"type":"Point"}
+}

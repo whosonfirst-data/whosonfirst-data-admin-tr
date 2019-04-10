@@ -1,0 +1,74 @@
+{
+  "id": 1243322125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.04599,38.085,41.04599,38.085",
+    "geom:latitude":38.085,
+    "geom:longitude":41.04599,
+    "gn:admin1_code":"21.0",
+    "gn:asciiname":"Akdere",
+    "gn:country_code":"TR",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324746,
+    "gn:latitude":38.085,
+    "gn:longitude":41.04599,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Akdere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Akdere"
+    ],
+    "name:und_x_variant":[
+        "T\u0131rbesupi",
+        "T\u00fcrbesipi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        1108709881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324746
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ee326d95df400c26f4873dbfe1f08da9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709881,
+            "locality_id":1243322125,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1243322125,
+    "wof:lastmodified":1537707490,
+    "wof:name":"Akdere",
+    "wof:parent_id":1108709881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.04599,
+    38.085,
+    41.04599,
+    38.085
+],
+  "geometry": {"coordinates":[41.04599,38.085],"type":"Point"}
+}

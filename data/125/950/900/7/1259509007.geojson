@@ -1,0 +1,67 @@
+{
+  "id": 1259509007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32707,40.50826,32.32707,40.50826",
+    "geom:latitude":40.50826,
+    "geom:longitude":32.32707,
+    "gn:admin1_code":"68.0",
+    "gn:asciiname":"Dortkonak",
+    "gn:country_code":"TR",
+    "gn:dem":1267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7925039,
+    "gn:latitude":40.50826,
+    "gn:longitude":32.32707,
+    "gn:modification_date":"2011-08-10",
+    "gn:name":"D\u00f6rtkonak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679409,
+        890461263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7925039
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cb8c3848cd8436e7e3ca6cb67afad2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461263,
+            "locality_id":1259509007,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":1259509007,
+    "wof:lastmodified":1536821292,
+    "wof:name":"Dortkonak",
+    "wof:parent_id":890461263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32707,
+    40.50826,
+    32.32707,
+    40.50826
+],
+  "geometry": {"coordinates":[32.32707,40.50826],"type":"Point"}
+}

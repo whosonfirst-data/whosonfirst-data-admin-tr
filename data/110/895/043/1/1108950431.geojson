@@ -1,0 +1,66 @@
+{
+  "id": 1108950431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9786307132,41.024202017,28.9786307132,41.024202017",
+    "geom:latitude":41.024202,
+    "geom:longitude":28.978631,
+    "iso:country":"TR",
+    "lbl:latitude":41.024202,
+    "lbl:longitude":28.978631,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Kemanke\u015f"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101913185,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368393,
+    "wof:geomhash":"a59cf87cec34764d82452d70d5e024c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "locality_id":101913185,
+            "neighbourhood_id":1108950431,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950431,
+    "wof:lastmodified":1497292381,
+    "wof:name":"Kemankes",
+    "wof:parent_id":101913185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9786307132349,
+    41.02420201696433,
+    28.9786307132349,
+    41.02420201696433
+],
+  "geometry": {"coordinates":[28.9786307132349,41.02420201696433],"type":"Point"}
+}

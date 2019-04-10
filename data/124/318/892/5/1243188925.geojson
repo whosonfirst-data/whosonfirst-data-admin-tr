@@ -1,0 +1,72 @@
+{
+  "id": 1243188925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.37559,41.05184,37.37559,41.05184",
+    "geom:latitude":41.05184,
+    "geom:longitude":37.37559,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Golcugez",
+    "gn:country_code":"TR",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":746675,
+    "gn:latitude":41.05184,
+    "gn:longitude":37.37559,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"G\u00f6lc\u00fcgez",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6kce\u011fiz",
+        "G\u00f6lc\u00fcgez",
+        "G\u00f6lce\u011fiz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        890463343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":746675
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ba1f87659d2c2691c0c941754d6c8c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463343,
+            "locality_id":1243188925,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1243188925,
+    "wof:lastmodified":1537707934,
+    "wof:name":"Golcugez",
+    "wof:parent_id":890463343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.37559,
+    41.05184000000001,
+    37.37559,
+    41.05184000000001
+],
+  "geometry": {"coordinates":[37.37559,41.05184000000001],"type":"Point"}
+}

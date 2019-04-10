@@ -1,0 +1,68 @@
+{
+  "id": 890465183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26893,37.37541,34.26893,37.37541",
+    "geom:latitude":37.37541,
+    "geom:longitude":34.26893,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
+    "gn:pop":175,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaleimindos"
+    ],
+    "qs:name":"Kayasaray",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        1108709557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308554,
+        "qs:id":547422
+    },
+    "wof:country":"TR",
+    "wof:created":1469053506,
+    "wof:geomhash":"8324d850a70f544b8dd7cb20cb47eca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709557,
+            "locality_id":890465183,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":890465183,
+    "wof:lastmodified":1505343702,
+    "wof:name":"Kayasaray",
+    "wof:parent_id":1108709557,
+    "wof:placetype":"locality",
+    "wof:population":175,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26893,
+    37.37541,
+    34.26893,
+    37.37541
+],
+  "geometry": {"coordinates":[34.26893,37.37541],"type":"Point"}
+}

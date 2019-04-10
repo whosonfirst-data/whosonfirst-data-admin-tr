@@ -1,0 +1,67 @@
+{
+  "id": 1360240261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.98333,39.65,39.98333,39.65",
+    "geom:latitude":39.65,
+    "geom:longitude":39.98333,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Zorun",
+    "gn:country_code":"TR",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":295791,
+    "gn:latitude":39.65,
+    "gn:longitude":39.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Zorun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890463337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":295791
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"45086105302db4e3bbccc9df28386d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463337,
+            "locality_id":1360240261,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1360240261,
+    "wof:lastmodified":1536722296,
+    "wof:name":"Zorun",
+    "wof:parent_id":890463337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.98333,
+    39.65,
+    39.98333,
+    39.65
+],
+  "geometry": {"coordinates":[39.98333,39.65],"type":"Point"}
+}

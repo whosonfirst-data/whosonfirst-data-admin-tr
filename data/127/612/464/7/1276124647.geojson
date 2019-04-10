@@ -1,0 +1,67 @@
+{
+  "id": 1276124647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21451,38.53375,30.21451,38.53375",
+    "geom:latitude":38.53375,
+    "geom:longitude":30.21451,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yolkonak",
+    "gn:country_code":"TR",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8227263,
+    "gn:latitude":38.53375,
+    "gn:longitude":30.21451,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"Yolkonak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8227263
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"2730a6e42b65437a5b1a222c297f7c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461685,
+            "locality_id":1276124647,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1276124647,
+    "wof:lastmodified":1537055750,
+    "wof:name":"Yolkonak",
+    "wof:parent_id":890461685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21451,
+    38.53375,
+    30.21451,
+    38.53375
+],
+  "geometry": {"coordinates":[30.21451,38.53375],"type":"Point"}
+}

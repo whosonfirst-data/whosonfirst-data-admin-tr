@@ -1,0 +1,70 @@
+{
+  "id": 1327001133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.32094,38.18367,42.32094,38.18367",
+    "geom:latitude":38.18367,
+    "geom:longitude":42.32094,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Kaval",
+    "gn:country_code":"TR",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6986013,
+    "gn:latitude":38.18367,
+    "gn:longitude":42.32094,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"Kaval",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kaval"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6986013
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"602b7c18ddd7461d6a4dc217f41efd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463855,
+            "locality_id":1327001133,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1327001133,
+    "wof:lastmodified":1537708190,
+    "wof:name":"Kaval",
+    "wof:parent_id":890463855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.32094,
+    38.18367,
+    42.32094,
+    38.18367
+],
+  "geometry": {"coordinates":[42.32094,38.18367],"type":"Point"}
+}

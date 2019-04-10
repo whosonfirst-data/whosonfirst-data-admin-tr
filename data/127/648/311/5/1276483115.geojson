@@ -1,0 +1,77 @@
+{
+  "id": 1276483115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.64766,40.13045,42.64766,40.13045",
+    "geom:latitude":40.13045,
+    "geom:longitude":42.64766,
+    "gn:admin1_code":"84.0",
+    "gn:asciiname":"Besyol",
+    "gn:country_code":"TR",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750711,
+    "gn:latitude":40.13045,
+    "gn:longitude":42.64766,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Be\u015fyol",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Be\u015fyol"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0448\u0439\u043e\u043b"
+    ],
+    "name:und_x_variant":[
+        "G\u00fclantep",
+        "Be\u015fyol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679475,
+        890461201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750711
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6efa8035ee6f5aeac0152ea082425249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461201,
+            "locality_id":1276483115,
+            "region_id":85679475
+        }
+    ],
+    "wof:id":1276483115,
+    "wof:lastmodified":1537708078,
+    "wof:name":"Besyol",
+    "wof:parent_id":890461201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.64766,
+    40.13045,
+    42.64766,
+    40.13045
+],
+  "geometry": {"coordinates":[42.64766,40.13045],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326953091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.99652,40.18363,39.99652,40.18363",
+    "geom:latitude":40.18363,
+    "geom:longitude":39.99652,
+    "gn:admin1_code":"77.0",
+    "gn:asciiname":"Yelpinar",
+    "gn:country_code":"TR",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":737771,
+    "gn:latitude":40.18363,
+    "gn:longitude":39.99652,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Yelp\u0131nar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u00fcl\u00fcrek",
+        "Yelp\u0131nar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679471,
+        1108709431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":737771
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f50d1595d844036215286408259ed641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709431,
+            "locality_id":1326953091,
+            "region_id":85679471
+        }
+    ],
+    "wof:id":1326953091,
+    "wof:lastmodified":1537707639,
+    "wof:name":"Yelpinar",
+    "wof:parent_id":1108709431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.99652,
+    40.18363,
+    39.99652,
+    40.18363
+],
+  "geometry": {"coordinates":[39.99652,40.18363],"type":"Point"}
+}

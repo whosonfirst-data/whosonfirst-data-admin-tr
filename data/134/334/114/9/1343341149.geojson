@@ -1,0 +1,75 @@
+{
+  "id": 1343341149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.02723,38.80326,41.02723,38.80326",
+    "geom:latitude":38.80326,
+    "geom:longitude":41.02723,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Genctavus",
+    "gn:country_code":"TR",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314647,
+    "gn:latitude":38.80326,
+    "gn:longitude":41.02723,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Gen\u00e7tavus",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Gen\u00e7tavus"
+    ],
+    "name:und_x_variant":[
+        "Gen\u00e7 K\u00f6y",
+        "Gen\u00e7tavu\u015f",
+        "Gen\u00e7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        890461897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314647
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b67ab51b0b2dffd468b1de191c65c08a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461897,
+            "locality_id":1343341149,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1343341149,
+    "wof:lastmodified":1537707162,
+    "wof:name":"Genctavus",
+    "wof:parent_id":890461897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.02723,
+    38.80326,
+    41.02723,
+    38.80326
+],
+  "geometry": {"coordinates":[41.02723,38.80326],"type":"Point"}
+}

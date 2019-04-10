@@ -1,0 +1,67 @@
+{
+  "id": 1293939365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.91667,38.53333,39.91667,38.53333",
+    "geom:latitude":38.53333,
+    "geom:longitude":39.91667,
+    "gn:admin1_code":"23",
+    "gn:asciiname":"Serin",
+    "gn:country_code":"TR",
+    "gn:dem":1362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":301099,
+    "gn:latitude":38.53333,
+    "gn:longitude":39.91667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Serin",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679299,
+        1108709275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":301099
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1220566a66d3da8d2d5012a49ad467f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709275,
+            "locality_id":1293939365,
+            "region_id":85679299
+        }
+    ],
+    "wof:id":1293939365,
+    "wof:lastmodified":1536631423,
+    "wof:name":"Serin",
+    "wof:parent_id":1108709275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.91667,
+    38.53333,
+    39.91667,
+    38.53333
+],
+  "geometry": {"coordinates":[39.91667,38.53333],"type":"Point"}
+}

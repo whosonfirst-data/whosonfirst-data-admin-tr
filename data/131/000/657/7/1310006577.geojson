@@ -1,0 +1,67 @@
+{
+  "id": 1310006577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.72357,38.39388,30.72357,38.39388",
+    "geom:latitude":38.39388,
+    "geom:longitude":30.72357,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Gocen",
+    "gn:country_code":"TR",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8227629,
+    "gn:latitude":38.39388,
+    "gn:longitude":30.72357,
+    "gn:modification_date":"2012-04-06",
+    "gn:name":"G\u00f6\u00e7en",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        1108710041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8227629
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d166a693ca09f3b4cc4e56193d1bb22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710041,
+            "locality_id":1310006577,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1310006577,
+    "wof:lastmodified":1536640879,
+    "wof:name":"Gocen",
+    "wof:parent_id":1108710041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.72357,
+    38.39388,
+    30.72357,
+    38.39388
+],
+  "geometry": {"coordinates":[30.72357,38.39388],"type":"Point"}
+}

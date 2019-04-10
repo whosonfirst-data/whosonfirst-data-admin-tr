@@ -1,0 +1,73 @@
+{
+  "id": 1243578785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.49526,37.40065,28.49526,37.40065",
+    "geom:latitude":37.40065,
+    "geom:longitude":28.49526,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Dokuzcam",
+    "gn:country_code":"TR",
+    "gn:dem":705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314617,
+    "gn:latitude":37.40065,
+    "gn:longitude":28.49526,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Dokuz\u00e7am",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Dokuz\u00e7am"
+    ],
+    "name:tur_x_variant":[
+        "Genzile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679291,
+        890464307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314617
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"426e556f139807e23f1581fcceb4489c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890464307,
+            "locality_id":1243578785,
+            "region_id":85679291
+        }
+    ],
+    "wof:id":1243578785,
+    "wof:lastmodified":1537707161,
+    "wof:name":"Dokuzcam",
+    "wof:parent_id":890464307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.49526,
+    37.40065,
+    28.49526,
+    37.40065
+],
+  "geometry": {"coordinates":[28.49526,37.40065],"type":"Point"}
+}

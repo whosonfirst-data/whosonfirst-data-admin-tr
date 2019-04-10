@@ -1,0 +1,67 @@
+{
+  "id": 1193060941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63333,38.11667,35.63333,38.11667",
+    "geom:latitude":38.11667,
+    "geom:longitude":35.63333,
+    "gn:admin1_code":"38",
+    "gn:asciiname":"Oluk",
+    "gn:country_code":"TR",
+    "gn:dem":1822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303585,
+    "gn:latitude":38.11667,
+    "gn:longitude":35.63333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Oluk",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679321,
+        890462519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303585
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0ba14b877ffc6e32b9d1369f9228a86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462519,
+            "locality_id":1193060941,
+            "region_id":85679321
+        }
+    ],
+    "wof:id":1193060941,
+    "wof:lastmodified":1536377899,
+    "wof:name":"Oluk",
+    "wof:parent_id":890462519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63333,
+    38.11667,
+    35.63333,
+    38.11667
+],
+  "geometry": {"coordinates":[35.63333,38.11667],"type":"Point"}
+}

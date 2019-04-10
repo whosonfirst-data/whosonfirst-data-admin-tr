@@ -1,0 +1,67 @@
+{
+  "id": 1360048839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.34304,40.04158,26.34304,40.04158",
+    "geom:latitude":40.04158,
+    "geom:longitude":26.34304,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Guzelyali",
+    "gn:country_code":"TR",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7503210,
+    "gn:latitude":40.04158,
+    "gn:longitude":26.34304,
+    "gn:modification_date":"2012-01-20",
+    "gn:name":"G\u00fczelyal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        890462343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7503210
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0fb2fc19bff36ebb86a38600c8259479",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462343,
+            "locality_id":1360048839,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1360048839,
+    "wof:lastmodified":1536997352,
+    "wof:name":"Guzelyali",
+    "wof:parent_id":890462343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.34304,
+    40.04158,
+    26.34304,
+    40.04158
+],
+  "geometry": {"coordinates":[26.34304,40.04158],"type":"Point"}
+}

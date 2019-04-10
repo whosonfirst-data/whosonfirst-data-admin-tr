@@ -1,0 +1,80 @@
+{
+  "id": 101912937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000179,
+    "geom:area_square_m":1732818.800842,
+    "geom:bbox":"27.0910189907,38.4487509086,27.1113986268,38.4669630536",
+    "geom:latitude":38.457451,
+    "geom:longitude":27.101345,
+    "iso:country":"TR",
+    "lbl:latitude":38.45778,
+    "lbl:longitude":27.101191,
+    "mps:latitude":38.45778,
+    "mps:longitude":27.101191,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Aksoy"
+    ],
+    "qs:a0":"Turkey",
+    "qs:a1":"*",
+    "qs:a1r":"8",
+    "qs:adm0":"Turkey",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Aksoy",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet many local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":47,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679201,
+        890461021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55966368,
+        "qs:id":141158,
+        "qs_pg:id":141158,
+        "wd:id":"Q421604"
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ebf9e96271727fef27b79de084bb7bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461021,
+            "locality_id":101912937,
+            "region_id":85679201
+        }
+    ],
+    "wof:id":101912937,
+    "wof:lastmodified":1527653264,
+    "wof:name":"Aksoy",
+    "wof:parent_id":890461021,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.09101899067264,
+    38.44875090863985,
+    27.11139862677061,
+    38.46696305356159
+],
+  "geometry": {"coordinates":[[[27.10342400971945,38.46636253618624],[27.11139862677061,38.44875090863985],[27.10571895804827,38.44977723733956],[27.10594802489817,38.45065861543685],[27.10259283970271,38.4512647170161],[27.10282187415083,38.45214610257511],[27.09834815815321,38.45295406833094],[27.09811917820781,38.45207267040541],[27.09700074832983,38.45227462624325],[27.09745868943622,38.45403742646249],[27.09410328323247,38.45464323449642],[27.09387434932773,38.45376182602081],[27.09275588261914,38.4539637329321],[27.09321373163937,38.4557265542507],[27.09101899067264,38.45612269877074],[27.09436302290879,38.46171535537485],[27.1029277198603,38.46696305356159],[27.10342400971945,38.46636253618624]]],"type":"Polygon"}
+}

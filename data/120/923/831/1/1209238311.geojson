@@ -1,0 +1,65 @@
+{
+  "id": 1209238311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.49249,38.0076,43.49249,38.0076",
+    "geom:latitude":38.0076,
+    "geom:longitude":43.49249,
+    "gn:admin1_code":"65",
+    "gn:asciiname":"Geziyurt",
+    "gn:country_code":"TR",
+    "gn:dem":2346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314509,
+    "gn:latitude":38.0076,
+    "gn:longitude":43.49249,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Geziyurt",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u015fan",
+        "Geziyurt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314509
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"fd0655d20504afa611b3ce145c44458b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209238311
+        }
+    ],
+    "wof:id":1209238311,
+    "wof:lastmodified":1537707158,
+    "wof:name":"Geziyurt",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.49249,
+    38.0076,
+    43.49249,
+    38.0076
+],
+  "geometry": {"coordinates":[43.49249,38.0076],"type":"Point"}
+}

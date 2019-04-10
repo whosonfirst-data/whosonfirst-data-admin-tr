@@ -1,0 +1,67 @@
+{
+  "id": 1243326837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.36667,40.23333,26.36667,40.23333",
+    "geom:latitude":40.23333,
+    "geom:longitude":26.36667,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Bahsi",
+    "gn:country_code":"TR",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":751248,
+    "gn:latitude":40.23333,
+    "gn:longitude":26.36667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Bah\u015fi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679209,
+        1108709471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":751248
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8885bf3f2c67c358d0af30ed4bea3126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709471,
+            "locality_id":1243326837,
+            "region_id":85679209
+        }
+    ],
+    "wof:id":1243326837,
+    "wof:lastmodified":1536977567,
+    "wof:name":"Bahsi",
+    "wof:parent_id":1108709471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.36667000000001,
+    40.23333,
+    26.36667000000001,
+    40.23333
+],
+  "geometry": {"coordinates":[26.36667000000001,40.23333],"type":"Point"}
+}

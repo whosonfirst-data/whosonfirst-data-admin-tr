@@ -1,0 +1,64 @@
+{
+  "id": 1108950965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.7183445814,41.3229530974,28.7183445814,41.3229530974",
+    "geom:latitude":41.322953,
+    "geom:longitude":28.718345,
+    "iso:country":"TR",
+    "lbl:latitude":41.322953,
+    "lbl:longitude":28.718345,
+    "mz:hierarchy_label":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:tur_x_preferred":[
+        "Yenik\u00f6y"
+    ],
+    "src:lbl:centroid":"mz",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        1108709297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{},
+    "wof:country":"TR",
+    "wof:created":1491368752,
+    "wof:geomhash":"f63038f6667a76c92d348b21b464875a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709297,
+            "neighbourhood_id":1108950965,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1108950965,
+    "wof:lastmodified":1497292380,
+    "wof:name":"Yenikoy",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.71834458138884,
+    41.3229530974106,
+    28.71834458138884,
+    41.3229530974106
+],
+  "geometry": {"coordinates":[28.71834458138884,41.3229530974106],"type":"Point"}
+}

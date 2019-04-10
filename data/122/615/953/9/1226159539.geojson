@@ -1,0 +1,67 @@
+{
+  "id": 1226159539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60167,39.55306,35.60167,39.55306",
+    "geom:latitude":39.55306,
+    "geom:longitude":35.60167,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Ramazanli",
+    "gn:country_code":"TR",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":302417,
+    "gn:latitude":39.55306,
+    "gn:longitude":35.60167,
+    "gn:modification_date":"2002-11-13",
+    "gn:name":"Ramazanl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679461,
+        1108709845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":302417
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9e3a8763395f46b424f13d84519f2d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709845,
+            "locality_id":1226159539,
+            "region_id":85679461
+        }
+    ],
+    "wof:id":1226159539,
+    "wof:lastmodified":1537055437,
+    "wof:name":"Ramazanli",
+    "wof:parent_id":1108709845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60167,
+    39.55306,
+    35.60167,
+    39.55306
+],
+  "geometry": {"coordinates":[35.60167,39.55306],"type":"Point"}
+}

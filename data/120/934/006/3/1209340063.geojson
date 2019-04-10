@@ -1,0 +1,66 @@
+{
+  "id": 1209340063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69546,36.61438,32.69546,36.61438",
+    "geom:latitude":36.61438,
+    "geom:longitude":32.69546,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Esentepe",
+    "gn:country_code":"TR",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315309,
+    "gn:latitude":36.61438,
+    "gn:longitude":32.69546,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Esentepe",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lemus",
+        "Lemes",
+        "Esentepe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315309
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"24e67f952d026619b4e4b531d1ac68ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209340063
+        }
+    ],
+    "wof:id":1209340063,
+    "wof:lastmodified":1537707184,
+    "wof:name":"Esentepe",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69546,
+    36.61438,
+    32.69546,
+    36.61438
+],
+  "geometry": {"coordinates":[32.69546,36.61438],"type":"Point"}
+}

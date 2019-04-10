@@ -1,0 +1,70 @@
+{
+  "id": 1242899353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54323,38.95918,27.54323,38.95918",
+    "geom:latitude":38.95918,
+    "geom:longitude":27.54323,
+    "gn:admin1_code":"45",
+    "gn:asciiname":"Buknus",
+    "gn:country_code":"TR",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320465,
+    "gn:latitude":38.95918,
+    "gn:longitude":27.54323,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"B\u00fckn\u00fc\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "B\u00fckn\u00fc\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679285,
+        890461947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320465
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"6da1956fdc8bcd675b7f47fa2408998d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461947,
+            "locality_id":1242899353,
+            "region_id":85679285
+        }
+    ],
+    "wof:id":1242899353,
+    "wof:lastmodified":1537707350,
+    "wof:name":"Buknus",
+    "wof:parent_id":890461947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54323,
+    38.95918,
+    27.54323,
+    38.95918
+],
+  "geometry": {"coordinates":[27.54323,38.95918],"type":"Point"}
+}

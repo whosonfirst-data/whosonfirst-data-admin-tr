@@ -1,0 +1,76 @@
+{
+  "id": 1310665669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.6114,40.5023,34.6114,40.5023",
+    "geom:latitude":40.5023,
+    "geom:longitude":34.6114,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Sahinkaya",
+    "gn:country_code":"TR",
+    "gn:dem":777,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749018,
+    "gn:latitude":40.5023,
+    "gn:longitude":34.6114,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"\u015eahinkaya",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "C\u0131rf\u0131nl\u0131"
+    ],
+    "name:tur_x_variant":[
+        "\u015eahinkaya"
+    ],
+    "name:und_x_variant":[
+        "C\u0131rf\u0131nn\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        890462433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749018
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"700460d266772dcc1a72161e29a519c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462433,
+            "locality_id":1310665669,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1310665669,
+    "wof:lastmodified":1537708015,
+    "wof:name":"Sahinkaya",
+    "wof:parent_id":890462433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.6114,
+    40.5023,
+    34.6114,
+    40.5023
+],
+  "geometry": {"coordinates":[34.6114,40.5023],"type":"Point"}
+}

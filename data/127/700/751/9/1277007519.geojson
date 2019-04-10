@@ -1,0 +1,73 @@
+{
+  "id": 1277007519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18947,40.91346,30.18947,40.91346",
+    "geom:latitude":40.91346,
+    "geom:longitude":30.18947,
+    "gn:admin1_code":"41",
+    "gn:asciiname":"Baglica",
+    "gn:country_code":"TR",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8383892,
+    "gn:latitude":40.91346,
+    "gn:longitude":30.18947,
+    "gn:modification_date":"2012-09-08",
+    "gn:name":"Ba\u011fl\u0131ca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Ba\u011fl\u0131ca"
+    ],
+    "name:und_x_variant":[
+        "Rockan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679241,
+        1108709225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8383892
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"309fbc0d68996e856dd123315734e142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709225,
+            "locality_id":1277007519,
+            "region_id":85679241
+        }
+    ],
+    "wof:id":1277007519,
+    "wof:lastmodified":1537708290,
+    "wof:name":"Baglica",
+    "wof:parent_id":1108709225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18947,
+    40.91346,
+    30.18947,
+    40.91346
+],
+  "geometry": {"coordinates":[30.18947,40.91346],"type":"Point"}
+}

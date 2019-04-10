@@ -1,0 +1,67 @@
+{
+  "id": 1293026493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.28333,38.8,38.28333,38.8",
+    "geom:latitude":38.8,
+    "geom:longitude":38.28333,
+    "gn:admin1_code":"44",
+    "gn:asciiname":"Halpuz",
+    "gn:country_code":"TR",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312799,
+    "gn:latitude":38.8,
+    "gn:longitude":38.28333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Halpuz",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679309,
+        1108709293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312799
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a06c2ebceedcc158ffb70fcd0a3a96b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709293,
+            "locality_id":1293026493,
+            "region_id":85679309
+        }
+    ],
+    "wof:id":1293026493,
+    "wof:lastmodified":1536954752,
+    "wof:name":"Halpuz",
+    "wof:parent_id":1108709293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.28333,
+    38.8,
+    38.28333,
+    38.8
+],
+  "geometry": {"coordinates":[38.28333,38.8],"type":"Point"}
+}

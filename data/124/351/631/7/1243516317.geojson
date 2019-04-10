@@ -1,0 +1,67 @@
+{
+  "id": 1243516317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.36867,40.30117,35.36867,40.30117",
+    "geom:latitude":40.30117,
+    "geom:longitude":35.36867,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Akyar",
+    "gn:country_code":"TR",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7741584,
+    "gn:latitude":40.30117,
+    "gn:longitude":35.36867,
+    "gn:modification_date":"2011-04-20",
+    "gn:name":"Akyar",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7741584
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"cce6d78f9f73c7e42827a535d6011bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709783,
+            "locality_id":1243516317,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1243516317,
+    "wof:lastmodified":1536705159,
+    "wof:name":"Akyar",
+    "wof:parent_id":1108709783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.36867,
+    40.30117,
+    35.36867,
+    40.30117
+],
+  "geometry": {"coordinates":[35.36867,40.30117],"type":"Point"}
+}

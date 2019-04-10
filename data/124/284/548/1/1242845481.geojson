@@ -1,0 +1,70 @@
+{
+  "id": 1242845481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.77198,38.46135,41.77198,38.46135",
+    "geom:latitude":38.46135,
+    "geom:longitude":41.77198,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Bogazonu",
+    "gn:country_code":"TR",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":320944,
+    "gn:latitude":38.46135,
+    "gn:longitude":41.77198,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Bo\u011faz\u00f6n\u00fc",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Bo\u011faz\u00f6n\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":320944
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"ebf2de1c5066dccf37fd94be0663932f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463443,
+            "locality_id":1242845481,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1242845481,
+    "wof:lastmodified":1537707364,
+    "wof:name":"Bogazonu",
+    "wof:parent_id":890463443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.77198,
+    38.46135,
+    41.77198,
+    38.46135
+],
+  "geometry": {"coordinates":[41.77198,38.46135],"type":"Point"}
+}

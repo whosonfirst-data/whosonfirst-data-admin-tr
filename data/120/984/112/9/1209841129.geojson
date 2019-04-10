@@ -1,0 +1,79 @@
+{
+  "id": 1209841129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.025,36.9125,39.025,36.9125",
+    "geom:latitude":36.9125,
+    "geom:longitude":39.025,
+    "gn:admin1_code":"63.0",
+    "gn:asciiname":"Kuruyer",
+    "gn:country_code":"TR",
+    "gn:dem":370,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":439034,
+    "gn:latitude":36.9125,
+    "gn:longitude":39.025,
+    "gn:modification_date":"2016-12-08",
+    "gn:name":"Kuruyer",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_historical":[
+        "A\u015fa\u011f\u0131 H\u00fcmeyre"
+    ],
+    "name:tur_x_preferred":[
+        "Kuruyer"
+    ],
+    "name:tur_x_variant":[
+        "A\u015fa\u011f\u0131 H\u00fcmeyre"
+    ],
+    "name:und_x_variant":[
+        "Ashagy-Khyumeyre"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":439034
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"0349537e77cde3f7270076453e0a8355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461929,
+            "locality_id":1209841129,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1209841129,
+    "wof:lastmodified":1537707573,
+    "wof:name":"Kuruyer",
+    "wof:parent_id":890461929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.025,
+    36.9125,
+    39.025,
+    36.9125
+],
+  "geometry": {"coordinates":[39.025,36.9125],"type":"Point"}
+}

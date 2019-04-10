@@ -1,0 +1,70 @@
+{
+  "id": 1242565985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43139,39.75083,27.43139,39.75083",
+    "geom:latitude":39.75083,
+    "geom:longitude":27.43139,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Yaylacik",
+    "gn:country_code":"TR",
+    "gn:dem":488,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":297475,
+    "gn:latitude":39.75083,
+    "gn:longitude":27.43139,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Yaylac\u0131k",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Yaylac\u0131k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679205,
+        1108709355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":297475
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"23d1c70c418e7d564b858fa395d18388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709355,
+            "locality_id":1242565985,
+            "region_id":85679205
+        }
+    ],
+    "wof:id":1242565985,
+    "wof:lastmodified":1537706608,
+    "wof:name":"Yaylacik",
+    "wof:parent_id":1108709355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43139,
+    39.75083,
+    27.43139,
+    39.75083
+],
+  "geometry": {"coordinates":[27.43139,39.75083],"type":"Point"}
+}

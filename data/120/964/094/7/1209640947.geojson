@@ -1,0 +1,65 @@
+{
+  "id": 1209640947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.9117,40.69778,36.9117,40.69778",
+    "geom:latitude":40.69778,
+    "geom:longitude":36.9117,
+    "gn:admin1_code":"60.0",
+    "gn:asciiname":"Edilli",
+    "gn:country_code":"TR",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":747716,
+    "gn:latitude":40.69778,
+    "gn:longitude":36.9117,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Edilli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Avdiley",
+        "Edilli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":747716
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e23cd685c1bc1e9c1db0f316ca9c07ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209640947
+        }
+    ],
+    "wof:id":1209640947,
+    "wof:lastmodified":1537707970,
+    "wof:name":"Edilli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.9117,
+    40.69778,
+    36.9117,
+    40.69778
+],
+  "geometry": {"coordinates":[36.9117,40.69778],"type":"Point"}
+}

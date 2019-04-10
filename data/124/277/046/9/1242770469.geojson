@@ -1,0 +1,71 @@
+{
+  "id": 1242770469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29845,40.83141,35.29845,40.83141",
+    "geom:latitude":40.83141,
+    "geom:longitude":35.29845,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Cavuskoy",
+    "gn:country_code":"TR",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":749574,
+    "gn:latitude":40.83141,
+    "gn:longitude":35.29845,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"\u00c7avu\u015fk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u00c7avu\u015fk\u00f6y",
+        "\u00c7avu\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        1108709531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":749574
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"aca27d64735eb90d215056def2272209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709531,
+            "locality_id":1242770469,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1242770469,
+    "wof:lastmodified":1537708035,
+    "wof:name":"Cavuskoy",
+    "wof:parent_id":1108709531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29845,
+    40.83141,
+    35.29845,
+    40.83141
+],
+  "geometry": {"coordinates":[35.29845,40.83141],"type":"Point"}
+}

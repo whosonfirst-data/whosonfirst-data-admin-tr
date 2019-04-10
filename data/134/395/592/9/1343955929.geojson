@@ -1,0 +1,71 @@
+{
+  "id": 1343955929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46101,40.45767,35.46101,40.45767",
+    "geom:latitude":40.45767,
+    "geom:longitude":35.46101,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kertme",
+    "gn:country_code":"TR",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743446,
+    "gn:latitude":40.45767,
+    "gn:longitude":35.46101,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kertme",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kertin",
+        "Kertme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890462747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743446
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a526848745d3af38aa42c34622563bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462747,
+            "locality_id":1343955929,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1343955929,
+    "wof:lastmodified":1537707831,
+    "wof:name":"Kertme",
+    "wof:parent_id":890462747,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46100999999999,
+    40.45767,
+    35.46100999999999,
+    40.45767
+],
+  "geometry": {"coordinates":[35.46100999999999,40.45767],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226299129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"26.52236,41.23333,26.52236,41.23333",
+    "geom:latitude":41.23333,
+    "geom:longitude":26.52236,
+    "gn:admin1_code":"22.0",
+    "gn:asciiname":"Kavakli",
+    "gn:country_code":"TR",
+    "gn:dem":73,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":743817,
+    "gn:latitude":41.23333,
+    "gn:longitude":26.52236,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Kavakl\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679213,
+        890461031
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743817
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"650d50429f278db3480e4fd0c39c0b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461031,
+            "locality_id":1226299129,
+            "region_id":85679213
+        }
+    ],
+    "wof:id":1226299129,
+    "wof:lastmodified":1536855643,
+    "wof:name":"Kavakli",
+    "wof:parent_id":890461031,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    26.52236,
+    41.23333,
+    26.52236,
+    41.23333
+],
+  "geometry": {"coordinates":[26.52236,41.23333],"type":"Point"}
+}

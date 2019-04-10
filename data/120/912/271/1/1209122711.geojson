@@ -1,0 +1,68 @@
+{
+  "id": 1209122711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"43.64187,37.31785,43.64187,37.31785",
+    "geom:latitude":37.31785,
+    "geom:longitude":43.64187,
+    "gn:admin1_code":"70",
+    "gn:asciiname":"Kazan",
+    "gn:country_code":"TR",
+    "gn:dem":1356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299209,
+    "gn:latitude":37.31785,
+    "gn:longitude":43.64187,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Kazan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kazan"
+    ],
+    "name:und_x_variant":[
+        "Tijar",
+        "Kalan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299209
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a2a9a2c2ea9919e35c46a059c7b93b63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209122711
+        }
+    ],
+    "wof:id":1209122711,
+    "wof:lastmodified":1537706666,
+    "wof:name":"Kazan",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    43.64187,
+    37.31785,
+    43.64187,
+    37.31785
+],
+  "geometry": {"coordinates":[43.64187,37.31785],"type":"Point"}
+}

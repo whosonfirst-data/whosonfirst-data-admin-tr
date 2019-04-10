@@ -1,0 +1,76 @@
+{
+  "id": 1293184543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.63314,37.99739,42.63314,37.99739",
+    "geom:latitude":37.99739,
+    "geom:longitude":42.63314,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Suzan",
+    "gn:country_code":"TR",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":300000,
+    "gn:latitude":37.99739,
+    "gn:longitude":42.63314,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Suzan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "D\u00f6k\u00fcta\u015f"
+    ],
+    "name:tur_x_variant":[
+        "D\u00f6k\u00fckta\u015f"
+    ],
+    "name:und_x_variant":[
+        "Obin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890463855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":300000
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"3d85a8409ef9005915f0edc171660a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463855,
+            "locality_id":1293184543,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1293184543,
+    "wof:lastmodified":1537706693,
+    "wof:name":"Suzan",
+    "wof:parent_id":890463855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.63314,
+    37.99739,
+    42.63314,
+    37.99739
+],
+  "geometry": {"coordinates":[42.63314,37.99739],"type":"Point"}
+}

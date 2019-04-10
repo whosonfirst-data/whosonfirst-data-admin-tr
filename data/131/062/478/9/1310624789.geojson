@@ -1,0 +1,70 @@
+{
+  "id": 1310624789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04935,37.2709,34.04935,37.2709",
+    "geom:latitude":37.2709,
+    "geom:longitude":34.04935,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Berendi",
+    "gn:country_code":"TR",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":321429,
+    "gn:latitude":37.2709,
+    "gn:longitude":34.04935,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Berendi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Berendi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679427,
+        1108709317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":321429
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"c8a5197c0e238e1accc3eb0104e8de13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709317,
+            "locality_id":1310624789,
+            "region_id":85679427
+        }
+    ],
+    "wof:id":1310624789,
+    "wof:lastmodified":1537707379,
+    "wof:name":"Berendi",
+    "wof:parent_id":1108709317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04935,
+    37.2709,
+    34.04935,
+    37.2709
+],
+  "geometry": {"coordinates":[34.04935,37.2709],"type":"Point"}
+}

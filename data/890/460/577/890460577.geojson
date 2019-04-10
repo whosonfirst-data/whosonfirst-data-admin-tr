@@ -1,0 +1,75 @@
+{
+  "id": 890460577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-23",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51951,38.79698,30.51951,38.79698",
+    "geom:latitude":38.79698,
+    "geom:longitude":30.51951,
+    "gn:country":"TR",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "gp:adm0":23424969,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "qs:name":"Merkez",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Afyonkarahisar",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":199,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":74,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732070,
+        "gp:id":29390603,
+        "qs:id":488881,
+        "wd:id":"Q6819626",
+        "wk:page":"Merkez"
+    },
+    "wof:country":"TR",
+    "wof:created":1469053319,
+    "wof:geomhash":"71c6c77ec3f3575237c935d4719e0e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460577,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":890460577,
+    "wof:lastmodified":1527792913,
+    "wof:name":"Merkez",
+    "wof:parent_id":85679267,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51951,
+    38.79698,
+    30.51951,
+    38.79698
+],
+  "geometry": {"coordinates":[30.51951,38.79698],"type":"Point"}
+}

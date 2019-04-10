@@ -1,0 +1,67 @@
+{
+  "id": 1243092949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.0329,40.97577,33.0329,40.97577",
+    "geom:latitude":40.97577,
+    "geom:longitude":33.0329,
+    "gn:admin1_code":"82.0",
+    "gn:asciiname":"Cakmak",
+    "gn:country_code":"TR",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750027,
+    "gn:latitude":40.97577,
+    "gn:longitude":33.0329,
+    "gn:modification_date":"2011-08-08",
+    "gn:name":"\u00c7akmak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679413,
+        890460977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750027
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"b268feeede8ae0aa59a363d49ce23e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460977,
+            "locality_id":1243092949,
+            "region_id":85679413
+        }
+    ],
+    "wof:id":1243092949,
+    "wof:lastmodified":1536817272,
+    "wof:name":"Cakmak",
+    "wof:parent_id":890460977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.0329,
+    40.97577,
+    33.0329,
+    40.97577
+],
+  "geometry": {"coordinates":[33.0329,40.97577],"type":"Point"}
+}

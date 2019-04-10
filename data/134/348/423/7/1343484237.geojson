@@ -1,0 +1,73 @@
+{
+  "id": 1343484237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.08392,37.60023,41.08392,37.60023",
+    "geom:latitude":37.60023,
+    "geom:longitude":41.08392,
+    "gn:admin1_code":"72",
+    "gn:asciiname":"Akyurek",
+    "gn:country_code":"TR",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":324357,
+    "gn:latitude":37.60023,
+    "gn:longitude":41.08392,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Aky\u00fcrek",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Aky\u00fcrek"
+    ],
+    "name:und_x_variant":[
+        "Mendan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679481,
+        1108709869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":324357
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f770cc175ef3c92bec06d1e4a9640669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709869,
+            "locality_id":1343484237,
+            "region_id":85679481
+        }
+    ],
+    "wof:id":1343484237,
+    "wof:lastmodified":1537707478,
+    "wof:name":"Akyurek",
+    "wof:parent_id":1108709869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.08392,
+    37.60023,
+    41.08392,
+    37.60023
+],
+  "geometry": {"coordinates":[41.08392,37.60023],"type":"Point"}
+}

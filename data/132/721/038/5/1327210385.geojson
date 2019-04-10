@@ -1,0 +1,71 @@
+{
+  "id": 1327210385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"40.64351,39.38128,40.64351,39.38128",
+    "geom:latitude":39.38128,
+    "geom:longitude":40.64351,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Elmali",
+    "gn:country_code":"TR",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":315685,
+    "gn:latitude":39.38128,
+    "gn:longitude":40.64351,
+    "gn:modification_date":"2015-06-08",
+    "gn:name":"Elmal\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Almal\u0131",
+        "Elmal\u0131"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679391,
+        1108709977
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":315685
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"f5a2abca1529725140ef7277057b6b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709977,
+            "locality_id":1327210385,
+            "region_id":85679391
+        }
+    ],
+    "wof:id":1327210385,
+    "wof:lastmodified":1537707195,
+    "wof:name":"Elmali",
+    "wof:parent_id":1108709977,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    40.64351,
+    39.38128,
+    40.64351,
+    39.38128
+],
+  "geometry": {"coordinates":[40.64351,39.38128],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 890460047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.08657,41.04379,29.08657,41.04379",
+    "geom:latitude":41.04379,
+    "geom:longitude":29.08657,
+    "gn:country":"TR",
+    "gn:fcode":"BLDG",
+    "gn:pop":100,
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Lalezar Sitesi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890462769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7601976,
+        "qs:id":108022
+    },
+    "wof:country":"TR",
+    "wof:created":1469053300,
+    "wof:geomhash":"89e2bdb4ee5a1cb5ec4e61456a59ca3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":890460047,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":890460047,
+    "wof:lastmodified":1505343680,
+    "wof:name":"Lalezar Sitesi",
+    "wof:parent_id":890462769,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.08657,
+    41.04379,
+    29.08657,
+    41.04379
+],
+  "geometry": {"coordinates":[29.08657,41.04379],"type":"Point"}
+}

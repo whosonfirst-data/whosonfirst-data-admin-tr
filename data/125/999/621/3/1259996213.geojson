@@ -1,0 +1,81 @@
+{
+  "id": 1259996213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.12042,37.02441,39.12042,37.02441",
+    "geom:latitude":37.02441,
+    "geom:longitude":39.12042,
+    "gn:admin1_code":"63",
+    "gn:asciiname":"Akoren",
+    "gn:country_code":"TR",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":303991,
+    "gn:latitude":37.02441,
+    "gn:longitude":39.12042,
+    "gn:modification_date":"2016-12-12",
+    "gn:name":"Ak\u00f6ren",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_historical":[
+        "Akviran"
+    ],
+    "name:tur_x_preferred":[
+        "Ak\u00f6ren"
+    ],
+    "name:tur_x_variant":[
+        "Ag\u00f6ren",
+        "Akviran"
+    ],
+    "name:und_x_variant":[
+        "Nacar",
+        "Agveran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679441,
+        890461365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":303991
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"1e0537fb5308acfa947db0f8d9829fae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461365,
+            "locality_id":1259996213,
+            "region_id":85679441
+        }
+    ],
+    "wof:id":1259996213,
+    "wof:lastmodified":1537706825,
+    "wof:name":"Akoren",
+    "wof:parent_id":890461365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.12042,
+    37.02441,
+    39.12042,
+    37.02441
+],
+  "geometry": {"coordinates":[39.12042,37.02441],"type":"Point"}
+}

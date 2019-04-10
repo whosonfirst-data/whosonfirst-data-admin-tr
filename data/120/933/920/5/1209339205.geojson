@@ -1,0 +1,65 @@
+{
+  "id": 1209339205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35306,38.785,34.35306,38.785",
+    "geom:latitude":38.785,
+    "geom:longitude":34.35306,
+    "gn:admin1_code":"50",
+    "gn:asciiname":"Hacihalilli",
+    "gn:country_code":"TR",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313070,
+    "gn:latitude":38.785,
+    "gn:longitude":34.35306,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Hac\u0131halilli",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hac\u0131halilli",
+        "Hac\u0131halil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":313070
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"47c1c2e8f4cfd9158699b2dbf9f2ce29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209339205
+        }
+    ],
+    "wof:id":1209339205,
+    "wof:lastmodified":1537707110,
+    "wof:name":"Hacihalilli",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35306,
+    38.785,
+    34.35306,
+    38.785
+],
+  "geometry": {"coordinates":[34.35306,38.785],"type":"Point"}
+}

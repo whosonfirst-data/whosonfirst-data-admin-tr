@@ -1,0 +1,71 @@
+{
+  "id": 1259584323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.54935,38.91373,30.54935,38.91373",
+    "geom:latitude":38.91373,
+    "geom:longitude":30.54935,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Omuzca",
+    "gn:country_code":"TR",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":304715,
+    "gn:latitude":38.91373,
+    "gn:longitude":30.54935,
+    "gn:modification_date":"2012-04-05",
+    "gn:name":"Omuzca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mecdiye",
+        "Mecidiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679267,
+        890461281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":304715
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"760647c475ea314036c9cf6a61055254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461281,
+            "locality_id":1259584323,
+            "region_id":85679267
+        }
+    ],
+    "wof:id":1259584323,
+    "wof:lastmodified":1537706851,
+    "wof:name":"Omuzca",
+    "wof:parent_id":890461281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.54935,
+    38.91373,
+    30.54935,
+    38.91373
+],
+  "geometry": {"coordinates":[30.54935,38.91373],"type":"Point"}
+}

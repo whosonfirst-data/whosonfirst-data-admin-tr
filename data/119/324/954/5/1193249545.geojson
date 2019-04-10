@@ -1,0 +1,73 @@
+{
+  "id": 1193249545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"41.94824,38.24726,41.94824,38.24726",
+    "geom:latitude":38.24726,
+    "geom:longitude":41.94824,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kuruhdere",
+    "gn:country_code":"TR",
+    "gn:dem":1314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":310587,
+    "gn:latitude":38.24726,
+    "gn:longitude":41.94824,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Kuruhdere",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kuruhdere"
+    ],
+    "name:und_x_variant":[
+        "Kanahdere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679407,
+        890460679
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":310587
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a50371e6e5eb45f5b0b50090f78fcb7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460679,
+            "locality_id":1193249545,
+            "region_id":85679407
+        }
+    ],
+    "wof:id":1193249545,
+    "wof:lastmodified":1537707028,
+    "wof:name":"Kuruhdere",
+    "wof:parent_id":890460679,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    41.94824000000001,
+    38.24726,
+    41.94824000000001,
+    38.24726
+],
+  "geometry": {"coordinates":[41.94824000000001,38.24726],"type":"Point"}
+}

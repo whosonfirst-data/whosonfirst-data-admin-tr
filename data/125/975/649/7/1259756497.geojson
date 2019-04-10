@@ -1,0 +1,67 @@
+{
+  "id": 1259756497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06667,40.43333,31.06667,40.43333",
+    "geom:latitude":40.43333,
+    "geom:longitude":31.06667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Idrisler",
+    "gn:country_code":"TR",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":745420,
+    "gn:latitude":40.43333,
+    "gn:longitude":31.06667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"\u0130drisler",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890463475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":745420
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"91a90e037913a48d74aa8b1e70085cc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463475,
+            "locality_id":1259756497,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1259756497,
+    "wof:lastmodified":1536961960,
+    "wof:name":"Idrisler",
+    "wof:parent_id":890463475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06667,
+    40.43333,
+    31.06667,
+    40.43333
+],
+  "geometry": {"coordinates":[31.06667,40.43333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242802525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"37.55139,40.77911,37.55139,40.77911",
+    "geom:latitude":40.77911,
+    "geom:longitude":37.55139,
+    "gn:admin1_code":"52.0",
+    "gn:asciiname":"Muratci",
+    "gn:country_code":"TR",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7581513,
+    "gn:latitude":40.77911,
+    "gn:longitude":37.55139,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Murat\u00e7\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679349,
+        1108709545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7581513
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"53cc4bad1e99308f450c4df6de70e542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709545,
+            "locality_id":1242802525,
+            "region_id":85679349
+        }
+    ],
+    "wof:id":1242802525,
+    "wof:lastmodified":1536739597,
+    "wof:name":"Muratci",
+    "wof:parent_id":1108709545,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    37.55139000000001,
+    40.77911,
+    37.55139000000001,
+    40.77911
+],
+  "geometry": {"coordinates":[37.55139000000001,40.77911],"type":"Point"}
+}

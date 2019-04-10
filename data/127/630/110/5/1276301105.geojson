@@ -1,0 +1,70 @@
+{
+  "id": 1276301105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.97967,37.80145,39.97967,37.80145",
+    "geom:latitude":37.80145,
+    "geom:longitude":39.97967,
+    "gn:admin1_code":"21",
+    "gn:asciiname":"Capu",
+    "gn:country_code":"TR",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":312217,
+    "gn:latitude":37.80145,
+    "gn:longitude":39.97967,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Capu",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Hendek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679395,
+        890463353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":312217
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"e47ef21d57764f6281e92bdf5dcb218b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463353,
+            "locality_id":1276301105,
+            "region_id":85679395
+        }
+    ],
+    "wof:id":1276301105,
+    "wof:lastmodified":1537707083,
+    "wof:name":"Capu",
+    "wof:parent_id":890463353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.97967,
+    37.80145,
+    39.97967,
+    37.80145
+],
+  "geometry": {"coordinates":[39.97967,37.80145],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293672241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89435,40.73902,31.89435,40.73902",
+    "geom:latitude":40.73902,
+    "geom:longitude":31.89435,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Kolca",
+    "gn:country_code":"TR",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8185181,
+    "gn:latitude":40.73902,
+    "gn:longitude":31.89435,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Kolca",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679249,
+        890462577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8185181
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"8efeb31cbf437371df94d144e3fb145d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462577,
+            "locality_id":1293672241,
+            "region_id":85679249
+        }
+    ],
+    "wof:id":1293672241,
+    "wof:lastmodified":1537017251,
+    "wof:name":"Kolca",
+    "wof:parent_id":890462577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89435,
+    40.73902,
+    31.89435,
+    40.73902
+],
+  "geometry": {"coordinates":[31.89435,40.73902],"type":"Point"}
+}

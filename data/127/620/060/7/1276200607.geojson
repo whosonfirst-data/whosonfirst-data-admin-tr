@@ -1,0 +1,67 @@
+{
+  "id": 1276200607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.16861,40.25825,35.16861,40.25825",
+    "geom:latitude":40.25825,
+    "geom:longitude":35.16861,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Karahacip",
+    "gn:country_code":"TR",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744340,
+    "gn:latitude":40.25825,
+    "gn:longitude":35.16861,
+    "gn:modification_date":"2011-04-19",
+    "gn:name":"Karahacip",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679339,
+        1108709783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744340
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"45fa44795146cecddb2b215bcac35bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709783,
+            "locality_id":1276200607,
+            "region_id":85679339
+        }
+    ],
+    "wof:id":1276200607,
+    "wof:lastmodified":1536956939,
+    "wof:name":"Karahacip",
+    "wof:parent_id":1108709783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.16861,
+    40.25825,
+    35.16861,
+    40.25825
+],
+  "geometry": {"coordinates":[35.16861,40.25825],"type":"Point"}
+}

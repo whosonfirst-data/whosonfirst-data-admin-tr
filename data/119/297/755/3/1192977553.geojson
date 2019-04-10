@@ -1,0 +1,75 @@
+{
+  "id": 1192977553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81835,37.77424,29.81835,37.77424",
+    "geom:latitude":37.77424,
+    "geom:longitude":29.81835,
+    "gn:admin1_code":"20",
+    "gn:asciiname":"Gemis",
+    "gn:country_code":"TR",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":314658,
+    "gn:latitude":37.77424,
+    "gn:longitude":29.81835,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Gemi\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Gemi\u015f"
+    ],
+    "name:und_x_variant":[
+        "Gemi\u00e7",
+        "Gemi\u00e7k\u00f6y\u00fc",
+        "Gemi\u015fk\u00f6y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679277,
+        890462113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":314658
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"d717ba4c6bceeb06723896729840286d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462113,
+            "locality_id":1192977553,
+            "region_id":85679277
+        }
+    ],
+    "wof:id":1192977553,
+    "wof:lastmodified":1537707163,
+    "wof:name":"Gemis",
+    "wof:parent_id":890462113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81835,
+    37.77424,
+    29.81835,
+    37.77424
+],
+  "geometry": {"coordinates":[29.81835,37.77424],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276575325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.64366,37.36366,33.64366,37.36366",
+    "geom:latitude":37.36366,
+    "geom:longitude":33.64366,
+    "gn:admin1_code":"78",
+    "gn:asciiname":"Huyukburun",
+    "gn:country_code":"TR",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":311774,
+    "gn:latitude":37.36366,
+    "gn:longitude":33.64366,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"H\u00fcy\u00fckburun",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u00fcy\u00fckburun",
+        "H\u00fcy\u00fckburunk\u00f6y",
+        "H\u00fcy\u00fckburnu",
+        "H\u00f6y\u00fckburun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679427,
+        1108709317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":311774
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"a11c6081fd14e316c2fa2eb76315d5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709317,
+            "locality_id":1276575325,
+            "region_id":85679427
+        }
+    ],
+    "wof:id":1276575325,
+    "wof:lastmodified":1537707065,
+    "wof:name":"Huyukburun",
+    "wof:parent_id":1108709317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.64366,
+    37.36366,
+    33.64366,
+    37.36366
+],
+  "geometry": {"coordinates":[33.64366,37.36366],"type":"Point"}
+}

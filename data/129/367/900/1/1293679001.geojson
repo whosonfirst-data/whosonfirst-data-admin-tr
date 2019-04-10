@@ -1,0 +1,67 @@
+{
+  "id": 1293679001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.30888,41.15786,42.30888,41.15786",
+    "geom:latitude":41.15786,
+    "geom:longitude":42.30888,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Karaagac",
+    "gn:country_code":"TR",
+    "gn:dem":2068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":744620,
+    "gn:latitude":41.15786,
+    "gn:longitude":42.30888,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Karaa\u011fa\u00e7",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679367,
+        1108709193
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":744620
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"9ff981ce8d33eb8da7f325a2bfa7c793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709193,
+            "locality_id":1293679001,
+            "region_id":85679367
+        }
+    ],
+    "wof:id":1293679001,
+    "wof:lastmodified":1537007522,
+    "wof:name":"Karaagac",
+    "wof:parent_id":1108709193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.30888,
+    41.15786,
+    42.30888,
+    41.15786
+],
+  "geometry": {"coordinates":[42.30888,41.15786],"type":"Point"}
+}

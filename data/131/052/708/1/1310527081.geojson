@@ -1,0 +1,67 @@
+{
+  "id": 1310527081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76567,41.06667,35.76567,41.06667",
+    "geom:latitude":41.06667,
+    "geom:longitude":35.76567,
+    "gn:admin1_code":"55.0",
+    "gn:asciiname":"Beykoy",
+    "gn:country_code":"TR",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":750665,
+    "gn:latitude":41.06667,
+    "gn:longitude":35.76567,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Beyk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679357,
+        890461859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":750665
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"951a32ef44ecc093eb01d18dbee04cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461859,
+            "locality_id":1310527081,
+            "region_id":85679357
+        }
+    ],
+    "wof:id":1310527081,
+    "wof:lastmodified":1536885283,
+    "wof:name":"Beykoy",
+    "wof:parent_id":890461859,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76567,
+    41.06667,
+    35.76567,
+    41.06667
+],
+  "geometry": {"coordinates":[35.76567,41.06667],"type":"Point"}
+}

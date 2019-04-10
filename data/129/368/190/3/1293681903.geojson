@@ -1,0 +1,71 @@
+{
+  "id": 1293681903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88334,40.61391,35.88334,40.61391",
+    "geom:latitude":40.61391,
+    "geom:longitude":35.88334,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sazkoy",
+    "gn:country_code":"TR",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":739935,
+    "gn:latitude":40.61391,
+    "gn:longitude":35.88334,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sazk\u00f6y",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saz",
+        "Sazk\u00f6y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679335,
+        890463241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":739935
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"029f0900f3a69c800bd6430382cdfdc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463241,
+            "locality_id":1293681903,
+            "region_id":85679335
+        }
+    ],
+    "wof:id":1293681903,
+    "wof:lastmodified":1537707716,
+    "wof:name":"Sazkoy",
+    "wof:parent_id":890463241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88334000000001,
+    40.61391,
+    35.88334000000001,
+    40.61391
+],
+  "geometry": {"coordinates":[35.88334000000001,40.61391],"type":"Point"}
+}

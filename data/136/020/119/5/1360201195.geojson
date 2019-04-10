@@ -1,0 +1,77 @@
+{
+  "id": 1360201195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15621,36.23586,36.15621,36.23586",
+    "geom:latitude":36.23586,
+    "geom:longitude":36.15621,
+    "gn:admin1_code":"31",
+    "gn:asciiname":"Odabasi",
+    "gn:country_code":"TR",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":308745,
+    "gn:latitude":36.23586,
+    "gn:longitude":36.15621,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Odaba\u015f\u0131",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Odaba\u015f\u0131"
+    ],
+    "name:tur_x_variant":[
+        "Kavasl\u0131",
+        "A\u015fa\u011f\u0131 Ayd\u0131"
+    ],
+    "name:und_x_variant":[
+        "Odabashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679331,
+        890461775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":308745
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"7c6b0985e4883b8a1a5be4ba0a96ad38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461775,
+            "locality_id":1360201195,
+            "region_id":85679331
+        }
+    ],
+    "wof:id":1360201195,
+    "wof:lastmodified":1537706978,
+    "wof:name":"Odabasi",
+    "wof:parent_id":890461775,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15621,
+    36.23586,
+    36.15621,
+    36.23586
+],
+  "geometry": {"coordinates":[36.15621,36.23586],"type":"Point"}
+}

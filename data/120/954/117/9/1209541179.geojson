@@ -1,0 +1,65 @@
+{
+  "id": 1209541179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65387,39.50634,35.65387,39.50634",
+    "geom:latitude":39.50634,
+    "geom:longitude":35.65387,
+    "gn:admin1_code":"66",
+    "gn:asciiname":"Topaktas",
+    "gn:country_code":"TR",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":299028,
+    "gn:latitude":39.50634,
+    "gn:longitude":35.65387,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Topakta\u015f",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Topakta\u015f K\u00f6y\u00fc",
+        "Topakta\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":299028
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"03c1272f5fe359cf836836841373fbe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632393,
+            "locality_id":1209541179
+        }
+    ],
+    "wof:id":1209541179,
+    "wof:lastmodified":1537706660,
+    "wof:name":"Topaktas",
+    "wof:parent_id":85632393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65387,
+    39.50634,
+    35.65387,
+    39.50634
+],
+  "geometry": {"coordinates":[35.65387,39.50634],"type":"Point"}
+}

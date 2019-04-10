@@ -1,0 +1,67 @@
+{
+  "id": 1226468059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"42.78778,37.81722,42.78778,37.81722",
+    "geom:latitude":37.81722,
+    "geom:longitude":42.78778,
+    "gn:admin1_code":"74.0",
+    "gn:asciiname":"Evrak",
+    "gn:country_code":"TR",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":438542,
+    "gn:latitude":37.81722,
+    "gn:longitude":42.78778,
+    "gn:modification_date":"2005-04-23",
+    "gn:name":"Evrak",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679489,
+        890461169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":438542
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"4326363884af96619b86758941b3e48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461169,
+            "locality_id":1226468059,
+            "region_id":85679489
+        }
+    ],
+    "wof:id":1226468059,
+    "wof:lastmodified":1536610786,
+    "wof:name":"Evrak",
+    "wof:parent_id":890461169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    42.78778,
+    37.81722,
+    42.78778,
+    37.81722
+],
+  "geometry": {"coordinates":[42.78778,37.81722],"type":"Point"}
+}

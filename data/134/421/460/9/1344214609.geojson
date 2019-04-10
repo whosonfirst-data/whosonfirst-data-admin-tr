@@ -1,0 +1,73 @@
+{
+  "id": 1344214609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.98352,39.79281,38.98352,39.79281",
+    "geom:latitude":39.79281,
+    "geom:longitude":38.98352,
+    "gn:admin1_code":"24",
+    "gn:asciiname":"Gocevi",
+    "gn:country_code":"TR",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":306854,
+    "gn:latitude":39.79281,
+    "gn:longitude":38.98352,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"G\u00f6\u00e7evi",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u00f6\u00e7eyi",
+        "K\u00f6\u00e7\u00fcvi",
+        "K\u00f6\u00e7evi",
+        "G\u00f6\u00e7evi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679373,
+        890461693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":306854
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"30004a3ee13ecf7a43cbc726b5060d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461693,
+            "locality_id":1344214609,
+            "region_id":85679373
+        }
+    ],
+    "wof:id":1344214609,
+    "wof:lastmodified":1537706921,
+    "wof:name":"Gocevi",
+    "wof:parent_id":890461693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.98352,
+    39.79281,
+    38.98352,
+    39.79281
+],
+  "geometry": {"coordinates":[38.98352,39.79281],"type":"Point"}
+}

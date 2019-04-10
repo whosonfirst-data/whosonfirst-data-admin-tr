@@ -1,0 +1,73 @@
+{
+  "id": 1293711821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.906,38.09375,32.906,38.09375",
+    "geom:latitude":38.09375,
+    "geom:longitude":32.906,
+    "gn:admin1_code":"71.0",
+    "gn:asciiname":"Kervan",
+    "gn:country_code":"TR",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7867942,
+    "gn:latitude":38.09375,
+    "gn:longitude":32.906,
+    "gn:modification_date":"2015-11-09",
+    "gn:name":"Kervan",
+    "gn:population":0,
+    "gn:timezone":"Europe/Istanbul",
+    "iso:country":"TR",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Kervan"
+    ],
+    "name:tur_x_variant":[
+        "S\u00fclemi\u015f Mahallesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679425,
+        1108709873
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7867942
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"081af793f22c2ee5c3ee043dfcdb17e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709873,
+            "locality_id":1293711821,
+            "region_id":85679425
+        }
+    ],
+    "wof:id":1293711821,
+    "wof:lastmodified":1537708274,
+    "wof:name":"Kervan",
+    "wof:parent_id":1108709873,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.906,
+    38.09375,
+    32.906,
+    38.09375
+],
+  "geometry": {"coordinates":[32.906,38.09375],"type":"Point"}
+}
