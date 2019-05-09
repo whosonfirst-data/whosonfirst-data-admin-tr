@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009946,
-    "geom:area_square_m":92682255.603769,
+    "geom:area_square_m":92682255.60377,
     "geom:bbox":"28.6433908801,41.0553778626,28.8251164645,41.1487963915",
     "geom:latitude":41.099037,
     "geom:longitude":28.749212,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Ba\u015fak\u015fehir District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.096424,
     "lbl:longitude":28.755408,
     "meso:admin1_en":"Istanbul",
@@ -117,10 +123,11 @@
         }
     ],
     "wof:id":1108709323,
-    "wof:lastmodified":1514506895,
+    "wof:lastmodified":1554489383,
     "wof:name":"Ba\u015fak\u015fehir",
     "wof:parent_id":85679237,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

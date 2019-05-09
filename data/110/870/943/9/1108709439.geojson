@@ -10,6 +10,12 @@
     "geom:latitude":40.891219,
     "geom:longitude":29.859298,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Derince District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.871586,
     "lbl:longitude":29.885336,
     "meso:admin1_en":"Kocaeli",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709439,
-    "wof:lastmodified":1536615514,
+    "wof:lastmodified":1554489386,
     "wof:name":"Derince",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KC",
     "wof:superseded_by":[],

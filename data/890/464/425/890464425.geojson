@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.22653,
-    "geom:area_square_m":2220352889.558456,
+    "geom:area_square_m":2220352889.558219,
     "geom:bbox":"43.3086825222,37.3320902392,44.0924147613,37.8080252254",
     "geom:latitude":37.563493,
     "geom:longitude":43.696505,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Hakkari)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.575315,
     "lbl:longitude":43.696497,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890464425,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489095,
     "wof:name":"Merkez",
     "wof:parent_id":85679501,
     "wof:placetype":"county",

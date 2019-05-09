@@ -10,6 +10,12 @@
     "geom:latitude":41.168466,
     "geom:longitude":36.303242,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Canik District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.160337,
     "lbl:longitude":36.291385,
     "meso:admin1_en":"Samsun",
@@ -94,10 +100,11 @@
         }
     ],
     "wof:id":1108709411,
-    "wof:lastmodified":1536615514,
+    "wof:lastmodified":1554489385,
     "wof:name":"Canik",
     "wof:parent_id":85679357,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"SS",
     "wof:superseded_by":[],

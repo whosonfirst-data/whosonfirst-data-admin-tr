@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004385,
-    "geom:area_square_m":40893040.625906,
+    "geom:area_square_m":40893040.625914,
     "geom:bbox":"28.6226776014,41.0008521568,28.7014742999,41.0988343092",
     "geom:latitude":41.043957,
     "geom:longitude":28.660095,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Esenyurt District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.042264,
     "lbl:longitude":28.660719,
     "meso:admin1_en":"Istanbul",
@@ -141,10 +147,11 @@
         }
     ],
     "wof:id":1108709497,
-    "wof:lastmodified":1514507022,
+    "wof:lastmodified":1554489384,
     "wof:name":"Esenyurt",
     "wof:parent_id":85679237,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.198149,
-    "geom:area_square_m":1840158866.942541,
+    "geom:area_square_m":1840158866.942641,
     "geom:bbox":"33.4922763666,41.0462935166,34.1532837165,41.5932564715",
     "geom:latitude":41.319561,
     "geom:longitude":33.804947,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Kastamonu)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":41.320345,
     "lbl:longitude":33.799976,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890463421,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489091,
     "wof:name":"Merkez",
     "wof:parent_id":85679259,
     "wof:placetype":"county",

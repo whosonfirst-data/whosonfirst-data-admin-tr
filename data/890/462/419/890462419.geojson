@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.100787,
-    "geom:area_square_m":977641886.764417,
+    "geom:area_square_m":977641886.764358,
     "geom:bbox":"38.1084524479,38.1212314421,38.7453217485,38.5133000083",
     "geom:latitude":38.328849,
     "geom:longitude":38.423925,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Malatya)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":38.319828,
     "lbl:longitude":38.445631,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890462419,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489082,
     "wof:name":"Merkez",
     "wof:parent_id":85679309,
     "wof:placetype":"county",

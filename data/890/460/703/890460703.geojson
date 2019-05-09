@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.102279,
-    "geom:area_square_m":998645087.622358,
+    "geom:area_square_m":998645087.622336,
     "geom:bbox":"28.9034101503,37.6443475327,29.3190689476,38.122564547",
     "geom:latitude":37.848832,
     "geom:longitude":29.126834,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Denizli)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.799384,
     "lbl:longitude":29.078149,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890460703,
-    "wof:lastmodified":1553131980,
+    "wof:lastmodified":1554489072,
     "wof:name":"Merkez",
     "wof:parent_id":85679277,
     "wof:placetype":"county",

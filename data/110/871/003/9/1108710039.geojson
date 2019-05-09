@@ -10,6 +10,12 @@
     "geom:latitude":40.840231,
     "geom:longitude":29.386373,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "\u00c7ay\u0131rova District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.847269,
     "lbl:longitude":29.390497,
     "meso:admin1_en":"Kocaeli",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108710039,
-    "wof:lastmodified":1536615525,
+    "wof:lastmodified":1554489398,
     "wof:name":"\u00c7ay\u0131rova",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"GE",
     "wof:superseded_by":[],

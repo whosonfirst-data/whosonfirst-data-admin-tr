@@ -10,6 +10,12 @@
     "geom:latitude":40.639896,
     "geom:longitude":29.95344,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Ba\u015fiskele District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.612223,
     "lbl:longitude":29.954899,
     "meso:admin1_en":"Kocaeli",
@@ -82,10 +88,11 @@
         }
     ],
     "wof:id":1108709327,
-    "wof:lastmodified":1536615512,
+    "wof:lastmodified":1554489383,
     "wof:name":"Ba\u015fiskele",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KC",
     "wof:superseded_by":[],

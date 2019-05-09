@@ -10,6 +10,12 @@
     "geom:latitude":38.486644,
     "geom:longitude":39.874114,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Alacakaya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.471325,
     "lbl:longitude":39.853533,
     "meso:admin1_en":"Elazig",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709275,
-    "wof:lastmodified":1536615512,
+    "wof:lastmodified":1554489380,
     "wof:name":"Alacakaya",
     "wof:parent_id":85679299,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"DI",
     "wof:superseded_by":[],

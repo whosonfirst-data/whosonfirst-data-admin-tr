@@ -10,6 +10,12 @@
     "geom:latitude":36.786208,
     "geom:longitude":38.956479,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Ak\u00e7akale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.807837,
     "lbl:longitude":38.831443,
     "meso:admin1_en":"Sanliurfa",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709267,
-    "wof:lastmodified":1536615512,
+    "wof:lastmodified":1554489380,
     "wof:name":"Ak\u00e7akale",
     "wof:parent_id":85679441,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"HR",
     "wof:superseded_by":[],

@@ -10,6 +10,12 @@
     "geom:latitude":37.105451,
     "geom:longitude":35.473074,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Sar\u0131\u00e7am District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.098865,
     "lbl:longitude":35.493991,
     "meso:admin1_en":"Adana",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709855,
-    "wof:lastmodified":1536615522,
+    "wof:lastmodified":1554489394,
     "wof:name":"Sar\u0131\u00e7am",
     "wof:parent_id":85679443,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AY",
     "wof:superseded_by":[],

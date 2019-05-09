@@ -11,6 +11,12 @@
     "geom:longitude":33.495505,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "\u015eerefliko\u00e7hisar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.877222,
     "lbl:longitude":33.528099,
     "meso:admin1_en":"Ankara",
@@ -71,10 +77,11 @@
         }
     ],
     "wof:id":890464457,
-    "wof:lastmodified":1536617415,
+    "wof:lastmodified":1554489093,
     "wof:name":"\u015eerefliko\u00e7hisar",
     "wof:parent_id":85679409,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"SK",
     "wof:superseded_by":[],

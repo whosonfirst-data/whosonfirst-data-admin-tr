@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.090705,
-    "geom:area_square_m":894710425.026595,
+    "geom:area_square_m":894710425.026594,
     "geom:bbox":"36.0374037788,36.9157300056,36.5442394299,37.2564704342",
     "geom:latitude":37.087092,
     "geom:longitude":36.296919,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Osmaniye)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.063983,
     "lbl:longitude":36.314169,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890461541,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489077,
     "wof:name":"Merkez",
     "wof:parent_id":85679525,
     "wof:placetype":"county",

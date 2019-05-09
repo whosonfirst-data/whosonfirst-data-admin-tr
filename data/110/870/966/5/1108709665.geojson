@@ -10,6 +10,12 @@
     "geom:latitude":36.832964,
     "geom:longitude":30.48662,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Konyaalt\u0131 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.84255,
     "lbl:longitude":30.473865,
     "meso:admin1_en":"Antalya",
@@ -100,10 +106,11 @@
         }
     ],
     "wof:id":1108709665,
-    "wof:lastmodified":1536615518,
+    "wof:lastmodified":1554489390,
     "wof:name":"Konyaalt\u0131",
     "wof:parent_id":85679263,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AN",
     "wof:superseded_by":[],

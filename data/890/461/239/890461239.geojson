@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.285849,
-    "geom:area_square_m":2753704216.48275,
+    "geom:area_square_m":2753704216.482728,
     "geom:bbox":"41.1101544933,38.4640359699,41.8884905002,39.0737429974",
     "geom:latitude":38.823674,
     "geom:longitude":41.464935,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Mus)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":38.831821,
     "lbl:longitude":41.457529,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890461239,
-    "wof:lastmodified":1553131980,
+    "wof:lastmodified":1554489075,
     "wof:name":"Merkez",
     "wof:parent_id":85679401,
     "wof:placetype":"county",

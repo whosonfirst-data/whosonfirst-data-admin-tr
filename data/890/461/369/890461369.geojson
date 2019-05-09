@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.154282,
     "lbl:longitude":34.818792,
     "meso:admin1_en":"Nigde",
@@ -66,10 +72,11 @@
         }
     ],
     "wof:id":890461369,
-    "wof:lastmodified":1536617396,
+    "wof:lastmodified":1554489076,
     "wof:name":"Merkez",
     "wof:parent_id":85679453,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"NG",

@@ -10,6 +10,12 @@
     "geom:latitude":36.929801,
     "geom:longitude":29.46577,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Alt\u0131nyayla District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.931773,
     "lbl:longitude":29.468032,
     "meso:admin1_en":"Burdur",
@@ -247,10 +253,11 @@
         }
     ],
     "wof:id":1108709281,
-    "wof:lastmodified":1536615512,
+    "wof:lastmodified":1554489382,
     "wof:name":"Alt\u0131nyayla",
     "wof:parent_id":85679273,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"FE",
     "wof:superseded_by":[],

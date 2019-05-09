@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.023923,
-    "geom:area_square_m":231581116.770498,
+    "geom:area_square_m":231581116.77049,
     "geom:bbox":"27.1598839677,38.3734028708,27.348432328,38.5726979236",
     "geom:latitude":38.477798,
     "geom:longitude":27.255967,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Bornova (Izmir)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Bornova District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":38.481631,
     "lbl:longitude":27.257762,
@@ -144,7 +150,7 @@
         }
     ],
     "wof:id":890463111,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489092,
     "wof:name":"Bornova",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

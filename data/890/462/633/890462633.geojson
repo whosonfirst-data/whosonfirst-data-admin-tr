@@ -14,6 +14,12 @@
     "gn:pop":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "\u00c7elebi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.496897,
     "lbl:longitude":33.479321,
     "meso:admin1_en":"Kirikkale",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":890462633,
-    "wof:lastmodified":1536617404,
+    "wof:lastmodified":1554489084,
     "wof:name":"\u00c7elebi",
     "wof:parent_id":85679447,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KE",

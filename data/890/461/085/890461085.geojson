@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049771,
-    "geom:area_square_m":457974341.167313,
+    "geom:area_square_m":457974341.167307,
     "geom:bbox":"34.8322557336,41.675289157,35.216251373,42.101276398",
     "geom:latitude":41.912682,
     "geom:longitude":35.010407,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Sinop)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":41.970589,
     "lbl:longitude":35.038197,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890461085,
-    "wof:lastmodified":1553131980,
+    "wof:lastmodified":1554489074,
     "wof:name":"Merkez",
     "wof:parent_id":85679351,
     "wof:placetype":"county",

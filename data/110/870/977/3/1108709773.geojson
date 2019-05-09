@@ -10,6 +10,12 @@
     "geom:latitude":39.651492,
     "geom:longitude":30.571441,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Odunpazar\u0131 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.667528,
     "lbl:longitude":30.548712,
     "meso:admin1_en":"Eskisehir",
@@ -85,10 +91,11 @@
         }
     ],
     "wof:id":1108709773,
-    "wof:lastmodified":1536615520,
+    "wof:lastmodified":1554489393,
     "wof:name":"Odunpazar\u0131",
     "wof:parent_id":85679255,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"ES",
     "wof:superseded_by":[],

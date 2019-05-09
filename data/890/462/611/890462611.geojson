@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172615,
-    "geom:area_square_m":1591580977.738001,
+    "geom:area_square_m":1591580977.738051,
     "geom:bbox":"26.8978281491,41.5540317715,27.5604949747,42.0660468126",
     "geom:latitude":41.78266,
     "geom:longitude":27.248755,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Kirklareli)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":41.754942,
     "lbl:longitude":27.281328,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890462611,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489083,
     "wof:name":"Merkez",
     "wof:parent_id":85679219,
     "wof:placetype":"county",

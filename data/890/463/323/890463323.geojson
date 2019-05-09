@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172726,
-    "geom:area_square_m":1640591342.187302,
+    "geom:area_square_m":1640591342.187329,
     "geom:bbox":"42.8516547615,39.5559837331,43.4282109092,40.0013144505",
     "geom:latitude":39.812365,
     "geom:longitude":43.146451,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Agri)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":39.807461,
     "lbl:longitude":43.151929,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890463323,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489090,
     "wof:name":"Merkez",
     "wof:parent_id":85679387,
     "wof:placetype":"county",

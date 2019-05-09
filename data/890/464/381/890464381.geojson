@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.063146,
-    "geom:area_square_m":610282771.905204,
+    "geom:area_square_m":610282771.905223,
     "geom:bbox":"34.4430762306,38.4075866828,34.8614063892,38.7188231412",
     "geom:latitude":38.592132,
     "geom:longitude":34.685447,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Nevsehir)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":38.595085,
     "lbl:longitude":34.706066,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890464381,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489096,
     "wof:name":"Merkez",
     "wof:parent_id":85679327,
     "wof:placetype":"county",

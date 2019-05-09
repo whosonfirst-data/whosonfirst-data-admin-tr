@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08027,
-    "geom:area_square_m":747297062.792019,
+    "geom:area_square_m":747297062.791967,
     "geom:bbox":"32.4353086726,41.0005845167,32.8232955601,41.3747019251",
     "geom:latitude":41.157143,
     "geom:longitude":32.613396,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Karab\u00fck)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":41.143308,
     "lbl:longitude":32.600185,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890462641,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489085,
     "wof:name":"Merkez",
     "wof:parent_id":85679537,
     "wof:placetype":"county",

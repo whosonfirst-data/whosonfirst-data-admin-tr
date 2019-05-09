@@ -14,6 +14,12 @@
     "gn:pop":6880,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Dernekpazar\u0131 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.787109,
     "lbl:longitude":40.205628,
     "meso:admin1_en":"Trabzon",
@@ -71,10 +77,11 @@
         }
     ],
     "wof:id":890461877,
-    "wof:lastmodified":1536617400,
+    "wof:lastmodified":1554489080,
     "wof:name":"Dernekpazar\u0131",
     "wof:parent_id":85679383,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":6880,
     "wof:population_rank":5,
     "wof:repo":"whosonfirst-data-admin-tr",

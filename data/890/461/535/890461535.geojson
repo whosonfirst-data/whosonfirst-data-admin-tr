@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072583,
-    "geom:area_square_m":709525211.813231,
+    "geom:area_square_m":709525211.813244,
     "geom:bbox":"30.4155068997,37.5520017294,30.8323942833,37.9033010894",
     "geom:latitude":37.762853,
     "geom:longitude":30.640473,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Isparta)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.777991,
     "lbl:longitude":30.661059,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890461535,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489077,
     "wof:name":"Merkez",
     "wof:parent_id":85679279,
     "wof:placetype":"county",

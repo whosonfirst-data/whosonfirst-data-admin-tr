@@ -10,6 +10,12 @@
     "geom:latitude":37.98677,
     "geom:longitude":28.738175,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Buharkent District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.988037,
     "lbl:longitude":28.709354,
     "meso:admin1_en":"Aydin",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709405,
-    "wof:lastmodified":1536615514,
+    "wof:lastmodified":1554489385,
     "wof:name":"Buharkent",
     "wof:parent_id":85679195,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KY",
     "wof:superseded_by":[],

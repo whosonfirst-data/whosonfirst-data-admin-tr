@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.466967,
-    "geom:area_square_m":4601111642.224765,
+    "geom:area_square_m":4601111642.22463,
     "geom:bbox":"38.4136633054,36.8312103494,39.57,37.5547836647",
     "geom:latitude":37.169526,
     "geom:longitude":38.974002,
@@ -15,6 +15,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Sanliurfa)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.164932,
     "lbl:longitude":38.974047,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890461365,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489075,
     "wof:name":"Merkez",
     "wof:parent_id":85679441,
     "wof:placetype":"county",

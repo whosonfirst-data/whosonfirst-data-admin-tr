@@ -10,6 +10,12 @@
     "geom:latitude":40.777244,
     "geom:longitude":29.376987,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Dar\u0131ca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.779014,
     "lbl:longitude":29.37385,
     "meso:admin1_en":"Kocaeli",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709421,
-    "wof:lastmodified":1536615514,
+    "wof:lastmodified":1554489383,
     "wof:name":"Dar\u0131ca",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"GE",
     "wof:superseded_by":[],

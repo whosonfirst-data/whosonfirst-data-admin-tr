@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.207663,
-    "geom:area_square_m":1958638653.732633,
+    "geom:area_square_m":1958638653.732613,
     "geom:bbox":"36.3399271378,39.9537937953,36.9161709106,40.5595815779",
     "geom:latitude":40.290671,
     "geom:longitude":36.572493,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Tokat)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":40.324303,
     "lbl:longitude":36.549204,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890463149,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489091,
     "wof:name":"Merkez",
     "wof:parent_id":85679363,
     "wof:placetype":"county",

@@ -14,6 +14,12 @@
     "gn:pop":12484,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "\u00c7aml\u0131dere District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.460251,
     "lbl:longitude":32.36669,
     "meso:admin1_en":"Ankara",
@@ -91,10 +97,11 @@
         }
     ],
     "wof:id":890461263,
-    "wof:lastmodified":1536617395,
+    "wof:lastmodified":1554489075,
     "wof:name":"\u00c7aml\u0131dere",
     "wof:parent_id":85679409,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":12484,
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-tr",

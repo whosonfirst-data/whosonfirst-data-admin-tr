@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042066,
-    "geom:area_square_m":393090656.155334,
+    "geom:area_square_m":393090656.155364,
     "geom:bbox":"37.6790877756,40.7602586101,38.0350886955,41.02205658",
     "geom:latitude":40.912346,
     "geom:longitude":37.883105,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Ordu)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":40.932643,
     "lbl:longitude":37.856076,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890462737,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489085,
     "wof:name":"Merkez",
     "wof:parent_id":85679349,
     "wof:placetype":"county",

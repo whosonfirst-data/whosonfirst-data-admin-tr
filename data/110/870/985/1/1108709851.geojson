@@ -10,6 +10,12 @@
     "geom:latitude":38.967582,
     "geom:longitude":33.857071,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Sar\u0131yah\u015fi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.9657,
     "lbl:longitude":33.859045,
     "meso:admin1_en":"Aksaray",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709851,
-    "wof:lastmodified":1536615522,
+    "wof:lastmodified":1554489394,
     "wof:name":"Sar\u0131yah\u015fi",
     "wof:parent_id":85679457,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"EV",
     "wof:superseded_by":[],

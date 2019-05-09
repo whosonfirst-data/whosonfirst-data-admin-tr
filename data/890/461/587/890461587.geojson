@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018795,
-    "geom:area_square_m":176266062.421584,
+    "geom:area_square_m":176266062.421582,
     "geom:bbox":"30.1262401772,40.6098239997,30.3495384554,40.7329790254",
     "geom:latitude":40.67158,
     "geom:longitude":30.238051,
@@ -14,6 +14,12 @@
     "gn:pop":25224,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Sapanca District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.670816,
     "lbl:longitude":30.238056,
     "meso:admin1_en":"Sakarya",
@@ -139,10 +145,11 @@
         }
     ],
     "wof:id":890461587,
-    "wof:lastmodified":1553816408,
+    "wof:lastmodified":1555037012,
     "wof:name":"Sapanca",
     "wof:parent_id":85679245,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":25224,
     "wof:population_rank":7,
     "wof:repo":"whosonfirst-data-admin-tr",

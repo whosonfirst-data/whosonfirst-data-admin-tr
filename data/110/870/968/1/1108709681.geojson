@@ -10,6 +10,12 @@
     "geom:latitude":36.374282,
     "geom:longitude":36.48465,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Kumlu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.372617,
     "lbl:longitude":36.539153,
     "meso:admin1_en":"Hatay",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709681,
-    "wof:lastmodified":1536615519,
+    "wof:lastmodified":1554489391,
     "wof:name":"Kumlu",
     "wof:parent_id":85679331,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KI",
     "wof:superseded_by":[],

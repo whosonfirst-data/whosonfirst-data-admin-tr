@@ -10,6 +10,12 @@
     "geom:latitude":37.276305,
     "geom:longitude":32.926374,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Kaz\u0131mkarabekir District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.282664,
     "lbl:longitude":32.926383,
     "meso:admin1_en":"Karaman",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709647,
-    "wof:lastmodified":1536615518,
+    "wof:lastmodified":1554489389,
     "wof:name":"Kaz\u0131mkarabekir",
     "wof:parent_id":85679427,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KR",
     "wof:superseded_by":[],

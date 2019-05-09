@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.129911,
-    "geom:area_square_m":1211075134.406834,
+    "geom:area_square_m":1211075134.406815,
     "geom:bbox":"42.3593951137,40.8778892442,43.0529696277,41.2615615992",
     "geom:latitude":41.068839,
     "geom:longitude":42.724607,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Ardahan)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":41.076203,
     "lbl:longitude":42.787511,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1108709719,
-    "wof:lastmodified":1553131983,
+    "wof:lastmodified":1554489391,
     "wof:name":"Merkez",
     "wof:parent_id":85679511,
     "wof:placetype":"county",

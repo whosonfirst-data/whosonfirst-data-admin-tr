@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.186952,
-    "geom:area_square_m":1832981020.244061,
+    "geom:area_square_m":1832981020.24406,
     "geom:bbox":"42.034098445,37.3605510237,42.8510137978,37.7297094157",
     "geom:latitude":37.541185,
     "geom:longitude":42.439599,
@@ -15,6 +15,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Sirnak)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.536429,
     "lbl:longitude":42.447355,
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890460285,
-    "wof:lastmodified":1553131980,
+    "wof:lastmodified":1554489070,
     "wof:name":"Merkez",
     "wof:parent_id":85679493,
     "wof:placetype":"county",

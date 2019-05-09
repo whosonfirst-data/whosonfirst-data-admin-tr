@@ -10,6 +10,12 @@
     "geom:latitude":37.082545,
     "geom:longitude":34.433275,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Toroslar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.062834,
     "lbl:longitude":34.429764,
     "meso:admin1_en":"Icel",
@@ -88,10 +94,11 @@
         }
     ],
     "wof:id":1108709927,
-    "wof:lastmodified":1536615523,
+    "wof:lastmodified":1554489396,
     "wof:name":"Toroslar",
     "wof:parent_id":85679313,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"IC",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.365847,
-    "geom:area_square_m":3479162933.103747,
+    "geom:area_square_m":3479162933.103721,
     "geom:bbox":"36.5152721635,39.3316402527,37.4717484878,40.2337428946",
     "geom:latitude":39.727871,
     "geom:longitude":36.985347,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Sivas)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":39.76122,
     "lbl:longitude":36.992532,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890462707,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489092,
     "wof:name":"Merkez",
     "wof:parent_id":85679355,
     "wof:placetype":"county",

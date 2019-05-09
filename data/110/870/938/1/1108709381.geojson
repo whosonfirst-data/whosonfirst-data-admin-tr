@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004473,
-    "geom:area_square_m":41755265.82625,
+    "geom:area_square_m":41755265.826245,
     "geom:bbox":"28.592889786,40.957889557,28.6999232422,41.0192621579",
     "geom:latitude":40.985061,
     "geom:longitude":28.644533,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Beylikd\u00fcz\u00fc District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.9886,
     "lbl:longitude":28.648861,
     "meso:admin1_en":"Istanbul",
@@ -123,10 +129,11 @@
         }
     ],
     "wof:id":1108709381,
-    "wof:lastmodified":1514506904,
+    "wof:lastmodified":1554489385,
     "wof:name":"Beylikd\u00fcz\u00fc",
     "wof:parent_id":85679237,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

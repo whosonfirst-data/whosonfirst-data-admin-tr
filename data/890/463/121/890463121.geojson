@@ -11,6 +11,12 @@
     "geom:longitude":40.783302,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":37.351879,
     "lbl:longitude":40.73537,
     "meso:admin1_en":"Mardin",
@@ -71,10 +77,11 @@
         }
     ],
     "wof:id":890463121,
-    "wof:lastmodified":1536617407,
+    "wof:lastmodified":1554489089,
     "wof:name":"Merkez",
     "wof:parent_id":85679481,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KI",
     "wof:superseded_by":[],

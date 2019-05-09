@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.183575,
-    "geom:area_square_m":1794877645.535529,
+    "geom:area_square_m":1794877645.535505,
     "geom:bbox":"37.9772532862,37.4115133213,38.5066457307,38.0054367976",
     "geom:latitude":37.747441,
     "geom:longitude":38.260344,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Adiyaman)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.775908,
     "lbl:longitude":38.264358,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890460579,
-    "wof:lastmodified":1553131980,
+    "wof:lastmodified":1554489071,
     "wof:name":"Merkez",
     "wof:parent_id":85679295,
     "wof:placetype":"county",

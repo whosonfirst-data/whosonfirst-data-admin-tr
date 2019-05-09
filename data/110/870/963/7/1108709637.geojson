@@ -10,6 +10,12 @@
     "geom:latitude":40.701057,
     "geom:longitude":30.097649,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Kartepe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.683393,
     "lbl:longitude":30.08479,
     "meso:admin1_en":"Kocaeli",
@@ -85,10 +91,11 @@
         }
     ],
     "wof:id":1108709637,
-    "wof:lastmodified":1536615518,
+    "wof:lastmodified":1554489390,
     "wof:name":"Kartepe",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KC",
     "wof:superseded_by":[],

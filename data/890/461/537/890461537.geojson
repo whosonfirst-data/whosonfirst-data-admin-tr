@@ -11,6 +11,12 @@
     "geom:longitude":29.266011,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.601316,
     "lbl:longitude":29.264576,
     "meso:admin1_en":"Yalova",
@@ -70,10 +76,11 @@
         }
     ],
     "wof:id":890461537,
-    "wof:lastmodified":1536617396,
+    "wof:lastmodified":1554489077,
     "wof:name":"Merkez",
     "wof:parent_id":85679529,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"YL",
     "wof:superseded_by":[],

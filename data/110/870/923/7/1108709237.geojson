@@ -10,6 +10,12 @@
     "geom:latitude":41.959816,
     "geom:longitude":34.068109,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Abana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.956105,
     "lbl:longitude":34.072084,
     "meso:admin1_en":"Kastamonu",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709237,
-    "wof:lastmodified":1536615511,
+    "wof:lastmodified":1554489379,
     "wof:name":"Abana",
     "wof:parent_id":85679259,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"CA",
     "wof:superseded_by":[],

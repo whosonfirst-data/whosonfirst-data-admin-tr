@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056825,
-    "geom:area_square_m":528457201.691945,
+    "geom:area_square_m":528457201.69191,
     "geom:bbox":"28.4904903344,41.0917611642,28.8183840376,41.4064927677",
     "geom:latitude":41.227773,
     "geom:longitude":28.659562,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Arnavutk\u00f6y District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.223036,
     "lbl:longitude":28.675677,
     "meso:admin1_en":"Istanbul",
@@ -123,10 +129,11 @@
         }
     ],
     "wof:id":1108709297,
-    "wof:lastmodified":1553816489,
+    "wof:lastmodified":1555037348,
     "wof:name":"Arnavutk\u00f6y",
     "wof:parent_id":85679237,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

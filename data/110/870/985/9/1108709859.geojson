@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096491,
-    "geom:area_square_m":933522847.586406,
+    "geom:area_square_m":933522847.586359,
     "geom:bbox":"43.9902683077,38.2949287657,44.325477,38.7640785691",
     "geom:latitude":38.51786,
     "geom:longitude":44.180712,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Saray District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.502068,
     "lbl:longitude":44.194237,
     "meso:admin1_en":"Van",
@@ -115,10 +121,11 @@
         }
     ],
     "wof:id":1108709859,
-    "wof:lastmodified":1553816489,
+    "wof:lastmodified":1555037341,
     "wof:name":"Saray",
     "wof:parent_id":85679509,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"OZ",
     "wof:superseded_by":[],

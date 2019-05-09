@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.061285,
-    "geom:area_square_m":598368650.575564,
+    "geom:area_square_m":598368650.575549,
     "geom:bbox":"27.7495837745,37.7104475347,28.1147817973,37.9916489882",
     "geom:latitude":37.850837,
     "geom:longitude":27.917106,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Aydin)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":37.862159,
     "lbl:longitude":27.895363,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890461265,
-    "wof:lastmodified":1553131980,
+    "wof:lastmodified":1554489075,
     "wof:name":"Merkez",
     "wof:parent_id":85679195,
     "wof:placetype":"county",

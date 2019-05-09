@@ -10,6 +10,12 @@
     "geom:latitude":40.841735,
     "geom:longitude":30.052275,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "\u0130zmit District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.842048,
     "lbl:longitude":30.018387,
     "meso:admin1_en":"Kocaeli",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709225,
-    "wof:lastmodified":1536615511,
+    "wof:lastmodified":1554489380,
     "wof:name":"\u0130zmit",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KC",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166002,
-    "geom:area_square_m":1555411540.500519,
+    "geom:area_square_m":1555411540.500478,
     "geom:bbox":"31.2972939414,40.526701076,31.9918466851,40.989148937",
     "geom:latitude":40.733056,
     "geom:longitude":31.663861,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Bolu)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":40.772219,
     "lbl:longitude":31.687589,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890462577,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489083,
     "wof:name":"Merkez",
     "wof:parent_id":85679249,
     "wof:placetype":"county",

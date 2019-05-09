@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082299,
-    "geom:area_square_m":820878580.66123,
+    "geom:area_square_m":820878580.661263,
     "geom:bbox":"36.0245829062,35.990138904,36.400185,36.4153152468",
     "geom:latitude":36.230591,
     "geom:longitude":36.190106,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Hatay)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":36.278588,
     "lbl:longitude":36.177312,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890461775,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489081,
     "wof:name":"Merkez",
     "wof:parent_id":85679331,
     "wof:placetype":"county",

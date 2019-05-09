@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.024453,
-    "geom:area_square_m":228440072.144338,
+    "geom:area_square_m":228440072.144345,
     "geom:bbox":"39.6195198258,40.7809419763,39.8281993672,41.015388489",
     "geom:latitude":40.930065,
     "geom:longitude":39.732402,
@@ -16,6 +16,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Trabzon)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":40.950053,
     "lbl:longitude":39.741106,
@@ -89,7 +95,7 @@
         }
     ],
     "wof:id":890462779,
-    "wof:lastmodified":1553131982,
+    "wof:lastmodified":1554489093,
     "wof:name":"Merkez",
     "wof:parent_id":85679383,
     "wof:placetype":"county",

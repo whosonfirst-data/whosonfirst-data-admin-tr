@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01622,
-    "geom:area_square_m":151196100.850495,
+    "geom:area_square_m":151196100.850496,
     "geom:bbox":"29.1419352085,41.0094559368,29.3977894806,41.1321789911",
     "geom:latitude":41.074361,
     "geom:longitude":29.284039,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "\u00c7ekmek\u00f6y District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.090232,
     "lbl:longitude":29.305367,
     "meso:admin1_en":"Istanbul",
@@ -123,10 +129,11 @@
         }
     ],
     "wof:id":1108710051,
-    "wof:lastmodified":1514507582,
+    "wof:lastmodified":1554489398,
     "wof:name":"\u00c7ekmek\u00f6y",
     "wof:parent_id":85679237,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

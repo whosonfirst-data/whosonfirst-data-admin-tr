@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108683,
-    "geom:area_square_m":1014476959.061921,
+    "geom:area_square_m":1014476959.061893,
     "geom:bbox":"27.1074080361,40.8017238019,27.710380073,41.1557055503",
     "geom:latitude":40.984915,
     "geom:longitude":27.369253,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Tekirdag)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":40.985012,
     "lbl:longitude":27.348693,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890461857,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489080,
     "wof:name":"Merkez",
     "wof:parent_id":85679223,
     "wof:placetype":"county",

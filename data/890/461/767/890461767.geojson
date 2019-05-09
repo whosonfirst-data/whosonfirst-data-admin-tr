@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.122417,
-    "geom:area_square_m":1139638434.936746,
+    "geom:area_square_m":1139638434.936702,
     "geom:bbox":"41.5193215859,40.9115020334,42.1758862806,41.3581651494",
     "geom:latitude":41.15981,
     "geom:longitude":41.836494,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Artvin)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":41.158538,
     "lbl:longitude":41.804157,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890461767,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489081,
     "wof:name":"Merkez",
     "wof:parent_id":85679367,
     "wof:placetype":"county",

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":0,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Dilovas\u0131 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.838543,
     "lbl:longitude":29.572356,
     "meso:admin1_en":"Kocaeli",
@@ -67,10 +73,11 @@
         }
     ],
     "wof:id":890461367,
-    "wof:lastmodified":1536617396,
+    "wof:lastmodified":1554489075,
     "wof:name":"Dilovas\u0131",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"GE",

@@ -14,6 +14,12 @@
     "gn:pop":3875,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Alt\u0131nova District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.665718,
     "lbl:longitude":29.476077,
     "meso:admin1_en":"Kocaeli",
@@ -76,10 +82,11 @@
         }
     ],
     "wof:id":890464505,
-    "wof:lastmodified":1536617415,
+    "wof:lastmodified":1554489095,
     "wof:name":"Alt\u0131nova",
     "wof:parent_id":85679241,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:population":3875,
     "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-tr",

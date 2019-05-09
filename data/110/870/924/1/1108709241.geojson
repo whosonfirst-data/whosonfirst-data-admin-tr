@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035539,
-    "geom:area_square_m":332414391.835099,
+    "geom:area_square_m":332414391.835094,
     "geom:bbox":"30.2320927296,40.73,30.6088162093,40.9530158849",
     "geom:latitude":40.848624,
     "geom:longitude":30.40058,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Adapazar\u0131 District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.813803,
     "lbl:longitude":30.413442,
     "meso:admin1_en":"Sakarya",
@@ -229,10 +235,11 @@
         }
     ],
     "wof:id":1108709241,
-    "wof:lastmodified":1553816488,
+    "wof:lastmodified":1555037352,
     "wof:name":"Adapazar\u0131",
     "wof:parent_id":85679245,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"SK",
     "wof:superseded_by":[],

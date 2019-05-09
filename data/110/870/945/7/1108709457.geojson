@@ -10,6 +10,12 @@
     "geom:latitude":38.907807,
     "geom:longitude":30.003787,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Dumlup\u0131nar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":38.898552,
     "lbl:longitude":29.984145,
     "meso:admin1_en":"Kutahya",
@@ -51,10 +57,11 @@
         }
     ],
     "wof:id":1108709457,
-    "wof:lastmodified":1536615515,
+    "wof:lastmodified":1554489384,
     "wof:name":"Dumlup\u0131nar",
     "wof:parent_id":85679283,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AL",
     "wof:superseded_by":[],

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.3766,
-    "geom:area_square_m":3650723649.87749,
+    "geom:area_square_m":3650723649.877494,
     "geom:bbox":"33.5061000209,38.057780292,34.4472723795,38.7185264661",
     "geom:latitude":38.374574,
     "geom:longitude":33.92741,
@@ -13,6 +13,12 @@
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
         "Merkez (Aksaray)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Merkez District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "lbl:latitude":38.384881,
     "lbl:longitude":33.918477,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":890461771,
-    "wof:lastmodified":1553131981,
+    "wof:lastmodified":1554489081,
     "wof:name":"Merkez",
     "wof:parent_id":85679457,
     "wof:placetype":"county",

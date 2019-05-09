@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007154,
-    "geom:area_square_m":66750906.11634,
+    "geom:area_square_m":66750906.116342,
     "geom:bbox":"29.185781366,40.9515260626,29.3625932169,41.0548645256",
     "geom:latitude":41.012508,
     "geom:longitude":29.267205,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Sancaktepe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":40.990955,
     "lbl:longitude":29.229096,
     "meso:admin1_en":"Istanbul",
@@ -111,10 +117,11 @@
         }
     ],
     "wof:id":1108709841,
-    "wof:lastmodified":1514507384,
+    "wof:lastmodified":1554489394,
     "wof:name":"Sancaktepe",
     "wof:parent_id":85679237,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

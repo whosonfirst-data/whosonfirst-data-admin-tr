@@ -10,6 +10,12 @@
     "geom:latitude":36.840928,
     "geom:longitude":34.520142,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Yeni\u015fehir District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.85014,
     "lbl:longitude":34.511262,
     "meso:admin1_en":"Icel",
@@ -91,10 +97,11 @@
         }
     ],
     "wof:id":1108709983,
-    "wof:lastmodified":1536615524,
+    "wof:lastmodified":1554489396,
     "wof:name":"Yeni\u015fehir",
     "wof:parent_id":85679313,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"IC",
     "wof:superseded_by":[],

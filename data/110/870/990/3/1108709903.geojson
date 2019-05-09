@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004064,
-    "geom:area_square_m":37855875.908782,
+    "geom:area_square_m":37855875.908783,
     "geom:bbox":"28.8294910323,41.0820544861,28.9265008526,41.1593723553",
     "geom:latitude":41.121709,
     "geom:longitude":28.874983,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Sultangazi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":41.11649,
     "lbl:longitude":28.874358,
     "meso:admin1_en":"Istanbul",
@@ -114,10 +120,11 @@
         }
     ],
     "wof:id":1108709903,
-    "wof:lastmodified":1514507441,
+    "wof:lastmodified":1554489395,
     "wof:name":"Sultangazi",
     "wof:parent_id":85679237,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[],

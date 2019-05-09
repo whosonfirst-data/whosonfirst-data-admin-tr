@@ -10,6 +10,12 @@
     "geom:latitude":39.942343,
     "geom:longitude":44.242182,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Karakoyunlu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":39.96978,
     "lbl:longitude":44.217466,
     "meso:admin1_en":"Igdir",
@@ -112,10 +118,11 @@
         }
     ],
     "wof:id":1108709625,
-    "wof:lastmodified":1536615518,
+    "wof:lastmodified":1554489389,
     "wof:name":"Karakoyunlu",
     "wof:parent_id":85679515,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"IG",
     "wof:superseded_by":[],

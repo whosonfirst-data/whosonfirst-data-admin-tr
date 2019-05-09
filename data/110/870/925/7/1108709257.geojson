@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028164,
-    "geom:area_square_m":278602411.613644,
+    "geom:area_square_m":278602411.61366,
     "geom:bbox":"34.6019708758,36.780019413,34.8399720324,36.9831070764",
     "geom:latitude":36.871076,
     "geom:longitude":34.722752,
     "iso:country":"TR",
+    "label:eng_x_preferred_longname":[
+        "Akdeniz District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":36.867314,
     "lbl:longitude":34.724598,
     "meso:admin1_en":"Icel",
@@ -97,10 +103,11 @@
         }
     ],
     "wof:id":1108709257,
-    "wof:lastmodified":1553816489,
+    "wof:lastmodified":1555037350,
     "wof:name":"Akdeniz",
     "wof:parent_id":85679313,
     "wof:placetype":"county",
+    "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"IC",
     "wof:superseded_by":[],
