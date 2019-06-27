@@ -9,13 +9,18 @@
     "geom:bbox":"43.2890923364,39.628489,44.818128,40.1312235818",
     "geom:latitude":39.89505,
     "geom:longitude":43.984915,
-    "gn:id":"",
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
-        "I\u011fdir Province"
+        "Igdir Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:tur_x_preferred_longname":[
+        "I\u011fd\u0131r ili"
+    ],
+    "label:tur_x_preferred_placetype":[
+        "il"
     ],
     "lbl:latitude":39.874255,
     "lbl:longitude":44.060325,
@@ -93,11 +98,11 @@
         "I\u011fd\u0131r"
     ],
     "name:eng_x_preferred":[
-        "I\u011fd\u0131r Province"
+        "Igdir"
     ],
     "name:eng_x_variant":[
         "I\u011fd\u0131r",
-        "Igdir"
+        "I\u011fd\u0131r Province"
     ],
     "name:epo_x_preferred":[
         "Provinco I\u011fd\u0131r"
@@ -395,20 +400,16 @@
         }
     ],
     "wof:id":85679515,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "tur"
     ],
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1553550551,
-    "wof:name":"I\u011fdir",
+    "wof:lastmodified":1561488414,
+    "wof:name":"Igdir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":181866,
     "wof:population_rank":9,

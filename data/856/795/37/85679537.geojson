@@ -12,10 +12,16 @@
     "gn:population":230251,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
-        "Karab\u00fck Province"
+        "Karabuk Province"
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:tur_x_preferred_longname":[
+        "Karab\u00fck ili"
+    ],
+    "label:tur_x_preferred_placetype":[
+        "il"
     ],
     "lbl:latitude":41.111888,
     "lbl:longitude":32.580681,
@@ -84,7 +90,11 @@
         "Karab\u00fck"
     ],
     "name:eng_x_preferred":[
-        "Karab\u00fck"
+        "Karabuk"
+    ],
+    "name:eng_x_variant":[
+        "Karab\u00fck",
+        "Karab\u00fck Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Karab\u00fck"
@@ -377,20 +387,16 @@
         }
     ],
     "wof:id":85679537,
-    "wof:lang":[
-        "unk"
-    ],
     "wof:lang_x_official":[
         "tur"
     ],
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1553550552,
-    "wof:name":"Karab\u00fck",
+    "wof:lastmodified":1561488422,
+    "wof:name":"Karabuk",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":218463,
     "wof:population_rank":10,

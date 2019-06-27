@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.582086,
-    "geom:area_square_m":5419274353.23818,
+    "geom:area_square_m":5419274353.238117,
     "geom:bbox":"27.9726225725,40.801277161,29.9154917681,41.5851090297",
     "geom:latitude":41.155229,
     "geom:longitude":28.806546,
@@ -16,6 +16,12 @@
     ],
     "label:eng_x_preferred_placetype":[
         "province"
+    ],
+    "label:tur_x_preferred_longname":[
+        "\u0130stanbul ili"
+    ],
+    "label:tur_x_preferred_placetype":[
+        "il"
     ],
     "lbl:latitude":41.239403,
     "lbl:longitude":28.409152,
@@ -392,7 +398,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1553814829,
+    "wof:lastmodified":1561069956,
     "wof:name":"Istanbul",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
