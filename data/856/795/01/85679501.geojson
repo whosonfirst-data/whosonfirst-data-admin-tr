@@ -34,14 +34,8 @@
     "name:ara_x_preferred":[
         "\u0647\u0643\u0627\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0540\u0561\u056f\u0575\u0561\u0580\u056b"
-    ],
     "name:aze_x_preferred":[
         "Hakkari ili"
-    ],
-    "name:baq_x_preferred":[
-        "Hakkari probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0425\u0430\u043a\u043a\u0430\u0440\u044b"
@@ -67,8 +61,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Hakk\u00e2ri"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u5361\u91cc\u7701"
+    "name:ces_x_preferred":[
+        "Hakkarijsk\u00e1 provincie"
     ],
     "name:chv_x_preferred":[
         "\u0425\u0430\u043a\u043a\u044f\u0440\u0438"
@@ -79,8 +73,8 @@
     "name:crh_x_preferred":[
         "Hakkari"
     ],
-    "name:cze_x_preferred":[
-        "Hakkarijsk\u00e1 provincie"
+    "name:cym_x_preferred":[
+        "Hakk\u00e2ri"
     ],
     "name:dan_x_preferred":[
         "Hakkari Provins"
@@ -88,11 +82,14 @@
     "name:deu_x_preferred":[
         "Hakkari"
     ],
+    "name:deu_x_variant":[
+        "Hakk\u00e2ri"
+    ],
     "name:diq_x_preferred":[
         "Hekari"
     ],
-    "name:dut_x_preferred":[
-        "Hakk\u00e2ri"
+    "name:ell_x_preferred":[
+        "\u03a7\u03b1\u03ba\u03ac\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Hakkari"
@@ -107,6 +104,9 @@
     "name:est_x_preferred":[
         "Hakk\u00e2ri provints"
     ],
+    "name:eus_x_preferred":[
+        "Hakkari probintzia"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062d\u06a9\u0627\u0631\u06cc"
     ],
@@ -115,18 +115,6 @@
     ],
     "name:fra_x_preferred":[
         "Hakkari"
-    ],
-    "name:fre_x_preferred":[
-        "Hakkari"
-    ],
-    "name:geo_x_preferred":[
-        "\u10f0\u10d0\u10e5\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Hakk\u00e2ri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03b1\u03ba\u03ac\u03c1\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0a95\u0acd\u0a95\u0abe\u0ab0\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -143,6 +131,9 @@
     "name:hun_x_preferred":[
         "Hakkari"
     ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u056f\u0575\u0561\u0580\u056b"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Hakk\u00e2ri"
     ],
@@ -157,6 +148,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb9\u0c95\u0ccd\u0c95\u0cb0\u0cbf \u0caa\u0ccd\u0cb0\u0cbe\u0ce6\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e5\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud558\uce74\ub9ac \uc8fc"
@@ -176,23 +170,26 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u062d\u0623\u06a9\u0627\u0631\u06cc"
     ],
-    "name:mac_x_preferred":[
-        "\u0425\u0430\u045c\u0430\u0440\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0939\u0915\u094d\u0915\u093e\u0930\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Hakk\u00e2ri"
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u045c\u0430\u0440\u0438"
     ],
     "name:mrj_x_preferred":[
         "\u0425\u0430\u043a\u043a\u044f\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah Hakk\u00e2ri"
     ],
     "name:nan_x_preferred":[
         "Hakk\u00e2ri"
     ],
     "name:nld_x_preferred":[
         "Hakkari"
+    ],
+    "name:nld_x_variant":[
+        "Hakk\u00e2ri"
     ],
     "name:nno_x_preferred":[
         "Provinsen Hakk\u00e2ri"
@@ -203,9 +200,6 @@
     "name:oss_x_preferred":[
         "\u0425\u0430\u043a\u043a\u044f\u0440\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062d\u06a9\u0627\u0631\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062d\u06a9\u0627\u0631\u06cc"
     ],
@@ -215,7 +209,7 @@
     "name:por_x_preferred":[
         "Hakkari"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Hakk\u00e2ri"
     ],
     "name:rus_x_preferred":[
@@ -297,9 +291,6 @@
         "Hakkari\u00e4n"
     ],
     "name:war_x_preferred":[
-        "Hakk\u00e2ri"
-    ],
-    "name:wel_x_preferred":[
         "Hakk\u00e2ri"
     ],
     "name:zho_x_preferred":[
@@ -428,7 +419,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069954,
+    "wof:lastmodified":1561768940,
     "wof:name":"Hakkari",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

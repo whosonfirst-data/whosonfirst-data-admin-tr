@@ -53,16 +53,13 @@
     "name:cat_x_preferred":[
         "\u015eemdinli"
     ],
-    "name:chi_x_preferred":[
-        "\u8b1d\u59c6\u4e01\u5229"
-    ],
     "name:ckb_x_preferred":[
         "\u0634\u06d5\u0645\u0632\u06cc\u0646\u0627\u0646"
     ],
-    "name:diq_x_preferred":[
+    "name:deu_x_preferred":[
         "\u015eemdinli"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "\u015eemdinli"
     ],
     "name:eng_x_preferred":[
@@ -71,10 +68,10 @@
     "name:eng_x_variant":[
         "\u015eemdinli"
     ],
-    "name:fre_x_preferred":[
-        "\u015eemdinli"
+    "name:fas_x_preferred":[
+        "\u0634\u0645\u062f\u06cc\u0646\u0627\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u015eemdinli"
     ],
     "name:hun_x_preferred":[
@@ -86,13 +83,16 @@
     "name:kur_x_preferred":[
         "\u015eemz\u00eenan"
     ],
-    "name:may_x_preferred":[
-        "\u015eemdinli"
-    ],
     "name:mrj_x_preferred":[
         "\u0428\u0435\u043c\u0434\u0438\u043d\u043b\u0438"
     ],
+    "name:msa_x_preferred":[
+        "\u015eemdinli"
+    ],
     "name:nan_x_preferred":[
+        "\u015eemdinli"
+    ],
+    "name:nld_x_preferred":[
         "\u015eemdinli"
     ],
     "name:nno_x_preferred":[
@@ -100,9 +100,6 @@
     ],
     "name:nob_x_preferred":[
         "\u015eemdinli"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0645\u062f\u06cc\u0646\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0634\u0645\u062f\u0646\u0644\u06cc"
@@ -127,6 +124,9 @@
     ],
     "name:vie_x_preferred":[
         "\u015eemdinli"
+    ],
+    "name:zho_x_preferred":[
+        "\u8b1d\u59c6\u4e01\u5229"
     ],
     "qs:name":"\u015eemdinli",
     "qs:name_adm0":"Turkey",
@@ -183,7 +183,7 @@
         }
     ],
     "wof:id":890464591,
-    "wof:lastmodified":1561070601,
+    "wof:lastmodified":1561769264,
     "wof:name":"\u015eemdinli",
     "wof:parent_id":85679501,
     "wof:placetype":"county",

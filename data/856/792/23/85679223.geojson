@@ -31,20 +31,11 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Tekirdagu"
-    ],
     "name:ara_x_preferred":[
         "\u062a\u0643\u064a\u0631\u062f\u0627\u063a"
     ],
-    "name:arm_x_preferred":[
-        "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572"
-    ],
     "name:aze_x_preferred":[
         "T\u0259kirda\u011f ili"
-    ],
-    "name:baq_x_preferred":[
-        "Tekirda\u011f probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u044d\u043a\u0456\u0440\u0434\u0430\u0433"
@@ -70,9 +61,6 @@
     "name:ces_x_preferred":[
         "Tekirda\u011fsk\u00e1 provincie"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u57fa\u5c14\u8fbe\u7701"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
     ],
@@ -82,9 +70,6 @@
     "name:crh_x_preferred":[
         "Tekirda\u011f"
     ],
-    "name:cze_x_preferred":[
-        "Tekirda\u011fsk\u00e1 provincie"
-    ],
     "name:dan_x_preferred":[
         "Tekirda\u011f Province"
     ],
@@ -92,9 +77,6 @@
         "Tekirda\u011f"
     ],
     "name:diq_x_preferred":[
-        "Tekirda\u011f"
-    ],
-    "name:dut_x_preferred":[
         "Tekirda\u011f"
     ],
     "name:ell_x_preferred":[
@@ -125,20 +107,8 @@
     "name:fra_x_preferred":[
         "Tekirda\u011f"
     ],
-    "name:fre_x_preferred":[
-        "Tekirda\u011f"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d4\u10e5\u10d8\u10e0\u10d3\u10d0\u10e6\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Tekirda\u011f"
-    ],
     "name:glg_x_preferred":[
         "Provincia de Tekirda\u011f"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a1\u03b1\u03b9\u03b4\u03b5\u03c3\u03c4\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac7\u0a95\u0abf\u0ab0\u0aa6\u0abe\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -154,6 +124,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572"
     ],
     "name:ind_x_preferred":[
         "Provinsi Tekirda\u011f"
@@ -188,14 +161,8 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u062a\u0623\u06a9\u06cc\u0631\u062f\u0627\u063a"
     ],
-    "name:mac_x_preferred":[
-        "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u0924\u0947\u0915\u093f\u0930\u094d\u0926\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Tekirda\u011f"
     ],
     "name:mkd_x_preferred":[
         "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
@@ -221,9 +188,6 @@
     "name:oss_x_preferred":[
         "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u062a\u06a9\u06cc\u0631\u062f\u0627\u063a"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u06cc\u06a9\u0631\u062f\u0627\u063a"
     ],
@@ -234,9 +198,6 @@
         "Tekirda\u011f"
     ],
     "name:ron_x_preferred":[
-        "Provincia Tekirda\u011f"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Tekirda\u011f"
     ],
     "name:rus_x_preferred":[
@@ -259,6 +220,9 @@
     ],
     "name:sqi_x_preferred":[
         "Provinca Tekirdah"
+    ],
+    "name:sqi_x_variant":[
+        "Tekirdagu"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0435\u043a\u0438\u0440\u0434\u0430\u0433"
@@ -449,7 +413,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069957,
+    "wof:lastmodified":1561768943,
     "wof:name":"Tekirdag",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

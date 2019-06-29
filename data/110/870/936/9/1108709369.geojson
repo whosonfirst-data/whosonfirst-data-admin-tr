@@ -40,13 +40,10 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0634\u064a\u0631\u064a\u0629"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u5e0c\u91cc"
-    ],
     "name:ckb_x_preferred":[
         "\u0642\u0648\u0628\u06cc\u0646"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Be\u015firi"
     ],
     "name:eng_x_preferred":[
@@ -55,10 +52,10 @@
     "name:eng_x_variant":[
         "Be\u015firi"
     ],
-    "name:fre_x_preferred":[
-        "Be\u015firi"
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u0631\u0644\u06cc"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Be\u015firi"
     ],
     "name:ita_x_preferred":[
@@ -67,20 +64,20 @@
     "name:kur_x_preferred":[
         "Qub\u00een"
     ],
-    "name:may_x_preferred":[
-        "Be\u015firi"
-    ],
     "name:mrj_x_preferred":[
         "\u0411\u0435\u0448\u0438\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Be\u015firi"
     ],
     "name:nan_x_preferred":[
         "Be\u015firi"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Be\u015firi"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0634\u0631\u0644\u06cc"
+    "name:nno_x_preferred":[
+        "Be\u015firi"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0628\u06cc\u0634\u0631\u06cc"
@@ -99,6 +96,9 @@
     ],
     "name:vie_x_preferred":[
         "Be\u015firi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u5e0c\u91cc"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -136,7 +136,7 @@
         }
     ],
     "wof:id":1108709369,
-    "wof:lastmodified":1561070574,
+    "wof:lastmodified":1561769140,
     "wof:name":"Be\u015firi",
     "wof:parent_id":85679483,
     "wof:placetype":"county",

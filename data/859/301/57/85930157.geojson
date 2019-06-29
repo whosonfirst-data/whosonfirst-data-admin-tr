@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000204,
-    "geom:area_square_m":1904524.771222,
+    "geom:area_square_m":1904524.771223,
     "geom:bbox":"28.9252416992,41.0606117717,28.9400346686,41.0789984305",
     "geom:latitude":41.070018,
     "geom:longitude":28.932825,
@@ -31,9 +31,6 @@
     "name:aze_x_preferred":[
         "F\u0259n\u0259rbax\u00e7a \u015e\u00fckr\u00fc Saraco\u011flu stadionu"
     ],
-    "name:baq_x_preferred":[
-        "Silahtara\u011fa"
-    ],
     "name:bul_x_preferred":[
         "\u0428\u044e\u043a\u0440\u044e \u0421\u0430\u0440\u0430\u0434\u0436\u043e\u0433\u043b\u0443"
     ],
@@ -43,7 +40,7 @@
     "name:ces_x_preferred":[
         "Fenerbah\u00e7e \u015e\u00fckr\u00fc Saraco\u011flu Stadyumu"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_variant":[
         "Silahtara\u011fa"
     ],
     "name:dan_x_preferred":[
@@ -52,7 +49,7 @@
     "name:deu_x_preferred":[
         "\u015e\u00fckr\u00fc Saraco\u011flu Stad\u0131"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Silahtara\u011fa"
     ],
     "name:eng_x_preferred":[
@@ -61,19 +58,22 @@
     "name:eus_x_preferred":[
         "\u015e\u00fckr\u00fc Saraco\u011flu estadioa"
     ],
+    "name:eus_x_variant":[
+        "Silahtara\u011fa"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u0632\u0634\u06af\u0627\u0647 \u0634\u06a9\u0631\u06cc \u0633\u0631\u0627\u062c\u200c\u0627\u0648\u063a\u0644\u0648"
     ],
     "name:fin_x_preferred":[
         "Silahtara\u011fa"
     ],
-    "name:ger_x_preferred":[
-        "Silahtara\u011fa"
-    ],
     "name:glg_x_preferred":[
         "Silahtara\u011fa"
     ],
     "name:ita_x_preferred":[
+        "Silahtara\u011fa"
+    ],
+    "name:nld_x_preferred":[
         "Silahtara\u011fa"
     ],
     "name:nno_x_preferred":[
@@ -91,13 +91,13 @@
     "name:por_x_preferred":[
         "Silahtara\u011fa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Silahtara\u011fa"
     ],
     "name:sco_x_preferred":[
         "Silahtara\u011fa"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Silahtara\u011fa"
     ],
     "name:slv_x_preferred":[
@@ -156,7 +156,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1514507407,
+    "wof:lastmodified":1561768924,
     "wof:name":"Silahtar Aga",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

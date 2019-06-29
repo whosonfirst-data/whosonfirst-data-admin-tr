@@ -47,7 +47,7 @@
     "name:cat_x_preferred":[
         "Hattusa"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Bo\u011fazkale"
     ],
     "name:dan_x_preferred":[
@@ -56,7 +56,7 @@
     "name:deu_x_preferred":[
         "Hattu\u0161a"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Bo\u011fazkale"
     ],
     "name:eng_x_preferred":[
@@ -71,10 +71,7 @@
     "name:fra_x_preferred":[
         "Hattousa"
     ],
-    "name:fre_x_preferred":[
-        "Bo\u011fazkale"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Bo\u011fazkale"
     ],
     "name:glg_x_preferred":[
@@ -98,20 +95,23 @@
     "name:kor_x_preferred":[
         "\ubcf4\uc544\uc988\uce7c\ub808"
     ],
-    "name:may_x_preferred":[
-        "Bo\u011fazkale"
-    ],
     "name:min_x_preferred":[
         "Bo\u011fazk\u00f6y"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u043e\u0433\u0430\u0437\u043a\u0430\u043b\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Bo\u011fazkale"
+    ],
     "name:nan_x_preferred":[
         "Bo\u011fazkale"
     ],
     "name:nld_x_preferred":[
         "Hattusa"
+    ],
+    "name:nld_x_variant":[
+        "Bo\u011fazkale"
     ],
     "name:pol_x_preferred":[
         "Hattusa"
@@ -201,7 +201,7 @@
         }
     ],
     "wof:id":890461405,
-    "wof:lastmodified":1561070617,
+    "wof:lastmodified":1561769299,
     "wof:name":"Bo\u011fazkale",
     "wof:parent_id":85679339,
     "wof:placetype":"county",

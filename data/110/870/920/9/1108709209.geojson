@@ -40,10 +40,7 @@
     "name:azb_x_preferred":[
         "\u0627\u06cc\u0646\u062c\u06cc\u0631\u0644\u06cc\u0648\u0648\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u56e0\u5409\u723e\u5229\u5967\u74e6"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "\u0130ncirliova"
     ],
     "name:eng_x_preferred":[
@@ -56,10 +53,10 @@
     "name:epo_x_preferred":[
         "\u0130ncirliova"
     ],
-    "name:fre_x_preferred":[
-        "\u0130ncirliova"
+    "name:fas_x_preferred":[
+        "\u0627\u0646\u062c\u06cc\u0631\u0644\u06cc\u0648\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "\u0130ncirliova"
     ],
     "name:ita_x_preferred":[
@@ -68,20 +65,20 @@
     "name:lbe_x_preferred":[
         "\u0418\u043d\u0434\u0436\u0438\u0440\u043b\u0438\u043e\u0432\u0430"
     ],
-    "name:may_x_preferred":[
-        "\u0130ncirliova"
-    ],
     "name:mrj_x_preferred":[
         "\u0418\u043d\u0434\u0436\u0438\u0440\u043b\u0438\u043e\u0432\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "\u0130ncirliova"
     ],
     "name:nan_x_preferred":[
         "\u0130ncirliova"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "\u0130ncirliova"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u062c\u06cc\u0631\u0644\u06cc\u0648\u0627"
+    "name:nno_x_preferred":[
+        "\u0130ncirliova"
     ],
     "name:swa_x_preferred":[
         "\u0130ncirliova"
@@ -94,6 +91,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0130ncirliova"
+    ],
+    "name:zho_x_preferred":[
+        "\u56e0\u5409\u723e\u5229\u5967\u74e6"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -131,7 +131,7 @@
         }
     ],
     "wof:id":1108709209,
-    "wof:lastmodified":1561070587,
+    "wof:lastmodified":1561769160,
     "wof:name":"\u0130ncirliova",
     "wof:parent_id":85679195,
     "wof:placetype":"county",

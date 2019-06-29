@@ -46,9 +46,6 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0648\u063a\u0644\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0575\u0585\u0572\u056c\u0578\u0582"
-    ],
     "name:aze_x_preferred":[
         "Beyo\u011flu"
     ],
@@ -58,14 +55,14 @@
     "name:cat_x_preferred":[
         "Beyo\u011flu"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u4f0a\u5965\u5362"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Beyo\u011flu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Beyo\u011flu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ad\u03b7\u03bf\u03b3\u03bb\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Beyoglu"
@@ -73,20 +70,20 @@
     "name:eng_x_variant":[
         "Beyo\u011flu"
     ],
-    "name:fre_x_preferred":[
-        "Beyo\u011flu"
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u200c\u0627\u0648\u063a\u0644\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Beyo\u011flu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ad\u03b7\u03bf\u03b3\u03bb\u03bf\u03c5"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d9\u05d5\u05d2\u05dc\u05d5"
     ],
     "name:hun_x_preferred":[
         "Beyo\u011flu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0575\u0585\u0572\u056c\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Beyo\u011flu"
@@ -103,16 +100,19 @@
     "name:lav_x_preferred":[
         "Bejolu rajons"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0411\u0435\u0458\u043e\u0433\u043b\u0443"
-    ],
-    "name:may_x_preferred":[
-        "Beyo\u011flu"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0435\u0439\u043e\u0433\u043b\u0443"
     ],
+    "name:msa_x_preferred":[
+        "Beyo\u011flu"
+    ],
     "name:nan_x_preferred":[
+        "Beyo\u011flu"
+    ],
+    "name:nld_x_preferred":[
         "Beyo\u011flu"
     ],
     "name:nno_x_preferred":[
@@ -124,16 +124,13 @@
     "name:oss_x_preferred":[
         "\u0411\u0435\u0439\u043e\u0433\u043b\u0443"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u200c\u0627\u0648\u063a\u0644\u0648"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u06cc\u0648\u06af\u0644\u0648"
     ],
     "name:por_x_preferred":[
         "Beyo\u011flu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Beyo\u011flu"
     ],
     "name:rus_x_preferred":[
@@ -162,6 +159,9 @@
     ],
     "name:vie_x_preferred":[
         "Beyo\u011flu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u4f0a\u5965\u5362"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -199,7 +199,7 @@
         }
     ],
     "wof:id":1108709385,
-    "wof:lastmodified":1561070575,
+    "wof:lastmodified":1561769141,
     "wof:name":"Beyo\u011flu",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

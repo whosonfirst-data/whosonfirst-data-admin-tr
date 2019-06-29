@@ -41,17 +41,11 @@
     "name:arc_x_preferred":[
         "\u0712\u071d\u0722\u0713\u0718\u0720"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u0576\u0563\u0575\u0578\u056c"
-    ],
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0646\u06af\u0648\u0644"
     ],
     "name:aze_x_preferred":[
         "Bing\u00f6l ili"
-    ],
-    "name:baq_x_preferred":[
-        "Bingol probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0456\u043d\u0433\u0451\u043b\u044c"
@@ -77,17 +71,14 @@
     "name:ces_x_preferred":[
         "Bing\u00f6lsk\u00e1 provincie"
     ],
-    "name:chi_x_preferred":[
-        "\u5bbe\u683c\u5c14\u7701"
-    ],
     "name:chv_x_preferred":[
         "\u0411\u0438\u043d\u0433\u0451\u043b\u044c"
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06cc\u0646\u06af\u06c6\u0644"
     ],
-    "name:cze_x_preferred":[
-        "Bing\u00f6lsk\u00e1 provincie"
+    "name:cym_x_preferred":[
+        "Bing\u00f6l"
     ],
     "name:dan_x_preferred":[
         "Bingol"
@@ -98,8 +89,8 @@
     "name:diq_x_preferred":[
         "\u00c7ewlig"
     ],
-    "name:dut_x_preferred":[
-        "Bing\u00f6l"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b9\u03bd\u03b3\u03ba\u03cc\u03bb"
     ],
     "name:eng_x_preferred":[
         "Bingol"
@@ -126,20 +117,8 @@
     "name:fra_x_preferred":[
         "Bing\u00f6l"
     ],
-    "name:fre_x_preferred":[
-        "Bing\u00f6l"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10dc\u10d2\u10dd\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bing\u00f6l"
-    ],
     "name:glg_x_preferred":[
         "Provincia de Bing\u00f6l"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b9\u03bd\u03b3\u03ba\u03cc\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0abf\u0a82\u0a97\u0acb\u0ab2 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -155,6 +134,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u056b\u0576\u0563\u0575\u0578\u056c\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
+    "name:hye_x_variant":[
+        "\u0532\u056b\u0576\u0563\u0575\u0578\u056c"
     ],
     "name:ind_x_preferred":[
         "Provinsi Bing\u00f6l"
@@ -195,14 +177,8 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0628\u06cc\u0646\u06af\u0648\u0659\u0644"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0438\u043d\u0433\u043e\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093f\u0902\u0917\u094b\u0932 \u092a\u094d\u0930\u093e\u0902\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Bing\u00f6l"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u043d\u0433\u043e\u043b"
@@ -228,9 +204,6 @@
     "name:oss_x_preferred":[
         "\u0411\u0438\u043d\u0433\u0451\u043b\u044c"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u06cc\u0646\u06af\u0648\u0644"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0646\u06af\u0648\u0644 \u0635\u0648\u0628\u06c1"
     ],
@@ -241,9 +214,6 @@
         "Bing\u00f6l"
     ],
     "name:ron_x_preferred":[
-        "Provincia Bing\u00f6l"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Bing\u00f6l"
     ],
     "name:rus_x_preferred":[
@@ -322,9 +292,6 @@
         "Bing\u00f6li\u00e4n"
     ],
     "name:war_x_preferred":[
-        "Bing\u00f6l"
-    ],
-    "name:wel_x_preferred":[
         "Bing\u00f6l"
     ],
     "name:zho_x_preferred":[
@@ -450,7 +417,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561488403,
+    "wof:lastmodified":1561768935,
     "wof:name":"Bingol",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u064a\u0641\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u056c\u056b\u057e\u0580\u056b"
-    ],
     "name:aze_x_preferred":[
         "Silivri"
     ],
@@ -34,35 +31,36 @@
     "name:cat_x_preferred":[
         "Silivri"
     ],
-    "name:diq_x_preferred":[
+    "name:deu_x_preferred":[
         "Silivri"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "Silivri"
     ],
     "name:ell_x_preferred":[
         "Selymbria"
     ],
     "name:ell_x_variant":[
-        "Selibria"
+        "Selibria",
+        "\u03a3\u03b7\u03bb\u03c5\u03b2\u03c1\u03af\u03b1"
     ],
     "name:eng_x_preferred":[
         "Siliviri"
     ],
-    "name:fre_x_preferred":[
-        "Silivri"
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u06cc\u0648\u0631\u06cc"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Silivri"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b7\u03bb\u03c5\u03b2\u03c1\u03af\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05dc\u05d9\u05d1\u05e8\u05d9"
     ],
     "name:hun_x_preferred":[
         "Silivri"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056c\u056b\u057e\u0580\u056b"
     ],
     "name:ind_x_preferred":[
         "Silivri"
@@ -76,16 +74,19 @@
     "name:lav_x_preferred":[
         "Silivri rajons"
     ],
-    "name:may_x_preferred":[
-        "Silivri"
-    ],
     "name:min_x_preferred":[
         "Silivri"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0438\u043b\u0438\u0432\u0440\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Silivri"
+    ],
     "name:nan_x_preferred":[
+        "Silivri"
+    ],
+    "name:nld_x_preferred":[
         "Silivri"
     ],
     "name:nob_x_preferred":[
@@ -96,9 +97,6 @@
     ],
     "name:ota_x_variant":[
         "\u0633\u0644\u06cc\u0648\u0631\u06cc"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0644\u06cc\u0648\u0631\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0644\u06cc\u0648\u0631\u06cc"
@@ -173,7 +171,7 @@
         }
     ],
     "wof:id":890464337,
-    "wof:lastmodified":1527734161,
+    "wof:lastmodified":1561769259,
     "wof:name":"Silivri",
     "wof:parent_id":890462765,
     "wof:placetype":"locality",

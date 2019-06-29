@@ -18,13 +18,10 @@
     "name:cat_x_preferred":[
         "Mut"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u7279"
-    ],
-    "name:diq_x_preferred":[
+    "name:deu_x_preferred":[
         "Mut"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "Mut"
     ],
     "name:eng_x_preferred":[
@@ -33,10 +30,10 @@
     "name:epo_x_preferred":[
         "Mut"
     ],
-    "name:fre_x_preferred":[
-        "Mut"
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062a\u060c \u0645\u0631\u0633\u06cc\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mut"
     ],
     "name:ita_x_preferred":[
@@ -45,13 +42,16 @@
     "name:lit_x_preferred":[
         "Mutas"
     ],
-    "name:may_x_preferred":[
-        "Mut"
-    ],
     "name:mrj_x_preferred":[
         "\u041c\u0443\u0442"
     ],
+    "name:msa_x_preferred":[
+        "Mut"
+    ],
     "name:nan_x_preferred":[
+        "Mut"
+    ],
+    "name:nld_x_preferred":[
         "Mut"
     ],
     "name:nno_x_preferred":[
@@ -62,9 +62,6 @@
     ],
     "name:oci_x_preferred":[
         "Mut"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u062a\u060c \u0645\u0631\u0633\u06cc\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u0679"
@@ -86,6 +83,9 @@
     ],
     "name:vie_x_preferred":[
         "Mut"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u7279"
     ],
     "qs:name":"Mut",
     "qs:photos_9r":0,
@@ -120,7 +120,7 @@
         }
     ],
     "wof:id":890463875,
-    "wof:lastmodified":1553816409,
+    "wof:lastmodified":1561769250,
     "wof:name":"Mut",
     "wof:parent_id":890464447,
     "wof:placetype":"locality",

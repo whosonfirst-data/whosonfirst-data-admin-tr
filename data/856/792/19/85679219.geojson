@@ -32,14 +32,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "K\u00ebrklareli"
-    ],
     "name:ara_x_preferred":[
         "\u0642\u0631\u0642\u0644\u0631 \u0627\u064a\u0644\u064a"
-    ],
-    "name:arm_x_preferred":[
-        "\u0554\u0568\u0580\u0584\u056c\u0561\u0580\u0565\u056c\u056b"
     ],
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0631\u062e\u0644\u0627\u0631 \u0627\u0626\u0644\u06cc"
@@ -49,9 +43,6 @@
     ],
     "name:bak_x_preferred":[
         "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u04d9\u043b\u0438"
-    ],
-    "name:baq_x_preferred":[
-        "Kirklareli probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u044b\u0440\u043a\u043b\u0430\u0440\u044d\u043b\u0456"
@@ -77,17 +68,11 @@
     "name:ces_x_preferred":[
         "K\u0131rklarelsk\u00e1 provincie"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u5c14\u514b\u62c9\u96f7\u5229\u7701"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06a9\u0631\u06a9\u0644\u0627\u0631\u06d5\u0644\u06cc"
-    ],
-    "name:cze_x_preferred":[
-        "K\u0131rklarelsk\u00e1 provincie"
     ],
     "name:dan_x_preferred":[
         "K\u0131rklareli Province"
@@ -98,11 +83,11 @@
     "name:diq_x_preferred":[
         "Q\u0131rxlareli"
     ],
-    "name:dut_x_preferred":[
-        "K\u0131rklareli"
-    ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039a\u03b9\u03c1\u03ba\u03bb\u03b1\u03c1\u03b5\u03bb\u03af"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1 \u0395\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03ce\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kirklareli"
@@ -129,18 +114,6 @@
     "name:fra_x_preferred":[
         "K\u0131rklareli"
     ],
-    "name:fre_x_preferred":[
-        "K\u0131rklareli"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10d8\u10e0\u10d9\u10da\u10d0\u10e0\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "K\u0131rklareli"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b1\u03c1\u03ac\u03bd\u03c4\u03b1 \u0395\u03ba\u03ba\u03bb\u03b7\u03c3\u03b9\u03ce\u03bd"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab0\u0acd\u0a95\u0ab2\u0ab0\u0ac7\u0ab2\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -156,6 +129,9 @@
     "name:hye_x_preferred":[
         "\u0554\u0568\u0580\u0584\u056c\u0561\u0580\u0565\u056c\u056b\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
+    "name:hye_x_variant":[
+        "\u0554\u0568\u0580\u0584\u056c\u0561\u0580\u0565\u056c\u056b"
+    ],
     "name:ind_x_preferred":[
         "Provinsi K\u0131rklareli"
     ],
@@ -170,6 +146,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d8\u10e0\u10e5\u10da\u10d0\u10e0\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:kat_x_variant":[
+        "\u10e5\u10d8\u10e0\u10d9\u10da\u10d0\u10e0\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ud0a4\ub974\ud074\ub77c\ub810\ub9ac \uc8fc"
@@ -189,14 +168,8 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0642\u0648\u0631\u0642\u0648\u0631\u0626\u06cc\u0644\u06cc"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0930\u094d\u0915\u094d\u0932\u093e\u0930\u0947\u0932\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah K\u0131rklareli"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
@@ -222,9 +195,6 @@
     "name:oss_x_preferred":[
         "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0642\u0631\u0642\u0644\u0631\u0627\u06cc\u0644\u06cc"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0631\u06a9\u0644\u0627\u0631\u06cc\u0644\u06cc"
     ],
@@ -235,9 +205,6 @@
         "K\u0131rklareli"
     ],
     "name:ron_x_preferred":[
-        "Provincia K\u0131rklareli"
-    ],
-    "name:rum_x_preferred":[
         "Provincia K\u0131rklareli"
     ],
     "name:rus_x_preferred":[
@@ -257,6 +224,9 @@
     ],
     "name:sqi_x_preferred":[
         "Provinca K\u00ebrklareli"
+    ],
+    "name:sqi_x_variant":[
+        "K\u00ebrklareli"
     ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
@@ -441,7 +411,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069955,
+    "wof:lastmodified":1561768941,
     "wof:name":"Kirklareli",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -20,22 +20,13 @@
     "name:afr_x_preferred":[
         "Kayseri"
     ],
-    "name:alb_x_preferred":[
-        "Kajseri"
-    ],
     "name:ara_x_preferred":[
         "\u0642\u064a\u0635\u0631\u064a\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0565\u057d\u0561\u0580\u056b\u0561"
     ],
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0635\u0631\u06cc\u0647"
     ],
     "name:aze_x_preferred":[
-        "Kayseri"
-    ],
-    "name:baq_x_preferred":[
         "Kayseri"
     ],
     "name:bel_x_preferred":[
@@ -62,22 +53,13 @@
     "name:che_x_preferred":[
         "\u041a\u0430\u0439\u0441\u0435\u0440\u0438"
     ],
-    "name:chi_x_preferred":[
-        "\u958b\u585e\u5229"
-    ],
     "name:ckb_x_preferred":[
         "\u0642\u06d5\u06cc\u0633\u06d5\u0631\u06cc"
-    ],
-    "name:cze_x_preferred":[
-        "Kayseri"
     ],
     "name:dan_x_preferred":[
         "Kayseri"
     ],
     "name:deu_x_preferred":[
-        "Kayseri"
-    ],
-    "name:dut_x_preferred":[
         "Kayseri"
     ],
     "name:ell_x_preferred":[
@@ -92,6 +74,9 @@
     "name:est_x_preferred":[
         "Kayseri"
     ],
+    "name:eus_x_preferred":[
+        "Kayseri"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u06cc\u0635\u0631\u06cc\u0647"
     ],
@@ -101,23 +86,11 @@
     "name:fra_x_preferred":[
         "Kayseri"
     ],
-    "name:fre_x_preferred":[
-        "Kayseri"
-    ],
     "name:gag_x_preferred":[
-        "Kayseri"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10d8\u10e1\u10d4\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Kayseri"
     ],
     "name:glg_x_preferred":[
         "Kayseri"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03b9\u03c3\u03ac\u03c1\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0ab8\u0ab0\u0ac0"
@@ -136,6 +109,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u056a\u0561\u0584"
+    ],
+    "name:hye_x_variant":[
+        "\u053f\u0565\u057d\u0561\u0580\u056b\u0561"
     ],
     "name:ile_x_preferred":[
         "Kayseri"
@@ -182,14 +158,8 @@
     "name:lrc_x_preferred":[
         "\u0642\u06cc\u0635\u0631\u06cc\u0647"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0458\u0441\u0435\u0440\u0438"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0947\u0938\u0930\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Kayseri"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0430\u0439\u0441\u0435\u0440\u0438"
@@ -202,6 +172,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u041a\u0430\u0439\u0441\u0435\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Kayseri"
     ],
     "name:nah_x_preferred":[
         "Cesarea de Capadocia"
@@ -227,9 +200,6 @@
     "name:oss_x_preferred":[
         "\u0425\u044a\u0430\u0439\u0441\u0435\u0440\u0438"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u06cc\u0635\u0631\u06cc\u0647"
-    ],
     "name:pms_x_preferred":[
         "Kayseri"
     ],
@@ -242,7 +212,7 @@
     "name:por_x_preferred":[
         "Kayseri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kayseri"
     ],
     "name:rus_x_preferred":[
@@ -262,6 +232,9 @@
     ],
     "name:spa_x_preferred":[
         "Kayseri"
+    ],
+    "name:sqi_x_preferred":[
+        "Kajseri"
     ],
     "name:srd_x_preferred":[
         "Cesarea"
@@ -462,7 +435,7 @@
         }
     ],
     "wof:id":890461481,
-    "wof:lastmodified":1527792995,
+    "wof:lastmodified":1561769297,
     "wof:name":"Kayseri",
     "wof:parent_id":890462393,
     "wof:placetype":"locality",

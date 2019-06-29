@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7395754.494081,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.156271,38.441211,27.156271,38.441211",
     "geom:latitude":38.441211,
     "geom:longitude":27.156271,
@@ -24,19 +24,16 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
-    "name:baq_x_preferred":[
-        "Halkap\u0131nar"
-    ],
     "name:cat_x_preferred":[
         "Halkap\u0131nar"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Halkap\u0131nar"
     ],
     "name:dan_x_preferred":[
         "Halkap\u0131nar"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Halkap\u0131nar"
     ],
     "name:eng_x_colloquial":[
@@ -45,14 +42,14 @@
     "name:eng_x_preferred":[
         "Halkap\u0131nar"
     ],
+    "name:eus_x_preferred":[
+        "Halkap\u0131nar"
+    ],
     "name:fin_x_preferred":[
         "Halkap\u0131nar"
     ],
     "name:fra_x_preferred":[
         "Halkapinar"
-    ],
-    "name:ger_x_preferred":[
-        "Halkap\u0131nar"
     ],
     "name:glg_x_preferred":[
         "Halkap\u0131nar"
@@ -78,13 +75,13 @@
     "name:por_x_preferred":[
         "Halkap\u0131nar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Halkap\u0131nar"
     ],
     "name:sco_x_preferred":[
         "Halkap\u0131nar"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Halkap\u0131nar"
     ],
     "name:slv_x_preferred":[
@@ -122,10 +119,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":46,
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890464249,
-        85679201
+        890464249
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -149,7 +146,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936189,
+    "wof:lastmodified":1561768925,
     "wof:name":"Halkap\u0131nar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

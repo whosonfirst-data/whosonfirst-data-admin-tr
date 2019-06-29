@@ -43,19 +43,16 @@
     "name:azb_x_preferred":[
         "\u0628\u0627\u062a\u062a\u0627\u0644 \u0642\u0627\u0636\u06cc"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u7279\u723e\u52a0\u9f4a"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Battalgazi"
     ],
     "name:eng_x_preferred":[
         "Battalgazi"
     ],
-    "name:fre_x_preferred":[
-        "Battalgazi"
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u062a\u0627\u0644\u200c\u0642\u0627\u0636\u06cc"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Battalgazi"
     ],
     "name:ita_x_preferred":[
@@ -67,13 +64,16 @@
     "name:lit_x_preferred":[
         "Batalgazis"
     ],
-    "name:may_x_preferred":[
-        "Battalgazi"
-    ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0442\u0442\u0430\u043b\u0433\u0430\u0437\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Battalgazi"
+    ],
     "name:nan_x_preferred":[
+        "Battalgazi"
+    ],
+    "name:nld_x_preferred":[
         "Battalgazi"
     ],
     "name:nno_x_preferred":[
@@ -81,9 +81,6 @@
     ],
     "name:nob_x_preferred":[
         "Battalgazi"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u062a\u0627\u0644\u200c\u0642\u0627\u0636\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0628\u0679\u0644\u063a\u0627\u0632\u06cc"
@@ -102,6 +99,9 @@
     ],
     "name:vie_x_preferred":[
         "Battalgazi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u7279\u723e\u52a0\u9f4a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -139,7 +139,7 @@
         }
     ],
     "wof:id":1108709363,
-    "wof:lastmodified":1561070574,
+    "wof:lastmodified":1561769140,
     "wof:name":"Battalgazi",
     "wof:parent_id":85679309,
     "wof:placetype":"county",

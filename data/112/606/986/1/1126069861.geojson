@@ -18,9 +18,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u056c\u0569\u0561\u0576\u0561\u0570\u0574\u0565\u0564"
-    ],
     "name:ava_x_preferred":[
         "\u0421\u0443\u043b\u0442\u0406\u0430\u043d\u0430\u0445\u0406\u043c\u0435\u0442"
     ],
@@ -33,14 +30,17 @@
     "name:cat_x_preferred":[
         "Sultanahmet"
     ],
-    "name:dut_x_preferred":[
-        "Sultanahmet"
-    ],
     "name:eng_x_preferred":[
         "Sultanahmet"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05e1\u05d8\u05e0\u05d1\u05d5\u05dc/\u05d4\u05e2\u05d9\u05e8 \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u056c\u0569\u0561\u0576\u0561\u0570\u0574\u0565\u0564"
+    ],
+    "name:nld_x_preferred":[
+        "Sultanahmet"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0445\u043c\u0435\u0442"
@@ -104,7 +104,7 @@
         }
     ],
     "wof:id":1126069861,
-    "wof:lastmodified":1553816734,
+    "wof:lastmodified":1561769309,
     "wof:name":"Sultanahmet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
