@@ -19,26 +19,23 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0646\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u683c\u5ae9"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "G\u00f6nen"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03c4\u03b5\u03bc\u03ad\u03b1"
     ],
     "name:eng_x_preferred":[
         "G\u00f6nen"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0646\u0646"
+    ],
+    "name:fra_x_preferred":[
         "G\u00f6nen"
     ],
     "name:gag_x_preferred":[
         "G\u00f6nen"
-    ],
-    "name:ger_x_preferred":[
-        "G\u00f6nen"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03c4\u03b5\u03bc\u03ad\u03b1"
     ],
     "name:hun_x_preferred":[
         "G\u00f6nen"
@@ -46,16 +43,19 @@
     "name:ita_x_preferred":[
         "Distretto di G\u00f6nen"
     ],
-    "name:may_x_preferred":[
-        "G\u00f6nen"
-    ],
     "name:min_x_preferred":[
         "G\u00f6nen"
     ],
     "name:mrj_x_preferred":[
         "\u0413\u04e7\u043d\u0435\u043d"
     ],
+    "name:msa_x_preferred":[
+        "G\u00f6nen"
+    ],
     "name:nan_x_preferred":[
+        "G\u00f6nen"
+    ],
+    "name:nld_x_preferred":[
         "G\u00f6nen"
     ],
     "name:nno_x_preferred":[
@@ -64,13 +64,10 @@
     "name:nob_x_preferred":[
         "G\u00f6nen"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0646\u0646"
-    ],
     "name:pol_x_preferred":[
         "G\u00f6nen"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "G\u00f6nen"
     ],
     "name:rus_x_preferred":[
@@ -93,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "G\u00f6nen"
+    ],
+    "name:zho_x_preferred":[
+        "\u683c\u5ae9"
     ],
     "qs:name":"G\u00f6nen",
     "qs:name_adm0":"Turkey",
@@ -132,7 +132,7 @@
         }
     ],
     "wof:id":890461709,
-    "wof:lastmodified":1553816408,
+    "wof:lastmodified":1561769291,
     "wof:name":"G\u00f6nen",
     "wof:parent_id":1108709533,
     "wof:placetype":"locality",

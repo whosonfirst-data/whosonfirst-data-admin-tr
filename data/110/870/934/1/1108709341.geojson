@@ -40,13 +40,10 @@
     "mps:longitude":28.840238,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0570\u0579\u0565\u056c\u056b\u0587\u056c\u0565\u0580"
-    ],
     "name:cat_x_preferred":[
         "Bah\u00e7elievler"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bah\u00e7elievler"
     ],
     "name:eng_x_preferred":[
@@ -55,14 +52,17 @@
     "name:eng_x_variant":[
         "Bah\u00e7elievler"
     ],
-    "name:fre_x_preferred":[
-        "Bah\u00e7elievler"
+    "name:fas_x_preferred":[
+        "\u0628\u0627\u063a\u0686\u06cc\u0644\u06cc\u200c\u0627\u0648\u0644\u0631"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bah\u00e7elievler"
     ],
     "name:hun_x_preferred":[
         "Bah\u00e7elievler"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0565\u0570\u0579\u0565\u056c\u056b\u0587\u056c\u0565\u0580"
     ],
     "name:ita_x_preferred":[
         "Bah\u00e7elievler"
@@ -73,17 +73,17 @@
     "name:lav_x_preferred":[
         "Bah\u010delievleras rajons"
     ],
-    "name:may_x_preferred":[
-        "Bah\u00e7elievler"
-    ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0445\u0447\u0435\u043b\u0438\u044d\u0432\u043b\u0435\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Bah\u00e7elievler"
     ],
     "name:nan_x_preferred":[
         "Bah\u00e7elievler"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0627\u063a\u0686\u06cc\u0644\u06cc\u200c\u0627\u0648\u0644\u0631"
+    "name:nld_x_preferred":[
+        "Bah\u00e7elievler"
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u063a\u0644\u06cc\u0648\u0644\u0631"
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108709341,
-    "wof:lastmodified":1561070587,
+    "wof:lastmodified":1561769159,
     "wof:name":"Bah\u00e7elievler",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

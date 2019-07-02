@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000498,
-    "geom:area_square_m":4646301.986531,
+    "geom:area_square_m":4646301.986527,
     "geom:bbox":"28.9736938477,40.9804473677,28.9984130859,41.0068481112",
     "geom:latitude":40.993802,
     "geom:longitude":28.985307,
@@ -26,9 +26,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u054d\u0578\u0582\u056c\u0569\u0561\u0576\u0561\u0570\u0574\u0565\u0564"
-    ],
     "name:ava_x_preferred":[
         "\u0421\u0443\u043b\u0442\u0406\u0430\u043d\u0430\u0445\u0406\u043c\u0435\u0442"
     ],
@@ -44,9 +41,6 @@
     "name:deu_x_preferred":[
         "Sultanahmet"
     ],
-    "name:dut_x_preferred":[
-        "Sultanahmet"
-    ],
     "name:eng_x_preferred":[
         "Sultanahmet"
     ],
@@ -55,6 +49,12 @@
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d9\u05e1\u05d8\u05e0\u05d1\u05d5\u05dc/\u05d4\u05e2\u05d9\u05e8 \u05d4\u05e2\u05ea\u05d9\u05e7\u05d4"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0578\u0582\u056c\u0569\u0561\u0576\u0561\u0570\u0574\u0565\u0564"
+    ],
+    "name:nld_x_preferred":[
+        "Sultanahmet"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043b\u0442\u0430\u043d\u0430\u0445\u043c\u0435\u0442"
@@ -125,7 +125,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1527638526,
+    "wof:lastmodified":1561768927,
     "wof:name":"Sultan Ahmet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

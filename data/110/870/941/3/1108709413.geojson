@@ -43,17 +43,14 @@
     "name:azb_x_preferred":[
         "\u062c\u0626\u06cc\u0644\u0627\u0646 \u067e\u064a\u0646\u0627\u0631"
     ],
-    "name:chi_x_preferred":[
-        "\u5091\u4f0a\u862d\u73c0\u7d0d\u723e"
-    ],
     "name:ckb_x_preferred":[
         "\u0633\u06d5\u0631\u06cc \u06a9\u0627\u0646\u06cc"
     ],
+    "name:deu_x_preferred":[
+        "Ceylanp\u0131nar"
+    ],
     "name:diq_x_preferred":[
         "Ser\u00ea H\u00eani"
-    ],
-    "name:dut_x_preferred":[
-        "Ceylanp\u0131nar"
     ],
     "name:eng_x_preferred":[
         "Ceylanpinar"
@@ -61,13 +58,13 @@
     "name:eng_x_variant":[
         "Ceylanp\u0131nar"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062c\u06cc\u0644\u0627\u0646\u200c\u067e\u06cc\u0646\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Ceylanp\u0131nar"
     ],
     "name:gag_x_preferred":[
-        "Ceylanp\u0131nar"
-    ],
-    "name:ger_x_preferred":[
         "Ceylanp\u0131nar"
     ],
     "name:ita_x_preferred":[
@@ -76,23 +73,23 @@
     "name:kur_x_preferred":[
         "Ser\u00ea Kaniy\u00ea"
     ],
-    "name:may_x_preferred":[
-        "Ceylanp\u0131nar"
-    ],
     "name:min_x_preferred":[
         "Ceylanp\u0131nar"
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0436\u0435\u0439\u043b\u0430\u043d\u043f\u044b\u043d\u0430\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Ceylanp\u0131nar"
+    ],
     "name:nan_x_preferred":[
+        "Ceylanp\u0131nar"
+    ],
+    "name:nld_x_preferred":[
         "Ceylanp\u0131nar"
     ],
     "name:nno_x_preferred":[
         "Ceylanp\u0131nar"
-    ],
-    "name:per_x_preferred":[
-        "\u062c\u06cc\u0644\u0627\u0646\u200c\u067e\u06cc\u0646\u0627\u0631"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062c\u06cc\u0644\u0646\u067e\u06cc\u0646\u0627\u0631"
@@ -100,7 +97,7 @@
     "name:pol_x_preferred":[
         "Ceylanp\u0131nar"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ceylanp\u0131nar"
     ],
     "name:rus_x_preferred":[
@@ -120,6 +117,9 @@
     ],
     "name:vie_x_preferred":[
         "Ceylanp\u0131nar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u4f0a\u862d\u73c0\u7d0d\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -157,7 +157,7 @@
         }
     ],
     "wof:id":1108709413,
-    "wof:lastmodified":1561070580,
+    "wof:lastmodified":1561769149,
     "wof:name":"Ceylanp\u0131nar",
     "wof:parent_id":85679441,
     "wof:placetype":"county",

@@ -40,13 +40,10 @@
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0631\u06cc\u0642 \u062e\u0627\u0646"
     ],
-    "name:chi_x_preferred":[
-        "\u514b\u52d2\u514b\u6f22"
-    ],
-    "name:diq_x_preferred":[
+    "name:deu_x_preferred":[
         "K\u0131r\u0131khan"
     ],
-    "name:dut_x_preferred":[
+    "name:diq_x_preferred":[
         "K\u0131r\u0131khan"
     ],
     "name:eng_x_preferred":[
@@ -58,20 +55,17 @@
     "name:epo_x_preferred":[
         "K\u0131r\u0131khan"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0642\u0627\u0631\u0627\u062e\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "K\u0131r\u0131khan"
     ],
     "name:gag_x_preferred":[
         "K\u0131r\u0131khan"
     ],
-    "name:ger_x_preferred":[
-        "K\u0131r\u0131khan"
-    ],
     "name:ita_x_preferred":[
         "Distretto di K\u0131r\u0131khan"
-    ],
-    "name:may_x_preferred":[
-        "K\u0131r\u0131khan"
     ],
     "name:min_x_preferred":[
         "K\u0131r\u0131khan"
@@ -79,14 +73,17 @@
     "name:mrj_x_preferred":[
         "\u041a\u044b\u0440\u044b\u043a\u0445\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "K\u0131r\u0131khan"
+    ],
     "name:nan_x_preferred":[
+        "K\u0131r\u0131khan"
+    ],
+    "name:nld_x_preferred":[
         "K\u0131r\u0131khan"
     ],
     "name:nno_x_preferred":[
         "K\u0131r\u0131khan"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0627\u0631\u0627\u062e\u0627\u0646"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06a9\u0631\u06cc\u062e\u0627\u0646"
@@ -114,6 +111,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u0131r\u0131khan"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u52d2\u514b\u6f22"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":1108709603,
-    "wof:lastmodified":1561070586,
+    "wof:lastmodified":1561769157,
     "wof:name":"K\u0131r\u0131khan",
     "wof:parent_id":85679331,
     "wof:placetype":"county",

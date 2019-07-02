@@ -40,38 +40,35 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u0641\u0627\u0631\u0642\u064a\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u054d\u056b\u056c\u057e\u0561\u0576"
-    ],
     "name:bul_x_preferred":[
         "\u0421\u0438\u043b\u0432\u0430\u043d"
     ],
     "name:cat_x_preferred":[
         "Silvan"
     ],
-    "name:chi_x_preferred":[
-        "\u932b\u723e\u842c"
-    ],
     "name:ckb_x_preferred":[
         "\u0641\u0627\u0631\u0642\u06cc\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "Silvan"
     ],
     "name:diq_x_preferred":[
         "S\u0131liwan"
     ],
-    "name:dut_x_preferred":[
-        "Silvan"
-    ],
     "name:eng_x_preferred":[
         "Silvan"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0644\u0648\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
         "Silvan"
     ],
     "name:gag_x_preferred":[
         "Silvan"
     ],
-    "name:ger_x_preferred":[
-        "Silvan"
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u056c\u057e\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Silvan"
@@ -88,23 +85,23 @@
     "name:lit_x_preferred":[
         "Silvanas"
     ],
-    "name:may_x_preferred":[
-        "Silvan"
-    ],
     "name:min_x_preferred":[
         "Silvan"
     ],
     "name:mrj_x_preferred":[
         "\u0421\u0438\u043b\u044c\u0432\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Silvan"
+    ],
     "name:nan_x_preferred":[
+        "Silvan"
+    ],
+    "name:nld_x_preferred":[
         "Silvan"
     ],
     "name:nno_x_preferred":[
         "Silvan"
-    ],
-    "name:per_x_preferred":[
-        "\u0633\u06cc\u0644\u0648\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Silvan"
@@ -129,6 +126,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0644\u0648\u0627\u0646\u060c \u062f\u06cc\u0627\u0631 \u0628\u06a9\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u723e\u842c"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":1108709881,
-    "wof:lastmodified":1561070590,
+    "wof:lastmodified":1561769164,
     "wof:name":"Silvan",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

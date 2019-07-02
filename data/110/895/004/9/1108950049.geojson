@@ -21,23 +21,20 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u0577\u0561\u0576\u0569\u0561\u0577\u0568"
-    ],
     "name:aze_x_preferred":[
         "Ni\u015fanta\u015f\u0131"
-    ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u6851\u5854\u5e0c"
     ],
     "name:eng_x_preferred":[
         "Ni\u015fanta\u015f\u0131"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ni\u015fanta\u015f\u0131"
     ],
     "name:hun_x_preferred":[
         "Ni\u015fanta\u015f\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u0577\u0561\u0576\u0569\u0561\u0577\u0568"
     ],
     "name:ind_x_preferred":[
         "Ni\u015fanta\u015f\u0131"
@@ -48,7 +45,7 @@
     "name:lav_x_preferred":[
         "Ni\u0161anta\u0161i"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u041d\u0438\u0448\u0430\u043d\u0442\u0430\u0448\u0438"
     ],
     "name:por_x_preferred":[
@@ -62,6 +59,9 @@
     ],
     "name:tur_x_preferred":[
         "Ni\u015fanta\u015f\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u6851\u5854\u5e0c"
     ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
@@ -89,7 +89,7 @@
         }
     ],
     "wof:id":1108950049,
-    "wof:lastmodified":1514507338,
+    "wof:lastmodified":1561769137,
     "wof:name":"Nisantas\u0131",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

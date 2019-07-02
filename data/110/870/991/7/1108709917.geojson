@@ -40,10 +40,7 @@
     "name:cat_x_preferred":[
         "Ta\u015fk\u00f6pr\u00fc"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u4ec0\u514b\u666e\u5442"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ta\u015fk\u00f6pr\u00fc"
     ],
     "name:eng_x_preferred":[
@@ -52,29 +49,29 @@
     "name:eng_x_variant":[
         "Ta\u015fk\u00f6pr\u00fc"
     ],
-    "name:fre_x_preferred":[
-        "Ta\u015fk\u00f6pr\u00fc"
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0634\u200c\u06a9\u0648\u067e\u0631\u0648"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Ta\u015fk\u00f6pr\u00fc"
     ],
     "name:ita_x_preferred":[
         "Distretto di Ta\u015fk\u00f6pr\u00fc"
     ],
-    "name:may_x_preferred":[
-        "Ta\u015fk\u00f6pr\u00fc"
-    ],
     "name:mrj_x_preferred":[
         "\u0422\u0430\u0448\u043a\u04e7\u043f\u0440\u04f1"
+    ],
+    "name:msa_x_preferred":[
+        "Ta\u015fk\u00f6pr\u00fc"
     ],
     "name:nan_x_preferred":[
         "Ta\u015fk\u00f6pr\u00fc"
     ],
+    "name:nld_x_preferred":[
+        "Ta\u015fk\u00f6pr\u00fc"
+    ],
     "name:nno_x_preferred":[
         "Ta\u015fk\u00f6pr\u00fc i Kastamonu"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0627\u0634\u200c\u06a9\u0648\u067e\u0631\u0648"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062a\u0627\u0634\u06a9\u0648\u067e\u0631\u0648"
@@ -93,6 +90,9 @@
     ],
     "name:vie_x_preferred":[
         "Ta\u015fk\u00f6pr\u00fc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u4ec0\u514b\u666e\u5442"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -130,7 +130,7 @@
         }
     ],
     "wof:id":1108709917,
-    "wof:lastmodified":1561070576,
+    "wof:lastmodified":1561769143,
     "wof:name":"Ta\u015fk\u00f6pr\u00fc",
     "wof:parent_id":85679259,
     "wof:placetype":"county",

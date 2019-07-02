@@ -36,14 +36,8 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u0637\u064a\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u056c\u0561\u0569\u056b\u0561"
-    ],
     "name:aze_x_preferred":[
         "Malatya ili"
-    ],
-    "name:baq_x_preferred":[
-        "Malatya probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041c\u0430\u043b\u0430\u0442\u044f"
@@ -66,8 +60,8 @@
     "name:ces_x_preferred":[
         "Malatyjsk\u00e1 provincie"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u62c9\u8482\u4e9a\u7701"
+    "name:ces_x_variant":[
+        "Malatya"
     ],
     "name:chv_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u044c\u044f"
@@ -75,7 +69,7 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0645\u06d5\u0644\u06d5\u062f\u06cc"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Malatya"
     ],
     "name:dan_x_preferred":[
@@ -86,9 +80,6 @@
     ],
     "name:diq_x_preferred":[
         "Meletiye"
-    ],
-    "name:dut_x_preferred":[
-        "Malatya"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03bb\u03ac\u03c4\u03b5\u03b9\u03b1\u03c2"
@@ -117,18 +108,6 @@
     "name:fra_x_preferred":[
         "Malatya"
     ],
-    "name:fre_x_preferred":[
-        "Malatya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10da\u10d0\u10d7\u10d8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Malatya"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03bb\u03ac\u03c4\u03b5\u03b9\u03b1\u03c2"
-    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0abe\u0aa4\u0acd\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -143,6 +122,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0544\u0561\u056c\u0561\u0569\u056b\u0561\u0575\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
+    "name:hye_x_variant":[
+        "\u0544\u0561\u056c\u0561\u0569\u056b\u0561"
     ],
     "name:ind_x_preferred":[
         "Provinsi Malatya"
@@ -180,14 +162,8 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0645\u0623\u0644\u0637\u06cc\u06d5"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u043b\u0430\u0442\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u0932\u093e\u0924\u094d\u092f\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Malatya"
     ],
     "name:mkd_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u0438\u0458\u0430"
@@ -213,9 +189,6 @@
     "name:oss_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u044c\u044f"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0645\u0644\u0637\u06cc\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0644\u0627\u062a\u06cc\u0627"
     ],
@@ -226,9 +199,6 @@
         "Malatya"
     ],
     "name:ron_x_preferred":[
-        "Provincia Malatya"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Malatya"
     ],
     "name:rus_x_preferred":[
@@ -298,9 +268,6 @@
         "Malatya"
     ],
     "name:war_x_preferred":[
-        "Malatya"
-    ],
-    "name:wel_x_preferred":[
         "Malatya"
     ],
     "name:zho_x_preferred":[
@@ -430,7 +397,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069950,
+    "wof:lastmodified":1561768934,
     "wof:name":"Malatya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

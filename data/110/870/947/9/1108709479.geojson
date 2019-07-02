@@ -37,38 +37,35 @@
     "mps:longitude":29.285119,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u57c3\u6885\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Emet"
     ],
     "name:eng_x_preferred":[
         "Emet"
     ],
-    "name:fre_x_preferred":[
-        "Emet"
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u062a"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Emet"
     ],
     "name:ita_x_preferred":[
         "Distretto di Emet"
     ],
-    "name:may_x_preferred":[
-        "Emet"
-    ],
     "name:mrj_x_preferred":[
         "\u042d\u043c\u0435\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Emet"
     ],
     "name:nan_x_preferred":[
         "Emet"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Emet"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645\u062a"
+    "name:nno_x_preferred":[
+        "Emet"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u06cc\u0645\u0679"
@@ -84,6 +81,9 @@
     ],
     "name:vie_x_preferred":[
         "Emet"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u6885\u7279"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -121,7 +121,7 @@
         }
     ],
     "wof:id":1108709479,
-    "wof:lastmodified":1561070581,
+    "wof:lastmodified":1561769150,
     "wof:name":"Emet",
     "wof:parent_id":85679283,
     "wof:placetype":"county",

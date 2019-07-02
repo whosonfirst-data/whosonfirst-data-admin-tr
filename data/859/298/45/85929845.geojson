@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000316,
-    "geom:area_square_m":2941814.671388,
+    "geom:area_square_m":2941814.67139,
     "geom:bbox":"28.9970885908,41.0737817636,29.0203857422,41.091772221",
     "geom:latitude":41.083973,
     "geom:longitude":29.010661,
@@ -35,9 +35,6 @@
     "name:ara_x_preferred":[
         "\u0644\u064a\u0641\u064a\u0646\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u053c\u0587\u0565\u0576\u057f"
-    ],
     "name:aze_x_preferred":[
         "Levent"
     ],
@@ -47,25 +44,13 @@
     "name:cat_x_preferred":[
         "Levent"
     ],
-    "name:chi_x_preferred":[
-        "\u840a\u6587\u7279"
-    ],
     "name:deu_x_preferred":[
-        "Levent"
-    ],
-    "name:dut_x_preferred":[
         "Levent"
     ],
     "name:eng_x_preferred":[
         "Levent"
     ],
     "name:fra_x_preferred":[
-        "Levent"
-    ],
-    "name:fre_x_preferred":[
-        "Levent"
-    ],
-    "name:ger_x_preferred":[
         "Levent"
     ],
     "name:hun_x_preferred":[
@@ -83,11 +68,11 @@
     "name:jpn_x_preferred":[
         "\u30ec\u30f4\u30a7\u30f3\u30c8"
     ],
-    "name:mac_x_preferred":[
-        "\u041b\u0435\u0432\u0435\u043d\u0442"
-    ],
     "name:mkd_x_preferred":[
         "\u041b\u0435\u0432\u0435\u043d\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Levent"
     ],
     "name:oci_x_preferred":[
         "Levent"
@@ -109,6 +94,9 @@
     ],
     "name:unk_x_variant":[
         "Levent"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u6587\u7279"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -192,7 +180,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379468,
+    "wof:lastmodified":1561768929,
     "wof:name":"Levent",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

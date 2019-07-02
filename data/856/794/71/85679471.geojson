@@ -35,17 +35,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u064a\u0628\u0648\u0631\u062a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0575\u0562\u0578\u0582\u0580\u0569\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
-    ],
     "name:aze_x_preferred":[
         "Bayburt ili"
     ],
     "name:bak_x_preferred":[
         "\u0411\u0430\u0439\u0431\u0443\u0440\u0442"
-    ],
-    "name:baq_x_preferred":[
-        "Bayburt probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0430\u0439\u0431\u0443\u0440\u0442"
@@ -65,8 +59,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Bayburt"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u4f0a\u5e03\u5c14\u7279\u7701"
+    "name:ces_x_preferred":[
+        "Bayburtsk\u00e1 provincie"
     ],
     "name:chv_x_preferred":[
         "\u0411\u0430\u0439\u0431\u0443\u0440\u0442"
@@ -74,17 +68,20 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0628\u0627\u06cc\u0628\u0648\u0631\u062a"
     ],
-    "name:cze_x_preferred":[
-        "Bayburtsk\u00e1 provincie"
+    "name:cym_x_preferred":[
+        "Bayburt"
     ],
     "name:dan_x_preferred":[
         "Bayburt Province"
     ],
+    "name:deu_x_preferred":[
+        "Bayburt"
+    ],
     "name:diq_x_preferred":[
         "Bayburt"
     ],
-    "name:dut_x_preferred":[
-        "Bayburt"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ca\u03bc\u03c0\u03bf\u03cd\u03c1\u03c4"
     ],
     "name:eng_x_preferred":[
         "Bayburt"
@@ -95,20 +92,17 @@
     "name:est_x_preferred":[
         "Bayburti provints"
     ],
+    "name:eus_x_preferred":[
+        "Bayburt probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u06cc\u0628\u0648\u0631\u062a"
+    ],
     "name:fin_x_preferred":[
         "Bayburtin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bayburt"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d8\u10d1\u10e3\u10e0\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Bayburt"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03c0\u03b1\u03ca\u03bc\u03c0\u03bf\u03cd\u03c1\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0aac\u0ab0\u0acd\u0a9f \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -122,6 +116,9 @@
     "name:hun_x_preferred":[
         "Bayburt"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0575\u0562\u0578\u0582\u0580\u0569\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Bayburt"
     ],
@@ -133,6 +130,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc7\u0cac\u0cac\u0cb0\u0ccd\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d0\u10d8\u10d1\u10e3\u10e0\u10d7\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0430\u0439\u0431\u0443\u0440\u0442"
@@ -158,19 +158,22 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0628\u0627\u06cc\u0628\u0648\u0631\u062a"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0430\u0458\u0431\u0443\u0440\u0442"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u093e\u092f\u092c\u0941\u0930\u094d\u0924 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Bayburt"
+    "name:mkd_x_preferred":[
+        "\u0411\u0430\u0458\u0431\u0443\u0440\u0442"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0439\u0431\u0443\u0440\u0442"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah Bayburt"
+    ],
     "name:nan_x_preferred":[
+        "Bayburt"
+    ],
+    "name:nld_x_preferred":[
         "Bayburt"
     ],
     "name:nno_x_preferred":[
@@ -185,9 +188,6 @@
     "name:pan_x_preferred":[
         "\u0a2c\u0a47\u0a2c\u0a41\u0a30\u0a24 \u0a38\u0a42\u0a2c\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0628\u0627\u06cc\u0628\u0648\u0631\u062a"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u06cc\u0628\u0648\u0631\u062a"
     ],
@@ -197,7 +197,7 @@
     "name:por_x_preferred":[
         "Bayburt"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Bayburt"
     ],
     "name:rus_x_preferred":[
@@ -272,8 +272,8 @@
     "name:war_x_preferred":[
         "Bayburt"
     ],
-    "name:wel_x_preferred":[
-        "Bayburt"
+    "name:zho_x_preferred":[
+        "\u5df4\u4f0a\u5e03\u5c14\u7279\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -398,7 +398,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069953,
+    "wof:lastmodified":1561768938,
     "wof:name":"Bayburt",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

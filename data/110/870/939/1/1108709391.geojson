@@ -40,19 +40,16 @@
     "name:bul_x_preferred":[
         "\u0411\u043e\u0440"
     ],
-    "name:chi_x_preferred":[
-        "\u535a\u723e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bor"
     ],
     "name:eng_x_preferred":[
         "Bor"
     ],
-    "name:fre_x_preferred":[
-        "Bor"
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0631"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bor"
     ],
     "name:hun_x_preferred":[
@@ -64,22 +61,22 @@
     "name:lit_x_preferred":[
         "Boras"
     ],
-    "name:may_x_preferred":[
-        "Bor"
-    ],
     "name:mrj_x_preferred":[
         "\u0411\u043e\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Bor"
+    ],
     "name:nan_x_preferred":[
+        "Bor"
+    ],
+    "name:nld_x_preferred":[
         "Bor"
     ],
     "name:nno_x_preferred":[
         "Bor i Ni\u011fde"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0648\u0631"
-    ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bor"
     ],
     "name:rus_x_preferred":[
@@ -96,6 +93,9 @@
     ],
     "name:vie_x_preferred":[
         "Bor"
+    ],
+    "name:zho_x_preferred":[
+        "\u535a\u723e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108709391,
-    "wof:lastmodified":1561070577,
+    "wof:lastmodified":1561769144,
     "wof:name":"Bor",
     "wof:parent_id":85679453,
     "wof:placetype":"county",

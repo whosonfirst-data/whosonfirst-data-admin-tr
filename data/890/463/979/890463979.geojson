@@ -18,23 +18,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0633\u062a\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0562\u056b\u057d\u057f\u0561\u0576\u056b \u0563\u0561\u057e\u0561\u057c\u0561\u056f"
-    ],
     "name:aze_x_preferred":[
         "\u018flbistan"
     ],
     "name:cat_x_preferred":[
         "Elbistan"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u723e\u6bd4\u65af\u5766"
-    ],
     "name:deu_x_preferred":[
         "Elbistan"
     ],
-    "name:dut_x_preferred":[
-        "Elbistan"
+    "name:ell_x_preferred":[
+        "\u0395\u03bb\u03bc\u03c0\u03b9\u03c3\u03c4\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Elbistan"
@@ -42,20 +36,17 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0628\u0633\u062a\u0627\u0646"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Elbistan"
     ],
     "name:gag_x_preferred":[
         "Elbistan"
     ],
-    "name:ger_x_preferred":[
-        "Elbistan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bb\u03bc\u03c0\u03b9\u03c3\u03c4\u03ac\u03bd"
-    ],
     "name:heb_x_preferred":[
         "\u05d0\u05dc\u05d1\u05d9\u05e1\u05d8\u05df"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0562\u056b\u057d\u057f\u0561\u0576\u056b \u0563\u0561\u057e\u0561\u057c\u0561\u056f"
     ],
     "name:ita_x_preferred":[
         "Elbistan"
@@ -69,16 +60,19 @@
     "name:lit_x_preferred":[
         "Elbistanas"
     ],
-    "name:may_x_preferred":[
-        "Elbistan"
-    ],
     "name:min_x_preferred":[
         "Elbistan"
     ],
     "name:mrj_x_preferred":[
         "\u042d\u043b\u044c\u0431\u0438\u0441\u0442\u0430\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Elbistan"
+    ],
     "name:nan_x_preferred":[
+        "Elbistan"
+    ],
+    "name:nld_x_preferred":[
         "Elbistan"
     ],
     "name:nno_x_preferred":[
@@ -90,16 +84,13 @@
     "name:oci_x_preferred":[
         "Elbistan"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0644\u0628\u0633\u062a\u0627\u0646"
-    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0644\u0628\u0633\u062a\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Elbistan"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Elbistan"
     ],
     "name:rus_x_preferred":[
@@ -116,6 +107,9 @@
     ],
     "name:vie_x_preferred":[
         "Elbistan"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u723e\u6bd4\u65af\u5766"
     ],
     "qs:name":"Elbistan",
     "qs:photos_9r":0,
@@ -150,7 +144,7 @@
         }
     ],
     "wof:id":890463979,
-    "wof:lastmodified":1527729760,
+    "wof:lastmodified":1561769252,
     "wof:name":"Elbistan",
     "wof:parent_id":1108709475,
     "wof:placetype":"locality",

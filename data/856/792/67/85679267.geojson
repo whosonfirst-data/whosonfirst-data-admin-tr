@@ -41,17 +41,11 @@
     "name:arc_x_preferred":[
         "\u0710\u0726\u071d\u0718\u0722"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u0586\u056b\u0578\u0576\u056f\u0561\u0580\u0561\u0570\u056b\u057d\u0561\u0580\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
-    ],
     "name:aze_x_preferred":[
         "Afyonkarahisar ili"
     ],
     "name:bak_x_preferred":[
         "\u0410\u0444\u0439\u043e\u043d\u043a\u0430\u0440\u0430\u04bb\u0438\u0441\u0430\u0440"
-    ],
-    "name:baq_x_preferred":[
-        "Afyonkarahisar probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u0444'\u0451\u043d\u043a\u0430\u0440\u0430\u0445\u0456\u0441\u0430\u0440"
@@ -77,8 +71,8 @@
     "name:ces_x_preferred":[
         "Afyonkarahisar"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u83f2\u6c38\u5361\u62c9\u5e0c\u8428\u5c14\u7701"
+    "name:ces_x_variant":[
+        "Provincie Afyonkarahisar"
     ],
     "name:chv_x_preferred":[
         "\u0410\u0444\u044c\u043e\u043d"
@@ -92,9 +86,6 @@
     "name:cym_x_preferred":[
         "Afyonkarahisar"
     ],
-    "name:cze_x_preferred":[
-        "Provincie Afyonkarahisar"
-    ],
     "name:dan_x_preferred":[
         "Afyonkarahisar Province"
     ],
@@ -102,9 +93,6 @@
         "Afyonkarahisar"
     ],
     "name:diq_x_preferred":[
-        "Afyonkarahisar"
-    ],
-    "name:dut_x_preferred":[
         "Afyonkarahisar"
     ],
     "name:ell_x_preferred":[
@@ -131,20 +119,8 @@
     "name:fra_x_preferred":[
         "Afyonkarahisar"
     ],
-    "name:fre_x_preferred":[
-        "Afyonkarahisar"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e4\u10d8\u10dd\u10dc-\u10e7\u10d0\u10e0\u10d0\u10f0\u10d8\u10e1\u10d0\u10e0\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Afyonkarahisar"
-    ],
     "name:glg_x_preferred":[
         "Provincia de Afyonkarahisar"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03c6\u03b9\u03cc\u03bd \u039a\u03b1\u03c1\u03b1\u03c7\u03b9\u03c3\u03ac\u03c1"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aab\u0acd\u0aaf\u0acb\u0aa8\u0a95\u0abe\u0ab0\u0abe\u0ab9\u0abf\u0ab8\u0abe\u0ab0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -206,14 +182,8 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0623\u0641\u06cc\u0648\u0659\u0646 \u0642\u0623\u0631\u06d5 \u062d\u0623\u0635\u0627\u0631"
     ],
-    "name:mac_x_preferred":[
-        "\u0410\u0444\u0458\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0438\u0441\u0430\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0906\u092b\u094d\u092f\u094b\u0928\u0915\u093e\u0930\u093e\u0939\u093f\u0938\u093e\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah Afyonkarahisar"
     ],
     "name:mkd_x_preferred":[
         "\u0410\u0444\u0458\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0438\u0441\u0430\u0440"
@@ -245,9 +215,6 @@
     "name:pan_x_preferred":[
         "\u0a05\u0a2b\u0a3c\u0a3f\u0a13\u0a28\u0a15\u0a3e\u0a30\u0a3e\u0a39\u0a3f\u0a38\u0a3e\u0a30 \u0a2a\u0a4d\u0a30\u0a3e\u0a02\u0a24"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0641\u06cc\u0648\u0646 \u0642\u0631\u0647\u200c\u062d\u0635\u0627\u0631"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0641\u06cc\u0648\u0646 \u06a9\u0627\u0631\u0627\u062d\u0635\u0627\u0631"
     ],
@@ -258,9 +225,6 @@
         "Afyonkarahisar"
     ],
     "name:ron_x_preferred":[
-        "Provincia Afyonkarahisar"
-    ],
-    "name:rum_x_preferred":[
         "Provincia Afyonkarahisar"
     ],
     "name:rus_x_preferred":[
@@ -336,9 +300,6 @@
         "Afyonkarahisar"
     ],
     "name:war_x_preferred":[
-        "Afyonkarahisar"
-    ],
-    "name:wel_x_preferred":[
         "Afyonkarahisar"
     ],
     "name:xmf_x_preferred":[
@@ -474,7 +435,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069955,
+    "wof:lastmodified":1561768940,
     "wof:name":"Afyonkarahisar",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

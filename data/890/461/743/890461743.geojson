@@ -44,20 +44,17 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0634\u0644\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u056b\u0577\u056c\u056b"
-    ],
     "name:cat_x_preferred":[
         "\u015ei\u015fli"
     ],
-    "name:chi_x_preferred":[
-        "\u5e0c\u4ec0\u5229"
+    "name:deu_x_preferred":[
+        "\u015ei\u015fli"
     ],
     "name:diq_x_preferred":[
         "\u015ei\u015fli"
     ],
-    "name:dut_x_preferred":[
-        "\u015ei\u015fli"
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03c3\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
         "Sisli"
@@ -65,20 +62,17 @@
     "name:eng_x_variant":[
         "\u015ei\u015fli"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0634\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
         "\u015ei\u015fli"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e8\u10d8\u10e8\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "\u015ei\u015fli"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b9\u03c3\u03bb\u03af"
     ],
     "name:hun_x_preferred":[
         "\u015ei\u015fli"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u056b\u0577\u056c\u056b"
     ],
     "name:ind_x_preferred":[
         "\u015ei\u015fli"
@@ -89,16 +83,22 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30b7\u30e5\u30ea"
     ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d8\u10e8\u10da\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8"
+    ],
     "name:lav_x_preferred":[
         "\u0160i\u0161li rajons"
-    ],
-    "name:may_x_preferred":[
-        "\u015ei\u015fli"
     ],
     "name:mrj_x_preferred":[
         "\u0428\u0438\u0448\u043b\u0438"
     ],
+    "name:msa_x_preferred":[
+        "\u015ei\u015fli"
+    ],
     "name:nan_x_preferred":[
+        "\u015ei\u015fli"
+    ],
+    "name:nld_x_preferred":[
         "\u015ei\u015fli"
     ],
     "name:nob_x_preferred":[
@@ -106,9 +106,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0428\u0438\u0448\u043b\u0438"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u06cc\u0634\u0644\u06cc"
     ],
     "name:pnb_x_preferred":[
         "\u0634\u06cc\u0634\u0644\u06cc"
@@ -136,6 +133,9 @@
     ],
     "name:vie_x_preferred":[
         "\u015ei\u015fli"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u4ec0\u5229"
     ],
     "qs:name":"\u015ei\u015fli",
     "qs:name_adm0":"Turkey",
@@ -191,7 +191,7 @@
         }
     ],
     "wof:id":890461743,
-    "wof:lastmodified":1561070617,
+    "wof:lastmodified":1561769300,
     "wof:name":"\u015ei\u015fli",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

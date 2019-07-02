@@ -35,17 +35,11 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0645\u0648\u0634 \u062e\u0627\u0646\u0629"
     ],
-    "name:arm_x_preferred":[
-        "\u0533\u0575\u0578\u0582\u0574\u0575\u0578\u0582\u0577\u056d\u0561\u0576\u0565"
-    ],
     "name:aze_x_preferred":[
         "G\u00fcm\u00fc\u015fxan\u0259 ili"
     ],
     "name:bak_x_preferred":[
         "\u0413\u04af\u043c\u04af\u0448\u0445\u0430\u043d\u0435"
-    ],
-    "name:baq_x_preferred":[
-        "G\u00fcm\u00fc\u015fhane probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0413\u044e\u043c\u044e\u0448\u0445\u0430\u043d\u044d"
@@ -65,8 +59,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de G\u00fcm\u00fc\u015fhane"
     ],
-    "name:chi_x_preferred":[
-        "\u5c45\u7c73\u4ec0\u54c8\u5185\u7701"
+    "name:ces_x_preferred":[
+        "G\u00fcm\u00fc\u015fhansk\u00e1 provincie"
     ],
     "name:chv_x_preferred":[
         "\u0413\u044e\u043c\u044e\u0448\u0445\u0430\u043d\u0435"
@@ -77,14 +71,17 @@
     "name:crh_x_preferred":[
         "G\u00fcm\u00fc\u015fhane"
     ],
-    "name:cze_x_preferred":[
-        "G\u00fcm\u00fc\u015fhansk\u00e1 provincie"
+    "name:cym_x_preferred":[
+        "G\u00fcm\u00fc\u015fhane"
+    ],
+    "name:deu_x_preferred":[
+        "G\u00fcm\u00fc\u015fhane"
     ],
     "name:diq_x_preferred":[
         "Gumu\u015fxane"
     ],
-    "name:dut_x_preferred":[
-        "G\u00fcm\u00fc\u015fhane"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03b9\u03bf\u03c5\u03bc\u03bf\u03cd\u03c3\u03c7\u03b1\u03bd\u03b5"
     ],
     "name:eng_x_preferred":[
         "Gumushane"
@@ -99,26 +96,26 @@
     "name:est_x_preferred":[
         "G\u00fcm\u00fc\u015fhane provints"
     ],
+    "name:eus_x_preferred":[
+        "G\u00fcm\u00fc\u015fhane probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0648\u0645\u0648\u0634\u200c\u062e\u0627\u0646\u0647"
+    ],
     "name:fin_x_preferred":[
         "G\u00fcm\u00fc\u015fhanen maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "G\u00fcm\u00fc\u015fhane"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10db\u10e3\u10e8\u10f0\u10d0\u10dc\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "G\u00fcm\u00fc\u015fhane"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0393\u03ba\u03b9\u03bf\u03c5\u03bc\u03bf\u03cd\u03c3\u03c7\u03b1\u03bd\u03b5"
     ],
     "name:hif_x_preferred":[
         "G\u00fcm\u00fc\u015fhane Praant"
     ],
     "name:hun_x_preferred":[
         "G\u00fcm\u00fc\u015fhane"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0575\u0578\u0582\u0574\u0575\u0578\u0582\u0577\u056d\u0561\u0576\u0565"
     ],
     "name:ind_x_preferred":[
         "Provinsi G\u00fcm\u00fc\u015fhane"
@@ -128,6 +125,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ae\u30e5\u30df\u30e5\u30b7\u30e5\u30cf\u30fc\u30cd\u770c"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d2\u10e3\u10db\u10e3\u10e8\u10f0\u10d0\u10dc\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kin_x_preferred":[
         "Intara ya G\u00fcm\u00fc\u015fhane"
@@ -147,19 +147,22 @@
     "name:lrc_x_preferred":[
         "\u06af\u0648\u0645\u0648\u0634 \u062e\u0627\u0646\u0647"
     ],
-    "name:mac_x_preferred":[
-        "\u0403\u0443\u043c\u0443\u0448\u0445\u0430\u043d\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u092f\u0941\u092e\u0941\u0936\u093e\u0928\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah G\u00fcm\u00fc\u015fhane"
+    "name:mkd_x_preferred":[
+        "\u0403\u0443\u043c\u0443\u0448\u0445\u0430\u043d\u0435"
     ],
     "name:mrj_x_preferred":[
         "\u0413\u04f1\u043c\u04f1\u0448\u0445\u0430\u043d\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah G\u00fcm\u00fc\u015fhane"
+    ],
     "name:nan_x_preferred":[
+        "G\u00fcm\u00fc\u015fhane"
+    ],
+    "name:nld_x_preferred":[
         "G\u00fcm\u00fc\u015fhane"
     ],
     "name:nno_x_preferred":[
@@ -171,9 +174,6 @@
     "name:oss_x_preferred":[
         "\u0413\u044e\u043c\u044e\u0448\u0445\u0430\u043d\u0435"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06af\u0648\u0645\u0648\u0634\u200c\u062e\u0627\u0646\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06af\u0648\u0645\u0648\u0634\u062e\u0627\u0646\u06d2"
     ],
@@ -183,7 +183,7 @@
     "name:por_x_preferred":[
         "G\u00fcm\u00fc\u015fhane"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia G\u00fcm\u00fc\u015fhane"
     ],
     "name:rus_x_preferred":[
@@ -249,8 +249,8 @@
     "name:war_x_preferred":[
         "G\u00fcm\u00fc\u015fhane"
     ],
-    "name:wel_x_preferred":[
-        "G\u00fcm\u00fc\u015fhane"
+    "name:zho_x_preferred":[
+        "\u5c45\u7c73\u4ec0\u54c8\u5185\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -372,7 +372,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561488410,
+    "wof:lastmodified":1561768937,
     "wof:name":"Gumushane",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

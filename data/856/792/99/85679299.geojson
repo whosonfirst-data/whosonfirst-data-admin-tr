@@ -32,23 +32,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Provinca Ellaz\u00eb"
-    ],
     "name:ara_x_preferred":[
         "\u0625\u0644\u0627\u0632\u063a"
-    ],
-    "name:arm_x_preferred":[
-        "\u053d\u0561\u0580\u0562\u0565\u0580\u0564\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:aze_x_preferred":[
         "Elaz\u0131\u011f ili"
     ],
     "name:bak_x_preferred":[
         "\u042d\u043b\u0430\u0437\u044b\u0433"
-    ],
-    "name:baq_x_preferred":[
-        "Elaz\u0131\u011f probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u043b\u044f\u0437\u044b\u0433"
@@ -71,8 +62,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia d'El\u00e2z\u0131\u011f"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u62c9\u6cfd\u7701"
+    "name:ces_x_preferred":[
+        "El\u00e2z\u0131\u011f"
     ],
     "name:chv_x_preferred":[
         "\u042d\u043b\u044f\u0437\u044b\u0433"
@@ -80,17 +71,17 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062e\u0627\u0631\u067e\u06ce\u062a"
     ],
-    "name:cze_x_preferred":[
-        "El\u00e2z\u0131\u011f"
-    ],
     "name:dan_x_preferred":[
         "Elaz\u0131\u011f Province"
+    ],
+    "name:deu_x_preferred":[
+        "Elaz\u0131\u011f"
     ],
     "name:diq_x_preferred":[
         "Xarp\u00eat"
     ],
-    "name:dut_x_preferred":[
-        "Elaz\u0131\u011f"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03bb\u03b1\u03b6\u03af\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Elazig"
@@ -105,20 +96,17 @@
     "name:est_x_preferred":[
         "Elaz\u0131\u011fi provints"
     ],
+    "name:eus_x_preferred":[
+        "Elaz\u0131\u011f probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0627\u0632\u06cc\u063a"
+    ],
     "name:fin_x_preferred":[
         "Elaz\u0131\u011fin maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "El\u00e2z\u0131\u011f"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10da\u10d0\u10d6\u10d8\u10e6\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Elaz\u0131\u011f"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03bb\u03b1\u03b6\u03af\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0ab2\u0abe\u0a9d\u0abf\u0a97 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -135,6 +123,9 @@
     "name:hun_x_preferred":[
         "Elaz\u0131\u011f"
     ],
+    "name:hye_x_preferred":[
+        "\u053d\u0561\u0580\u0562\u0565\u0580\u0564\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
     "name:ind_x_preferred":[
         "Provinsi El\u00e2z\u0131\u011f"
     ],
@@ -146,6 +137,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0c8e\u0cb2\u0cbe\u0c9d\u0cbf\u0c97\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10da\u10d0\u10d6\u10d8\u10e6\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc5d8\ub77c\uc9c0 \uc8fc"
@@ -165,20 +159,23 @@
     "name:lrc_x_preferred":[
         "\u0622\u0644\u0627\u0632\u06cc\u063a"
     ],
-    "name:mac_x_preferred":[
-        "\u0415\u043b\u0430\u0437\u0438\u0433"
-    ],
     "name:mar_x_preferred":[
         "\u090f\u0932\u093e\u091d\u0917 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah El\u00e2z\u0131\u011f"
+    "name:mkd_x_preferred":[
+        "\u0415\u043b\u0430\u0437\u0438\u0433"
     ],
     "name:mrj_x_preferred":[
         "\u042d\u043b\u044f\u0437\u044b\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah El\u00e2z\u0131\u011f"
+    ],
     "name:nan_x_preferred":[
         "El\u00e2z\u0131\u011f"
+    ],
+    "name:nld_x_preferred":[
+        "Elaz\u0131\u011f"
     ],
     "name:nno_x_preferred":[
         "Provinsen El\u00e2z\u0131\u011f"
@@ -189,9 +186,6 @@
     "name:oss_x_preferred":[
         "\u042d\u043b\u0430\u0437\u044b\u0433"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0627\u0644\u0627\u0632\u06cc\u063a"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u06cc\u0644\u0627\u0632\u063a"
     ],
@@ -201,7 +195,7 @@
     "name:por_x_preferred":[
         "Elaz\u0131\u011f"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Elaz\u0131\u011f"
     ],
     "name:rus_x_preferred":[
@@ -215,6 +209,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Elaz\u0131\u011f"
+    ],
+    "name:sqi_x_preferred":[
+        "Provinca Ellaz\u00eb"
     ],
     "name:srp_x_preferred":[
         "\u0415\u043b\u0430\u0437\u0438\u0433"
@@ -275,6 +272,9 @@
     ],
     "name:war_x_preferred":[
         "El\u00e2z\u0131\u011f"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u62c9\u6cfd\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -400,7 +400,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069956,
+    "wof:lastmodified":1561768942,
     "wof:name":"Elazig",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -32,23 +32,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Qytahia"
-    ],
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0627\u0647\u064a\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0554\u0575\u0578\u0582\u0569\u0561\u0570\u056b\u0561\u0575\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:aze_x_preferred":[
         "K\u00fctahya ili"
     ],
     "name:bak_x_preferred":[
         "\u041a\u044e\u0442\u0430\u04bb\u044a\u044f"
-    ],
-    "name:baq_x_preferred":[
-        "Kutahya probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u044e\u0442\u0430\u0445'\u044f"
@@ -75,17 +66,11 @@
     "name:ces_x_preferred":[
         "K\u00fctahyansk\u00e1 provincie"
     ],
-    "name:chi_x_preferred":[
-        "\u5c48\u5854\u5e0c\u4e9a\u7701"
-    ],
     "name:chv_x_preferred":[
         "\u041a\u04f3\u0442\u0430\u0445\u044c\u044f"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u06a9\u0648\u062a\u0627\u06be\u06cc\u0627"
-    ],
-    "name:cze_x_preferred":[
-        "K\u00fctahyansk\u00e1 provincie"
     ],
     "name:dan_x_preferred":[
         "K\u00fctahya Province"
@@ -94,9 +79,6 @@
         "K\u00fctahya"
     ],
     "name:diq_x_preferred":[
-        "K\u00fctahya"
-    ],
-    "name:dut_x_preferred":[
         "K\u00fctahya"
     ],
     "name:ell_x_preferred":[
@@ -127,18 +109,6 @@
     "name:fra_x_preferred":[
         "K\u00fctahya"
     ],
-    "name:fre_x_preferred":[
-        "K\u00fctahya"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10e3\u10d7\u10d0\u10f0\u10d8\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "K\u00fctahya"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039a\u03b9\u03bf\u03c5\u03c4\u03ac\u03c7\u03b5\u03b9\u03b1\u03c2"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac1\u0aa4\u0abe\u0ab9\u0acd\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -153,6 +123,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0554\u0575\u0578\u0582\u0569\u0561\u0570\u0575\u0561"
+    ],
+    "name:hye_x_variant":[
+        "\u0554\u0575\u0578\u0582\u0569\u0561\u0570\u056b\u0561\u0575\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Provinsi K\u00fctahya"
@@ -190,14 +163,8 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u06a9\u0648\u0659\u062a\u0627\u06be\u06cc\u06d5"
     ],
-    "name:mac_x_preferred":[
-        "\u040c\u0443\u0442\u0430\u0445\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0941\u0924\u093e\u0939\u094d\u092f\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Wilayah K\u00fctahya"
     ],
     "name:mkd_x_preferred":[
         "\u040c\u0443\u0442\u0430\u0445\u0438\u0458\u0430"
@@ -223,9 +190,6 @@
     "name:oss_x_preferred":[
         "\u041a\u044e\u0442\u0430\u0445\u044c\u044f"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u06a9\u0648\u062a\u0627\u0647\u06cc\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0648\u062a\u0627\u06c1\u06cc\u06c1"
     ],
@@ -236,9 +200,6 @@
         "K\u00fctahya"
     ],
     "name:ron_x_preferred":[
-        "Provincia K\u00fctahya"
-    ],
-    "name:rum_x_preferred":[
         "Provincia K\u00fctahya"
     ],
     "name:rus_x_preferred":[
@@ -440,7 +401,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561488394,
+    "wof:lastmodified":1561768943,
     "wof:name":"Kutahya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

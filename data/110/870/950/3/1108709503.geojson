@@ -46,9 +46,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0627\u062a\u062d"
     ],
-    "name:arm_x_preferred":[
-        "\u0556\u0561\u0569\u056b\u0570"
-    ],
     "name:ava_x_preferred":[
         "\u0424\u0430\u0442\u0438\u0445\u0406"
     ],
@@ -58,32 +55,29 @@
     "name:cat_x_preferred":[
         "Fatih"
     ],
-    "name:chi_x_preferred":[
-        "\u6cd5\u63d0\u8d6b"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Fatih"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a6\u03b1\u03c4\u03af\u03c7"
     ],
     "name:eng_x_preferred":[
         "Fatih"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0641\u0627\u062a\u062d"
+    ],
+    "name:fra_x_preferred":[
         "Fatih"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e4\u10d0\u10d7\u10d8\u10f0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Fatih"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a6\u03b1\u03c4\u03af\u03c7"
     ],
     "name:heb_x_preferred":[
         "\u05e4\u05d0\u05ea\u05d9\u05d7"
     ],
     "name:hun_x_preferred":[
         "Fatih"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0569\u056b\u0570"
     ],
     "name:ind_x_preferred":[
         "Fatih"
@@ -94,6 +88,9 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30c6\u30a3"
     ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10d7\u10d8\u10f0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud30c\ud2f0\ud750"
     ],
@@ -103,16 +100,19 @@
     "name:lav_x_preferred":[
         "Fatihas rajons"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0424\u0430\u0442\u0438\u0445"
-    ],
-    "name:may_x_preferred":[
-        "Fatih"
     ],
     "name:mrj_x_preferred":[
         "\u0424\u0430\u0442\u0438\u0445"
     ],
+    "name:msa_x_preferred":[
+        "Fatih"
+    ],
     "name:nan_x_preferred":[
+        "Fatih"
+    ],
+    "name:nld_x_preferred":[
         "Fatih"
     ],
     "name:nob_x_preferred":[
@@ -120,9 +120,6 @@
     ],
     "name:oss_x_preferred":[
         "\u0424\u0430\u0442\u0438\u0445"
-    ],
-    "name:per_x_preferred":[
-        "\u0641\u0627\u062a\u062d"
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0627\u062a\u062d"
@@ -150,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Fatih"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u63d0\u8d6b"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -187,7 +187,7 @@
         }
     ],
     "wof:id":1108709503,
-    "wof:lastmodified":1561070583,
+    "wof:lastmodified":1561769153,
     "wof:name":"Fatih",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

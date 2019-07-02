@@ -43,10 +43,7 @@
     "name:cat_x_preferred":[
         "Mustafakemalpa\u015fa"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u65af\u5854\u6cd5\u51f1\u99ac\u723e\u5e15\u6c99"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mustafakemalpa\u015fa"
     ],
     "name:eng_x_preferred":[
@@ -56,10 +53,10 @@
         "Mustafa Kemalpa\u015fa",
         "Mustafakemalpa\u015fa"
     ],
-    "name:fre_x_preferred":[
-        "Mustafakemalpa\u015fa"
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u0637\u0641\u06cc \u06a9\u0645\u0627\u0644 \u067e\u0627\u0634\u0627"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Mustafakemalpa\u015fa"
     ],
     "name:ita_x_preferred":[
@@ -68,23 +65,23 @@
     "name:jpn_x_preferred":[
         "\u30e0\u30b9\u30bf\u30d5\u30a1\u30b1\u30de\u30eb\u30d1\u30b7\u30e3"
     ],
-    "name:may_x_preferred":[
-        "Mustafakemalpa\u015fa"
-    ],
     "name:min_x_preferred":[
         "Mustafakemalpa\u015fa"
     ],
     "name:mrj_x_preferred":[
         "\u041c\u0443\u0441\u0442\u0430\u0444\u0430\u043a\u0435\u043c\u0430\u043b\u044c\u043f\u0430\u0448\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Mustafakemalpa\u015fa"
+    ],
     "name:nan_x_preferred":[
+        "Mustafakemalpa\u015fa"
+    ],
+    "name:nld_x_preferred":[
         "Mustafakemalpa\u015fa"
     ],
     "name:nno_x_preferred":[
         "Mustafakemalpa\u015fa"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0635\u0637\u0641\u06cc \u06a9\u0645\u0627\u0644 \u067e\u0627\u0634\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0645\u0635\u0637\u0641\u0627 \u06a9\u0645\u0627\u0644 \u067e\u0627\u0634\u0627"
@@ -106,6 +103,9 @@
     ],
     "name:vie_x_preferred":[
         "Mustafakemalpa\u015fa"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u65af\u5854\u6cd5\u51f1\u99ac\u723e\u5e15\u6c99"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1108709701,
-    "wof:lastmodified":1561070580,
+    "wof:lastmodified":1561769148,
     "wof:name":"M.Kemalpa\u015fa",
     "wof:parent_id":85679231,
     "wof:placetype":"county",

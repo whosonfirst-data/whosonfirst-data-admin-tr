@@ -32,14 +32,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":7.0,
-    "name:alb_x_preferred":[
-        "Shanll\u00eburfa"
-    ],
     "name:ara_x_preferred":[
         "\u0634\u0627\u0646\u0644\u064a \u0623\u0648\u0631\u0641\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0547\u0561\u0576\u056c\u0568\u0578\u0582\u0580\u0586\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0627\u0646\u0644\u064a\u0648\u0631\u0641\u0627"
@@ -52,9 +46,6 @@
     ],
     "name:aze_x_variant":[
         "\u015eanl\u0131urfa"
-    ],
-    "name:baq_x_preferred":[
-        "\u015eanl\u0131urfa probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0428\u0430\u043d\u043b\u044b\u045e\u0440\u0444\u0430"
@@ -77,17 +68,14 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de \u015eanl\u0131urfa"
     ],
-    "name:chi_x_preferred":[
-        "\u5c1a\u52d2\u4e4c\u5c14\u6cd5\u7701"
+    "name:ces_x_preferred":[
+        "\u015eanl\u0131urfsk\u00e1 provincie"
     ],
     "name:chv_x_preferred":[
         "\u0428\u0430\u043d\u043b\u044b\u0443\u0440\u0444\u0430"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0695\u062d\u0627"
-    ],
-    "name:cze_x_preferred":[
-        "\u015eanl\u0131urfsk\u00e1 provincie"
     ],
     "name:dan_x_preferred":[
         "\u015eanl\u0131urfa Province"
@@ -98,8 +86,8 @@
     "name:diq_x_preferred":[
         "R\u0131ha"
     ],
-    "name:dut_x_preferred":[
-        "\u015eanl\u0131urfa"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b1\u03bd\u03bb\u03b9\u03bf\u03cd\u03c1\u03c6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Sanliurfa"
@@ -114,26 +102,20 @@
     "name:est_x_preferred":[
         "\u015eanl\u0131urfa provints"
     ],
+    "name:eus_x_preferred":[
+        "\u015eanl\u0131urfa probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0627\u0646\u0644\u06cc\u200c\u0627\u0648\u0631\u0641\u0647"
+    ],
     "name:fin_x_preferred":[
         "\u015eanl\u0131urfan maakunta"
     ],
     "name:fra_x_preferred":[
         "\u015eanl\u0131urfa"
     ],
-    "name:fre_x_preferred":[
-        "\u015eanl\u0131urfa"
-    ],
     "name:gag_x_preferred":[
         "\u015eann\u0131urfa"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e3\u10e0\u10e4\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "\u015eanl\u0131urfa"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u03a3\u03b1\u03bd\u03bb\u03b9\u03bf\u03cd\u03c1\u03c6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0ab2\u0ac1\u0ab0\u0acd\u0aab\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -147,6 +129,9 @@
     "name:hun_x_preferred":[
         "\u015eanl\u0131urfa"
     ],
+    "name:hye_x_preferred":[
+        "\u0547\u0561\u0576\u056c\u0568\u0578\u0582\u0580\u0586\u0561"
+    ],
     "name:ind_x_preferred":[
         "Provinsi \u015eanl\u0131urfa"
     ],
@@ -158,6 +143,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0ccd\u0caf\u0cbe\u0ca8\u0ccd\u0cb2\u0cbf\u0cb0\u0ccd\u0cab\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e3\u10e0\u10e4\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc0e8\ub9ac\uc6b0\ub974\ud30c \uc8fc"
@@ -177,17 +165,17 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0634\u0627\u0646\u0644\u06cc \u0626\u0648\u0631\u0641\u06d5"
     ],
-    "name:mac_x_preferred":[
-        "\u0428\u0430\u043d\u043b\u0443\u0440\u0444\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0936\u093e\u0928\u0932\u0941\u0930\u094d\u092b\u093e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah \u015eanl\u0131urfa"
+    "name:mkd_x_preferred":[
+        "\u0428\u0430\u043d\u043b\u0443\u0440\u0444\u0430"
     ],
     "name:mrj_x_preferred":[
         "\u0428\u0430\u043d\u043b\u044b\u0443\u0440\u0444\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Wilayah \u015eanl\u0131urfa"
     ],
     "name:nan_x_preferred":[
         "\u015eanl\u0131urfa"
@@ -204,9 +192,6 @@
     "name:oss_x_preferred":[
         "\u0428\u0430\u043d\u043b\u044b\u0443\u0440\u0444\u00e6"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0634\u0627\u0646\u0644\u06cc\u200c\u0627\u0648\u0631\u0641\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0634\u0627\u0646\u0644\u06cc \u0639\u0631\u0641\u0627"
     ],
@@ -216,7 +201,7 @@
     "name:por_x_preferred":[
         "\u015eanl\u0131urfa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia \u0218anl\u0131urfa"
     ],
     "name:rus_x_preferred":[
@@ -233,6 +218,9 @@
     ],
     "name:spa_x_preferred":[
         "Provincia de Sanliurfa"
+    ],
+    "name:sqi_x_preferred":[
+        "Shanll\u00eburfa"
     ],
     "name:srp_x_preferred":[
         "\u0428\u0430\u043d\u043b\u0438\u0458\u0443\u0440\u0444\u0430"
@@ -293,6 +281,9 @@
     ],
     "name:war_x_preferred":[
         "\u015eanl\u0131urfa"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c1a\u52d2\u4e4c\u5c14\u6cd5\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -417,7 +408,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069953,
+    "wof:lastmodified":1561768938,
     "wof:name":"Sanliurfa",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -37,19 +37,13 @@
     "mps:longitude":32.242808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u8036\u5c3c\u5091"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Yenice"
     ],
     "name:eng_x_preferred":[
         "Yenice"
     ],
-    "name:fre_x_preferred":[
-        "Yenice"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Yenice"
     ],
     "name:ita_x_preferred":[
@@ -58,17 +52,20 @@
     "name:lit_x_preferred":[
         "Jenid\u017e\u0117"
     ],
-    "name:may_x_preferred":[
-        "Yenice"
-    ],
     "name:mrj_x_preferred":[
         "\u0415\u043d\u0438\u0434\u0436\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "Yenice"
     ],
     "name:nan_x_preferred":[
         "Yenice"
     ],
     "name:nep_x_preferred":[
         "\u092f\u0947\u0928\u093f\u0938"
+    ],
+    "name:nld_x_preferred":[
+        "Yenice"
     ],
     "name:nno_x_preferred":[
         "Yenice i Karab\u00fck"
@@ -87,6 +84,9 @@
     ],
     "name:vie_x_preferred":[
         "Yenice"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u5c3c\u5091"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108709987,
-    "wof:lastmodified":1561070576,
+    "wof:lastmodified":1561769142,
     "wof:name":"Yenice",
     "wof:parent_id":85679537,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000051,
-    "geom:area_square_m":477644.606481,
+    "geom:area_square_m":477644.606482,
     "geom:bbox":"28.9434814453,41.0337871271,28.9544677734,41.0400022596",
     "geom:latitude":41.036665,
     "geom:longitude":28.949432,
@@ -25,16 +25,10 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u056c\u0561\u0569"
-    ],
     "name:cat_x_preferred":[
         "Balat"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u62c9\u7279"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Balat"
     ],
     "name:eng_x_colloquial":[
@@ -43,14 +37,17 @@
     "name:eng_x_preferred":[
         "Balat"
     ],
-    "name:fre_x_preferred":[
-        "Balat"
+    "name:fas_x_preferred":[
+        "\u0628\u0644\u0627\u0637"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Balat"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05dc\u05d8"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u056c\u0561\u0569"
     ],
     "name:ind_x_preferred":[
         "Balat"
@@ -64,14 +61,14 @@
     "name:lad_x_preferred":[
         "Balat"
     ],
+    "name:nld_x_preferred":[
+        "Balat"
+    ],
     "name:nob_x_preferred":[
         "Balat"
     ],
     "name:oci_x_preferred":[
         "Balat"
-    ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0627\u0637"
     ],
     "name:pol_x_preferred":[
         "Balat"
@@ -97,6 +94,9 @@
     ],
     "name:unk_x_variant":[
         "Balat Karaba\u015f"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u62c9\u7279"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -151,7 +151,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553814914,
+    "wof:lastmodified":1561768926,
     "wof:name":"Balat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

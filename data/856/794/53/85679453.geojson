@@ -35,14 +35,8 @@
     "name:ara_x_preferred":[
         "\u0646\u064a\u062f\u0627"
     ],
-    "name:arm_x_preferred":[
-        "\u0546\u056b\u0572\u0564\u0565"
-    ],
     "name:aze_x_preferred":[
         "Ni\u011fd\u0259 ili"
-    ],
-    "name:baq_x_preferred":[
-        "Ni\u011fde probintzia"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041d\u0456\u0439\u0434\u044d"
@@ -65,8 +59,8 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Ni\u011fde"
     ],
-    "name:chi_x_preferred":[
-        "\u5c3c\u4ee3\u7701"
+    "name:ces_x_preferred":[
+        "Ni\u011fdsk\u00e1 provincie"
     ],
     "name:chv_x_preferred":[
         "\u041d\u0438\u0433\u0434\u0435"
@@ -77,17 +71,17 @@
     "name:crh_x_preferred":[
         "Ni\u011fde"
     ],
-    "name:cze_x_preferred":[
-        "Ni\u011fdsk\u00e1 provincie"
-    ],
     "name:dan_x_preferred":[
         "Ni\u011fde Province"
+    ],
+    "name:deu_x_preferred":[
+        "Ni\u011fde"
     ],
     "name:diq_x_preferred":[
         "Ni\u011fda"
     ],
-    "name:dut_x_preferred":[
-        "Ni\u011fde"
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039d\u03af\u03b3\u03b4\u03b7\u03c2"
     ],
     "name:eng_x_preferred":[
         "Nigde"
@@ -98,20 +92,17 @@
     "name:est_x_preferred":[
         "Ni\u011fde provints"
     ],
+    "name:eus_x_preferred":[
+        "Ni\u011fde probintzia"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u0646\u06cc\u063a\u062f\u0647"
+    ],
     "name:fin_x_preferred":[
         "Ni\u011fden maakunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ni\u011fde"
-    ],
-    "name:geo_x_preferred":[
-        "\u10dc\u10d8\u10d2\u10d3\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Ni\u011fde"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039d\u03af\u03b3\u03b4\u03b7\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0ac0\u0a97\u0acd\u0aa6\u0ac7 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -125,6 +116,9 @@
     "name:hun_x_preferred":[
         "Ni\u011fde"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u056b\u0572\u0564\u0565"
+    ],
     "name:ind_x_preferred":[
         "Provinsi Ni\u011fde"
     ],
@@ -136,6 +130,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca8\u0cbf\u0c97\u0ccd\u0ca1\u0cc6 \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d8\u10d2\u10d3\u10d4\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\ub2c8\ub370 \uc8fc"
@@ -152,19 +149,22 @@
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0646\u06cc\u063a\u062f\u06d5"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0438\u0433\u0434\u0435"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0940\u0926\u0947 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Wilayah Ni\u011fde"
+    "name:mkd_x_preferred":[
+        "\u041d\u0438\u0433\u0434\u0435"
     ],
     "name:mrj_x_preferred":[
         "\u041d\u0438\u0433\u0434\u0435"
     ],
+    "name:msa_x_preferred":[
+        "Wilayah Ni\u011fde"
+    ],
     "name:nan_x_preferred":[
+        "Ni\u011fde"
+    ],
+    "name:nld_x_preferred":[
         "Ni\u011fde"
     ],
     "name:nno_x_preferred":[
@@ -176,9 +176,6 @@
     "name:oss_x_preferred":[
         "\u041d\u0438\u0433\u0434\u0435"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u0646\u06cc\u063a\u062f\u0647"
-    ],
     "name:pnb_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0646\u063a\u062f\u06d2"
     ],
@@ -188,7 +185,7 @@
     "name:por_x_preferred":[
         "Ni\u011fde"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia Ni\u011fde"
     ],
     "name:rus_x_preferred":[
@@ -259,6 +256,9 @@
     ],
     "name:war_x_preferred":[
         "Ni\u011fde"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4ee3\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -383,7 +383,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561069952,
+    "wof:lastmodified":1561768937,
     "wof:name":"Nigde",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

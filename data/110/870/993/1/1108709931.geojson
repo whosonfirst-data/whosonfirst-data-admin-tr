@@ -43,22 +43,19 @@
     "name:azb_x_preferred":[
         "\u062a\u0648\u0633\u06cc\u0627"
     ],
-    "name:chi_x_preferred":[
-        "\u6258\u65af\u4e9e"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Tosya"
     ],
     "name:eng_x_preferred":[
         "Tosya"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u062a\u0648\u0633\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
         "Tosya"
     ],
     "name:gag_x_preferred":[
-        "Tosya"
-    ],
-    "name:ger_x_preferred":[
         "Tosya"
     ],
     "name:heb_x_preferred":[
@@ -70,23 +67,23 @@
     "name:lit_x_preferred":[
         "Tosja"
     ],
-    "name:may_x_preferred":[
-        "Tosya"
-    ],
     "name:min_x_preferred":[
         "Tosya"
     ],
     "name:mrj_x_preferred":[
         "\u0422\u043e\u0441\u044c\u044f"
     ],
+    "name:msa_x_preferred":[
+        "Tosya"
+    ],
     "name:nan_x_preferred":[
+        "Tosya"
+    ],
+    "name:nld_x_preferred":[
         "Tosya"
     ],
     "name:nno_x_preferred":[
         "Tosya"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0648\u0633\u06cc\u0627"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0637\u0648\u0633\u06cc\u0627"
@@ -108,6 +105,9 @@
     ],
     "name:vie_x_preferred":[
         "Tosya"
+    ],
+    "name:zho_x_preferred":[
+        "\u6258\u65af\u4e9e"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -145,7 +145,7 @@
         }
     ],
     "wof:id":1108709931,
-    "wof:lastmodified":1561070585,
+    "wof:lastmodified":1561769156,
     "wof:name":"Tosya",
     "wof:parent_id":85679259,
     "wof:placetype":"county",
