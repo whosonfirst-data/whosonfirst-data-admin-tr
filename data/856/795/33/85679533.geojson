@@ -146,6 +146,9 @@
     "name:kor_x_preferred":[
         "\ub4a4\uc988\uc81c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub4a4\uc988\uc81c\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "D\u00fczce"
     ],
@@ -212,6 +215,9 @@
     "name:sin_x_preferred":[
         "\u0da9\u0dc3\u0dca\u0d9a\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:sme_x_preferred":[
+        "D\u00fczce eanangoddi"
+    ],
     "name:spa_x_preferred":[
         "Provincia de D\u00fczce"
     ],
@@ -241,6 +247,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e14\u0e38\u0e0b\u0e40\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e14\u0e36\u0e0b\u0e41\u0e08"
     ],
     "name:tuk_x_preferred":[
         "D\u00fczje"
@@ -278,8 +287,14 @@
     "name:war_x_preferred":[
         "D\u00fczce"
     ],
+    "name:yue_x_preferred":[
+        "\u8fea\u8332\u5091\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u8fea\u5179\u6770\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u79d1\u5c3c\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -401,7 +416,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768939,
+    "wof:lastmodified":1563356608,
     "wof:name":"Duzce",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

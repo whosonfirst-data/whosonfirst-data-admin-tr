@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000701,
-    "geom:area_square_m":6541957.985184,
+    "geom:area_square_m":6541957.985181,
     "geom:bbox":"40.4866564907,41.0135208224,40.6201684466,41.0553543451",
     "geom:latitude":41.032987,
     "geom:longitude":40.54633,
@@ -21,8 +21,20 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0632\u0647"
     ],
+    "name:ast_x_preferred":[
+        "Rize"
+    ],
+    "name:azb_x_preferred":[
+        "\u0631\u06cc\u0632\u0647"
+    ],
     "name:aze_x_preferred":[
         "Riz\u0259"
+    ],
+    "name:bel_x_preferred":[
+        "\u0420\u044b\u0437\u044d"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09bf\u099c\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u0420\u0438\u0437\u0435"
@@ -30,11 +42,17 @@
     "name:cat_x_preferred":[
         "Rize"
     ],
+    "name:ceb_x_preferred":[
+        "Rize"
+    ],
     "name:ces_x_preferred":[
         "Rize"
     ],
     "name:ces_x_variant":[
         "Rizensk\u00e1 provincie"
+    ],
+    "name:dan_x_preferred":[
+        "Rize"
     ],
     "name:deu_x_preferred":[
         "Rize"
@@ -60,14 +78,23 @@
     "name:gag_x_preferred":[
         "Rize"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0a87\u0a9d"
+    ],
     "name:hbs_x_preferred":[
         "Rize"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0940\u091c\u093c\u0947"
     ],
     "name:hun_x_preferred":[
         "Rize"
     ],
     "name:hye_x_preferred":[
         "\u054c\u056b\u0566\u0565"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054c\u056b\u0566\u0567"
     ],
     "name:ind_x_preferred":[
         "Rize"
@@ -81,6 +108,12 @@
     "name:jpn_x_preferred":[
         "\u30ea\u30bc"
     ],
+    "name:kaa_x_preferred":[
+        "Rize"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0caf\u0ccd\u0c9c\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d8\u10d6\u10d4"
     ],
@@ -93,8 +126,14 @@
     "name:kur_x_preferred":[
         "Rize"
     ],
+    "name:lav_x_preferred":[
+        "Rize"
+    ],
     "name:lit_x_preferred":[
         "Riz\u0117"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0940\u091d"
     ],
     "name:min_x_preferred":[
         "Rize"
@@ -105,10 +144,16 @@
     "name:msa_x_preferred":[
         "Rize"
     ],
+    "name:nan_x_preferred":[
+        "Rize"
+    ],
     "name:nld_x_preferred":[
         "Rize"
     ],
     "name:nno_x_preferred":[
+        "Rize"
+    ],
+    "name:nob_x_preferred":[
         "Rize"
     ],
     "name:oss_x_preferred":[
@@ -132,6 +177,9 @@
     "name:sco_x_preferred":[
         "Rize"
     ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0dd3\u0dc3\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Rize"
     ],
@@ -146,6 +194,15 @@
     ],
     "name:swe_x_preferred":[
         "Rize"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bc8\u0bb8\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c48\u0c1c\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e34\u0e40\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Rize"
@@ -313,7 +370,7 @@
         }
     ],
     "wof:id":101910997,
-    "wof:lastmodified":1527715925,
+    "wof:lastmodified":1563360692,
     "wof:name":"Rize",
     "wof:parent_id":1108709745,
     "wof:placetype":"locality",

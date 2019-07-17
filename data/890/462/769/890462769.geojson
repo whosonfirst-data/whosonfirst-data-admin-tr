@@ -50,6 +50,15 @@
     "name:ara_x_preferred":[
         "\u0623\u0633\u0643\u0648\u062f\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0633\u0643\u062f\u0627\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "\u00dcsk\u00fcdar"
+    ],
+    "name:aze_x_preferred":[
+        "\u00dcsk\u00fcdar"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u0441\u043a\u044e\u0434\u0430\u0440"
     ],
@@ -57,6 +66,9 @@
         "\u042e\u0441\u043a\u044e\u0434\u0430\u0440"
     ],
     "name:cat_x_preferred":[
+        "\u00dcsk\u00fcdar"
+    ],
+    "name:ceb_x_preferred":[
         "\u00dcsk\u00fcdar"
     ],
     "name:ces_x_preferred":[
@@ -74,9 +86,6 @@
     "name:eng_x_preferred":[
         "\u00dcsk\u00fcdar"
     ],
-    "name:eng_x_variant":[
-        "\u00dcsk\u00fcdar"
-    ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u06a9\u0648\u062f\u0627\u0631"
     ],
@@ -86,11 +95,17 @@
     "name:fra_x_preferred":[
         "\u00dcsk\u00fcdar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e9\u05e7\u05d5\u05d3\u05e8"
+    ],
     "name:hun_x_preferred":[
         "\u00dcsk\u00fcdar"
     ],
     "name:hye_x_preferred":[
         "\u054d\u056f\u0575\u0578\u0582\u057f\u0561\u0580"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054d\u056f\u056b\u0582\u057f\u0561\u0580"
     ],
     "name:ind_x_preferred":[
         "\u00dcsk\u00fcdar"
@@ -157,6 +172,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e36\u0e2a\u0e01\u0e37\u0e2d\u0e14\u0e32\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e36\u0e2a\u0e04\u0e37\u0e2d\u0e14\u0e32\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "\u00dcsk\u00fcdar"
@@ -228,7 +246,7 @@
         }
     ],
     "wof:id":890462769,
-    "wof:lastmodified":1561769277,
+    "wof:lastmodified":1563361411,
     "wof:name":"\u00dcsk\u00fcdar",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

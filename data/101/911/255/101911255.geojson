@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002747,
-    "geom:area_square_m":26542145.142519,
+    "geom:area_square_m":26542145.14252,
     "geom:bbox":"27.3263235211,38.6029022735,27.4659732104,38.6425454468",
     "geom:latitude":38.621475,
     "geom:longitude":27.392554,
@@ -30,6 +30,9 @@
     "name:eng_x_preferred":[
         "Magnesia ad Sipylum"
     ],
+    "name:eus_x_preferred":[
+        "Magnesia Sipilokoa"
+    ],
     "name:nld_x_historical":[
         "Magnesia ad Sipylum"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:unk_x_variant":[
         "Saruhan"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u683c\u5c3c\u897f\u4e9e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Turkey",
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":101911255,
-    "wof:lastmodified":1507750786,
+    "wof:lastmodified":1563360690,
     "wof:name":"Manisa",
     "wof:parent_id":890463535,
     "wof:placetype":"locality",

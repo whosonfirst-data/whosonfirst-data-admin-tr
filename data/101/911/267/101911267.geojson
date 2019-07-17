@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002574,
-    "geom:area_square_m":25676703.068278,
+    "geom:area_square_m":25676703.068298,
     "geom:bbox":"36.1157011599,36.1781797415,36.2254552831,36.2700386228",
     "geom:latitude":36.218321,
     "geom:longitude":36.165516,
@@ -37,6 +37,9 @@
     "name:arz_x_preferred":[
         "\u0627\u0646\u0637\u0627\u0643\u064a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Antioqu\u00eda"
+    ],
     "name:aze_x_preferred":[
         "Antakya"
     ],
@@ -44,7 +47,11 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0410\u043d\u0442\u0430\u043a'\u044f"
     ],
     "name:bel_x_variant":[
-        "\u0410\u043d\u0442\u0430\u043a\u2019\u044f"
+        "\u0410\u043d\u0442\u0430\u043a\u2019\u044f",
+        "\u0410\u043d\u0442\u0430\u043a'\u044f"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09a8\u09cd\u09a4\u09be\u0995\u09bf\u09af\u09bc\u09be"
     ],
     "name:bos_x_preferred":[
         "Antiohija"
@@ -60,6 +67,9 @@
     ],
     "name:cat_x_variant":[
         "Antioquia"
+    ],
+    "name:ceb_x_preferred":[
+        "Antakya"
     ],
     "name:ces_x_preferred":[
         "Antakya"
@@ -118,6 +128,9 @@
     "name:fra_x_preferred":[
         "Antioche"
     ],
+    "name:fra_x_variant":[
+        "Antakya"
+    ],
     "name:fry_x_preferred":[
         "Antiochje"
     ],
@@ -126,6 +139,9 @@
     ],
     "name:glg_x_preferred":[
         "Antioqu\u00eda"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0a82\u0a9f\u0abe\u0a95\u0acd\u0aaf\u0abe"
     ],
     "name:hbs_x_preferred":[
         "Antiohija"
@@ -148,6 +164,9 @@
     "name:hye_x_preferred":[
         "\u0531\u0576\u0569\u0561\u0584\u056b\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u0531\u0576\u057f\u056b\u0578\u0584"
+    ],
     "name:ido_x_preferred":[
         "Antiok"
     ],
@@ -165,6 +184,9 @@
     ],
     "name:jpn_x_variant":[
         "\u30a2\u30f3\u30c6\u30a3\u30aa\u30b1\u30a4\u30a2"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0c82\u0ca4\u0c95\u0ccd\u0caf"
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10dc\u10d7\u10d0\u10e5\u10d8\u10d0"
@@ -199,6 +221,15 @@
     "name:lrc_x_preferred":[
         "\u0627\u0646\u062a\u0627\u06a9\u06cc\u0647"
     ],
+    "name:ltz_x_preferred":[
+        "Antakya"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0902\u091f\u093e\u0915\u094d\u092f\u093e"
+    ],
+    "name:min_x_preferred":[
+        "Antakya"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043a\u0438\u0458\u0430"
     ],
@@ -212,6 +243,9 @@
         "Antiochi\u00eb"
     ],
     "name:nno_x_preferred":[
+        "Antakya"
+    ],
+    "name:nob_x_preferred":[
         "Antakya"
     ],
     "name:nor_x_preferred":[
@@ -230,9 +264,13 @@
         "Ant\u00e1quia"
     ],
     "name:por_x_variant":[
-        "Antioquia"
+        "Antioquia",
+        "Antakya"
     ],
     "name:ron_x_preferred":[
+        "Antakya"
+    ],
+    "name:run_x_preferred":[
         "Antakya"
     ],
     "name:rus_x_preferred":[
@@ -247,6 +285,9 @@
     "name:sco_x_preferred":[
         "Antakya"
     ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0db1\u0dca\u0dad\u0d9a\u0dca\u200d\u0dba\u0dcf"
+    ],
     "name:slv_x_preferred":[
         "Antakya"
     ],
@@ -255,6 +296,9 @@
     ],
     "name:sqi_x_preferred":[
         "Antakja"
+    ],
+    "name:srd_x_preferred":[
+        "Antakya"
     ],
     "name:srp_x_preferred":[
         "\u0410\u043d\u0442\u0438\u043e\u0445\u0438\u0458\u0430"
@@ -268,8 +312,17 @@
     "name:swe_x_variant":[
         "Antiochia vid Orontes"
     ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0ba3\u0bcd\u0b9f\u0b95\u0bcd\u0baf\u0bbe"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c02\u0c1f\u0c3e\u0c15\u0c4d\u0c2f\u0c3e"
+    ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e19\u0e17\u0e32\u0e40\u0e04\u0e35\u0e22"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e31\u0e19\u0e17\u0e31\u0e01\u0e22\u0e32"
     ],
     "name:tur_x_preferred":[
         "Antakya"
@@ -301,8 +354,17 @@
     "name:war_x_preferred":[
         "Antakya"
     ],
+    "name:wln_x_preferred":[
+        "Antiyoke"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b89\u5854\u57fa\u4e9e"
+    ],
     "name:zho_x_preferred":[
         "\u5b89\u5854\u57fa\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u6761\u514b"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Turkey",
@@ -441,7 +503,7 @@
         }
     ],
     "wof:id":101911267,
-    "wof:lastmodified":1527715545,
+    "wof:lastmodified":1563360670,
     "wof:name":"Antakya",
     "wof:parent_id":890461775,
     "wof:placetype":"locality",

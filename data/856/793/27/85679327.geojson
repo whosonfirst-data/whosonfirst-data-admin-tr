@@ -60,6 +60,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Nev\u015fehir"
     ],
+    "name:ceb_x_preferred":[
+        "Nev\u015fehir"
+    ],
     "name:ces_x_preferred":[
         "Nev\u015fehirsk\u00e1 provincie"
     ],
@@ -86,6 +89,9 @@
     ],
     "name:eng_x_preferred":[
         "Nevsehir"
+    ],
+    "name:eng_x_variant":[
+        "Nev\u015fehir Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Nev\u015fehir"
@@ -140,6 +146,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub124\ube0c\uc170\ud788\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub124\ube0c\uc170\ud788\ub974\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Nev\u015fehir"
@@ -204,6 +213,9 @@
     "name:sin_x_preferred":[
         "\u0db1\u0dd9\u0dc0\u0dca\u0dc3\u0dd9\u0dc4\u0dd2\u0dbb\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:sme_x_preferred":[
+        "Nev\u015fehir eanangoddi"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Nev\u015fehir"
     ],
@@ -267,8 +279,14 @@
     "name:war_x_preferred":[
         "Nev\u015fehir"
     ],
+    "name:yue_x_preferred":[
+        "\u5167\u592b\u8b1d\u5e0c\u723e\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u5185\u592b\u8c22\u5e0c\u5c14\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u5c14\u7279\u6e29\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -394,7 +412,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768934,
+    "wof:lastmodified":1563356551,
     "wof:name":"Nevsehir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

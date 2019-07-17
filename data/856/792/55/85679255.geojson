@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0633\u0643\u064a \u0634\u0647\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0625\u0633\u0643\u064a \u0634\u0647\u0631"
+    ],
     "name:aze_x_preferred":[
         "\u018fski\u015f\u0259h\u0259r ili"
     ],
@@ -64,6 +67,9 @@
     "name:cat_x_variant":[
         "Prov\u00edncia dEski\u015fehir"
     ],
+    "name:ceb_x_preferred":[
+        "Eski\u015fehir"
+    ],
     "name:ces_x_preferred":[
         "Eski\u015fehir"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u06d5\u0633\u06a9\u06cc\u0634\u06d5\u06be\u0631"
+    ],
+    "name:crh_x_preferred":[
+        "Eski\u015fehir"
     ],
     "name:dan_x_preferred":[
         "Eski\u015fehir Province"
@@ -86,7 +95,8 @@
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c3\u03ba\u03b9\u03c3\u03b5\u03c7\u03af\u03c1"
     ],
     "name:ell_x_variant":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c3\u03ba\u03af \u03a3\u03b5\u03c7\u03af\u03c1"
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c3\u03ba\u03af \u03a3\u03b5\u03c7\u03af\u03c1",
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0395\u03c3\u03ba\u03af\u03c3\u03b5\u03c7\u03b9\u03c1"
     ],
     "name:eng_x_preferred":[
         "Eskisehir"
@@ -143,6 +153,9 @@
     "name:kaa_x_preferred":[
         "Eski\u015fehir walayati"
     ],
+    "name:kaa_x_variant":[
+        "Eski\u015fehir wa'layati"
+    ],
     "name:kan_x_preferred":[
         "\u0c8e\u0cb8\u0ccd\u0c95\u0cbf\u0cb6\u0cc0\u0cb0\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -151,6 +164,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc5d0\uc2a4\ud0a4\uc170\ud788\ub974 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc5d0\uc2a4\ud0a4\uc170\ud788\ub974\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Eski\u015fehir"
@@ -212,6 +228,9 @@
     "name:sin_x_preferred":[
         "\u0d91\u0dc3\u0dca\u0d9a\u0dd2\u0dc3\u0dda\u0dc4\u0dd2\u0dbb\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:sme_x_preferred":[
+        "Eski\u015fehir eanangoddi"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Eski\u015fehir"
     ],
@@ -238,6 +257,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2b\u0e25\u0e27\u0e07\u0e40\u0e2d\u0e2a\u0e01\u0e34\u0e0b\u0e35\u0e40\u0e2e\u0e35\u0e22\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e2d\u0e2a\u0e04\u0e35\u0e40\u0e0a\u0e2e\u0e35\u0e23\u0e4c"
     ],
     "name:tuk_x_preferred":[
         "Eski\u015fehir"
@@ -269,11 +291,17 @@
     "name:uzb_x_preferred":[
         "Eskishahar"
     ],
+    "name:uzb_x_variant":[
+        "Eski\u015fehir"
+    ],
     "name:vie_x_preferred":[
         "Eski\u015fehir"
     ],
     "name:war_x_preferred":[
         "Eski\u015fehir"
+    ],
+    "name:yue_x_preferred":[
+        "\u57c3\u65af\u57fa\u8b1d\u5e0c\u723e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u65af\u57fa\u8c22\u5e0c\u5c14\u7701"
@@ -401,7 +429,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768942,
+    "wof:lastmodified":1563356645,
     "wof:name":"Eskisehir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

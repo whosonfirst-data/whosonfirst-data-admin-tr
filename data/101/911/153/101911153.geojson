@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0648\u0644\u0648,\u062a\u0631\u0643\u064a\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Bolu"
+    ],
     "name:aze_x_preferred":[
         "Bolu"
     ],
@@ -30,13 +36,22 @@
     "name:bel_x_variant":[
         "\u0411\u0430\u043b\u0443"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b2\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u043e\u043b\u0443"
     ],
     "name:cat_x_preferred":[
         "Bolu"
     ],
+    "name:ceb_x_preferred":[
+        "Bolu"
+    ],
     "name:ces_x_preferred":[
+        "Bolu"
+    ],
+    "name:dan_x_preferred":[
         "Bolu"
     ],
     "name:deu_x_preferred":[
@@ -51,8 +66,14 @@
     "name:eng_x_preferred":[
         "Bolu"
     ],
+    "name:epo_x_preferred":[
+        "Bolu"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0644\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Bolu"
     ],
     "name:fra_x_preferred":[
         "Bolu"
@@ -60,7 +81,25 @@
     "name:gag_x_preferred":[
         "Bolu"
     ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0acb\u0ab2\u0ac1"
+    ],
     "name:hbs_x_preferred":[
+        "Bolu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05dc\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u0932\u0942"
+    ],
+    "name:hun_x_preferred":[
+        "Bolu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u056c\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
         "Bolu"
     ],
     "name:ita_x_preferred":[
@@ -68,6 +107,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30dc\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0ccb\u0cb2\u0cc1"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10dd\u10da\u10e3"
@@ -78,11 +120,17 @@
     "name:kor_x_preferred":[
         "\ubcfc\ub8e8"
     ],
+    "name:lav_x_preferred":[
+        "Bolu"
+    ],
     "name:lit_x_preferred":[
         "Bolu"
     ],
     "name:lrc_x_preferred":[
         "\u0628\u0648\u0644\u06cc"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094b\u0932\u0942"
     ],
     "name:min_x_preferred":[
         "Bolu"
@@ -93,10 +141,16 @@
     "name:msa_x_preferred":[
         "Bolu"
     ],
+    "name:nan_x_preferred":[
+        "Bolu"
+    ],
     "name:nld_x_preferred":[
         "Bolu"
     ],
     "name:nno_x_preferred":[
+        "Bolu"
+    ],
+    "name:nob_x_preferred":[
         "Bolu"
     ],
     "name:nor_x_preferred":[
@@ -120,6 +174,9 @@
     "name:sco_x_preferred":[
         "Bolu"
     ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0ddc\u0dbd\u0dd4"
+    ],
     "name:spa_x_preferred":[
         "Bolu"
     ],
@@ -131,6 +188,15 @@
     ],
     "name:swe_x_preferred":[
         "Bolu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb2\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c4b\u0c32\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e1a\u0e25\u0e39"
     ],
     "name:tur_x_preferred":[
         "Bolu"
@@ -301,7 +367,7 @@
         }
     ],
     "wof:id":101911153,
-    "wof:lastmodified":1535390525,
+    "wof:lastmodified":1563360674,
     "wof:name":"Bolu",
     "wof:parent_id":890462577,
     "wof:placetype":"locality",

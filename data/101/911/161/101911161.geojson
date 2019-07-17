@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0631\u0648\u0645"
     ],
+    "name:ast_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:azb_x_preferred":[
+        "\u0686\u0648\u0631\u0648\u0645"
+    ],
     "name:aze_x_preferred":[
         "\u00c7orum"
     ],
@@ -30,6 +36,9 @@
     "name:bel_x_variant":[
         "\u0427\u0430\u0440\u0443\u043c"
     ],
+    "name:ben_x_preferred":[
+        "\u099a\u09b0\u09c1\u09ae"
+    ],
     "name:bre_x_preferred":[
         "\u00c7orum"
     ],
@@ -37,6 +46,9 @@
         "\u0427\u043e\u0440\u0443\u043c"
     ],
     "name:cat_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:ceb_x_preferred":[
         "\u00c7orum"
     ],
     "name:che_x_preferred":[
@@ -51,32 +63,92 @@
     "name:deu_x_preferred":[
         "\u00c7orum"
     ],
+    "name:diq_x_preferred":[
+        "\u00c7orum"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03c3\u03bf\u03c1\u03bf\u03cd\u03bc"
     ],
     "name:eng_x_preferred":[
         "\u00c7orum"
     ],
+    "name:epo_x_preferred":[
+        "\u00c7orum"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0648\u0631\u0648\u0645"
     ],
+    "name:fin_x_preferred":[
+        "\u00c7orum"
+    ],
     "name:fra_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acb\u0ab0\u0aae"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d5\u05e8\u05d5\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094b\u0930\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0578\u0580\u0578\u0582\u0574"
+    ],
+    "name:ind_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:ita_x_preferred":[
         "\u00c7orum"
     ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e7\u30eb\u30e0"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccb\u0cb0\u0c82"
+    ],
     "name:kat_x_preferred":[
         "\u10e9\u10dd\u10e0\u10e3\u10db\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "\u00c7orum"
     ],
     "name:kor_x_preferred":[
         "\ucd08\ub8f8"
     ],
+    "name:lav_x_preferred":[
+        "\u010coruma"
+    ],
     "name:lit_x_preferred":[
         "\u010corumas"
     ],
+    "name:mar_x_preferred":[
+        "\u0915\u094b\u0930\u0942\u092e"
+    ],
+    "name:min_x_preferred":[
+        "\u00c7orum"
+    ],
     "name:mrj_x_preferred":[
         "\u0427\u043e\u0440\u0443\u043c"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c7orum"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a4b\u0a30\u0a41\u0a2e"
@@ -84,11 +156,44 @@
     "name:pol_x_preferred":[
         "\u00c7orum"
     ],
+    "name:por_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:ron_x_preferred":[
+        "\u00c7orum"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u043e\u0440\u0443\u043c"
     ],
+    "name:sco_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dbb\u0dd4\u0db8\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "\u00c7orum"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u043e\u0440\u0443\u043c"
+    ],
+    "name:swa_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:szl_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4b\u0c30\u0c2e\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e42\u0e0a\u0e23\u0e38\u0e21"
     ],
     "name:tur_x_preferred":[
         "\u00c7orum"
@@ -104,6 +209,15 @@
     ],
     "name:urd_x_preferred":[
         "\u0686\u0648\u0631\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:vol_x_preferred":[
+        "\u00c7orum"
+    ],
+    "name:war_x_preferred":[
+        "\u00c7orum"
     ],
     "name:zho_x_preferred":[
         "\u55ac\u9b6f\u59c6"
@@ -247,7 +361,7 @@
         }
     ],
     "wof:id":101911161,
-    "wof:lastmodified":1535390525,
+    "wof:lastmodified":1563360654,
     "wof:name":"\u00c7orum",
     "wof:parent_id":890462433,
     "wof:placetype":"locality",

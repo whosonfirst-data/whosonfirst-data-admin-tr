@@ -49,6 +49,9 @@
     "name:eng_x_variant":[
         "Merkez"
     ],
+    "name:fas_x_preferred":[
+        "\u06cc\u0646\u06cc\u200c\u0634\u0647\u0631"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Yeni\u015fehir"
     ],
@@ -64,8 +67,14 @@
     "name:nld_x_preferred":[
         "Yeni\u015fehir"
     ],
+    "name:nob_x_preferred":[
+        "Yeni\u015fehir"
+    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06cc\u0646\u06cc\u0634\u06c1\u0631\u060c \u0645\u06cc\u0631\u0633\u0646"
+    ],
+    "name:pnb_x_variant":[
+        "\u0636\u0644\u0639 \u06cc\u0646\u06cc\u0634\u06c1\u0631"
     ],
     "name:rus_x_preferred":[
         "\u0415\u043d\u0438\u0448\u0435\u0445\u0438\u0440"
@@ -78,6 +87,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0646\u06cc\u0633\u0627\u062d\u0631\u060c \u0645\u0631\u0633\u06cc\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u06cc\u0646\u06cc\u0633\u0627\u062d\u0631"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -103,7 +115,7 @@
         }
     ],
     "wof:id":1108709983,
-    "wof:lastmodified":1561769142,
+    "wof:lastmodified":1563359644,
     "wof:name":"Yeni\u015fehir",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

@@ -47,6 +47,9 @@
     "name:aze_x_preferred":[
         "Bing\u00f6l ili"
     ],
+    "name:aze_x_variant":[
+        "Bing\u00f6l vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0456\u043d\u0433\u0451\u043b\u044c"
     ],
@@ -68,6 +71,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Bing\u00f6l"
     ],
+    "name:ceb_x_preferred":[
+        "Bing\u00f6l"
+    ],
     "name:ces_x_preferred":[
         "Bing\u00f6lsk\u00e1 provincie"
     ],
@@ -76,6 +82,12 @@
     ],
     "name:ckb_x_preferred":[
         "\u0628\u06cc\u0646\u06af\u06c6\u0644"
+    ],
+    "name:ckb_x_variant":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0628\u06cc\u0646\u06af\u06c6\u0644"
+    ],
+    "name:crh_x_preferred":[
+        "Bing\u00f6l"
     ],
     "name:cym_x_preferred":[
         "Bing\u00f6l"
@@ -88,6 +100,9 @@
     ],
     "name:diq_x_preferred":[
         "\u00c7ewlig"
+    ],
+    "name:diq_x_variant":[
+        "\u00c7olig"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b9\u03bd\u03b3\u03ba\u03cc\u03bb"
@@ -162,6 +177,9 @@
     "name:kor_x_preferred":[
         "\ube59\uad3c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ube59\uad3c\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "B\u00eengol"
     ],
@@ -207,6 +225,9 @@
     "name:pnb_x_preferred":[
         "\u0628\u0646\u06af\u0648\u0644 \u0635\u0648\u0628\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0646\u06af\u0648\u0644"
+    ],
     "name:pol_x_preferred":[
         "Bing\u00f6l"
     ],
@@ -249,6 +270,9 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0438\u043d\u0433\u043e\u043b"
     ],
+    "name:tgk_x_variant":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0411\u0438\u043d\u0433\u044c\u043e\u043b"
+    ],
     "name:tgl_x_preferred":[
         "Lalawigan ng Bing\u00f6l"
     ],
@@ -267,6 +291,9 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043d\u0491\u044c\u043e\u043b\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u0411\u0456\u043d\u0491\u0435\u043b\u044c"
+    ],
     "name:und_x_colloquial":[
         "Bingol"
     ],
@@ -282,6 +309,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u06cc\u0646\u06af\u0648\u0644"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u06cc\u0646\u06af\u0648\u0644 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Bing\u00f6l"
     ],
@@ -293,6 +323,9 @@
     ],
     "name:war_x_preferred":[
         "Bing\u00f6l"
+    ],
+    "name:yue_x_preferred":[
+        "\u8cd3\u683c\u723e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5bbe\u683c\u5c14\u7701"
@@ -417,7 +450,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768935,
+    "wof:lastmodified":1563356561,
     "wof:name":"Bingol",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

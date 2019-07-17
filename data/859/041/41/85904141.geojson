@@ -29,6 +29,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0632\u0643\u0648\u0646\u062c\u0648\u0643"
+    ],
     "name:eng_x_preferred":[
         "Kuzguncuk"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:tur_x_preferred":[
         "Kuzguncuk"
+    ],
+    "name:tur_x_variant":[
+        "Kuzguncuk Mahallesi"
     ],
     "name:unk_x_variant":[
         "Kuzgunyuk",
@@ -125,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561768925,
+    "wof:lastmodified":1563356480,
     "wof:name":"Kuzguncuk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

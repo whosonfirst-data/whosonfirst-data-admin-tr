@@ -37,8 +37,14 @@
     "name:aze_x_preferred":[
         "Mersin ili"
     ],
+    "name:aze_x_variant":[
+        "Mersin vilay\u0259ti"
+    ],
     "name:bak_x_preferred":[
         "\u041c\u04d9\u0440\u0441\u0438\u043d"
+    ],
+    "name:bar_x_preferred":[
+        "Mersin"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041c\u0435\u0440\u0441\u0456\u043d"
@@ -66,6 +72,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0645\u06ce\u0631\u0633\u06cc\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Mersin"
     ],
     "name:dan_x_preferred":[
         "Mersin Province"
@@ -142,6 +151,9 @@
     ],
     "name:kor_x_preferred":[
         "\uba54\ub974\uc2e0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uba54\ub974\uc2e0\uc8fc"
     ],
     "name:kur_x_preferred":[
         "M\u00ears\u00een"
@@ -236,6 +248,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e21\u0e2d\u0e0b\u0e34\u0e19"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e21\u0e23\u0e4c\u0e0b\u0e34\u0e19"
+    ],
     "name:tuk_x_preferred":[
         "Mersin"
     ],
@@ -261,11 +276,17 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0631\u0633\u06cc\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0631\u0633\u06cc\u0646 \u0635\u0648\u0628\u06c1"
+    ],
     "name:vie_x_preferred":[
         "Mersin"
     ],
     "name:war_x_preferred":[
         "Mersin"
+    ],
+    "name:yue_x_preferred":[
+        "\u6885\u723e\u8f9b\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6885\u5c14\u8f9b\u7701"
@@ -393,7 +414,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768936,
+    "wof:lastmodified":1563356573,
     "wof:name":"Mersin",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

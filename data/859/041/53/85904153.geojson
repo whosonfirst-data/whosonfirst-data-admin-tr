@@ -29,8 +29,14 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0643\u062c\u064a"
+    ],
     "name:eng_x_preferred":[
         "Sirkeci"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0631\u06a9\u0647\u200c\u0686\u06cc"
     ],
     "name:fra_x_preferred":[
         "Sirkeci"
@@ -43,6 +49,9 @@
     ],
     "name:ita_x_preferred":[
         "Sirkeci"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30eb\u30b1\u30b8"
     ],
     "name:lav_x_preferred":[
         "Sirked\u017ei"
@@ -58,6 +67,9 @@
     ],
     "name:tur_x_preferred":[
         "Sirkeci"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u0440\u043a\u0435\u0434\u0436\u0456"
     ],
     "name:unk_x_variant":[
         "Sirkeci"
@@ -139,7 +151,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1561768925,
+    "wof:lastmodified":1563356479,
     "wof:name":"Sirkeci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000463,
-    "geom:area_square_m":4253794.514953,
+    "geom:area_square_m":4253794.514952,
     "geom:bbox":"35.1274360641,42.0146681649,35.2010180163,42.0333780097",
     "geom:latitude":42.023561,
     "geom:longitude":35.162226,
@@ -24,6 +24,12 @@
     "name:aze_x_preferred":[
         "Sinop"
     ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u043d\u043e\u043f"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09a8\u09cb\u09aa"
+    ],
     "name:bod_x_preferred":[
         "\u0f66\u0f72\u0f0b\u0f53\u0f7c\u0f0b\u0f54\u0f7a\u0f0d"
     ],
@@ -37,6 +43,9 @@
         "Sinope"
     ],
     "name:ces_x_preferred":[
+        "Sinop"
+    ],
+    "name:dan_x_preferred":[
         "Sinop"
     ],
     "name:deu_x_preferred":[
@@ -69,11 +78,23 @@
     "name:glg_x_preferred":[
         "Sinope"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abf\u0aa8\u0acb\u0aaa"
+    ],
     "name:hbs_x_preferred":[
         "Sinop"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d9\u05e0\u05d5\u05e4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0928\u0949\u092a"
+    ],
+    "name:hun_x_preferred":[
+        "Sinop"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0576\u0578\u057a"
     ],
     "name:ind_x_preferred":[
         "Sinop"
@@ -83,6 +104,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30a3\u30ce\u30d7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cbf\u0ca8\u0cca\u0caa\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10d8\u10dc\u10dd\u10de\u10d8"
@@ -102,10 +126,22 @@
     "name:lat_x_preferred":[
         "Sinope"
     ],
+    "name:lav_x_preferred":[
+        "Sinopa"
+    ],
+    "name:lit_x_preferred":[
+        "Sinopas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u093f\u0928\u0949\u092a"
+    ],
     "name:mrj_x_preferred":[
         "\u0421\u0438\u043d\u043e\u043f"
     ],
     "name:msa_x_preferred":[
+        "Sinop"
+    ],
+    "name:nan_x_preferred":[
         "Sinop"
     ],
     "name:nld_x_historical":[
@@ -118,6 +154,9 @@
         "Sinope"
     ],
     "name:nno_x_preferred":[
+        "Sinop"
+    ],
+    "name:nob_x_preferred":[
         "Sinop"
     ],
     "name:pnb_x_preferred":[
@@ -147,6 +186,9 @@
     "name:sco_x_preferred":[
         "Sinop"
     ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0db1\u0ddc\u0db4\u0dca"
+    ],
     "name:slk_x_preferred":[
         "Sinop"
     ],
@@ -159,6 +201,9 @@
     "name:spa_x_variant":[
         "Sinop"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u043d\u043e\u043f"
+    ],
     "name:swa_x_preferred":[
         "Sinop"
     ],
@@ -167,6 +212,15 @@
     ],
     "name:swe_x_variant":[
         "Sinope"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0ba9\u0bcb\u0baa\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c3f\u0c28\u0c3f\u0c2a\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0b\u0e35\u0e19\u0e2d\u0e1b"
     ],
     "name:tuk_x_preferred":[
         "Sinop"
@@ -180,11 +234,17 @@
     "name:ukr_x_preferred":[
         "\u0421\u0438\u043d\u043e\u043f"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0456\u043d\u043e\u043f"
+    ],
     "name:unk_x_variant":[
         "Sanub"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0648\u067e\u060c \u062a\u0631\u06a9\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0648\u067e"
     ],
     "name:vie_x_preferred":[
         "Sinop"
@@ -337,7 +397,7 @@
         }
     ],
     "wof:id":101910983,
-    "wof:lastmodified":1527715929,
+    "wof:lastmodified":1563360694,
     "wof:name":"Sinop",
     "wof:parent_id":890461085,
     "wof:placetype":"locality",

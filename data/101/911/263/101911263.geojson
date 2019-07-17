@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001726,
-    "geom:area_square_m":16851607.344502,
+    "geom:area_square_m":16851607.344503,
     "geom:bbox":"27.8023659483,37.8136825358,27.8944213611,37.8627657623",
     "geom:latitude":37.840471,
     "geom:longitude":27.841669,
@@ -21,7 +21,16 @@
     "name:ara_x_preferred":[
         "\u0623\u064a\u062f\u064a\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Aydin"
+    ],
     "name:ava_x_preferred":[
+        "\u0410\u0439\u0434\u044b\u043d"
+    ],
+    "name:azb_x_preferred":[
+        "\u0622\u06cc\u062f\u06cc\u0646"
+    ],
+    "name:bak_x_preferred":[
         "\u0410\u0439\u0434\u044b\u043d"
     ],
     "name:bel_x_preferred":[
@@ -29,6 +38,9 @@
     ],
     "name:bel_x_variant":[
         "\u0410\u0439\u0434\u044b\u043d"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09af\u09bc\u09a1\u09bf\u09a8"
     ],
     "name:bre_x_preferred":[
         "Ayd\u0131n"
@@ -39,7 +51,13 @@
     "name:cat_x_preferred":[
         "Ayd\u0131n"
     ],
+    "name:ceb_x_preferred":[
+        "Ayd\u0131n"
+    ],
     "name:ces_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:cym_x_preferred":[
         "Ayd\u0131n"
     ],
     "name:dan_x_preferred":[
@@ -51,32 +69,89 @@
     "name:deu_x_variant":[
         "Tralleis"
     ],
+    "name:diq_x_preferred":[
+        "Ayd\u0131n"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03ca\u03b4\u03af\u03bd\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Aydin"
     ],
+    "name:eng_x_variant":[
+        "Ayd\u0131n"
+    ],
+    "name:epo_x_preferred":[
+        "Ayd\u0131n"
+    ],
     "name:fas_x_preferred":[
         "\u0622\u06cc\u062f\u06cc\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:fra_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:fry_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aa1\u0abf\u0aa8"
     ],
     "name:hbs_x_preferred":[
         "Ajd\u0131n"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d3\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0906\u092f\u0926\u093f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u0575\u0564\u056b\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Aydin"
+    ],
     "name:ita_x_preferred":[
         "Tralli"
+    ],
+    "name:ita_x_variant":[
+        "Ayd\u0131n"
     ],
     "name:jpn_x_preferred":[
         "\u30a2\u30a4\u30c9\u30a5\u30f3"
     ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0caf\u0ccd\u0ca6\u0cbf\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10d0\u10d8\u10d3\u10d8\u10dc\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "Ayd\u0131n"
     ],
     "name:kor_x_preferred":[
         "\uc544\uc774\ub518"
     ],
+    "name:kor_x_variant":[
+        "\uc544\uc774\ub4e0"
+    ],
+    "name:kur_x_preferred":[
+        "Ayd\u0131n"
+    ],
     "name:lad_x_preferred":[
         "Aydin"
+    ],
+    "name:lat_x_preferred":[
+        "Tralles"
+    ],
+    "name:lav_x_preferred":[
+        "Aidina"
     ],
     "name:lbe_x_preferred":[
         "\u0410\u0439\u0434\u044b\u043d"
@@ -87,8 +162,32 @@
     "name:lrc_x_preferred":[
         "\u0622\u06cc\u062f\u06cc\u0646"
     ],
+    "name:ltz_x_preferred":[
+        "Aydin"
+    ],
+    "name:mar_x_preferred":[
+        "\u090f\u0921\u093f\u0928"
+    ],
+    "name:min_x_preferred":[
+        "Ayd\u0131n"
+    ],
     "name:mrj_x_preferred":[
         "\u0410\u0439\u0434\u044b\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:nan_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:nld_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:nno_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:nob_x_preferred":[
+        "Ayd\u0131n"
     ],
     "name:pan_x_preferred":[
         "\u0a10\u0a26\u0a3f\u0a28"
@@ -96,14 +195,47 @@
     "name:pnb_x_preferred":[
         "\u0627\u06cc\u0648\u062f\u0646"
     ],
+    "name:pol_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:por_x_preferred":[
+        "Aidim"
+    ],
+    "name:ron_x_preferred":[
+        "Ayd\u0131n"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u0439\u0434\u044b\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dba\u0dd2\u0da9\u0dd2\u0db1\u0dca"
     ],
     "name:spa_x_preferred":[
         "Aydin"
     ],
     "name:srp_x_preferred":[
         "\u0410\u0458\u0434\u0438\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:swe_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b85\u0baf\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c10\u0c21\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e2d\u0e22\u0e4c\u0e14\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Ayd\u0131n"
     ],
     "name:udm_x_preferred":[
         "\u0410\u0439\u0434\u044b\u043d"
@@ -116,6 +248,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0622\u06cc\u062f\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Ayd\u0131n"
+    ],
+    "name:war_x_preferred":[
+        "Ayd\u0131n"
     ],
     "name:zho_x_preferred":[
         "\u827e\u767b"
@@ -259,7 +397,7 @@
         }
     ],
     "wof:id":101911263,
-    "wof:lastmodified":1527715549,
+    "wof:lastmodified":1563360690,
     "wof:name":"Ayd\u0131n",
     "wof:parent_id":890461265,
     "wof:placetype":"locality",

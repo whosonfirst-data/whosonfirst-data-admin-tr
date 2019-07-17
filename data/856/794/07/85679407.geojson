@@ -45,6 +45,9 @@
     "name:aze_x_preferred":[
         "Bitlis ili"
     ],
+    "name:aze_x_variant":[
+        "Bitlis vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0411\u0456\u0442\u043b\u0456\u0441"
     ],
@@ -63,6 +66,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Bitlis"
     ],
+    "name:ceb_x_preferred":[
+        "Bitlis"
+    ],
     "name:ces_x_preferred":[
         "Bitlisk\u00e1 provincie"
     ],
@@ -71,6 +77,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0628\u062f\u0644\u06cc\u0633"
+    ],
+    "name:crh_x_preferred":[
+        "Bitlis"
     ],
     "name:dan_x_preferred":[
         "Bitlis Province"
@@ -127,7 +136,8 @@
         "\u0532\u0561\u0572\u0565\u0577\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u0532\u056b\u0569\u056c\u056b\u057d"
+        "\u0532\u056b\u0569\u056c\u056b\u057d",
+        "\u0532\u056b\u0569\u056c\u056b\u057d\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:ind_x_preferred":[
         "Provinsi Bitlis"
@@ -152,6 +162,9 @@
     ],
     "name:kor_x_preferred":[
         "\ube44\ud2c0\ub9ac\uc2a4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ube44\ud2c0\ub9ac\uc2a4\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Bidl\u00ees"
@@ -197,6 +210,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0644\u062a\u0633 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0628\u0644\u062a\u0633"
     ],
     "name:pol_x_preferred":[
         "Bitlis"
@@ -273,6 +289,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0628\u062a\u0644\u06cc\u0633"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u062a\u0644\u06cc\u0633 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Bitlis"
     ],
@@ -284,6 +303,9 @@
     ],
     "name:war_x_preferred":[
         "Bitlis"
+    ],
+    "name:yue_x_preferred":[
+        "\u6bd4\u7279\u5229\u65af\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u7279\u5229\u65af\u7701"
@@ -412,7 +434,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768937,
+    "wof:lastmodified":1563356588,
     "wof:name":"Bitlis",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

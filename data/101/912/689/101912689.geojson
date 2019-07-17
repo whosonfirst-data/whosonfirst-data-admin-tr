@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000493,
-    "geom:area_square_m":4624808.03491,
+    "geom:area_square_m":4624808.034915,
     "geom:bbox":"33.6001844786,40.5565011707,33.6347662338,40.6088031383",
     "geom:latitude":40.589671,
     "geom:longitude":33.615853,
@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646\u0642\u0631\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u0646\u0642\u0631\u06cc"
+    ],
     "name:aze_x_preferred":[
         "\u00c7ank\u0131r\u0131"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u09a8\u0995\u09bf\u09b0\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u0427\u0430\u043d\u043a\u044a\u0440\u044a"
@@ -30,8 +36,14 @@
     "name:cat_x_preferred":[
         "\u00c7ank\u0131r\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "Khanjarah"
+    ],
     "name:ces_x_preferred":[
         "\u00c7ank\u0131r\u0131"
+    ],
+    "name:dan_x_preferred":[
+        "Cankiri"
     ],
     "name:deu_x_preferred":[
         "\u00c7ank\u0131r\u0131"
@@ -48,26 +60,155 @@
     "name:epo_x_preferred":[
         "\u00c7ank\u0131r\u0131"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0646\u0642\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
     "name:fra_x_preferred":[
         "\u00c7ank\u0131r\u0131"
+    ],
+    "name:gag_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0aa8\u0a95\u0abf\u0ab0\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05e0\u05e7\u05d9\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0928\u0915\u0940\u0930\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0549\u0561\u0576\u056f\u056b\u0580\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30f3\u30af\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0cbf\u0cb0\u0cbf"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10d0\u10dc\u10e5\u10d8\u10e0\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc3d\ud0a4\ub9ac"
+    ],
+    "name:lat_x_preferred":[
+        "Gangra"
+    ],
+    "name:lav_x_preferred":[
+        "\u010cankiri"
+    ],
+    "name:lit_x_preferred":[
+        "\u010cankiris"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u0945\u0928\u0915\u093f\u0930\u093f"
+    ],
+    "name:min_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0427\u0430\u043d\u043a\u044b\u0440\u044b"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:nob_x_preferred":[
+        "Cankiri"
     ],
     "name:ota_x_preferred":[
         "\u06a9\u0646\u063a\u0631\u06cc"
     ],
+    "name:pnb_x_preferred":[
+        "\u0686\u0646\u06a9\u06cc\u0631\u06cc"
+    ],
     "name:pol_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:por_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:ron_x_preferred":[
         "\u00c7ank\u0131r\u0131"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043d\u043a\u044b\u0440\u044b"
     ],
+    "name:sco_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd0\u0db1\u0dca\u0d9a\u0dd2\u0dbb\u0dd2"
+    ],
     "name:spa_x_preferred":[
         "\u00c7ank\u0131r\u0131"
+    ],
+    "name:swa_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:swe_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbe\u0ba9\u0bcd\u0b95\u0bbf\u0bb0\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c28\u0c4d\u0c15\u0c3f\u0c30\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e0a\u0e31\u0e19\u0e01\u0e36\u0e23\u0e36"
     ],
     "name:tur_x_preferred":[
         "\u00c7ank\u0131r\u0131"
     ],
+    "name:udm_x_preferred":[
+        "\u0427\u0430\u043d\u043a\u044b\u0440\u044b"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0430\u043d\u043a\u0438\u0440\u0438"
+    ],
     "name:unk_x_variant":[
         "Khanjarah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0646\u0642\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:vol_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:war_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
+    "name:zho_x_preferred":[
+        "\u660c\u514b\u52d2"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Turkey",
@@ -208,7 +349,7 @@
         }
     ],
     "wof:id":101912689,
-    "wof:lastmodified":1527653265,
+    "wof:lastmodified":1563360620,
     "wof:name":"\u00c7ank\u0131r\u0131",
     "wof:parent_id":1108709731,
     "wof:placetype":"locality",

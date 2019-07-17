@@ -19,6 +19,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0631\u0633\u0648\u0633"
     ],
+    "name:arg_x_preferred":[
+        "Tarsus"
+    ],
     "name:arz_x_preferred":[
         "\u0637\u0631\u0633\u0648\u0633"
     ],
@@ -31,11 +34,23 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0440\u0441"
     ],
+    "name:bul_x_variant":[
+        "\u0422\u0430\u0440\u0437\u0443\u0441"
+    ],
     "name:cat_x_preferred":[
         "Tars"
     ],
+    "name:cat_x_variant":[
+        "Tarsus"
+    ],
+    "name:ceb_x_preferred":[
+        "Tarsus"
+    ],
     "name:ckb_x_preferred":[
         "\u062a\u0627\u0631\u0633\u0648\u0633"
+    ],
+    "name:dan_x_preferred":[
+        "Tarsus"
     ],
     "name:deu_x_preferred":[
         "Tarsus"
@@ -61,6 +76,12 @@
     "name:fra_x_preferred":[
         "Tarse"
     ],
+    "name:fra_x_variant":[
+        "Tarsus"
+    ],
+    "name:glg_x_preferred":[
+        "Tarsus"
+    ],
     "name:hbs_x_preferred":[
         "Tars"
     ],
@@ -72,6 +93,12 @@
     ],
     "name:ita_x_preferred":[
         "Tarso"
+    ],
+    "name:ita_x_variant":[
+        "Tarsus"
+    ],
+    "name:jav_x_preferred":[
+        "Tarsus"
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30eb\u30b9\u30b9"
@@ -100,17 +127,29 @@
     "name:nno_x_preferred":[
         "Tarsus i Mersin"
     ],
+    "name:nno_x_variant":[
+        "Tarsus"
+    ],
     "name:nor_x_preferred":[
         "Tarsus"
     ],
     "name:oci_x_preferred":[
         "Tars"
     ],
+    "name:oci_x_variant":[
+        "Tarsus"
+    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0679\u0627\u0631\u0633\u0633"
     ],
+    "name:pnb_x_variant":[
+        "\u0679\u06cc\u0631\u0633\u0633"
+    ],
     "name:pol_x_preferred":[
         "Tars"
+    ],
+    "name:pol_x_variant":[
+        "Tarsus"
     ],
     "name:por_x_preferred":[
         "Tarsus"
@@ -121,8 +160,17 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0440\u0441\u0443\u0441"
     ],
+    "name:sco_x_preferred":[
+        "Tarsus"
+    ],
+    "name:slk_x_preferred":[
+        "Tarsus"
+    ],
     "name:spa_x_preferred":[
         "Tarso"
+    ],
+    "name:spa_x_variant":[
+        "Tarsus"
     ],
     "name:srp_x_preferred":[
         "\u0422\u0430\u0440\u0441"
@@ -144,6 +192,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0637\u0631\u0633\u0648\u0633\u060c \u0645\u0631\u0633\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Tarsus"
     ],
     "name:zho_x_preferred":[
         "\u5927\u6578"
@@ -277,7 +328,7 @@
         }
     ],
     "wof:id":890463779,
-    "wof:lastmodified":1527729761,
+    "wof:lastmodified":1563361028,
     "wof:name":"Tarsus",
     "wof:parent_id":890463423,
     "wof:placetype":"locality",

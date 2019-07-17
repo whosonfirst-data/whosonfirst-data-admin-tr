@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000982,
-    "geom:area_square_m":9412516.506822,
+    "geom:area_square_m":9412516.50683,
     "geom:bbox":"34.1470804727,39.1226090279,34.1791755167,39.1872849265",
     "geom:latitude":39.15549,
     "geom:longitude":34.164069,
@@ -30,14 +30,23 @@
     "name:bel_x_variant":[
         "\u041a\u044b\u0440\u0448\u044d\u0445\u0456\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09b0\u09b6\u09bf\u09b8"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u044a\u0440\u0448\u0435\u0445\u0438\u0440"
     ],
     "name:cat_x_preferred":[
         "K\u0131r\u015fehir"
     ],
+    "name:ceb_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
     "name:ces_x_preferred":[
         "K\u0131r\u015fehir"
+    ],
+    "name:dan_x_preferred":[
+        "K\u0131rsehir"
     ],
     "name:deu_x_preferred":[
         "K\u0131r\u015fehir"
@@ -51,23 +60,92 @@
     "name:eng_x_preferred":[
         "K\u0131r\u015fehir"
     ],
+    "name:epo_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0631 \u0634\u0647\u0631"
     ],
+    "name:fas_x_variant":[
+        "\u0642\u0631\u0634\u0647\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
     "name:fra_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:fry_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:gag_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0ab0\u0acd\u0ab8\u0ac7\u0ab9\u0abf\u0ab0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0930\u0938\u0947\u0939\u0940\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0568\u0580\u0577\u0565\u0570\u056b\u0580"
+    ],
+    "name:ind_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:ita_x_preferred":[
         "K\u0131r\u015fehir"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30b7\u30a7\u30d2\u30eb"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbf\u0cb0\u0cbf\u0cb8\u0cc7\u0cb9\u0cbf\u0cb0\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e5\u10d8\u10e0\u10e8\u10d4\u10f0\u10d8\u10e0\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "K\u0131r\u015fehir"
     ],
     "name:kor_x_preferred":[
         "\ud0a4\ub974\uc170\ud788\ub974"
     ],
+    "name:kur_x_preferred":[
+        "Q\u00eer\u015fehir"
+    ],
+    "name:lav_x_preferred":[
+        "Kir\u0161ehira"
+    ],
+    "name:lit_x_preferred":[
+        "Kyr\u0161echiras"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0930\u094d\u0938\u0947\u0939\u093f\u0930"
+    ],
+    "name:min_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u044b\u0440\u0448\u0435\u0445\u0438\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:nan_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:nno_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:nob_x_preferred":[
+        "K\u0131r\u015fehir"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a3f\u0a30\u0a38\u0a47\u0a39\u0a30"
@@ -78,11 +156,41 @@
     "name:pol_x_preferred":[
         "K\u0131r\u015fehir"
     ],
+    "name:por_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:ron_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u044b\u0440\u0448\u0435\u0445\u0438\u0440"
     ],
+    "name:sco_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd2\u0dbb\u0dca\u0dc3\u0dda\u0dc4\u0dd2\u0dbb\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u0448\u0435\u0445\u0438\u0440"
+    ],
+    "name:swa_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bcd\u0b9a\u0bc6\u0bb9\u0bbf\u0bb0\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c30\u0c4d\u0c38\u0c46\u0c39\u0c3f\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e36\u0e23\u0e4c\u0e40\u0e0a\u0e2e\u0e35\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "K\u0131r\u015fehir"
@@ -98,6 +206,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0631 \u0634\u06c1\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
+    "name:war_x_preferred":[
+        "K\u0131r\u015fehir"
     ],
     "name:zho_x_preferred":[
         "\u514b\u723e\u8b1d\u5e0c\u723e"
@@ -238,7 +352,7 @@
         }
     ],
     "wof:id":101911227,
-    "wof:lastmodified":1507750785,
+    "wof:lastmodified":1563360662,
     "wof:name":"Justinianopolis",
     "wof:parent_id":890461355,
     "wof:placetype":"locality",

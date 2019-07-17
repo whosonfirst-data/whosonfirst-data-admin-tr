@@ -39,6 +39,9 @@
     "name:aze_x_preferred":[
         "K\u0131r\u015f\u0259h\u0259r ili"
     ],
+    "name:aze_x_variant":[
+        "K\u0131r\u015f\u0259h\u0259r vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u044b\u0440\u0448\u044d\u0445\u0456\u0440"
     ],
@@ -59,6 +62,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de K\u0131r\u015fehir"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u0131r\u015fehir"
     ],
     "name:ces_x_preferred":[
         "K\u0131r\u015fehirsk\u00e1 provincie"
@@ -142,8 +148,14 @@
     "name:kor_x_preferred":[
         "\ud0a4\ub974\uc170\ud788\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud0a4\ub974\uc170\ud788\ub974\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "Q\u00eer\u015fehir"
+    ],
+    "name:kur_x_variant":[
+        "K\u0131r\u015fehir"
     ],
     "name:lat_x_preferred":[
         "Macissus"
@@ -205,6 +217,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dc3\u0dd2\u0dba\u0dbb\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
     ],
+    "name:sme_x_preferred":[
+        "K\u0131r\u015fehir eanangoddi"
+    ],
     "name:spa_x_preferred":[
         "Provincia de K\u0131r\u015fehir"
     ],
@@ -231,6 +246,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e36\u0e23\u0e4c\u0e40\u0e0a\u0e2e\u0e35\u0e23\u0e4c"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e37\u0e2d\u0e23\u0e4c\u0e40\u0e0a\u0e2e\u0e35\u0e23\u0e4c"
     ],
     "name:tuk_x_preferred":[
         "Kyr\u015fehir"
@@ -259,11 +277,17 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u0631 \u0634\u06c1\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "K\u0131r\u015fehir"
+    ],
     "name:vie_x_preferred":[
         "K\u0131r\u015fehir"
     ],
     "name:war_x_preferred":[
         "K\u0131r\u015fehir"
+    ],
+    "name:yue_x_preferred":[
+        "\u514b\u723e\u8b1d\u5e0c\u723e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u514b\u5c14\u8c22\u5e0c\u5c14\u7701"
@@ -392,7 +416,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768934,
+    "wof:lastmodified":1563356555,
     "wof:name":"Kirsehir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

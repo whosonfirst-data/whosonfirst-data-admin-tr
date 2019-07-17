@@ -34,6 +34,9 @@
     "name:ara_x_preferred":[
         "\u0639\u0646\u062a\u0627\u0628"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0639\u064a\u0646\u062a\u0627\u0628"
+    ],
     "name:aze_x_preferred":[
         "Qaziantep ili"
     ],
@@ -58,6 +61,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Gaziantep"
     ],
+    "name:ceb_x_preferred":[
+        "Gaziantep"
+    ],
     "name:ces_x_preferred":[
         "Gaziantepsk\u00e1 provincie"
     ],
@@ -66,6 +72,12 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u062f\u06cc\u0644\u06c6\u06a9"
+    ],
+    "name:ckb_x_variant":[
+        "\u062f\u06cc\u0644\u06c6\u06a9"
+    ],
+    "name:crh_x_preferred":[
+        "Gaziantep"
     ],
     "name:cym_x_preferred":[
         "Gaziantep"
@@ -136,6 +148,9 @@
     "name:kaa_x_preferred":[
         "Gaziantep walayati"
     ],
+    "name:kaa_x_variant":[
+        "Gaziantep wa'layati"
+    ],
     "name:kan_x_preferred":[
         "\u0c97\u0c9c\u0cbf\u0caf\u0cbe\u0c82\u0c9f\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -147,6 +162,9 @@
     ],
     "name:kor_x_preferred":[
         "\uac00\uc9c0\uc548\ud14c\ud504 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\uc9c0\uc548\ud14c\ud504\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Entab"
@@ -241,6 +259,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e25 \u0e0a\u0e32\u0e2e\u0e4c\u0e40\u0e04\u0e35\u0e22 \u0e42\u0e01\u0e40\u0e27\u0e2d\u0e42\u0e19\u0e40\u0e23\u0e17"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e01\u0e32\u0e0b\u0e35\u0e2d\u0e31\u0e19\u0e40\u0e17\u0e47\u0e1e"
+    ],
     "name:tuk_x_preferred":[
         "Gaziantep"
     ],
@@ -276,6 +297,9 @@
     ],
     "name:war_x_preferred":[
         "Gaziantep"
+    ],
+    "name:yue_x_preferred":[
+        "\u52a0\u6fdf\u5b89\u6cf0\u666e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u6d4e\u5b89\u6cf0\u666e\u7701"
@@ -403,7 +427,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768938,
+    "wof:lastmodified":1563356595,
     "wof:name":"Gaziantep",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

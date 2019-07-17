@@ -34,8 +34,17 @@
     "name:ara_x_preferred":[
         "\u062a\u0643\u064a\u0631\u062f\u0627\u063a"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u064a\u0643\u064a\u0631\u062f\u0627\u063a"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u06a9\u06cc\u0631\u062f\u0627\u063a \u0627\u0648\u0633\u062a\u0627\u0646\u06cc"
+    ],
     "name:aze_x_preferred":[
         "T\u0259kirda\u011f ili"
+    ],
+    "name:aze_x_variant":[
+        "T\u0259kirda\u011f vilay\u0259ti"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0422\u044d\u043a\u0456\u0440\u0434\u0430\u0433"
@@ -57,6 +66,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de Tekirda\u011f"
+    ],
+    "name:ceb_x_preferred":[
+        "Tekirda\u011f"
     ],
     "name:ces_x_preferred":[
         "Tekirda\u011fsk\u00e1 provincie"
@@ -140,6 +152,9 @@
     "name:kaa_x_preferred":[
         "Tekirda\u011f walayati"
     ],
+    "name:kaa_x_variant":[
+        "Tekirda\u011f wa'layati"
+    ],
     "name:kan_x_preferred":[
         "\u0c9f\u0cc6\u0c95\u0cbf\u0cb0\u0ccd\u0ca1\u0cbe\u0c97\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -148,6 +163,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud14c\ud0a4\ub974\ub2e4 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ud14c\ud0a4\ub974\ub2e4\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Tekirda\u011f"
@@ -236,6 +254,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bc6\u0b95\u0bbf\u0bb0\u0bbf\u0ba4\u0bbe\u0b95\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0422\u04d9\u043a\u0438\u0440\u0434\u0430\u0433"
+    ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c46\u0c15\u0c3f\u0c30\u0c4d\u0c21\u0c3e\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -278,6 +299,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u062a\u06a9\u06cc\u0631\u062f\u0627\u063a"
     ],
+    "name:urd_x_variant":[
+        "\u062a\u06a9\u06cc\u0631\u062f\u0627\u063a \u0635\u0648\u0628\u06c1"
+    ],
     "name:vie_x_preferred":[
         "Tekirda\u011f"
     ],
@@ -286,6 +310,9 @@
     ],
     "name:war_x_preferred":[
         "Tekirda\u011f"
+    ],
+    "name:yue_x_preferred":[
+        "\u6cf0\u57fa\u723e\u9054\u7701"
     ],
     "name:zho_x_preferred":[
         "\u6cf0\u57fa\u5c14\u8fbe\u7701"
@@ -413,7 +440,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768943,
+    "wof:lastmodified":1563356655,
     "wof:name":"Tekirdag",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

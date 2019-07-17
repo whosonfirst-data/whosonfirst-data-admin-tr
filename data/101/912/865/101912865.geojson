@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000314,
-    "geom:area_square_m":2963583.492241,
+    "geom:area_square_m":2963583.492242,
     "geom:bbox":"26.3970546845,40.1399842414,26.4180838249,40.1693854934",
     "geom:latitude":40.15277,
     "geom:longitude":26.409351,
@@ -24,8 +24,20 @@
     "name:ara_x_preferred":[
         "\u062c\u0627\u0646\u0627\u0643\u0627\u0644\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0646\u0642 \u0642\u0644\u0639\u0629"
+    ],
+    "name:ast_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:azb_x_preferred":[
+        "\u0686\u0627\u0646\u0627\u0642\u200c\u0642\u0627\u0644\u0627"
+    ],
     "name:aze_x_preferred":[
         "\u00c7anaqqala"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09a8\u09be\u0995\u09be\u09b2"
     ],
     "name:bos_x_preferred":[
         "\u00c7anakkale"
@@ -36,8 +48,14 @@
     "name:cat_x_preferred":[
         "\u00c7anakkale"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c7anakkale"
+    ],
     "name:ces_x_preferred":[
         "\u00c7anakkale"
+    ],
+    "name:dan_x_preferred":[
+        "Canakkale"
     ],
     "name:deu_x_preferred":[
         "\u00c7anakkale"
@@ -51,8 +69,14 @@
     "name:eng_x_preferred":[
         "\u00c7anakkale"
     ],
+    "name:epo_x_preferred":[
+        "\u00c7anakkale"
+    ],
     "name:fas_x_preferred":[
         "\u0686\u0646\u0627\u0642\u200c\u0642\u0644\u0639\u0647"
+    ],
+    "name:fas_x_variant":[
+        "\u0686\u0627\u0646\u0627\u0642\u200c\u0642\u0644\u0639\u0647"
     ],
     "name:fin_x_preferred":[
         "\u00c7anakkale"
@@ -60,20 +84,65 @@
     "name:fra_x_preferred":[
         "\u00c7anakkale"
     ],
+    "name:gag_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:gla_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0ac7\u0aa8\u0abe\u0a95\u0ab2\u0ac7"
+    ],
     "name:heb_x_preferred":[
         "\u05e6\u05e0\u05e7\u05dc\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e6'\u05e0\u05e7\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0928\u093e\u0915\u094d\u0915\u093e\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "\u00c7anakkale"
     ],
     "name:hye_x_preferred":[
         "\u0549\u0561\u0576\u0561\u0584\u056f\u0561\u056c\u0565"
     ],
+    "name:ind_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:ita_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:jav_x_preferred":[
+        "\u00c7anakkale"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30ca\u30c3\u30ab\u30ec"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0caf\u0cbe\u0ca8\u0c95\u0ccd\u0c95\u0cb3\u0cc7"
     ],
     "name:kat_x_preferred":[
         "\u10e9\u10d0\u10dc\u10d0\u10e5\u10d9\u10d0\u10da\u10d4"
     ],
+    "name:kbd_x_preferred":[
+        "\u0427\u0430\u043d\u0430\u043a\u043a\u0430\u043b\u044d"
+    ],
+    "name:kin_x_preferred":[
+        "\u00c7anakkale"
+    ],
     "name:kor_x_preferred":[
         "\ucc28\ub098\uce7c\ub808"
+    ],
+    "name:kur_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:lad_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:lav_x_preferred":[
+        "\u010canakale"
     ],
     "name:lit_x_preferred":[
         "\u010canakal\u0117"
@@ -81,8 +150,32 @@
     "name:lrc_x_preferred":[
         "\u0686\u0627\u0646\u0627\u0642\u200c\u0642\u0644\u0639\u0647"
     ],
+    "name:mar_x_preferred":[
+        "\u0915\u0945\u0928\u0915\u0932"
+    ],
+    "name:min_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0427\u0430\u043d\u0430\u043a\u043a\u0430\u043b\u0435"
+    ],
     "name:mrj_x_preferred":[
         "\u0427\u0430\u043d\u0430\u043a\u043a\u0430\u043b\u0435"
+    ],
+    "name:msa_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:nan_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:nld_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:nno_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:nob_x_preferred":[
+        "\u00c7anakkale"
     ],
     "name:ota_x_preferred":[
         "\u0686\u06cc\u0646\u06a9 \u0642\u0644\u0639\u0647"
@@ -99,20 +192,47 @@
     "name:por_x_preferred":[
         "\u00c7anakkale"
     ],
+    "name:ron_x_preferred":[
+        "\u00c7anakkale"
+    ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u043d\u0430\u043a\u043a\u0430\u043b\u0435"
+    ],
+    "name:sco_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd0\u0db1\u0d9a\u0dca\u0d9a\u0dbd\u0dda"
+    ],
+    "name:slk_x_preferred":[
+        "\u00c7anakkale"
     ],
     "name:spa_x_preferred":[
         "\u00c7anakkale"
     ],
+    "name:sqi_x_preferred":[
+        "\u00c7anakalaja"
+    ],
     "name:srp_x_preferred":[
         "\u0427\u0430\u043d\u0430\u043a\u0430\u043b\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "\u00c7anakkale"
     ],
     "name:swe_x_preferred":[
         "\u00c7anakkale"
     ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc7\u0ba9\u0b95\u0bcd\u0b95\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c2f\u0c3e\u0c28\u0c15\u0c4d\u0c15\u0c3e\u0c32\u0c47"
+    ],
     "name:tha_x_preferred":[
         "\u0e0a\u0e32\u0e19\u0e31\u0e01\u0e01\u0e32\u0e40\u0e25"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0a\u0e32\u0e19\u0e31\u0e01\u0e04\u0e32\u0e41\u0e25"
     ],
     "name:tur_x_preferred":[
         "\u00c7anakkale"
@@ -129,11 +249,23 @@
     "name:urd_x_preferred":[
         "\u0686\u0646\u0627\u0642 \u0642\u0644\u0639\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u0646\u0627\u0642 \u0642\u0644\u0639\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Chanoqqal\u02bca"
     ],
+    "name:vie_x_preferred":[
+        "\u00c7anakkale"
+    ],
     "name:vol_x_preferred":[
         "\u00c7anakkale"
+    ],
+    "name:war_x_preferred":[
+        "\u00c7anakkale"
+    ],
+    "name:yue_x_preferred":[
+        "\u67e5\u7d0d\u5361\u5229"
     ],
     "name:zho_x_preferred":[
         "\u6070\u7d0d\u5361\u840a"
@@ -277,7 +409,7 @@
         }
     ],
     "wof:id":101912865,
-    "wof:lastmodified":1527660471,
+    "wof:lastmodified":1563360640,
     "wof:name":"\u00c7anakkale",
     "wof:parent_id":890462343,
     "wof:placetype":"locality",

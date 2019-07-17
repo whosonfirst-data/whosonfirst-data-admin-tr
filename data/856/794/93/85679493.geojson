@@ -40,6 +40,9 @@
     "name:aze_x_preferred":[
         "\u015e\u0131rnak ili"
     ],
+    "name:aze_x_variant":[
+        "\u015e\u0131rnaq ili"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0428\u044b\u0440\u043d\u0430\u043a"
     ],
@@ -61,6 +64,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de \u015e\u0131rnak"
     ],
+    "name:ceb_x_preferred":[
+        "\u015e\u0131rnak"
+    ],
     "name:ces_x_preferred":[
         "\u015e\u0131rnaksk\u00e1 provincie"
     ],
@@ -70,6 +76,9 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0634\u0631\u0646\u06d5\u062e"
     ],
+    "name:crh_x_preferred":[
+        "\u015e\u0131rnak"
+    ],
     "name:dan_x_preferred":[
         "\u015e\u0131rnak Province"
     ],
@@ -78,6 +87,9 @@
     ],
     "name:diq_x_preferred":[
         "\u015e\u0131rn\u00eax"
+    ],
+    "name:diq_x_variant":[
+        "\u015e\u0131rnaq"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03af\u03c1\u03bd\u03b1\u03ba"
@@ -91,6 +103,9 @@
     ],
     "name:epo_x_preferred":[
         "Provinco \u015e\u0131rnak"
+    ],
+    "name:epo_x_variant":[
+        "\u015e\u0131rnak"
     ],
     "name:est_x_preferred":[
         "\u015e\u0131rnaki provints"
@@ -146,6 +161,9 @@
     "name:kor_x_preferred":[
         "\uc2dc\ub974\ub098\ud06c \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc2dc\ub974\ub098\ud06c\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "\u015eirnex"
     ],
@@ -181,6 +199,9 @@
     ],
     "name:nno_x_preferred":[
         "Provinsen \u015e\u0131rnak"
+    ],
+    "name:nno_x_variant":[
+        "provinsen \u015e\u0131rnak"
     ],
     "name:nob_x_preferred":[
         "\u015e\u0131rnak"
@@ -245,6 +266,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0b\u0e23\u0e34\u0e19\u0e34\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e37\u0e2d\u0e23\u0e4c\u0e19\u0e31\u0e04"
+    ],
     "name:tuk_x_preferred":[
         "\u015eyrnak"
     ],
@@ -272,6 +296,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0634\u0631\u0646\u0627\u0642"
     ],
+    "name:urd_x_variant":[
+        "\u0634\u0631\u0646\u0627\u0642 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "\u015e\u0131rnak"
     ],
@@ -281,8 +308,14 @@
     "name:war_x_preferred":[
         "\u015e\u0131rnak"
     ],
+    "name:yue_x_preferred":[
+        "\u820d\u723e\u7d0d\u514b\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u820d\u5c14\u7eb3\u514b\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u963f\u514b\u8428\u8d56\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -407,7 +440,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768936,
+    "wof:lastmodified":1563356577,
     "wof:name":"Sirnak",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

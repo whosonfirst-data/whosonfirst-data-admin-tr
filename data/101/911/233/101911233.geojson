@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003847,
-    "geom:area_square_m":36525173.132973,
+    "geom:area_square_m":36525173.132962,
     "geom:bbox":"33.4543957049,39.7924793535,33.5780028331,39.8706393792",
     "geom:latitude":39.835991,
     "geom:longitude":33.506301,
@@ -30,6 +30,9 @@
     "name:bel_x_variant":[
         "\u041a\u044b\u0440\u044b\u043a\u0430\u043b\u0435"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09b0\u09bf\u0995\u09cd\u0995\u09be\u09b2\u09c7"
+    ],
     "name:bre_x_preferred":[
         "K\u0131r\u0131kkale"
     ],
@@ -37,6 +40,12 @@
         "\u041a\u044a\u0440\u044a\u043a\u043a\u0430\u043b\u0435"
     ],
     "name:cat_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:ceb_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:dan_x_preferred":[
         "K\u0131r\u0131kkale"
     ],
     "name:deu_x_preferred":[
@@ -48,17 +57,59 @@
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03af\u03ba\u03b1\u03bb\u03b5"
     ],
+    "name:eng_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:epo_x_preferred":[
+        "Kirikkale"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u06cc\u0631\u06cc\u0642\u200c\u0642\u0644\u0639\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:gag_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0ab0\u0ac0\u0a95\u0ac7\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05e7\u05e7\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0940\u0930\u093f\u0915\u0940\u0930\u0940\u0915\u093e\u0932\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:ind_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0131r\u0131kkale"
     ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30c3\u30ab\u30ec"
     ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbf\u0cb0\u0cbf\u0c95\u0ccd\u0c95\u0cbe\u0cb2\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e5\u10d8\u10e0\u10d8\u10e5\u10d9\u10d0\u10da\u10d4"
     ],
+    "name:kin_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
     "name:kor_x_preferred":[
         "\ud0a4\ub9ac\uce7c\ub808"
+    ],
+    "name:lav_x_preferred":[
+        "Kirikale"
     ],
     "name:lit_x_preferred":[
         "Kirikal\u0117"
@@ -66,11 +117,38 @@
     "name:lrc_x_preferred":[
         "\u0642\u06cc\u0631\u06cc\u0642\u200c\u0642\u0644\u0639\u0647"
     ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0930\u093f\u0915\u0947\u0932"
+    ],
+    "name:min_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u044b\u0440\u044b\u043a\u043a\u0430\u043b\u0435"
     ],
+    "name:msa_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:nan_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:nno_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:nob_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
     "name:pnb_x_preferred":[
         "\u06a9\u06cc\u0631\u06a9 \u06a9\u0644\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:por_x_preferred":[
+        "K\u0131r\u0131kkale"
     ],
     "name:ron_x_preferred":[
         "Kirikkale"
@@ -78,8 +156,35 @@
     "name:rus_x_preferred":[
         "\u041a\u044b\u0440\u044b\u043a\u043a\u0430\u043b\u0435"
     ],
+    "name:sco_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dd2\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dbd\u0dda"
+    ],
+    "name:spa_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0440\u0438\u043a\u0430\u043b\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:swe_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bbf\u0b95\u0bc7\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3f\u0c30\u0c4d\u0c30\u0c3f\u0c15\u0c3e\u0c32\u0c46"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e01\u0e36\u0e23\u0e36\u0e01\u0e01\u0e32\u0e40\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "K\u0131r\u0131kkale"
     ],
     "name:udm_x_preferred":[
         "\u041a\u044b\u0440\u044b\u043a\u043a\u0430\u043b\u0435"
@@ -92,6 +197,12 @@
     ],
     "name:uzb_x_preferred":[
         "Qirqqal\u02bca"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0131r\u0131kkale"
+    ],
+    "name:war_x_preferred":[
+        "K\u0131r\u0131kkale"
     ],
     "name:zho_x_preferred":[
         "\u514b\u52d2\u514b\u5361\u840a"
@@ -235,7 +346,7 @@
         }
     ],
     "wof:id":101911233,
-    "wof:lastmodified":1527715545,
+    "wof:lastmodified":1563360671,
     "wof:name":"K\u0131r\u0131kkale",
     "wof:parent_id":1108709743,
     "wof:placetype":"locality",

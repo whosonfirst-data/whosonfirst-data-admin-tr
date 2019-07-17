@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "Samsun ili"
     ],
+    "name:bar_x_preferred":[
+        "Samsun"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0421\u0430\u043c\u0441\u0443\u043d"
     ],
@@ -53,6 +56,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Samsun"
     ],
+    "name:ceb_x_preferred":[
+        "Samsun"
+    ],
     "name:ces_x_preferred":[
         "Samsunsk\u00e1 provincie"
     ],
@@ -61,6 +67,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0633\u0627\u0645\u0633\u0648\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Samsun"
     ],
     "name:deu_x_preferred":[
         "Samsun"
@@ -116,11 +125,17 @@
     "name:kaa_x_preferred":[
         "Samsun walayati"
     ],
+    "name:kaa_x_variant":[
+        "Samsun wa'layati"
+    ],
     "name:kat_x_preferred":[
         "\u10e1\u10d0\u10db\u10e1\u10e3\u10dc\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
     ],
     "name:kor_x_preferred":[
         "\uc0bc\uc21c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc0bc\uc21c\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Samsun"
@@ -128,11 +143,17 @@
     "name:lat_x_preferred":[
         "Amisus"
     ],
+    "name:lat_x_variant":[
+        "Samsun"
+    ],
     "name:lav_x_preferred":[
         "Samsunas ils"
     ],
     "name:lrc_x_preferred":[
         "\u0622\u0633\u062a\u0648\u0659\u0646 \u0633\u0627\u0645\u0633\u0648\u0646"
+    ],
+    "name:lrc_x_variant":[
+        "\u0633\u0627\u0645\u0633\u0648\u0646"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093e\u092e\u094d\u0938\u0941\u0928 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -185,6 +206,9 @@
     "name:slv_x_preferred":[
         "Samsun"
     ],
+    "name:sme_x_preferred":[
+        "Samsun eanangoddi"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Samsun"
     ],
@@ -230,6 +254,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0633\u0627\u0645\u0633\u0648\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u0627\u0645\u0633\u0648\u0646 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Samsun"
     ],
@@ -238,6 +265,9 @@
     ],
     "name:war_x_preferred":[
         "Samsun"
+    ],
+    "name:yue_x_preferred":[
+        "\u68ee\u677e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u8428\u59c6\u677e\u7701"
@@ -365,7 +395,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768933,
+    "wof:lastmodified":1563356542,
     "wof:name":"Samsun",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

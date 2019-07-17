@@ -62,6 +62,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de \u00c7ank\u0131r\u0131"
     ],
+    "name:ceb_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
+    ],
     "name:ces_x_preferred":[
         "\u00c7ank\u0131rsk\u00e1 provincie"
     ],
@@ -70,6 +73,12 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0686\u0627\u0646\u0642\u0631\u06cc"
+    ],
+    "name:ckb_x_variant":[
+        "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0686\u0627\u0646\u06a9\u0631\u06cc"
+    ],
+    "name:crh_x_preferred":[
+        "\u00c7ank\u0131r\u0131"
     ],
     "name:dan_x_preferred":[
         "\u00c7ank\u0131r\u0131 Province"
@@ -148,6 +157,9 @@
     "name:kor_x_preferred":[
         "\ucc3d\ud0a4\ub9ac \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucc3d\ud0a4\ub9ac\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Germanicopolis"
     ],
@@ -180,6 +192,9 @@
     ],
     "name:nno_x_preferred":[
         "Provinsen \u00c7ank\u0131r\u0131"
+    ],
+    "name:nno_x_variant":[
+        "provinsen \u00c7ank\u0131r\u0131"
     ],
     "name:nob_x_preferred":[
         "\u00c7ank\u0131r\u0131"
@@ -238,6 +253,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e04\u0e19\u0e04\u0e34\u0e23\u0e35\u0e48"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e31\u0e07\u0e04\u0e37\u0e2d\u0e23\u0e37\u0e2d"
+    ],
     "name:tuk_x_preferred":[
         "\u00c7ankyry"
     ],
@@ -265,6 +283,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0686\u0627\u0646\u0642\u0631\u06cc"
     ],
+    "name:urd_x_variant":[
+        "\u0686\u0627\u0646\u0642\u0631\u06cc \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "\u00c7ank\u0131r\u0131"
     ],
@@ -276,6 +297,9 @@
     ],
     "name:war_x_preferred":[
         "\u00c7ank\u0131r\u0131"
+    ],
+    "name:yue_x_preferred":[
+        "\u660c\u514b\u52d2\u7701"
     ],
     "name:zho_x_preferred":[
         "\u660c\u514b\u52d2\u7701"
@@ -400,7 +424,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768938,
+    "wof:lastmodified":1563356605,
     "wof:name":"Cankiri",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
