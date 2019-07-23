@@ -41,6 +41,9 @@
     "name:aze_x_preferred":[
         "Mardin ili"
     ],
+    "name:aze_x_variant":[
+        "Mardin vilay\u0259ti"
+    ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041c\u0430\u0440\u0434\u0437\u0456\u043d"
     ],
@@ -59,6 +62,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Mardin"
     ],
+    "name:ceb_x_preferred":[
+        "Mardin"
+    ],
     "name:ces_x_preferred":[
         "Mardinsk\u00e1 provincie"
     ],
@@ -67,6 +73,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0645\u06ce\u0631\u062f\u06cc\u0646"
+    ],
+    "name:crh_x_preferred":[
+        "Mardin"
     ],
     "name:cym_x_preferred":[
         "Mardin"
@@ -79,6 +88,9 @@
     ],
     "name:diq_x_preferred":[
         "M\u00eardin"
+    ],
+    "name:diq_x_variant":[
+        "Merdin"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b1\u03c1\u03bd\u03c4\u03af\u03bd"
@@ -146,6 +158,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\ub974\ub518 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\ub974\ub518\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "M\u00eard\u00een"
     ],
@@ -203,11 +218,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u0440\u0434\u0438\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0438\u043b \u041c\u0430\u0440\u0434\u0438\u043d"
+    ],
     "name:sco_x_preferred":[
         "Mardin Province"
     ],
     "name:sin_x_preferred":[
         "\u0db8\u0dcf\u0dbb\u0dca\u0daf\u0dd2\u0db1\u0dca \u0db4\u0dc5\u0dcf\u0dad"
+    ],
+    "name:sme_x_preferred":[
+        "Mardin eanangoddi"
     ],
     "name:spa_x_preferred":[
         "Provincia de Mardin"
@@ -223,6 +244,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0bae\u0bbe\u0bb0\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0438\u043d"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c30\u0c4d\u0c21\u0c3f\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -257,11 +281,20 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0645\u0627\u0631\u062f\u06cc\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0631\u062f\u06cc\u0646 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Mardin"
+    ],
     "name:vie_x_preferred":[
         "Mardin"
     ],
     "name:war_x_preferred":[
         "Mardin"
+    ],
+    "name:yue_x_preferred":[
+        "\u746a\u5f8b\u4e01\u7701"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u5c14\u4e01\u7701"
@@ -389,7 +422,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768937,
+    "wof:lastmodified":1563356585,
     "wof:name":"Mardin",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

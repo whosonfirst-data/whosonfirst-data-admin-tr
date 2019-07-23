@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004274,
-    "geom:area_square_m":22155680.786879,
+    "geom:area_square_m":41688615.010881,
     "geom:bbox":"40.1495571812,37.8629673348,40.2463120323,37.9719699169",
     "geom:latitude":37.91858,
     "geom:longitude":40.202973,
@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0627\u0631 \u0628\u0643\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u062f\u06cc\u0627\u0631\u0628\u06a9\u0631"
+    ],
     "name:aze_x_preferred":[
         "Diyarb\u0259kir"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:bel_x_variant":[
         "\u0414\u044b\u044f\u0440\u0431\u0430\u043a\u044b\u0440"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09bf\u09af\u09bc\u09be\u09b0\u09ac\u09bf\u0995\u09bf\u09b0"
     ],
     "name:bre_x_preferred":[
         "Diyarbak\u0131r"
@@ -47,6 +53,12 @@
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0645\u06d5\u062f"
     ],
+    "name:cym_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:dan_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:deu_x_preferred":[
         "Diyarbak\u0131r"
     ],
@@ -56,20 +68,47 @@
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b9\u03b3\u03b9\u03b1\u03c1\u03bc\u03c0\u03b1\u03ba\u03af\u03c1"
     ],
+    "name:ell_x_variant":[
+        "\u039d\u03c4\u03b9\u03b3\u03b9\u03ac\u03c1\u03bc\u03c0\u03b1\u03ba\u03b9\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Diyarbak\u0131r"
     ],
     "name:epo_x_preferred":[
         "Dijarbakiro"
     ],
+    "name:eus_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0627\u0631\u0628\u06a9\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Diyarbak\u0131r"
     ],
     "name:fra_x_preferred":[
         "Diyarbak\u0131r"
     ],
+    "name:gag_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:gla_x_preferred":[
+        "Amed"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa6\u0abf\u0aaf\u0abe\u0ab0\u0acd\u0aac\u0abe\u0a95\u0ac0\u0ab0"
+    ],
     "name:heb_x_preferred":[
         "\u05d3\u05d9\u05d0\u05e8\u05d1\u05e7\u05d9\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u093f\u092f\u093e\u0930\u092c\u093e\u0915\u093f\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:hun_x_preferred":[
+        "Diyarbak\u0131r"
     ],
     "name:hye_x_preferred":[
         "\u0534\u056b\u0561\u0580\u0562\u0565\u0584\u056b\u0580"
@@ -77,8 +116,17 @@
     "name:ind_x_preferred":[
         "Diyarbak\u0131r"
     ],
+    "name:ita_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:jav_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:jpn_x_preferred":[
         "\u30c7\u30a3\u30e4\u30eb\u30d0\u30af\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca1\u0cbf\u0caf\u0cb0\u0ccd\u0cac\u0cbe\u0c95\u0cbf\u0cb0\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d3\u10d8\u10d0\u10e0\u10d1\u10d0\u10e5\u10d8\u10e0\u10d8"
@@ -86,11 +134,20 @@
     "name:kaz_x_preferred":[
         "\u0414\u0438\u044f\u0440\u0431\u0430\u049b\u044b\u0440"
     ],
+    "name:kaz_x_variant":[
+        "\u0414\u0438\u044f\u0440\u0431\u0430\u043a\u044b\u0440"
+    ],
+    "name:kin_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:kor_x_preferred":[
         "\ub514\uc57c\ub974\ubc14\ud0a4\ub974"
     ],
     "name:kur_x_preferred":[
         "Amed"
+    ],
+    "name:lat_x_preferred":[
+        "Amida"
     ],
     "name:lav_x_preferred":[
         "Dijarbakira"
@@ -98,16 +155,40 @@
     "name:lit_x_preferred":[
         "Dijarbakyras"
     ],
+    "name:lrc_x_preferred":[
+        "\u062f\u06cc\u0627\u0631\u0628\u06a9\u0631"
+    ],
+    "name:mar_x_preferred":[
+        "\u0926\u093f\u092f\u093e\u0930\u092c\u093e\u0915\u0940\u0930"
+    ],
+    "name:min_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:mkd_x_preferred":[
         "\u0414\u0438\u0458\u0430\u0440\u0431\u0435\u043a\u0438\u0440"
     ],
     "name:mrj_x_preferred":[
         "\u0414\u0438\u044f\u0440\u0431\u0430\u043a\u044b\u0440"
     ],
+    "name:msa_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:mzn_x_preferred":[
         "\u062f\u06cc\u0627\u0631\u0628\u06a9\u0631"
     ],
+    "name:nan_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:nld_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:nno_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:nob_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:oci_x_preferred":[
         "Diyarbak\u0131r"
     ],
     "name:oss_x_preferred":[
@@ -119,14 +200,29 @@
     "name:pol_x_preferred":[
         "Amida"
     ],
+    "name:pol_x_variant":[
+        "Diyarbak\u0131r"
+    ],
     "name:por_x_preferred":[
         "Diyarbakir"
     ],
     "name:por_x_variant":[
         "Diyarbak\u0131r"
     ],
+    "name:ron_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:rus_x_preferred":[
         "\u0414\u0438\u044f\u0440\u0431\u0430\u043a\u044b\u0440"
+    ],
+    "name:sco_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:sin_x_preferred":[
+        "\u0daf\u0dd2\u0dba\u0dcf\u0db6\u0dcf\u0d9a\u0dd2\u0dbb\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Diyarbak\u0131r"
     ],
     "name:spa_x_preferred":[
         "Diyarbak\u0131r"
@@ -134,8 +230,20 @@
     "name:srp_x_preferred":[
         "\u0414\u0438\u0458\u0430\u0440\u0431\u0430\u043a\u0438\u0440"
     ],
+    "name:swa_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:swe_x_preferred":[
         "Diyarbak\u0131r"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bbf\u0baf\u0bbe\u0bb0\u0bcd\u0baa\u0bbe\u0b95\u0bbf\u0bb1\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c21\u0c2f\u0c30\u0c4d\u0c2c\u0c15\u0c3f\u0c30\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e14\u0e35\u0e22\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e01\u0e36\u0e23\u0e4c"
     ],
     "name:tur_x_preferred":[
         "Diyarbak\u0131r"
@@ -152,8 +260,20 @@
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0627\u0631 \u0628\u06a9\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Diyorbakir"
+    ],
+    "name:vie_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
     "name:vol_x_preferred":[
         "Diyarbak\u0131r"
+    ],
+    "name:war_x_preferred":[
+        "Diyarbak\u0131r"
+    ],
+    "name:yue_x_preferred":[
+        "\u8fea\u4e9e\u5df4\u514b\u723e"
     ],
     "name:zho_x_preferred":[
         "\u8fea\u4e9a\u5df4\u514b\u5c14"
@@ -208,7 +328,7 @@
         }
     ],
     "wof:id":1175613685,
-    "wof:lastmodified":1534985988,
+    "wof:lastmodified":1563359814,
     "wof:name":"Diyarbak\u0131r",
     "wof:parent_id":1108709329,
     "wof:placetype":"locality",

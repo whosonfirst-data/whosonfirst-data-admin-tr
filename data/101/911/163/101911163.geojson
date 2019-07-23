@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001423,
-    "geom:area_square_m":13151997.544553,
+    "geom:area_square_m":13151997.544556,
     "geom:bbox":"32.2840413415,41.5934389391,32.3726608272,41.6459176814",
     "geom:latitude":41.627665,
     "geom:longitude":32.328349,
@@ -26,6 +26,15 @@
     "name:aze_x_preferred":[
         "Bart\u0131n"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b0\u09a4\u09bf\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:dan_x_preferred":[
+        "Bart\u0131n"
+    ],
     "name:deu_x_preferred":[
         "Bart\u0131n"
     ],
@@ -34,6 +43,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03c1\u03c4\u03af\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Bart\u0131n"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0631\u062a\u06cc\u0646"
@@ -44,20 +56,83 @@
     "name:fra_x_preferred":[
         "Bart\u0131n"
     ],
+    "name:gag_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0930\u094d\u091f\u093f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0580\u0569\u0568\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:ita_x_preferred":[
+        "Bart\u0131n"
+    ],
     "name:jpn_x_preferred":[
         "\u30d0\u30eb\u30c8\u30a5\u30f3"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cbe\u0cb0\u0ccd\u0c9f\u0cbf\u0ca8\u0ccd"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d0\u10e0\u10d7\u10d8\u10dc\u10d8"
     ],
+    "name:kin_x_preferred":[
+        "Bart\u0131n"
+    ],
     "name:kor_x_preferred":[
         "\ubc14\ub974\ud2f4"
+    ],
+    "name:lav_x_preferred":[
+        "Bartina"
+    ],
+    "name:lit_x_preferred":[
+        "Bartinas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u093e\u0930\u094d\u091f\u093f\u0928"
+    ],
+    "name:min_x_preferred":[
+        "Bart\u0131n"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0440\u0442\u044b\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:nan_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:nld_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:nno_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:nob_x_preferred":[
+        "Bartin"
+    ],
     "name:pnb_x_preferred":[
         "\u0628\u0627\u0631\u062a\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:por_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:ron_x_preferred":[
+        "Bart\u0131n"
     ],
     "name:rus_x_preferred":[
         "\u0411\u0430\u0440\u0442\u0438\u043d"
@@ -65,11 +140,32 @@
     "name:rus_x_variant":[
         "\u0411\u0430\u0440\u0442\u044b\u043d"
     ],
+    "name:sco_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dcf\u0dbb\u0dca\u0da7\u0dd2\u0db1\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Bart\u0131n"
     ],
     "name:swa_x_preferred":[
         "Bart\u0131n Merkez"
+    ],
+    "name:swe_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c3e\u0c30\u0c4d\u0c1f\u0c3f\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1a\u0e32\u0e23\u0e4c\u0e15\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Bart\u0131n"
     ],
     "name:udm_x_preferred":[
         "\u0411\u0430\u0440\u0442\u044b\u043d"
@@ -82,6 +178,15 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u0631\u062a\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:vol_x_preferred":[
+        "Bart\u0131n"
+    ],
+    "name:war_x_preferred":[
+        "Bart\u0131n"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u723e\u6ed5"
@@ -134,7 +239,7 @@
         }
     ],
     "wof:id":101911163,
-    "wof:lastmodified":1527715547,
+    "wof:lastmodified":1563360676,
     "wof:name":"Bart\u0131n",
     "wof:parent_id":1108709723,
     "wof:placetype":"locality",

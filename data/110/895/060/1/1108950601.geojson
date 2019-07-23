@@ -21,6 +21,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u064a\u0634\u064a\u0644 \u0643\u0648\u064a"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u043d \u0421\u0442\u0435\u0444\u0430\u043d\u043e"
     ],
@@ -32,6 +35,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a3\u03c4\u03ad\u03c6\u03b1\u03bd\u03bf\u03c2 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03b5\u03c3\u03af\u03bb\u03ba\u03b9\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Ye\u015filk\u00f6y"
@@ -78,6 +84,12 @@
     "name:tur_x_preferred":[
         "Ye\u015filk\u00f6y"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0626\u0634\u06cc\u0644\u06a9\u0648\u0626\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u8036\u897f\u52d2\u5ed3\u4f0a"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         85679237,
@@ -104,7 +116,7 @@
         }
     ],
     "wof:id":1108950601,
-    "wof:lastmodified":1561769139,
+    "wof:lastmodified":1563359628,
     "wof:name":"Yesilkoy",
     "wof:parent_id":101912657,
     "wof:placetype":"neighbourhood",

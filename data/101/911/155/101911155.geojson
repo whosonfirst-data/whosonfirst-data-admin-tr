@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000842,
-    "geom:area_square_m":7769157.614974,
+    "geom:area_square_m":7769157.614972,
     "geom:bbox":"27.205435504,41.7186924596,27.2435465082,41.7595431703",
     "geom:latitude":41.736184,
     "geom:longitude":27.222365,
@@ -21,8 +21,14 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0642\u0644\u0631 \u0627\u064a\u0644\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0642\u06cc\u0631\u062e\u0644\u0627\u0631 \u0627\u0626\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "K\u0131rklareli"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09b0\u09cd\u0995\u09b2\u09be\u09b0\u09c7\u09b2\u09bf"
     ],
     "name:bul_x_preferred":[
         "\u041b\u043e\u0437\u0435\u043d\u0433\u0440\u0430\u0434"
@@ -30,7 +36,13 @@
     "name:cat_x_preferred":[
         "K\u0131rklareli"
     ],
+    "name:ceb_x_preferred":[
+        "K\u0131rklareli"
+    ],
     "name:ces_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:dan_x_preferred":[
         "K\u0131rklareli"
     ],
     "name:deu_x_preferred":[
@@ -42,11 +54,17 @@
     "name:ell_x_preferred":[
         "\u039a\u03b9\u03c1\u03ba\u03bb\u03b1\u03c1\u03b5\u03bb\u03af"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03b9\u03c1\u03ba\u03bb\u03ac\u03c1\u03b5\u03bb\u03b9"
+    ],
     "name:eng_x_preferred":[
         "K\u0131rklareli"
     ],
     "name:epo_x_preferred":[
         "K\u0131rklareli"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0642\u0644\u0631\u0627\u06cc\u0644\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kirklareli"
@@ -57,20 +75,74 @@
     "name:fra_x_preferred":[
         "K\u0131rklareli"
     ],
+    "name:gag_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abf\u0ab0\u0acd\u0a95\u0ab2\u0ab0\u0ac7\u0ab2\u0ac0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e8\u05e7\u05dc\u05d0\u05e8\u05dc\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0930\u0915\u093e\u0930\u0947\u0932\u0940"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0580\u056f\u056c\u0561\u0580\u0565\u056c\u056b"
+    ],
+    "name:ind_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:ita_x_preferred":[
+        "K\u0131rklareli"
+    ],
     "name:jpn_x_preferred":[
         "\u30af\u30eb\u30af\u30e9\u30fc\u30ec\u30ea"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbf\u0cb0\u0ccd\u0c95\u0ccd\u0cb2\u0ccd\u0caf\u0cbe\u0cb0\u0cc6\u0cb2\u0cbf"
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10d8\u10e0\u10e5\u10da\u10d0\u10e0\u10d4\u10da\u10d8"
     ],
+    "name:kin_x_preferred":[
+        "K\u0131rklareli"
+    ],
     "name:kor_x_preferred":[
         "\ud0a4\ub974\ud074\ub77c\ub810\ub9ac"
+    ],
+    "name:lav_x_preferred":[
+        "Kirklareli"
     ],
     "name:lit_x_preferred":[
         "Kirklarelis"
     ],
+    "name:mar_x_preferred":[
+        "\u0915\u093f\u0930\u094d\u0915\u0932\u0930\u0947\u0932\u0940"
+    ],
+    "name:min_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u0437\u0435\u043d\u0433\u0440\u0430\u0434"
+    ],
     "name:mrj_x_preferred":[
         "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:nan_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:nno_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:nob_x_preferred":[
+        "Kirklareli"
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a3f\u0a30\u0a15\u0a32\u0a3e\u0a32\u0a47\u0a30\u0a40"
@@ -81,11 +153,44 @@
     "name:pol_x_preferred":[
         "K\u0131rklareli"
     ],
+    "name:por_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:ron_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:run_x_preferred":[
+        "K\u0131rklareli"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u044b\u0440\u043a\u043b\u0430\u0440\u0435\u043b\u0438"
     ],
+    "name:sco_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dbb\u0dca\u0d9a\u0dca\u0dbd\u0dbb\u0dd9\u0dbd\u0dd2"
+    ],
+    "name:slk_x_preferred":[
+        "K\u0131rklareli"
+    ],
     "name:spa_x_preferred":[
         "K\u0131rklareli"
+    ],
+    "name:swa_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:swe_x_preferred":[
+        "Kirklareli"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bcd\u0b95\u0bcd\u0bb3\u0bb0\u0bc7\u0bb2\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c30\u0c4d\u0c15\u0c41\u0c32\u0c30\u0c47\u0c32\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e23\u0e36\u0e04\u0e25\u0e32\u0e40\u0e23\u0e25\u0e35"
     ],
     "name:tur_x_preferred":[
         "K\u0131rklareli"
@@ -101,6 +206,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0642\u0631\u0642\u0644\u0631\u0627\u06cc\u0644\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0131rklareli"
+    ],
+    "name:war_x_preferred":[
+        "K\u0131rklareli"
     ],
     "name:zho_x_preferred":[
         "\u514b\u723e\u514b\u62c9\u96f7\u5229"
@@ -244,7 +355,7 @@
         }
     ],
     "wof:id":101911155,
-    "wof:lastmodified":1527715547,
+    "wof:lastmodified":1563360677,
     "wof:name":"K\u0131rklareli",
     "wof:parent_id":890462611,
     "wof:placetype":"locality",

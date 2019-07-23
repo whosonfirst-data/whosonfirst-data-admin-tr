@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1934446.205739,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.86602,39.946998,32.86602,39.946998",
     "geom:latitude":39.946998,
     "geom:longitude":32.86602,
@@ -31,11 +31,29 @@
     "name:aze_x_preferred":[
         "Alt\u0131nda\u011f"
     ],
+    "name:aze_x_variant":[
+        "Alt\u0131nda\u011f il\u00e7\u0259si"
+    ],
+    "name:cat_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:ceb_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
     "name:deu_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:diq_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:eng_x_preferred":[
         "Alt\u0131nda\u011f"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062a\u06cc\u0646\u062f\u0627\u06af\u060c \u0627\u0646\u06a9\u0627\u0631\u0627"
+    ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u062a\u06cc\u0646\u062f\u0627\u06af"
     ],
     "name:fra_x_preferred":[
         "Alt\u0131nda\u011f"
@@ -43,8 +61,17 @@
     "name:hun_x_preferred":[
         "Alt\u0131nda\u011f"
     ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0569\u0568\u0576\u0564\u0561\u0572"
+    ],
     "name:ita_x_preferred":[
         "Distretto di Alt\u0131nda\u011f"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30c6\u30a3\u30f3\u30c0\u30b0"
+    ],
+    "name:kin_x_preferred":[
+        "Alt\u0131nda\u011f"
     ],
     "name:koi_x_preferred":[
         "\u0410\u043b\u0442\u044b\u043d\u0434\u0430\u0433"
@@ -55,6 +82,33 @@
     "name:mrj_x_preferred":[
         "\u0410\u043b\u0442\u044b\u043d\u0434\u0430\u0433"
     ],
+    "name:msa_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:nan_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:nld_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:nob_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0627\u0644\u062a\u0646\u062f\u0627\u06af"
+    ],
+    "name:por_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0442\u044b\u043d\u0434\u0430\u0433"
+    ],
+    "name:swa_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:tur_x_preferred":[
+        "Alt\u0131nda\u011f"
+    ],
     "name:und_x_colloquial":[
         "Altindag"
     ],
@@ -62,6 +116,12 @@
         "Alt\u0131nda\u011f"
     ],
     "name:unk_x_variant":[
+        "Alt\u0131nda\u011f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u062a\u06cc\u0646\u062f\u0627\u063a"
+    ],
+    "name:vie_x_preferred":[
         "Alt\u0131nda\u011f"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -96,10 +156,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":646,
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        890463833,
-        85679409
+        890463833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -126,7 +186,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936182,
+    "wof:lastmodified":1563356486,
     "wof:name":"Alt\u0131nda\u011f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

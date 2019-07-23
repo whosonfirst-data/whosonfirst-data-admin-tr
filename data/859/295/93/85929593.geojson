@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":781408.593136,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.845898,39.926824,32.845898,39.926824",
     "geom:latitude":39.926824,
     "geom:longitude":32.845898,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ben_x_preferred":[
+        "\u0987\u09a4\u09bf"
+    ],
     "name:eng_x_preferred":[
         "Eti"
     ],
@@ -60,10 +63,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":150,
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        890462517,
-        85679409
+        890462517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939141,
+    "wof:lastmodified":1563356493,
     "wof:name":"Eti",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -62,6 +62,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de Kahramanmara\u015f"
     ],
+    "name:ceb_x_preferred":[
+        "Kahramanmara\u015f"
+    ],
     "name:ces_x_preferred":[
         "Kahramanmara\u015fsk\u00e1 provincie"
     ],
@@ -70,6 +73,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0645\u06d5\u0631\u0639\u06d5\u0634"
+    ],
+    "name:crh_x_preferred":[
+        "Kahramanmara\u015f"
     ],
     "name:cym_x_preferred":[
         "Kahramanmara\u015f"
@@ -139,6 +145,9 @@
     "name:kaa_x_preferred":[
         "Kahramanmara\u015f walayati"
     ],
+    "name:kaa_x_variant":[
+        "Kahramanmara\u015f wa'layati"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0cb9\u0ccd\u0cb0\u0cbe\u0cae\u0cb0\u0cbe\u0cae\u0cbe\u0cb8\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -147,6 +156,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\ub77c\ub9cc\ub9c8\ub77c\uc288 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\ub77c\ub9cc\ub9c8\ub77c\uc288\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Mere\u015f"
@@ -211,6 +223,9 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dc4\u0dbb\u0db8\u0db1\u0dca\u0db8\u0dbb\u0dcf\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
+    "name:sme_x_preferred":[
+        "Kahramanmara\u015f eanangoddi"
+    ],
     "name:spa_x_preferred":[
         "Provincia de Kahramanmara\u015f"
     ],
@@ -235,8 +250,14 @@
     "name:tgl_x_preferred":[
         "Kahramanmara\u015f Province"
     ],
+    "name:tgl_x_variant":[
+        "Lalawigan ng Kahramanmara\u015f"
+    ],
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e32\u0e2b\u0e4c\u0e23\u0e32\u0e21\u0e32\u0e19\u0e21\u0e32\u0e23\u0e31\u0e2a"
+    ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e04\u0e32\u0e2e\u0e4c\u0e23\u0e32\u0e21\u0e31\u0e19\u0e21\u0e32\u0e23\u0e31\u0e0a"
     ],
     "name:tuk_x_preferred":[
         "Kahramanmara\u015f"
@@ -267,6 +288,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0642\u06c1\u0631\u0645\u0627\u0646 \u0645\u0631\u0639\u0634"
     ],
+    "name:urd_x_variant":[
+        "\u0642\u06c1\u0631\u0645\u0627\u0646 \u0645\u0631\u0639\u0634 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Kahramanmara\u015f"
     ],
@@ -278,6 +302,9 @@
     ],
     "name:war_x_preferred":[
         "Kahramanmara\u015f"
+    ],
+    "name:yue_x_preferred":[
+        "\u5361\u8d6b\u62c9\u66fc\u99ac\u62c9\u4ec0\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5361\u8d6b\u62c9\u66fc\u9a6c\u62c9\u4ec0\u7701"
@@ -405,7 +432,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768933,
+    "wof:lastmodified":1563356543,
     "wof:name":"K. Maras",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

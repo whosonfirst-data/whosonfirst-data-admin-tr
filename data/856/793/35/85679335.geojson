@@ -38,14 +38,23 @@
     "name:ara_x_preferred":[
         "\u0623\u0645\u0627\u0635\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0645\u0627\u0633\u064a\u0629"
+    ],
     "name:arc_x_preferred":[
         "\u0710\u0721\u0710\u0723\u071d\u0710"
     ],
     "name:aze_x_preferred":[
         "Amasya ili"
     ],
+    "name:aze_x_variant":[
+        "Amasya vilay\u0259ti"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u043c\u0430\u0441\u044c\u044f"
+    ],
+    "name:bar_x_preferred":[
+        "Amasya"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043c\u0430\u0441\u044c\u044f"
@@ -65,6 +74,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia dAmasya"
     ],
+    "name:cat_x_variant":[
+        "Prov\u00edncia d'Amasya"
+    ],
+    "name:ceb_x_preferred":[
+        "Amasya"
+    ],
     "name:ces_x_preferred":[
         "Amasyjsk\u00e1 provincie"
     ],
@@ -73,6 +88,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u0627\u0645\u0627\u0633\u06cc\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Amasya"
     ],
     "name:cym_x_preferred":[
         "Amasya"
@@ -156,11 +174,17 @@
     "name:kaz_x_preferred":[
         "\u0410\u043c\u0430\u0441\u044f"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u043c\u0430\u0441\u044c\u044f"
+    ],
     "name:kin_x_preferred":[
         "Intara y\u2019Amasya"
     ],
     "name:kor_x_preferred":[
         "\uc544\ub9c8\uc2dc\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\ub9c8\uc2dc\uc544\uc8fc"
     ],
     "name:lat_x_preferred":[
         "Amasea"
@@ -210,11 +234,17 @@
     "name:pnb_x_preferred":[
         "\u0627\u0645\u0627\u0633\u06cc\u0627 \u0635\u0648\u0628\u06c1"
     ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0627\u0645\u0627\u0633\u06cc\u0627"
+    ],
     "name:pol_x_preferred":[
         "Amasya"
     ],
     "name:por_x_preferred":[
         "Am\u00e1sia"
+    ],
+    "name:por_x_variant":[
+        "Amasya"
     ],
     "name:ron_x_preferred":[
         "Provincia Amasya"
@@ -261,6 +291,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e30\u0e21\u0e31\u0e2a\u0e22\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e32\u0e21\u0e31\u0e2a\u0e22\u0e32"
+    ],
     "name:tuk_x_preferred":[
         "Amas\u00fda"
     ],
@@ -288,6 +321,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0645\u0627\u0633\u06cc\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0645\u0627\u0633\u06cc\u0627 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Amasya"
     ],
@@ -299,6 +335,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10db\u10d0\u10e1\u10d8\u10d0\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u99ac\u897f\u4e9e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u963f\u9a6c\u897f\u4e9a\u7701"
@@ -426,7 +465,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768933,
+    "wof:lastmodified":1563356545,
     "wof:name":"Amasya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

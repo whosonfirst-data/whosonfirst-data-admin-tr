@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002089,
-    "geom:area_square_m":19469036.725285,
+    "geom:area_square_m":19469036.725286,
     "geom:bbox":"28.7535803223,41.0435199143,28.8188989258,41.1038421387",
     "geom:latitude":41.076472,
     "geom:longitude":28.787547,
@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u0636\u064a\u0627\u0621 \u0643\u0648\u0643 \u0623\u0644\u0628"
     ],
+    "name:ast_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
     "name:azb_x_preferred":[
         "\u0636\u06cc\u0627 \u06af\u0648\u06a9\u200c\u0622\u0644\u067e"
     ],
+    "name:azb_x_variant":[
+        "\u0636\u06cc\u0627 \u06af\u0648\u06a9 \u0622\u0644\u067e"
+    ],
     "name:aze_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:cat_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
     "name:ces_x_preferred":[
@@ -46,6 +55,9 @@
     "name:diq_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b9\u03bf\u03ba\u03ac\u03bb\u03c0"
+    ],
     "name:eng_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
@@ -55,11 +67,77 @@
     "name:fra_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05d0 \u05d2\u05e7\u05d0\u05dc\u05e4"
+    ],
+    "name:hun_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:hye_x_preferred":[
+        "\u0536\u056b\u0561 \u0533\u0575\u0578\u0584\u0561\u056c\u0583"
+    ],
+    "name:ind_x_preferred":[
+        "Ziya Gokalp"
+    ],
+    "name:ita_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ba\u30a3\u30e4\u30fb\u30ae\u30e7\u30ab\u30eb\u30d7"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0417\u0438\u044f \u0413\u04e9\u043a\u0430\u043b\u043f"
+    ],
+    "name:kir_x_preferred":[
+        "\u0417\u0438\u044f \u0413\u04e8\u041a\u0410\u041b\u041f"
+    ],
+    "name:kur_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0413\u04e7\u043a\u0430\u043b\u043f"
+    ],
+    "name:nld_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:nno_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:nob_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:oci_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:pol_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:ron_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u044f \u0413\u0451\u043a\u0430\u043b\u044c\u043f"
+    ],
+    "name:slv_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
     "name:spa_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
+    "name:sqi_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:swe_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0417\u0438\u0451 \u0413\u0451\u043a\u0430\u043b\u043f"
+    ],
     "name:tur_x_preferred":[
         "Ziya G\u00f6kalp"
+    ],
+    "name:uig_x_preferred":[
+        "\u0632\u0649\u064a\u0627 \u06af\u06c6\u0643\u0626\u0627\u0644\u0649\u067e"
     ],
     "name:und_x_colloquial":[
         "Ziya Gokalp"
@@ -69,6 +147,15 @@
     ],
     "name:unk_x_variant":[
         "Ziya G\u00f6kalp"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u06cc\u0627\u0621 \u06af\u0648\u06a9 \u0627\u0644\u067e"
+    ],
+    "name:uzb_x_preferred":[
+        "Ziyo ko\u02bbkalp"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f50\u4e9a\u00b7\u683c\u5361\u5c14\u666e"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -124,7 +211,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269304,
+    "wof:lastmodified":1563356524,
     "wof:name":"Ziya Gokalp",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

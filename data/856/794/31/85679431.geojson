@@ -38,6 +38,9 @@
     "name:aze_x_preferred":[
         "U\u015fak ili"
     ],
+    "name:aze_x_variant":[
+        "U\u015faq ili"
+    ],
     "name:bak_x_preferred":[
         "\u0423\u0448\u0430\u043a"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:cat_x_variant":[
         "Prov\u00edncia dU\u015fak"
+    ],
+    "name:ceb_x_preferred":[
+        "U\u015fak"
     ],
     "name:ces_x_preferred":[
         "U\u015fack\u00e1 provincie"
@@ -152,6 +158,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc6b0\uc0e4\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc6b0\uc0e4\ud06c\uc8fc"
     ],
     "name:kur_x_preferred":[
         "U\u015fak"
@@ -246,6 +255,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e39\u0e0b\u0e31\u0e04"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e39\u0e0a\u0e31\u0e04"
+    ],
     "name:tuk_x_preferred":[
         "U\u015fak"
     ],
@@ -273,14 +285,23 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0639\u0634\u0627\u0642"
     ],
+    "name:urd_x_variant":[
+        "\u0639\u0634\u0627\u0642 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Ushoq"
+    ],
+    "name:uzb_x_variant":[
+        "U\u015fak"
     ],
     "name:vie_x_preferred":[
         "U\u015fak"
     ],
     "name:war_x_preferred":[
         "U\u015fak"
+    ],
+    "name:yue_x_preferred":[
+        "\u70cf\u6c99\u514b\u7701"
     ],
     "name:zho_x_preferred":[
         "\u4e4c\u6c99\u514b\u7701"
@@ -408,7 +429,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768937,
+    "wof:lastmodified":1563356591,
     "wof:name":"Usak",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -44,11 +44,17 @@
     "name:aze_x_preferred":[
         "Antalya ili"
     ],
+    "name:aze_x_variant":[
+        "Antalya vilay\u0259ti"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043b\u044c\u044f"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043d\u0442\u0430\u043b\u044c\u044f"
+    ],
+    "name:bel_x_variant":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043d\u0442\u0430\u043b\u044c\u044f"
     ],
     "name:ben_x_preferred":[
         "\u0986\u09a8\u09cd\u09a4\u09be\u09b2\u09bf\u09af\u09bc\u09be \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
@@ -65,6 +71,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia dAntalya"
     ],
+    "name:cat_x_variant":[
+        "Prov\u00edncia d'Antalya"
+    ],
+    "name:ceb_x_preferred":[
+        "Antalya"
+    ],
     "name:ces_x_preferred":[
         "Antalijsk\u00e1 provincie"
     ],
@@ -73,6 +85,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u0627\u0646\u062a\u0627\u0644\u06cc\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Antalya"
     ],
     "name:cym_x_preferred":[
         "Antalya"
@@ -156,6 +171,9 @@
     "name:kaa_x_preferred":[
         "Antalya walayati"
     ],
+    "name:kaa_x_variant":[
+        "Antalya wa'layati"
+    ],
     "name:kan_x_preferred":[
         "\u0c86\u0c82\u0ca4\u0cb2\u0ccd\u0caf \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -165,11 +183,17 @@
     "name:kaz_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043b\u0438\u044f"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u043d\u0442\u0430\u043b\u044c\u044f"
+    ],
     "name:kin_x_preferred":[
         "Intara y\u2019Antalya"
     ],
     "name:kor_x_preferred":[
         "\uc548\ud0c8\ub9ac\uc544 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc548\ud0c8\ub9ac\uc544\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Antalya"
@@ -221,6 +245,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0622\u0646\u062a\u0627\u0644\u06cc\u0627 \u0635\u0648\u0628\u06c1"
+    ],
+    "name:pnb_x_variant":[
+        "\u0635\u0648\u0628\u06c1 \u0622\u0646\u062a\u0627\u0644\u06cc\u0627"
     ],
     "name:pol_x_preferred":[
         "Antalya"
@@ -291,6 +318,9 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043b\u044c\u044f"
     ],
+    "name:ukr_x_variant":[
+        "\u0410\u043d\u0442\u0430\u043b\u0456\u044f"
+    ],
     "name:und_x_preferred":[
         "Antalya"
     ],
@@ -303,6 +333,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0646\u0637\u0627\u0644\u06cc\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0646\u0637\u0627\u0644\u06cc\u06c1 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Antalya"
     ],
@@ -314,6 +347,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10dc\u10d7\u10d0\u10da\u10d8\u10d0\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b89\u5854\u5229\u4e9e\u7701"
     ],
     "name:zho_x_preferred":[
         "\u5b89\u5854\u5229\u4e9a\u7701"
@@ -442,7 +478,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768942,
+    "wof:lastmodified":1563356647,
     "wof:name":"Antalya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

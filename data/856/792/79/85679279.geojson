@@ -60,6 +60,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia dIsparta"
     ],
+    "name:cat_x_variant":[
+        "Prov\u00edncia d\u2019Isparta"
+    ],
+    "name:ceb_x_preferred":[
+        "Isparta"
+    ],
     "name:ces_x_preferred":[
         "Ispartsk\u00e1 provincie"
     ],
@@ -68,6 +74,9 @@
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u06cc\u0633\u067e\u0627\u0631\u062a\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Isparta"
     ],
     "name:dan_x_preferred":[
         "Isparta Province"
@@ -138,6 +147,9 @@
     "name:kaa_x_preferred":[
         "Isparta walayati"
     ],
+    "name:kaa_x_variant":[
+        "Isparta wa'layati"
+    ],
     "name:kan_x_preferred":[
         "\u0c87\u0cb8\u0ccd\u0caa\u0cbe\u0cb0\u0ccd\u0c9f\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -146,6 +158,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc774\uc2a4\ud30c\ub974\ud0c0 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\uc2a4\ud30c\ub974\ud0c0\uc8fc"
     ],
     "name:kur_x_preferred":[
         "Isparta"
@@ -243,6 +258,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e34\u0e2a\u0e1b\u0e32\u0e23\u0e4c\u0e15\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e36\u0e2a\u0e1e\u0e32\u0e23\u0e4c\u0e17\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Isparta"
     ],
@@ -267,6 +285,9 @@
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0633\u067e\u0627\u0631\u062a\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0633\u067e\u0627\u0631\u062a\u0627 \u0635\u0648\u0628\u06c1"
+    ],
     "name:uzb_x_preferred":[
         "Isparta"
     ],
@@ -276,8 +297,14 @@
     "name:war_x_preferred":[
         "Isparta"
     ],
+    "name:yue_x_preferred":[
+        "\u4f0a\u65af\u5e15\u723e\u5854\u7701"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u5e15\u5c14\u5854\u7701"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5854\u5229\u4e9a\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TUR",
@@ -403,7 +430,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768943,
+    "wof:lastmodified":1563356649,
     "wof:name":"Isparta",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

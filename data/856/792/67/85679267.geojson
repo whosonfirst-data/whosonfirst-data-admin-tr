@@ -41,8 +41,14 @@
     "name:arc_x_preferred":[
         "\u0710\u0726\u071d\u0718\u0722"
     ],
+    "name:ast_x_preferred":[
+        "Provincia d'Afyonkarahisar"
+    ],
     "name:aze_x_preferred":[
         "Afyonkarahisar ili"
+    ],
+    "name:aze_x_variant":[
+        "Afyonkarahisar vilay\u0259ti"
     ],
     "name:bak_x_preferred":[
         "\u0410\u0444\u0439\u043e\u043d\u043a\u0430\u0440\u0430\u04bb\u0438\u0441\u0430\u0440"
@@ -67,6 +73,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia d'Afyonkarahisar"
+    ],
+    "name:ceb_x_preferred":[
+        "Afyonkarahisar"
     ],
     "name:ces_x_preferred":[
         "Afyonkarahisar"
@@ -100,6 +109,9 @@
     ],
     "name:eng_x_preferred":[
         "Afyonkarahisar"
+    ],
+    "name:eng_x_variant":[
+        "Afyonkarahisar Province"
     ],
     "name:epo_x_preferred":[
         "Provinco Afyonkarahisar"
@@ -164,17 +176,26 @@
     "name:kaz_x_preferred":[
         "\u0410\u0444\u0438\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0438\u0441\u0430\u0440"
     ],
+    "name:kaz_x_variant":[
+        "\u0410\u0444\u044c\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0438\u0441\u0430\u0440"
+    ],
     "name:kin_x_preferred":[
         "Intara y\u2019Afyonkarahisar"
     ],
     "name:kor_x_preferred":[
         "\uc544\ud53c\uc628\uce74\ub77c\ud788\uc0ac\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ud53c\uc628\uce74\ub77c\ud788\uc0ac\ub974\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Acroenus"
     ],
     "name:lav_x_preferred":[
         "Afjonkarahisaras ils"
+    ],
+    "name:lav_x_variant":[
+        "Afjonas ils"
     ],
     "name:lit_x_preferred":[
         "Afjonkarachisaro provincija"
@@ -230,6 +251,9 @@
     "name:rus_x_preferred":[
         "\u0410\u0444\u044c\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0438\u0441\u0430\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u0438\u043b \u0410\u0444\u044c\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0438\u0441\u0430\u0440"
+    ],
     "name:sco_x_preferred":[
         "Afyonkarahisar Province"
     ],
@@ -269,6 +293,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e1f\u0e22\u0e2d\u0e19\u0e04\u0e32\u0e23\u0e32\u0e2e\u0e34\u0e0b\u0e32\u0e23\u0e4c"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e1f\u0e22\u0e2d\u0e07\u0e04\u0e32\u0e23\u0e32\u0e2e\u0e35\u0e0b\u0e32\u0e23\u0e4c"
+    ],
     "name:tuk_x_preferred":[
         "Af\u00fdonkarahisar"
     ],
@@ -304,6 +331,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e4\u10d8\u10dd\u10dc-\u10e7\u10d0\u10e0\u10d0\u10f0\u10d8\u10e1\u10d0\u10e0\u10d8\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u83f2\u6c38\u5361\u62c9\u5e0c\u85a9\u723e\u7701"
     ],
     "name:zho_min_nan_x_preferred":[
         "Afyonkarahisar"
@@ -435,7 +465,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768940,
+    "wof:lastmodified":1563356626,
     "wof:name":"Afyonkarahisar",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

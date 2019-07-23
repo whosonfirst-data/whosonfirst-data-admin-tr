@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2108074.956807,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.862195,39.930619,32.862195,39.930619",
     "geom:latitude":39.930619,
     "geom:longitude":32.862195,
@@ -25,17 +25,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:bel_x_preferred":[
+        "\u0414\u044d\u043c\u0456\u0440\u0442\u0430\u0448"
+    ],
     "name:deu_x_preferred":[
         "Demirta\u015f"
     ],
     "name:eng_x_colloquial":[
         "Demirtas"
     ],
+    "name:eng_x_preferred":[
+        "Demirta\u015f"
+    ],
     "name:fra_x_preferred":[
         "Demirta\u015f"
     ],
     "name:rus_x_preferred":[
         "\u0414\u0435\u043c\u0438\u0440\u0442\u0430\u0448"
+    ],
+    "name:tur_x_preferred":[
+        "Demirta\u015f"
     ],
     "name:und_x_preferred":[
         "Demirta\u015f"
@@ -74,10 +83,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":122,
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        890463833,
-        85679409
+        890463833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,7 +111,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939137,
+    "wof:lastmodified":1563356492,
     "wof:name":"Demirta\u015f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

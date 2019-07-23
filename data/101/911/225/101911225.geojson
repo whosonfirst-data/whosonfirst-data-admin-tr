@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00267,
-    "geom:area_square_m":26311042.967327,
+    "geom:area_square_m":26311042.967308,
     "geom:bbox":"38.7617964575,37.1010202524,38.8397900114,37.19077958",
     "geom:latitude":37.152665,
     "geom:longitude":38.796435,
@@ -18,10 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0647\u0627"
+    ],
+    "name:arc_x_preferred":[
+        "\u0710\u0718\u072a\u0717\u071d"
+    ],
+    "name:ast_x_preferred":[
+        "Edesa"
+    ],
+    "name:bos_x_preferred":[
+        "Edesa"
+    ],
+    "name:bul_x_preferred":[
+        "\u0415\u0434\u0435\u0441\u0430"
+    ],
     "name:cat_x_historical":[
         "Edessa"
     ],
     "name:cat_x_preferred":[
+        "Edessa"
+    ],
+    "name:ces_x_preferred":[
         "Edessa"
     ],
     "name:deu_x_preferred":[
@@ -30,11 +48,41 @@
     "name:ell_x_preferred":[
         "\u0391\u03bd\u03c4\u03b9\u03cc\u03c7\u03b5\u03b9\u03b1"
     ],
+    "name:ell_x_variant":[
+        "\u0388\u03b4\u03b5\u03c3\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Sanliurfa"
     ],
+    "name:eng_x_variant":[
+        "Edessa"
+    ],
+    "name:est_x_preferred":[
+        "Edessa"
+    ],
+    "name:eus_x_preferred":[
+        "Edesa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0647\u0627"
+    ],
     "name:fra_x_preferred":[
         "\u015eanl\u0131urfa"
+    ],
+    "name:fra_x_variant":[
+        "\u00c9desse"
+    ],
+    "name:hrv_x_preferred":[
+        "Edessa"
+    ],
+    "name:hun_x_preferred":[
+        "Edessza"
+    ],
+    "name:hye_x_preferred":[
+        "\u0535\u0564\u0565\u057d\u056b\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Edessa"
     ],
     "name:ita_x_historical":[
         "Edessa"
@@ -42,10 +90,19 @@
     "name:ita_x_preferred":[
         "Edessa"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30c7\u30c3\u30b5"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d4\u10d3\u10d4\u10e1\u10d0"
+    ],
     "name:nld_x_historical":[
         "Edessa"
     ],
     "name:nld_x_preferred":[
+        "Edessa"
+    ],
+    "name:nob_x_preferred":[
         "Edessa"
     ],
     "name:pol_x_historical":[
@@ -54,14 +111,29 @@
     "name:pol_x_preferred":[
         "Edessa"
     ],
+    "name:por_x_preferred":[
+        "Edessa"
+    ],
+    "name:ron_x_preferred":[
+        "Edessa"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u0434\u0435\u0441\u0441\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Edesa"
     ],
     "name:spa_x_historical":[
         "Edesa"
     ],
     "name:spa_x_preferred":[
         "Edesa"
+    ],
+    "name:sqi_x_preferred":[
+        "Edessa"
+    ],
+    "name:srp_x_preferred":[
+        "\u0415\u0434\u0435\u0441\u0430"
     ],
     "name:swe_x_historical":[
         "Edessa"
@@ -72,8 +144,20 @@
     "name:tur_x_preferred":[
         "\u015eanl\u0131urfa"
     ],
+    "name:tur_x_variant":[
+        "Edessa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u0434\u0435\u0441\u0430"
+    ],
     "name:unk_x_variant":[
         "Edessa"
+    ],
+    "name:vie_x_preferred":[
+        "Edessa"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5fb7\u85a9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Turkey",
@@ -211,7 +295,7 @@
         }
     ],
     "wof:id":101911225,
-    "wof:lastmodified":1505338653,
+    "wof:lastmodified":1563360682,
     "wof:name":"Sanliurfa",
     "wof:parent_id":890461365,
     "wof:placetype":"locality",

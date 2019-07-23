@@ -25,6 +25,9 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u0631\u0627\u0628\u064a\u0627"
+    ],
     "name:bul_x_preferred":[
         "\u0422\u0435\u0440\u0430\u0431\u0438\u0430"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:tur_x_preferred":[
         "Tarabya-Ferahevler"
+    ],
+    "name:tur_x_variant":[
+        "Tarabya"
     ],
     "name:und_x_preferred":[
         "Tarabya-Ferahevler"
@@ -119,7 +125,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561768928,
+    "wof:lastmodified":1563356510,
     "wof:name":"Tarabya",
     "wof:parent_id":101912653,
     "wof:placetype":"neighbourhood",

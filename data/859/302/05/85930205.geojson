@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000567,
-    "geom:area_square_m":5293220.452603,
+    "geom:area_square_m":5293220.452604,
     "geom:bbox":"28.580824726,41.0041020011,28.6134182528,41.0334272435",
     "geom:latitude":41.017468,
     "geom:longitude":28.598301,
@@ -31,8 +31,20 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0627\u062a\u062d"
     ],
+    "name:ast_x_preferred":[
+        "Fatih"
+    ],
     "name:ava_x_preferred":[
         "\u0424\u0430\u0442\u0438\u0445\u0406"
+    ],
+    "name:aze_x_preferred":[
+        "Fateh rayonu"
+    ],
+    "name:bel_x_preferred":[
+        "\u0424\u0430\u0446\u0456\u0445"
+    ],
+    "name:bos_x_preferred":[
+        "Fatih"
     ],
     "name:bul_x_preferred":[
         "\u0424\u0430\u0442\u0438\u0445"
@@ -40,11 +52,26 @@
     "name:cat_x_preferred":[
         "Fatih"
     ],
+    "name:ceb_x_preferred":[
+        "Fatih"
+    ],
+    "name:ces_x_preferred":[
+        "Fatih"
+    ],
+    "name:dan_x_preferred":[
+        "Fatih"
+    ],
     "name:deu_x_preferred":[
+        "Fatih"
+    ],
+    "name:diq_x_preferred":[
         "Fatih"
     ],
     "name:ell_x_preferred":[
         "\u03a6\u03b1\u03c4\u03af\u03c7"
+    ],
+    "name:eng_x_preferred":[
+        "Fatih"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u062a\u062d"
@@ -52,14 +79,26 @@
     "name:fra_x_preferred":[
         "Fatih"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05ea\u05d9\u05d7"
+    ],
     "name:hun_x_preferred":[
         "Fatih"
+    ],
+    "name:hye_x_preferred":[
+        "\u0556\u0561\u0569\u056b\u0570"
     ],
     "name:ind_x_preferred":[
         "Fatih"
     ],
     "name:ita_x_preferred":[
         "Fatih"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a1\u30c6\u30a3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e4\u10d0\u10d7\u10d8\u10f0\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ud30c\ud2f0\ud750"
@@ -79,7 +118,13 @@
     "name:msa_x_preferred":[
         "Fatih"
     ],
+    "name:nan_x_preferred":[
+        "Fatih"
+    ],
     "name:nld_x_preferred":[
+        "Fatih"
+    ],
+    "name:nob_x_preferred":[
         "Fatih"
     ],
     "name:nor_x_preferred":[
@@ -90,6 +135,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0641\u0627\u062a\u062d"
+    ],
+    "name:pol_x_preferred":[
+        "Fatih"
     ],
     "name:por_x_preferred":[
         "Fatih"
@@ -109,6 +157,9 @@
     "name:tur_x_preferred":[
         "Fatih"
     ],
+    "name:ukr_x_preferred":[
+        "\u0424\u0430\u0442\u0456\u0445"
+    ],
     "name:und_x_preferred":[
         "Fatih"
     ],
@@ -126,6 +177,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6cd5\u8482\u8d6b"
+    ],
+    "name:zho_x_variant":[
+        "\u6cd5\u63d0\u8d6b"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPL",
@@ -182,7 +236,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1507660186,
+    "wof:lastmodified":1563356509,
     "wof:name":"Fatih",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

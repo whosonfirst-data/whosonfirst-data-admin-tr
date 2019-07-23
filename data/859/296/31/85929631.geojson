@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11155279.996377,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.049747,38.390555,27.049747,38.390555",
     "geom:latitude":38.390555,
     "geom:longitude":27.049747,
@@ -24,10 +24,28 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:ast_x_preferred":[
+        "Fahrettin Altay"
+    ],
+    "name:aze_x_preferred":[
+        "F\u0259xr\u0259ddin Altay"
+    ],
+    "name:ces_x_preferred":[
+        "Fahrettin Altay"
+    ],
     "name:deu_x_preferred":[
         "Fahrettin Altay"
     ],
     "name:eng_x_preferred":[
+        "Fahrettin Altay"
+    ],
+    "name:hun_x_preferred":[
+        "Fahrettin Altay"
+    ],
+    "name:nld_x_preferred":[
+        "Fahrettin Altay"
+    ],
+    "name:spa_x_preferred":[
         "Fahrettin Altay"
     ],
     "name:tur_x_preferred":[
@@ -35,6 +53,9 @@
     ],
     "name:unk_x_variant":[
         "Fahrettin Altay"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cd5\u745e\u4e01\u00b7\u963f\u52d2\u6cf0"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -66,10 +87,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":523,
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890462391,
-        85679201
+        890462391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +114,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939147,
+    "wof:lastmodified":1563356520,
     "wof:name":"Fahrettin Altay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

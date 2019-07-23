@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000163,
-    "geom:area_square_m":1522251.251251,
+    "geom:area_square_m":1522251.25125,
     "geom:bbox":"29.0971796006,40.9274293846,29.1165161133,40.9404895688",
     "geom:latitude":40.934118,
     "geom:longitude":29.106351,
@@ -28,14 +28,29 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644 \u062a\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0627\u0644\u062a\u064a\u0628\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Maltepe"
+    ],
     "name:cat_x_preferred":[
+        "Maltepe"
+    ],
+    "name:ceb_x_preferred":[
         "Maltepe"
     ],
     "name:deu_x_preferred":[
         "Maltepe"
     ],
+    "name:diq_x_preferred":[
+        "Maltepe"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03ac\u03bb\u03c4\u03b5\u03c0\u03b5"
+    ],
+    "name:eng_x_preferred":[
+        "Maltepe"
     ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0644\u200c\u062a\u067e\u0647"
@@ -46,8 +61,14 @@
     "name:hun_x_preferred":[
         "Maltepe"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0569\u0565\u0583\u0565"
+    ],
     "name:ita_x_preferred":[
         "Maltepe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30eb\u30c6\u30da"
     ],
     "name:kin_x_preferred":[
         "Maltepe"
@@ -61,7 +82,13 @@
     "name:mrj_x_preferred":[
         "\u041c\u0430\u043b\u0442\u0435\u043f\u0435"
     ],
+    "name:nan_x_preferred":[
+        "Maltepe"
+    ],
     "name:nld_x_preferred":[
+        "Maltepe"
+    ],
+    "name:nob_x_preferred":[
         "Maltepe"
     ],
     "name:pnb_x_preferred":[
@@ -91,11 +118,17 @@
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644 \u062a\u067e\u06c1\u060c \u0627\u0633\u062a\u0646\u0628\u0648\u0644"
     ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0644 \u062a\u067e\u06c1"
+    ],
     "name:vie_x_preferred":[
         "Maltepe"
     ],
     "name:zho_min_nan_x_preferred":[
         "Maltepe"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u723e\u63d0\u666e"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -152,7 +185,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269146,
+    "wof:lastmodified":1563356512,
     "wof:name":"Idealtepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

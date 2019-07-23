@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00039,
-    "geom:area_square_m":3818326.865635,
+    "geom:area_square_m":3818326.86563,
     "geom:bbox":"43.7251961304,37.5563298239,43.7538753581,37.5920237284",
     "geom:latitude":37.574469,
     "geom:longitude":43.738919,
@@ -24,6 +24,9 @@
     "name:arc_x_preferred":[
         "\u0717\u071f\u0710\u072a\u071d"
     ],
+    "name:ast_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
     "name:azb_x_preferred":[
         "\u062d\u06a9\u0627\u0631\u06cc"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:cat_x_preferred":[
         "Hakk\u00e2ri"
+    ],
+    "name:ceb_x_preferred":[
+        "Hakkari"
     ],
     "name:ces_x_preferred":[
         "Hakk\u00e2ri"
@@ -48,11 +54,128 @@
     "name:diq_x_preferred":[
         "Colemerge"
     ],
+    "name:eng_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:epo_x_preferred":[
+        "Hakari"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u06a9\u0627\u0631\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Hakkari"
+    ],
+    "name:gag_x_preferred":[
+        "Hakkari"
+    ],
+    "name:hun_x_preferred":[
+        "Hakkari"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u0584\u0584\u0575\u0561\u0580\u056b"
+    ],
+    "name:ita_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30c3\u30ad\u30e3\u30ea"
+    ],
+    "name:kat_x_preferred":[
+        "\u10f0\u10d0\u10e5\u10d0\u10e0\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:kor_x_preferred":[
+        "\ud558\uce74\ub9ac"
+    ],
+    "name:kur_x_preferred":[
+        "Colem\u00earg"
+    ],
+    "name:lit_x_preferred":[
+        "Hakaris"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0425\u0430\u043a\u043a\u044f\u0440\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:nan_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:nld_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:nno_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:nob_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a39\u0a71\u0a15\u0a3e\u0a30\u0a40"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062d\u06a9\u0627\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Hakkari"
+    ],
+    "name:por_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:ron_x_preferred":[
+        "Hakkari"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0430\u043a\u043a\u0430\u0440\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0425\u0430\u043a\u043a\u044f\u0440\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:spa_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:swa_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:swe_x_preferred":[
+        "Hakkari"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2e\u0e31\u0e01\u0e0a\u0e32\u0e23\u0e35"
+    ],
+    "name:tur_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:udm_x_preferred":[
+        "\u0425\u0430\u043a\u043a\u044f\u0440\u0438"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u043a\u043a\u044f\u0440\u0456"
+    ],
     "name:unk_x_variant":[
         "\u00c7\u00f6lemerik"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u06a9\u0627\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:vol_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:war_x_preferred":[
+        "Hakk\u00e2ri"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5361\u91cc"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Turkey",
@@ -193,7 +316,7 @@
         }
     ],
     "wof:id":101912773,
-    "wof:lastmodified":1527660473,
+    "wof:lastmodified":1563360645,
     "wof:name":"Hakk\u00e2ri",
     "wof:parent_id":890464425,
     "wof:placetype":"locality",

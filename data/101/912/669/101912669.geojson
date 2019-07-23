@@ -19,11 +19,20 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0644\u0648\u0641\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Yalova"
+    ],
+    "name:azb_x_preferred":[
+        "\u06cc\u0627\u0644\u0648\u0648\u0627"
+    ],
     "name:aze_x_preferred":[
         "Yalova"
     ],
-    "name:bel_x_variant":[
+    "name:bel_x_preferred":[
         "\u042f\u043b\u0430\u0432\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u0987\u09af\u09bc\u09be\u09b2\u09cb\u09ad\u09be"
     ],
     "name:bul_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0430"
@@ -31,7 +40,13 @@
     "name:cat_x_preferred":[
         "Yalova"
     ],
+    "name:ceb_x_preferred":[
+        "Yalova"
+    ],
     "name:ces_x_preferred":[
+        "Yalova"
+    ],
+    "name:dan_x_preferred":[
         "Yalova"
     ],
     "name:deu_x_preferred":[
@@ -61,7 +76,22 @@
     "name:gag_x_preferred":[
         "Yalova"
     ],
+    "name:guj_x_preferred":[
+        "\u0aaf\u0ab2\u0acb\u0ab5\u0abe"
+    ],
     "name:hbs_x_preferred":[
+        "Yalova"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05dc\u05d5\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093e\u0932\u094b\u0935\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0545\u0561\u056c\u0578\u057e\u0561"
+    ],
+    "name:ind_x_preferred":[
         "Yalova"
     ],
     "name:ita_x_preferred":[
@@ -69,6 +99,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e4\u30ed\u30f4\u30a1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caf\u0cb2\u0ccb\u0cb5\u0cbe"
     ],
     "name:kat_x_preferred":[
         "\u10d8\u10d0\u10da\u10dd\u10d5\u10d0"
@@ -79,6 +112,15 @@
     "name:kor_x_preferred":[
         "\uc584\ub85c\ubc14"
     ],
+    "name:lav_x_preferred":[
+        "Jalova"
+    ],
+    "name:lit_x_preferred":[
+        "Jalova"
+    ],
+    "name:mar_x_preferred":[
+        "\u092f\u0947\u0932\u094b\u0935\u093e"
+    ],
     "name:min_x_preferred":[
         "Yalova"
     ],
@@ -88,10 +130,16 @@
     "name:msa_x_preferred":[
         "Yalova"
     ],
+    "name:nan_x_preferred":[
+        "Yalova"
+    ],
     "name:nld_x_preferred":[
         "Yalova"
     ],
     "name:nno_x_preferred":[
+        "Yalova"
+    ],
+    "name:nob_x_preferred":[
         "Yalova"
     ],
     "name:pnb_x_preferred":[
@@ -112,6 +160,12 @@
     "name:sco_x_preferred":[
         "Yalova"
     ],
+    "name:sin_x_preferred":[
+        "\u0dba\u0dd9\u0dbd\u0ddd\u0dc0\u0dcf"
+    ],
+    "name:som_x_preferred":[
+        "Yalova"
+    ],
     "name:spa_x_preferred":[
         "Yalova"
     ],
@@ -121,8 +175,23 @@
     "name:swa_x_preferred":[
         "Yalova"
     ],
+    "name:swe_x_preferred":[
+        "Yalova"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baf\u0bb2\u0bcd\u0bb2\u0bca\u0bb5"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2f\u0c3e\u0c32\u0c4b\u0c35"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e22\u0e32\u0e42\u0e25\u0e27\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Yalova"
+    ],
+    "name:tyv_x_preferred":[
+        "\u042f\u043b\u043e\u0432\u0430"
     ],
     "name:udm_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0430"
@@ -197,7 +266,7 @@
         }
     ],
     "wof:id":101912669,
-    "wof:lastmodified":1535390449,
+    "wof:lastmodified":1563360623,
     "wof:name":"Yalova",
     "wof:parent_id":890461537,
     "wof:placetype":"locality",

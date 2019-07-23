@@ -40,8 +40,14 @@
     "name:aze_x_preferred":[
         "Aksaray ili"
     ],
+    "name:aze_x_variant":[
+        "A\u011fsaray vilay\u0259ti"
+    ],
     "name:bak_x_preferred":[
         "\u0410\u04a1\u04bb\u0430\u0440\u0430\u0439"
+    ],
+    "name:bak_x_variant":[
+        "\u0410\u04a1\u04bb\u0430\u0440\u0430\u0439(\u0438\u043b)"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u0410\u043a\u0441\u0430\u0440\u0430\u0439"
@@ -61,6 +67,12 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia dAksaray"
     ],
+    "name:cat_x_variant":[
+        "Prov\u00edncia d'Aksaray"
+    ],
+    "name:ceb_x_preferred":[
+        "Aksaray"
+    ],
     "name:ces_x_preferred":[
         "Aksaraysk\u00e1 provincie"
     ],
@@ -70,6 +82,9 @@
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0631\u06ce\u0632\u06af\u0627\u06cc \u0626\u0627\u06a9\u0633\u0627\u0631\u0627\u06cc"
     ],
+    "name:crh_x_preferred":[
+        "Aksaray"
+    ],
     "name:dan_x_preferred":[
         "Aksaray Province"
     ],
@@ -78,6 +93,9 @@
     ],
     "name:diq_x_preferred":[
         "Aqserayiye"
+    ],
+    "name:diq_x_variant":[
+        "Aqseraiye"
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u0391\u03ba\u03c3\u03b1\u03c1\u03ac\u03b9"
@@ -139,6 +157,9 @@
     "name:kaa_x_preferred":[
         "Aksaray walayati"
     ],
+    "name:kaa_x_variant":[
+        "Aksaray wa'layati"
+    ],
     "name:kan_x_preferred":[
         "\u0c85\u0c95\u0ccd\u0cb8\u0cb0\u0cbe\u0caf\u0ccd \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
@@ -151,8 +172,14 @@
     "name:kor_x_preferred":[
         "\uc545\uc0ac\ub77c\uc774 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uc545\uc0ac\ub77c\uc774\uc8fc"
+    ],
     "name:kur_x_preferred":[
         "Axsere"
+    ],
+    "name:kur_x_variant":[
+        "Aksaray"
     ],
     "name:lat_x_preferred":[
         "Aksaray"
@@ -250,6 +277,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e01\u0e0b\u0e32\u0e44\u0e23"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2d\u0e31\u0e01\u0e0b\u0e32\u0e23\u0e31\u0e22"
+    ],
     "name:tuk_x_preferred":[
         "Aksara\u00fd"
     ],
@@ -285,6 +315,9 @@
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e5\u10e1\u10d0\u10e0\u10d0\u10d8\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u514b\u85a9\u8cf4\u7701"
     ],
     "name:zho_x_preferred":[
         "\u963f\u514b\u8428\u8d56\u7701"
@@ -412,7 +445,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1561768936,
+    "wof:lastmodified":1563356576,
     "wof:name":"Aksaray",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

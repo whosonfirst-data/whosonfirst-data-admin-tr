@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5128953.354905,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.332638,36.989446,35.332638,36.989446",
     "geom:latitude":36.989446,
     "geom:longitude":35.332638,
@@ -24,6 +24,9 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:eng_x_preferred":[
+        "Ulucami"
+    ],
     "name:und_x_preferred":[
         "Ulucami"
     ],
@@ -60,10 +63,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":159,
     "wof:belongsto":[
+        85679443,
         102191569,
         85632393,
-        890462761,
-        85679443
+        890462761
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939170,
+    "wof:lastmodified":1563356528,
     "wof:name":"Ulucami",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

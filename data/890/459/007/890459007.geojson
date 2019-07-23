@@ -18,11 +18,32 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0631\u0645\u064a\u062a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0626\u062f\u0631\u0626\u0645\u06cc\u062a"
+    ],
+    "name:ceb_x_preferred":[
+        "Edremit"
+    ],
+    "name:deu_x_preferred":[
+        "Edremit"
+    ],
     "name:ell_x_preferred":[
         "\u0391\u03b4\u03c1\u03b1\u03bc\u03cd\u03c4\u03c4\u03b9\u03bf"
     ],
+    "name:ell_x_variant":[
+        "\u0391\u03b4\u03c1\u03b1\u03bc\u03af\u03c4"
+    ],
+    "name:eng_x_preferred":[
+        "Edremit"
+    ],
     "name:fas_x_preferred":[
         "\u0627\u062f\u0631\u0645\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Edremit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05e8\u05de\u05d9\u05d8"
     ],
     "name:ita_x_preferred":[
         "Distretto di Edremit"
@@ -30,14 +51,23 @@
     "name:kaz_x_preferred":[
         "\u042d\u0434\u0440\u0435\u043c\u0438\u0442"
     ],
+    "name:min_x_preferred":[
+        "Edremit"
+    ],
     "name:mrj_x_preferred":[
         "\u042d\u0434\u0440\u0435\u043c\u0438\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Edremit"
     ],
     "name:nno_x_preferred":[
         "Edremit i Bal\u0131kesir"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0434\u0440\u0435\u043c\u0438\u0442"
+    ],
+    "name:tur_x_preferred":[
+        "Edremit"
     ],
     "name:unk_x_variant":[
         "Adramyttium"
@@ -78,7 +108,7 @@
         }
     ],
     "wof:id":890459007,
-    "wof:lastmodified":1527793001,
+    "wof:lastmodified":1563361866,
     "wof:name":"Edremit",
     "wof:parent_id":890462487,
     "wof:placetype":"locality",
