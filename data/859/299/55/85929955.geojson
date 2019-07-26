@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":17054694.035756,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.645842,39.986744,32.645842,39.986744",
     "geom:latitude":39.986744,
     "geom:longitude":32.645842,
@@ -24,14 +24,35 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0623\u0644\u062a\u0627\u064a"
+    ],
     "name:aze_x_preferred":[
+        "Altay"
+    ],
+    "name:bre_x_preferred":[
+        "Altay"
+    ],
+    "name:ceb_x_preferred":[
         "Altay"
     ],
     "name:deu_x_preferred":[
         "Altay"
     ],
+    "name:hun_x_preferred":[
+        "Altaj j\u00e1r\u00e1s"
+    ],
+    "name:mlg_x_preferred":[
+        "Altay"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u043b\u0442\u0430\u0439 \u0441\u0443\u043c"
+    ],
+    "name:pol_x_preferred":[
+        "Altay"
+    ],
+    "name:swe_x_preferred":[
+        "Altay"
     ],
     "name:tur_x_preferred":[
         "Altay"
@@ -73,10 +94,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":182,
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        1108709499,
-        85679409
+        1108709499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939168,
+    "wof:lastmodified":1564158366,
     "wof:name":"Altay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

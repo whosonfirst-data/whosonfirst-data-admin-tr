@@ -25,6 +25,15 @@
     "iso:country":"TR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Oren"
+    ],
+    "name:ita_x_preferred":[
+        "Oren"
+    ],
+    "name:por_x_preferred":[
+        "Oren"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +43,7 @@
         "gn:id":7855836
     },
     "wof:country":"TR",
-    "wof:geomhash":"406a91bbf5ee7a1231451fdc14e5bd09",
+    "wof:geomhash":"3bba69c4fa2bbf9b863c1f1adcffa1cb",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209463757,
-    "wof:lastmodified":1536286302,
+    "wof:lastmodified":1564160314,
     "wof:name":"Oren",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +61,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.259440000000005,
+    33.25944,
     36.68421,
-    33.259440000000005,
+    33.25944,
     36.68421
 ],
   "geometry": {"coordinates":[33.25944,36.68421],"type":"Point"}

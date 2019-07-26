@@ -25,8 +25,20 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:deu_x_preferred":[
+        "Maden"
+    ],
+    "name:fra_x_preferred":[
+        "Maden"
+    ],
+    "name:kur_x_preferred":[
+        "Maden"
+    ],
     "name:tur_x_preferred":[
         "Merkez-Dagevleri-Maden"
+    ],
+    "name:tur_x_variant":[
+        "Maden"
     ],
     "name:und_x_preferred":[
         "Merkez-Dagevleri-Maden"
@@ -89,7 +101,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527268716,
+    "wof:lastmodified":1564158345,
     "wof:name":"Maden",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

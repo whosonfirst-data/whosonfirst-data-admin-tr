@@ -13,6 +13,7 @@
     "lbl:latitude":41.024478,
     "lbl:longitude":28.910207,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,11 +21,26 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ceb_x_preferred":[
+        "Maltepe"
+    ],
+    "name:deu_x_preferred":[
+        "Maltepe"
+    ],
+    "name:msa_x_preferred":[
+        "Maltepe"
+    ],
+    "name:swe_x_preferred":[
+        "Maltepe"
+    ],
+    "name:tur_x_preferred":[
+        "Maltepe"
+    ],
     "src:lbl:centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85632393,
         85679237,
+        85632393,
         890463097
     ],
     "wof:breaches":[],
@@ -42,7 +58,7 @@
         }
     ],
     "wof:id":1108950457,
-    "wof:lastmodified":1492123975,
+    "wof:lastmodified":1564161437,
     "wof:name":"Maltepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

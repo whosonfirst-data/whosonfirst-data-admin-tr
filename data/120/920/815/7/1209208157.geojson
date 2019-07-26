@@ -25,6 +25,18 @@
     "iso:country":"TR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Karakaya"
+    ],
+    "name:deu_x_preferred":[
+        "Karakaya"
+    ],
+    "name:swe_x_preferred":[
+        "Karakaya"
+    ],
+    "name:tur_x_preferred":[
+        "Karakaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +46,7 @@
         "gn:id":309742
     },
     "wof:country":"TR",
-    "wof:geomhash":"8c9cd920fca0f07909a84e80e0801186",
+    "wof:geomhash":"a5f5eb1661a8a76aee02986cff7b547d",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1209208157,
-    "wof:lastmodified":1536294382,
+    "wof:lastmodified":1564160660,
     "wof:name":"Karakaya",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +64,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.709190000000003,
+    31.70919,
     36.69606,
-    31.709190000000003,
+    31.70919,
     36.69606
 ],
   "geometry": {"coordinates":[31.70919,36.69606],"type":"Point"}
