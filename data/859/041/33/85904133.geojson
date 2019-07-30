@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":176082.849272,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.860557,39.916702,32.860557,39.916702",
     "geom:latitude":39.916702,
     "geom:longitude":32.860557,
@@ -25,7 +25,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:deu_x_preferred":[
+        "Kocatepe"
+    ],
     "name:eng_x_preferred":[
+        "Kocatepe"
+    ],
+    "name:tur_x_preferred":[
         "Kocatepe"
     ],
     "name:unk_x_variant":[
@@ -63,10 +69,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":53,
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        890462517,
-        85679409
+        890462517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936192,
+    "wof:lastmodified":1564158346,
     "wof:name":"Kocatepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

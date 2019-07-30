@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3488332.606052,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.866973,39.979709,32.866973,39.979709",
     "geom:latitude":39.979709,
     "geom:longitude":32.866973,
@@ -25,10 +25,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Kalaba"
+    ],
+    "name:deu_x_preferred":[
+        "Kalaba"
+    ],
     "name:eng_x_preferred":[
         "Kalaba"
     ],
     "name:fra_x_preferred":[
+        "Kalaba"
+    ],
+    "name:swe_x_preferred":[
         "Kalaba"
     ],
     "name:tur_x_preferred":[
@@ -69,10 +78,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":22,
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        890463859,
-        85679409
+        890463859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,7 +106,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936190,
+    "wof:lastmodified":1564158346,
     "wof:name":"Kalaba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

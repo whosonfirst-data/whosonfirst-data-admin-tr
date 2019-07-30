@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4090542.63459,
+    "geom:area_square_m":0.0,
     "geom:bbox":"37.37693,37.062902,37.37693,37.062902",
     "geom:latitude":37.062902,
     "geom:longitude":37.37693,
@@ -27,11 +27,20 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u062a\u0628\u0629 \u0627\u0644\u0628\u0643\u0648\u064a\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Bey"
+    ],
     "name:bak_x_preferred":[
         "\u0411\u0435\u0439"
     ],
     "name:bel_x_preferred":[
         "\u0411\u0435\u0439"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u0997"
     ],
     "name:bos_x_preferred":[
         "Beg"
@@ -41,6 +50,9 @@
     ],
     "name:cat_x_preferred":[
         "Bei"
+    ],
+    "name:ces_x_preferred":[
+        "Bej"
     ],
     "name:dan_x_preferred":[
         "Bey"
@@ -99,6 +111,9 @@
     "name:kaz_x_preferred":[
         "\u0411\u0438"
     ],
+    "name:kir_x_preferred":[
+        "\u0411\u0435\u043a"
+    ],
     "name:lad_x_preferred":[
         "Bey"
     ],
@@ -113,6 +128,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Bey"
     ],
     "name:nld_x_preferred":[
         "Bei"
@@ -147,6 +165,9 @@
     "name:sqi_x_preferred":[
         "Bej"
     ],
+    "name:sqi_x_variant":[
+        "Beu"
+    ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0433"
     ],
@@ -167,6 +188,9 @@
     ],
     "name:unk_x_variant":[
         "Bey"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u06af"
     ],
     "name:uzb_x_preferred":[
         "Bek"
@@ -203,10 +227,10 @@
     ],
     "src:lbl:centroid":"yerbashapes",
     "wof:belongsto":[
+        85679437,
         102191569,
         85632393,
-        890462533,
-        85679437
+        890462533
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -229,7 +253,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939806,
+    "wof:lastmodified":1564158357,
     "wof:name":"Bey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

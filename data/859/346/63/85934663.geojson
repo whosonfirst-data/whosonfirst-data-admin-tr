@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2296887.930769,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.026152,36.539838,32.026152,36.539838",
     "geom:latitude":36.539838,
     "geom:longitude":32.026152,
@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u062a"
     ],
+    "name:aze_x_preferred":[
+        "Cumhuriyet"
+    ],
     "name:bre_x_preferred":[
         "Cumhuriyet"
     ],
@@ -40,8 +43,14 @@
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03c5\u03bc\u03c7\u03bf\u03c5\u03c1\u03b9\u03ad\u03c4"
     ],
+    "name:ell_x_variant":[
+        "Cumhuriyet"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u06cc\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Cumhuriyet"
     ],
     "name:fra_x_preferred":[
         "Cumhuriyet"
@@ -55,6 +64,9 @@
     "name:kur_x_preferred":[
         "Cumhuriyet"
     ],
+    "name:nno_x_preferred":[
+        "Cumhuriyet"
+    ],
     "name:por_x_preferred":[
         "Cumhuriyet"
     ],
@@ -62,6 +74,9 @@
         "Cumhuriyet"
     ],
     "name:rus_x_preferred":[
+        "Cumhuriyet"
+    ],
+    "name:spa_x_preferred":[
         "Cumhuriyet"
     ],
     "name:tur_x_preferred":[
@@ -74,6 +89,9 @@
         "Cumhuriyet"
     ],
     "name:unk_x_variant":[
+        "Cumhuriyet"
+    ],
+    "name:vie_x_preferred":[
         "Cumhuriyet"
     ],
     "qs:gn_fcode":"PPLX",
@@ -152,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379468,
+    "wof:lastmodified":1564158355,
     "wof:name":"Cumhuriyet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

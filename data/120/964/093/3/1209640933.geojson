@@ -25,6 +25,9 @@
     "iso:country":"TR",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tur_x_preferred":[
+        "Demirciler"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +37,7 @@
         "gn:id":8029488
     },
     "wof:country":"TR",
-    "wof:geomhash":"55ccd341a72d2bb2532dfc89b810979c",
+    "wof:geomhash":"59a68176ea03dce3d9e321ba016008f1",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209640933,
-    "wof:lastmodified":1536280884,
+    "wof:lastmodified":1564160232,
     "wof:name":"Demirciler",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +55,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.395959999999995,
+    32.39596,
     40.92141,
-    32.395959999999995,
+    32.39596,
     40.92141
 ],
   "geometry": {"coordinates":[32.39596,40.92141],"type":"Point"}

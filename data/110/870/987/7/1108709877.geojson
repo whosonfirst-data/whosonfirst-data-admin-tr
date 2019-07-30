@@ -37,8 +37,26 @@
     "mps:longitude":30.315213,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:deu_x_preferred":[
+        "Serdivan"
+    ],
     "name:eng_x_variant":[
         "Merkez"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0421\u0435\u0440\u0434\u0438\u0432\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Serdivan"
+    ],
+    "name:nor_x_preferred":[
+        "Serdivan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u0440\u0434\u0438\u0432\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Serdivan"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1108709877,
-    "wof:lastmodified":1561070588,
+    "wof:lastmodified":1564161504,
     "wof:name":"Serdivan",
     "wof:parent_id":85679245,
     "wof:placetype":"county",
