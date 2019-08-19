@@ -11,8 +11,8 @@
     "geom:longitude":29.222078,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":40.872997,
-    "lbl:longitude":29.228766,
+    "lbl:latitude":40.874814,
+    "lbl:longitude":29.231971,
     "mps:latitude":40.875735,
     "mps:longitude":29.223817,
     "mz:hierarchy_label":1,
@@ -20,9 +20,9 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:cat_x_preferred":[
@@ -121,7 +121,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -149,7 +149,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356474,
+    "wof:lastmodified":1566247580,
     "wof:name":"Bati",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
