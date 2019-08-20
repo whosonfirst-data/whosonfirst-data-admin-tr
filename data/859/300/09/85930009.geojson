@@ -15,8 +15,8 @@
     "gn:latitude":40.86397,
     "gn:longitude":29.28715,
     "iso:country":"TR",
-    "lbl:latitude":40.860217,
-    "lbl:longitude":29.278107,
+    "lbl:latitude":40.860736,
+    "lbl:longitude":29.281826,
     "mps:latitude":40.860624,
     "mps:longitude":29.279059,
     "mz:hierarchy_label":1,
@@ -24,9 +24,9 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":15.0,
+    "mz:min_zoom":12.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:cat_x_preferred":[
@@ -46,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "G\u00fczelyal\u0131"
+    ],
+    "name:eng_x_variant":[
+        "G\u00fczelyali"
     ],
     "name:eus_x_preferred":[
         "G\u00fczelyal\u0131"
@@ -141,7 +144,7 @@
     "qs_pg:woe_id":55871044,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -171,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356469,
+    "wof:lastmodified":1566247580,
     "wof:name":"G\u00fczelyali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

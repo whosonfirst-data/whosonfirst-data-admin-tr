@@ -20,9 +20,9 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":14.0,
+    "mz:min_zoom":13.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -115,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wd:wordcount":2390,
     "wof:belongs_to":[],
     "wof:belongsto":[
@@ -148,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1561768927,
+    "wof:lastmodified":1566247582,
     "wof:name":"Fenerbah\u00e7e",
     "wof:parent_id":101912681,
     "wof:placetype":"neighbourhood",

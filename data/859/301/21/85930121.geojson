@@ -11,8 +11,8 @@
     "geom:longitude":29.244753,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":40.876288,
-    "lbl:longitude":29.241518,
+    "lbl:latitude":40.878191,
+    "lbl:longitude":29.24129,
     "mps:latitude":40.874384,
     "mps:longitude":29.245713,
     "mz:hierarchy_label":1,
@@ -20,7 +20,7 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
@@ -112,7 +112,7 @@
     "qs:gn_id":0,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":79,
     "wof:belongsto":[
         102191569,
@@ -141,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356471,
+    "wof:lastmodified":1566247580,
     "wof:name":"Dogu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

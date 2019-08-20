@@ -20,11 +20,17 @@
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
-    "mz:is_official":0,
+    "mz:is_official":1,
     "mz:max_zoom":18.0,
-    "mz:min_zoom":16.0,
+    "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:eng_x_variant":[
+        "Altay\u00e7esme"
+    ],
+    "name:tur_x_preferred":[
+        "Altay\u00e7e\u015fme"
+    ],
     "name:und_x_colloquial":[
         "Altaycesme"
     ],
@@ -61,7 +67,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -91,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1527269305,
+    "wof:lastmodified":1566247581,
     "wof:name":"Altay\u00e7esme",
     "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
