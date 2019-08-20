@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"958078f478a514282d20ce7785cf1ac4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8577e47a6c97d1b4ff85c6c350b93b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830315,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830315,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339535,
     "wof:name":"Cayirdere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.143940322901106,
-    41.280960225181076,
-    28.143940322901106,
-    41.280960225181076
+    28.14394032290111,
+    41.28096022518108,
+    28.14394032290111,
+    41.28096022518108
 ],
   "geometry": {"coordinates":[28.14394032290111,41.28096022518108],"type":"Point"}
 }

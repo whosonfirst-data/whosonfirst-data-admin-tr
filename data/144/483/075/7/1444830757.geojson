@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912677,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"9d7fd57832ca0290813cd3c8b9b4baa7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2dffe6faa806b99b30c38dddb60a5fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912677,
+            "neighbourhood_id":1444830757,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830757,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339588,
     "wof:name":"Bahariye",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.03020911207341,
-    40.986063843482064,
+    40.98606384348206,
     29.03020911207341,
-    40.986063843482064
+    40.98606384348206
 ],
   "geometry": {"coordinates":[29.03020911207341,40.98606384348206],"type":"Point"}
 }

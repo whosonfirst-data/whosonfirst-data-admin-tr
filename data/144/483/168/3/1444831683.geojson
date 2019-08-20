@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d0a9003ad168e4c4c0463da3f14c833a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea1a751a0daf72d35da05f6b979ba6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831683,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831683,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339698,
     "wof:name":"Camlibahce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.084241709255398,
-    41.149281341397035,
-    29.084241709255398,
-    41.149281341397035
+    29.0842417092554,
+    41.14928134139704,
+    29.0842417092554,
+    41.14928134139704
 ],
   "geometry": {"coordinates":[29.0842417092554,41.14928134139704],"type":"Point"}
 }

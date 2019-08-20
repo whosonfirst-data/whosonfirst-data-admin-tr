@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"47fe3cee07aca6322c9cd29a1ff61959",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02b170fe2ebf10bbd5fd6f2661ccbd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833635,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833635,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339931,
     "wof:name":"Cavus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.609692584959397,
+    29.6096925849594,
     41.1740459836248,
-    29.609692584959397,
+    29.6096925849594,
     41.1740459836248
 ],
   "geometry": {"coordinates":[29.6096925849594,41.1740459836248],"type":"Point"}

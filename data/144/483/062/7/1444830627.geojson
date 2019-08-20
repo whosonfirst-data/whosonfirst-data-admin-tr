@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912647,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f579b252c243704ba48ebd08a070269f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"514b4e05b4633adcc324037c3d3a7ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912647,
+            "neighbourhood_id":1444830627,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830627,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339573,
     "wof:name":"Bahcelievler",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.079237805827113,
+    29.07923780582711,
     41.05528245731197,
-    29.079237805827113,
+    29.07923780582711,
     41.05528245731197
 ],
   "geometry": {"coordinates":[29.07923780582711,41.05528245731197],"type":"Point"}

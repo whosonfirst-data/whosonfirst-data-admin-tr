@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709941,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a6970435026bb3de3f988551758a277e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bad018c8cf8d93bf8f8391b0f9ed9216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709941,
+            "locality_id":-1,
+            "neighbourhood_id":1444833485,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833485,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339913,
     "wof:name":"Fatih",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.352543712898573,
-    40.929812867047396,
-    29.352543712898573,
-    40.929812867047396
+    29.35254371289857,
+    40.9298128670474,
+    29.35254371289857,
+    40.9298128670474
 ],
   "geometry": {"coordinates":[29.35254371289857,40.9298128670474],"type":"Point"}
 }

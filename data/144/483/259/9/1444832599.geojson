@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462523,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b80728dcbb5917890d215d00d9847da5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2f5bb9d8029638c3b19ca61ac54176c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462523,
+            "locality_id":-1,
+            "neighbourhood_id":1444832599,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832599,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339805,
     "wof:name":"Topselvi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.210579682728856,
+    29.21057968272886,
     40.89826847171588,
-    29.210579682728856,
+    29.21057968272886,
     40.89826847171588
 ],
   "geometry": {"coordinates":[29.21057968272886,40.89826847171588],"type":"Point"}

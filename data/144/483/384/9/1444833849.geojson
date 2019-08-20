@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"171aa87590e66b111a36b834e1eadf67",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d1b87cc833e751263d8ed19f461129b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833849,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833849,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339953,
     "wof:name":"Satmazh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.558037504876598,
-    41.128940376317225,
-    29.558037504876598,
-    41.128940376317225
+    29.5580375048766,
+    41.12894037631722,
+    29.5580375048766,
+    41.12894037631722
 ],
   "geometry": {"coordinates":[29.5580375048766,41.12894037631722],"type":"Point"}
 }

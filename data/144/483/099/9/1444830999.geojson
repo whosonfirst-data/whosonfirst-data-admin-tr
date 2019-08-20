@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912641,
+        890462627,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"308080ba066bad3f686a7988de53a3f3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"abe4d48b9ee3591cc1ed89fd558b0913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462627,
+            "locality_id":101912641,
+            "neighbourhood_id":1444830999,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830999,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339615,
     "wof:name":"Mustafa Kemal",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.095249196071975,
-    41.001866452654134,
-    29.095249196071975,
-    41.001866452654134
+    29.09524919607198,
+    41.00186645265413,
+    29.09524919607198,
+    41.00186645265413
 ],
   "geometry": {"coordinates":[29.09524919607198,41.00186645265413],"type":"Point"}
 }

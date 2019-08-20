@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"611ce4670ded7ef0d587d4b4f07a4a72",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5b88eeb5f4c0aa7a7b5d3d16906d2ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444831169,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831169,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339634,
     "wof:name":"Yaman Evler",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -48,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.104290033140423,
+    29.10429003314042,
     41.02673552866127,
-    29.104290033140423,
+    29.10429003314042,
     41.02673552866127
 ],
   "geometry": {"coordinates":[29.10429003314042,41.02673552866127],"type":"Point"}

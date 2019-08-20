@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"04157000a228adc8a86d0148136ca943",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ecb4fb1a2f382b22c312a7d12dbfc1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830681,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830681,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339578,
     "wof:name":"Imrahor",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.009886574643808,
-    41.021736652254724,
-    29.009886574643808,
-    41.021736652254724
+    29.00988657464381,
+    41.02173665225472,
+    29.00988657464381,
+    41.02173665225472
 ],
   "geometry": {"coordinates":[29.00988657464381,41.02173665225472],"type":"Point"}
 }

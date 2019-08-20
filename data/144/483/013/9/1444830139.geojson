@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"fec3dc7d1680c114bbc9d17f48c28625",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bee1e1f11b06c45d8418e41edb16ef3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830139,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830139,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339516,
     "wof:name":"Yolcati",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.126774176568617,
+    28.12677417656862,
     41.13121249400463,
-    28.126774176568617,
+    28.12677417656862,
     41.13121249400463
 ],
   "geometry": {"coordinates":[28.12677417656862,41.13121249400463],"type":"Point"}

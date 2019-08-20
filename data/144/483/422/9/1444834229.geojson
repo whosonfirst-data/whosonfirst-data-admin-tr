@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"9fc29f5bef318875048732d65d1db9a3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c289be6b56b7079bc9f3c19a4ff8a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834229,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834229,
-    "wof:lastmodified":1566335660,
+    "wof:lastmodified":1566340001,
     "wof:name":"Sortullu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.735707119417885,
+    29.73570711941789,
     41.06926250409616,
-    29.735707119417885,
+    29.73570711941789,
     41.06926250409616
 ],
   "geometry": {"coordinates":[29.73570711941789,41.06926250409616],"type":"Point"}

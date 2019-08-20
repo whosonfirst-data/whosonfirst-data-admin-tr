@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"d5f29c3c7aa74ba78ca33d099381040b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831463,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831463,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339669,
     "wof:name":"Yenisanayi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

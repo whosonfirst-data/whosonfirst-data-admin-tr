@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"035c72156d45d3c0de5f3b0b16ae2b63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7c983ca6e13cdac04a6ad8be1eccf57a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833209,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833209,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339882,
     "wof:name":"Seyhli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.285395470494645,
+    29.28539547049465,
     40.90756688018049,
-    29.285395470494645,
+    29.28539547049465,
     40.90756688018049
 ],
   "geometry": {"coordinates":[29.28539547049465,40.90756688018049],"type":"Point"}

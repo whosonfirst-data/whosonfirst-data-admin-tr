@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"c744a6bb7721865d33ecd6b83b8a463c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444830523,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830523,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339560,
     "wof:name":"Kisikli",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"df7af8a6fb97a43d169ceb47da03b87d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e16d50fd619daea2950aa85425a002dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831981,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831981,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339733,
     "wof:name":"Kilicli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.298503825728833,
-    41.152857456164675,
-    29.298503825728833,
-    41.152857456164675
+    29.29850382572883,
+    41.15285745616467,
+    29.29850382572883,
+    41.15285745616467
 ],
   "geometry": {"coordinates":[29.29850382572883,41.15285745616467],"type":"Point"}
 }

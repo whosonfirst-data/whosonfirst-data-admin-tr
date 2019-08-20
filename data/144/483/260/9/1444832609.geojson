@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462523,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"528da47a50bca6819278d16b244e1cfb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"544ac9bcf99332946ccd75666082f881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462523,
+            "locality_id":-1,
+            "neighbourhood_id":1444832609,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832609,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339805,
     "wof:name":"Yunus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.210694123704407,
-    40.889444601218855,
-    29.210694123704407,
-    40.889444601218855
+    29.21069412370441,
+    40.88944460121886,
+    29.21069412370441,
+    40.88944460121886
 ],
   "geometry": {"coordinates":[29.21069412370441,40.88944460121886],"type":"Point"}
 }

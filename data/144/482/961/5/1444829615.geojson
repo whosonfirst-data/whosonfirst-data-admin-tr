@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"555485101fbac6e3fc866f230d0272b8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"91e7cb6e504686b63e303d0a0427028e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829615,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829615,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339455,
     "wof:name":"Elbasan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.413702704474858,
-    41.139934553439446,
-    28.413702704474858,
-    41.139934553439446
+    28.41370270447486,
+    41.13993455343945,
+    28.41370270447486,
+    41.13993455343945
 ],
   "geometry": {"coordinates":[28.41370270447486,41.13993455343945],"type":"Point"}
 }

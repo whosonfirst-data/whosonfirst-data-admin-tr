@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"873226182b685cc79f314122a9da7991",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4e0b41f3556c60f5a4d258be555d875a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832273,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832273,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339768,
     "wof:name":"Meclis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.20079497931935,
-    41.011144736948445,
+    41.01114473694845,
     29.20079497931935,
-    41.011144736948445
+    41.01114473694845
 ],
   "geometry": {"coordinates":[29.20079497931935,41.01114473694845],"type":"Point"}
 }

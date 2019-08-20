@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"8d3488bc431bba0b379e500fc6b9b9da",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21171d6593941bc3a92f1f926e2bf4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833577,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833577,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339923,
     "wof:name":"Sile",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.612782491299264,
+    29.61278249129926,
     41.17671631729639,
-    29.612782491299264,
+    29.61278249129926,
     41.17671631729639
 ],
   "geometry": {"coordinates":[29.61278249129926,41.17671631729639],"type":"Point"}

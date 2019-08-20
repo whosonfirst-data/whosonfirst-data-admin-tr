@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bbff8ab072502169f4ec5cfea59e8fe8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c02f9235a3c26fbf61fd759712c6a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832015,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832015,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339738,
     "wof:name":"Merkez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.174130232016196,
+    29.1741302320162,
     41.03799569442217,
-    29.174130232016196,
+    29.1741302320162,
     41.03799569442217
 ],
   "geometry": {"coordinates":[29.1741302320162,41.03799569442217],"type":"Point"}

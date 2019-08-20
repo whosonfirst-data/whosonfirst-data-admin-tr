@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"16c2399224a269684bba96e7d7fdfd16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830105,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830105,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339514,
     "wof:name":"Kadikoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

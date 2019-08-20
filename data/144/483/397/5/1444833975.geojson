@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"165455e89eb7b757d37ab5e1d19e0461",
-    "wof:hierarchy":[],
+    "wof:geomhash":"347f9ca86c412a22b62e829ff2bf6a55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833975,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833975,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339970,
     "wof:name":"Hacilli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.769781919887922,
+    29.76978191988792,
     41.04491657057125,
-    29.769781919887922,
+    29.76978191988792,
     41.04491657057125
 ],
   "geometry": {"coordinates":[29.76978191988792,41.04491657057125],"type":"Point"}

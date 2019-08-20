@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462523,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b6e285d117e674e77d984b2e9fc87213",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1c0143616e14b13960a1de2b4c39827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462523,
+            "locality_id":-1,
+            "neighbourhood_id":1444832677,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832677,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339812,
     "wof:name":"Yakacik Carsi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.224312599794857,
-    40.919285333116136,
-    29.224312599794857,
-    40.919285333116136
+    29.22431259979486,
+    40.91928533311614,
+    29.22431259979486,
+    40.91928533311614
 ],
   "geometry": {"coordinates":[29.22431259979486,40.91928533311614],"type":"Point"}
 }

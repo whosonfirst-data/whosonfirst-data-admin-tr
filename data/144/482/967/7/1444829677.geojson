@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c5ac78e2d33b950cb375476a19ad14b1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ab156ea9a98ea94c51123de553c9d9cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829677,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829677,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339464,
     "wof:name":"Kizilcaali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.558559977318616,
+    28.55855997731862,
     41.23624628435991,
-    28.558559977318616,
+    28.55855997731862,
     41.23624628435991
 ],
   "geometry": {"coordinates":[28.55855997731862,41.23624628435991],"type":"Point"}

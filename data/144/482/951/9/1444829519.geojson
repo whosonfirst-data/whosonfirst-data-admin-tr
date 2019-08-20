@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e6ca9d4320deb3004a611e92d15630de",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f1f0f00a2e0561dfccc1da6756a3ea81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829519,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829519,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339444,
     "wof:name":"Ahmediye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.517157346372027,
-    41.089711952950864,
-    28.517157346372027,
-    41.089711952950864
+    28.51715734637203,
+    41.08971195295086,
+    28.51715734637203,
+    41.08971195295086
 ],
   "geometry": {"coordinates":[28.51715734637203,41.08971195295086],"type":"Point"}
 }

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912677,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"af826d01887a9a88dee17f418dd53418",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9342d877450c406c7546becfdd8c06d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912677,
+            "neighbourhood_id":1444830951,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830951,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339610,
     "wof:name":"Ziverbey",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.040642804273148,
-    40.989712359096366,
-    29.040642804273148,
-    40.989712359096366
+    29.04064280427315,
+    40.98971235909637,
+    29.04064280427315,
+    40.98971235909637
 ],
   "geometry": {"coordinates":[29.04064280427315,40.98971235909637],"type":"Point"}
 }

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d75642a4548ccf4eaf646b0910eeda58",
-    "wof:hierarchy":[],
+    "wof:geomhash":"04a87e093899a1230c34540ad8eef6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833895,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833895,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339958,
     "wof:name":"Degirmencayiri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.660662449701015,
+    29.66066244970101,
     40.97720330446162,
-    29.660662449701015,
+    29.66066244970101,
     40.97720330446162
 ],
   "geometry": {"coordinates":[29.66066244970101,40.97720330446162],"type":"Point"}

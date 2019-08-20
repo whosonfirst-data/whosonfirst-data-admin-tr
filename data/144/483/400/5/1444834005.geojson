@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3f0b9ffa301b3a633a88b70461fe1a8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"722362a1d1ee4a60e2b8b1f5575477fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834005,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834005,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339974,
     "wof:name":"Sogullu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.821852563763162,
+    29.82185256376316,
     41.09433252105606,
-    29.821852563763162,
+    29.82185256376316,
     41.09433252105606
 ],
   "geometry": {"coordinates":[29.82185256376316,41.09433252105606],"type":"Point"}

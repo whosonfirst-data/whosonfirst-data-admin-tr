@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"ba645246fd00c685f218daf9502f4171",
-    "wof:hierarchy":[],
+    "wof:geomhash":"132c8ca22bc0e45b6f34d675d060f4f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":-1,
+            "neighbourhood_id":1444832731,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832731,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339820,
     "wof:name":"Ugurmumcu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.213612368580936,
+    29.21361236858094,
     40.93264441454945,
-    29.213612368580936,
+    29.21361236858094,
     40.93264441454945
 ],
   "geometry": {"coordinates":[29.21361236858094,40.93264441454945],"type":"Point"}

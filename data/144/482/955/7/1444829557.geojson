@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e5265e09b000daef3fe2c5e177809f3b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2c78098354c764aba99a7bc12744086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829557,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829557,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339449,
     "wof:name":"Sinanoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.537127296605494,
-    40.992822719020296,
-    28.537127296605494,
-    40.992822719020296
+    28.53712729660549,
+    40.9928227190203,
+    28.53712729660549,
+    40.9928227190203
 ],
   "geometry": {"coordinates":[28.53712729660549,40.9928227190203],"type":"Point"}
 }

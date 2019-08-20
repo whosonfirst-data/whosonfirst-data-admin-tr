@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a388c0e0405970e8bfc83baff8b39f8f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"85e9d882acea4e50ec1ae56cb11fd8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831783,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831783,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339711,
     "wof:name":"Yavuz Selim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.151876325805425,
+    29.15187632580542,
     41.08039233430932,
-    29.151876325805425,
+    29.15187632580542,
     41.08039233430932
 ],
   "geometry": {"coordinates":[29.15187632580542,41.08039233430932],"type":"Point"}

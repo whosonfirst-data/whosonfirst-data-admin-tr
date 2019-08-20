@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"f079f7f2765f4df2fe586ac8b8dd4e30",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444830869,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830869,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339599,
     "wof:name":"Suadiye",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"06eb707e7ca7735d4d4b1819291eb426",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9e9372e7f421683f1fe169f52f054f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832049,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832049,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339742,
     "wof:name":"Hamidiye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.188435353959942,
-    41.025305450386384,
-    29.188435353959942,
-    41.025305450386384
+    29.18843535395994,
+    41.02530545038638,
+    29.18843535395994,
+    41.02530545038638
 ],
   "geometry": {"coordinates":[29.18843535395994,41.02530545038638],"type":"Point"}
 }

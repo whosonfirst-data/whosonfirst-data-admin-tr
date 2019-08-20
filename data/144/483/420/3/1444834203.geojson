@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"13074ab1c38717828f02f22b1709e3fa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b0c4390972b3c9c781d2c01be174ba58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834203,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834203,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339996,
     "wof:name":"Karabeyli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.731329752103107,
+    29.73132975210311,
     41.10475667558102,
-    29.731329752103107,
+    29.73132975210311,
     41.10475667558102
 ],
   "geometry": {"coordinates":[29.73132975210311,41.10475667558102],"type":"Point"}

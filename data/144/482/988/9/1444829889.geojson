@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5626eaa1a83cb634b2d37630c07b1dba",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22c7dc55c5b6a65f075a329bb2511bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829889,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829889,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339486,
     "wof:name":"Hisarbeyli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.474989454923257,
-    41.367483784153265,
-    28.474989454923257,
-    41.367483784153265
+    28.47498945492326,
+    41.36748378415326,
+    28.47498945492326,
+    41.36748378415326
 ],
   "geometry": {"coordinates":[28.47498945492326,41.36748378415326],"type":"Point"}
 }

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"78cf5aa3f8ef927ff2aa1b2480bae18f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"38280fc7eedc5a32e409611864ab4609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833173,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833173,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339877,
     "wof:name":"Velibaba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.25386698173063,
-    40.907177670831274,
+    40.90717767083127,
     29.25386698173063,
-    40.907177670831274
+    40.90717767083127
 ],
   "geometry": {"coordinates":[29.25386698173063,40.90717767083127],"type":"Point"}
 }

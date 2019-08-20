@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"2a74f01c42dfe7986b08d83312c64c56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829637,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829637,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339459,
     "wof:name":"Ferhatpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"91f6bdd293e0d1c1ea31bc384d5e7d52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834091,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834091,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339984,
     "wof:name":"Bucakli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

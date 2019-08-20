@@ -33,13 +33,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"4ac3fdbcb333203c5b9db95a26f68288",
-    "wof:hierarchy":[],
+    "wof:geomhash":"349aada5984f2c38637137f947886d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833343,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833343,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339896,
     "wof:name":"Yeni Mahalle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -49,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.228089151987998,
+    29.228089151988,
     40.88384254830257,
-    29.228089151987998,
+    29.228089151988,
     40.88384254830257
 ],
   "geometry": {"coordinates":[29.228089151988,40.88384254830257],"type":"Point"}

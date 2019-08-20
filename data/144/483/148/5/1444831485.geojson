@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a718fe5078b48e09b2d1c0bcfb6b5a0d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28a1708ec758c603516a8dc5b7ba8a5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444831485,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831485,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339673,
     "wof:name":"Kucukyali",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.10755918063903,
-    40.948865718923024,
+    40.94886571892302,
     29.10755918063903,
-    40.948865718923024
+    40.94886571892302
 ],
   "geometry": {"coordinates":[29.10755918063903,40.94886571892302],"type":"Point"}
 }

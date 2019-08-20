@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a5e09ab3aa91f791ad365f2f61797bae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"415df8115e8eba382cef0eeb3be06a8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832853,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832853,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339836,
     "wof:name":"Hasanpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.25057680368356,
-    40.967218539011654,
+    40.96721853901165,
     29.25057680368356,
-    40.967218539011654
+    40.96721853901165
 ],
   "geometry": {"coordinates":[29.25057680368356,40.96721853901165],"type":"Point"}
 }

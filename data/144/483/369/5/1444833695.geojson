@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"62e9afee8a3d573150f6e761e952a4bc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35c359301738bee394d01a313bb2a31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833695,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833695,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339937,
     "wof:name":"Karamandere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.589465142530937,
+    29.58946514253094,
     41.13669311619236,
-    29.589465142530937,
+    29.58946514253094,
     41.13669311619236
 ],
   "geometry": {"coordinates":[29.58946514253094,41.13669311619236],"type":"Point"}

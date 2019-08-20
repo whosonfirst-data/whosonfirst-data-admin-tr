@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709297,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"6d36c8e14730efeefefded9302f9860d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b473a6459f88bdccb55fd9a5b3c2a7ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709297,
+            "locality_id":-1,
+            "neighbourhood_id":1444829663,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829663,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339460,
     "wof:name":"Nakkas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.552837928541123,
+    28.55283792854112,
     41.18665715727058,
-    28.552837928541123,
+    28.55283792854112,
     41.18665715727058
 ],
   "geometry": {"coordinates":[28.55283792854112,41.18665715727058],"type":"Point"}

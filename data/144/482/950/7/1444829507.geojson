@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"16ae5389f74320729e3790a17918c7d1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9328c90dffb636b1e45c42de728fa07f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829507,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829507,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339441,
     "wof:name":"Celaliye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.419882517154562,
+    28.41988251715456,
     41.05175009699418,
-    28.419882517154562,
+    28.41988251715456,
     41.05175009699418
 ],
   "geometry": {"coordinates":[28.41988251715456,41.05175009699418],"type":"Point"}

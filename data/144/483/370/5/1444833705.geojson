@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a34ca1bf22ccb24b105737fd2bc6d2cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f5f08607505a53ed8edbdfdcc34845b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833705,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833705,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339937,
     "wof:name":"Cayirbasi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.647887260549197,
+    29.6478872605492,
     41.15039594756251,
-    29.647887260549197,
+    29.6478872605492,
     41.15039594756251
 ],
   "geometry": {"coordinates":[29.6478872605492,41.15039594756251],"type":"Point"}

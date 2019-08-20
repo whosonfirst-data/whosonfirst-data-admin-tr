@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e302177baceceb58c9b77a81df193c06",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3af079d1e026caf14a78d76615a5adfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833715,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833715,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339938,
     "wof:name":"Avcikoru",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.413168819696196,
+    29.4131688196962,
     41.12061664950949,
-    29.413168819696196,
+    29.4131688196962,
     41.12061664950949
 ],
   "geometry": {"coordinates":[29.4131688196962,41.12061664950949],"type":"Point"}

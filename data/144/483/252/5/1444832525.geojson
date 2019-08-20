@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"614bf619305196afbd9bd309dd1e07e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444832525,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832525,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339796,
     "wof:name":"Petrolis",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

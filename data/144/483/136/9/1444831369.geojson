@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"ee751ec0a25d74f49a4bbca10adba451",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eca71b4dd8c4ad34de4997e846acb1af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831369,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831369,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339658,
     "wof:name":"Altinsehir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.141883893608576,
+    29.14188389360858,
     41.01330912039192,
-    29.141883893608576,
+    29.14188389360858,
     41.01330912039192
 ],
   "geometry": {"coordinates":[29.14188389360858,41.01330912039192],"type":"Point"}

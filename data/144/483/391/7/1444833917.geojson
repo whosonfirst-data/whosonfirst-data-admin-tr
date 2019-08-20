@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"7dff2af9250e9994ebf6a4a8a099d250",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ad3363f46a35c4f8a48e094124cae7cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833917,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833917,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339962,
     "wof:name":"Cengilli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.671591562866045,
-    41.003895367667766,
-    29.671591562866045,
-    41.003895367667766
+    29.67159156286604,
+    41.00389536766777,
+    29.67159156286604,
+    41.00389536766777
 ],
   "geometry": {"coordinates":[29.67159156286604,41.00389536766777],"type":"Point"}
 }

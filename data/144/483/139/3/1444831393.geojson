@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"67b03f93de8bbca4c19c27f12a9b62a0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"35764414799c7e94f3a43b6abf745c25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831393,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831393,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339660,
     "wof:name":"Adem Yavuz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.154501011162964,
+    29.15450101116296,
     41.02103719416315,
-    29.154501011162964,
+    29.15450101116296,
     41.02103719416315
 ],
   "geometry": {"coordinates":[29.15450101116296,41.02103719416315],"type":"Point"}

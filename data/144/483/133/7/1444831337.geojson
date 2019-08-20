@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"e5f01cb3548540b86802b25dcdda8b14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831337,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831337,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339654,
     "wof:name":"Tepeustu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

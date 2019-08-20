@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"86d8a125e579b5389ae70f8517c8b005",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a707f8d137dcca72dfdbf8922e4975d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832245,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832245,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339763,
     "wof:name":"Tasdelen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.229691325645703,
-    41.033377421352434,
-    29.229691325645703,
-    41.033377421352434
+    29.2296913256457,
+    41.03337742135243,
+    29.2296913256457,
+    41.03337742135243
 ],
   "geometry": {"coordinates":[29.2296913256457,41.03337742135243],"type":"Point"}
 }

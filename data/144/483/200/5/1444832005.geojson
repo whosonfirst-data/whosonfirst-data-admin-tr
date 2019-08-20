@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912647,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b8500c82b494ec7a5cfb5789b7c218cf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"049879084bc5b43059742b3f03ee93b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912647,
+            "neighbourhood_id":1444832005,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832005,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339737,
     "wof:name":"Yenimahalle",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -48,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.085243067791453,
+    29.08524306779145,
     41.06805538628163,
-    29.085243067791453,
+    29.08524306779145,
     41.06805538628163
 ],
   "geometry": {"coordinates":[29.08524306779145,41.06805538628163],"type":"Point"}

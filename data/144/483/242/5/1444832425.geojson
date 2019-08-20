@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c5ba262c50812a2595ceee2ad0893f25",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd03461e9f9043da208e238569308fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832425,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832425,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339785,
     "wof:name":"Akpinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.23117905832785,
-    40.968385097684376,
+    40.96838509768438,
     29.23117905832785,
-    40.968385097684376
+    40.96838509768438
 ],
   "geometry": {"coordinates":[29.23117905832785,40.96838509768438],"type":"Point"}
 }

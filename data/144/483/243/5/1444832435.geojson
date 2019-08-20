@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e66d3ba14ebaeff318a31754e517aa55",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0f8a25c1f5a17828d1a0a82b8381489b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832435,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832435,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339786,
     "wof:name":"Eyup Sultan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.223625953941557,
+    29.22362595394156,
     40.98341892039884,
-    29.223625953941557,
+    29.22362595394156,
     40.98341892039884
 ],
   "geometry": {"coordinates":[29.22362595394156,40.98341892039884],"type":"Point"}

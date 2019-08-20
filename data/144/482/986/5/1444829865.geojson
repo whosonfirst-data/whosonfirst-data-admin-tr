@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"7cfb3c397c078d215d19400ca4f0477a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e318cd8fc708a58aaf44aa79ecfc6d00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829865,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829865,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339484,
     "wof:name":"Karacakoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.381491177898933,
+    28.38149117789893,
     41.40371774056937,
-    28.381491177898933,
+    28.38149117789893,
     41.40371774056937
 ],
   "geometry": {"coordinates":[28.38149117789893,41.40371774056937],"type":"Point"}

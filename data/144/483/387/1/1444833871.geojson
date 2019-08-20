@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b3a847390fac7ebe6ad0fc78fefa5eab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7db3286f1cd239e085a7772252d49868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833871,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833871,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339957,
     "wof:name":"Yaylali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.671834749939062,
+    29.67183474993906,
     41.0927908562376,
-    29.671834749939062,
+    29.67183474993906,
     41.0927908562376
 ],
   "geometry": {"coordinates":[29.67183474993906,41.0927908562376],"type":"Point"}

@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a83bb5e4c80114b80efbb8d8e1c4e279",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b349cf82327005aaa95f92f50c75ec5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830185,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830185,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339521,
     "wof:name":"Cantakoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.078937848788716,
+    28.07893784878872,
     41.08361411926211,
-    28.078937848788716,
+    28.07893784878872,
     41.08361411926211
 ],
   "geometry": {"coordinates":[28.07893784878872,41.08361411926211],"type":"Point"}

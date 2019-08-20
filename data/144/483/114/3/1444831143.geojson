@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"755ce0a624d77f0cc37793bf79b310c3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"192a94fa882c0e8f55fad7eb1c924f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444831143,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831143,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339633,
     "wof:name":"Umraniye",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.098281881924034,
+    29.09828188192403,
     41.02418860710742,
-    29.098281881924034,
+    29.09828188192403,
     41.02418860710742
 ],
   "geometry": {"coordinates":[29.09828188192403,41.02418860710742],"type":"Point"}

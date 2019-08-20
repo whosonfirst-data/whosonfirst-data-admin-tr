@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"cd6a83d3e3bd94942438bd8b82e49b09",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0cf9bb9f29eeaa547c4591afe600f0d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833525,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833525,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339918,
     "wof:name":"Karakiraz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.347794412413275,
-    41.179989459101606,
-    29.347794412413275,
-    41.179989459101606
+    29.34779441241328,
+    41.17998945910161,
+    29.34779441241328,
+    41.17998945910161
 ],
   "geometry": {"coordinates":[29.34779441241328,41.17998945910161],"type":"Point"}
 }

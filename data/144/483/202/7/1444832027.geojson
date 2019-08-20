@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2550ef24897bcb29c2dfbeeb0f35e22c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"692b13f8f4fb08fc16f8c41444e21232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832027,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832027,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339738,
     "wof:name":"Cekmekoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.183857714937943,
+    29.18385771493794,
     41.03229833815395,
-    29.183857714937943,
+    29.18385771493794,
     41.03229833815395
 ],
   "geometry": {"coordinates":[29.18385771493794,41.03229833815395],"type":"Point"}

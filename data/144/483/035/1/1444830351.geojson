@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"436b0c2c488cc5f58acdc03ca23bb208",
-    "wof:hierarchy":[],
+    "wof:geomhash":"190575f69b8ff2486ec1e96430d2be63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830351,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830351,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339540,
     "wof:name":"Balaban",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.063144994162815,
+    28.06314499416282,
     41.06746002492144,
-    28.063144994162815,
+    28.06314499416282,
     41.06746002492144
 ],
   "geometry": {"coordinates":[28.06314499416282,41.06746002492144],"type":"Point"}

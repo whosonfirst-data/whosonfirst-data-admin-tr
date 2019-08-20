@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"480ccbacb856c4b36fe6ea2087337682",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4bda2ffd793ffb310e051390f585c40f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444832633,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832633,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339807,
     "wof:name":"Dragos",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.146607177396447,
-    40.907869596979445,
-    29.146607177396447,
-    40.907869596979445
+    29.14660717739645,
+    40.90786959697945,
+    29.14660717739645,
+    40.90786959697945
 ],
   "geometry": {"coordinates":[29.14660717739645,40.90786959697945],"type":"Point"}
 }

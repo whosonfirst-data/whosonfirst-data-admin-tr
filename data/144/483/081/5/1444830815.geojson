@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912641,
+        890462627,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5e0bb14c6a1b55614ac90d088f028172",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b8c7b785d87c9826b4c6ce48e079db80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462627,
+            "locality_id":101912641,
+            "neighbourhood_id":1444830815,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830815,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339593,
     "wof:name":"Merdivenkoy",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.068861551565412,
+    29.06886155156541,
     40.98723006938337,
-    29.068861551565412,
+    29.06886155156541,
     40.98723006938337
 ],
   "geometry": {"coordinates":[29.06886155156541,40.98723006938337],"type":"Point"}

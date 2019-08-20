@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e7c913f81e6c5ee592b8c224d61f1df2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"45bbbd97144ab512899438cb6342013d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832905,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832905,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339842,
     "wof:name":"Necip Fazil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.277127110011143,
+    29.27712711001114,
     40.94025228688316,
-    29.277127110011143,
+    29.27712711001114,
     40.94025228688316
 ],
   "geometry": {"coordinates":[29.27712711001114,40.94025228688316],"type":"Point"}

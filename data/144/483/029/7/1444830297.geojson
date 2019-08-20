@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"05c0f4006832a9ecce0c0818537cc3c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b53801ce800e2c0943b02de92a3cdee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830297,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830297,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339534,
     "wof:name":"Beyciler",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.114071228282555,
-    41.235105864660106,
-    28.114071228282555,
-    41.235105864660106
+    28.11407122828255,
+    41.23510586466011,
+    28.11407122828255,
+    41.23510586466011
 ],
   "geometry": {"coordinates":[28.11407122828255,41.23510586466011],"type":"Point"}
 }

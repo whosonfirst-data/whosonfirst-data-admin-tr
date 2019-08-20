@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"64f3a56e63dc386da1fa5edd9f84edef",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8054bd8f66ddb3d1c3698129a86e4722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833687,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833687,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339936,
     "wof:name":"Imrendere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.598849302526034,
-    41.142639979580274,
-    29.598849302526034,
-    41.142639979580274
+    29.59884930252603,
+    41.14263997958027,
+    29.59884930252603,
+    41.14263997958027
 ],
   "geometry": {"coordinates":[29.59884930252603,41.14263997958027],"type":"Point"}
 }

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"645c7ee06a7e6382e48a39df0f063788",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cb5b369d0c46596649b877ff1885dc7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830341,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830341,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339540,
     "wof:name":"Akoren",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.336544484751702,
-    41.198864188084556,
-    28.336544484751702,
-    41.198864188084556
+    28.3365444847517,
+    41.19886418808456,
+    28.3365444847517,
+    41.19886418808456
 ],
   "geometry": {"coordinates":[28.3365444847517,41.19886418808456],"type":"Point"}
 }

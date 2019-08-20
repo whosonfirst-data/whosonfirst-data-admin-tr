@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"63eb40533e57207d367711366668d480",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19df1d5ddc7dabd84d981363ed3eb3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832917,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832917,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339843,
     "wof:name":"Orhangazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.288113443663935,
-    40.944833869143835,
-    29.288113443663935,
-    40.944833869143835
+    29.28811344366393,
+    40.94483386914384,
+    29.28811344366393,
+    40.94483386914384
 ],
   "geometry": {"coordinates":[29.28811344366393,40.94483386914384],"type":"Point"}
 }

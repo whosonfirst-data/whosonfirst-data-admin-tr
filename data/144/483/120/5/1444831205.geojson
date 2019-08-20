@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"4d94162f0fd2b25bd10c1ba44fa5ac89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444831205,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831205,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339638,
     "wof:name":"Atakent",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

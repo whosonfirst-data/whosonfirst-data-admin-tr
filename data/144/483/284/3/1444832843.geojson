@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"330705e5eefd3171a2f20c353e81d7a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c1b85e9a28d0c66a91b5bc557e5b06da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832843,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832843,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339833,
     "wof:name":"Sultanbeyli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.264881925627297,
+    29.2648819256273,
     40.96782342689099,
-    29.264881925627297,
+    29.2648819256273,
     40.96782342689099
 ],
   "geometry": {"coordinates":[29.2648819256273,40.96782342689099],"type":"Point"}

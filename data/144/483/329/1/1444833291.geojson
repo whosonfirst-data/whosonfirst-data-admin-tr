@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"53aab84ba178396ad5a0d5b50588d063",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbd1186cf7aa4e7f8dc7172fda92f9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833291,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833291,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339892,
     "wof:name":"Kurtdogmus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.360583191430973,
+    29.36058319143097,
     41.01200828223916,
-    29.360583191430973,
+    29.36058319143097,
     41.01200828223916
 ],
   "geometry": {"coordinates":[29.36058319143097,41.01200828223916],"type":"Point"}

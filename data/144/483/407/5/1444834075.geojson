@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"70dc53ad816094d58d22297513d5b3a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4d04f451b11382a767f6512c766fac9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834075,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834075,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339983,
     "wof:name":"Kurfalli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.826172710590157,
+    29.82617271059016,
     41.13312096831156,
-    29.826172710590157,
+    29.82617271059016,
     41.13312096831156
 ],
   "geometry": {"coordinates":[29.82617271059016,41.13312096831156],"type":"Point"}

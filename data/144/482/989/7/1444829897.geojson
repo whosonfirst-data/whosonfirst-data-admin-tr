@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"87bdaa18a0ecf6b7e9ba5361e667d93f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be1f50d76efbb94501e548b478095a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829897,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829897,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339489,
     "wof:name":"Celepkoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.499250941739852,
+    28.49925094173985,
     41.36215861075665,
-    28.499250941739852,
+    28.49925094173985,
     41.36215861075665
 ],
   "geometry": {"coordinates":[28.49925094173985,41.36215861075665],"type":"Point"}

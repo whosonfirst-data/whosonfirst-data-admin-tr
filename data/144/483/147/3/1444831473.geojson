@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"98ebef7b268c2510d2bac4db5e01ea7f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4170c8aa87b6eff9558a3ae35200a184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831473,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831473,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339670,
     "wof:name":"Esenkent",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.180822435539437,
+    29.18082243553944,
     41.00298921740272,
-    29.180822435539437,
+    29.18082243553944,
     41.00298921740272
 ],
   "geometry": {"coordinates":[29.18082243553944,41.00298921740272],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912647,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"405b120ba17904aa751d7f36a172cd85",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59641a7dfad45b2b2cd5547a3254b879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912647,
+            "neighbourhood_id":1444831301,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831301,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339649,
     "wof:name":"Hekimbasi",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.098625204850695,
+    29.09862520485069,
     41.05962081638837,
-    29.098625204850695,
+    29.09862520485069,
     41.05962081638837
 ],
   "geometry": {"coordinates":[29.09862520485069,41.05962081638837],"type":"Point"}

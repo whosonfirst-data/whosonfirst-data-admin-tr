@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bdac907756a0cacca8891d484206cbb9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7abf1a0d72587f998af7b5fc560ec7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831761,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831761,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339707,
     "wof:name":"BaklacI",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.151990766780973,
-    41.065812055840425,
-    29.151990766780973,
-    41.065812055840425
+    29.15199076678097,
+    41.06581205584042,
+    29.15199076678097,
+    41.06581205584042
 ],
   "geometry": {"coordinates":[29.15199076678097,41.06581205584042],"type":"Point"}
 }

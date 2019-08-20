@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"248d5873533b35a5aa6283038acc59f6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833107,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833107,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339868,
     "wof:name":"Camcesme",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

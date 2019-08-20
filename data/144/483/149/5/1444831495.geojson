@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"00533ebbccf9ab2fc52b4e87815de3a6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d6cfcfbbcdf54bea88a373ce49ee354f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444831495,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831495,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339673,
     "wof:name":"Maltepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.11179349673438,
-    40.945062395815384,
+    40.94506239581538,
     29.11179349673438,
-    40.945062395815384
+    40.94506239581538
 ],
   "geometry": {"coordinates":[29.11179349673438,40.94506239581538],"type":"Point"}
 }

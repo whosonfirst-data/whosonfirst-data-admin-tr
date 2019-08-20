@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2242634ea72b34d3ba28f35a0aeb735c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a2ace987e4d41a4de5ed635c6812b170",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":-1,
+            "neighbourhood_id":1444831017,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831017,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339618,
     "wof:name":"Atasehir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.128723181420337,
+    29.12872318142034,
     40.98519546417674,
-    29.128723181420337,
+    29.12872318142034,
     40.98519546417674
 ],
   "geometry": {"coordinates":[29.12872318142034,40.98519546417674],"type":"Point"}

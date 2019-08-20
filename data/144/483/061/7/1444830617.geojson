@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"cccdc58b98e7c6197679e51e65c25946",
-    "wof:hierarchy":[],
+    "wof:geomhash":"bbec7261ed3406d1394d5a2ad973c6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444830617,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830617,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339570,
     "wof:name":"Cengelkoy",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.053774688767255,
-    41.050881146500615,
-    29.053774688767255,
-    41.050881146500615
+    29.05377468876726,
+    41.05088114650061,
+    29.05377468876726,
+    41.05088114650061
 ],
   "geometry": {"coordinates":[29.05377468876726,41.05088114650061],"type":"Point"}
 }

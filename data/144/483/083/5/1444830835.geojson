@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912681,
+        890462627,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"980152dd7c45dbbaf3c2433c91b61db5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c4581206206ca1bd73ef4367eda9c24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462627,
+            "locality_id":101912681,
+            "neighbourhood_id":1444830835,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830835,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339595,
     "wof:name":"Caddebostan",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.062615471578738,
-    40.966881652594914,
-    29.062615471578738,
-    40.966881652594914
+    29.06261547157874,
+    40.96688165259491,
+    29.06261547157874,
+    40.96688165259491
 ],
   "geometry": {"coordinates":[29.06261547157874,40.96688165259491],"type":"Point"}
 }

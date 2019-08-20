@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"8fdc1c229355a7e94640b864c0794ac9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"942e66edeefa656b1f35ddc7e0523b87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833771,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833771,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339946,
     "wof:name":"Kervansaray",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.451620987480986,
+    29.45162098748099,
     41.07244989207368,
-    29.451620987480986,
+    29.45162098748099,
     41.07244989207368
 ],
   "geometry": {"coordinates":[29.45162098748099,41.07244989207368],"type":"Point"}

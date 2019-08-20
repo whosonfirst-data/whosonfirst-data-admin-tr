@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f5eb66b88666a22750b437f6b2579c76",
-    "wof:hierarchy":[],
+    "wof:geomhash":"33d5f68cbb919e4694ae41b99fd4d9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834219,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834219,
-    "wof:lastmodified":1566335660,
+    "wof:lastmodified":1566339998,
     "wof:name":"Ovacik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.618462339966936,
-    41.118444623749795,
-    29.618462339966936,
-    41.118444623749795
+    29.61846233996694,
+    41.1184446237498,
+    29.61846233996694,
+    41.1184446237498
 ],
   "geometry": {"coordinates":[29.61846233996694,41.1184446237498],"type":"Point"}
 }

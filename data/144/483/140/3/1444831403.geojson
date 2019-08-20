@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"db01d858a635d4c3c8f30b7c8df6c21d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"4fd579a94a2fcd1b46296e643e2b0aa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831403,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831403,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339663,
     "wof:name":"Parseller",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.152154971164183,
+    29.15215497116418,
     41.03027515387065,
-    29.152154971164183,
+    29.15215497116418,
     41.03027515387065
 ],
   "geometry": {"coordinates":[29.15215497116418,41.03027515387065],"type":"Point"}

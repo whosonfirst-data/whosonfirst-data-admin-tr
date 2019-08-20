@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"7bff691b59c68e46e09981a608b28d30",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1ddce2b49e39a972a0bb81b0093001d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829377,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829377,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339429,
     "wof:name":"Alkent 2000",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.617579302417116,
+    28.61757930241712,
     41.08087052438823,
-    28.617579302417116,
+    28.61757930241712,
     41.08087052438823
 ],
   "geometry": {"coordinates":[28.61757930241712,41.08087052438823],"type":"Point"}

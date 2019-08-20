@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"604602f4489236e6bd4e1ca4ddc146c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eaef4f001c24492e485d79f32a6f89d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832481,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832481,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339791,
     "wof:name":"Yunus Emre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.247601338319264,
+    29.24760133831926,
     41.01878671960484,
-    29.247601338319264,
+    29.24760133831926,
     41.01878671960484
 ],
   "geometry": {"coordinates":[29.24760133831926,41.01878671960484],"type":"Point"}

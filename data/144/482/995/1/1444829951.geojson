@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709297,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"9793fb987a51a2ae3beb12b2c2711d23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709297,
+            "locality_id":-1,
+            "neighbourhood_id":1444829951,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829951,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339495,
     "wof:name":"Bahsayis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

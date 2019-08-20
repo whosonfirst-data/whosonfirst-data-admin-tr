@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"8ee6554de8a552d3779d509fd30937b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833947,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833947,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339966,
     "wof:name":"Osmankoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

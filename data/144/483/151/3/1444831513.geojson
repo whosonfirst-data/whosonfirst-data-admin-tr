@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5c710da9d2e54277a502a32d6092d1c5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d43d48261f89b7f9966cb92f41929645",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444831513,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831513,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339677,
     "wof:name":"Baglarbasi",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.135940542575415,
+    29.13594054257542,
     40.92543722395061,
-    29.135940542575415,
+    29.13594054257542,
     40.92543722395061
 ],
   "geometry": {"coordinates":[29.13594054257542,40.92543722395061],"type":"Point"}

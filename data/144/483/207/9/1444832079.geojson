@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"50f5158b92e32faf252388f6a84749eb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c4cf6eac433f8c8c8fe154d38d6dad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832079,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832079,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339744,
     "wof:name":"Sultanciftligi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.224770363697047,
+    29.22477036369705,
     41.03005378844657,
-    29.224770363697047,
+    29.22477036369705,
     41.03005378844657
 ],
   "geometry": {"coordinates":[29.22477036369705,41.03005378844657],"type":"Point"}

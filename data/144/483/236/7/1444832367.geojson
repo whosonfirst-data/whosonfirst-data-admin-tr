@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"dfa8bd7c7915873fe0864f18994d2dcd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5c75b3adf8ffd8f3ed2c453d6d94088f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832367,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832367,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339779,
     "wof:name":"Merve",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.240906541249604,
+    29.2409065412496,
     41.00695638206279,
-    29.240906541249604,
+    29.2409065412496,
     41.00695638206279
 ],
   "geometry": {"coordinates":[29.2409065412496,41.00695638206279],"type":"Point"}

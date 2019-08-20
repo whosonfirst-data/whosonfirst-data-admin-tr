@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3f8afee1e5db1d4e386e26a9b849c513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6dae5019eb4ec9d9eba2d0725e0c5ff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830563,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830563,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339564,
     "wof:name":"Acibadem",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.046107143405404,
+    29.0461071434054,
     41.00555648582534,
-    29.046107143405404,
+    29.0461071434054,
     41.00555648582534
 ],
   "geometry": {"coordinates":[29.0461071434054,41.00555648582534],"type":"Point"}

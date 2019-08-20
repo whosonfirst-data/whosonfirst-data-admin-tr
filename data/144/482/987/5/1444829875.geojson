@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bdb7dbe5b9329899ccca33c8be946eae",
-    "wof:hierarchy":[],
+    "wof:geomhash":"be5b89e8671971323bee490ea65802be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829875,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829875,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339485,
     "wof:name":"Belgrat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.385725493994283,
+    28.38572549399428,
     41.37693059992202,
-    28.385725493994283,
+    28.38572549399428,
     41.37693059992202
 ],
   "geometry": {"coordinates":[28.38572549399428,41.37693059992202],"type":"Point"}

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"db655716a7fec59bb664bc085b8859dc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ee5fa62fb803d7398d7b2f4162b7205f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829581,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829581,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339451,
     "wof:name":"Catalca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.456389188354997,
+    28.456389188355,
     41.14493315522586,
-    28.456389188354997,
+    28.456389188355,
     41.14493315522586
 ],
   "geometry": {"coordinates":[28.456389188355,41.14493315522586],"type":"Point"}

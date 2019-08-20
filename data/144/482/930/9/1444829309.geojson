@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5dab1444b116bc2e20aeb3c957375432",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e95f9f5e5b84740ebaa01732b8296c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829309,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829309,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339420,
     "wof:name":"Pinartepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.610598402908572,
-    41.004094223984815,
-    28.610598402908572,
-    41.004094223984815
+    28.61059840290857,
+    41.00409422398481,
+    28.61059840290857,
+    41.00409422398481
 ],
   "geometry": {"coordinates":[28.61059840290857,41.00409422398481],"type":"Point"}
 }

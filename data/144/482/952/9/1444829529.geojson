@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c86f93c18a539daba840fb9eebc8b8be",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ebb995c98bf9c64b3ab390a83cfe6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829529,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829529,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339444,
     "wof:name":"Ekinoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.538786690750964,
-    41.010571235339135,
-    28.538786690750964,
-    41.010571235339135
+    28.53878669075096,
+    41.01057123533914,
+    28.53878669075096,
+    41.01057123533914
 ],
   "geometry": {"coordinates":[28.53878669075096,41.01057123533914],"type":"Point"}
 }

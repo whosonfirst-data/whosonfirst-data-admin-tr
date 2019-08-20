@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3b23e7288a7176897765b76a68e58ccf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fc183df05641fff4f4e95ad0a5103322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830127,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830127,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339515,
     "wof:name":"Celtik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     28.11624560681802,
-    41.107590118602886,
+    41.10759011860289,
     28.11624560681802,
-    41.107590118602886
+    41.10759011860289
 ],
   "geometry": {"coordinates":[28.11624560681802,41.10759011860289],"type":"Point"}
 }

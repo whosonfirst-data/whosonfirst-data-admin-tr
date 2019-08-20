@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"379afab383ca85946f1746b1369ee764",
-    "wof:hierarchy":[],
+    "wof:geomhash":"739dc32f81512b9c0c3b42e943011c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830333,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830333,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339539,
     "wof:name":"Danamandira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.242245120898517,
-    41.307786863493085,
-    28.242245120898517,
-    41.307786863493085
+    28.24224512089852,
+    41.30778686349309,
+    28.24224512089852,
+    41.30778686349309
 ],
   "geometry": {"coordinates":[28.24224512089852,41.30778686349309],"type":"Point"}
 }

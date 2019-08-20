@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"15cf7dda1705041f876a835bae0b0dc2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6f3a2d13a045a28521c5c7716ce2b49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831309,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831309,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339650,
     "wof:name":"Fatih Sultan Mehmet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.123287235081715,
+    29.12328723508172,
     41.02591534371635,
-    29.123287235081715,
+    29.12328723508172,
     41.02591534371635
 ],
   "geometry": {"coordinates":[29.12328723508172,41.02591534371635],"type":"Point"}

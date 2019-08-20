@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912645,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"92628c7583f5da6182b825e7e7dd219f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e7c966c549c70f7e3a98cb03187f36e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":101912645,
+            "neighbourhood_id":1444831603,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831603,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339691,
     "wof:name":"Ruzgarlibahce",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.097802964858076,
+    29.09780296485808,
     41.09367568927069,
-    29.097802964858076,
+    29.09780296485808,
     41.09367568927069
 ],
   "geometry": {"coordinates":[29.09780296485808,41.09367568927069],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"65923129cfea7d0de0a62eb5cd817114",
-    "wof:hierarchy":[],
+    "wof:geomhash":"28ef675ea842ed85bdea3a6ea28cc5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830431,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830431,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339550,
     "wof:name":"Zeynep Kamil",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.022904235612636,
-    41.015012487214584,
-    29.022904235612636,
-    41.015012487214584
+    29.02290423561264,
+    41.01501248721458,
+    29.02290423561264,
+    41.01501248721458
 ],
   "geometry": {"coordinates":[29.02290423561264,41.01501248721458],"type":"Point"}
 }

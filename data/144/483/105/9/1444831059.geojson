@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bbad76baec2d082c914e36e4c8403d82",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d00c714092699604e64d58e38d086b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":-1,
+            "neighbourhood_id":1444831059,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831059,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339623,
     "wof:name":"Yenisehir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.14577488677727,
-    40.993315539802865,
+    40.99331553980286,
     29.14577488677727,
-    40.993315539802865
+    40.99331553980286
 ],
   "geometry": {"coordinates":[29.14577488677727,40.99331553980286],"type":"Point"}
 }

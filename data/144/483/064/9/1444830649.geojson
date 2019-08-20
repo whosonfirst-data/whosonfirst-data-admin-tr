@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"9027984508756b7c630f3379987afdab",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d03e529990801347ffe955df5caa4375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830649,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830649,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339574,
     "wof:name":"Aziz Mahmut Hudayi",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.010458779521567,
-    41.023387908060094,
-    29.010458779521567,
-    41.023387908060094
+    29.01045877952157,
+    41.02338790806009,
+    29.01045877952157,
+    41.02338790806009
 ],
   "geometry": {"coordinates":[29.01045877952157,41.02338790806009],"type":"Point"}
 }

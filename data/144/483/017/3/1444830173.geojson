@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2b6ee080c52aa4cfdf2bbc1384b95383",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b3de9a7cf4cc79344b1df929a6844ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830173,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830173,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339520,
     "wof:name":"Fevzipasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.008499428337718,
-    41.096379448575334,
-    28.008499428337718,
-    41.096379448575334
+    28.00849942833772,
+    41.09637944857533,
+    28.00849942833772,
+    41.09637944857533
 ],
   "geometry": {"coordinates":[28.00849942833772,41.09637944857533],"type":"Point"}
 }

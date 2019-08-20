@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"eb3bc57268abafb6f9cd205ee3e0fcfe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e6e59d3cedb46613d6551a863366c123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833727,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833727,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339941,
     "wof:name":"Uvezli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.443753170411938,
-    41.114322911628115,
-    29.443753170411938,
-    41.114322911628115
+    29.44375317041194,
+    41.11432291162811,
+    29.44375317041194,
+    41.11432291162811
 ],
   "geometry": {"coordinates":[29.44375317041194,41.11432291162811],"type":"Point"}
 }

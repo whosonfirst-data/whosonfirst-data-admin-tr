@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"855a45a21d12a30ccf90ef9b2b736fa9",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ddcb977f8bb42c49ffb2b753161cf032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829495,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829495,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339440,
     "wof:name":"Kamiloba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.435332048853805,
-    41.043378284737834,
-    28.435332048853805,
-    41.043378284737834
+    28.43533204885381,
+    41.04337828473783,
+    28.43533204885381,
+    41.04337828473783
 ],
   "geometry": {"coordinates":[28.43533204885381,41.04337828473783],"type":"Point"}
 }

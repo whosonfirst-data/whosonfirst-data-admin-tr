@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"f0a5c812f69334a9d020c3f31a904adf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":-1,
+            "neighbourhood_id":1444831571,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831571,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339687,
     "wof:name":"Bas\u0131buyuk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

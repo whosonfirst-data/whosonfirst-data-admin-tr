@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"1f742bf58df03d38a4aa61619be79cb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3a7caf8b95814bd1310c6b81366a719b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830769,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830769,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339588,
     "wof:name":"Osmanaga",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.030066060853976,
+    29.03006606085398,
     40.99040469394791,
-    29.030066060853976,
+    29.03006606085398,
     40.99040469394791
 ],
   "geometry": {"coordinates":[29.03006606085398,40.99040469394791],"type":"Point"}

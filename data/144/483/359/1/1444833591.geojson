@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c68e4084ff7452f51e9e95c397cb58ff",
-    "wof:hierarchy":[],
+    "wof:geomhash":"864657c75e99676404d47ad19a5c0561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833591,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833591,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339926,
     "wof:name":"Alacali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.457257205526833,
-    41.183434705190834,
-    29.457257205526833,
-    41.183434705190834
+    29.45725720552683,
+    41.18343470519083,
+    29.45725720552683,
+    41.18343470519083
 ],
   "geometry": {"coordinates":[29.45725720552683,41.18343470519083],"type":"Point"}
 }

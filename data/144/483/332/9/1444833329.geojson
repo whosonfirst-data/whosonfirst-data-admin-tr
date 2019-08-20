@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462523,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"dc25fa75d3a820332a76c90b4e56d24b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6ae9fcb56cf7272d313b157d668c0c48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462523,
+            "locality_id":-1,
+            "neighbourhood_id":1444833329,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833329,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339896,
     "wof:name":"Dolayoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.2438820066139,
-    40.907458766702135,
+    40.90745876670213,
     29.2438820066139,
-    40.907458766702135
+    40.90745876670213
 ],
   "geometry": {"coordinates":[29.2438820066139,40.90745876670213],"type":"Point"}
 }

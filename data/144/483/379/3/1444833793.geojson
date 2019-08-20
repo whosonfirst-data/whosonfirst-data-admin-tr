@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5bfe15a8e44cf756edf3c96d1bae8c37",
-    "wof:hierarchy":[],
+    "wof:geomhash":"60314f6207139c82d12c9dafa4d86db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833793,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833793,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339948,
     "wof:name":"Orucoglu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.488142679059465,
-    41.063308992117165,
-    29.488142679059465,
-    41.063308992117165
+    29.48814267905946,
+    41.06330899211716,
+    29.48814267905946,
+    41.06330899211716
 ],
   "geometry": {"coordinates":[29.48814267905946,41.06330899211716],"type":"Point"}
 }

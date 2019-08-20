@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"aa71650262c7bfa3a6b37aa4a6e7450e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"de89ee215854b044621dccb483192558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444832547,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832547,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339800,
     "wof:name":"Yukari",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -48,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.181740556890272,
-    40.890872065908205,
-    29.181740556890272,
-    40.890872065908205
+    29.18174055689027,
+    40.89087206590821,
+    29.18174055689027,
+    40.89087206590821
 ],
   "geometry": {"coordinates":[29.18174055689027,40.89087206590821],"type":"Point"}
 }

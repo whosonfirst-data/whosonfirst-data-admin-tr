@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c057cd82f24793f73d3806e0585ff6d8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c88e660bd34a1cace2b26a6bb12de183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444831549,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831549,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339683,
     "wof:name":"Gulsuyu",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.157684327929914,
-    40.928549976700104,
-    29.157684327929914,
-    40.928549976700104
+    29.15768432792991,
+    40.9285499767001,
+    29.15768432792991,
+    40.9285499767001
 ],
   "geometry": {"coordinates":[29.15768432792991,40.9285499767001],"type":"Point"}
 }

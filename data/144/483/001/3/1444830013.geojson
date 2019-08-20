@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912633,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"1ce89a2abe4b9b6fe69af6beba0a6d9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":101912633,
+            "neighbourhood_id":1444830013,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830013,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339501,
     "wof:name":"Piri Mehmet Pasa",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912633,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

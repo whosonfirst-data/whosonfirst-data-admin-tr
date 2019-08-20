@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"7c17e18b1175f274bff90805abc0fa3e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"213e24202c424cc2657696dbae9f0cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834191,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834191,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339996,
     "wof:name":"Celebi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.904335896890775,
+    29.90433589689077,
     41.09435408254525,
-    29.904335896890775,
+    29.90433589689077,
     41.09435408254525
 ],
   "geometry": {"coordinates":[29.90433589689077,41.09435408254525],"type":"Point"}

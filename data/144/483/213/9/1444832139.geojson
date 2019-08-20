@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"660089988753525eb9facdc066645c64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b1d94d4612c3ea2fd857e14dd4521526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832139,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832139,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339752,
     "wof:name":"Eksioglu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.239762131494086,
-    41.031521387299335,
-    29.239762131494086,
-    41.031521387299335
+    29.23976213149409,
+    41.03152138729934,
+    29.23976213149409,
+    41.03152138729934
 ],
   "geometry": {"coordinates":[29.23976213149409,41.03152138729934],"type":"Point"}
 }

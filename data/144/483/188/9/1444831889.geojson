@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"efc98d4a42f5d4b003609264fb60e946",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8b123e54b96777fb6019552be57ac854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831889,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831889,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339723,
     "wof:name":"Riva",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.217822937966105,
+    29.2178229379661,
     41.223434989115,
-    29.217822937966105,
+    29.2178229379661,
     41.223434989115
 ],
   "geometry": {"coordinates":[29.2178229379661,41.223434989115],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912641,
+        890462627,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"794e72d5fdf2a701fdd5d1a1d86cb7d5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"77080d477fcd5d5a15260ecd5a03e8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462627,
+            "locality_id":101912641,
+            "neighbourhood_id":1444830915,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830915,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339605,
     "wof:name":"Selamicesme",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.05297381938865,
-    40.975608796925435,
+    40.97560879692544,
     29.05297381938865,
-    40.975608796925435
+    40.97560879692544
 ],
   "geometry": {"coordinates":[29.05297381938865,40.97560879692544],"type":"Point"}
 }

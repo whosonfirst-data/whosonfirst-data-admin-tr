@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"cb35709b30d250f77b826c9e2650f497",
-    "wof:hierarchy":[],
+    "wof:geomhash":"75ae2208fde315756bc9efb5592157da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832233,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832233,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339763,
     "wof:name":"Omerli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.32891165144749,
-    41.077647736873004,
+    41.077647736873,
     29.32891165144749,
-    41.077647736873004
+    41.077647736873
 ],
   "geometry": {"coordinates":[29.32891165144749,41.077647736873],"type":"Point"}
 }

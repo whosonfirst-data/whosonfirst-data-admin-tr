@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d8d5711653ff1770be3ed88caec9567c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"02416c6a2fc4ce91532e2bd7f62b6854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834057,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834057,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339979,
     "wof:name":"Goce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.853323832039393,
-    41.107429821969816,
-    29.853323832039393,
-    41.107429821969816
+    29.85332383203939,
+    41.10742982196982,
+    29.85332383203939,
+    41.10742982196982
 ],
   "geometry": {"coordinates":[29.85332383203939,41.10742982196982],"type":"Point"}
 }

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"08fd05e45da6a6983a35e3fa76d18cd3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aedaeaf471ba26f1a11fa169e1d61dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831917,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831917,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339727,
     "wof:name":"Pasamandira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.248722001364595,
-    41.185205964106736,
-    29.248722001364595,
-    41.185205964106736
+    29.24872200136459,
+    41.18520596410674,
+    29.24872200136459,
+    41.18520596410674
 ],
   "geometry": {"coordinates":[29.24872200136459,41.18520596410674],"type":"Point"}
 }

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"5cdd86be1622a9613e69f455f2bc9782",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833673,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833673,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339933,
     "wof:name":"Ahmetli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

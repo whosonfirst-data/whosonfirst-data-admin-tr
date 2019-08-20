@@ -32,10 +32,18 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e525053463f8dca80ae5c884881fda11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82c19692d43f22db8fd2182e51f9c1d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1444832821,
+            "region_id":-1
+        }
+    ],
     "wof:id":1444832821,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339832,
     "wof:name":"Sedef Adasi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +53,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.146893279835318,
+    29.14689327983532,
     40.85236278437013,
-    29.146893279835318,
+    29.14689327983532,
     40.85236278437013
 ],
   "geometry": {"coordinates":[29.14689327983532,40.85236278437013],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912647,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b61ffc7292029dc92a88e53bef40bdf8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2460610f02a7b144d5544d20eb189fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912647,
+            "neighbourhood_id":1444831291,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831291,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339648,
     "wof:name":"Dumlupinar",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.095993062413047,
-    41.048186195281176,
-    29.095993062413047,
-    41.048186195281176
+    29.09599306241305,
+    41.04818619528118,
+    29.09599306241305,
+    41.04818619528118
 ],
   "geometry": {"coordinates":[29.09599306241305,41.04818619528118],"type":"Point"}
 }

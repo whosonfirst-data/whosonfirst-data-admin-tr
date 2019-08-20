@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"221c259fa25abce97d8e38a9d42ee742",
-    "wof:hierarchy":[],
+    "wof:geomhash":"09c20ca1a1b72d8751d88f39e2d70391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833987,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833987,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339971,
     "wof:name":"Catakli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.798849927677615,
-    41.075377235098266,
-    29.798849927677615,
-    41.075377235098266
+    29.79884992767762,
+    41.07537723509827,
+    29.79884992767762,
+    41.07537723509827
 ],
   "geometry": {"coordinates":[29.79884992767762,41.07537723509827],"type":"Point"}
 }

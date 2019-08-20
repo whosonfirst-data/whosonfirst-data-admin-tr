@@ -32,10 +32,18 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e6686de0871a1fca5dfafd9c6be58c18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f3c341a62ba9a06a4ce066cbe2fe0bd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1444832753,
+            "region_id":-1
+        }
+    ],
     "wof:id":1444832753,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339821,
     "wof:name":"K\u0131naliada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +53,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.054539412566523,
+    29.05453941256652,
     40.90990208816867,
-    29.054539412566523,
+    29.05453941256652,
     40.90990208816867
 ],
   "geometry": {"coordinates":[29.05453941256652,40.90990208816867],"type":"Point"}

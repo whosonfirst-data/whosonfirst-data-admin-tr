@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"7cc7d98c087ff99f342d1975a0746324",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7d6215bfe8890f016630ba6c59bbca47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833181,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833181,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339877,
     "wof:name":"Yayalar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.26880152903991,
-    40.903847674981485,
+    40.90384767498148,
     29.26880152903991,
-    40.903847674981485
+    40.90384767498148
 ],
   "geometry": {"coordinates":[29.26880152903991,40.90384767498148],"type":"Point"}
 }

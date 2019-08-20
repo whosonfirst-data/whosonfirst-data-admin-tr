@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"872d469e00253e199e5693676378c43b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"21d07a57c21713dc3a73c836cbf0f503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831953,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831953,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339729,
     "wof:name":"Bozhane",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.27298348818119,
-    41.163196931470594,
+    41.16319693147059,
     29.27298348818119,
-    41.163196931470594
+    41.16319693147059
 ],
   "geometry": {"coordinates":[29.27298348818119,41.16319693147059],"type":"Point"}
 }

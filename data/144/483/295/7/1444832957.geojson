@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"ccef66dbff586354cbdc400e95b756e8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e32acfd517c809f8d58a14016d918dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832957,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832957,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339848,
     "wof:name":"Turgut Reis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.28490909634854,
-    40.964798940646226,
+    40.96479894064623,
     29.28490909634854,
-    40.964798940646226
+    40.96479894064623
 ],
   "geometry": {"coordinates":[29.28490909634854,40.96479894064623],"type":"Point"}
 }

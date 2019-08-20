@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f7bba401ce816e7311fd768624eb8a9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"59ae6b1e34887d8754ac48760214967a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830047,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830047,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339505,
     "wof:name":"Cumhuriyet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     28.28344387209652,
-    41.066144222822594,
+    41.06614422282259,
     28.28344387209652,
-    41.066144222822594
+    41.06614422282259
 ],
   "geometry": {"coordinates":[28.28344387209652,41.06614422282259],"type":"Point"}
 }

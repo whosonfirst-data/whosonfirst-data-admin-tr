@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f6bc83450388af2d7f53c256fa540f51",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a5b1397fd43e192fdb2fd243a49185dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831661,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831661,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339697,
     "wof:name":"Incirkoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.101064532661244,
-    41.120880929440794,
-    29.101064532661244,
-    41.120880929440794
+    29.10106453266124,
+    41.12088092944079,
+    29.10106453266124,
+    41.12088092944079
 ],
   "geometry": {"coordinates":[29.10106453266124,41.12088092944079],"type":"Point"}
 }

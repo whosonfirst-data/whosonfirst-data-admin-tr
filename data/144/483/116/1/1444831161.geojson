@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912677,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"8bae47ae4501f6771dddfb2bce9ccc94",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46af29e3a87afefb439783dde15ecb24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912677,
+            "neighbourhood_id":1444831161,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831161,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339633,
     "wof:name":"Esenevler",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.092731494609865,
+    29.09273149460986,
     41.01469074203362,
-    29.092731494609865,
+    29.09273149460986,
     41.01469074203362
 ],
   "geometry": {"coordinates":[29.09273149460986,41.01469074203362],"type":"Point"}

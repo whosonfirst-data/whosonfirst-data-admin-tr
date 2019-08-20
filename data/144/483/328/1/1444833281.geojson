@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d81b9a9c44558847ff58aac0751a9034",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9a13dfcf62a9f22d5981e9b0a95d182a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833281,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833281,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339891,
     "wof:name":"Emirli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.342902060708507,
+    29.34290206070851,
     40.98899093188691,
-    29.342902060708507,
+    29.34290206070851,
     40.98899093188691
 ],
   "geometry": {"coordinates":[29.34290206070851,40.98899093188691],"type":"Point"}

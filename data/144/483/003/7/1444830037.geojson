@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912633,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e0f58215e40a856e3a68898ad5554971",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dec684f8d19a3ea6c178174ecdec9dff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":101912633,
+            "neighbourhood_id":1444830037,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830037,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339505,
     "wof:name":"Yeni",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912633,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.253002572600227,
+    28.25300257260023,
     41.07960298821983,
-    28.253002572600227,
+    28.25300257260023,
     41.07960298821983
 ],
   "geometry": {"coordinates":[28.25300257260023,41.07960298821983],"type":"Point"}

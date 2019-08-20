@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3c4c12a2b7704db9d160aa942ed54c32",
-    "wof:hierarchy":[],
+    "wof:geomhash":"20fdf32b54c698a106603c90db3c4027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833353,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833353,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339897,
     "wof:name":"Gocbeyli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.461033757719967,
+    29.46103375771997,
     40.96892516664313,
-    29.461033757719967,
+    29.46103375771997,
     40.96892516664313
 ],
   "geometry": {"coordinates":[29.46103375771997,40.96892516664313],"type":"Point"}

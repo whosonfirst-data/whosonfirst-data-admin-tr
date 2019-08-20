@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3b6bec7b7ff05060fc15e4d3213ea52c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5fba2989f71b947a02afa6c9df356829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832967,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832967,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339851,
     "wof:name":"Ahmet Yesevi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.274437747085717,
-    40.971711843459474,
-    29.274437747085717,
-    40.971711843459474
+    29.27443774708572,
+    40.97171184345947,
+    29.27443774708572,
+    40.97171184345947
 ],
   "geometry": {"coordinates":[29.27443774708572,40.97171184345947],"type":"Point"}
 }

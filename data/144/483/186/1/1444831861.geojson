@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"85d7facc911b5e77d787e20b68e633e0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd2ef7c5e33ef6a1268915a6740f0419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831861,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831861,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339718,
     "wof:name":"Poyraz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.132964954595796,
+    29.1329649545958,
     41.20574392608688,
-    29.132964954595796,
+    29.1329649545958,
     41.20574392608688
 ],
   "geometry": {"coordinates":[29.1329649545958,41.20574392608688],"type":"Point"}

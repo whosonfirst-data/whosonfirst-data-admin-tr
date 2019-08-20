@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"60cbbd2a958bd91b1156ff060b68c636",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a8a0a04d51e78b83b9ec2c0c9c571691",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833305,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833305,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339892,
     "wof:name":"BallIca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.400895025068458,
-    40.992381421627584,
-    29.400895025068458,
-    40.992381421627584
+    29.40089502506846,
+    40.99238142162758,
+    29.40089502506846,
+    40.99238142162758
 ],
   "geometry": {"coordinates":[29.40089502506846,40.99238142162758],"type":"Point"}
 }

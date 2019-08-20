@@ -32,13 +32,23 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c289876512d186488033c18f2ca2a4a2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e7dbc5ecf62fe06e210d04b54011ed19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1444831883,
+            "region_id":-1
+        }
+    ],
     "wof:id":1444831883,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339723,
     "wof:name":"Anadolu Feneri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.153850432633668,
+    29.15385043263367,
     41.21603201205557,
-    29.153850432633668,
+    29.15385043263367,
     41.21603201205557
 ],
   "geometry": {"coordinates":[29.15385043263367,41.21603201205557],"type":"Point"}

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"ff90ed99facc0deedb301142a81553a5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8c7382e184c8384bd238222789f698c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829961,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829961,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339495,
     "wof:name":"Gumuspinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.283787195023173,
+    28.28378719502317,
     41.31279414027872,
-    28.283787195023173,
+    28.28378719502317,
     41.31279414027872
 ],
   "geometry": {"coordinates":[28.28378719502317,41.31279414027872],"type":"Point"}

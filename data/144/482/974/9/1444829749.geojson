@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"875569fbb542e17e155070a1e7eaaf2b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5aa2c36d57b591ae62796ac5ac6c841e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829749,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829749,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339470,
     "wof:name":"Akalan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.417654526172708,
+    28.41765452617271,
     41.25638095704677,
-    28.417654526172708,
+    28.41765452617271,
     41.25638095704677
 ],
   "geometry": {"coordinates":[28.41765452617271,41.25638095704677],"type":"Point"}

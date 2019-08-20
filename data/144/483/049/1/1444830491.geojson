@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"aa36eb83ccb0edba27d75684dc036374",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d138be49c9dc3548058766118ff91bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444830491,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830491,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339558,
     "wof:name":"Kupluce",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.051657530719574,
+    29.05165753071957,
     41.03866814523403,
-    29.051657530719574,
+    29.05165753071957,
     41.03866814523403
 ],
   "geometry": {"coordinates":[29.05165753071957,41.03866814523403],"type":"Point"}

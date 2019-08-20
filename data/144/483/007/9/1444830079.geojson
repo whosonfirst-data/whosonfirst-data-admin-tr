@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"8a46a6ea1ad9610fe0540d751ac0907c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d73e900ea2418690c98c4ce4c44310cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830079,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830079,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339510,
     "wof:name":"Alipasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.219013602861878,
+    28.21901360286188,
     41.10802126000236,
-    28.219013602861878,
+    28.21901360286188,
     41.10802126000236
 ],
   "geometry": {"coordinates":[28.21901360286188,41.10802126000236],"type":"Point"}

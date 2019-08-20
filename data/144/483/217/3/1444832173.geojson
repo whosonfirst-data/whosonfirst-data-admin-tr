@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"0954b7f872a5e442a58f194a40d1bafd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a26a507d6a45e5f836507fb4e6cae522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832173,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832173,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339754,
     "wof:name":"Resadiye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.255211663193336,
-    41.077345798626745,
-    29.255211663193336,
-    41.077345798626745
+    29.25521166319334,
+    41.07734579862674,
+    29.25521166319334,
+    41.07734579862674
 ],
   "geometry": {"coordinates":[29.25521166319334,41.07734579862674],"type":"Point"}
 }

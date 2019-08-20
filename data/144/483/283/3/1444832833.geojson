@@ -32,10 +32,18 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"589d04e1e3822e69c1cf9c91e80a4371",
-    "wof:hierarchy":[],
+    "wof:geomhash":"63cb5fda35283530f09435f3c5c378c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1444832833,
+            "region_id":-1
+        }
+    ],
     "wof:id":1444832833,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339833,
     "wof:name":"Adalar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +53,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.091961611571357,
+    29.09196161157136,
     40.89095875032388,
-    29.091961611571357,
+    29.09196161157136,
     40.89095875032388
 ],
   "geometry": {"coordinates":[29.09196161157136,40.89095875032388],"type":"Point"}

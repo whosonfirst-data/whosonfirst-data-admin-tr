@@ -33,13 +33,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a707514bee476bed0d557b6a669aad9d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"264a29edc2bbb0b2dafc7d7999adc1ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830305,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830305,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339535,
     "wof:name":"Buyukcavuslu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -50,9 +64,9 @@
 },
   "bbox": [
     28.06280167123617,
-    41.239580877910775,
+    41.23958087791078,
     28.06280167123617,
-    41.239580877910775
+    41.23958087791078
 ],
   "geometry": {"coordinates":[28.06280167123617,41.23958087791078],"type":"Point"}
 }

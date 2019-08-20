@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"33649d861e23dd62db8bda752b21a27a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"14d93f7291eda9363bcf34427eeb9fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829973,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829973,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339496,
     "wof:name":"Yalikoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.295689056480356,
+    28.29568905648036,
     41.4791688691473,
-    28.295689056480356,
+    28.29568905648036,
     41.4791688691473
 ],
   "geometry": {"coordinates":[28.29568905648036,41.4791688691473],"type":"Point"}

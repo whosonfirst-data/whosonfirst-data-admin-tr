@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"fe2d8f5c3cac0cbc5b9c9f26d952b5c6",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6c5bdaf6cba167d6daf28a9e92365b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832317,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832317,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339774,
     "wof:name":"Yenidogan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.240677659298502,
-    41.011619689900144,
-    29.240677659298502,
-    41.011619689900144
+    29.2406776592985,
+    41.01161968990014,
+    29.2406776592985,
+    41.01161968990014
 ],
   "geometry": {"coordinates":[29.2406776592985,41.01161968990014],"type":"Point"}
 }

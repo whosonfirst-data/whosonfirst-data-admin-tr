@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"04be6fa1b5ad58822331793c732d0fc7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e3db3e59b091d39011081f7f99ebec80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832471,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832471,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339790,
     "wof:name":"Veysel Karani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.242337053443965,
-    40.965922336634634,
-    29.242337053443965,
-    40.965922336634634
+    29.24233705344396,
+    40.96592233663463,
+    29.24233705344396,
+    40.96592233663463
 ],
   "geometry": {"coordinates":[29.24233705344396,40.96592233663463],"type":"Point"}
 }

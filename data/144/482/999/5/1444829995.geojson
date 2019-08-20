@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a28f61352a3529a59848cf09988fd56f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7f8cb82b8e5aabe29e3f8694495be446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444829995,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829995,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339500,
     "wof:name":"Selimpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.367672430101294,
+    28.36767243010129,
     41.0559620443983,
-    28.367672430101294,
+    28.36767243010129,
     41.0559620443983
 ],
   "geometry": {"coordinates":[28.36767243010129,41.0559620443983],"type":"Point"}

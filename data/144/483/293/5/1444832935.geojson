@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"9bcabd2e47d1dd31f44f65e99356f686",
-    "wof:hierarchy":[],
+    "wof:geomhash":"623ab485233d8cd18d20db27d7f70b4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832935,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832935,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339846,
     "wof:name":"Aksemsettin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.29978642317003,
-    40.948118581548215,
+    40.94811858154821,
     29.29978642317003,
-    40.948118581548215
+    40.94811858154821
 ],
   "geometry": {"coordinates":[29.29978642317003,40.94811858154821],"type":"Point"}
 }

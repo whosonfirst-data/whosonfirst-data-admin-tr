@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"f3e19ae580a50a985c9e3ba676a6c6f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829811,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829811,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339479,
     "wof:name":"Kalfa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

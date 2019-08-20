@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912681,
+        890462627,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"12e60aed27beb3c0e471e18b49deb1bf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22c6e8e81e31da04e807fe4c9339a343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462627,
+            "locality_id":101912681,
+            "neighbourhood_id":1444830889,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830889,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339603,
     "wof:name":"Ciftehavuzlar",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912681,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.054919315973002,
-    40.971807014568306,
-    29.054919315973002,
-    40.971807014568306
+    29.054919315973,
+    40.97180701456831,
+    29.054919315973,
+    40.97180701456831
 ],
   "geometry": {"coordinates":[29.054919315973,40.97180701456831],"type":"Point"}
 }

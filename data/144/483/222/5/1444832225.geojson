@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"15dc002ebf9061c6ce2fd3bd87289f50",
-    "wof:hierarchy":[],
+    "wof:geomhash":"62201a0d9f6eeea40c565ec74a708a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832225,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832225,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339762,
     "wof:name":"Mehmet Akif",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.188034810545524,
-    41.020340911992584,
-    29.188034810545524,
-    41.020340911992584
+    29.18803481054552,
+    41.02034091199258,
+    29.18803481054552,
+    41.02034091199258
 ],
   "geometry": {"coordinates":[29.18803481054552,41.02034091199258],"type":"Point"}
 }

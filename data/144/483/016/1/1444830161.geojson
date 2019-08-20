@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2aa9cbb9c4e05d3a718d639a74565bcc",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aca53fbdcdc530ac8ad62f0876ca8044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830161,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830161,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339520,
     "wof:name":"Ismetpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     28.01622419418734,
-    41.099484133405284,
+    41.09948413340528,
     28.01622419418734,
-    41.099484133405284
+    41.09948413340528
 ],
   "geometry": {"coordinates":[28.01622419418734,41.09948413340528],"type":"Point"}
 }

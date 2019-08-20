@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"eaf92d868a751f705593f4b78341832e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"90f36ff3cf5255e82abf31489c4f76ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831793,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831793,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339712,
     "wof:name":"Cengeldere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.144895426296873,
+    29.14489542629687,
     41.09609055621373,
-    29.144895426296873,
+    29.14489542629687,
     41.09609055621373
 ],
   "geometry": {"coordinates":[29.14489542629687,41.09609055621373],"type":"Point"}

@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912641,
+        890462627,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2e26dc5e904fb31563a57c14010eff3c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c43ecb2cfb8c5ce74a3b6ca0a946a57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462627,
+            "locality_id":101912641,
+            "neighbourhood_id":1444831007,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831007,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339618,
     "wof:name":"Yeni Sahra",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.089927690708898,
+    29.0899276907089,
     40.98968754469262,
-    29.089927690708898,
+    29.0899276907089,
     40.98968754469262
 ],
   "geometry": {"coordinates":[29.0899276907089,40.98968754469262],"type":"Point"}

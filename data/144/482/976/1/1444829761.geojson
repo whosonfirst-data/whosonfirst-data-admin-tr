@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"67344dbbfe32e59f333ca03e3157fd03",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b40967e5ed1220e53c6c44234e0908e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829761,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829761,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339471,
     "wof:name":"Ihsaniye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.360662920348823,
-    41.255348554363614,
-    28.360662920348823,
-    41.255348554363614
+    28.36066292034882,
+    41.25534855436361,
+    28.36066292034882,
+    41.25534855436361
 ],
   "geometry": {"coordinates":[28.36066292034882,41.25534855436361],"type":"Point"}
 }

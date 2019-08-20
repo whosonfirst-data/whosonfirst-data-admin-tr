@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"18cfa9dfe72eb2a1186f8713733539e2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e101b7dd053f770e935a731b8d4e5318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832067,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832067,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339743,
     "wof:name":"Camlik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.195931237858456,
-    41.018959409534375,
-    29.195931237858456,
-    41.018959409534375
+    29.19593123785846,
+    41.01895940953438,
+    29.19593123785846,
+    41.01895940953438
 ],
   "geometry": {"coordinates":[29.19593123785846,41.01895940953438],"type":"Point"}
 }

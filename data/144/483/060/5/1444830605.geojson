@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"552e913c60324aefc2280f695cd05456",
-    "wof:hierarchy":[],
+    "wof:geomhash":"61755dbe6e325bd98dada8c7383d62ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444830605,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830605,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339569,
     "wof:name":"Guzeltepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.06767926729657,
-    41.049413984708494,
+    41.04941398470849,
     29.06767926729657,
-    41.049413984708494
+    41.04941398470849
 ],
   "geometry": {"coordinates":[29.06767926729657,41.04941398470849],"type":"Point"}
 }

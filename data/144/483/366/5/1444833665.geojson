@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c17e7fdfe4574f1f490319bfb250aa77",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3cf87af926df1373aadd253a6b5b571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833665,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833665,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339933,
     "wof:name":"Balibey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.615643515687992,
+    29.61564351568799,
     41.17615641121361,
-    29.615643515687992,
+    29.61564351568799,
     41.17615641121361
 ],
   "geometry": {"coordinates":[29.61564351568799,41.17615641121361],"type":"Point"}

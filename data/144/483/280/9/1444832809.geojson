@@ -32,10 +32,18 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d3b321df14af248d997b3b28d29e3858",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a4d73680256b502c06f126380cdc4247",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1444832809,
+            "region_id":-1
+        }
+    ],
     "wof:id":1444832809,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339831,
     "wof:name":"Burgazadasi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +54,9 @@
 },
   "bbox": [
     29.06804344768141,
-    40.880576272209254,
+    40.88057627220925,
     29.06804344768141,
-    40.880576272209254
+    40.88057627220925
 ],
   "geometry": {"coordinates":[29.06804344768141,40.88057627220925],"type":"Point"}
 }

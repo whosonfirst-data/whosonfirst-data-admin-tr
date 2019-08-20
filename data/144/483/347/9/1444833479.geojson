@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709941,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"acaf28faafd019bcbdf88c1b630c3014",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709941,
+            "locality_id":-1,
+            "neighbourhood_id":1444833479,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833479,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339912,
     "wof:name":"Tepeoren",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

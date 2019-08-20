@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"57bd51601b66299a93b77b9bb4c64f8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc912c00f4e0379fbec06f4fa266eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829369,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829369,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339426,
     "wof:name":"Cakmakli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.622729146316864,
+    28.62272914631686,
     41.05274256081081,
-    28.622729146316864,
+    28.62272914631686,
     41.05274256081081
 ],
   "geometry": {"coordinates":[28.62272914631686,41.05274256081081],"type":"Point"}

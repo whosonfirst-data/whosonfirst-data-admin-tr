@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"6d5c115c5d9ec14196857024525670fe",
-    "wof:hierarchy":[],
+    "wof:geomhash":"13d06c59ac9ae7cd631101ded2e55c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832117,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832117,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339748,
     "wof:name":"AydInlar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.230721294425642,
-    41.023492359385614,
-    29.230721294425642,
-    41.023492359385614
+    29.23072129442564,
+    41.02349235938561,
+    29.23072129442564,
+    41.02349235938561
 ],
   "geometry": {"coordinates":[29.23072129442564,41.02349235938561],"type":"Point"}
 }

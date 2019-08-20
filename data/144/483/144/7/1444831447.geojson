@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"11a99b727f45a3c6a7eb1c0a5a02732f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c819669ea4ab8c43bf20e852086f407e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831447,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831447,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339668,
     "wof:name":"Esensehir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.166002329205728,
+    29.16600232920573,
     41.0079550627356,
-    29.166002329205728,
+    29.16600232920573,
     41.0079550627356
 ],
   "geometry": {"coordinates":[29.16600232920573,41.0079550627356],"type":"Point"}

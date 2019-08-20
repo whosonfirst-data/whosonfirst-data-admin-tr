@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462793,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"39942f1266aede9d62831ff1e77646f4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd759c69ac821bb96667eb25bac95eaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462793,
+            "locality_id":-1,
+            "neighbourhood_id":1444832787,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832787,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339826,
     "wof:name":"Buyukada-Nizam",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.124348407651986,
-    40.870538494630644,
-    29.124348407651986,
-    40.870538494630644
+    29.12434840765199,
+    40.87053849463064,
+    29.12434840765199,
+    40.87053849463064
 ],
   "geometry": {"coordinates":[29.12434840765199,40.87053849463064],"type":"Point"}
 }

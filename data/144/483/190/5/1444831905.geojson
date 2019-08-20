@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f1d684845690fc060233245ab83760e3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"18bebae1f1857d6cece539110f7ad1e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831905,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831905,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339724,
     "wof:name":"Alibahadir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.199741263829207,
+    29.19974126382921,
     41.18193307315151,
-    29.199741263829207,
+    29.19974126382921,
     41.18193307315151
 ],
   "geometry": {"coordinates":[29.19974126382921,41.18193307315151],"type":"Point"}

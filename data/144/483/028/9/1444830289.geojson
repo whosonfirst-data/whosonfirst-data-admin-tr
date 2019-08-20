@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"47aed0bab1644c12a666f9eb2a818a88",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fba8157b68226946c41a9295bfd26e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830289,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830289,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339533,
     "wof:name":"Buyuksinekli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.210201647744537,
+    28.21020164774454,
     41.22460559250185,
-    28.210201647744537,
+    28.21020164774454,
     41.22460559250185
 ],
   "geometry": {"coordinates":[28.21020164774454,41.22460559250185],"type":"Point"}

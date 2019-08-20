@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"44ccb8f427d57fea6fb5182b53c0d896",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c99050dfab4a7676728a433aa2d53c61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829837,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829837,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339480,
     "wof:name":"Basak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.445005919329173,
-    41.330799965305495,
-    28.445005919329173,
-    41.330799965305495
+    28.44500591932917,
+    41.33079996530549,
+    28.44500591932917,
+    41.33079996530549
 ],
   "geometry": {"coordinates":[28.44500591932917,41.33079996530549],"type":"Point"}
 }

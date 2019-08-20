@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"90da0e8435902f34cde90a65e8784790",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b5f94e033d21a3f305a4079810f798f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":-1,
+            "neighbourhood_id":1444831043,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831043,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339620,
     "wof:name":"Ataturk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -49,9 +63,9 @@
 },
   "bbox": [
     29.13021091410248,
-    40.991328805304256,
+    40.99132880530426,
     29.13021091410248,
-    40.991328805304256
+    40.99132880530426
 ],
   "geometry": {"coordinates":[29.13021091410248,40.99132880530426],"type":"Point"}
 }

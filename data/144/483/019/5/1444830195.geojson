@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f454e8d0540d97b55e57c7c21319b65f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"82103daa7e2cb4d249001487a634949c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830195,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830195,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339524,
     "wof:name":"Seymen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     28.1693462194732,
-    41.154977158255946,
+    41.15497715825595,
     28.1693462194732,
-    41.154977158255946
+    41.15497715825595
 ],
   "geometry": {"coordinates":[28.1693462194732,41.15497715825595],"type":"Point"}
 }

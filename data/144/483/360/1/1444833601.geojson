@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5853d9f820120a9df15eedd7e0e61024",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0e30215706111a8ef99e376ad9d5fa2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833601,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833601,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339927,
     "wof:name":"Sofular",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.493420553800625,
-    41.172581566284016,
-    29.493420553800625,
-    41.172581566284016
+    29.49342055380063,
+    41.17258156628402,
+    29.49342055380063,
+    41.17258156628402
 ],
   "geometry": {"coordinates":[29.49342055380063,41.17258156628402],"type":"Point"}
 }

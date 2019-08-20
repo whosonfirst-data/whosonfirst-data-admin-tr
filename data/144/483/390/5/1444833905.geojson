@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"9287c4f1aca80b24883dc6aa31e37c6d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"756f3caba09808fa1e88ae13a504f472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833905,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833905,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339961,
     "wof:name":"Yaka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.653395447753592,
+    29.65339544775359,
     40.99236468556172,
-    29.653395447753592,
+    29.65339544775359,
     40.99236468556172
 ],
   "geometry": {"coordinates":[29.65339544775359,40.99236468556172],"type":"Point"}

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a11c6417644919cfb8563afe0c6d14c1",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fcfe21258f0e0ad7ece4676c733fd845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444831453,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831453,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339668,
     "wof:name":"Madenler",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.183569018952646,
+    29.18356901895265,
     41.01343864865172,
-    29.183569018952646,
+    29.18356901895265,
     41.01343864865172
 ],
   "geometry": {"coordinates":[29.18356901895265,41.01343864865172],"type":"Point"}

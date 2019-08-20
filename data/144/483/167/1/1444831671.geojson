@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"16455681c83017be08cdc4b4e7dcc1e4",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a36ef409fd256bd28aa72eb336359a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831671,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831671,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339697,
     "wof:name":"Ortacesme",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.08733161559525,
-    41.146222100472656,
+    41.14622210047266,
     29.08733161559525,
-    41.146222100472656
+    41.14622210047266
 ],
   "geometry": {"coordinates":[29.08733161559525,41.14622210047266],"type":"Point"}
 }

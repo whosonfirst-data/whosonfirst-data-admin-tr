@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"4d1aa832c03b649ec5b10a0d4ca73b1a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7e597fa0716f4742efbf7baae00e7cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833271,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833271,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339888,
     "wof:name":"Harmandere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.326136457790437,
+    29.32613645779044,
     40.93290380268463,
-    29.326136457790437,
+    29.32613645779044,
     40.93290380268463
 ],
   "geometry": {"coordinates":[29.32613645779044,40.93290380268463],"type":"Point"}

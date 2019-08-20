@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"ef29ae4d901de802d27b737d20cfefc5",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9d23f98a88e821b2bb45f072cf19281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833625,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833625,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339928,
     "wof:name":"Kumbaba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.581654545949654,
+    29.58165454594965,
     41.16456976262705,
-    29.581654545949654,
+    29.58165454594965,
     41.16456976262705
 ],
   "geometry": {"coordinates":[29.58165454594965,41.16456976262705],"type":"Point"}

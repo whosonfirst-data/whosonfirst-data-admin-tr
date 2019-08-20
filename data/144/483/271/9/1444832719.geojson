@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2fa030ac770b00ab17fd8765a7296492",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ca2c7b433a21d8414c1006ae801f33d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444832719,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832719,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339816,
     "wof:name":"Soganlik",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -48,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.198620600783897,
+    29.1986206007839,
     40.91673426009434,
-    29.198620600783897,
+    29.1986206007839,
     40.91673426009434
 ],
   "geometry": {"coordinates":[29.1986206007839,40.91673426009434],"type":"Point"}

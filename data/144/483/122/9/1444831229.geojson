@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d441298d7d7ca09f091714170b735390",
-    "wof:hierarchy":[],
+    "wof:geomhash":"dfbabdae4a5b21ec869449f4f6542131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444831229,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831229,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339640,
     "wof:name":"Site",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.112672834599458,
-    41.007134644623946,
-    29.112672834599458,
-    41.007134644623946
+    29.11267283459946,
+    41.00713464462395,
+    29.11267283459946,
+    41.00713464462395
 ],
   "geometry": {"coordinates":[29.11267283459946,41.00713464462395],"type":"Point"}
 }

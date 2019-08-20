@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5d3d3ab8ca1b72c184e625b2166a442d",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a63fdb8e34f8568c0688cbc438283b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829399,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829399,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339430,
     "wof:name":"Tepecik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.547083661478343,
+    28.54708366147834,
     41.03038692133317,
-    28.547083661478343,
+    28.54708366147834,
     41.03038692133317
 ],
   "geometry": {"coordinates":[28.54708366147834,41.03038692133317],"type":"Point"}

@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"932ace3ad56d511c50a4a746f132fc68",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cad8bfd2771b1a4d826559af6924053d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829795,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829795,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339475,
     "wof:name":"Da\u011fyenice",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     28.48380141004059,
-    41.272854175167716,
+    41.27285417516772,
     28.48380141004059,
-    41.272854175167716
+    41.27285417516772
 ],
   "geometry": {"coordinates":[28.48380141004059,41.27285417516772],"type":"Point"}
 }

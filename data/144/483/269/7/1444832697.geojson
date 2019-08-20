@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462523,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"cdaee0aed31beba1668fc7154cba290c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d4644b51b7ae01bd349ad60f54d1c2bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462523,
+            "locality_id":-1,
+            "neighbourhood_id":1444832697,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832697,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339815,
     "wof:name":"Yakacik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.223282631014907,
+    29.22328263101491,
     40.92218219496058,
-    29.223282631014907,
+    29.22328263101491,
     40.92218219496058
 ],
   "geometry": {"coordinates":[29.22328263101491,40.92218219496058],"type":"Point"}

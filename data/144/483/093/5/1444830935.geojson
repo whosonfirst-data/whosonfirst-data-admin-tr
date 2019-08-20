@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"44e4c7aa98832c550ee852db2e142acf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c3c299285e521c05446634f0e21096bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444830935,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830935,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339608,
     "wof:name":"Senesenevler",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.093972298879404,
-    40.960897275179676,
-    29.093972298879404,
-    40.960897275179676
+    29.0939722988794,
+    40.96089727517968,
+    29.0939722988794,
+    40.96089727517968
 ],
   "geometry": {"coordinates":[29.0939722988794,40.96089727517968],"type":"Point"}
 }

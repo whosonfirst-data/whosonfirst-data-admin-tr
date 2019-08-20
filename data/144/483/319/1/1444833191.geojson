@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b23a697c03d220e435e56badcfbbdffa",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fe37b1f62511556db2476f9c77f08634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833191,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833191,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339878,
     "wof:name":"Gullu Baglar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,9 +62,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.274580798305177,
+    29.27458079830518,
     40.8948082695894,
-    29.274580798305177,
+    29.27458079830518,
     40.8948082695894
 ],
   "geometry": {"coordinates":[29.27458079830518,40.8948082695894],"type":"Point"}

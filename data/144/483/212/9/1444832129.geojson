@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"80f6d62fe436c0a2e5ece003992b8639",
-    "wof:hierarchy":[],
+    "wof:geomhash":"516f2aadf48c6e65648379a2f24b9d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832129,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832129,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339749,
     "wof:name":"Sogukpinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.23575669734984,
-    41.022974322761556,
+    41.02297432276156,
     29.23575669734984,
-    41.022974322761556
+    41.02297432276156
 ],
   "geometry": {"coordinates":[29.23575669734984,41.02297432276156],"type":"Point"}
 }

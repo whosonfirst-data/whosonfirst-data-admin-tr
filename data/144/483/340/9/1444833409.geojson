@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709941,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2cff174d6e3b046680a5a040fb47ed31",
-    "wof:hierarchy":[],
+    "wof:geomhash":"22451f38211efd77851c27c4d8ddef52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709941,
+            "locality_id":-1,
+            "neighbourhood_id":1444833409,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833409,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339903,
     "wof:name":"Icmeler",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.305622912923095,
+    29.30562291292309,
     40.84913823875542,
-    29.305622912923095,
+    29.30562291292309,
     40.84913823875542
 ],
   "geometry": {"coordinates":[29.30562291292309,40.84913823875542],"type":"Point"}

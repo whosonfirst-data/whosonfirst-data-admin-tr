@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2f1b543b061619e5f81d461f60f35fbb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"017541f8a91e5d677c1461933b0ee157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831971,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831971,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339733,
     "wof:name":"Ishakli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.298389384753285,
-    41.138120885868496,
-    29.298389384753285,
-    41.138120885868496
+    29.29838938475329,
+    41.1381208858685,
+    29.29838938475329,
+    41.1381208858685
 ],
   "geometry": {"coordinates":[29.29838938475329,41.1381208858685],"type":"Point"}
 }

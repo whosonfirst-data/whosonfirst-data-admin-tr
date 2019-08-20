@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"05751593b65ef8d59b6586b65a054c18",
-    "wof:hierarchy":[],
+    "wof:geomhash":"f2512dae0bbbfbdbb1c9284942e5141e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829983,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829983,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339499,
     "wof:name":"Yaylacik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.221645745299522,
+    28.22164574529952,
     41.35850803852954,
-    28.221645745299522,
+    28.22164574529952,
     41.35850803852954
 ],
   "geometry": {"coordinates":[28.22164574529952,41.35850803852954],"type":"Point"}

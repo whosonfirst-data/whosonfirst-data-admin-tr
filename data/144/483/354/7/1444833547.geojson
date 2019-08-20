@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"55ab3870040e1483d6cf63b628799de8",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c21921d486b1467312cddfa60f5d06b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833547,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833547,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339922,
     "wof:name":"Sahilkoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.41119471286797,
-    41.201992849869896,
+    41.2019928498699,
     29.41119471286797,
-    41.201992849869896
+    41.2019928498699
 ],
   "geometry": {"coordinates":[29.41119471286797,41.2019928498699],"type":"Point"}
 }

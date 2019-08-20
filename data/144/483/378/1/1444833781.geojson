@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e504e071c7bdf5cb920586b25d100137",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8540f6892e34f2bda23b607bea17d78e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833781,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833781,
-    "wof:lastmodified":1566335658,
+    "wof:lastmodified":1566339947,
     "wof:name":"B\u0131ckidere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.47519582844428,
-    41.069613550337316,
+    41.06961355033732,
     29.47519582844428,
-    41.069613550337316
+    41.06961355033732
 ],
   "geometry": {"coordinates":[29.47519582844428,41.06961355033732],"type":"Point"}
 }

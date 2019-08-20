@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f10979cf6a0f5a023d647ebd96eba726",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ae63ed67372ef890ba7f27d9ec09c8ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830727,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830727,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339583,
     "wof:name":"Fistikagaci",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.027433918416325,
+    29.02743391841632,
     41.0281645239234,
-    29.027433918416325,
+    29.02743391841632,
     41.0281645239234
 ],
   "geometry": {"coordinates":[29.02743391841632,41.0281645239234],"type":"Point"}

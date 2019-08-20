@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5dd246c146a7f67ad35467810b6b14b2",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b7656ee216c07c43c85c8d2c96bcdced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829669,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829669,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339461,
     "wof:name":"Orcunlu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.524914330506935,
+    28.52491433050693,
     41.22505748319899,
-    28.524914330506935,
+    28.52491433050693,
     41.22505748319899
 ],
   "geometry": {"coordinates":[28.52491433050693,41.22505748319899],"type":"Point"}

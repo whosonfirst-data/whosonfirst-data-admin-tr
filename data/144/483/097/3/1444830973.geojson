@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912677,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b8ede1676e1808eb92c0a48493b1e987",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0c85ba6ad8beba672906e8edbd2d6b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912677,
+            "neighbourhood_id":1444830973,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830973,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339613,
     "wof:name":"Esatpasa",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.0826034682737,
-    41.001996003408976,
+    41.00199600340898,
     29.0826034682737,
-    41.001996003408976
+    41.00199600340898
 ],
   "geometry": {"coordinates":[29.0826034682737,41.00199600340898],"type":"Point"}
 }

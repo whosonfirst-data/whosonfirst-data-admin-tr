@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"0b9509ff3f2ff3d6bd05b4a7197a1c8c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"463d7d2a8aaa5c6ba9ddaabf471a0416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831381,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831381,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339659,
     "wof:name":"Serifali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.147806214093283,
-    40.999923160773115,
-    29.147806214093283,
-    40.999923160773115
+    29.14780621409328,
+    40.99992316077311,
+    29.14780621409328,
+    40.99992316077311
 ],
   "geometry": {"coordinates":[29.14780621409328,40.99992316077311],"type":"Point"}
 }

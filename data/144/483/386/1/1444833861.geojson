@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"98bbeb340b253fc2fbd07133791e5629",
-    "wof:hierarchy":[],
+    "wof:geomhash":"fd52702afb1f946b95174bf17c7230f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444833861,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833861,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339956,
     "wof:name":"Yenikoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.653481278485252,
-    41.121828448072954,
-    29.653481278485252,
-    41.121828448072954
+    29.65348127848525,
+    41.12182844807295,
+    29.65348127848525,
+    41.12182844807295
 ],
   "geometry": {"coordinates":[29.65348127848525,41.12182844807295],"type":"Point"}
 }

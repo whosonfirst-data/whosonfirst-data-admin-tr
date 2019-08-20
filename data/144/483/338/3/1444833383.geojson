@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709941,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2a717d955be74c3fd8232b609f052cd7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9c83722ee0caa10e5ba4ae0a1dc4992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709941,
+            "locality_id":-1,
+            "neighbourhood_id":1444833383,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833383,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339901,
     "wof:name":"Yayla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.309742788042897,
+    29.3097427880429,
     40.83234209530541,
-    29.309742788042897,
+    29.3097427880429,
     40.83234209530541
 ],
   "geometry": {"coordinates":[29.3097427880429,40.83234209530541],"type":"Point"}

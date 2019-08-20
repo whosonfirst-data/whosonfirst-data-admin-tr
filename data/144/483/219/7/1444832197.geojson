@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a4e1b352220ca92f2d33ca118121635c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"52961ee77b3025a603d9472208b4d214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832197,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832197,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339758,
     "wof:name":"Sirapinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.326393949985395,
-    41.102100128555676,
-    29.326393949985395,
-    41.102100128555676
+    29.32639394998539,
+    41.10210012855568,
+    29.32639394998539,
+    41.10210012855568
 ],
   "geometry": {"coordinates":[29.32639394998539,41.10210012855568],"type":"Point"}
 }

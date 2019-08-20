@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"4c48287ccaaada2ad646f186dcb87fe1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832449,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832449,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339787,
     "wof:name":"Osmangazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

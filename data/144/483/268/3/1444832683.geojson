@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462523,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3f15bebcf0cff434bef3c3ac23a4ce44",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0eebee37e9853ebe3265941ecea70609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462523,
+            "locality_id":-1,
+            "neighbourhood_id":1444832683,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832683,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339814,
     "wof:name":"Yakacik Yeni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.221737677844985,
-    40.924603355212675,
-    29.221737677844985,
-    40.924603355212675
+    29.22173767784498,
+    40.92460335521267,
+    29.22173767784498,
+    40.92460335521267
 ],
   "geometry": {"coordinates":[29.22173767784498,40.92460335521267],"type":"Point"}
 }

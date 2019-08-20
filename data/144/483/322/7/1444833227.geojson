@@ -32,13 +32,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bbf8d723875580c85db7d896b6aaa421",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9d93afdd4d9ab3d0ea9e1497b690d4c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833227,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833227,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339883,
     "wof:name":"Ertugrul Gazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -48,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.263422803189055,
-    40.919674471193666,
-    29.263422803189055,
-    40.919674471193666
+    29.26342280318906,
+    40.91967447119367,
+    29.26342280318906,
+    40.91967447119367
 ],
   "geometry": {"coordinates":[29.26342280318906,40.91967447119367],"type":"Point"}
 }

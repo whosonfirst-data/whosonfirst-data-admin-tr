@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"0e35385f2594c28008a0caf713dd0a49",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d3fb64ae598f0324a86196528cac14f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831415,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831415,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339663,
     "wof:name":"Huzur",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.161939674573702,
+    29.1619396745737,
     41.02910968833724,
-    29.161939674573702,
+    29.1619396745737,
     41.02910968833724
 ],
   "geometry": {"coordinates":[29.1619396745737,41.02910968833724],"type":"Point"}

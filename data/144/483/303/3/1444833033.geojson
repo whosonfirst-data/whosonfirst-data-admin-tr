@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462523,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f306fc49c4fa7e181151903bba208513",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1f57e3e328191d2d3996d1eb10a2921f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462523,
+            "locality_id":-1,
+            "neighbourhood_id":1444833033,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833033,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339858,
     "wof:name":"Yesilbaglar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.226372537354752,
+    29.22637253735475,
     40.89268880439916,
-    29.226372537354752,
+    29.22637253735475,
     40.89268880439916
 ],
   "geometry": {"coordinates":[29.22637253735475,40.89268880439916],"type":"Point"}

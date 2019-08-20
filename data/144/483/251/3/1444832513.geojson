@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"ef6fdedb8be13eb7b25715a1d2fdb80f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"e805e80e18a5e59224f2fc912e672d59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444832513,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832513,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339795,
     "wof:name":"Cevizli",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.174015791040656,
+    29.17401579104066,
     40.91202100182554,
-    29.174015791040656,
+    29.17401579104066,
     40.91202100182554
 ],
   "geometry": {"coordinates":[29.17401579104066,40.91202100182554],"type":"Point"}

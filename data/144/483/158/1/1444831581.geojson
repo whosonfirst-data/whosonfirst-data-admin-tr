@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912647,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d2307f190133791e8612f8c02a70520f",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d0dbf04332eac14fc030ff602d1b9ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912647,
+            "neighbourhood_id":1444831581,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831581,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339687,
     "wof:name":"Goztepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912647,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.087281547668454,
+    29.08728154766845,
     41.08102313875675,
-    29.087281547668454,
+    29.08728154766845,
     41.08102313875675
 ],
   "geometry": {"coordinates":[29.08728154766845,41.08102313875675],"type":"Point"}

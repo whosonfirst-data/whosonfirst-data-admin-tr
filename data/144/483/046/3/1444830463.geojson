@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5d81a0760cf23e38ea656d93dcc43747",
-    "wof:hierarchy":[],
+    "wof:geomhash":"745a34e3f8edec0c801235bb7d80c51a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830463,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830463,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339554,
     "wof:name":"Uskudar",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -49,9 +64,9 @@
 },
   "bbox": [
     29.01729662781069,
-    41.025416846368195,
+    41.02541684636819,
     29.01729662781069,
-    41.025416846368195
+    41.02541684636819
 ],
   "geometry": {"coordinates":[29.01729662781069,41.02541684636819],"type":"Point"}
 }

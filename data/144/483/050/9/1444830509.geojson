@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"1bdba93b92aad63f2a797b923c5e1abd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"feef5c570735b945da718209aca2e7f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444830509,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830509,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339559,
     "wof:name":"Mehmet Akif Ersoy",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.067622046808793,
+    29.06762204680879,
     41.04307026754991,
-    29.067622046808793,
+    29.06762204680879,
     41.04307026754991
 ],
   "geometry": {"coordinates":[29.06762204680879,41.04307026754991],"type":"Point"}

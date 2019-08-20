@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"824a378b32c68244ab186de2ece51aec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"b541c2f0a1dd6f8ad2ac385d003cbb34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834167,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834167,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339992,
     "wof:name":"Kabakoz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.68802814797939,
-    41.143334283820415,
+    41.14333428382042,
     29.68802814797939,
-    41.143334283820415
+    41.14333428382042
 ],
   "geometry": {"coordinates":[29.68802814797939,41.14333428382042],"type":"Point"}
 }

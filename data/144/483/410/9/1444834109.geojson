@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461727,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f0b98d94901546bb337fc3fc42185eee",
-    "wof:hierarchy":[],
+    "wof:geomhash":"1c366d24c607c7a808bd7fffd81b73c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461727,
+            "locality_id":-1,
+            "neighbourhood_id":1444834109,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444834109,
-    "wof:lastmodified":1566335659,
+    "wof:lastmodified":1566339986,
     "wof:name":"Suayipli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.801281798408024,
+    29.80128179840802,
     41.13409065519596,
-    29.801281798408024,
+    29.80128179840802,
     41.13409065519596
 ],
   "geometry": {"coordinates":[29.80128179840802,41.13409065519596],"type":"Point"}

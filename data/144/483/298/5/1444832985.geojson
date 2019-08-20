@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bda04ef1c3c3d092eaf278de2b5945db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"aeeb09ed67175668b1d13d483e684c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832985,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832985,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339853,
     "wof:name":"Adil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.259445979288678,
-    40.977025645114026,
-    29.259445979288678,
-    40.977025645114026
+    29.25944597928868,
+    40.97702564511403,
+    29.25944597928868,
+    40.97702564511403
 ],
   "geometry": {"coordinates":[29.25944597928868,40.97702564511403],"type":"Point"}
 }

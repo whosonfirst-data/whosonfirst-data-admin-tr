@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912677,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c5a3528204c3aae8f0904066bba8eabf",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5327b80673fca24e8c2ece61f626f712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912677,
+            "neighbourhood_id":1444830545,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830545,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339563,
     "wof:name":"Unalan",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.066134314126643,
+    29.06613431412664,
     41.00089274526083,
-    29.066134314126643,
+    29.06613431412664,
     41.00089274526083
 ],
   "geometry": {"coordinates":[29.06613431412664,41.00089274526083],"type":"Point"}

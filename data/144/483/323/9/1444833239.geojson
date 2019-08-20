@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"00d15842c6825f79cdf0ef520e414813",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cba0967e6e22d19d0aea4ba01d495408",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833239,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833239,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339886,
     "wof:name":"Kurtkoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.30095944316944,
-    40.914572256733734,
+    40.91457225673373,
     29.30095944316944,
-    40.914572256733734
+    40.91457225673373
 ],
   "geometry": {"coordinates":[29.30095944316944,40.91457225673373],"type":"Point"}
 }

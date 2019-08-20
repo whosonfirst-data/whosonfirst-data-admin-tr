@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"27141e164b32a71292814c32f5e146db",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0018688be914990ea6160f046d5b79bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830455,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830455,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339553,
     "wof:name":"Sultantepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.01907046293171,
-    41.027855801276694,
+    41.02785580127669,
     29.01907046293171,
-    41.027855801276694
+    41.02785580127669
 ],
   "geometry": {"coordinates":[29.01907046293171,41.02785580127669],"type":"Point"}
 }

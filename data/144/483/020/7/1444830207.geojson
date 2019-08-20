@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"5e0ff764f681ce6c3b58a60dd0b42aa3",
-    "wof:hierarchy":[],
+    "wof:geomhash":"721a6369d409b8574ee6ffaf30646118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":-1,
+            "neighbourhood_id":1444830207,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830207,
-    "wof:lastmodified":1566335649,
+    "wof:lastmodified":1566339525,
     "wof:name":"Buyukkilicli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.190861122876598,
+    28.1908611228766,
     41.16514399355709,
-    28.190861122876598,
+    28.1908611228766,
     41.16514399355709
 ],
   "geometry": {"coordinates":[28.1908611228766,41.16514399355709],"type":"Point"}

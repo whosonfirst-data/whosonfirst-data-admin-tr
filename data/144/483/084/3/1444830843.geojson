@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"d77a021619d2c28aaaaf77fd6eed3987",
-    "wof:hierarchy":[],
+    "wof:geomhash":"528e5f1723da45953b488896429a2467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444830843,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830843,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339598,
     "wof:name":"19 Mayis",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,9 +60,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.089280218881875,
+    29.08928021888187,
     40.9765160080634,
-    29.089280218881875,
+    29.08928021888187,
     40.9765160080634
 ],
   "geometry": {"coordinates":[29.08928021888187,40.9765160080634],"type":"Point"}

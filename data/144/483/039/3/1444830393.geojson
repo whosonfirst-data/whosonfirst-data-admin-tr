@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2d2a8c56d1b66ad8d9ad78bd3ceedeb0",
-    "wof:hierarchy":[],
+    "wof:geomhash":"89cd61a3eaa4ea02d0f47c74438bd48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830393,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830393,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339545,
     "wof:name":"Validei Atik",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -48,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.027081331220206,
-    41.017991497399294,
-    29.027081331220206,
-    41.017991497399294
+    29.02708133122021,
+    41.01799149739929,
+    29.02708133122021,
+    41.01799149739929
 ],
   "geometry": {"coordinates":[29.02708133122021,41.01799149739929],"type":"Point"}
 }

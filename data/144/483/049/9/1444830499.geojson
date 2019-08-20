@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912541,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"50d95af2c32763fc03a47c68b20c782e",
-    "wof:hierarchy":[],
+    "wof:geomhash":"0d6f6fc86a5bd4309c67518ee9f943c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":1444830499,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830499,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339558,
     "wof:name":"Burhaniye",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -45,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.054232452669446,
-    41.030726317217386,
-    29.054232452669446,
-    41.030726317217386
+    29.05423245266945,
+    41.03072631721739,
+    29.05423245266945,
+    41.03072631721739
 ],
   "geometry": {"coordinates":[29.05423245266945,41.03072631721739],"type":"Point"}
 }

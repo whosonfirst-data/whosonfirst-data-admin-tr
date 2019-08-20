@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"63c11315c63881c13f8c85b965deeb39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"227cfd362b9f732d512b9a65cd6e25b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832285,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832285,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339769,
     "wof:name":"Inonu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.214413455409794,
+    29.21441345540979,
     41.01244005064,
-    29.214413455409794,
+    29.21441345540979,
     41.01244005064
 ],
   "geometry": {"coordinates":[29.21441345540979,41.01244005064],"type":"Point"}

@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912633,
+        890462765,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f651a37b94bb0866d337e667a26d27fb",
-    "wof:hierarchy":[],
+    "wof:geomhash":"160ca0d0c5db9aee9e3f7d8320ff1870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462765,
+            "locality_id":101912633,
+            "neighbourhood_id":1444830373,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830373,
-    "wof:lastmodified":1566335650,
+    "wof:lastmodified":1566339544,
     "wof:name":"Mimarsinan",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912633,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -48,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.210544970671183,
-    41.076691469658144,
-    28.210544970671183,
-    41.076691469658144
+    28.21054497067118,
+    41.07669146965814,
+    28.21054497067118,
+    41.07669146965814
 ],
   "geometry": {"coordinates":[28.21054497067118,41.07669146965814],"type":"Point"}
 }

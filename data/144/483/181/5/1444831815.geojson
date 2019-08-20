@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"612938d5fe7014696594156c93c2b361",
-    "wof:hierarchy":[],
+    "wof:geomhash":"46b4923f47bbe7391d01aeb6d445a722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831815,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831815,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339713,
     "wof:name":"Acarlar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.12669931118443,
-    41.111655688781745,
+    41.11165568878175,
     29.12669931118443,
-    41.111655688781745
+    41.11165568878175
 ],
   "geometry": {"coordinates":[29.12669931118443,41.11165568878175],"type":"Point"}
 }

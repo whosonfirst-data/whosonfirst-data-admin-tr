@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bf250b45d24a63257d18cdf9cb6d9bda",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9c4b57bac9b1c8b52a5dc106a64e33ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829767,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829767,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339474,
     "wof:name":"Kestanelik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.494673302717842,
+    28.49467330271784,
     41.23409464134466,
-    28.494673302717842,
+    28.49467330271784,
     41.23409464134466
 ],
   "geometry": {"coordinates":[28.49467330271784,41.23409464134466],"type":"Point"}

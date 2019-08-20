@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709941,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"8d56f3b6dd3f4ad1050bf143dbb47d08",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88ebef0e82fc07db9b5471816bd8a0b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709941,
+            "locality_id":-1,
+            "neighbourhood_id":1444833439,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833439,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339907,
     "wof:name":"Sifa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.354832532409578,
+    29.35483253240958,
     40.82974437356573,
-    29.354832532409578,
+    29.35483253240958,
     40.82974437356573
 ],
   "geometry": {"coordinates":[29.35483253240958,40.82974437356573],"type":"Point"}

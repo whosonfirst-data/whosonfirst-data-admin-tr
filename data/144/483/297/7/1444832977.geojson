@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"8dc44bb4124b9662c2bf5fc3e661cf00",
-    "wof:hierarchy":[],
+    "wof:geomhash":"ea85fa64628b43a3674d4e2def8f3a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832977,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832977,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339851,
     "wof:name":"Battalgazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.268429595869346,
-    40.980783928061754,
-    29.268429595869346,
-    40.980783928061754
+    29.26842959586935,
+    40.98078392806175,
+    29.26842959586935,
+    40.98078392806175
 ],
   "geometry": {"coordinates":[29.26842959586935,40.98078392806175],"type":"Point"}
 }

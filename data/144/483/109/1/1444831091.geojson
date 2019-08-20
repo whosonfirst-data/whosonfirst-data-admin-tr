@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"9adde599e17ed7111079d20e415407df",
-    "wof:hierarchy":[],
+    "wof:geomhash":"7fae950159559fa73b549caaf19aa793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":-1,
+            "neighbourhood_id":1444831091,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831091,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339625,
     "wof:name":"Mevlana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.151554156042536,
+    29.15155415604254,
     40.98826220721289,
-    29.151554156042536,
+    29.15155415604254,
     40.98826220721289
 ],
   "geometry": {"coordinates":[29.15155415604254,40.98826220721289],"type":"Point"}

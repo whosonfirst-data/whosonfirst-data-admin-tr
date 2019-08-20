@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"6b3a7efe95541b55973976227fe25d63",
-    "wof:hierarchy":[],
+    "wof:geomhash":"2cea997f7f141ee5ef24b89d2c5a3e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832995,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832995,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339853,
     "wof:name":"Mimar Sinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.270317871965915,
-    40.993957831998756,
-    29.270317871965915,
-    40.993957831998756
+    29.27031787196591,
+    40.99395783199876,
+    29.27031787196591,
+    40.99395783199876
 ],
   "geometry": {"coordinates":[29.27031787196591,40.99395783199876],"type":"Point"}
 }

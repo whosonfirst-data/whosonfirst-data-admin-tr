@@ -32,15 +32,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912645,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"40cf68e9713505935e9a3e50643d3441",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6b9b3e247fa821de7d164e04c90c4c5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":101912645,
+            "neighbourhood_id":1444831627,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831627,
-    "wof:lastmodified":1566335653,
+    "wof:lastmodified":1566339692,
     "wof:name":"Otagtepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -48,9 +63,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.076402502430234,
+    29.07640250243023,
     41.08798315166787,
-    29.076402502430234,
+    29.07640250243023,
     41.08798315166787
 ],
   "geometry": {"coordinates":[29.07640250243023,41.08798315166787],"type":"Point"}

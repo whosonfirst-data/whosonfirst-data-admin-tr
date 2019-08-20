@@ -29,15 +29,30 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"395813b6bd602881156f8d082d14e52c",
-    "wof:hierarchy":[],
+    "wof:geomhash":"8ae4edd07dad46d7a3c520216be1a3ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830895,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444830895,
-    "wof:lastmodified":1566335651,
+    "wof:lastmodified":1566339603,
     "wof:name":"Ibrahimaga",
-    "wof:parent_id":-1,
+    "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -46,9 +61,9 @@
 },
   "bbox": [
     29.03040033696142,
-    41.002020817933456,
+    41.00202081793346,
     29.03040033696142,
-    41.002020817933456
+    41.00202081793346
 ],
   "geometry": {"coordinates":[29.03040033696142,41.00202081793346],"type":"Point"}
 }

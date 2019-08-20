@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"a70884fd76bd24bfc1778ca1aeb94191",
-    "wof:hierarchy":[],
+    "wof:geomhash":"802198be34bd7fcffb232ee5980bb02c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829435,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829435,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339434,
     "wof:name":"Ulus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.550574111232613,
-    41.029739444127266,
-    28.550574111232613,
-    41.029739444127266
+    28.55057411123261,
+    41.02973944412727,
+    28.55057411123261,
+    41.02973944412727
 ],
   "geometry": {"coordinates":[28.55057411123261,41.02973944412727],"type":"Point"}
 }

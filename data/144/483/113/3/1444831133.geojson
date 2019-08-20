@@ -33,13 +33,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461267,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"edbd09a829153e6e280150f31581245b",
-    "wof:hierarchy":[],
+    "wof:geomhash":"6348cddf7d04de4ce691016bc1ce17e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461267,
+            "locality_id":-1,
+            "neighbourhood_id":1444831133,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831133,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339630,
     "wof:name":"Ferhat Pasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -49,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.181366030173304,
-    40.985756991372476,
-    29.181366030173304,
-    40.985756991372476
+    29.1813660301733,
+    40.98575699137248,
+    29.1813660301733,
+    40.98575699137248
 ],
   "geometry": {"coordinates":[29.1813660301733,40.98575699137248],"type":"Point"}
 }

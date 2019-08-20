@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"b4be2a6755ae903b94d9e9ebea1ba3f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829457,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829457,
-    "wof:lastmodified":1566335647,
+    "wof:lastmodified":1566339436,
     "wof:name":"Turkoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

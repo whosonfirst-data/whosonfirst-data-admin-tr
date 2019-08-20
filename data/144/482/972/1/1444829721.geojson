@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"2924bd16f8ad28f574500faf7803eb73",
-    "wof:hierarchy":[],
+    "wof:geomhash":"062b21dbfa499571fa9c896208892178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829721,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829721,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339466,
     "wof:name":"Oklali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.476248305654295,
+    28.47624830565429,
     41.22419673632267,
-    28.476248305654295,
+    28.47624830565429,
     41.22419673632267
 ],
   "geometry": {"coordinates":[28.47624830565429,41.22419673632267],"type":"Point"}

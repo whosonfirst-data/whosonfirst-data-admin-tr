@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108710051,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"6ddff2d946a395f0aac2d5eb68e926cd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"880ae53ab2369b407516309b02ab4393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108710051,
+            "locality_id":-1,
+            "neighbourhood_id":1444832057,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832057,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339743,
     "wof:name":"Kirazlidere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.214299014434225,
-    41.018527683861535,
-    29.214299014434225,
-    41.018527683861535
+    29.21429901443422,
+    41.01852768386154,
+    29.21429901443422,
+    41.01852768386154
 ],
   "geometry": {"coordinates":[29.21429901443422,41.01852768386154],"type":"Point"}
 }

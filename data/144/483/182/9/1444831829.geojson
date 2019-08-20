@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461921,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"fb6b3cfadc2c66a8d65a03134e78b624",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a9bd041883f968fa71f195721a3c6435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461921,
+            "locality_id":-1,
+            "neighbourhood_id":1444831829,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831829,
-    "wof:lastmodified":1566335654,
+    "wof:lastmodified":1566339716,
     "wof:name":"Zerzavatci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.159744142874498,
+    29.1597441428745,
     41.12924287404369,
-    29.159744142874498,
+    29.1597441428745,
     41.12924287404369
 ],
   "geometry": {"coordinates":[29.1597441428745,41.12924287404369],"type":"Point"}

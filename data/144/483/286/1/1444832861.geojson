@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709899,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"536b71986ad127b3afceb9a74c9be384",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d349ef1e662cb722300b90b5c5338b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709899,
+            "locality_id":-1,
+            "neighbourhood_id":1444832861,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832861,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339837,
     "wof:name":"Abdurrahmangazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.259960963678655,
+    29.25996096367865,
     40.96549026351766,
-    29.259960963678655,
+    29.25996096367865,
     40.96549026351766
 ],
   "geometry": {"coordinates":[29.25996096367865,40.96549026351766],"type":"Point"}

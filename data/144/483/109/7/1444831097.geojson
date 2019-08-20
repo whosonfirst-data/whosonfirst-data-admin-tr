@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709303,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"24ea4e54a72662e84e2c6937da543934",
-    "wof:hierarchy":[],
+    "wof:geomhash":"3008628188dc4ddcb20f68c51b643256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":-1,
+            "neighbourhood_id":1444831097,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444831097,
-    "wof:lastmodified":1566335652,
+    "wof:lastmodified":1566339628,
     "wof:name":"Yeni Camlica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.159622244818813,
+    29.15962224481881,
     40.99176070920113,
-    29.159622244818813,
+    29.15962224481881,
     40.99176070920113
 ],
   "geometry": {"coordinates":[29.15962224481881,40.99176070920113],"type":"Point"}

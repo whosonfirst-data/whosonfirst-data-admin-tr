@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"0ca693d920f083fda46ebd237b9f459a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47be389640937c6efd4b4db78d7ab0ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833199,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833199,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339881,
     "wof:name":"Ramazano\u011flu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.290087550492196,
+    29.2900875504922,
     40.90051751145321,
-    29.290087550492196,
+    29.2900875504922,
     40.90051751145321
 ],
   "geometry": {"coordinates":[29.2900875504922,40.90051751145321],"type":"Point"}

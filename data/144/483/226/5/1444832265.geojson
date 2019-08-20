@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709841,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"24aa71c191e5919b0733ac5bc6fea582",
-    "wof:hierarchy":[],
+    "wof:geomhash":"cc37501d8ff647dc260cbee9529bea6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709841,
+            "locality_id":-1,
+            "neighbourhood_id":1444832265,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444832265,
-    "wof:lastmodified":1566335655,
+    "wof:lastmodified":1566339767,
     "wof:name":"Emek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.196102899321787,
+    29.19610289932179,
     41.00453825446183,
-    29.196102899321787,
+    29.19610289932179,
     41.00453825446183
 ],
   "geometry": {"coordinates":[29.19610289932179,41.00453825446183],"type":"Point"}

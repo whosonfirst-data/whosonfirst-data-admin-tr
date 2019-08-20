@@ -32,10 +32,18 @@
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"144f77f9b1d816761f41d30caeeeb929",
-    "wof:hierarchy":[],
+    "wof:geomhash":"741a229b79b9ecc831034005c8a31c9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":1444832799,
+            "region_id":-1
+        }
+    ],
     "wof:id":1444832799,
-    "wof:lastmodified":1566335656,
+    "wof:lastmodified":1566339827,
     "wof:name":"Buyukada",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +53,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.128811605698427,
+    29.12881160569843,
     40.87166349800339,
-    29.128811605698427,
+    29.12881160569843,
     40.87166349800339
 ],
   "geometry": {"coordinates":[29.12881160569843,40.87166349800339],"type":"Point"}

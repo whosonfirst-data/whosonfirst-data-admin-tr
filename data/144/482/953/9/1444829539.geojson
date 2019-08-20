@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3e154f088b8ab5cfa5fc5ff8a6c1a15a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"58996f874fb3a10765025a7a195cbefb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829539,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444829539,
-    "wof:lastmodified":1566335648,
+    "wof:lastmodified":1566339445,
     "wof:name":"Mimaroba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     28.53861502928764,
-    41.006080578288596,
+    41.0060805782886,
     28.53861502928764,
-    41.006080578288596
+    41.0060805782886
 ],
   "geometry": {"coordinates":[28.53861502928764,41.0060805782886],"type":"Point"}
 }

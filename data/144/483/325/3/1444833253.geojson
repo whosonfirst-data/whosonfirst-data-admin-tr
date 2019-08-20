@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"262842399964cd4ef0118e6a4e8c37ec",
-    "wof:hierarchy":[],
+    "wof:geomhash":"88f30d99665b03540c0003652ae648a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833253,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833253,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339887,
     "wof:name":"Caml\u0131k",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -45,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.281161154399296,
+    29.2811611543993,
     40.93031002485697,
-    29.281161154399296,
+    29.2811611543993,
     40.93031002485697
 ],
   "geometry": {"coordinates":[29.2811611543993,40.93031002485697],"type":"Point"}

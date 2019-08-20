@@ -29,13 +29,27 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"fbd30010a4c671c191133b999f9f1a11",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a17a8c3633dfb1c33d8e4f75f047368b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833313,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1444833313,
-    "wof:lastmodified":1566335657,
+    "wof:lastmodified":1566339893,
     "wof:name":"Kurna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -46,9 +60,9 @@
 },
   "bbox": [
     29.33520590510278,
-    40.955832691181776,
+    40.95583269118178,
     29.33520590510278,
-    40.955832691181776
+    40.95583269118178
 ],
   "geometry": {"coordinates":[29.33520590510278,40.95583269118178],"type":"Point"}
 }
