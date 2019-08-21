@@ -1,0 +1,68 @@
+{
+  "id": 1444833281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3429020607,40.9889909319,29.3429020607,40.9889909319",
+    "geom:latitude":40.988991,
+    "geom:longitude":29.342902,
+    "iso:country":"TR",
+    "lbl:latitude":40.988991,
+    "lbl:longitude":29.342902,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Emirli"
+    ],
+    "name:tur_x_preferred":[
+        "Emirli"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"9a13dfcf62a9f22d5981e9b0a95d182a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833281,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444833281,
+    "wof:lastmodified":1566339891,
+    "wof:name":"Emirli",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.34290206070851,
+    40.98899093188691,
+    29.34290206070851,
+    40.98899093188691
+],
+  "geometry": {"coordinates":[29.34290206070851,40.98899093188691],"type":"Point"}
+}

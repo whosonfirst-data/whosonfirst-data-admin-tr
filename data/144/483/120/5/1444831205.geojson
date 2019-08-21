@@ -1,0 +1,69 @@
+{
+  "id": 1444831205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1070080063,41.016115509,29.1070080063,41.016115509",
+    "geom:latitude":41.016116,
+    "geom:longitude":29.107008,
+    "iso:country":"TR",
+    "lbl:latitude":41.016115,
+    "lbl:longitude":29.107008,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Atakent"
+    ],
+    "name:tur_x_preferred":[
+        "Atakent"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912637,
+        1108709303,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"4d94162f0fd2b25bd10c1ba44fa5ac89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709303,
+            "locality_id":101912637,
+            "neighbourhood_id":1444831205,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444831205,
+    "wof:lastmodified":1566339638,
+    "wof:name":"Atakent",
+    "wof:parent_id":101912637,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.10700800630972,
+    41.01611550900358,
+    29.10700800630972,
+    41.01611550900358
+],
+  "geometry": {"coordinates":[29.10700800630972,41.01611550900358],"type":"Point"}
+}

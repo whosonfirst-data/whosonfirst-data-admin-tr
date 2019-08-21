@@ -1,0 +1,69 @@
+{
+  "id": 1444830661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0128048195,41.0119254015,29.0128048195,41.0119254015",
+    "geom:latitude":41.011925,
+    "geom:longitude":29.012805,
+    "iso:country":"TR",
+    "lbl:latitude":41.011925,
+    "lbl:longitude":29.012805,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Harem"
+    ],
+    "name:tur_x_preferred":[
+        "Harem"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912675,
+        890462769,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"db66211a65c8f54f6b1d6d7cede3800a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":1444830661,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444830661,
+    "wof:lastmodified":1566339575,
+    "wof:name":"Harem",
+    "wof:parent_id":101912675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01280481952034,
+    41.01192540150602,
+    29.01280481952034,
+    41.01192540150602
+],
+  "geometry": {"coordinates":[29.01280481952034,41.01192540150602],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1444831549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1576843279,40.9285499767,29.1576843279,40.9285499767",
+    "geom:latitude":40.92855,
+    "geom:longitude":29.157684,
+    "iso:country":"TR",
+    "lbl:latitude":40.92855,
+    "lbl:longitude":29.157684,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Gulsuyu"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fclsuyu"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"c88e660bd34a1cace2b26a6bb12de183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444831549,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444831549,
+    "wof:lastmodified":1566339683,
+    "wof:name":"Gulsuyu",
+    "wof:parent_id":101912649,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.15768432792991,
+    40.9285499767001,
+    29.15768432792991,
+    40.9285499767001
+],
+  "geometry": {"coordinates":[29.15768432792991,40.9285499767001],"type":"Point"}
+}

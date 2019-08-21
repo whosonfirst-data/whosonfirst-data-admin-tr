@@ -1,0 +1,69 @@
+{
+  "id": 1444832535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1872909442,40.8881901292,29.1872909442,40.8881901292",
+    "geom:latitude":40.88819,
+    "geom:longitude":29.187291,
+    "iso:country":"TR",
+    "lbl:latitude":40.88819,
+    "lbl:longitude":29.187291,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kordonboyu"
+    ],
+    "name:tur_x_preferred":[
+        "Kordonboyu"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912649,
+        890460749,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"df7b119c1023569d217e738ba8238935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460749,
+            "locality_id":101912649,
+            "neighbourhood_id":1444832535,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444832535,
+    "wof:lastmodified":1566339797,
+    "wof:name":"Kordonboyu",
+    "wof:parent_id":101912649,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.18729094420445,
+    40.88819012921047,
+    29.18729094420445,
+    40.88819012921047
+],
+  "geometry": {"coordinates":[29.18729094420445,40.88819012921047],"type":"Point"}
+}

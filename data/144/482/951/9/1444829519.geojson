@@ -1,0 +1,68 @@
+{
+  "id": 1444829519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5171573464,41.089711953,28.5171573464,41.089711953",
+    "geom:latitude":41.089712,
+    "geom:longitude":28.517157,
+    "iso:country":"TR",
+    "lbl:latitude":41.089712,
+    "lbl:longitude":28.517157,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Ahmediye"
+    ],
+    "name:tur_x_preferred":[
+        "Ahmediye"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462459,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"f1f0f00a2e0561dfccc1da6756a3ea81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462459,
+            "locality_id":-1,
+            "neighbourhood_id":1444829519,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444829519,
+    "wof:lastmodified":1566339444,
+    "wof:name":"Ahmediye",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.51715734637203,
+    41.08971195295086,
+    28.51715734637203,
+    41.08971195295086
+],
+  "geometry": {"coordinates":[28.51715734637203,41.08971195295086],"type":"Point"}
+}

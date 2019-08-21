@@ -1,0 +1,68 @@
+{
+  "id": 1444833095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2723778095,40.8846428695,29.2723778095,40.8846428695",
+    "geom:latitude":40.884643,
+    "geom:longitude":29.272378,
+    "iso:country":"TR",
+    "lbl:latitude":40.884643,
+    "lbl:longitude":29.272378,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Esenler"
+    ],
+    "name:tur_x_preferred":[
+        "Esenler"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"8b2143b78454ccd5bfe5afb6b41b1e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833095,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444833095,
+    "wof:lastmodified":1566339867,
+    "wof:name":"Esenler",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.27237780952583,
+    40.88464286951249,
+    29.27237780952583,
+    40.88464286951249
+],
+  "geometry": {"coordinates":[29.27237780952583,40.88464286951249],"type":"Point"}
+}

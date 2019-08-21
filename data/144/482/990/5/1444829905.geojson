@@ -1,0 +1,68 @@
+{
+  "id": 1444829905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.3026413457,41.3767588519,28.3026413457,41.3767588519",
+    "geom:latitude":41.376759,
+    "geom:longitude":28.302641,
+    "iso:country":"TR",
+    "lbl:latitude":41.376759,
+    "lbl:longitude":28.302641,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":12.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Karamandere"
+    ],
+    "name:tur_x_preferred":[
+        "Karamandere"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462087,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"530e2c48e2d3bd9b7d4a7f88c78e405f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462087,
+            "locality_id":-1,
+            "neighbourhood_id":1444829905,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444829905,
+    "wof:lastmodified":1566339490,
+    "wof:name":"Karamandere",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.302641345745,
+    41.37675885187997,
+    28.302641345745,
+    41.37675885187997
+],
+  "geometry": {"coordinates":[28.302641345745,41.37675885187997],"type":"Point"}
+}

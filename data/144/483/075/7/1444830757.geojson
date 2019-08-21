@@ -1,0 +1,69 @@
+{
+  "id": 1444830757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0302091121,40.9860638435,29.0302091121,40.9860638435",
+    "geom:latitude":40.986064,
+    "geom:longitude":29.030209,
+    "iso:country":"TR",
+    "lbl:latitude":40.986064,
+    "lbl:longitude":29.030209,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Bahariye"
+    ],
+    "name:tur_x_preferred":[
+        "Bahariye"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        101912677,
+        890462769,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"2dffe6faa806b99b30c38dddb60a5fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912677,
+            "neighbourhood_id":1444830757,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444830757,
+    "wof:lastmodified":1566339588,
+    "wof:name":"Bahariye",
+    "wof:parent_id":101912677,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.03020911207341,
+    40.98606384348206,
+    29.03020911207341,
+    40.98606384348206
+],
+  "geometry": {"coordinates":[29.03020911207341,40.98606384348206],"type":"Point"}
+}

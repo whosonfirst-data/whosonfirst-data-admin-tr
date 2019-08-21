@@ -1,0 +1,68 @@
+{
+  "id": 1444833055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2434242427,40.8900934484,29.2434242427,40.8900934484",
+    "geom:latitude":40.890093,
+    "geom:longitude":29.243424,
+    "iso:country":"TR",
+    "lbl:latitude":40.890093,
+    "lbl:longitude":29.243424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Orta"
+    ],
+    "name:tur_x_preferred":[
+        "Orta"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890461937,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:geomhash":"c5c036279031dbef2c232acd81c470c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461937,
+            "locality_id":-1,
+            "neighbourhood_id":1444833055,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1444833055,
+    "wof:lastmodified":1566339862,
+    "wof:name":"Orta",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2434242427117,
+    40.89009344842704,
+    29.2434242427117,
+    40.89009344842704
+],
+  "geometry": {"coordinates":[29.2434242427117,40.89009344842704],"type":"Point"}
+}
