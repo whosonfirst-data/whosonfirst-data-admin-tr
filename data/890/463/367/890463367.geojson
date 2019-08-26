@@ -11,11 +11,15 @@
     "geom:longitude":27.30389,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.28389,40.38361,27.32389,40.42361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Priapos"
     ],
@@ -40,7 +44,7 @@
     "name:tur_x_preferred":[
         "Karabiga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Priapus"
     ],
     "name:vie_x_preferred":[
@@ -69,7 +73,7 @@
     "wof:concordances":{
         "gn:id":744574,
         "gp:id":2344138,
-        "qs:id":948900,
+        "qs_pg:id":948900,
         "wd:id":"Q3555008",
         "wk:page":"Karabiga"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":890463367,
-    "wof:lastmodified":1563361048,
+    "wof:lastmodified":1566586239,
     "wof:name":"Karabi\u011fa",
     "wof:parent_id":890463247,
     "wof:placetype":"locality",

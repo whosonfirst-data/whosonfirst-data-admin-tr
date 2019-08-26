@@ -11,10 +11,14 @@
     "geom:longitude":41.04092,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":180,
+    "gn:population":180,
     "iso:country":"TR",
+    "lbl:bbox":"41.02092,37.62262,41.06092,37.66262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0645\u0648\u062a\u0627\u0644\u0627\u0646"
     ],
@@ -33,7 +37,7 @@
     "name:tur_x_preferred":[
         "Armutalan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zifinkimandan"
     ],
     "name:urd_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":323602,
-        "qs:id":348403,
+        "qs_pg:id":348403,
         "wk:page":"Armutalan"
     },
     "wof:country":"TR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890461171,
-    "wof:lastmodified":1564162919,
+    "wof:lastmodified":1566586544,
     "wof:name":"Armutalan",
     "wof:parent_id":1108709869,
     "wof:placetype":"locality",

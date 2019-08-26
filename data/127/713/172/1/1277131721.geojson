@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"42.28628,39.96821,42.32628,40.00821",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Aras"
     ],
@@ -68,8 +72,7 @@
         "\u0410\u0440\u0430\u0441"
     ],
     "name:und_x_variant":[
-        "Velibaba",
-        "Aras"
+        "Velibaba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1277131721,
-    "wof:lastmodified":1564159653,
+    "wof:lastmodified":1566583979,
     "wof:name":"Aras",
     "wof:parent_id":1108709593,
     "wof:placetype":"locality",

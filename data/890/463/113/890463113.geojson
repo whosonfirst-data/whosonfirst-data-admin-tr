@@ -11,7 +11,7 @@
     "geom:longitude":41.495064,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.407071,
     "lbl:longitude":41.486235,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Artvin",
     "meso:admin_1":"Artvin",
     "meso:gadm_admin":"Hopa",
@@ -41,6 +43,7 @@
     "mps:longitude":41.486235,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0647\u0648\u067e\u0627"
     ],
@@ -143,9 +146,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"213",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Hopa",
@@ -167,7 +170,7 @@
         "gn:id":7732198,
         "gp:id":29390967,
         "hasc:id":"TR.AV.HO",
-        "qs:id":894534,
+        "qs_pg:id":894534,
         "wd:id":"Q657127",
         "wk:page":"Hopa"
     },
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":890463113,
-    "wof:lastmodified":1563361113,
+    "wof:lastmodified":1566586264,
     "wof:name":"Hopa",
     "wof:parent_id":85679367,
     "wof:placetype":"county",

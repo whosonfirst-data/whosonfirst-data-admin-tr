@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.76055,
     "lbl:longitude":42.84244,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bitlis",
     "meso:admin_1":"Bitlis",
     "meso:gadm_admin":"Adilcevaz",
@@ -37,6 +39,7 @@
     "mps:longitude":42.84244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Adilcevaz"
     ],
@@ -113,9 +116,9 @@
         "\u963f\u8fea\u723e\u5091\u74e6\u8332"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"819",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Adilcevaz",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108709243,
-    "wof:lastmodified":1563359687,
+    "wof:lastmodified":1566585341,
     "wof:name":"Adilcevaz",
     "wof:parent_id":85679407,
     "wof:placetype":"county",

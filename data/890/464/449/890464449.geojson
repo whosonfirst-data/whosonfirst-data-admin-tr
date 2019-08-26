@@ -11,7 +11,7 @@
     "geom:longitude":32.454677,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.745384,
     "lbl:longitude":32.408221,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ankara",
     "meso:admin_1":"Ankara",
     "meso:gadm_admin":"Polatl\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":32.408221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Sincan"
     ],
@@ -263,7 +266,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":9,
     "wof:belongsto":[
@@ -276,7 +279,7 @@
         "gn:id":7732181,
         "gp:id":29390757,
         "hasc:id":"TR.AN.PO",
-        "qs:id":232379,
+        "qs_pg:id":232379,
         "wd:id":"Q398133",
         "wk:page":"Sincan"
     },
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":890464449,
-    "wof:lastmodified":1563361145,
+    "wof:lastmodified":1566586276,
     "wof:name":"Sincan",
     "wof:parent_id":85679409,
     "wof:placetype":"county",

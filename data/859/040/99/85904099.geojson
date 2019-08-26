@@ -9,14 +9,15 @@
     "geom:bbox":"28.9489746094,41.0254993689,28.9572143555,41.035215342",
     "geom:latitude":41.029701,
     "geom:longitude":28.954047,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":41.02822,
     "gn:longitude":28.95103,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":41.028616,
     "lbl:longitude":28.950027,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.029884,
     "mps:longitude":28.954459,
     "mz:hierarchy_label":1,
@@ -116,10 +117,6 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u043d\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Fener",
-        "Phanar"
-    ],
     "name:zho_x_preferred":[
         "\u82ac\u5185\u5c14"
     ],
@@ -180,7 +177,6 @@
     "wof:concordances":{
         "gn:id":747145,
         "gp:id":2343572,
-        "qs:id":273649,
         "qs_pg:id":273649,
         "wd:id":"Q985842",
         "wk:page":"Fener"
@@ -200,7 +196,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247574,
+    "wof:lastmodified":1566582917,
     "wof:name":"Fener",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

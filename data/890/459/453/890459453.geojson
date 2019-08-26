@@ -11,10 +11,14 @@
     "geom:longitude":41.54417,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":124,
+    "gn:population":124,
     "iso:country":"TR",
+    "lbl:bbox":"41.52417,37.43917,41.56417,37.47917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Dolunay"
     ],
@@ -93,9 +97,6 @@
     "name:tur_x_variant":[
         "Z\u00f6hrecik"
     ],
-    "name:unk_x_variant":[
-        "Kefsenk"
-    ],
     "name:vie_x_preferred":[
         "Dolunay"
     ],
@@ -116,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":316338,
-        "qs:id":547562,
+        "qs_pg:id":547562,
         "wd:id":"Q984704"
     },
     "wof:country":"TR",
@@ -132,7 +133,7 @@
         }
     ],
     "wof:id":890459453,
-    "wof:lastmodified":1563361873,
+    "wof:lastmodified":1566586564,
     "wof:name":"Dolunay",
     "wof:parent_id":890463867,
     "wof:placetype":"locality",

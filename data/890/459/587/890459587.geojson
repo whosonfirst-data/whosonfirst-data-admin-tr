@@ -11,11 +11,15 @@
     "geom:longitude":38.95611,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":430,
+    "gn:population":430,
     "iso:country":"TR",
+    "lbl:bbox":"38.93611,36.84639,38.97611,36.88639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sehrince"
     ],
     "qs:name":"Serince",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":301097,
         "gp:id":2322777,
-        "qs:id":204237
+        "qs_pg:id":204237
     },
     "wof:country":"TR",
     "wof:created":1469053274,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890459587,
-    "wof:lastmodified":1505343678,
+    "wof:lastmodified":1566586570,
     "wof:name":"Serince",
     "wof:parent_id":890461929,
     "wof:placetype":"locality",

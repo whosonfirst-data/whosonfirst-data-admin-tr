@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":39.004779,
     "lbl:longitude":40.718622,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bing\u00f6l",
     "mps:latitude":39.039053,
     "mps:longitude":40.778231,
@@ -265,7 +266,7 @@
         "Bing\u00f6l"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0b99\u0bcd\u0b95\u0bcb\u0bb3\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bbf\u0b99\u0bcd\u0b95\u0bcb\u0bb3\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3f\u0c02\u0c17\u0c4b\u0c32\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -300,13 +301,7 @@
     "name:und_x_colloquial":[
         "Bingol"
     ],
-    "name:und_x_preferred":[
-        "Bing\u00f6l"
-    ],
     "name:und_x_variant":[
-        "Bing\u00f6l"
-    ],
-    "name:unk_x_variant":[
         "Bing\u00f6l Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -405,9 +400,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"8,125",
     "statoids:area_mi":"3,137",
     "statoids:as_of_date":"2007-12-31",
@@ -432,7 +427,7 @@
         "gp:id":2347269,
         "hasc:id":"TR.BG",
         "iso:id":"TR-12",
-        "qs:id":385727,
+        "qs_pg:id":385727,
         "unlc:id":"TR-12",
         "wd:id":"Q79760",
         "wk:page":"Bing\u00f6l Province"
@@ -453,7 +448,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737376,
+    "wof:lastmodified":1566582960,
     "wof:name":"Bingol",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

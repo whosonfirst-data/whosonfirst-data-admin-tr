@@ -13,10 +13,13 @@
     "iso:country":"TR",
     "lbl:latitude":37.935556,
     "lbl:longitude":40.199327,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":37.935556,
     "mps:longitude":40.199327,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":5.0,
     "name:afr_x_preferred":[
         "Diyarbak\u0131r"
     ],
@@ -254,9 +257,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0456\u044f\u0440\u0431\u0430\u043a\u0438\u0440"
     ],
-    "name:unk_x_variant":[
-        "Amida"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0627\u0631 \u0628\u06a9\u0631"
     ],
@@ -293,7 +293,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":675.0,
     "wd:latitude":37.910833,
@@ -311,7 +311,6 @@
         "gn:id":316541,
         "gp:id":2343932,
         "loc:id":"n85272750",
-        "qs:id":1134769,
         "qs_pg:id":1134769,
         "wd:id":"Q83387",
         "wk:page":"Diyarbak\u0131r"
@@ -328,7 +327,7 @@
         }
     ],
     "wof:id":1175613685,
-    "wof:lastmodified":1563359814,
+    "wof:lastmodified":1566585392,
     "wof:name":"Diyarbak\u0131r",
     "wof:parent_id":1108709329,
     "wof:placetype":"locality",

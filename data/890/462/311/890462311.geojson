@@ -11,11 +11,15 @@
     "geom:longitude":28.90009,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.88009,41.05696,28.92009,41.09696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u063a\u0627\u0632\u064a \u0639\u062b\u0645\u0627\u0646 \u0628\u0627\u0634\u0627"
     ],
@@ -137,7 +141,7 @@
     "wof:concordances":{
         "gn:id":7628414,
         "gp:id":22724143,
-        "qs:id":901161,
+        "qs_pg:id":901161,
         "wd:id":"Q570826"
     },
     "wof:country":"TR",
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":890462311,
-    "wof:lastmodified":1563361468,
+    "wof:lastmodified":1566586413,
     "wof:name":"Gaziosman Pasa",
     "wof:parent_id":890463845,
     "wof:placetype":"locality",

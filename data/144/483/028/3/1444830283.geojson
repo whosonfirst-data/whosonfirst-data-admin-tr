@@ -10,8 +10,10 @@
     "geom:latitude":41.230286,
     "geom:longitude":28.190518,
     "iso:country":"TR",
+    "lbl:bbox":"28.1855177999,41.225286277,28.1955177999,41.235286277",
     "lbl:latitude":41.230286,
     "lbl:longitude":28.190518,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462765,
-        85679237
+        890462765
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444830283,
-    "wof:lastmodified":1566339530,
+    "wof:lastmodified":1566584856,
     "wof:name":"Kucuksinekli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

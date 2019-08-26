@@ -11,7 +11,7 @@
     "geom:longitude":37.945464,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":13946,
+    "gn:population":13946,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.832944,
     "lbl:longitude":37.962077,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Malatya",
     "meso:admin_1":"Malatya",
     "meso:gadm_admin":"Hekimhan",
@@ -41,6 +43,7 @@
     "mps:longitude":37.962077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0425\u0435\u043a\u0456\u043c\u0445\u0430\u043d"
     ],
@@ -138,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1898",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Hekimhan",
@@ -164,7 +167,7 @@
         "gn:id":312245,
         "gp:id":29390421,
         "hasc:id":"TR.ML.HE",
-        "qs:id":1233073,
+        "qs_pg:id":1233073,
         "wd:id":"Q990206",
         "wk:page":"Hekimhan"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890463221,
-    "wof:lastmodified":1563360970,
+    "wof:lastmodified":1566586214,
     "wof:name":"Hekimhan",
     "wof:parent_id":85679309,
     "wof:placetype":"county",

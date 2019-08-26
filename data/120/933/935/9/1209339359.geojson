@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"31.29954,40.76537,31.33954,40.80537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":8140812
     },
     "wof:country":"TR",
-    "wof:geomhash":"17ebc4a9376870e45f6c67dcff171b1a",
+    "wof:geomhash":"e3806c5732c3d88850761063a1bf89fb",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209339359,
-    "wof:lastmodified":1536290113,
+    "wof:lastmodified":1566584681,
     "wof:name":"Saricokek",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.319540000000003,
+    31.31954,
     40.78537,
-    31.319540000000003,
+    31.31954,
     40.78537
 ],
   "geometry": {"coordinates":[31.31954,40.78537],"type":"Point"}

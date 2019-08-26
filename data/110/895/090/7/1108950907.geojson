@@ -10,9 +10,12 @@
     "geom:latitude":41.217112,
     "geom:longitude":28.744265,
     "iso:country":"TR",
+    "lbl:bbox":"28.7392654624,41.2121118088,28.7492654624,41.2221118088",
     "lbl:latitude":41.217112,
     "lbl:longitude":28.744265,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "\u0130mrahor"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108950907,
-    "wof:lastmodified":1497292379,
+    "wof:lastmodified":1566585289,
     "wof:name":"Imrahor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

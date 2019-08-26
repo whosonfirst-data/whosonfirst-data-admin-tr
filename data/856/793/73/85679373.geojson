@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":39.695789,
     "lbl:longitude":38.869959,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Erzincan",
     "mps:latitude":39.727169,
     "mps:longitude":38.9264,
@@ -271,15 +272,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0437\u0456\u043d\u0434\u0436\u0430\u043d"
     ],
-    "name:und_x_preferred":[
-        "Erzincan"
-    ],
-    "name:und_x_variant":[
-        "Erzincan"
-    ],
-    "name:unk_x_variant":[
-        "Erzinjan"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u0631\u0632\u0646\u062c\u0627\u0646"
     ],
@@ -373,9 +365,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"11,903",
     "statoids:area_mi":"4,596",
     "statoids:as_of_date":"2007-12-31",
@@ -400,7 +392,7 @@
         "gp:id":2347281,
         "hasc:id":"TR.EN",
         "iso:id":"TR-24",
-        "qs:id":424006,
+        "qs_pg:id":424006,
         "unlc:id":"TR-24",
         "wd:id":"Q483173",
         "wk:page":"Erzincan Province"
@@ -421,11 +413,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737375,
+    "wof:lastmodified":1566582958,
     "wof:name":"Erzincan",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":213538,
     "wof:population_rank":10,

@@ -11,8 +11,11 @@
     "geom:longitude":29.061155,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.056155,41.000844,29.066155,41.010844",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\u00dcnalan",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912677,
-        890462769,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871214,
-        "qs:id":775600
+        "qs_pg:id":775600
     },
     "wof:country":"TR",
     "wof:created":1469053455,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890464089,
-    "wof:lastmodified":1500071017,
+    "wof:lastmodified":1566586304,
     "wof:name":"\u00dcnalan",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

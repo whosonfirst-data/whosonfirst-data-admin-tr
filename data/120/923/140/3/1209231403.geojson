@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"32.96548,40.54542,33.00548,40.58542",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":7930472
     },
     "wof:country":"TR",
-    "wof:geomhash":"4c074d5298b95058822ff852fc347a7c",
+    "wof:geomhash":"f310e7b4adbefba093a23c1aa68f7407",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209231403,
-    "wof:lastmodified":1536293629,
+    "wof:lastmodified":1566584499,
     "wof:name":"Ortabayindir",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.985479999999995,
+    32.98548,
     40.56542,
-    32.985479999999995,
+    32.98548,
     40.56542
 ],
   "geometry": {"coordinates":[32.98548,40.56542],"type":"Point"}

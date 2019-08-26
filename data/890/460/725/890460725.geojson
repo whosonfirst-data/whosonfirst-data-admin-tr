@@ -11,7 +11,7 @@
     "geom:longitude":37.107278,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3879,
+    "gn:population":3879,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.415407,
     "lbl:longitude":37.053547,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sivas",
     "meso:admin_1":"Sivas",
     "meso:gadm_admin":"Kangal",
@@ -41,6 +43,7 @@
     "mps:longitude":37.053547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ula\u015f \u0130l\u00e7esi"
     ],
@@ -108,7 +111,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":72,
     "wof:belongsto":[
@@ -121,7 +124,7 @@
         "gn:id":298471,
         "gp:id":29390835,
         "hasc:id":"TR.SV.KA",
-        "qs:id":124075,
+        "qs_pg:id":124075,
         "wd:id":"Q1027159",
         "wk:page":"Ula\u015f"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":890460725,
-    "wof:lastmodified":1563361554,
+    "wof:lastmodified":1566586444,
     "wof:name":"Ula\u015f",
     "wof:parent_id":85679355,
     "wof:placetype":"county",

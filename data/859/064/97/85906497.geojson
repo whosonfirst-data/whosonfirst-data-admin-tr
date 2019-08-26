@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.006798,
     "lbl:longitude":28.970414,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.007566,
     "mps:longitude":28.969675,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
-        "Emin Sinan"
-    ],
-    "name:unk_x_variant":[
         "Emin Sinan"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724030,
-        "qs:id":1087529
+        "qs_pg:id":1087529
     },
     "wof:country":"TR",
     "wof:geomhash":"f5fed4198d4c8a886b47ef3f0c23d021",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247577,
+    "wof:lastmodified":1566582927,
     "wof:name":"Emin Sinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

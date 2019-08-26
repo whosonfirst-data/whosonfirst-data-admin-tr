@@ -10,8 +10,10 @@
     "geom:latitude":41.301463,
     "geom:longitude":28.676917,
     "iso:country":"TR",
+    "lbl:bbox":"28.6719169482,41.2964632716,28.6819169482,41.3064632716",
     "lbl:latitude":41.301463,
     "lbl:longitude":28.676917,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:por_x_preferred":[
         "Durusu"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -46,7 +48,7 @@
         }
     ],
     "wof:id":1108950947,
-    "wof:lastmodified":1564161463,
+    "wof:lastmodified":1566585316,
     "wof:name":"Durusu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

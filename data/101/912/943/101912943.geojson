@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":350622.322472,
+    "geom:area_square_m":350622.322471,
     "geom:bbox":"27.0012028153,38.4056215994,27.0186252504,38.4133804117",
     "geom:latitude":38.408931,
     "geom:longitude":27.01021,
     "iso:country":"TR",
     "lbl:latitude":38.407167,
     "lbl:longitude":27.009352,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.407167,
     "mps:longitude":27.009352,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -40,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966660,
-        "qs:id":1198067,
         "qs_pg:id":1198067
     },
     "wof:country":"TR",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101912943,
-    "wof:lastmodified":1497294439,
+    "wof:lastmodified":1566586006,
     "wof:name":"Sahilevler",
     "wof:parent_id":1108709759,
     "wof:placetype":"locality",

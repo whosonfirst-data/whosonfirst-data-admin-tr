@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":39.874255,
     "lbl:longitude":44.060325,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Igdir",
     "mps:latitude":39.829539,
     "mps:longitude":43.987975,
@@ -251,15 +252,8 @@
     "name:und_x_colloquial":[
         "Igdir"
     ],
-    "name:und_x_preferred":[
-        "I\u011fd\u0131r"
-    ],
     "name:und_x_variant":[
-        "I\u011fdir",
-        "Igdir"
-    ],
-    "name:unk_x_variant":[
-        "I\u011fd\u0131r"
+        "I\u011fdir"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0627\u063a\u062f\u06cc\u0631"
@@ -351,9 +345,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"3,539",
     "statoids:area_mi":"1,366",
     "statoids:as_of_date":"2007-12-31",
@@ -379,7 +373,7 @@
         "gp:id":20070183,
         "hasc:id":"TR.IG",
         "iso:id":"TR-76",
-        "qs:id":206807,
+        "qs_pg:id":206807,
         "unlc:id":"TR-76",
         "wd:id":"Q125506",
         "wk:page":"I\u011fd\u0131r Province"
@@ -400,7 +394,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737380,
+    "wof:lastmodified":1566582979,
     "wof:name":"Igdir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

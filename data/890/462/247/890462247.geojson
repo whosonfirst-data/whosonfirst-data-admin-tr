@@ -11,11 +11,15 @@
     "geom:longitude":42.34694,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":3995,
+    "gn:population":3995,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"42.32694,40.54194,42.36694,40.58194",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u015eenkaya"
     ],
@@ -61,7 +65,7 @@
     "name:tur_x_preferred":[
         "\u015eenkaya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00d6rt\u00fcl\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":739816,
         "gp:id":2336705,
-        "qs:id":1310461,
+        "qs_pg:id":1310461,
         "wd:id":"Q388842",
         "wk:page":"\u015eenkaya"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890462247,
-    "wof:lastmodified":1563361439,
+    "wof:lastmodified":1566586401,
     "wof:name":"\u015eenkaya",
     "wof:parent_id":1108709201,
     "wof:placetype":"locality",

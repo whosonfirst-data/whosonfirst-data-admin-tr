@@ -11,11 +11,15 @@
     "geom:longitude":28.61528,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":29411,
+    "gn:population":29411,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.59528,40.97028,28.63528,41.01028",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0642\u0648\u0631\u0628\u064a\u0646\u0627\u0631"
     ],
@@ -97,7 +101,7 @@
     "name:tur_x_preferred":[
         "G\u00fcrp\u0131nar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anar\u015fa"
     ],
     "name:war_x_preferred":[
@@ -128,7 +132,7 @@
     "wof:concordances":{
         "gn:id":746234,
         "gp:id":2321763,
-        "qs:id":472276,
+        "qs_pg:id":472276,
         "wd:id":"Q6688967",
         "wk:page":"G\u00fcrp\u0131nar (District), Van"
     },
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":890461779,
-    "wof:lastmodified":1563361746,
+    "wof:lastmodified":1566586512,
     "wof:name":"G\u00fcrp\u0131nar",
     "wof:parent_id":1108709381,
     "wof:placetype":"locality",

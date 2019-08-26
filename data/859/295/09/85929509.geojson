@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":263192.103554,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.834487,39.928096,32.834487,39.928096",
     "geom:latitude":39.928096,
     "geom:longitude":32.834487,
     "gn:latitude":39.93333,
     "gn:longitude":32.83333,
     "iso:country":"TR",
+    "lbl:bbox":"32.829487,39.923096,32.839487,39.933096",
     "lbl:latitude":39.928096,
     "lbl:longitude":32.834487,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.92904,
     "mps:longitude":32.833768,
     "mz:hierarchy_label":0,
@@ -29,12 +31,6 @@
         "Mebusevleri"
     ],
     "name:tur_x_preferred":[
-        "Mebusevleri"
-    ],
-    "name:und_x_preferred":[
-        "Mebusevleri"
-    ],
-    "name:unk_x_variant":[
         "Mebusevleri"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -66,20 +62,19 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":60,
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
         101912789,
-        890462771,
-        85679409
+        890462771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":311350,
         "gp:id":55865090,
-        "qs:id":26664,
         "qs_pg:id":26664,
         "wd:id":"Q6804370",
         "wk:page":"Mebusevleri, \u00c7ankaya"
@@ -100,7 +95,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939133,
+    "wof:lastmodified":1566582923,
     "wof:name":"Mebusevleri",
     "wof:parent_id":101912789,
     "wof:placetype":"neighbourhood",

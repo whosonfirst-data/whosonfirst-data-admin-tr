@@ -13,8 +13,10 @@
     "gn:latitude":38.4,
     "gn:longitude":27.1,
     "iso:country":"TR",
+    "lbl:bbox":"27.125528,38.414612,27.135528,38.424612",
     "lbl:latitude":38.419612,
     "lbl:longitude":27.130528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.416663,
     "mps:longitude":27.134698,
     "mz:hierarchy_label":0,
@@ -74,9 +76,6 @@
     "name:tur_x_preferred":[
         "Konak"
     ],
-    "name:unk_x_variant":[
-        "Konak"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0646\u0627\u06a9\u060c \u0627\u0632\u0645\u06cc\u0631"
     ],
@@ -120,7 +119,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2206,
     "wof:belongsto":[
         85679201,
@@ -133,7 +132,7 @@
         "fct:id":"07e31508-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":306641,
         "gp:id":2343610,
-        "qs:id":239485,
+        "qs_pg:id":239485,
         "wd:id":"Q2279529",
         "wk:page":"Konak, Izmir"
     },
@@ -153,7 +152,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563356475,
+    "wof:lastmodified":1566582913,
     "wof:name":"Konak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

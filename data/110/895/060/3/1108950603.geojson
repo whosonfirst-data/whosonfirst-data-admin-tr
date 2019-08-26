@@ -10,8 +10,10 @@
     "geom:latitude":40.979615,
     "geom:longitude":28.780687,
     "iso:country":"TR",
+    "lbl:bbox":"28.77568705,40.9746151521,28.78568705,40.9846151521",
     "lbl:latitude":40.979615,
     "lbl:longitude":28.780687,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Bas\u0131nk\u00f6y"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1108950603,
-    "wof:lastmodified":1563359628,
+    "wof:lastmodified":1566585316,
     "wof:name":"Basinkoy",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

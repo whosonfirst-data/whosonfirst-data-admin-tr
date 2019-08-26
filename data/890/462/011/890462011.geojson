@@ -11,11 +11,15 @@
     "geom:longitude":29.61667,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":5015,
+    "gn:population":5015,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.59667,39.78,29.63667,39.82",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Domani\u00e7"
     ],
@@ -67,7 +71,7 @@
     "name:tur_x_preferred":[
         "Domani\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hisark\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":316330,
         "gp:id":2343939,
-        "qs:id":987696,
+        "qs_pg:id":987696,
         "wd:id":"Q2671001",
         "wk:page":"Domani\u00e7"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890462011,
-    "wof:lastmodified":1563361434,
+    "wof:lastmodified":1566586399,
     "wof:name":"Domani\u00e7",
     "wof:parent_id":1108709455,
     "wof:placetype":"locality",

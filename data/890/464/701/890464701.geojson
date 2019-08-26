@@ -11,11 +11,15 @@
     "geom:longitude":39.89884,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1759,
+    "gn:population":1759,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.87884,39.46644,39.91884,39.50644",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "P\u00fcl\u00fcm\u00fcr \u0130l\u00e7esi"
     ],
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "P\u00fcl\u00fcm\u00fcr"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Plurnur"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":302469,
         "gp:id":2335045,
-        "qs:id":257766,
+        "qs_pg:id":257766,
         "wd:id":"Q1023268",
         "wk:page":"P\u00fcl\u00fcm\u00fcr"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890464701,
-    "wof:lastmodified":1563361126,
+    "wof:lastmodified":1566586269,
     "wof:name":"P\u00fcl\u00fcm\u00fcr",
     "wof:parent_id":1108709827,
     "wof:placetype":"locality",

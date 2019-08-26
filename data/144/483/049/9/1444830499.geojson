@@ -10,8 +10,10 @@
     "geom:latitude":41.030726,
     "geom:longitude":29.054232,
     "iso:country":"TR",
+    "lbl:bbox":"29.0492324527,41.0257263172,29.0592324527,41.0357263172",
     "lbl:latitude":41.030726,
     "lbl:longitude":29.054232,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912541,
-        890462769,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444830499,
-    "wof:lastmodified":1566339558,
+    "wof:lastmodified":1566584832,
     "wof:name":"Burhaniye",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",

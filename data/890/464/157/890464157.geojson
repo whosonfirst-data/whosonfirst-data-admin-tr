@@ -11,7 +11,7 @@
     "geom:longitude":35.746118,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.105359,
     "lbl:longitude":35.738642,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kayseri",
     "meso:admin_1":"Kayseri",
     "meso:gadm_admin":"\u00d6zvatan",
@@ -41,6 +43,7 @@
     "mps:longitude":35.738642,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u00d6zvatan \u0130l\u00e7esi"
     ],
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "\u00d6zvatan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7ukur"
     ],
     "name:urd_x_preferred":[
@@ -100,9 +103,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"320",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00d6zvatan",
@@ -126,7 +129,7 @@
         "gn:id":317970,
         "gp:id":29390680,
         "hasc:id":"TR.KY.OZ",
-        "qs:id":207423,
+        "qs_pg:id":207423,
         "wd:id":"Q2671072",
         "wk:page":"\u00d6zvatan"
     },
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":890464157,
-    "wof:lastmodified":1563361127,
+    "wof:lastmodified":1566586269,
     "wof:name":"\u00d6zvatan",
     "wof:parent_id":85679321,
     "wof:placetype":"county",

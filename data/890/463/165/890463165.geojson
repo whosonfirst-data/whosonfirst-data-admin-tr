@@ -11,11 +11,15 @@
     "geom:longitude":27.41731,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":30411,
+    "gn:population":30411,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.39731,38.40621,27.43731,38.44621",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u043c\u0430\u043b\u043f\u0430\u0448\u0430"
     ],
@@ -91,7 +95,7 @@
     "name:tur_x_variant":[
         "Kemalpa\u015fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nymphaeum"
     ],
     "name:urd_x_preferred":[
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":308224,
         "gp:id":2344181,
-        "qs:id":1284431,
+        "qs_pg:id":1284431,
         "wd:id":"Q1014125",
         "wk:page":"Kemalpa\u015fa"
     },
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":890463165,
-    "wof:lastmodified":1563361034,
+    "wof:lastmodified":1566586235,
     "wof:name":"Kemalpa\u015fa",
     "wof:parent_id":890464235,
     "wof:placetype":"locality",

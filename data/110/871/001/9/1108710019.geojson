@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.235007,
     "lbl:longitude":34.582976,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Tarsus",
@@ -37,6 +39,7 @@
     "mps:longitude":34.582976,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0645\u0644\u064a\u0627\u064a\u0644\u0627"
     ],
@@ -89,7 +92,7 @@
         "\u00c7aml\u0131yayla"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":1108710019,
-    "wof:lastmodified":1564161518,
+    "wof:lastmodified":1566585387,
     "wof:name":"\u00c7aml\u0131yayla",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

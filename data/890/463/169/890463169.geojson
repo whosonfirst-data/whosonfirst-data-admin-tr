@@ -11,11 +11,15 @@
     "geom:longitude":26.90111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":27427,
+    "gn:population":27427,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.88111,40.87,26.92111,40.91",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u0643\u0631\u0627"
     ],
@@ -88,7 +92,7 @@
     "name:tur_x_preferred":[
         "Malkara"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Megalohora"
     ],
     "name:urd_x_preferred":[
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":741771,
         "gp:id":2344248,
-        "qs:id":689025,
+        "qs_pg:id":689025,
         "wd:id":"Q937499",
         "wk:page":"Malkara"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890463169,
-    "wof:lastmodified":1563360956,
+    "wof:lastmodified":1566586208,
     "wof:name":"Malkara",
     "wof:parent_id":1108709707,
     "wof:placetype":"locality",

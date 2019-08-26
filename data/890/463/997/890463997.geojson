@@ -11,10 +11,14 @@
     "geom:longitude":40.05,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":31488,
+    "gn:population":31488,
     "iso:country":"TR",
+    "lbl:bbox":"40.03,36.82722,40.07,36.86722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0631\u0623\u0633 \u0627\u0644\u0639\u064a\u0646"
     ],
@@ -93,7 +97,7 @@
     "name:tur_x_preferred":[
         "Ceylanp\u0131nar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Raselain"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":318668,
         "gp:id":2343889,
-        "qs:id":205528,
+        "qs_pg:id":205528,
         "wd:id":"Q917838",
         "wk:page":"Ceylanp\u0131nar"
     },
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":890463997,
-    "wof:lastmodified":1563360950,
+    "wof:lastmodified":1566586206,
     "wof:name":"Ceylanp\u0131nar",
     "wof:parent_id":1108709413,
     "wof:placetype":"locality",

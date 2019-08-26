@@ -11,11 +11,15 @@
     "geom:longitude":37.57167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":152,
+    "gn:population":152,
     "iso:country":"TR",
+    "lbl:bbox":"37.55167,36.70083,37.59167,36.74083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u00dc\u00e7kubbe"
     ],
     "qs:name":"Uchkubbe",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298575,
-        "qs:id":547243
+        "qs_pg:id":547243
     },
     "wof:country":"TR",
     "wof:created":1469053490,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890464911,
-    "wof:lastmodified":1505343700,
+    "wof:lastmodified":1566586319,
     "wof:name":"Uchkubbe",
     "wof:parent_id":1108709769,
     "wof:placetype":"locality",

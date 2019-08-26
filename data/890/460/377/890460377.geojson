@@ -11,11 +11,15 @@
     "geom:longitude":41.82293,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":331,
+    "gn:population":331,
     "iso:country":"TR",
+    "lbl:bbox":"41.80293,37.14299,41.84293,37.18299",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Banih"
     ],
     "qs:name":"Ocakl\u0131",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":303720,
-        "qs:id":80044
+        "qs_pg:id":80044
     },
     "wof:country":"TR",
     "wof:created":1469053313,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460377,
-    "wof:lastmodified":1505343682,
+    "wof:lastmodified":1566586445,
     "wof:name":"Ocakl\u0131",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

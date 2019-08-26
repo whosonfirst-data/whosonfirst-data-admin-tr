@@ -11,15 +11,18 @@
     "geom:longitude":36.4889,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"36.4839,41.16384,36.4939,41.17384",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:tur_x_preferred":[
         "K\u0131\u015flak\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0131\u015fla"
     ],
     "qs:name":"Kisla",
@@ -44,7 +47,7 @@
     "wof:concordances":{
         "gn:id":744282,
         "gp:id":56042458,
-        "qs:id":1025918
+        "qs_pg:id":1025918
     },
     "wof:country":"TR",
     "wof:created":1469053385,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890462305,
-    "wof:lastmodified":1505343689,
+    "wof:lastmodified":1566586396,
     "wof:name":"Kisla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

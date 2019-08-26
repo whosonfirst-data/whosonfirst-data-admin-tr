@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":24046802.849961,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.118636,38.45653,27.118636,38.45653",
     "geom:latitude":38.45653,
     "geom:longitude":27.118636,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":38.45916,
     "gn:longitude":27.12456,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"27.113636,38.45153,27.123636,38.46153",
     "lbl:latitude":38.45653,
     "lbl:longitude":27.118636,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.454059,
     "mps:longitude":27.114216,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
         "Alaybey"
     ],
     "name:tur_x_preferred":[
-        "Alaybey"
-    ],
-    "name:unk_x_variant":[
         "Alaybey"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -85,7 +84,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85679201,
         102191569,
@@ -96,7 +95,6 @@
     "wof:concordances":{
         "gn:id":324153,
         "gp:id":2343536,
-        "qs:id":118495,
         "qs_pg:id":118495
     },
     "wof:country":"TR",
@@ -115,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379468,
+    "wof:lastmodified":1566582919,
     "wof:name":"Alaybey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

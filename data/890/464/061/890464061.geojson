@@ -11,17 +11,21 @@
     "geom:longitude":42.52972,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":457,
+    "gn:population":457,
     "iso:country":"TR",
+    "lbl:bbox":"42.50972,37.1425,42.54972,37.1825",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:hye_x_preferred":[
         "\u0531\u056f\u0569\u0565\u0583\u0565"
     ],
     "name:tur_x_preferred":[
         "Aktepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aytepe"
     ],
     "qs:name":"Aktepe",
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":392048,
-        "qs:id":206551,
+        "qs_pg:id":206551,
         "wk:page":"Aktepe"
     },
     "wof:country":"TR",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890464061,
-    "wof:lastmodified":1564162745,
+    "wof:lastmodified":1566586314,
     "wof:name":"Aktepe",
     "wof:parent_id":1108709879,
     "wof:placetype":"locality",

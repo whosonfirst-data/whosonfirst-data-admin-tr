@@ -10,8 +10,10 @@
     "geom:latitude":40.99048,
     "geom:longitude":28.613374,
     "iso:country":"TR",
+    "lbl:bbox":"28.6083735966,40.9854796442,28.6183735966,40.9954796442",
     "lbl:latitude":40.99048,
     "lbl:longitude":28.613374,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -102,7 +104,7 @@
     "name:war_x_preferred":[
         "G\u00fcrp\u0131nar"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1108950825,
-    "wof:lastmodified":1563359557,
+    "wof:lastmodified":1566585280,
     "wof:name":"Gurpinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"40.80271,39.07868,40.84271,39.11868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Cultura Hacilar"
     ],
@@ -83,8 +87,7 @@
         "\u0425\u0430\u0434\u0436\u0438\u043b\u0430\u0440"
     ],
     "name:und_x_variant":[
-        "Hac\u0131yan",
-        "Hac\u0131lar"
+        "Hac\u0131yan"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1360271903,
-    "wof:lastmodified":1564162275,
+    "wof:lastmodified":1566585923,
     "wof:name":"Hacilar",
     "wof:parent_id":890463853,
     "wof:placetype":"locality",

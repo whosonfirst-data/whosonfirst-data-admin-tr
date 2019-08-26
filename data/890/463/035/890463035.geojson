@@ -11,10 +11,14 @@
     "geom:longitude":29.42833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1102,
+    "gn:population":1102,
     "iso:country":"TR",
+    "lbl:bbox":"29.40833,40.8525,29.44833,40.8925",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Hamidiye"
     ],
@@ -87,9 +91,6 @@
     "name:tur_x_preferred":[
         "Hamidiye"
     ],
-    "name:unk_x_variant":[
-        "Hamidiye"
-    ],
     "name:war_x_preferred":[
         "Hamidiye"
     ],
@@ -108,7 +109,7 @@
     "wof:concordances":{
         "gn:id":751170,
         "gp:id":2321916,
-        "qs:id":83405,
+        "qs_pg:id":83405,
         "wd:id":"Q6069615"
     },
     "wof:country":"TR",
@@ -124,7 +125,7 @@
         }
     ],
     "wof:id":890463035,
-    "wof:lastmodified":1563361080,
+    "wof:lastmodified":1566586251,
     "wof:name":"Bal\u00e7\u0131k",
     "wof:parent_id":890462621,
     "wof:placetype":"locality",

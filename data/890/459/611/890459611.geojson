@@ -11,17 +11,21 @@
     "geom:longitude":42.03999,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":419,
+    "gn:population":419,
     "iso:country":"TR",
+    "lbl:bbox":"42.01999,37.2125,42.05999,37.2525",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Varl\u0131k"
     ],
     "name:tur_x_preferred":[
         "Varl\u0131k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gyzhal"
     ],
     "qs:name":"Varl\u0131k",
@@ -39,7 +43,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298092,
-        "qs:id":547226,
+        "qs_pg:id":547226,
         "wd:id":"Q7915987",
         "wk:page":"Varl\u0131k"
     },
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890459611,
-    "wof:lastmodified":1563361862,
+    "wof:lastmodified":1566586558,
     "wof:name":"Varl\u0131k",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

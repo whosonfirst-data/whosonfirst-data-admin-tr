@@ -10,8 +10,10 @@
     "geom:latitude":41.024967,
     "geom:longitude":28.931787,
     "iso:country":"TR",
+    "lbl:bbox":"28.9267872114,41.0199672249,28.9367872114,41.0299672249",
     "lbl:latitude":41.024967,
     "lbl:longitude":28.931787,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -39,7 +41,7 @@
     "name:tur_x_preferred":[
         "Sulukule"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -61,7 +63,7 @@
         }
     ],
     "wof:id":1108950365,
-    "wof:lastmodified":1564161428,
+    "wof:lastmodified":1566585287,
     "wof:name":"Sulukule",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

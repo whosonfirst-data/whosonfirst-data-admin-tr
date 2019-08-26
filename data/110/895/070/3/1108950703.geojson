@@ -10,8 +10,10 @@
     "geom:latitude":40.995378,
     "geom:longitude":28.791739,
     "iso:country":"TR",
+    "lbl:bbox":"28.7867392334,40.990377652,28.7967392334,41.000377652",
     "lbl:latitude":40.995378,
     "lbl:longitude":28.791739,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "G\u00fcltepe"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1108950703,
-    "wof:lastmodified":1563359549,
+    "wof:lastmodified":1566585275,
     "wof:name":"Gultepe",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

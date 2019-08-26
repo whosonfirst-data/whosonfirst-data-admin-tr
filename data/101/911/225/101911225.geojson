@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":37.154752,
     "lbl:longitude":38.786686,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":37.154752,
     "mps:longitude":38.786686,
     "mz:hierarchy_label":1,
@@ -150,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434\u0435\u0441\u0430"
     ],
-    "name:unk_x_variant":[
-        "Edessa"
-    ],
     "name:vie_x_preferred":[
         "Edessa"
     ],
@@ -266,7 +265,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -278,10 +277,12 @@
     "wof:concordances":{
         "gn:id":298333,
         "gp:id":2344354,
-        "qs:id":204029,
-        "qs_pg:id":1134843,
+        "qs_pg:id":204029,
         "wd:id":"Q1190403",
         "wk:page":"Edessa"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134843
     },
     "wof:country":"TR",
     "wof:geomhash":"c60442976cda90bb31a50fb8114d53f8",
@@ -295,7 +296,7 @@
         }
     ],
     "wof:id":101911225,
-    "wof:lastmodified":1563360682,
+    "wof:lastmodified":1566586013,
     "wof:name":"Sanliurfa",
     "wof:parent_id":890461365,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":28.88795,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":50000,
+    "gn:population":50000,
     "iso:country":"TR",
+    "lbl:bbox":"28.88295,41.00211,28.89295,41.01211",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Merter"
     ],
     "qs:name":"g\u00fcng\u00f6ren merter",
@@ -32,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6354985,
-        "qs:id":160624
+        "qs_pg:id":160624
     },
     "wof:country":"TR",
     "wof:created":1469053308,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890460237,
-    "wof:lastmodified":1505343681,
+    "wof:lastmodified":1566586472,
     "wof:name":"g\u00fcng\u00f6ren merter",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

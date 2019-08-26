@@ -11,14 +11,18 @@
     "geom:longitude":41.38396,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1441,
+    "gn:population":1441,
     "iso:country":"TR",
+    "lbl:bbox":"41.36396,37.09092,41.40396,37.13092",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Tepe\u00fcst\u00fc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Habap"
     ],
     "qs:name":"Telminar",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299272,
-        "qs:id":204111
+        "qs_pg:id":204111
     },
     "wof:country":"TR",
     "wof:created":1469053443,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890463773,
-    "wof:lastmodified":1505343695,
+    "wof:lastmodified":1566586262,
     "wof:name":"Telminar",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

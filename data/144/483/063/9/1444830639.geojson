@@ -10,8 +10,10 @@
     "geom:latitude":41.069175,
     "geom:longitude":29.070254,
     "iso:country":"TR",
+    "lbl:bbox":"29.0652541892,41.0641748422,29.0752541892,41.0741748422",
     "lbl:latitude":41.069175,
     "lbl:longitude":29.070254,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912647,
-        890462769,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444830639,
-    "wof:lastmodified":1566339573,
+    "wof:lastmodified":1566584838,
     "wof:name":"Kucuksu",
     "wof:parent_id":101912647,
     "wof:placetype":"neighbourhood",

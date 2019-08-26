@@ -11,11 +11,15 @@
     "geom:longitude":27.36849,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":29101,
+    "gn:population":29101,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.34849,37.93137,27.38849,37.97137",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Sel\u00e7uk"
     ],
@@ -238,7 +242,7 @@
     "name:tur_x_preferred":[
         "Sel\u00e7uk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ephesus"
     ],
     "name:urd_x_preferred":[
@@ -291,7 +295,7 @@
     "wof:concordances":{
         "gn:id":301256,
         "gp:id":2336595,
-        "qs:id":811678,
+        "qs_pg:id":811678,
         "wd:id":"Q876176",
         "wk:page":"Sel\u00e7uk"
     },
@@ -308,7 +312,7 @@
         }
     ],
     "wof:id":890461081,
-    "wof:lastmodified":1563361780,
+    "wof:lastmodified":1566586524,
     "wof:name":"Sel\u00e7uk",
     "wof:parent_id":890461027,
     "wof:placetype":"locality",

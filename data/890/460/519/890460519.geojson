@@ -11,11 +11,15 @@
     "geom:longitude":34.44897,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"34.42897,36.68257,34.46897,36.72257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Tece",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Mersin",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":299509,
         "gp:id":2338747,
-        "qs:id":1235947
+        "qs_pg:id":1235947
     },
     "wof:country":"TR",
     "wof:created":1469053317,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890460519,
-    "wof:lastmodified":1505343682,
+    "wof:lastmodified":1566586445,
     "wof:name":"Tece",
     "wof:parent_id":1108709751,
     "wof:placetype":"locality",

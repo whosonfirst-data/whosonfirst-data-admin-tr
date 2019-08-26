@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":37.530552,
     "lbl:longitude":30.012104,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Burdur",
     "mps:latitude":37.477225,
     "mps:longitude":29.914737,
@@ -258,7 +259,7 @@
         "Burdur"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bb0\u0bcd\u0ba4\u0bc1\u0bb0\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bb0\u0bcd\u0ba4\u0bc1\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c41\u0c30\u0c4d\u0c21\u0c41\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -287,13 +288,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0440\u0434\u0443\u0440"
     ],
-    "name:und_x_preferred":[
-        "Burdur"
-    ],
     "name:und_x_variant":[
-        "Burdur"
-    ],
-    "name:unk_x_variant":[
         "Burdur Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -392,9 +387,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"6,887",
     "statoids:area_mi":"2,659",
     "statoids:as_of_date":"2007-12-31",
@@ -419,7 +414,7 @@
         "gp:id":2347272,
         "hasc:id":"TR.BD",
         "iso:id":"TR-15",
-        "qs:id":891339,
+        "qs_pg:id":891339,
         "unlc:id":"TR-15",
         "wd:id":"Q80088",
         "wk:page":"Burdur Province"
@@ -440,11 +435,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737381,
+    "wof:lastmodified":1566582983,
     "wof:name":"Burdur",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":251181,
     "wof:population_rank":10,

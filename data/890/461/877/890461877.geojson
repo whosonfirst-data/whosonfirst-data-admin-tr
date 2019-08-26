@@ -11,7 +11,7 @@
     "geom:longitude":40.231261,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":6880,
+    "gn:population":6880,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.787109,
     "lbl:longitude":40.205628,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Trabzon",
     "meso:admin_1":"Trabzon",
     "meso:gadm_admin":"Hayrat",
@@ -41,6 +43,7 @@
     "mps:longitude":40.205628,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Dernekpazar\u0131"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -105,7 +108,7 @@
         "gn:id":748200,
         "gp:id":29390265,
         "hasc:id":"TR.TB.HA",
-        "qs:id":1234815
+        "qs_pg:id":1234815
     },
     "wof:country":"TR",
     "wof:created":1469053370,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890461877,
-    "wof:lastmodified":1564162906,
+    "wof:lastmodified":1566586522,
     "wof:name":"Dernekpazar\u0131",
     "wof:parent_id":85679383,
     "wof:placetype":"county",

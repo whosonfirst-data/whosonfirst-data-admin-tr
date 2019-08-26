@@ -11,11 +11,14 @@
     "geom:longitude":30.71353,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.70853,36.89601,30.71853,36.90601",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Etiler"
     ],
@@ -25,7 +28,7 @@
     "name:tur_x_preferred":[
         "Etiler"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zeytin K\u00f6y"
     ],
     "qs:name":"Etiler",
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":295927,
         "gp:id":55871300,
-        "qs:id":1059557,
+        "qs_pg:id":1059557,
         "wk:page":"Etiler"
     },
     "wof:country":"TR",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890462323,
-    "wof:lastmodified":1564162813,
+    "wof:lastmodified":1566586383,
     "wof:name":"Etiler",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

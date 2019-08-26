@@ -11,11 +11,15 @@
     "geom:longitude":32.45674,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":20110,
+    "gn:population":20110,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"32.43674,36.96776,32.47674,37.00776",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Hadim \u0130l\u00e7esi"
     ],
@@ -64,7 +68,7 @@
     "name:tur_x_preferred":[
         "Hadim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yukar\u0131 Had\u0131m"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":312899,
         "gp:id":2344059,
-        "qs:id":124122,
+        "qs_pg:id":124122,
         "wd:id":"Q349498",
         "wk:page":"Hadim"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890460137,
-    "wof:lastmodified":1563361595,
+    "wof:lastmodified":1566586458,
     "wof:name":"Had\u0131m",
     "wof:parent_id":1108709555,
     "wof:placetype":"locality",

@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":38.055309,
     "lbl:longitude":40.325007,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Diyarbakir",
     "mps:latitude":38.069072,
     "mps:longitude":40.227674,
@@ -281,13 +282,7 @@
     "name:und_x_colloquial":[
         "Diyarbakir"
     ],
-    "name:und_x_preferred":[
-        "Diyarbak\u0131r"
-    ],
     "name:und_x_variant":[
-        "Diyarbakir"
-    ],
-    "name:unk_x_variant":[
         "Diyar\u0131bekir"
     ],
     "name:urd_x_preferred":[
@@ -383,9 +378,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"15,355",
     "statoids:area_mi":"5,929",
     "statoids:as_of_date":"2007-12-31",
@@ -410,7 +405,7 @@
         "gp:id":2347278,
         "hasc:id":"TR.DY",
         "iso:id":"TR-21",
-        "qs:id":235644,
+        "qs_pg:id":235644,
         "unlc:id":"TR-21",
         "wd:id":"Q83081",
         "wk:page":"Diyarbak\u0131r Province"
@@ -431,11 +426,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737374,
+    "wof:lastmodified":1566582955,
     "wof:name":"Diyarbakir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1460714,
     "wof:population_rank":12,

@@ -11,10 +11,14 @@
     "geom:longitude":40.71361,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":359,
+    "gn:population":359,
     "iso:country":"TR",
+    "lbl:bbox":"40.69361,37.12528,40.73361,37.16528",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Almal\u0131"
     ],
@@ -63,7 +67,7 @@
     "name:tur_x_preferred":[
         "Elmal\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tuffakhi"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":315696,
         "gp:id":2343911,
-        "qs:id":80101,
+        "qs_pg:id":80101,
         "wk:page":"Elmal\u0131"
     },
     "wof:country":"TR",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890460429,
-    "wof:lastmodified":1564162870,
+    "wof:lastmodified":1566586463,
     "wof:name":"Elmal\u0131",
     "wof:parent_id":890460129,
     "wof:placetype":"locality",

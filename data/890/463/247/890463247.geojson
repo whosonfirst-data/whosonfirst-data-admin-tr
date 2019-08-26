@@ -11,7 +11,7 @@
     "geom:longitude":27.211063,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.267127,
     "lbl:longitude":27.206303,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Canakkale",
     "meso:admin_1":"\u00c7anakkale",
     "meso:gadm_admin":"Biga",
@@ -41,6 +43,7 @@
     "mps:longitude":27.206303,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Biga"
     ],
@@ -101,9 +104,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1354",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Biga",
@@ -125,7 +128,7 @@
         "gn:id":7732343,
         "gp:id":29390158,
         "hasc:id":"TR.CK.BI",
-        "qs:id":894508,
+        "qs_pg:id":894508,
         "wd:id":"Q44156",
         "wk:page":"Biga"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":890463247,
-    "wof:lastmodified":1563361066,
+    "wof:lastmodified":1566586247,
     "wof:name":"Biga",
     "wof:parent_id":85679209,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":30.305409,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.605732,
     "lbl:longitude":30.281898,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Antalya",
     "meso:admin_1":"Antalya",
     "meso:gadm_admin":"Kumluca",
@@ -41,6 +43,7 @@
     "mps:longitude":30.281898,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0645\u0644\u0648\u062c\u0627"
     ],
@@ -140,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1228",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kumluca",
@@ -164,7 +167,7 @@
         "gn:id":7911038,
         "gp:id":29390525,
         "hasc:id":"TR.AL.KU",
-        "qs:id":891437,
+        "qs_pg:id":891437,
         "wd:id":"Q1004471",
         "wk:page":"Kumluca"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890463099,
-    "wof:lastmodified":1563360994,
+    "wof:lastmodified":1566586222,
     "wof:name":"Kumluca",
     "wof:parent_id":85679263,
     "wof:placetype":"county",

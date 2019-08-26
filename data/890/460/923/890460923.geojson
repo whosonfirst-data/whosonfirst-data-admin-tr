@@ -11,11 +11,15 @@
     "geom:longitude":39.15833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1635,
+    "gn:population":1635,
     "iso:country":"TR",
+    "lbl:bbox":"39.13833,36.76278,39.17833,36.80278",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Khizan"
     ],
     "qs:name":"Meydankap\u0131",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":304440,
-        "qs:id":547364
+        "qs_pg:id":547364
     },
     "wof:country":"TR",
     "wof:created":1469053332,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460923,
-    "wof:lastmodified":1505343684,
+    "wof:lastmodified":1566586447,
     "wof:name":"Meydankap\u0131",
     "wof:parent_id":890461929,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":26.67518,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.847286,
     "lbl:longitude":26.669846,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Canakkale",
     "meso:admin_1":"\u00c7anakkale",
     "meso:gadm_admin":"Bayrami\u00e7",
@@ -41,6 +43,7 @@
     "mps:longitude":26.669846,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u06cc\u0631\u0627\u0645 \u0627\u06cc\u0686"
     ],
@@ -95,7 +98,7 @@
     "name:tur_x_preferred":[
         "Bayrami\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sceps\u0131s"
     ],
     "name:urd_x_preferred":[
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1284",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Bayrami\u00e7",
@@ -144,7 +147,7 @@
         "gn:id":321733,
         "gp:id":29390139,
         "hasc:id":"TR.CK.BA",
-        "qs:id":346568,
+        "qs_pg:id":346568,
         "wd:id":"Q812617",
         "wk:page":"Bayrami\u00e7"
     },
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890461167,
-    "wof:lastmodified":1563361678,
+    "wof:lastmodified":1566586487,
     "wof:name":"Bayrami\u00e7",
     "wof:parent_id":85679209,
     "wof:placetype":"county",

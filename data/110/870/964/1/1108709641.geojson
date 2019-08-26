@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.98934,
     "lbl:longitude":39.985144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyarbakir",
     "meso:admin_1":"Diyarbakir",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":39.985144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Kayap\u0131nar"
     ],
@@ -77,7 +80,7 @@
         "Kayap\u0131nar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108709641,
-    "wof:lastmodified":1563359663,
+    "wof:lastmodified":1566585331,
     "wof:name":"Kayap\u0131nar",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

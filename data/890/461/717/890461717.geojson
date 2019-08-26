@@ -11,7 +11,7 @@
     "geom:longitude":35.115625,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":14354,
+    "gn:population":14354,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.3288,
     "lbl:longitude":35.119673,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kayseri",
     "meso:admin_1":"Kayseri",
     "meso:gadm_admin":"Ye\u015filhisar",
@@ -41,6 +43,7 @@
     "mps:longitude":35.119673,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Ye\u015filhisar"
     ],
@@ -98,7 +101,7 @@
     "name:tur_x_preferred":[
         "Ye\u015filhisar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karah\u0131sar"
     ],
     "name:urd_x_preferred":[
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1008",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Yesilhisar",
@@ -149,7 +152,7 @@
         "gn:id":296860,
         "gp:id":29390880,
         "hasc:id":"TR.KY.YE",
-        "qs:id":1114663,
+        "qs_pg:id":1114663,
         "wd:id":"Q1947533",
         "wk:page":"Ye\u015filhisar"
     },
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":890461717,
-    "wof:lastmodified":1563361825,
+    "wof:lastmodified":1566586539,
     "wof:name":"Ye\u015filhisar",
     "wof:parent_id":85679321,
     "wof:placetype":"county",

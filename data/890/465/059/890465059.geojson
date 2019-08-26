@@ -11,11 +11,15 @@
     "geom:longitude":42.88917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":654,
+    "gn:population":654,
     "iso:country":"TR",
+    "lbl:bbox":"42.86917,37.8825,42.90917,37.9225",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ferkhenis"
     ],
     "qs:name":"\u00d6vecek",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":303074,
         "gp:id":2343958,
-        "qs:id":547336
+        "qs_pg:id":547336
     },
     "wof:country":"TR",
     "wof:created":1469053498,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890465059,
-    "wof:lastmodified":1505343701,
+    "wof:lastmodified":1566586351,
     "wof:name":"\u00d6vecek",
     "wof:parent_id":1108710025,
     "wof:placetype":"locality",

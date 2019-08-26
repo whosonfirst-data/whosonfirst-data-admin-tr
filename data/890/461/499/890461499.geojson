@@ -11,7 +11,7 @@
     "geom:longitude":29.822359,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4820,
+    "gn:population":4820,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.378123,
     "lbl:longitude":29.877869,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Burdur",
     "meso:admin_1":"Burdur",
     "meso:gadm_admin":"Karamanl\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":29.877869,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Karamanli"
     ],
@@ -66,9 +69,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"368",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Karamanli",
@@ -90,7 +93,7 @@
         "gn:id":309512,
         "gp:id":29390464,
         "hasc:id":"TR.BD.KA",
-        "qs:id":274869,
+        "qs_pg:id":274869,
         "wd:id":"Q2399258",
         "wk:page":"Karamanl\u0131, Burdur"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890461499,
-    "wof:lastmodified":1561769293,
+    "wof:lastmodified":1566586499,
     "wof:name":"Karamanl\u0131",
     "wof:parent_id":85679273,
     "wof:placetype":"county",

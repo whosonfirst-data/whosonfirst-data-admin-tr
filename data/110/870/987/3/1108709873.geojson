@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":38.137362,
     "lbl:longitude":32.628599,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Konya",
     "meso:admin_1":"Konya",
     "meso:gadm_admin":"Sel\u00e7uklu",
@@ -40,6 +42,7 @@
     "mps:longitude":32.628599,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Sel\u00e7uklu"
     ],
@@ -86,9 +89,9 @@
         "Sel\u00e7uklu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1836",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108709873,
-    "wof:lastmodified":1564161505,
+    "wof:lastmodified":1566585370,
     "wof:name":"Sel\u00e7uklu",
     "wof:parent_id":85679425,
     "wof:placetype":"county",

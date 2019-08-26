@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":37.967673,
     "lbl:longitude":34.678728,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":37.967673,
     "mps:longitude":34.678728,
     "mz:hierarchy_label":1,
@@ -198,7 +200,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0456\u0433\u0434\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nigdah"
     ],
     "name:urd_x_preferred":[
@@ -320,7 +322,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.966667,
     "wd:longitude":34.679167,
@@ -335,7 +337,6 @@
     "wof:concordances":{
         "gn:id":303827,
         "gp:id":2344286,
-        "qs:id":1134830,
         "qs_pg:id":1134830,
         "wd:id":"Q194146",
         "wk:page":"Ni\u011fde"
@@ -352,7 +353,7 @@
         }
     ],
     "wof:id":101911223,
-    "wof:lastmodified":1563360681,
+    "wof:lastmodified":1566586013,
     "wof:name":"Ni\u011fde",
     "wof:parent_id":890461369,
     "wof:placetype":"locality",

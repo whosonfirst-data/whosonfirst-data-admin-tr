@@ -11,17 +11,21 @@
     "geom:longitude":40.74056,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":105,
+    "gn:population":105,
     "iso:country":"TR",
+    "lbl:bbox":"40.72056,37.86444,40.76056,37.90444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "Ofk\u00ebyu"
     ],
     "name:tur_x_preferred":[
         "Ofk\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Of"
     ],
     "qs:name":"Ofk\u00f6y",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":303693,
-        "qs:id":80043
+        "qs_pg:id":80043
     },
     "wof:country":"TR",
     "wof:created":1469053484,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890464723,
-    "wof:lastmodified":1505343699,
+    "wof:lastmodified":1566586295,
     "wof:name":"Ofk\u00f6y",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

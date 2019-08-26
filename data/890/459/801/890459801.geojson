@@ -11,11 +11,15 @@
     "geom:longitude":42.06972,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":86,
+    "gn:population":86,
     "iso:country":"TR",
+    "lbl:bbox":"42.04972,37.96028,42.08972,38.00028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Sovi"
     ],
     "qs:name":"Ta\u015fbalta",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299804,
-        "qs:id":80014
+        "qs_pg:id":80014
     },
     "wof:country":"TR",
     "wof:created":1469053282,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459801,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586587,
     "wof:name":"Ta\u015fbalta",
     "wof:parent_id":1108709315,
     "wof:placetype":"locality",

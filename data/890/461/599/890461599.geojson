@@ -11,7 +11,7 @@
     "geom:longitude":30.520995,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4705,
+    "gn:population":4705,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.609523,
     "lbl:longitude":30.515568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sakarya",
     "meso:admin_1":"Sakarya",
     "meso:gadm_admin":"Geyve",
@@ -41,6 +43,7 @@
     "mps:longitude":30.515568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Karap\u00fcr\u00e7ek \u0130l\u00e7esi"
     ],
@@ -102,7 +105,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":63,
     "wof:belongsto":[
@@ -115,7 +118,7 @@
         "gn:id":744110,
         "gp:id":29390466,
         "hasc:id":"TR.SK.GE",
-        "qs:id":129176,
+        "qs_pg:id":129176,
         "wd:id":"Q1728980",
         "wk:page":"Karap\u00fcr\u00e7ek"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":890461599,
-    "wof:lastmodified":1563361754,
+    "wof:lastmodified":1566586515,
     "wof:name":"Karap\u00fcr\u00e7ek",
     "wof:parent_id":85679245,
     "wof:placetype":"county",

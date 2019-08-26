@@ -11,10 +11,14 @@
     "geom:longitude":41.27333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1276,
+    "gn:population":1276,
     "iso:country":"TR",
+    "lbl:bbox":"41.25333,37.82083,41.29333,37.86083",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "\u00c7evrimova"
     ],
@@ -27,7 +31,7 @@
     "name:tur_x_preferred":[
         "\u00c7evrimova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barsil"
     ],
     "name:vie_x_preferred":[
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":318679,
         "gp:id":2343786,
-        "qs:id":547609,
+        "qs_pg:id":547609,
         "wd:id":"Q8077686"
     },
     "wof:country":"TR",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890459473,
-    "wof:lastmodified":1561769307,
+    "wof:lastmodified":1566586582,
     "wof:name":"\u00c7evrimova",
     "wof:parent_id":1108709369,
     "wof:placetype":"locality",

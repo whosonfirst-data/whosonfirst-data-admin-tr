@@ -11,7 +11,7 @@
     "geom:longitude":36.469866,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":12333,
+    "gn:population":12333,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.85153,
     "lbl:longitude":36.462459,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kayseri",
     "meso:admin_1":"Kayseri",
     "meso:gadm_admin":"P\u0131narba\u015f\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":36.462459,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "P\u0131narba\u015f\u0131"
     ],
@@ -65,7 +68,7 @@
     "name:tur_x_preferred":[
         "P\u0131narba\u015f\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aziziye"
     ],
     "name:vie_x_preferred":[
@@ -84,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"3382",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Pinarbasi",
@@ -108,7 +111,7 @@
         "gn:id":302667,
         "gp:id":29390703,
         "hasc:id":"TR.KY.PI",
-        "qs:id":255045,
+        "qs_pg:id":255045,
         "wd:id":"Q413456",
         "wk:page":"P\u0131narba\u015f\u0131"
     },
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":890460627,
-    "wof:lastmodified":1563361523,
+    "wof:lastmodified":1566586434,
     "wof:name":"P\u0131narba\u015f\u0131",
     "wof:parent_id":85679321,
     "wof:placetype":"county",

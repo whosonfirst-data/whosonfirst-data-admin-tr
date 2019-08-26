@@ -11,11 +11,15 @@
     "geom:longitude":38.98472,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":811,
+    "gn:population":811,
     "iso:country":"TR",
+    "lbl:bbox":"38.96472,36.94611,39.00472,36.98611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u00c7\u0131g\u0131ran"
     ],
     "qs:name":"Ke\u00e7ik\u0131ran",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":308353,
         "gp:id":2344354,
-        "qs:id":547414
+        "qs_pg:id":547414
     },
     "wof:country":"TR",
     "wof:created":1469053505,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890465165,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586342,
     "wof:name":"Ke\u00e7ik\u0131ran",
     "wof:parent_id":890461365,
     "wof:placetype":"locality",

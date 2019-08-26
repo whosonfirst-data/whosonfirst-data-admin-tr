@@ -11,11 +11,15 @@
     "geom:longitude":29.07058,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11584,
+    "gn:population":11584,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.05058,37.55351,29.09058,37.59351",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0648\u0627\u0633"
     ],
@@ -79,7 +83,7 @@
     "name:tur_x_preferred":[
         "Tavas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yarang\u00fcme"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":299575,
         "gp:id":2344431,
-        "qs:id":447190,
+        "qs_pg:id":447190,
         "wd:id":"Q1004555",
         "wk:page":"Tavas"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890461741,
-    "wof:lastmodified":1563361748,
+    "wof:lastmodified":1566586512,
     "wof:name":"Tavas",
     "wof:parent_id":890461955,
     "wof:placetype":"locality",

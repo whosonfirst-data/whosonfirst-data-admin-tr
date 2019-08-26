@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":38.38386,
     "lbl:longitude":43.605222,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Van",
     "mps:latitude":38.441377,
     "mps:longitude":43.660102,
@@ -258,7 +259,7 @@
         "Van"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbe\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0bb5\u0bbe\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c28\u0c4d"
@@ -287,13 +288,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d"
     ],
-    "name:und_x_preferred":[
-        "Van"
-    ],
     "name:und_x_variant":[
-        "Van"
-    ],
-    "name:unk_x_variant":[
         "Van Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -389,9 +384,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"19,069",
     "statoids:area_mi":"7,363",
     "statoids:as_of_date":"2007-12-31",
@@ -416,7 +411,7 @@
         "gp:id":2347316,
         "hasc:id":"TR.VA",
         "iso:id":"TR-65",
-        "qs:id":424132,
+        "qs_pg:id":424132,
         "unlc:id":"TR-65",
         "wd:id":"Q80550",
         "wk:page":"Van Province"
@@ -437,11 +432,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737379,
+    "wof:lastmodified":1566582978,
     "wof:name":"Van",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":979671,
     "wof:population_rank":11,

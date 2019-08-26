@@ -11,7 +11,7 @@
     "geom:longitude":27.776245,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.19911,
     "lbl:longitude":27.772919,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tekirdag",
     "meso:admin_1":"Tekirdag",
     "meso:gadm_admin":"\u00c7orlu",
@@ -41,6 +43,7 @@
     "mps:longitude":27.772919,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "\u00c7orlu"
     ],
@@ -65,9 +68,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"899",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7orlu",
@@ -89,7 +92,7 @@
         "gn:id":7732607,
         "gp:id":29390242,
         "hasc:id":"TR.TG.CO",
-        "qs:id":204475,
+        "qs_pg:id":204475,
         "wd:id":"Q2834288",
         "wk:page":"\u00c7orlu"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890463841,
-    "wof:lastmodified":1561769255,
+    "wof:lastmodified":1566586241,
     "wof:name":"\u00c7orlu",
     "wof:parent_id":85679223,
     "wof:placetype":"county",

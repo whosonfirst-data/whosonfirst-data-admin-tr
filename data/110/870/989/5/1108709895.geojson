@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.117103,
     "lbl:longitude":38.102618,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sivas",
     "meso:admin_1":"Sivas",
     "meso:gadm_admin":"Su\u015fehri",
@@ -37,6 +39,7 @@
     "mps:longitude":38.102618,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0633\u0648\u0634\u0647\u0631\u06cc"
     ],
@@ -107,9 +110,9 @@
         "\u8607\u8b1d\u8d6b\u91cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"832",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Susehri",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1108709895,
-    "wof:lastmodified":1563359770,
+    "wof:lastmodified":1566585374,
     "wof:name":"Su\u015fehri",
     "wof:parent_id":85679355,
     "wof:placetype":"county",

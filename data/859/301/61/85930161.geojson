@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3910330.324513,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.07379,40.181931,29.07379,40.181931",
     "geom:latitude":40.181931,
     "geom:longitude":29.07379,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.06879,40.176931,29.07879,40.186931",
     "lbl:latitude":40.181931,
     "lbl:longitude":29.07379,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.180972,
     "mps:longitude":29.075993,
     "mz:hierarchy_label":0,
@@ -30,10 +32,7 @@
     "name:tur_x_preferred":[
         "Ye\u015fil"
     ],
-    "name:und_x_preferred":[
-        "Yesil"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yesil"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -61,18 +60,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":29,
     "wof:belongsto":[
+        85679231,
         102191569,
         85632393,
-        890463215,
-        85679231
+        890463215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871352,
-        "qs:id":1155197
+        "qs_pg:id":1155197
     },
     "wof:country":"TR",
     "wof:geomhash":"9b92dae6951e6dcacf8dc83c3f4d2972",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939177,
+    "wof:lastmodified":1566582908,
     "wof:name":"Yesil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

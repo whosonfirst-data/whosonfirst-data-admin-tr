@@ -11,10 +11,14 @@
     "geom:longitude":40.74656,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1256,
+    "gn:population":1256,
     "iso:country":"TR",
+    "lbl:bbox":"40.72656,37.41928,40.76656,37.45928",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Aran"
     ],
@@ -72,7 +76,7 @@
     "name:tur_x_preferred":[
         "Aran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zoni"
     ],
     "qs:name":"Aran",
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":323733,
         "gp:id":2344252,
-        "qs:id":80141,
+        "qs_pg:id":80141,
         "wk:page":"Aran"
     },
     "wof:country":"TR",
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890462931,
-    "wof:lastmodified":1564162796,
+    "wof:lastmodified":1566586359,
     "wof:name":"Aran",
     "wof:parent_id":890463121,
     "wof:placetype":"locality",

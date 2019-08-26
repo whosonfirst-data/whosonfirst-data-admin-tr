@@ -10,8 +10,10 @@
     "geom:latitude":40.976044,
     "geom:longitude":27.515877,
     "iso:country":"TR",
+    "lbl:bbox":"27.510877,40.971044,27.520877,40.981044",
     "lbl:latitude":40.976044,
     "lbl:longitude":27.515877,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.973026,
     "mps:longitude":27.511233,
     "mz:hierarchy_label":0,
@@ -164,12 +166,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0442\u043e\u0433\u0440\u0443\u043b"
     ],
-    "name:und_x_preferred":[
-        "Ertugrul"
-    ],
-    "name:unk_x_variant":[
-        "Ertugrul"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0631\u0637\u063a\u0631\u0644"
     ],
@@ -207,9 +203,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":368,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85679223,
         102191569,
@@ -238,7 +233,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356503,
+    "wof:lastmodified":1566582929,
     "wof:name":"Ertugrul",
     "wof:parent_id":101910981,
     "wof:placetype":"neighbourhood",

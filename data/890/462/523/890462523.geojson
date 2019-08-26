@@ -11,7 +11,7 @@
     "geom:longitude":29.210241,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.902784,
     "lbl:longitude":29.209377,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Istanbul",
     "meso:admin_1":"Istanbul",
     "meso:gadm_admin":"Pendik",
@@ -41,6 +43,7 @@
     "mps:longitude":29.209377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062a\u0627\u0644"
     ],
@@ -143,7 +146,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1149,
     "wof:belongsto":[
@@ -156,7 +159,7 @@
         "gn:id":7732506,
         "gp:id":29390475,
         "hasc:id":"TR.IB.PE",
-        "qs:id":1099725,
+        "qs_pg:id":1099725,
         "wd:id":"Q639014",
         "wk:page":"Kartal"
     },
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":890462523,
-    "wof:lastmodified":1563361480,
+    "wof:lastmodified":1566586418,
     "wof:name":"Kartal",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

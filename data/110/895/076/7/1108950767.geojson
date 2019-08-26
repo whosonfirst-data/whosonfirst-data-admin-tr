@@ -10,8 +10,10 @@
     "geom:latitude":41.025451,
     "geom:longitude":28.853051,
     "iso:country":"TR",
+    "lbl:bbox":"28.848050986,41.0204511463,28.858050986,41.0304511463",
     "lbl:latitude":41.025451,
     "lbl:longitude":28.853051,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Y\u0131ld\u0131ztepe"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950767,
-    "wof:lastmodified":1563359557,
+    "wof:lastmodified":1566585280,
     "wof:name":"Yildiztepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

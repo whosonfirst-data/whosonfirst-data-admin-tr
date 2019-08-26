@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"43.47852,39.66245,43.51852,39.70245",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Aras"
     ],
@@ -67,10 +71,6 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0430\u0441"
     ],
-    "name:und_x_variant":[
-        "Araz",
-        "Aras"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -94,7 +94,7 @@
         }
     ],
     "wof:id":1209820371,
-    "wof:lastmodified":1564160407,
+    "wof:lastmodified":1566584515,
     "wof:name":"Aras",
     "wof:parent_id":890460623,
     "wof:placetype":"locality",

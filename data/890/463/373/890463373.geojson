@@ -11,11 +11,15 @@
     "geom:longitude":35.89033,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.87033,36.39306,35.91033,36.43306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0633\u0648\u0632"
     ],
@@ -49,7 +53,7 @@
     "name:tur_x_preferred":[
         "Arsuz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kapevli"
     ],
     "name:urd_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":298435,
         "gp:id":2344467,
-        "qs:id":1056081,
+        "qs_pg:id":1056081,
         "wd:id":"Q705180"
     },
     "wof:country":"TR",
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890463373,
-    "wof:lastmodified":1563361104,
+    "wof:lastmodified":1566586261,
     "wof:name":"Ulu\u00e7\u0131nar",
     "wof:parent_id":890464451,
     "wof:placetype":"locality",

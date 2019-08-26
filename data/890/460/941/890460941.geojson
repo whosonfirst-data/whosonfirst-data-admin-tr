@@ -11,10 +11,14 @@
     "geom:longitude":40.19855,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2123,
+    "gn:population":2123,
     "iso:country":"TR",
+    "lbl:bbox":"40.17855,36.93081,40.21855,36.97081",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0425\u0430\u043d"
     ],
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":312699,
         "gp:id":2344204,
-        "qs:id":547473,
+        "qs_pg:id":547473,
         "wk:page":"Han"
     },
     "wof:country":"TR",
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":890460941,
-    "wof:lastmodified":1564162858,
+    "wof:lastmodified":1566586445,
     "wof:name":"Han",
     "wof:parent_id":1108709413,
     "wof:placetype":"locality",

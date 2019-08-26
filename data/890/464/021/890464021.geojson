@@ -11,8 +11,11 @@
     "geom:longitude":41.13221,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":302074,
+    "gn:population":302074,
     "iso:country":"TR",
+    "lbl:bbox":"41.11221,37.86738,41.15221,37.90738",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -331,7 +334,7 @@
     "name:ukr_x_variant":[
         "\u0411\u0435\u0442\u043c\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iluh"
     ],
     "name:urd_x_preferred":[
@@ -478,10 +481,12 @@
     "wof:concordances":{
         "gn:id":321836,
         "gp:id":2343786,
-        "qs:id":205725,
         "qs_pg:id":190068,
         "wd:id":"Q2695156",
         "wk:page":"Batman"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":205725
     },
     "wof:country":"TR",
     "wof:created":1469053452,
@@ -496,7 +501,7 @@
         }
     ],
     "wof:id":890464021,
-    "wof:lastmodified":1563361237,
+    "wof:lastmodified":1566586311,
     "wof:name":"Batman",
     "wof:parent_id":1108709725,
     "wof:placetype":"locality",

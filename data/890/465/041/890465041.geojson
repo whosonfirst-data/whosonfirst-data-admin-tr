@@ -11,14 +11,18 @@
     "geom:longitude":40.90443,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":21,
+    "gn:population":21,
     "iso:country":"TR",
+    "lbl:bbox":"40.88443,37.34031,40.92443,37.38031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "\u00d6zta\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kharabekevir"
     ],
     "qs:name":"Hirbekevir",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":302951,
-        "qs:id":547326
+        "qs_pg:id":547326
     },
     "wof:country":"TR",
     "wof:created":1469053497,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890465041,
-    "wof:lastmodified":1505343701,
+    "wof:lastmodified":1566586330,
     "wof:name":"Hirbekevir",
     "wof:parent_id":1108710073,
     "wof:placetype":"locality",

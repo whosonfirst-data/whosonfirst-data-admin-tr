@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":38.548927,
     "lbl:longitude":26.480815,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Karaburun",
@@ -38,6 +40,7 @@
     "mps:longitude":26.480815,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Karaburun \u0130l\u00e7esi"
     ],
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"484",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Karaburun",
@@ -139,7 +142,7 @@
     "wof:concordances":{
         "gp:id":29390456,
         "hasc:id":"TR.IZ.KB",
-        "qs:id":1324130,
+        "qs_pg:id":1324130,
         "wd:id":"Q743314",
         "wk:page":"Karaburun"
     },
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":890461015,
-    "wof:lastmodified":1563361684,
+    "wof:lastmodified":1566586490,
     "wof:name":"Karaburun",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

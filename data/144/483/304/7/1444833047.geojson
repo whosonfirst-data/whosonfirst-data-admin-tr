@@ -10,8 +10,10 @@
     "geom:latitude":40.894505,
     "geom:longitude":29.241135,
     "iso:country":"TR",
+    "lbl:bbox":"29.2361354232,40.889505493,29.2461354232,40.899505493",
     "lbl:latitude":40.894505,
     "lbl:longitude":29.241135,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461937,
-        85679237
+        890461937
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833047,
-    "wof:lastmodified":1566339861,
+    "wof:lastmodified":1566584846,
     "wof:name":"Cinardere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

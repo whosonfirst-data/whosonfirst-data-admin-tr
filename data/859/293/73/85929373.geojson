@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":40.999092,
     "lbl:longitude":28.932448,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.995899,
     "mps:longitude":28.937144,
     "mz:hierarchy_label":1,
@@ -26,10 +27,7 @@
     "mz:note":"???",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Haci H\u00fcseyin Aga"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haci H\u00fcseyin Aga"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -58,7 +56,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85679237,
@@ -68,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55864998,
-        "qs:id":991409
+        "qs_pg:id":991409
     },
     "wof:country":"TR",
     "wof:geomhash":"8bc7301d0858cdfb40d71fd6e423a6bd",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566582924,
     "wof:name":"Haci H\u00fcseyin Aga",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":32.031325,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3595,
+    "gn:population":3595,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.574505,
     "lbl:longitude":32.028644,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bolu",
     "meso:admin_1":"Bolu",
     "meso:gadm_admin":"D\u00f6rtdivan",
@@ -41,6 +43,7 @@
     "mps:longitude":32.028644,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "D\u00f6rtdivan \u0130l\u00e7esi"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "D\u00f6rtdivan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7avu\u015flar"
     ],
     "name:urd_x_preferred":[
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"384",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"D\u00f6rtdivan",
@@ -137,7 +140,7 @@
         "gn:id":747899,
         "gp:id":29390284,
         "hasc:id":"TR.BL.DO",
-        "qs:id":342338,
+        "qs_pg:id":342338,
         "wd:id":"Q2143455",
         "wk:page":"D\u00f6rtdivan"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":890461653,
-    "wof:lastmodified":1563361805,
+    "wof:lastmodified":1566586533,
     "wof:name":"D\u00f6rtdivan",
     "wof:parent_id":85679249,
     "wof:placetype":"county",

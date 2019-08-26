@@ -11,14 +11,18 @@
     "geom:longitude":38.67333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":110,
+    "gn:population":110,
     "iso:country":"TR",
+    "lbl:bbox":"38.65333,36.94389,38.69333,36.98389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Orta Hemedan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Orta-Khemedan"
     ],
     "qs:name":"Ortahemedan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":303333,
         "gp:id":2344354,
-        "qs:id":547347
+        "qs_pg:id":547347
     },
     "wof:country":"TR",
     "wof:created":1469053471,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890464409,
-    "wof:lastmodified":1505343697,
+    "wof:lastmodified":1566586286,
     "wof:name":"Ortahemedan",
     "wof:parent_id":890461365,
     "wof:placetype":"locality",

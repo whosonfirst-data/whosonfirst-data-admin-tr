@@ -11,11 +11,15 @@
     "geom:longitude":39.8925,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":1875,
+    "gn:population":1875,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.8725,40.14361,39.9125,40.18361",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Demir\u00f6z\u00fc \u0130l\u00e7esi"
     ],
@@ -58,7 +62,7 @@
     "name:tur_x_preferred":[
         "Demir\u00f6z\u00fc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pulur"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":748383,
         "gp:id":2316921,
-        "qs:id":1310351,
+        "qs_pg:id":1310351,
         "wd:id":"Q1185714",
         "wk:page":"Demir\u00f6z\u00fc"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890460425,
-    "wof:lastmodified":1563361513,
+    "wof:lastmodified":1566586431,
     "wof:name":"Demir\u00f6z\u00fc",
     "wof:parent_id":1108709431,
     "wof:placetype":"locality",

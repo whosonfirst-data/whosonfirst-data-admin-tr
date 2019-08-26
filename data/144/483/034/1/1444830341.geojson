@@ -10,8 +10,10 @@
     "geom:latitude":41.198864,
     "geom:longitude":28.336544,
     "iso:country":"TR",
+    "lbl:bbox":"28.3315444848,41.1938641881,28.3415444848,41.2038641881",
     "lbl:latitude":41.198864,
     "lbl:longitude":28.336544,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462765,
-        85679237
+        890462765
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444830341,
-    "wof:lastmodified":1566339540,
+    "wof:lastmodified":1566584859,
     "wof:name":"Akoren",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

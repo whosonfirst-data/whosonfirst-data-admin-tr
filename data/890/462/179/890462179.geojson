@@ -11,11 +11,14 @@
     "geom:longitude":30.45647,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.45147,41.06236,30.46147,41.07236",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:tur_x_preferred":[
         "Ye\u015filova"
     ],
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":8281833,
         "gp:id":56042836,
-        "qs:id":1002260
+        "qs_pg:id":1002260
     },
     "wof:country":"TR",
     "wof:created":1469053380,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890462179,
-    "wof:lastmodified":1505343688,
+    "wof:lastmodified":1566586415,
     "wof:name":"Yesilova",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

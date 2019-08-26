@@ -11,11 +11,14 @@
     "geom:longitude":27.15,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.145,38.395,27.155,38.405",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Kadifekale"
     ],
@@ -49,7 +52,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0434\u0456\u0444\u0435\u043a\u0430\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kad\u0131 Kale"
     ],
     "qs:name":"Kadifekale",
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":310948,
         "gp:id":2343593,
-        "qs:id":1019069,
+        "qs_pg:id":1019069,
         "wd:id":"Q4810717",
         "wk:page":"Kadifekale"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890462271,
-    "wof:lastmodified":1563361440,
+    "wof:lastmodified":1566586401,
     "wof:name":"Kadifekale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":31.984482,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":7919,
+    "gn:population":7919,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.970246,
     "lbl:longitude":31.99457,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Konya",
     "meso:admin_1":"Konya",
     "meso:gadm_admin":"Derbent",
@@ -41,6 +43,7 @@
     "mps:longitude":31.99457,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Derbent"
     ],
@@ -70,9 +73,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"333",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Derbent",
@@ -96,7 +99,7 @@
         "gn:id":317095,
         "gp:id":29390259,
         "hasc:id":"TR.KO.DB",
-        "qs:id":207360,
+        "qs_pg:id":207360,
         "wd:id":"Q4317326",
         "wk:page":"Derbent"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890464117,
-    "wof:lastmodified":1561769263,
+    "wof:lastmodified":1566586297,
     "wof:name":"Derbent",
     "wof:parent_id":85679425,
     "wof:placetype":"county",

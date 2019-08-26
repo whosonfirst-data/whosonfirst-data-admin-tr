@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":36.790676,
     "lbl:longitude":34.12438,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Erdemli",
@@ -38,6 +40,7 @@
     "mps:longitude":34.12438,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0631\u062f\u064a\u0645\u0644\u064a"
     ],
@@ -134,9 +137,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2039",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Erdemli",
@@ -157,7 +160,7 @@
     "wof:concordances":{
         "gp:id":29390309,
         "hasc:id":"TR.IC.ER",
-        "qs:id":899978,
+        "qs_pg:id":899978,
         "wd:id":"Q988315",
         "wk:page":"Erdemli"
     },
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":890460375,
-    "wof:lastmodified":1563361658,
+    "wof:lastmodified":1566586478,
     "wof:name":"Erdemli",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

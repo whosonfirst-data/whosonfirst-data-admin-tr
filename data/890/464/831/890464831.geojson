@@ -11,10 +11,14 @@
     "geom:longitude":42.13889,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":574,
+    "gn:population":574,
     "iso:country":"TR",
+    "lbl:bbox":"42.11889,37.28694,42.15889,37.32694",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Ye\u015filyurt"
     ],
@@ -96,9 +100,6 @@
     "name:tur_x_preferred":[
         "Ye\u015filyurt"
     ],
-    "name:unk_x_variant":[
-        "Cinibir"
-    ],
     "name:vie_x_preferred":[
         "Ye\u015filyurt"
     ],
@@ -123,7 +124,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":296793,
-        "qs:id":547187,
+        "qs_pg:id":547187,
         "wd:id":"Q3672027",
         "wk:page":"Ye\u015filyurt"
     },
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":890464831,
-    "wof:lastmodified":1563361240,
+    "wof:lastmodified":1566586313,
     "wof:name":"Ye\u015filyurt",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

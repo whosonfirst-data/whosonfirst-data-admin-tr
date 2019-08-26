@@ -10,8 +10,10 @@
     "geom:latitude":41.041103,
     "geom:longitude":29.260934,
     "iso:country":"TR",
+    "lbl:bbox":"29.255933712,41.0361031404,29.265933712,41.0461031404",
     "lbl:latitude":41.041103,
     "lbl:longitude":29.260934,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108710051,
-        85679237
+        1108710051
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832161,
-    "wof:lastmodified":1566339753,
+    "wof:lastmodified":1566584828,
     "wof:name":"Nisantepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

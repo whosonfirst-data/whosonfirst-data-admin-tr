@@ -11,11 +11,15 @@
     "geom:longitude":33.86023,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.84023,36.30488,33.88023,36.34488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ta\u015fucu"
     ],
@@ -43,7 +47,7 @@
     "name:tur_x_preferred":[
         "Ta\u015fucu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bolcal\u0131"
     ],
     "name:vie_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":299643,
         "gp:id":2344428,
-        "qs:id":221744,
+        "qs_pg:id":221744,
         "wd:id":"Q287715",
         "wk:page":"Ta\u015fucu"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890464363,
-    "wof:lastmodified":1561769260,
+    "wof:lastmodified":1566586274,
     "wof:name":"Ta\u015fucu",
     "wof:parent_id":890464483,
     "wof:placetype":"locality",

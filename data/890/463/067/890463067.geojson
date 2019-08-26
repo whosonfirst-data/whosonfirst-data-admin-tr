@@ -11,11 +11,15 @@
     "geom:longitude":40.6,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"40.58,41.01801,40.62,41.05801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Hamidiye"
     ],
@@ -94,9 +98,6 @@
     "name:tur_x_preferred":[
         "Hamidiye"
     ],
-    "name:unk_x_variant":[
-        "Hamidiye"
-    ],
     "name:vie_x_preferred":[
         "Hamidiye"
     ],
@@ -124,7 +125,7 @@
     "wof:concordances":{
         "gn:id":746377,
         "gp:id":2321455,
-        "qs:id":491049,
+        "qs_pg:id":491049,
         "wd:id":"Q6672719",
         "wk:page":"G\u00fcndo\u011fdu"
     },
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":890463067,
-    "wof:lastmodified":1563361094,
+    "wof:lastmodified":1566586257,
     "wof:name":"G\u00fcndo\u011fdu",
     "wof:parent_id":1108709745,
     "wof:placetype":"locality",

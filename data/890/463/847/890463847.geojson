@@ -11,7 +11,7 @@
     "geom:longitude":27.148325,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":38.315654,
     "lbl:longitude":27.159953,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Gaziemir",
@@ -44,6 +46,7 @@
     "mps:longitude":27.159953,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gaziemir"
     ],
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"63",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -143,7 +146,7 @@
         "gn:id":7732720,
         "gp:id":29390337,
         "hasc:id":"TR.IZ.GA",
-        "qs:id":204482,
+        "qs_pg:id":204482,
         "wd:id":"Q1496685",
         "wk:page":"Gaziemir"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890463847,
-    "wof:lastmodified":1563361068,
+    "wof:lastmodified":1566586247,
     "wof:name":"Gaziemir",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

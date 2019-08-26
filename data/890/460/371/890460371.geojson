@@ -11,7 +11,7 @@
     "geom:longitude":32.96208,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4425,
+    "gn:population":4425,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.432738,
     "lbl:longitude":32.958541,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Karabuk",
     "meso:admin_1":"Karab\u00fck",
     "meso:gadm_admin":"Eflani",
@@ -41,6 +43,7 @@
     "mps:longitude":32.958541,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Eflani \u0130l\u00e7esi"
     ],
@@ -83,9 +86,6 @@
     "name:tur_x_variant":[
         "Eflani"
     ],
-    "name:unk_x_variant":[
-        "\u00c7elebiler"
-    ],
     "name:urd_x_preferred":[
         "\u0639\u0641\u0644\u0627\u0646\u06cc"
     ],
@@ -108,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"587",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Eflani",
@@ -132,7 +132,7 @@
         "gn:id":747705,
         "gp:id":29390296,
         "hasc:id":"TR.KB.EF",
-        "qs:id":890531,
+        "qs_pg:id":890531,
         "wd:id":"Q1296393",
         "wk:page":"Eflani"
     },
@@ -148,7 +148,7 @@
         }
     ],
     "wof:id":890460371,
-    "wof:lastmodified":1563361565,
+    "wof:lastmodified":1566586448,
     "wof:name":"Eflani",
     "wof:parent_id":85679537,
     "wof:placetype":"county",

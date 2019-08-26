@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.324303,
     "lbl:longitude":36.549204,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tokat",
     "meso:admin_1":"Tokat",
     "meso:gadm_admin":"Merkez",
@@ -41,6 +43,7 @@
     "mps:longitude":36.549204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Merkez"
     ],
@@ -59,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1923",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tokat",
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gp:id":29390596,
         "hasc:id":"TR.TT.TT",
-        "qs:id":988672,
+        "qs_pg:id":988672,
         "wk:page":"Merkez"
     },
     "wof:country":"TR",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890463149,
-    "wof:lastmodified":1561070598,
+    "wof:lastmodified":1566586265,
     "wof:name":"Merkez",
     "wof:parent_id":85679363,
     "wof:placetype":"county",

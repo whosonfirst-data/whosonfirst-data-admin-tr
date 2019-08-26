@@ -11,11 +11,15 @@
     "geom:longitude":37.84472,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":921,
+    "gn:population":921,
     "iso:country":"TR",
+    "lbl:bbox":"37.82472,36.89278,37.86472,36.93278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "G\u00fcvenlice"
     ],
     "qs:name":"Gevence",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":314554,
-        "qs:id":547526
+        "qs_pg:id":547526
     },
     "wof:country":"TR",
     "wof:created":1469053309,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460269,
-    "wof:lastmodified":1505343681,
+    "wof:lastmodified":1566586441,
     "wof:name":"Gevence",
     "wof:parent_id":890461691,
     "wof:placetype":"locality",

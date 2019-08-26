@@ -11,10 +11,14 @@
     "geom:longitude":38.48086,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":96,
+    "gn:population":96,
     "iso:country":"TR",
+    "lbl:bbox":"38.46086,36.95441,38.50086,36.99441",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Boztepe"
     ],
@@ -30,7 +34,7 @@
     "name:tur_x_preferred":[
         "Boztepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koktepe"
     ],
     "qs:name":"Boztepe",
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":320568,
-        "qs:id":80125,
+        "qs_pg:id":80125,
         "wk:page":"Boztepe"
     },
     "wof:country":"TR",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890464733,
-    "wof:lastmodified":1564162733,
+    "wof:lastmodified":1566586298,
     "wof:name":"Boztepe",
     "wof:parent_id":890460731,
     "wof:placetype":"locality",

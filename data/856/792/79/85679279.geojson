@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":37.967912,
     "lbl:longitude":31.012059,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Isparta",
     "mps:latitude":37.937077,
     "mps:longitude":31.005337,
@@ -247,7 +248,7 @@
         "Isparta"
     ],
     "name:tam_x_preferred":[
-        "\u0b87\u0bb8\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b87\u0bb8\u0bcd\u0baa\u0bbe\u0bb0\u0bcd\u0b9f\u0bcd\u0b9f\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c07\u0c38\u0c4d\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -276,13 +277,7 @@
     "name:ukr_x_preferred":[
         "\u0418\u0441\u043f\u0430\u0440\u0442\u0430"
     ],
-    "name:und_x_preferred":[
-        "Isparta"
-    ],
     "name:und_x_variant":[
-        "Isparta"
-    ],
-    "name:unk_x_variant":[
         "Hamitabat"
     ],
     "name:urd_x_preferred":[
@@ -381,9 +376,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"8,933",
     "statoids:area_mi":"3,449",
     "statoids:as_of_date":"2007-12-31",
@@ -409,7 +404,7 @@
         "gp:id":2347288,
         "hasc:id":"TR.IP",
         "iso:id":"TR-32",
-        "qs:id":1135399,
+        "qs_pg:id":1135399,
         "unlc:id":"TR-32",
         "wd:id":"Q268043",
         "wk:page":"Isparta Province"
@@ -430,11 +425,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737382,
+    "wof:lastmodified":1566582989,
     "wof:name":"Isparta",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":419845,
     "wof:population_rank":10,

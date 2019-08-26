@@ -11,7 +11,7 @@
     "geom:longitude":39.382032,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":8090,
+    "gn:population":8090,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.844864,
     "lbl:longitude":39.376354,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Trabzon",
     "meso:admin_1":"Trabzon",
     "meso:gadm_admin":"D\u00fczk\u00f6y",
@@ -41,6 +43,7 @@
     "mps:longitude":39.376354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0632\u0643\u0648\u064a"
     ],
@@ -105,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"88",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"D\u00fczk\u00f6y",
@@ -129,7 +132,7 @@
         "gn:id":747751,
         "gp:id":29390290,
         "hasc:id":"TR.TB.DU",
-        "qs:id":279792,
+        "qs_pg:id":279792,
         "wd:id":"Q2670825",
         "wk:page":"D\u00fczk\u00f6y"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":890463439,
-    "wof:lastmodified":1563360986,
+    "wof:lastmodified":1566586218,
     "wof:name":"D\u00fczk\u00f6y",
     "wof:parent_id":85679383,
     "wof:placetype":"county",

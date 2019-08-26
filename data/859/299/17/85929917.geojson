@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":40.990134,
     "lbl:longitude":28.79651,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.992501,
     "mps:longitude":28.804917,
     "mz:hierarchy_label":1,
@@ -103,10 +104,7 @@
     "name:tur_x_preferred":[
         "Be\u015fyol"
     ],
-    "name:und_x_preferred":[
-        "Besyol"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Besyol"
     ],
     "name:vie_x_preferred":[
@@ -154,7 +152,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870934,
-        "qs:id":473481,
+        "qs_pg:id":473481,
         "wd:id":"Q6074355"
     },
     "wof:country":"TR",
@@ -173,7 +171,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566582945,
     "wof:name":"Besyol",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

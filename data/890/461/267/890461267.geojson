@@ -11,7 +11,7 @@
     "geom:longitude":29.133202,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":41.017335,
     "lbl:longitude":29.132365,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Istanbul",
     "meso:admin_1":"Istanbul",
     "meso:gadm_admin":"\u00dcmraniye",
@@ -44,6 +46,7 @@
     "mps:longitude":29.132365,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0639\u0645\u0631\u0627\u0646\u064a\u0629"
     ],
@@ -146,9 +149,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"110",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -170,7 +173,7 @@
         "gn:id":7732588,
         "gp:id":29390841,
         "hasc:id":"TR.IB.UM",
-        "qs:id":374480,
+        "qs_pg:id":374480,
         "wd:id":"Q334924",
         "wk:page":"\u00dcmraniye"
     },
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890461267,
-    "wof:lastmodified":1563361715,
+    "wof:lastmodified":1566586501,
     "wof:name":"\u00dcmraniye",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

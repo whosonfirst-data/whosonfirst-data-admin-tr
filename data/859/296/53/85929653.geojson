@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1486037.471007,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.137332,38.43269,27.137332,38.43269",
     "geom:latitude":38.43269,
     "geom:longitude":27.137332,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"27.132332,38.42769,27.142332,38.43769",
     "lbl:latitude":38.43269,
     "lbl:longitude":27.137332,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.435546,
     "mps:longitude":27.13358,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
     "name:eng_x_colloquial":[
         "Kultur"
     ],
-    "name:und_x_preferred":[
-        "K\u00fclt\u00fcr"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00fclt\u00fcr"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -60,18 +59,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890464249,
-        85679201
+        890464249
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865553,
-        "qs:id":243321
+        "qs_pg:id":243321
     },
     "wof:country":"TR",
     "wof:geomhash":"d866d113c8e0aba7c28c08f9acec938f",
@@ -89,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939150,
+    "wof:lastmodified":1566582941,
     "wof:name":"K\u00fclt\u00fcr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

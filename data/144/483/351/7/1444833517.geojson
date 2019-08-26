@@ -10,8 +10,10 @@
     "geom:latitude":40.949437,
     "geom:longitude":29.401696,
     "iso:country":"TR",
+    "lbl:bbox":"29.3966961119,40.9444367426,29.4066961119,40.9544367426",
     "lbl:latitude":40.949437,
     "lbl:longitude":29.401696,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709941,
-        85679237
+        1108709941
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833517,
-    "wof:lastmodified":1566339917,
+    "wof:lastmodified":1566584848,
     "wof:name":"Istanbul Park",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

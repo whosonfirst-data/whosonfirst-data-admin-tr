@@ -9,15 +9,18 @@
     "geom:bbox":"33.6153,40.59995,33.6153,40.59995",
     "geom:latitude":40.59995,
     "geom:longitude":33.6153,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLA",
-    "gn:gn_pop":71379,
+    "gn:country":"TR",
+    "gn:fcode":"PPLA",
     "gn:population":71379,
     "iso:country":"TR",
+    "lbl:bbox":"33.5953,40.57995,33.6353,40.61995",
     "lbl:latitude":40.59995,
     "lbl:longitude":33.6153,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:deu_x_preferred":[
         "\u00c7ank\u0131r\u0131"
@@ -40,7 +43,7 @@
     "name:tur_x_preferred":[
         "\u00c7ank\u0131r\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Changri"
     ],
     "qs_pg:aaroncc":"TR",
@@ -55,7 +58,7 @@
     "qs_pg:qs_id":273828,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1125856115,
-    "wof:lastmodified":1509396227,
+    "wof:lastmodified":1566586598,
     "wof:name":"Khanjarah",
     "wof:parent_id":1108709731,
     "wof:placetype":"locality",

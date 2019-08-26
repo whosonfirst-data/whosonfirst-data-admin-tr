@@ -11,10 +11,14 @@
     "geom:longitude":41.53944,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":342,
+    "gn:population":342,
     "iso:country":"TR",
+    "lbl:bbox":"41.51944,37.55944,41.55944,37.59944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Ula\u015f"
     ],
@@ -27,7 +31,7 @@
     "name:tur_x_preferred":[
         "Ula\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zili"
     ],
     "name:vie_x_preferred":[
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298473,
-        "qs:id":56080,
+        "qs_pg:id":56080,
         "wd:id":"Q7878777",
         "wk:page":"Ula\u015f"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890462647,
-    "wof:lastmodified":1561769278,
+    "wof:lastmodified":1566586399,
     "wof:name":"Ula\u015f",
     "wof:parent_id":1108709515,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":27.56811,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":12947,
+    "gn:population":12947,
     "iso:country":"TR",
+    "lbl:bbox":"27.54811,38.71455,27.58811,38.75455",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0631\u0648\u062e\u0627\u0646\u0644\u06cc"
     ],
@@ -63,7 +67,7 @@
     "name:tur_x_preferred":[
         "Saruhanl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sar\u0131hanl\u0131"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":301492,
         "gp:id":2344373,
-        "qs:id":204286,
+        "qs_pg:id":204286,
         "wd:id":"Q2025884",
         "wk:page":"Saruhanl\u0131"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890459589,
-    "wof:lastmodified":1563361885,
+    "wof:lastmodified":1566586570,
     "wof:name":"Saruhanl\u0131",
     "wof:parent_id":1108709861,
     "wof:placetype":"locality",

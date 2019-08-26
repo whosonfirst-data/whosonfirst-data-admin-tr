@@ -11,7 +11,7 @@
     "geom:longitude":36.254515,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":19253,
+    "gn:population":19253,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.798156,
     "lbl:longitude":36.254532,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amasya",
     "meso:admin_1":"Amasya",
     "meso:gadm_admin":"Ta\u015fova",
@@ -41,6 +43,7 @@
     "mps:longitude":36.254532,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Ta\u015fova"
     ],
@@ -98,7 +101,7 @@
     "name:tur_x_preferred":[
         "Ta\u015fova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yemi\u015fenb\u00fck\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -123,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1052",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tasova",
@@ -147,7 +150,7 @@
         "gn:id":739015,
         "gp:id":29390795,
         "hasc:id":"TR.AM.TA",
-        "qs:id":129150,
+        "qs_pg:id":129150,
         "wd:id":"Q225506",
         "wk:page":"Ta\u015fova"
     },
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":890461583,
-    "wof:lastmodified":1563361833,
+    "wof:lastmodified":1566586541,
     "wof:name":"Ta\u015fova",
     "wof:parent_id":85679335,
     "wof:placetype":"county",

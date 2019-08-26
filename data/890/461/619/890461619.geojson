@@ -11,7 +11,7 @@
     "geom:longitude":31.921417,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":38769,
+    "gn:population":38769,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.144813,
     "lbl:longitude":31.921374,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ankara",
     "meso:admin_1":"Ankara",
     "meso:gadm_admin":"Beypazar\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":31.921374,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Beypazari"
     ],
@@ -68,7 +71,7 @@
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0628\u06cc\u067e\u0632\u0627\u0631\u06cc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Petobriga"
     ],
     "name:urd_x_preferred":[
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1814",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Beypazari",
@@ -119,7 +122,7 @@
         "gn:id":750637,
         "gp:id":29390155,
         "hasc:id":"TR.AN.BE",
-        "qs:id":129229,
+        "qs_pg:id":129229,
         "wd:id":"Q2196741",
         "wk:page":"Beypazar\u0131, Ankara"
     },
@@ -135,7 +138,7 @@
         }
     ],
     "wof:id":890461619,
-    "wof:lastmodified":1561769292,
+    "wof:lastmodified":1566586492,
     "wof:name":"Beypazar\u0131",
     "wof:parent_id":85679409,
     "wof:placetype":"county",

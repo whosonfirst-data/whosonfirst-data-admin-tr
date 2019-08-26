@@ -11,10 +11,14 @@
     "geom:longitude":38.63556,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":500,
+    "gn:population":500,
     "iso:country":"TR",
+    "lbl:bbox":"38.61556,36.84278,38.65556,36.88278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "U\u011furta\u015f"
     ],
@@ -36,7 +40,7 @@
     "name:tur_x_preferred":[
         "U\u011furta\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kubik"
     ],
     "name:vie_x_preferred":[
@@ -56,7 +60,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298487,
-        "qs:id":80005,
+        "qs_pg:id":80005,
         "wd:id":"Q6543389"
     },
     "wof:country":"TR",
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890462883,
-    "wof:lastmodified":1563361430,
+    "wof:lastmodified":1566586398,
     "wof:name":"U\u011furta\u015f",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

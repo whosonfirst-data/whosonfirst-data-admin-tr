@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"31.89479,41.36618,31.93479,41.40618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":745615
     },
     "wof:country":"TR",
-    "wof:geomhash":"9c764816a0b4f4798a1aef409c719c97",
+    "wof:geomhash":"71e527716f1745b0ab70fbcaf797f193",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209431539,
-    "wof:lastmodified":1536287227,
+    "wof:lastmodified":1566584796,
     "wof:name":"Himmetoglu",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.914790000000004,
+    31.91479,
     41.38618,
-    31.914790000000004,
+    31.91479,
     41.38618
 ],
   "geometry": {"coordinates":[31.91479,41.38618],"type":"Point"}

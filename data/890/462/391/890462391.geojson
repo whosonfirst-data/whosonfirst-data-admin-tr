@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.387072,
     "lbl:longitude":27.05654,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Bal\u00e7ova",
@@ -41,6 +43,7 @@
     "mps:longitude":27.05654,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Bal\u00e7ova"
     ],
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"21",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gp:id":29390126,
         "hasc:id":"TR.IZ.BA",
-        "qs:id":1071243,
+        "qs_pg:id":1071243,
         "wd:id":"Q2636596",
         "wk:page":"Bal\u00e7ova"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890462391,
-    "wof:lastmodified":1563361329,
+    "wof:lastmodified":1566586359,
     "wof:name":"Bal\u00e7ova",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.795523,
     "lbl:longitude":34.90663,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Corum",
     "meso:admin_1":"\u00c7orum",
     "meso:gadm_admin":"La\u00e7in",
@@ -37,6 +39,7 @@
     "mps:longitude":34.90663,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "La\u00e7in \u0130l\u00e7esi"
     ],
@@ -83,9 +86,9 @@
         "La\u00e7in"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"262",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"La\u00e7in",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1108709699,
-    "wof:lastmodified":1563359747,
+    "wof:lastmodified":1566585364,
     "wof:name":"La\u00e7in",
     "wof:parent_id":85679339,
     "wof:placetype":"county",

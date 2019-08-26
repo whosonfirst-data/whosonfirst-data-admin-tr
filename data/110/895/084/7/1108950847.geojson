@@ -10,8 +10,10 @@
     "geom:latitude":41.040174,
     "geom:longitude":28.682382,
     "iso:country":"TR",
+    "lbl:bbox":"28.6773815048,41.0351738428,28.6873815048,41.0451738428",
     "lbl:latitude":41.040174,
     "lbl:longitude":28.682382,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:tur_x_preferred":[
         "Yenikent"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108950847,
-    "wof:lastmodified":1564161415,
+    "wof:lastmodified":1566585275,
     "wof:name":"Yenikent",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

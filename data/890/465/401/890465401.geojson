@@ -11,11 +11,15 @@
     "geom:longitude":43.10083,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":916,
+    "gn:population":916,
     "iso:country":"TR",
+    "lbl:bbox":"43.08083,37.37167,43.12083,37.41167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Hedri\u015f"
     ],
     "qs:name":"Da\u011fdibi",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":317765,
-        "qs:id":547593
+        "qs_pg:id":547593
     },
     "wof:country":"TR",
     "wof:created":1469053518,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465401,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586333,
     "wof:name":"Da\u011fdibi",
     "wof:parent_id":890462089,
     "wof:placetype":"locality",

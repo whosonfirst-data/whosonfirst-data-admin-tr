@@ -11,11 +11,15 @@
     "geom:longitude":26.6885,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":36470,
+    "gn:population":36470,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.6685,41.24598,26.7085,41.28598",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0632\u0648\u0646 \u06a9\u0648\u067e\u0631\u0648"
     ],
@@ -100,7 +104,7 @@
     "name:tur_x_preferred":[
         "Uzunk\u00f6pr\u00fc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ivanski"
     ],
     "name:urd_x_preferred":[
@@ -133,7 +137,7 @@
     "wof:concordances":{
         "gn:id":738251,
         "gp:id":2344478,
-        "qs:id":129132,
+        "qs_pg:id":129132,
         "wd:id":"Q775225",
         "wk:page":"Uzunk\u00f6pr\u00fc"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":890463315,
-    "wof:lastmodified":1563361017,
+    "wof:lastmodified":1566586229,
     "wof:name":"Uzunk\u00f6pr\u00fc",
     "wof:parent_id":1108709953,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":33.716758,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":28605,
+    "gn:population":28605,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.307682,
     "lbl:longitude":33.722492,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirsehir",
     "meso:admin_1":"Kirsehir",
     "meso:gadm_admin":"Kaman",
@@ -41,6 +43,7 @@
     "mps:longitude":33.722492,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09be\u09a8"
     ],
@@ -92,7 +95,7 @@
     "name:tur_x_preferred":[
         "Kaman"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Keman"
     ],
     "name:urd_x_preferred":[
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1253",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kaman",
@@ -143,7 +146,7 @@
         "gn:id":310641,
         "gp:id":29390451,
         "hasc:id":"TR.KH.KA",
-        "qs:id":1224809,
+        "qs_pg:id":1224809,
         "wd:id":"Q386253",
         "wk:page":"Kaman"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890461851,
-    "wof:lastmodified":1563361714,
+    "wof:lastmodified":1566586500,
     "wof:name":"Kaman",
     "wof:parent_id":85679317,
     "wof:placetype":"county",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.799584,
     "lbl:longitude":32.025651,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bolu",
     "meso:admin_1":"Bolu",
     "meso:gadm_admin":"Yeni\u00e7a\u011fa",
@@ -37,6 +39,7 @@
     "mps:longitude":32.025651,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yeni\u00e7a\u011fa"
     ],
@@ -92,9 +95,9 @@
         "Yeni\u00e7a\u011fa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"130",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Yeni\u00e7aga",
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108709997,
-    "wof:lastmodified":1563359666,
+    "wof:lastmodified":1566585333,
     "wof:name":"Yeni\u00e7a\u011fa",
     "wof:parent_id":85679249,
     "wof:placetype":"county",

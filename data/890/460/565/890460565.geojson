@@ -11,7 +11,7 @@
     "geom:longitude":27.059985,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.648558,
     "lbl:longitude":27.107327,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Menemen",
@@ -41,6 +43,7 @@
     "mps:longitude":27.107327,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Menemen"
     ],
@@ -140,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"694",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Menemen",
@@ -164,7 +167,7 @@
         "gn:id":7732727,
         "gp:id":29390564,
         "hasc:id":"TR.IZ.MN",
-        "qs:id":529780,
+        "qs_pg:id":529780,
         "wd:id":"Q2152404",
         "wk:page":"Menemen"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890460565,
-    "wof:lastmodified":1563361594,
+    "wof:lastmodified":1566586458,
     "wof:name":"Menemen",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

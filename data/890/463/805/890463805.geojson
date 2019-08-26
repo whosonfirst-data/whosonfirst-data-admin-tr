@@ -11,8 +11,11 @@
     "geom:longitude":32.14132,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":93262,
+    "gn:population":93262,
     "iso:country":"TR",
+    "lbl:bbox":"32.12132,39.55716,32.16132,39.59716",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -106,7 +109,7 @@
     "name:tur_x_preferred":[
         "Polatl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Polath"
     ],
     "name:urd_x_preferred":[
@@ -232,7 +235,7 @@
     "wof:concordances":{
         "gn:id":302525,
         "gp:id":2344330,
-        "qs:id":204358,
+        "qs_pg:id":204358,
         "wd:id":"Q945388",
         "wk:page":"Polatl\u0131"
     },
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":890463805,
-    "wof:lastmodified":1563361006,
+    "wof:lastmodified":1566586225,
     "wof:name":"Polatl\u0131",
     "wof:parent_id":1108709821,
     "wof:placetype":"locality",

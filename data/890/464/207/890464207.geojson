@@ -11,11 +11,15 @@
     "geom:longitude":29.61333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11596,
+    "gn:population":11596,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.59333,41.1554,29.63333,41.1954",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0644\u0627"
     ],
@@ -97,7 +101,7 @@
     "name:tur_x_preferred":[
         "\u015eile"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kilia"
     ],
     "name:urd_x_preferred":[
@@ -132,7 +136,7 @@
     "wof:concordances":{
         "gn:id":739636,
         "gp:id":2344386,
-        "qs:id":1284471,
+        "qs_pg:id":1284471,
         "wd:id":"Q241631",
         "wk:page":"\u015eile"
     },
@@ -149,7 +153,7 @@
         }
     ],
     "wof:id":890464207,
-    "wof:lastmodified":1563361243,
+    "wof:lastmodified":1566586313,
     "wof:name":"\u015eile",
     "wof:parent_id":890461727,
     "wof:placetype":"locality",

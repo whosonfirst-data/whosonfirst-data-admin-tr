@@ -11,11 +11,14 @@
     "geom:longitude":29.24257,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.23757,40.60514,29.24757,40.61514",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0635\u0641\u0627\u0621"
     ],
@@ -37,7 +40,7 @@
     "name:swe_x_preferred":[
         "Safa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pa\u015fak\u00f6y"
     ],
     "qs:name":"Safa",
@@ -59,7 +62,7 @@
     "wof:concordances":{
         "gn:id":740431,
         "gp:id":55871385,
-        "qs:id":1155887,
+        "qs_pg:id":1155887,
         "wk:page":"Safa"
     },
     "wof:country":"TR",
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":890462801,
-    "wof:lastmodified":1564162832,
+    "wof:lastmodified":1566586409,
     "wof:name":"Safa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,17 +11,21 @@
     "geom:longitude":37.83611,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":217,
+    "gn:population":217,
     "iso:country":"TR",
+    "lbl:bbox":"37.81611,36.92583,37.85611,36.96583",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "Kalek\u00eby"
     ],
     "name:tur_x_preferred":[
         "Kalek\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kale"
     ],
     "qs:name":"Kale K\u00f6y",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":310791,
-        "qs:id":547443
+        "qs_pg:id":547443
     },
     "wof:country":"TR",
     "wof:created":1469053276,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890459627,
-    "wof:lastmodified":1505343678,
+    "wof:lastmodified":1566586557,
     "wof:name":"Kale K\u00f6y",
     "wof:parent_id":890461691,
     "wof:placetype":"locality",

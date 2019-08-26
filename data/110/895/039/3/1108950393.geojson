@@ -10,8 +10,10 @@
     "geom:latitude":41.036755,
     "geom:longitude":28.972013,
     "iso:country":"TR",
+    "lbl:bbox":"28.9670132143,41.0317549956,28.9770132143,41.0417549956",
     "lbl:latitude":41.036755,
     "lbl:longitude":28.972013,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Sururi Mehmet Efendi"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -107,12 +109,12 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724016,
-        "qs:id":14469,
-        "qs_pg:id":237736,
+        "qs_pg:id":14469,
         "wd:id":"Q6074031"
     },
     "wof:concordances_alt":{
-        "gp:id":22724074
+        "gp:id":22724074,
+        "qs_pg:id":237736
     },
     "wof:country":"TR",
     "wof:created":1491368342,
@@ -128,7 +130,7 @@
         }
     ],
     "wof:id":1108950393,
-    "wof:lastmodified":1563359584,
+    "wof:lastmodified":1566585292,
     "wof:name":"Sururi Mehmet Efendi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

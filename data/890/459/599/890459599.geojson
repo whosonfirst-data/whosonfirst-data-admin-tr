@@ -11,10 +11,14 @@
     "geom:longitude":36.22331,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":20113,
+    "gn:population":20113,
     "iso:country":"TR",
+    "lbl:bbox":"36.20331,36.46911,36.24331,36.50911",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Belen"
     ],
@@ -240,7 +244,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bilan"
     ],
     "name:vec_x_preferred":[
@@ -282,7 +286,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":321572,
-        "qs:id":205699,
+        "qs_pg:id":205699,
         "wd:id":"Q816332",
         "wk:page":"Belen"
     },
@@ -299,7 +303,7 @@
         }
     ],
     "wof:id":890459599,
-    "wof:lastmodified":1563361890,
+    "wof:lastmodified":1566586574,
     "wof:name":"Belen",
     "wof:parent_id":1108709373,
     "wof:placetype":"locality",

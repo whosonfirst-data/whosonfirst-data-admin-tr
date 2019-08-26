@@ -11,10 +11,14 @@
     "geom:longitude":35.8175,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":96303,
+    "gn:population":96303,
     "iso:country":"TR",
+    "lbl:bbox":"35.7975,37.00472,35.8375,37.04472",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062c\u064a\u0647\u0627\u0646"
     ],
@@ -162,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0435\u0439\u0445\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hamidiye"
     ],
     "name:urd_x_preferred":[
@@ -192,7 +196,7 @@
     "wof:concordances":{
         "gn:id":318675,
         "gp:id":2343888,
-        "qs:id":205529,
+        "qs_pg:id":205529,
         "wd:id":"Q185346",
         "wk:page":"Ceyhan"
     },
@@ -209,7 +213,7 @@
         }
     ],
     "wof:id":890463999,
-    "wof:lastmodified":1563360953,
+    "wof:lastmodified":1566586207,
     "wof:name":"Ceyhan",
     "wof:parent_id":890460553,
     "wof:placetype":"locality",

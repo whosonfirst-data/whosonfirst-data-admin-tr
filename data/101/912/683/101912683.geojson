@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001409,
-    "geom:area_square_m":13141101.599833,
+    "geom:area_square_m":13141101.599831,
     "geom:bbox":"28.7921136942,41.0082426226,28.8454708321,41.0555834548",
     "geom:latitude":41.029148,
     "geom:longitude":28.824543,
     "iso:country":"TR",
     "lbl:latitude":41.0272,
     "lbl:longitude":28.824947,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.0272,
     "mps:longitude":28.824947,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u00fcn\u0259\u015fli"
     ],
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":7627108,
         "gp:id":22724153,
-        "qs:id":113415,
         "qs_pg:id":113415
     },
     "wof:country":"TR",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101912683,
-    "wof:lastmodified":1497291718,
+    "wof:lastmodified":1566586002,
     "wof:name":"Gunesli",
     "wof:parent_id":890464319,
     "wof:placetype":"locality",

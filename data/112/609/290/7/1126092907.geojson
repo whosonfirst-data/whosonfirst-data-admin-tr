@@ -9,16 +9,19 @@
     "geom:bbox":"31.99365,36.54033,31.99365,36.54033",
     "geom:latitude":36.54033,
     "geom:longitude":31.99365,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":36.54033,
     "gn:longitude":31.99365,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"31.98865,36.53533,31.99865,36.54533",
     "lbl:latitude":36.54033,
     "lbl:longitude":31.99365,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "\u00c7ar\u015f\u0131"
@@ -26,11 +29,7 @@
     "name:und_x_colloquial":[
         "Carsi"
     ],
-    "name:und_x_preferred":[
-        "\u00c7arsi"
-    ],
-    "name:unk_x_variant":[
-        "\u00c7ar\u015f\u0131",
+    "name:und_x_variant":[
         "\u00c7arsi"
     ],
     "qs_pg:aaroncc":"TR",
@@ -54,7 +53,7 @@
     "qs_pg:woe_adm0":23424969,
     "qs_pg:woe_id":55966609,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424969,
     "woe:name_adm0":"Turkey",
     "woe:name_adm1":"Antalya",
@@ -69,7 +68,6 @@
     "wof:concordances":{
         "gn:id":8069894,
         "gp:id":55966609,
-        "qs:id":221380,
         "qs_pg:id":221380,
         "wd:id":"Q8077540",
         "wk:page":"\u00c7ar\u015f\u0131"
@@ -88,7 +86,7 @@
         }
     ],
     "wof:id":1126092907,
-    "wof:lastmodified":1563361933,
+    "wof:lastmodified":1566586598,
     "wof:name":"\u00c7arsi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

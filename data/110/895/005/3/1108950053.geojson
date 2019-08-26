@@ -10,8 +10,10 @@
     "geom:latitude":41.053531,
     "geom:longitude":28.986927,
     "iso:country":"TR",
+    "lbl:bbox":"28.9819267145,41.0485311645,28.9919267145,41.0585311645",
     "lbl:latitude":41.053531,
     "lbl:longitude":28.986927,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:tur_x_preferred":[
         "Osmanbey"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108950053,
-    "wof:lastmodified":1564161458,
+    "wof:lastmodified":1566585312,
     "wof:name":"Osmanbey",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

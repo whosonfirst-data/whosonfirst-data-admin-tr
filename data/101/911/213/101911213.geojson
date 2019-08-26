@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":39.105521,
     "lbl:longitude":39.546247,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":39.105521,
     "mps:longitude":39.546247,
     "mz:hierarchy_label":1,
@@ -201,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0443\u043d\u0434\u0436\u0435\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalan"
     ],
     "name:urd_x_preferred":[
@@ -329,7 +331,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":940.0,
     "wd:latitude":39.106111,
@@ -345,10 +347,12 @@
     "wof:concordances":{
         "gn:id":298846,
         "gp:id":2344453,
-        "qs:id":204096,
-        "qs_pg:id":1134857,
+        "qs_pg:id":204096,
         "wd:id":"Q202195",
         "wk:page":"Tunceli"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134857
     },
     "wof:country":"TR",
     "wof:geomhash":"ba3e25a59cf4a1739ab8b30b4ef5e586",
@@ -362,7 +366,7 @@
         }
     ],
     "wof:id":101911213,
-    "wof:lastmodified":1563360683,
+    "wof:lastmodified":1566586013,
     "wof:name":"Tunceli",
     "wof:parent_id":890459041,
     "wof:placetype":"locality",

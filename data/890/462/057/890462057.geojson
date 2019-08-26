@@ -11,10 +11,14 @@
     "geom:longitude":42.19028,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":80992,
+    "gn:population":80992,
     "iso:country":"TR",
+    "lbl:bbox":"42.17028,37.30722,42.21028,37.34722",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u062c\u06cc\u0632\u0631\u0647"
     ],
@@ -132,7 +136,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0438\u0437\u0440\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beit Zabde"
     ],
     "name:vie_x_preferred":[
@@ -160,7 +164,7 @@
     "wof:concordances":{
         "gn:id":318253,
         "gp:id":2343899,
-        "qs:id":205483,
+        "qs_pg:id":205483,
         "wd:id":"Q821363",
         "wk:page":"Cizre"
     },
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":890462057,
-    "wof:lastmodified":1563361454,
+    "wof:lastmodified":1566586407,
     "wof:name":"Cizre",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

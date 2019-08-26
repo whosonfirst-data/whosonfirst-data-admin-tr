@@ -11,17 +11,21 @@
     "geom:longitude":37.62361,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":264,
+    "gn:population":264,
     "iso:country":"TR",
+    "lbl:bbox":"37.60361,36.78917,37.64361,36.82917",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:msa_x_preferred":[
         "K\u0131lavuz"
     ],
     "name:tur_x_preferred":[
         "K\u0131lavuz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kylavuz"
     ],
     "name:vie_x_preferred":[
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":307941,
-        "qs:id":547405,
+        "qs_pg:id":547405,
         "wk:page":"K\u0131lavuz, Bor"
     },
     "wof:country":"TR",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":890465149,
-    "wof:lastmodified":1564162794,
+    "wof:lastmodified":1566586357,
     "wof:name":"K\u0131lavuz",
     "wof:parent_id":1108709769,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":40.57833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":267,
+    "gn:population":267,
     "iso:country":"TR",
+    "lbl:bbox":"40.55833,37.51694,40.59833,37.55694",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Tarlac\u0131k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khitvan"
     ],
     "qs:name":"Tarlac\u0131k",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":299824,
         "gp:id":2313873,
-        "qs:id":80015
+        "qs_pg:id":80015
     },
     "wof:country":"TR",
     "wof:created":1469053282,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890459803,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586561,
     "wof:name":"Tarlac\u0131k",
     "wof:parent_id":1108709713,
     "wof:placetype":"locality",

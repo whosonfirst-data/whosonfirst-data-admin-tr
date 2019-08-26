@@ -11,10 +11,14 @@
     "geom:longitude":32.69417,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":35242,
+    "gn:population":35242,
     "iso:country":"TR",
+    "lbl:bbox":"32.67417,41.23083,32.71417,41.27083",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0641\u0631\u0646\u0628\u0644\u0648"
     ],
@@ -141,7 +145,7 @@
     "name:tur_x_preferred":[
         "Safranbolu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zafranboli"
     ],
     "name:urd_x_preferred":[
@@ -172,7 +176,7 @@
     "wof:concordances":{
         "gn:id":740430,
         "gp:id":2344341,
-        "qs:id":310229,
+        "qs_pg:id":310229,
         "wd:id":"Q192501",
         "wk:page":"Safranbolu"
     },
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":890460219,
-    "wof:lastmodified":1563361519,
+    "wof:lastmodified":1566586433,
     "wof:name":"Safranbolu",
     "wof:parent_id":1108709837,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":42.28028,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":418,
+    "gn:population":418,
     "iso:country":"TR",
+    "lbl:bbox":"42.26028,37.65861,42.30028,37.69861",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Memira"
     ],
     "qs:name":"G\u00f6rendoruk",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313945,
-        "qs:id":547508
+        "qs_pg:id":547508
     },
     "wof:country":"TR",
     "wof:created":1469053512,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465275,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586333,
     "wof:name":"G\u00f6rendoruk",
     "wof:parent_id":1108709493,
     "wof:placetype":"locality",

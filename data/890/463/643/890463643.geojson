@@ -11,11 +11,15 @@
     "geom:longitude":26.42097,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2921,
+    "gn:population":2921,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.40097,41.17183,26.44097,41.21183",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u041c\u0435\u0440\u0438\u0447"
     ],
@@ -67,7 +71,7 @@
     "name:tur_x_preferred":[
         "Meri\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Do\u011fanca"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":741628,
         "gp:id":2332389,
-        "qs:id":194923,
+        "qs_pg:id":194923,
         "wd:id":"Q1015330"
     },
     "wof:country":"TR",
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":890463643,
-    "wof:lastmodified":1563360959,
+    "wof:lastmodified":1566586210,
     "wof:name":"Meri\u00e7",
     "wof:parent_id":890461031,
     "wof:placetype":"locality",

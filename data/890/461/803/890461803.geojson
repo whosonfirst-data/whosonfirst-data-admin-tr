@@ -11,10 +11,14 @@
     "geom:longitude":41.20861,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":499,
+    "gn:population":499,
     "iso:country":"TR",
+    "lbl:bbox":"41.18861,37.90944,41.22861,37.94944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kayaba\u011f\u0131"
     ],
@@ -32,9 +36,6 @@
     ],
     "name:tur_x_preferred":[
         "Kayaba\u011f\u0131"
-    ],
-    "name:unk_x_variant":[
-        "Basorik"
     ],
     "name:vie_x_preferred":[
         "Kayaba\u011f\u0131"
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":308698,
         "gp:id":2343786,
-        "qs:id":547427,
+        "qs_pg:id":547427,
         "wd:id":"Q6380364"
     },
     "wof:country":"TR",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":890461803,
-    "wof:lastmodified":1563361710,
+    "wof:lastmodified":1566586499,
     "wof:name":"Kayaba\u011f\u0131",
     "wof:parent_id":1108709725,
     "wof:placetype":"locality",

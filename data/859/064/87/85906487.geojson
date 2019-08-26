@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.012395,
     "lbl:longitude":28.969427,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.011927,
     "mps:longitude":28.971496,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
-        "Taya Hatun"
-    ],
-    "name:unk_x_variant":[
         "Taya Hatun"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724019,
-        "qs:id":1118657
+        "qs_pg:id":1118657
     },
     "wof:country":"TR",
     "wof:geomhash":"7495abf50562a2aa8291711c77dfc8ba",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247576,
+    "wof:lastmodified":1566582926,
     "wof:name":"Taya Hatun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

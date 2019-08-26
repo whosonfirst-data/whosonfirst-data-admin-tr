@@ -10,8 +10,10 @@
     "geom:latitude":41.081859,
     "geom:longitude":29.139517,
     "iso:country":"TR",
+    "lbl:bbox":"29.1345167004,41.0768588105,29.1445167004,41.0868588105",
     "lbl:latitude":41.081859,
     "lbl:longitude":29.139517,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461921,
-        85679237
+        890461921
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831773,
-    "wof:lastmodified":1566339708,
+    "wof:lastmodified":1566584863,
     "wof:name":"Ciftlik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

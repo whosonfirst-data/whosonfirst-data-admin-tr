@@ -11,11 +11,15 @@
     "geom:longitude":28.22889,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.20889,36.77417,28.24889,36.81417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u062a\u0634\u0645\u064a\u0644\u0627\u0631"
     ],
@@ -37,7 +41,7 @@
     "name:tur_x_preferred":[
         "Marmaris"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00f6lenye"
     ],
     "name:vie_x_preferred":[
@@ -66,7 +70,7 @@
     "wof:concordances":{
         "gn:id":311711,
         "gp:id":2323790,
-        "qs:id":483052,
+        "qs_pg:id":483052,
         "wd:id":"Q371830",
         "wk:page":"\u0130\u00e7meler"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":890460611,
-    "wof:lastmodified":1563361525,
+    "wof:lastmodified":1566586435,
     "wof:name":"\u0130\u00e7meler",
     "wof:parent_id":890460753,
     "wof:placetype":"locality",

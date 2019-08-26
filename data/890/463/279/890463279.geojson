@@ -11,7 +11,7 @@
     "geom:longitude":35.252289,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.177093,
     "lbl:longitude":35.293335,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Yozgat",
     "meso:admin_1":"Yozgat",
     "meso:gadm_admin":"Bo\u011fazl\u0131yan",
@@ -41,6 +43,7 @@
     "mps:longitude":35.293335,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u063a\u0627\u0632\u0644\u06cc\u06cc\u0627\u0646"
     ],
@@ -129,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1638",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Bogazliyan",
@@ -156,7 +159,7 @@
         "gn:id":320946,
         "gp:id":29390163,
         "hasc:id":"TR.YZ.BO",
-        "qs:id":245114,
+        "qs_pg:id":245114,
         "wd:id":"Q1869200",
         "wk:page":"Bo\u011fazl\u0131yan"
     },
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":890463279,
-    "wof:lastmodified":1563361058,
+    "wof:lastmodified":1566586244,
     "wof:name":"Bo\u011fazl\u0131yan",
     "wof:parent_id":85679461,
     "wof:placetype":"county",

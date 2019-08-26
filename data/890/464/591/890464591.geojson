@@ -11,7 +11,7 @@
     "geom:longitude":44.471682,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":18978,
+    "gn:population":18978,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.251907,
     "lbl:longitude":44.445356,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Hakkari",
     "meso:admin_1":"Hakkari",
     "meso:gadm_admin":"\u015eemdinli",
@@ -41,6 +43,7 @@
     "mps:longitude":44.445356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0634\u0645\u062f\u064a\u0646\u0644\u064a"
     ],
@@ -122,7 +125,7 @@
     "name:tur_x_preferred":[
         "\u015eemdinli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nav\u015far"
     ],
     "name:urd_x_preferred":[
@@ -149,9 +152,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1661",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Semdinli",
@@ -173,7 +176,7 @@
         "gn:id":301209,
         "gp:id":29390940,
         "hasc:id":"TR.HK.SE",
-        "qs:id":245457,
+        "qs_pg:id":245457,
         "wd:id":"Q388797",
         "wk:page":"\u015eemdinli"
     },
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":890464591,
-    "wof:lastmodified":1563361214,
+    "wof:lastmodified":1566586303,
     "wof:name":"\u015eemdinli",
     "wof:parent_id":85679501,
     "wof:placetype":"county",

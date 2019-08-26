@@ -11,11 +11,15 @@
     "geom:longitude":26.97269,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":38083,
+    "gn:population":38083,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.95269,39.48041,26.99269,39.52041",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u0647\u0627\u0646\u064a\u0629"
     ],
@@ -82,7 +86,7 @@
     "name:tur_x_preferred":[
         "Burhaniye"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kemer"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":320369,
         "gp:id":2343841,
-        "qs:id":218069,
+        "qs_pg:id":218069,
         "wd:id":"Q1012901",
         "wk:page":"Burhaniye"
     },
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":890464335,
-    "wof:lastmodified":1563361205,
+    "wof:lastmodified":1566586300,
     "wof:name":"Burhaniye",
     "wof:parent_id":890464587,
     "wof:placetype":"locality",

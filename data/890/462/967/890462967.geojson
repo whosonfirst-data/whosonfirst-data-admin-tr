@@ -11,11 +11,15 @@
     "geom:longitude":29.5277,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2015,
+    "gn:population":2015,
     "iso:country":"TR",
+    "lbl:bbox":"29.5077,40.58052,29.5477,40.62052",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Merdig\u00f6z"
     ],
     "qs:name":"Yalakdere",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":738055,
-        "qs:id":83351
+        "qs_pg:id":83351
     },
     "wof:country":"TR",
     "wof:created":1469053410,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890462967,
-    "wof:lastmodified":1505343691,
+    "wof:lastmodified":1566586392,
     "wof:name":"Yalakdere",
     "wof:parent_id":890461601,
     "wof:placetype":"locality",

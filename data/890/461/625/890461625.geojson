@@ -11,7 +11,7 @@
     "geom:longitude":33.237389,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":5590,
+    "gn:population":5590,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.21223,
     "lbl:longitude":33.231204,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kastamonu",
     "meso:admin_1":"Kastamonu",
     "meso:gadm_admin":"Ara\u00e7",
@@ -41,6 +43,7 @@
     "mps:longitude":33.231204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Arac"
     ],
@@ -255,9 +258,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1642",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Ara\u00e7",
@@ -279,7 +282,7 @@
         "gn:id":751976,
         "gp:id":29390085,
         "hasc:id":"TR.KS.AR",
-        "qs:id":129256,
+        "qs_pg:id":129256,
         "wd:id":"Q3621190",
         "wk:page":"Arac"
     },
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":890461625,
-    "wof:lastmodified":1563361773,
+    "wof:lastmodified":1566586522,
     "wof:name":"Ara\u00e7",
     "wof:parent_id":85679259,
     "wof:placetype":"county",

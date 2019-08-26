@@ -11,11 +11,15 @@
     "geom:longitude":35.56621,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.54621,38.71685,35.58621,38.75685",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Germir"
     ],
@@ -88,9 +92,6 @@
     "name:tur_x_preferred":[
         "Germir"
     ],
-    "name:unk_x_variant":[
-        "Germir"
-    ],
     "name:war_x_preferred":[
         "Germir"
     ],
@@ -113,7 +114,7 @@
     "wof:concordances":{
         "gn:id":306630,
         "gp:id":2329845,
-        "qs:id":194916,
+        "qs_pg:id":194916,
         "wd:id":"Q6102879",
         "wk:page":"Konaklar, Tarsus"
     },
@@ -130,7 +131,7 @@
         }
     ],
     "wof:id":890463639,
-    "wof:lastmodified":1563361083,
+    "wof:lastmodified":1566586253,
     "wof:name":"Konaklar",
     "wof:parent_id":890463863,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":40.921789,
     "lbl:longitude":29.152133,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.921789,
     "mps:longitude":29.152133,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "K\u00fc\u00e7\u00fckyal\u0131"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":55,
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":742328,
         "gp:id":2343615,
-        "qs:id":239486,
         "qs_pg:id":239486,
         "wd:id":"Q6454259",
         "wk:page":"K\u00fc\u00e7\u00fckyal\u0131"
@@ -72,7 +74,7 @@
         }
     ],
     "wof:id":101912649,
-    "wof:lastmodified":1561769229,
+    "wof:lastmodified":1566586001,
     "wof:name":"K\u00fc\u00e7\u00fckyal\u0131",
     "wof:parent_id":890460749,
     "wof:placetype":"locality",

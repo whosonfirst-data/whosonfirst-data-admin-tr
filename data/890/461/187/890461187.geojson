@@ -11,10 +11,14 @@
     "geom:longitude":29.43068,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":281436,
+    "gn:population":281436,
     "iso:country":"TR",
+    "lbl:bbox":"29.41068,40.78276,29.45068,40.82276",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062c\u0628\u0632\u064a"
     ],
@@ -168,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0435\u0431\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Guebze"
     ],
     "name:urd_x_preferred":[
@@ -198,7 +202,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":747014,
-        "qs:id":349919,
+        "qs_pg:id":349919,
         "wd:id":"Q206116",
         "wk:page":"Gebze"
     },
@@ -215,7 +219,7 @@
         }
     ],
     "wof:id":890461187,
-    "wof:lastmodified":1563361725,
+    "wof:lastmodified":1566586505,
     "wof:name":"Gebze",
     "wof:parent_id":890462621,
     "wof:placetype":"locality",

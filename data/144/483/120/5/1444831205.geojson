@@ -10,8 +10,10 @@
     "geom:latitude":41.016116,
     "geom:longitude":29.107008,
     "iso:country":"TR",
+    "lbl:bbox":"29.1020080063,41.011115509,29.1120080063,41.021115509",
     "lbl:latitude":41.016115,
     "lbl:longitude":29.107008,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912637,
-        1108709303,
-        85679237
+        1108709303
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444831205,
-    "wof:lastmodified":1566339638,
+    "wof:lastmodified":1566584843,
     "wof:name":"Atakent",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

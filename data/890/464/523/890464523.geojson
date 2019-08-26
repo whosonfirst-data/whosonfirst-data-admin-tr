@@ -11,7 +11,7 @@
     "geom:longitude":32.768082,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":39.632057,
     "lbl:longitude":32.707988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ankara",
     "meso:admin_1":"Ankara",
     "meso:gadm_admin":"G\u00f6lba\u015f\u0131",
@@ -44,6 +46,7 @@
     "mps:longitude":32.707988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "G\u00f6lbasi"
     ],
@@ -71,9 +74,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"738",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00f6lbasi",
@@ -95,7 +98,7 @@
         "gn:id":7732107,
         "gp:id":29390357,
         "hasc:id":"TR.AN.GO",
-        "qs:id":239238,
+        "qs_pg:id":239238,
         "wd:id":"Q2979400",
         "wk:page":"G\u00f6lba\u015f\u0131"
     },
@@ -111,7 +114,7 @@
         }
     ],
     "wof:id":890464523,
-    "wof:lastmodified":1561769267,
+    "wof:lastmodified":1566586325,
     "wof:name":"G\u00f6lba\u015f\u0131",
     "wof:parent_id":85679409,
     "wof:placetype":"county",

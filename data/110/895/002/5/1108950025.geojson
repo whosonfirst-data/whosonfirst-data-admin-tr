@@ -10,8 +10,10 @@
     "geom:latitude":41.062603,
     "geom:longitude":28.97162,
     "iso:country":"TR",
+    "lbl:bbox":"28.966620234,41.0576027719,28.976620234,41.0676027719",
     "lbl:latitude":41.062603,
     "lbl:longitude":28.97162,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Kaptanpa\u015fa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1108950025,
-    "wof:lastmodified":1563359621,
+    "wof:lastmodified":1566585312,
     "wof:name":"Kaptanpasa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

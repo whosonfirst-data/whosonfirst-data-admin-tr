@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":38.586286,
     "lbl:longitude":39.219813,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Elazig",
     "mps:latitude":38.608078,
     "mps:longitude":39.16299,
@@ -244,7 +245,7 @@
         "Elaz\u0131\u011f"
     ],
     "name:tam_x_preferred":[
-        "\u0b8e\u0bb2\u0bbe\u0b9c\u0bbf\u0b95\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b8e\u0bb2\u0bbe\u0b9c\u0bbf\u0b95\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c32\u0c3e\u0c1c\u0c3f\u0c17\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -273,13 +274,7 @@
     "name:und_x_colloquial":[
         "Elazig"
     ],
-    "name:und_x_preferred":[
-        "Elaz\u0131\u011f"
-    ],
     "name:und_x_variant":[
-        "Elazig"
-    ],
-    "name:unk_x_variant":[
         "Mamuret\u00fcl\u00e2ziz"
     ],
     "name:urd_x_preferred":[
@@ -372,9 +367,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"9,153",
     "statoids:area_mi":"3,534",
     "statoids:as_of_date":"2007-12-31",
@@ -400,7 +395,7 @@
         "gp:id":2347280,
         "hasc:id":"TR.EG",
         "iso:id":"TR-23",
-        "qs:id":1117730,
+        "qs_pg:id":1117730,
         "unlc:id":"TR-23",
         "wd:id":"Q483091",
         "wk:page":"Elaz\u0131\u011f Province"
@@ -421,11 +416,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737382,
+    "wof:lastmodified":1566582988,
     "wof:name":"Elazig",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":541258,
     "wof:population_rank":11,

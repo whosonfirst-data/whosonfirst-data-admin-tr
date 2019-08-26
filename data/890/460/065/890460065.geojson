@@ -11,10 +11,14 @@
     "geom:longitude":29.75417,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":146,
+    "gn:population":146,
     "iso:country":"TR",
+    "lbl:bbox":"29.73417,40.02167,29.77417,40.06167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Nazifpa\u015fa"
     ],
@@ -30,7 +34,7 @@
     "name:tur_x_preferred":[
         "Nazifpa\u015fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u00fcy\u00fckderbent"
     ],
     "name:vie_x_preferred":[
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":741322,
         "gp:id":2344108,
-        "qs:id":83366,
+        "qs_pg:id":83366,
         "wd:id":"Q1156189"
     },
     "wof:country":"TR",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890460065,
-    "wof:lastmodified":1561769283,
+    "wof:lastmodified":1566586436,
     "wof:name":"Nazifpa\u015fa",
     "wof:parent_id":890462021,
     "wof:placetype":"locality",

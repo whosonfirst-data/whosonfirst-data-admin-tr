@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":36.659741,
     "lbl:longitude":35.325114,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adana",
     "meso:admin_1":"Adana",
     "meso:gadm_admin":"Karata\u015f",
@@ -38,6 +40,7 @@
     "mps:longitude":35.325114,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u0637\u0627\u0634"
     ],
@@ -143,9 +146,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"907",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Karatas",
@@ -166,7 +169,7 @@
     "wof:concordances":{
         "gp:id":29390469,
         "hasc:id":"TR.AA.KT",
-        "qs:id":136022,
+        "qs_pg:id":136022,
         "wd:id":"Q376854",
         "wk:page":"Karata\u015f"
     },
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":890463329,
-    "wof:lastmodified":1563361101,
+    "wof:lastmodified":1566586260,
     "wof:name":"Karata\u015f",
     "wof:parent_id":85679443,
     "wof:placetype":"county",

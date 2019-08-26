@@ -11,7 +11,7 @@
     "geom:longitude":30.97722,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.544941,
     "lbl:longitude":30.97412,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Eskisehir",
     "meso:admin_1":"Eskisehir",
     "meso:gadm_admin":"Mahmudiye",
@@ -41,6 +43,7 @@
     "mps:longitude":30.97412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Mahmudiye"
     ],
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"678",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Mahmudiye",
@@ -128,7 +131,7 @@
         "gn:id":304983,
         "gp:id":29390548,
         "hasc:id":"TR.ES.MA",
-        "qs:id":390453,
+        "qs_pg:id":390453,
         "wd:id":"Q2615120",
         "wk:page":"Mahmudiye"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":890461399,
-    "wof:lastmodified":1563361676,
+    "wof:lastmodified":1566586486,
     "wof:name":"Mahmudiye",
     "wof:parent_id":85679255,
     "wof:placetype":"county",

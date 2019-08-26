@@ -5,17 +5,21 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006405,
-    "geom:area_square_m":60739869.09847,
+    "geom:area_square_m":60739869.098423,
     "geom:bbox":"32.7626724114,39.8361611793,32.843185473,39.9904009088",
     "geom:latitude":39.922775,
     "geom:longitude":32.80556,
     "iso:country":"TR",
     "lbl:latitude":39.936865,
     "lbl:longitude":32.813617,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.936865,
     "mps:longitude":32.813617,
     "mz:hierarchy_label":1,
-    "name:unk_x_variant":[
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Orman \u00c7iftli\u011fi"
     ],
     "qs:a0":"Turkey",
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -44,7 +48,6 @@
     "wof:concordances":{
         "gn:id":314813,
         "gp:id":2319909,
-        "qs:id":1250753,
         "qs_pg:id":1250753
     },
     "wof:country":"TR",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":101912789,
-    "wof:lastmodified":1497297803,
+    "wof:lastmodified":1566586005,
     "wof:name":"Gaziorman \u00c7iftli\u011fi",
     "wof:parent_id":890462771,
     "wof:placetype":"locality",

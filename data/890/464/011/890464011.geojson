@@ -11,11 +11,15 @@
     "geom:longitude":27.26778,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":26000,
+    "gn:population":26000,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.24778,37.35556,27.28778,37.39556",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:eng_x_preferred":[
         "Didim"
     ],
@@ -28,7 +32,7 @@
     "name:tur_x_variant":[
         "Didim"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yoran"
     ],
     "qs:name":"Yenihisar",
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":297090,
         "gp:id":2344514,
-        "qs:id":1256497
+        "qs_pg:id":1256497
     },
     "wof:country":"TR",
     "wof:created":1469053451,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890464011,
-    "wof:lastmodified":1505343696,
+    "wof:lastmodified":1566586308,
     "wof:name":"Yenihisar",
     "wof:parent_id":1108709445,
     "wof:placetype":"locality",

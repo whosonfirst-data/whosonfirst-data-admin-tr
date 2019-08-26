@@ -10,8 +10,10 @@
     "geom:latitude":41.224713,
     "geom:longitude":28.455534,
     "iso:country":"TR",
+    "lbl:bbox":"28.4505344891,41.2197131858,28.4605344891,41.2297131858",
     "lbl:latitude":41.224713,
     "lbl:longitude":28.455534,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462087,
-        85679237
+        890462087
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829729,
-    "wof:lastmodified":1566339469,
+    "wof:lastmodified":1566584823,
     "wof:name":"Subasi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

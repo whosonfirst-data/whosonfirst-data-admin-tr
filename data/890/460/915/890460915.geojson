@@ -11,10 +11,14 @@
     "geom:longitude":38.945,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":727,
+    "gn:population":727,
     "iso:country":"TR",
+    "lbl:bbox":"38.925,36.92611,38.965,36.96611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Para Para"
     ],
@@ -69,7 +73,7 @@
     "name:tur_x_preferred":[
         "Para Para"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parapara K\u00f6y\u00fc"
     ],
     "name:zho_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":302880,
-        "qs:id":547323,
+        "qs_pg:id":547323,
         "wd:id":"Q1331500",
         "wk:page":"Para Para"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890460915,
-    "wof:lastmodified":1563361560,
+    "wof:lastmodified":1566586445,
     "wof:name":"Parapara",
     "wof:parent_id":890461929,
     "wof:placetype":"locality",

@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.278565,
     "lbl:longitude":40.246009,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bayburt",
     "mps:latitude":40.283689,
     "mps:longitude":40.223301,
@@ -243,7 +244,7 @@
         "Bayburt"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0baf\u0baa\u0bc1\u0bb0\u0b9f\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0baf\u0baa\u0bc1\u0bb0\u0b9f\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c47\u0c2c\u0c30\u0c4d\u0c1f\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -271,12 +272,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0439\u0431\u0443\u0440\u0442"
-    ],
-    "name:und_x_preferred":[
-        "Bayburt"
-    ],
-    "name:und_x_variant":[
-        "Bayburt"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0627\u06cc\u0628\u0648\u0631\u062a \u0635\u0648\u0628\u06c1"
@@ -371,9 +366,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"3,652",
     "statoids:area_mi":"1,410",
     "statoids:as_of_date":"2007-12-31",
@@ -398,7 +393,7 @@
         "gp:id":2347327,
         "hasc:id":"TR.BB",
         "iso:id":"TR-69",
-        "qs:id":59717,
+        "qs_pg:id":59717,
         "unlc:id":"TR-69",
         "wd:id":"Q483063",
         "wk:page":"Bayburt Province"
@@ -419,11 +414,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737378,
+    "wof:lastmodified":1566582974,
     "wof:name":"Bayburt",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":76609,
     "wof:population_rank":8,

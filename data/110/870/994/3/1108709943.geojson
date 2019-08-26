@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.497794,
     "lbl:longitude":31.673578,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Konya",
     "meso:admin_1":"Konya",
     "meso:gadm_admin":"Tuzluk\u00e7u",
@@ -37,6 +39,7 @@
     "mps:longitude":31.673578,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tuzluk\u00e7u \u0130l\u00e7esi"
     ],
@@ -83,9 +86,9 @@
         "Tuzluk\u00e7u"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"743",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tuzluk\u00e7u",
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":1108709943,
-    "wof:lastmodified":1563359744,
+    "wof:lastmodified":1566585363,
     "wof:name":"Tuzluk\u00e7u",
     "wof:parent_id":85679425,
     "wof:placetype":"county",

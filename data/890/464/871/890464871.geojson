@@ -11,10 +11,14 @@
     "geom:longitude":41.42917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":192,
+    "gn:population":192,
     "iso:country":"TR",
+    "lbl:bbox":"41.40917,37.82028,41.44917,37.86028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Yaz\u0131han"
     ],
@@ -27,7 +31,7 @@
     "name:tur_x_preferred":[
         "Yaz\u0131han"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oguz"
     ],
     "name:urd_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":297372,
         "gp:id":2343786,
-        "qs:id":547206,
+        "qs_pg:id":547206,
         "wd:id":"Q8050652",
         "wk:page":"Yaz\u0131han"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890464871,
-    "wof:lastmodified":1563361229,
+    "wof:lastmodified":1566586309,
     "wof:name":"Yaz\u0131han",
     "wof:parent_id":1108709369,
     "wof:placetype":"locality",

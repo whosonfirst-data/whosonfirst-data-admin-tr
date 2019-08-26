@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":37.201983,
     "lbl:longitude":33.303285,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Karaman",
     "mps:latitude":37.16337,
     "mps:longitude":33.094667,
@@ -236,7 +237,7 @@
         "Karaman"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0bb0\u0bae\u0bbe\u0ba9  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbe\u0bb0\u0bae\u0bbe\u0ba9 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c30\u0c3e\u0c2e\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -267,12 +268,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u043c\u0430\u043d"
-    ],
-    "name:und_x_preferred":[
-        "Karaman"
-    ],
-    "name:und_x_variant":[
-        "Karaman"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06a9\u0627\u0631\u0627\u0645\u0627\u0646"
@@ -367,9 +362,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"9,163",
     "statoids:area_mi":"3,538",
     "statoids:as_of_date":"2007-12-31",
@@ -394,7 +389,7 @@
         "gp:id":2347328,
         "hasc:id":"TR.KR",
         "iso:id":"TR-70",
-        "qs:id":895004,
+        "qs_pg:id":895004,
         "unlc:id":"TR-70",
         "wd:id":"Q482975",
         "wk:page":"Karaman Province"
@@ -415,11 +410,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737377,
+    "wof:lastmodified":1566582966,
     "wof:name":"Karaman",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":226049,
     "wof:population_rank":10,

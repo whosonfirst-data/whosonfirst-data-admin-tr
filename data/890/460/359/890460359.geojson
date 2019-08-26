@@ -11,7 +11,7 @@
     "geom:longitude":30.74674,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":35257,
+    "gn:population":35257,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.807717,
     "lbl:longitude":30.733941,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sakarya",
     "meso:admin_1":"Sakarya",
     "meso:gadm_admin":"Hendek",
@@ -41,6 +43,7 @@
     "mps:longitude":30.733941,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Hendek"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "Hendek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khandak"
     ],
     "name:urd_x_preferred":[
@@ -128,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"585",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Hendek",
@@ -152,7 +155,7 @@
         "gn:id":745664,
         "gp:id":29390423,
         "hasc:id":"TR.SK.HE",
-        "qs:id":1244015,
+        "qs_pg:id":1244015,
         "wd:id":"Q1011270",
         "wk:page":"Hendek"
     },
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":890460359,
-    "wof:lastmodified":1563361578,
+    "wof:lastmodified":1566586452,
     "wof:name":"Hendek",
     "wof:parent_id":85679245,
     "wof:placetype":"county",

@@ -11,14 +11,18 @@
     "geom:longitude":31.16679,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"TR",
+    "lbl:bbox":"31.14679,36.92465,31.18679,36.96465",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0411\u0435\u043b\u043a\u0438\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belkis"
     ],
     "qs:name":"B\u00fcy\u00fckbelkis",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":320295,
-        "qs:id":1117760
+        "qs_pg:id":1117760
     },
     "wof:country":"TR",
     "wof:created":1469053311,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890460339,
-    "wof:lastmodified":1505343682,
+    "wof:lastmodified":1566586426,
     "wof:name":"B\u00fcy\u00fckbelkis",
     "wof:parent_id":890463871,
     "wof:placetype":"locality",

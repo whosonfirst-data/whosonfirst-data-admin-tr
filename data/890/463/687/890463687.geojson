@@ -11,11 +11,15 @@
     "geom:longitude":28.62568,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":17532,
+    "gn:population":17532,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.60568,39.56596,28.64568,39.60596",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u0633\u0648\u0646\u0628\u064a"
     ],
@@ -64,7 +68,7 @@
     "name:tur_x_preferred":[
         "Dursunbey"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Balat"
     ],
     "name:urd_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":316102,
         "gp:id":2343945,
-        "qs:id":194974,
+        "qs_pg:id":194974,
         "wd:id":"Q1014114",
         "wk:page":"Dursunbey"
     },
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":890463687,
-    "wof:lastmodified":1563360976,
+    "wof:lastmodified":1566586215,
     "wof:name":"Dursunbey",
     "wof:parent_id":1108709459,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":33.053516,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.848698,
     "lbl:longitude":33.031954,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kastamonu",
     "meso:admin_1":"Kastamonu",
     "meso:gadm_admin":"Cide",
@@ -41,6 +43,7 @@
     "mps:longitude":33.031954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cide"
     ],
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"664",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Cide",
@@ -128,7 +131,7 @@
         "gn:id":7732736,
         "gp:id":29390232,
         "hasc:id":"TR.KS.CI",
-        "qs:id":1164262,
+        "qs_pg:id":1164262,
         "wd:id":"Q2670870",
         "wk:page":"Cide"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":890462849,
-    "wof:lastmodified":1563361438,
+    "wof:lastmodified":1566586400,
     "wof:name":"Cide",
     "wof:parent_id":85679259,
     "wof:placetype":"county",

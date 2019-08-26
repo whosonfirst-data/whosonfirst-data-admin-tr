@@ -11,10 +11,14 @@
     "geom:longitude":40.81639,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":439,
+    "gn:population":439,
     "iso:country":"TR",
+    "lbl:bbox":"40.79639,37.89111,40.83639,37.93111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:arg_x_preferred":[
         "Belos"
     ],
@@ -39,7 +43,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zeko"
     ],
     "qs:name":"Belli",
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":321513,
-        "qs:id":547657,
+        "qs_pg:id":547657,
         "wk:page":"Belli"
     },
     "wof:country":"TR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890459653,
-    "wof:lastmodified":1564162974,
+    "wof:lastmodified":1566586586,
     "wof:name":"Belli",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

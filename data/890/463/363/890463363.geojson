@@ -11,11 +11,15 @@
     "geom:longitude":36.45484,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"36.43484,37.22216,36.47484,37.26216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u062f\u0648\u0632\u06cc\u0686\u06cc"
     ],
@@ -85,7 +89,7 @@
     "name:tur_x_preferred":[
         "D\u00fczi\u00e7i"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haruniye"
     ],
     "name:urd_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:concordances":{
         "gn:id":312523,
         "gp:id":56122490,
-        "qs:id":844607,
+        "qs_pg:id":844607,
         "wd:id":"Q1012858",
         "wk:page":"D\u00fczi\u00e7i"
     },
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890463363,
-    "wof:lastmodified":1563360954,
+    "wof:lastmodified":1566586207,
     "wof:name":"D\u00fczi\u00e7i",
     "wof:parent_id":1108709465,
     "wof:placetype":"locality",

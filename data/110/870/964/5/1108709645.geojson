@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":41.05082,
     "lbl:longitude":30.354098,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sakarya",
     "meso:admin_1":"Sakarya",
     "meso:gadm_admin":"Kaynarca",
@@ -37,6 +39,7 @@
     "mps:longitude":30.354098,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Kaynarca"
     ],
@@ -89,9 +92,9 @@
         "Kaynarca"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"363",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kaynarca",
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108709645,
-    "wof:lastmodified":1563359664,
+    "wof:lastmodified":1566585332,
     "wof:name":"Kaynarca",
     "wof:parent_id":85679245,
     "wof:placetype":"county",

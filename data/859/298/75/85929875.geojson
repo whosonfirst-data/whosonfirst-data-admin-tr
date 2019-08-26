@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3430045.308316,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.058552,40.187366,29.058552,40.187366",
     "geom:latitude":40.187366,
     "geom:longitude":29.058552,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.053552,40.182366,29.063552,40.192366",
     "lbl:latitude":40.187366,
     "lbl:longitude":29.058552,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.183618,
     "mps:longitude":29.055654,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
     "name:und_x_colloquial":[
         "Sehre Kustu"
     ],
-    "name:und_x_preferred":[
-        "Sehre K\u00fcst\u00fc"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sehre K\u00fcst\u00fc"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -58,17 +57,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679231,
         102191569,
         85632393,
-        890463107,
-        85679231
+        890463107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870883,
-        "qs:id":1120070
+        "qs_pg:id":1120070
     },
     "wof:country":"TR",
     "wof:geomhash":"e880aae8d34908bb46c1f1e3c737f875",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939165,
+    "wof:lastmodified":1566582937,
     "wof:name":"Sehre K\u00fcst\u00fc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

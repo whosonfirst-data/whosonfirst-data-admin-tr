@@ -11,14 +11,18 @@
     "geom:longitude":38.41583,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":159,
+    "gn:population":159,
     "iso:country":"TR",
+    "lbl:bbox":"38.39583,36.87667,38.43583,36.91667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Alanyurt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zehvan"
     ],
     "qs:name":"Alanyurt",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":324185,
         "gp:id":56122718,
-        "qs:id":547713,
+        "qs_pg:id":547713,
         "wk:page":"Alanyurt"
     },
     "wof:country":"TR",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890459169,
-    "wof:lastmodified":1564162929,
+    "wof:lastmodified":1566586551,
     "wof:name":"Alanyurt",
     "wof:parent_id":890460731,
     "wof:placetype":"locality",

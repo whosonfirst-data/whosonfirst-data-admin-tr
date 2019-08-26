@@ -11,11 +11,15 @@
     "geom:longitude":27.97,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":5327,
+    "gn:population":5327,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.95,40.02639,27.99,40.06639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u064a\u0627\u0633"
     ],
@@ -67,7 +71,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043d\u044c\u044f\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maltepe"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":741737,
         "gp:id":2344251,
-        "qs:id":275670,
+        "qs_pg:id":275670,
         "wd:id":"Q2473795",
         "wk:page":"Manyas"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890461511,
-    "wof:lastmodified":1563361742,
+    "wof:lastmodified":1566586511,
     "wof:name":"Manyas",
     "wof:parent_id":1108709709,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":29.05861,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.05361,40.186987,29.06361,40.196987",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Yildirim",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Bursa",
@@ -26,14 +29,14 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191569,
-        85632393,
         85679231,
+        85632393,
         890463107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870853,
-        "qs:id":55133
+        "qs_pg:id":55133
     },
     "wof:country":"TR",
     "wof:created":1469053355,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890461545,
-    "wof:lastmodified":1500070942,
+    "wof:lastmodified":1566586511,
     "wof:name":"Yildirim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

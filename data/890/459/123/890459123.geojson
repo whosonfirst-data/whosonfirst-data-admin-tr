@@ -11,10 +11,14 @@
     "geom:longitude":41.36833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":529,
+    "gn:population":529,
     "iso:country":"TR",
+    "lbl:bbox":"41.34833,37.89,41.38833,37.93",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Asmadere"
     ],
@@ -27,7 +31,7 @@
     "name:tur_x_preferred":[
         "Asmadere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khop"
     ],
     "name:vie_x_preferred":[
@@ -47,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":323059,
-        "qs:id":547685,
+        "qs_pg:id":547685,
         "wd:id":"Q4807399"
     },
     "wof:country":"TR",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890459123,
-    "wof:lastmodified":1561769308,
+    "wof:lastmodified":1566586589,
     "wof:name":"Asmadere",
     "wof:parent_id":1108709369,
     "wof:placetype":"locality",

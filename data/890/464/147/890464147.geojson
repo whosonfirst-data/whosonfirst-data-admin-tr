@@ -11,7 +11,7 @@
     "geom:longitude":37.779629,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":6581,
+    "gn:population":6581,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.522837,
     "lbl:longitude":37.783001,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ordu",
     "meso:admin_1":"Ordu",
     "meso:gadm_admin":"Mesudiye",
@@ -41,6 +43,7 @@
     "mps:longitude":37.783001,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Mesudiye"
     ],
@@ -53,7 +56,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0435\u0441\u0443\u0434\u0438\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hamidiye"
     ],
     "qs:name":"Mesudiye",
@@ -69,9 +72,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1100",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Mesudiye",
@@ -93,7 +96,7 @@
         "gn:id":741570,
         "gp:id":29390633,
         "hasc:id":"TR.OR.ME",
-        "qs:id":207412,
+        "qs_pg:id":207412,
         "wd:id":"Q2429773",
         "wk:page":"Mesudiye"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890464147,
-    "wof:lastmodified":1561769267,
+    "wof:lastmodified":1566586325,
     "wof:name":"Mesudiye",
     "wof:parent_id":85679349,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":35.81573,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":88115,
+    "gn:population":88115,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.79573,37.43517,35.83573,37.47517",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Kozan"
     ],
@@ -199,7 +203,7 @@
     "name:tur_x_preferred":[
         "Kozan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sis"
     ],
     "name:vec_x_preferred":[
@@ -246,7 +250,7 @@
     "wof:concordances":{
         "gn:id":306112,
         "gp:id":2344222,
-        "qs:id":261977,
+        "qs_pg:id":261977,
         "wd:id":"Q361214",
         "wk:page":"Kozan"
     },
@@ -263,7 +267,7 @@
         }
     ],
     "wof:id":890464745,
-    "wof:lastmodified":1563361269,
+    "wof:lastmodified":1566586324,
     "wof:name":"Kozan",
     "wof:parent_id":890462525,
     "wof:placetype":"locality",

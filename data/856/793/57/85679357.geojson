@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":41.27544,
     "lbl:longitude":35.821334,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Samsun",
     "mps:latitude":41.236716,
     "mps:longitude":35.852209,
@@ -245,13 +246,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043c\u0441\u0443\u043d"
     ],
-    "name:und_x_preferred":[
-        "Samsun"
-    ],
     "name:und_x_variant":[
-        "Samsun"
-    ],
-    "name:unk_x_variant":[
         "Samsun Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -347,9 +342,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"9,579",
     "statoids:area_mi":"3,698",
     "statoids:as_of_date":"2007-12-31",
@@ -374,7 +369,7 @@
         "gp:id":2347307,
         "hasc:id":"TR.SS",
         "iso:id":"TR-55",
-        "qs:id":222852,
+        "qs_pg:id":222852,
         "unlc:id":"TR-55",
         "wd:id":"Q483040",
         "wk:page":"Samsun Province"
@@ -395,11 +390,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737374,
+    "wof:lastmodified":1566582955,
     "wof:name":"Samsun",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1228959,
     "wof:population_rank":12,

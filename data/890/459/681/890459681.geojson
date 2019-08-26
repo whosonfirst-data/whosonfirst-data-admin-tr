@@ -11,10 +11,14 @@
     "geom:longitude":37.89639,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":95,
+    "gn:population":95,
     "iso:country":"TR",
+    "lbl:bbox":"37.87639,36.96944,37.91639,37.00944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u064a\u0628\u0629"
     ],
@@ -81,7 +85,7 @@
     "name:tur_x_preferred":[
         "G\u00fczel"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tayba"
     ],
     "name:urd_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313226,
-        "qs:id":547490,
+        "qs_pg:id":547490,
         "wk:page":"Tayibe"
     },
     "wof:country":"TR",
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890459681,
-    "wof:lastmodified":1564162930,
+    "wof:lastmodified":1566586552,
     "wof:name":"Taybe",
     "wof:parent_id":890461691,
     "wof:placetype":"locality",

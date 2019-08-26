@@ -11,17 +11,21 @@
     "geom:longitude":40.52306,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":226,
+    "gn:population":226,
     "iso:country":"TR",
+    "lbl:bbox":"40.50306,37.38333,40.54306,37.42333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:fra_x_preferred":[
         "Artvin"
     ],
     "name:tur_x_preferred":[
         "Uluta\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Birikhasan-Aga"
     ],
     "qs:name":"Uluta\u015f",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":298382,
         "gp:id":2332177,
-        "qs:id":547235,
+        "qs_pg:id":547235,
         "wk:page":"Artvin (electoral district)"
     },
     "wof:country":"TR",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890459373,
-    "wof:lastmodified":1564162981,
+    "wof:lastmodified":1566586591,
     "wof:name":"Uluta\u015f",
     "wof:parent_id":1108709713,
     "wof:placetype":"locality",

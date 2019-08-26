@@ -11,10 +11,14 @@
     "geom:longitude":27.09833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11050,
+    "gn:population":11050,
     "iso:country":"TR",
+    "lbl:bbox":"27.07833,39.53833,27.11833,39.57833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0647\u0627\u0648\u0631\u0627\u0646"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":312355,
         "gp:id":2323020,
-        "qs:id":205070,
+        "qs_pg:id":205070,
         "wd:id":"Q1591574",
         "wk:page":"Havra\u0148"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890463941,
-    "wof:lastmodified":1563361012,
+    "wof:lastmodified":1566586228,
     "wof:name":"Havran",
     "wof:parent_id":1108709579,
     "wof:placetype":"locality",

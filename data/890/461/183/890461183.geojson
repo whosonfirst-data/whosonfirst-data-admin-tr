@@ -11,11 +11,15 @@
     "geom:longitude":30.78543,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":39508,
+    "gn:population":39508,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.76543,41.05096,30.80543,41.09096",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u0631\u0627\u0633\u0648"
     ],
@@ -76,7 +80,7 @@
     "name:tur_x_preferred":[
         "Karasu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aksu"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":744093,
         "gp:id":2344158,
-        "qs:id":914938,
+        "qs_pg:id":914938,
         "wd:id":"Q1012874",
         "wk:page":"Karasu"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890461183,
-    "wof:lastmodified":1563361825,
+    "wof:lastmodified":1566586538,
     "wof:name":"Karasu",
     "wof:parent_id":890464253,
     "wof:placetype":"locality",

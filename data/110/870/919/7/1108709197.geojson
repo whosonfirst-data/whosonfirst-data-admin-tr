@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.309,
     "lbl:longitude":38.427705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Giresun",
     "meso:admin_1":"Giresun",
     "meso:gadm_admin":"\u015eultan Karahisar",
@@ -37,6 +39,7 @@
     "mps:longitude":38.427705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u015eebinkarahisar \u0130l\u00e7esi"
     ],
@@ -60,9 +63,9 @@
         "\u0634\u0628\u06cc\u0646 \u0642\u0631\u06c1 \u062d\u0635\u0627\u0631 \u0636\u0644\u0639"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1382",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Sebinkarahisar",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":1108709197,
-    "wof:lastmodified":1563359777,
+    "wof:lastmodified":1566585377,
     "wof:name":"\u015eebinkarahisar",
     "wof:parent_id":85679341,
     "wof:placetype":"county",

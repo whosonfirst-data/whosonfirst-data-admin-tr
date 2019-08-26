@@ -11,11 +11,15 @@
     "geom:longitude":42.04194,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":250,
+    "gn:population":250,
     "iso:country":"TR",
+    "lbl:bbox":"42.02194,37.83472,42.06194,37.87472",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "G\u00fcnd\u00fc\u015feyh"
     ],
     "qs:name":"Akdo\u011fmu\u015f",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":438445,
         "gp:id":2344385,
-        "qs:id":548222
+        "qs_pg:id":548222
     },
     "wof:country":"TR",
     "wof:created":1469053253,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890459063,
-    "wof:lastmodified":1505343675,
+    "wof:lastmodified":1566586563,
     "wof:name":"Akdo\u011fmu\u015f",
     "wof:parent_id":1108709747,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":37.60389,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":231,
+    "gn:population":231,
     "iso:country":"TR",
+    "lbl:bbox":"37.58389,36.9425,37.62389,36.9825",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Divekli"
     ],
     "qs:name":"Direkli",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":316597,
         "gp:id":2344294,
-        "qs:id":80108
+        "qs_pg:id":80108
     },
     "wof:country":"TR",
     "wof:created":1469053293,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890459939,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586548,
     "wof:name":"Direkli",
     "wof:parent_id":1108709769,
     "wof:placetype":"locality",

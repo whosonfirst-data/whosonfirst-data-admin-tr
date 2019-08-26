@@ -11,7 +11,7 @@
     "geom:longitude":30.071508,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.429519,
     "lbl:longitude":30.088149,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Antalya",
     "meso:admin_1":"Antalya",
     "meso:gadm_admin":"Finike",
@@ -41,6 +43,7 @@
     "mps:longitude":30.088149,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u064a\u0642\u064a\u0647"
     ],
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"653",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Finike",
@@ -161,7 +164,7 @@
         "gn:id":7732189,
         "gp:id":29390334,
         "hasc:id":"TR.AL.FI",
-        "qs:id":1164261,
+        "qs_pg:id":1164261,
         "wd:id":"Q1012894",
         "wk:page":"Finike"
     },
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890462847,
-    "wof:lastmodified":1563361440,
+    "wof:lastmodified":1566586401,
     "wof:name":"Finike",
     "wof:parent_id":85679263,
     "wof:placetype":"county",

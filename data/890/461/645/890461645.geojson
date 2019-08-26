@@ -11,7 +11,7 @@
     "geom:longitude":36.653918,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":50459,
+    "gn:population":50459,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.21175,
     "lbl:longitude":36.687468,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samsun",
     "meso:admin_1":"Samsun",
     "meso:gadm_admin":"\u00c7ar\u015famba",
@@ -41,6 +43,7 @@
     "mps:longitude":36.687468,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u0631\u0634\u0627\u0645\u0628\u0627"
     ],
@@ -110,7 +113,7 @@
     "name:tur_x_preferred":[
         "\u00c7ar\u015famba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Themiscyra"
     ],
     "name:urd_x_preferred":[
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"641",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7arsamba",
@@ -161,7 +164,7 @@
         "gn:id":749704,
         "gp:id":29390203,
         "hasc:id":"TR.SS.CA",
-        "qs:id":342326,
+        "qs_pg:id":342326,
         "wd:id":"Q272649",
         "wk:page":"\u00c7ar\u015famba"
     },
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890461645,
-    "wof:lastmodified":1563361692,
+    "wof:lastmodified":1566586492,
     "wof:name":"\u00c7ar\u015famba",
     "wof:parent_id":85679357,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":42.911252,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.419461,
     "lbl:longitude":42.916328,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sirnak",
     "meso:admin_1":"Sirnak",
     "meso:gadm_admin":"Uludere",
@@ -41,6 +43,7 @@
     "mps:longitude":42.916328,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0644\u0648\u062f\u0631\u0647"
     ],
@@ -101,9 +104,6 @@
     "name:tur_x_preferred":[
         "Uludere"
     ],
-    "name:unk_x_variant":[
-        "Uludere \u0130l\u00e7esi"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0644\u0648\u062f\u0631\u06d2"
     ],
@@ -131,9 +131,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"731",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Uludere",
@@ -155,7 +155,7 @@
         "gn:id":438878,
         "gp:id":29390959,
         "hasc:id":"TR.SR.UL",
-        "qs:id":981496,
+        "qs_pg:id":981496,
         "wd:id":"Q993707",
         "wk:page":"Uludere"
     },
@@ -171,7 +171,7 @@
         }
     ],
     "wof:id":890462089,
-    "wof:lastmodified":1563361426,
+    "wof:lastmodified":1566586397,
     "wof:name":"Uludere",
     "wof:parent_id":85679493,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":41.44972,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":291,
+    "gn:population":291,
     "iso:country":"TR",
+    "lbl:bbox":"41.42972,37.62611,41.46972,37.66611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Akyar"
     ],
@@ -33,7 +37,7 @@
     "name:tur_x_preferred":[
         "Akyar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mernavi"
     ],
     "name:vie_x_preferred":[
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":324384,
-        "qs:id":547719,
+        "qs_pg:id":547719,
         "wd:id":"Q4702028",
         "wk:page":"Akyar"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890459197,
-    "wof:lastmodified":1563361893,
+    "wof:lastmodified":1566586575,
     "wof:name":"Akyar",
     "wof:parent_id":1108709515,
     "wof:placetype":"locality",

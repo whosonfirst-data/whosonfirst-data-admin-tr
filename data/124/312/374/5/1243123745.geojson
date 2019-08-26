@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"33.50428,41.43485,33.54428,41.47485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sorkun"
     ],
@@ -35,8 +39,7 @@
         "Sorkun"
     ],
     "name:und_x_variant":[
-        "Sorgun",
-        "Sorkun"
+        "Sorgun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243123745,
-    "wof:lastmodified":1564163406,
+    "wof:lastmodified":1566586860,
     "wof:name":"Sorkun",
     "wof:parent_id":890463479,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.896247,
     "lbl:longitude":41.908032,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Erzurum",
     "meso:admin_1":"Erzurum",
     "meso:gadm_admin":"K\u00f6pr\u00fck\u00f6y",
@@ -37,6 +39,7 @@
     "mps:longitude":41.908032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0628\u0631\u0648\u0643\u0648\u064a"
     ],
@@ -95,9 +98,9 @@
         "K\u00f6pr\u00fck\u00f6y"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"465",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"K\u00f6pr\u00fck\u00f6y",
@@ -129,7 +132,7 @@
         }
     ],
     "wof:id":1108709693,
-    "wof:lastmodified":1564161501,
+    "wof:lastmodified":1566585364,
     "wof:name":"K\u00f6pr\u00fck\u00f6y",
     "wof:parent_id":85679369,
     "wof:placetype":"county",

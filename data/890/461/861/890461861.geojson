@@ -11,7 +11,7 @@
     "geom:longitude":36.155377,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":110884,
+    "gn:population":110884,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.400482,
     "lbl:longitude":36.210138,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tokat",
     "meso:admin_1":"Tokat",
     "meso:gadm_admin":"Turhal",
@@ -41,6 +43,7 @@
     "mps:longitude":36.210138,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u062a\u0648\u0631\u062d\u0627\u0644"
     ],
@@ -135,9 +138,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1021",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Turhal",
@@ -159,7 +162,7 @@
         "gn:id":738618,
         "gp:id":29390826,
         "hasc:id":"TR.TT.TU",
-        "qs:id":1230374,
+        "qs_pg:id":1230374,
         "wd:id":"Q1012907",
         "wk:page":"Turhal"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890461861,
-    "wof:lastmodified":1563361706,
+    "wof:lastmodified":1566586497,
     "wof:name":"Turhal",
     "wof:parent_id":85679363,
     "wof:placetype":"county",

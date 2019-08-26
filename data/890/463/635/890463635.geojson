@@ -11,11 +11,15 @@
     "geom:longitude":28.20444,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11718,
+    "gn:population":11718,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.18444,38.21056,28.22444,38.25056",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "Kiraz"
     ],
@@ -64,7 +68,7 @@
     "name:tur_x_preferred":[
         "Kiraz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kelasi"
     ],
     "name:urd_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":307727,
         "gp:id":2328614,
-        "qs:id":194912,
+        "qs_pg:id":194912,
         "wd:id":"Q2709049",
         "wk:page":"Kiraz"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":890463635,
-    "wof:lastmodified":1563360999,
+    "wof:lastmodified":1566586223,
     "wof:name":"Kiraz",
     "wof:parent_id":1108709661,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":36.062247,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.374063,
     "lbl:longitude":35.961659,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Hatay",
     "meso:admin_1":"Hatay",
     "meso:gadm_admin":"\u0130skenderun",
@@ -41,6 +43,7 @@
     "mps:longitude":35.961659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0633\u0643\u0646\u062f\u0631\u0648\u0646\u0629"
     ],
@@ -200,9 +203,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u043a\u0435\u043d\u0434\u0435\u0440\u0443\u043d"
     ],
-    "name:unk_x_variant":[
-        "\u0130skenderun \u0130l\u00e7esi"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u06a9\u0646\u062f\u0631\u0648\u0646"
     ],
@@ -233,9 +233,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"637",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Iskenderun",
@@ -257,7 +257,7 @@
         "gn:id":437928,
         "gp:id":29390901,
         "hasc:id":"TR.HT.IS",
-        "qs:id":232380,
+        "qs_pg:id":232380,
         "wd:id":"Q174341",
         "wk:page":"\u0130skenderun"
     },
@@ -273,7 +273,7 @@
         }
     ],
     "wof:id":890464451,
-    "wof:lastmodified":1563361242,
+    "wof:lastmodified":1566586313,
     "wof:name":"\u0130skenderun",
     "wof:parent_id":85679331,
     "wof:placetype":"county",

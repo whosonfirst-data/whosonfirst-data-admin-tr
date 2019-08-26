@@ -11,7 +11,7 @@
     "geom:longitude":40.434938,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.004221,
     "lbl:longitude":40.43746,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Rize",
     "meso:admin_1":"Rize",
     "meso:gadm_admin":"Derepazar\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":40.43746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0637\u0631\u0627\u0628\u0632\u0648\u0646"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Derepazar\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Derepazar"
     ],
     "name:urd_x_preferred":[
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"23",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Derepazari",
@@ -132,7 +135,7 @@
         "gn:id":748230,
         "gp:id":29390262,
         "hasc:id":"TR.RI.DE",
-        "qs:id":908664,
+        "qs_pg:id":908664,
         "wd:id":"Q2670684",
         "wk:page":"Derepazar\u0131"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":890461975,
-    "wof:lastmodified":1563361838,
+    "wof:lastmodified":1566586543,
     "wof:name":"Derepazar\u0131",
     "wof:parent_id":85679377,
     "wof:placetype":"county",

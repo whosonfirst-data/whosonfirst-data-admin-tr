@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"36.5495,36.9145,36.5895,36.9545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ayd\u0131no\u011flu"
     ],
@@ -35,10 +39,6 @@
         "Xolto"
     ],
     "name:tur_x_preferred":[
-        "Alt\u0131n\u00fcz\u00fcm"
-    ],
-    "name:und_x_variant":[
-        "Ayd\u0131no\u011flu",
         "Alt\u0131n\u00fcz\u00fcm"
     ],
     "name:vie_x_preferred":[
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":1276467143,
-    "wof:lastmodified":1564159880,
+    "wof:lastmodified":1566584137,
     "wof:name":"Altinuzum",
     "wof:parent_id":1108709219,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"32.68522,41.26075,32.72522,41.30075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":743172
     },
     "wof:country":"TR",
-    "wof:geomhash":"73e26fc12dd2745d2316dcda6de0d18d",
+    "wof:geomhash":"13cf686ed820cf03466b5a82afda2863",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209030415,
-    "wof:lastmodified":1536299863,
+    "wof:lastmodified":1566584578,
     "wof:name":"Kirkillibaglari",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.705220000000004,
+    32.70522,
     41.28075,
-    32.705220000000004,
+    32.70522,
     41.28075
 ],
   "geometry": {"coordinates":[32.70522,41.28075],"type":"Point"}

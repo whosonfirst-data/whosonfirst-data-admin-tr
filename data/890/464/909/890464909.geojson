@@ -11,10 +11,14 @@
     "geom:longitude":41.91028,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":329,
+    "gn:population":329,
     "iso:country":"TR",
+    "lbl:bbox":"41.89028,37.27278,41.93028,37.31278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "\u00dc\u00e7ok"
     ],
@@ -96,9 +100,6 @@
     "name:tur_x_preferred":[
         "\u00dc\u00e7ok"
     ],
-    "name:unk_x_variant":[
-        "Babek"
-    ],
     "name:vie_x_preferred":[
         "\u00dc\u00e7ok"
     ],
@@ -119,7 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298555,
-        "qs:id":547242,
+        "qs_pg:id":547242,
         "wd:id":"Q6456087"
     },
     "wof:country":"TR",
@@ -135,7 +136,7 @@
         }
     ],
     "wof:id":890464909,
-    "wof:lastmodified":1563361121,
+    "wof:lastmodified":1566586266,
     "wof:name":"Babik",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

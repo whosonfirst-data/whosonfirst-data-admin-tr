@@ -11,7 +11,7 @@
     "geom:longitude":33.440886,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.437872,
     "lbl:longitude":33.462144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Aksaray",
     "meso:admin_1":"Aksaray",
     "meso:gadm_admin":"Eskil",
@@ -41,6 +43,7 @@
     "mps:longitude":33.462144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0633\u06a9\u06cc\u0644"
     ],
@@ -116,7 +119,7 @@
     "name:tur_x_preferred":[
         "Eskil"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eskiil"
     ],
     "name:urd_x_preferred":[
@@ -143,9 +146,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1369",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Eskil",
@@ -167,7 +170,7 @@
         "gn:id":315218,
         "gp:id":29390318,
         "hasc:id":"TR.AK.ES",
-        "qs:id":893926,
+        "qs_pg:id":893926,
         "wd:id":"Q1917854",
         "wk:page":"Eskil"
     },
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":890462293,
-    "wof:lastmodified":1563361377,
+    "wof:lastmodified":1566586378,
     "wof:name":"Eskil",
     "wof:parent_id":85679457,
     "wof:placetype":"county",

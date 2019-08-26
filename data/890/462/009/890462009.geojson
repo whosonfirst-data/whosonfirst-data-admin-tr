@@ -11,7 +11,7 @@
     "geom:longitude":38.057712,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":13139,
+    "gn:population":13139,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.333177,
     "lbl:longitude":38.095708,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sivas",
     "meso:admin_1":"Sivas",
     "meso:gadm_admin":"Divri\u011fi",
@@ -41,6 +43,7 @@
     "mps:longitude":38.095708,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0414\u044b\u045e\u0440\u044b\u0439\u0456"
     ],
@@ -80,7 +83,7 @@
     "name:rus_x_preferred":[
         "\u0414\u0438\u0432\u0440\u0438\u0433\u0438"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tephrike"
     ],
     "name:zho_x_preferred":[
@@ -101,9 +104,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2724",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Divrigi",
@@ -127,7 +130,7 @@
         "gn:id":316544,
         "gp:id":29390273,
         "hasc:id":"TR.SV.DI",
-        "qs:id":942422,
+        "qs_pg:id":942422,
         "wd:id":"Q2755924",
         "wk:page":"Divri\u011fi"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890462009,
-    "wof:lastmodified":1561769274,
+    "wof:lastmodified":1566586376,
     "wof:name":"Divri\u011fi",
     "wof:parent_id":85679355,
     "wof:placetype":"county",

@@ -11,8 +11,10 @@
     "geom:longitude":37.37693,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"37.37193,37.057902,37.38193,37.067902",
     "lbl:latitude":37.062902,
     "lbl:longitude":37.37693,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.063889,
     "mps:longitude":37.378018,
     "mz:hierarchy_label":0,
@@ -183,12 +185,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439"
     ],
-    "name:und_x_preferred":[
-        "Bey"
-    ],
-    "name:unk_x_variant":[
-        "Bey"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u06af"
     ],
@@ -225,7 +221,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85679437,
         102191569,
@@ -235,7 +231,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042983,
-        "qs:id":184292
+        "qs_pg:id":184292
     },
     "wof:country":"TR",
     "wof:geomhash":"2cf266abdef17ae1d57c7f1fc028717e",
@@ -253,7 +249,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564158357,
+    "wof:lastmodified":1566582930,
     "wof:name":"Bey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

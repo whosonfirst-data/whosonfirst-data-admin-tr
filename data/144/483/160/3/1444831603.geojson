@@ -10,8 +10,10 @@
     "geom:latitude":41.093676,
     "geom:longitude":29.097803,
     "iso:country":"TR",
+    "lbl:bbox":"29.0928029649,41.0886756893,29.1028029649,41.0986756893",
     "lbl:latitude":41.093676,
     "lbl:longitude":29.097803,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912645,
-        890461921,
-        85679237
+        890461921
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444831603,
-    "wof:lastmodified":1566339691,
+    "wof:lastmodified":1566584827,
     "wof:name":"Ruzgarlibahce",
     "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",

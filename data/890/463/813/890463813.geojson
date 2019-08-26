@@ -11,10 +11,14 @@
     "geom:longitude":41.67635,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":24553,
+    "gn:population":24553,
     "iso:country":"TR",
+    "lbl:bbox":"41.65635,39.96031,41.69635,40.00031",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Pasinler"
     ],
@@ -195,7 +199,7 @@
     "name:tur_x_preferred":[
         "Pasinler"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hasankale"
     ],
     "name:vec_x_preferred":[
@@ -235,7 +239,7 @@
     "wof:concordances":{
         "gn:id":302824,
         "gp:id":2344319,
-        "qs:id":204382,
+        "qs_pg:id":204382,
         "wd:id":"Q2441686",
         "wk:page":"Pasinler"
     },
@@ -252,7 +256,7 @@
         }
     ],
     "wof:id":890463813,
-    "wof:lastmodified":1563361072,
+    "wof:lastmodified":1566586249,
     "wof:name":"Pasinler",
     "wof:parent_id":1108709803,
     "wof:placetype":"locality",

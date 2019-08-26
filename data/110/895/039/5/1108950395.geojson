@@ -10,8 +10,10 @@
     "geom:latitude":41.036154,
     "geom:longitude":28.966815,
     "iso:country":"TR",
+    "lbl:bbox":"28.961815379,41.0311535268,28.971815379,41.0411535268",
     "lbl:latitude":41.036154,
     "lbl:longitude":28.966815,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -99,7 +101,7 @@
     "name:war_x_preferred":[
         "K\u00fc\u00e7\u00fckpiyale"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":1108950395,
-    "wof:lastmodified":1563359584,
+    "wof:lastmodified":1566585292,
     "wof:name":"Kucuk Piyale",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

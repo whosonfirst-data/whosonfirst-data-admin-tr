@@ -11,10 +11,14 @@
     "geom:longitude":40.83806,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":79,
+    "gn:population":79,
     "iso:country":"TR",
+    "lbl:bbox":"40.81806,37.29361,40.85806,37.33361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "B\u00fclb\u00fcl"
     ],
@@ -122,7 +126,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":320441,
-        "qs:id":547641,
+        "qs_pg:id":547641,
         "wd:id":"Q821370"
     },
     "wof:country":"TR",
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890459639,
-    "wof:lastmodified":1563361911,
+    "wof:lastmodified":1566586585,
     "wof:name":"Benabil",
     "wof:parent_id":890462071,
     "wof:placetype":"locality",

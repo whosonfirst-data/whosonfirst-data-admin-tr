@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.203,
     "lbl:longitude":39.777915,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyarbakir",
     "meso:admin_1":"Diyarbakir",
     "meso:gadm_admin":"Ergani",
@@ -37,6 +39,7 @@
     "mps:longitude":39.777915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0631\u0642\u0627\u0646\u06cc"
     ],
@@ -134,9 +137,9 @@
         "\u57c3\u723e\u52a0\u5c3c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1468",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Ergani",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1108709491,
-    "wof:lastmodified":1563359703,
+    "wof:lastmodified":1566585348,
     "wof:name":"Ergani",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

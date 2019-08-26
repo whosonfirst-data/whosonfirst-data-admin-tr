@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"30.88609,40.83899,30.92609,40.87899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":8140650
     },
     "wof:country":"TR",
-    "wof:geomhash":"23f4f33a7cb625509eed2142613eefcc",
+    "wof:geomhash":"73d088e3c728570a36fbe1e269dfe87f",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209540399,
-    "wof:lastmodified":1536284006,
+    "wof:lastmodified":1566584294,
     "wof:name":"Hacialiler",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.906090000000006,
+    30.90609000000001,
     40.85899000000001,
-    30.906090000000006,
+    30.90609000000001,
     40.85899000000001
 ],
   "geometry": {"coordinates":[30.90609000000001,40.85899000000001],"type":"Point"}

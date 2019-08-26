@@ -11,7 +11,7 @@
     "geom:longitude":30.867306,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":15076,
+    "gn:population":15076,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.997187,
     "lbl:longitude":30.877761,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sakarya",
     "meso:admin_1":"Sakarya",
     "meso:gadm_admin":"Kocaali",
@@ -41,6 +43,7 @@
     "mps:longitude":30.877761,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Kocaali"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "Kocaali"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yukar\u0131 Kocaali"
     ],
     "name:urd_x_preferred":[
@@ -126,9 +129,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"315",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kocaali",
@@ -150,7 +153,7 @@
         "gn:id":742902,
         "gp:id":29390499,
         "hasc:id":"TR.SK.KO",
-        "qs:id":207405,
+        "qs_pg:id":207405,
         "wd:id":"Q94593",
         "wk:page":"Kocaali"
     },
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":890460547,
-    "wof:lastmodified":1563361644,
+    "wof:lastmodified":1566586474,
     "wof:name":"Kocaali",
     "wof:parent_id":85679245,
     "wof:placetype":"county",

@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.017317,
     "lbl:longitude":28.954566,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.017838,
     "mps:longitude":28.955933,
     "mz:hierarchy_label":1,
@@ -42,12 +43,6 @@
     ],
     "name:tur_x_variant":[
         "Zeyrek"
-    ],
-    "name:und_x_preferred":[
-        "H\u00fcsam Bey"
-    ],
-    "name:unk_x_variant":[
-        "H\u00fcsam Bey"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -84,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724063,
-        "qs:id":14454,
+        "qs_pg:id":14454,
         "wd:id":"Q8069961"
     },
     "wof:country":"TR",
@@ -102,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247577,
+    "wof:lastmodified":1566582920,
     "wof:name":"Zeyrek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"36.52053,40.81234,36.56053,40.85234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Catalan"
     ],
@@ -68,8 +72,7 @@
         "Katalan"
     ],
     "name:und_x_variant":[
-        "\u00c7atalan K\u00f6y\u00fc",
-        "\u00c7atalan"
+        "\u00c7atalan K\u00f6y\u00fc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1242899441,
-    "wof:lastmodified":1564163234,
+    "wof:lastmodified":1566586753,
     "wof:name":"Catalan",
     "wof:parent_id":1108709485,
     "wof:placetype":"locality",

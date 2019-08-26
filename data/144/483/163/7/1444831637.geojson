@@ -10,8 +10,10 @@
     "geom:latitude":41.131958,
     "geom:longitude":29.094885,
     "iso:country":"TR",
+    "lbl:bbox":"29.08988472,41.1269581217,29.09988472,41.1369581217",
     "lbl:latitude":41.131958,
     "lbl:longitude":29.094885,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461921,
-        85679237
+        890461921
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831637,
-    "wof:lastmodified":1566339693,
+    "wof:lastmodified":1566584848,
     "wof:name":"Beykoz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

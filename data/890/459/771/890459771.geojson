@@ -11,11 +11,15 @@
     "geom:longitude":41.98333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":869,
+    "gn:population":869,
     "iso:country":"TR",
+    "lbl:bbox":"41.96333,37.18028,42.00333,37.22028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "A\u015fa\u011f\u0131 Zergus"
     ],
     "qs:name":"Yav\u015fan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":297537,
-        "qs:id":79998
+        "qs_pg:id":79998
     },
     "wof:country":"TR",
     "wof:created":1469053281,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459771,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586568,
     "wof:name":"Yav\u015fan",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

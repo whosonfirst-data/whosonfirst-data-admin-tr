@@ -11,7 +11,7 @@
     "geom:longitude":33.347465,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3287,
+    "gn:population":3287,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.685765,
     "lbl:longitude":33.366904,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kastamonu",
     "meso:admin_1":"Kastamonu",
     "meso:gadm_admin":"Azdavay",
@@ -41,6 +43,7 @@
     "mps:longitude":33.366904,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Azdavay"
     ],
@@ -77,7 +80,7 @@
     "name:tur_x_preferred":[
         "Azdavay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7ar\u015famba"
     ],
     "name:urd_x_preferred":[
@@ -99,9 +102,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"772",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Azdavay",
@@ -123,7 +126,7 @@
         "gn:id":751388,
         "gp:id":29390114,
         "hasc:id":"TR.KS.AZ",
-        "qs:id":129233,
+        "qs_pg:id":129233,
         "wd:id":"Q1871083",
         "wk:page":"Azdavay"
     },
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":890460195,
-    "wof:lastmodified":1563361492,
+    "wof:lastmodified":1566586424,
     "wof:name":"Azdavay",
     "wof:parent_id":85679259,
     "wof:placetype":"county",

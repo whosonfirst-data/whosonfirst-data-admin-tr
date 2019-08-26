@@ -10,8 +10,10 @@
     "geom:latitude":40.955833,
     "geom:longitude":29.335206,
     "iso:country":"TR",
+    "lbl:bbox":"29.3302059051,40.9508326912,29.3402059051,40.9608326912",
     "lbl:latitude":40.955833,
     "lbl:longitude":29.335206,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461937,
-        85679237
+        890461937
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833313,
-    "wof:lastmodified":1566339893,
+    "wof:lastmodified":1566584825,
     "wof:name":"Kurna",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

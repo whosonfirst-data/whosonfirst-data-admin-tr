@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.880699,
     "lbl:longitude":37.549394,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Gaziantep",
     "meso:admin_1":"Gaziantep",
     "meso:gadm_admin":"O\u011fuzeli",
@@ -37,6 +39,7 @@
     "mps:longitude":37.549394,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "O\u011fuzeli \u0130l\u00e7esi"
     ],
@@ -95,9 +98,9 @@
         "O\u011fuzeli"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"681",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Oguzeli",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108709769,
-    "wof:lastmodified":1563359706,
+    "wof:lastmodified":1566585349,
     "wof:name":"O\u011fuzeli",
     "wof:parent_id":85679437,
     "wof:placetype":"county",

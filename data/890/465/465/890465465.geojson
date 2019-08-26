@@ -11,11 +11,15 @@
     "geom:longitude":42.03583,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":42,
+    "gn:population":42,
     "iso:country":"TR",
+    "lbl:bbox":"42.01583,37.68528,42.05583,37.72528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "B\u00fcy\u00fckbozatl\u0131"
     ],
     "qs:name":"Bozatl\u0131",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":320283,
-        "qs:id":547638
+        "qs_pg:id":547638
     },
     "wof:country":"TR",
     "wof:created":1469053520,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465465,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586337,
     "wof:name":"Bozatl\u0131",
     "wof:parent_id":1108709493,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":37.115,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":82301,
+    "gn:population":82301,
     "iso:country":"TR",
+    "lbl:bbox":"37.095,36.69611,37.135,36.73611",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -181,7 +184,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u043b\u0456\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ciliza"
     ],
     "name:urd_x_preferred":[
@@ -307,10 +310,12 @@
     "wof:concordances":{
         "gn:id":307864,
         "gp:id":2344192,
-        "qs:id":204786,
-        "qs_pg:id":1134807,
+        "qs_pg:id":204786,
         "wd:id":"Q206881",
         "wk:page":"Kilis"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134807
     },
     "wof:country":"TR",
     "wof:created":1469053448,
@@ -325,7 +330,7 @@
         }
     ],
     "wof:id":890463903,
-    "wof:lastmodified":1563361041,
+    "wof:lastmodified":1566586237,
     "wof:name":"Kilis",
     "wof:parent_id":1108709741,
     "wof:placetype":"locality",

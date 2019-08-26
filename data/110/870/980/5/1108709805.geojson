@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.17195,
     "lbl:longitude":42.886614,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Agri",
     "meso:admin_1":"Agri",
     "meso:gadm_admin":"Patnos",
@@ -37,6 +39,7 @@
     "mps:longitude":42.886614,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u067e\u0627\u062a\u0646\u0648\u0633"
     ],
@@ -119,9 +122,9 @@
         "\u5e15\u7279\u8afe\u65af"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1456",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Patnos",
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1108709805,
-    "wof:lastmodified":1564161507,
+    "wof:lastmodified":1566585373,
     "wof:name":"Patnos",
     "wof:parent_id":85679387,
     "wof:placetype":"county",

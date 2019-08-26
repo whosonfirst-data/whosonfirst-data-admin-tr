@@ -12,8 +12,10 @@
     "gn:latitude":40.24704,
     "gn:longitude":29.01901,
     "iso:country":"TR",
+    "lbl:bbox":"29.062105,40.225959,29.072105,40.235959",
     "lbl:latitude":40.230959,
     "lbl:longitude":29.067105,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.224445,
     "mps:longitude":29.070796,
     "mz:hierarchy_label":0,
@@ -79,12 +81,6 @@
     "name:tur_x_preferred":[
         "Osmangazi"
     ],
-    "name:und_x_preferred":[
-        "Osmangazi"
-    ],
-    "name:unk_x_variant":[
-        "Osmangazi"
-    ],
     "name:urd_x_preferred":[
         "\u0639\u062b\u0645\u0627\u0646 \u063a\u0627\u0632\u06cc"
     ],
@@ -121,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":943,
     "wof:belongsto":[
         85679231,
@@ -133,7 +129,7 @@
     "wof:concordances":{
         "gn:id":7701435,
         "gp:id":55870704,
-        "qs:id":1000626,
+        "qs_pg:id":1000626,
         "wd:id":"Q1023140"
     },
     "wof:country":"TR",
@@ -152,7 +148,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356524,
+    "wof:lastmodified":1566582943,
     "wof:name":"Osmangazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

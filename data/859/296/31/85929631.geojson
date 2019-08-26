@@ -11,8 +11,10 @@
     "geom:longitude":27.049747,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"27.044747,38.385555,27.054747,38.395555",
     "lbl:latitude":38.390555,
     "lbl:longitude":27.049747,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.39172,
     "mps:longitude":27.051134,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:tur_x_preferred":[
         "Fahrettin Altay"
     ],
-    "name:unk_x_variant":[
-        "Fahrettin Altay"
-    ],
     "name:zho_x_preferred":[
         "\u6cd5\u745e\u4e01\u00b7\u963f\u52d2\u6cf0"
     ],
@@ -84,7 +83,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":523,
     "wof:belongsto":[
         85679201,
@@ -95,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865424,
-        "qs:id":1319040,
+        "qs_pg:id":1319040,
         "wd:id":"Q5429616"
     },
     "wof:country":"TR",
@@ -114,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563356520,
+    "wof:lastmodified":1566582940,
     "wof:name":"Fahrettin Altay",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

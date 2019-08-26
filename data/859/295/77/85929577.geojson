@@ -10,8 +10,10 @@
     "geom:latitude":39.936725,
     "geom:longitude":32.84868,
     "iso:country":"TR",
+    "lbl:bbox":"32.84368,39.931725,32.85368,39.941725",
     "lbl:latitude":39.936725,
     "lbl:longitude":32.84868,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.938172,
     "mps:longitude":32.847133,
     "mz:hierarchy_label":0,
@@ -27,12 +29,6 @@
         "Doganbey"
     ],
     "name:tur_x_preferred":[
-        "Do\u011fanbey"
-    ],
-    "name:und_x_preferred":[
-        "Do\u011fanbey"
-    ],
-    "name:unk_x_variant":[
         "Do\u011fanbey"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -63,7 +59,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":49,
     "wof:belongsto":[
         85679409,
@@ -91,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564158351,
+    "wof:lastmodified":1566582923,
     "wof:name":"Do\u011fanbey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

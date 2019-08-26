@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":40.81717,
     "lbl:longitude":29.304749,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.813112,
     "mps:longitude":29.309183,
     "mz:hierarchy_label":1,
@@ -25,10 +26,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Cami"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cami"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -57,7 +55,6 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85679237,
@@ -68,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871343,
-        "qs:id":136946
+        "qs_pg:id":136946
     },
     "wof:country":"TR",
     "wof:geomhash":"6b6bc0e6c877a21d3e4cc95b6c2cde06",
@@ -92,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582912,
     "wof:name":"Cami",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

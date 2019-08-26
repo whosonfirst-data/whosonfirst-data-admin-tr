@@ -11,11 +11,15 @@
     "geom:longitude":34.36667,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"34.34667,36.66333,34.38667,36.70333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "T\u00f6m\u00fck"
     ],
@@ -40,7 +44,7 @@
     "name:tur_x_variant":[
         "T\u00f6m\u00fck"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elvanl\u0131"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":299044,
         "gp:id":2339309,
-        "qs:id":322791,
+        "qs_pg:id":322791,
         "wd:id":"Q3233906",
         "wk:page":"T\u00f6m\u00fck"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890461063,
-    "wof:lastmodified":1563361716,
+    "wof:lastmodified":1566586501,
     "wof:name":"T\u00f6m\u00fck",
     "wof:parent_id":890460375,
     "wof:placetype":"locality",

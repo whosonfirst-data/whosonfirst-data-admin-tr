@@ -11,11 +11,15 @@
     "geom:longitude":26.97203,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":44883,
+    "gn:population":44883,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.95203,38.77975,26.99203,38.81975",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:cat_x_preferred":[
         "Alia\u011fa"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u0456\u0430\u0433\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alia\u011fa\u00e7iftli\u011fi"
     ],
     "name:vie_x_preferred":[
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":324106,
         "gp:id":2343717,
-        "qs:id":1211773,
+        "qs_pg:id":1211773,
         "wd:id":"Q996748",
         "wk:page":"Alia\u011fa"
     },
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":890463565,
-    "wof:lastmodified":1563361050,
+    "wof:lastmodified":1566586240,
     "wof:name":"Alia\u011fa",
     "wof:parent_id":890462515,
     "wof:placetype":"locality",

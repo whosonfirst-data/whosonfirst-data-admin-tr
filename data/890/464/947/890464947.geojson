@@ -11,11 +11,15 @@
     "geom:longitude":42.08806,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":283,
+    "gn:population":283,
     "iso:country":"TR",
+    "lbl:bbox":"42.06806,37.29167,42.10806,37.33167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bat\u0131l"
     ],
     "qs:name":"Batyl",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299281,
-        "qs:id":547264
+        "qs_pg:id":547264
     },
     "wof:country":"TR",
     "wof:created":1469053492,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890464947,
-    "wof:lastmodified":1505343700,
+    "wof:lastmodified":1566586294,
     "wof:name":"Batyl",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

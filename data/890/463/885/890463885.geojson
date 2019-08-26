@@ -11,10 +11,14 @@
     "geom:longitude":30.28694,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"30.26694,36.35028,30.30694,36.39028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0642\u0648\u0645\u0644\u0648\u062c\u0627"
     ],
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":305681,
         "gp:id":56122426,
-        "qs:id":204643,
+        "qs_pg:id":204643,
         "wd:id":"Q1004471",
         "wk:page":"Kumluca"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890463885,
-    "wof:lastmodified":1563361068,
+    "wof:lastmodified":1566586247,
     "wof:name":"Kumluca",
     "wof:parent_id":890463099,
     "wof:placetype":"locality",

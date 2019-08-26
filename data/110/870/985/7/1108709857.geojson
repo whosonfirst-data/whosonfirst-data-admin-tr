@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":41.438698,
     "lbl:longitude":27.920833,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tekirdag",
     "meso:admin_1":"Tekirdag",
     "meso:gadm_admin":"Saray",
@@ -37,6 +39,7 @@
     "mps:longitude":27.920833,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0627\u064a"
     ],
@@ -110,9 +113,9 @@
         "Saroy"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"612",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Saray",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108709857,
-    "wof:lastmodified":1564161486,
+    "wof:lastmodified":1566585346,
     "wof:name":"Saray",
     "wof:parent_id":85679223,
     "wof:placetype":"county",

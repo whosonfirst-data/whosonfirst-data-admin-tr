@@ -11,10 +11,14 @@
     "geom:longitude":31.80995,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"31.78995,39.36345,31.82995,39.40345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "G\u00fcny\u00fcz\u00fc \u0130l\u00e7esi"
     ],
@@ -51,7 +55,7 @@
     "name:tur_x_preferred":[
         "G\u00fcny\u00fcz\u00fc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koza\u011fac\u0131"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313393,
-        "qs:id":1061652,
+        "qs_pg:id":1061652,
         "wd:id":"Q1919824",
         "wk:page":"G\u00fcny\u00fcz\u00fc"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890460323,
-    "wof:lastmodified":1563361560,
+    "wof:lastmodified":1566586446,
     "wof:name":"G\u00fcny\u00fcz\u00fc",
     "wof:parent_id":1108709539,
     "wof:placetype":"locality",

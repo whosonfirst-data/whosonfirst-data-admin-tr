@@ -11,11 +11,15 @@
     "geom:longitude":29.2,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.18,41.19667,29.22,41.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Anadolu Feneri"
     ],
@@ -28,7 +32,7 @@
     "name:tur_x_preferred":[
         "Anadolu Feneri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anadolu Fener"
     ],
     "qs:name":"Anadolufeneri",
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":751995,
         "gp:id":2308412,
-        "qs:id":1159749,
+        "qs_pg:id":1159749,
         "wd:id":"Q4750771",
         "wk:page":"Anadolu Feneri"
     },
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890462815,
-    "wof:lastmodified":1563361434,
+    "wof:lastmodified":1566586400,
     "wof:name":"Anadolufeneri",
     "wof:parent_id":890461921,
     "wof:placetype":"locality",

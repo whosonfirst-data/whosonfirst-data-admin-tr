@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.139935,
     "lbl:longitude":29.085422,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.138167,
     "mps:longitude":29.074736,
     "mz:hierarchy_label":1,
@@ -103,10 +104,7 @@
     "name:und_x_colloquial":[
         "Yalikoy"
     ],
-    "name:und_x_preferred":[
-        "Yalik\u00f6y"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yalik\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +154,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871172,
-        "qs:id":1337732,
+        "qs_pg:id":1337732,
         "wd:id":"Q6069912"
     },
     "wof:country":"TR",
@@ -174,7 +172,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582907,
     "wof:name":"Yalik\u00f6y",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

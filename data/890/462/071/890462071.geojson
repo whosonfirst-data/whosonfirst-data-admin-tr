@@ -11,7 +11,7 @@
     "geom:longitude":40.850208,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":37.258103,
     "lbl:longitude":40.861894,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Mardin",
     "meso:admin_1":"Mardin",
     "meso:gadm_admin":"Merkez",
@@ -44,6 +46,7 @@
     "mps:longitude":40.861894,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u06cc\u0627\u0634\u06cc\u0644\u0644\u06cc"
     ],
@@ -134,9 +137,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"969",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Mardin",
@@ -160,7 +163,7 @@
         "gn:id":441187,
         "gp:id":29390881,
         "hasc:id":"TR.MR.MR",
-        "qs:id":968434,
+        "qs_pg:id":968434,
         "wd:id":"Q1004602",
         "wk:page":"Ye\u015filli"
     },
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":890462071,
-    "wof:lastmodified":1563361355,
+    "wof:lastmodified":1566586371,
     "wof:name":"Ye\u015filli",
     "wof:parent_id":85679481,
     "wof:placetype":"county",

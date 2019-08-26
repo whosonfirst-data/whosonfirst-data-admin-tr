@@ -11,14 +11,18 @@
     "geom:longitude":40.49833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":222,
+    "gn:population":222,
     "iso:country":"TR",
+    "lbl:bbox":"40.47833,37.68806,40.51833,37.72806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "\u0130ncirtepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "T\u0131larab"
     ],
     "qs:name":"\u0130ncirtepe",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":311310,
         "gp:id":2343896,
-        "qs:id":547457
+        "qs_pg:id":547457
     },
     "wof:country":"TR",
     "wof:created":1469053509,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890465217,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586332,
     "wof:name":"\u0130ncirtepe",
     "wof:parent_id":890463353,
     "wof:placetype":"locality",

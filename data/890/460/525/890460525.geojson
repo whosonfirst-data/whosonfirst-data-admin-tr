@@ -11,11 +11,15 @@
     "geom:longitude":28.27417,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":33731,
+    "gn:population":33731,
     "gp:adm0":23424833,
     "iso:country":"TR",
+    "lbl:bbox":"28.25417,36.835,28.29417,36.875",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0645\u0627\u0631\u064a\u0633"
     ],
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u043c\u0430\u0440\u0438\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Physcus"
     ],
     "name:zho_x_preferred":[
@@ -149,7 +153,7 @@
     "wof:concordances":{
         "gn:id":304782,
         "gp:id":956304,
-        "qs:id":239955,
+        "qs_pg:id":239955,
         "wd:id":"Q2109972",
         "wk:page":"Marmari"
     },
@@ -166,7 +170,7 @@
         }
     ],
     "wof:id":890460525,
-    "wof:lastmodified":1563361649,
+    "wof:lastmodified":1566586475,
     "wof:name":"Marmari",
     "wof:parent_id":890460753,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":42.64874,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1066,
+    "gn:population":1066,
     "iso:country":"TR",
+    "lbl:bbox":"42.62874,37.88626,42.66874,37.92626",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "G\u00f6kbudak"
     ],
@@ -30,7 +34,7 @@
     "name:tur_x_preferred":[
         "G\u00f6kbudak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sanuh"
     ],
     "name:vie_x_preferred":[
@@ -50,7 +54,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":314373,
-        "qs:id":547524,
+        "qs_pg:id":547524,
         "wd:id":"Q10763548"
     },
     "wof:country":"TR",
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890459437,
-    "wof:lastmodified":1561769304,
+    "wof:lastmodified":1566586560,
     "wof:name":"G\u00f6kbudak",
     "wof:parent_id":890461169,
     "wof:placetype":"locality",

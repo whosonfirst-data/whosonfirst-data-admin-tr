@@ -11,11 +11,15 @@
     "geom:longitude":27.18052,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":57200,
+    "gn:population":57200,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.16052,39.10074,27.20052,39.14074",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u063a\u0627\u0645\u0627"
     ],
@@ -175,9 +179,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0440\u0433\u0430\u043c\u0430"
     ],
-    "name:unk_x_variant":[
-        "Pergame"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0631\u06af\u0627\u0645\u0627"
     ],
@@ -214,7 +215,7 @@
     "wof:concordances":{
         "gn:id":321426,
         "gp:id":2343797,
-        "qs:id":237095,
+        "qs_pg:id":237095,
         "wd:id":"Q737822",
         "wk:page":"Bergama"
     },
@@ -231,7 +232,7 @@
         }
     ],
     "wof:id":890464493,
-    "wof:lastmodified":1563361237,
+    "wof:lastmodified":1566586312,
     "wof:name":"Bergama",
     "wof:parent_id":890462839,
     "wof:placetype":"locality",

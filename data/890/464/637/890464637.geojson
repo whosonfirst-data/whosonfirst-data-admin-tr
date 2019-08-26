@@ -11,14 +11,18 @@
     "geom:longitude":43.04,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":142,
+    "gn:population":142,
     "iso:country":"TR",
+    "lbl:bbox":"43.02,37.52222,43.06,37.56222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "Zerbil\u2019"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zerbil"
     ],
     "qs:name":"Koyunoba",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":306143,
-        "qs:id":547383
+        "qs_pg:id":547383
     },
     "wof:country":"TR",
     "wof:created":1469053480,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890464637,
-    "wof:lastmodified":1505343698,
+    "wof:lastmodified":1566586314,
     "wof:name":"Koyunoba",
     "wof:parent_id":1108709387,
     "wof:placetype":"locality",

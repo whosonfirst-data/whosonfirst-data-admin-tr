@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11199149.123676,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.173756,40.177022,29.173756,40.177022",
     "geom:latitude":40.177022,
     "geom:longitude":29.173756,
     "gn:latitude":40.55,
     "gn:longitude":29.5,
     "iso:country":"TR",
+    "lbl:bbox":"29.168756,40.172022,29.178756,40.182022",
     "lbl:latitude":40.177022,
     "lbl:longitude":29.173756,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.176081,
     "mps:longitude":29.172655,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:tur_x_preferred":[
         "Karap\u0131nar"
     ],
-    "name:und_x_preferred":[
-        "Karapinar"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karapinar"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -61,19 +60,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":132,
     "wof:belongsto":[
+        85679231,
         102191569,
         85632393,
-        890463215,
-        85679231
+        890463215
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":744127,
         "gp:id":55871267,
-        "qs:id":267739
+        "qs_pg:id":267739
     },
     "wof:country":"TR",
     "wof:geomhash":"d1dbaf514bc3d12a135de01292edea8b",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939176,
+    "wof:lastmodified":1566582911,
     "wof:name":"Karapinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

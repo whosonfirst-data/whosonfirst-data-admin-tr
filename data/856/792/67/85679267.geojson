@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":38.660019,
     "lbl:longitude":30.545725,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Afyon",
     "mps:latitude":38.660693,
     "mps:longitude":30.547644,
@@ -282,7 +283,7 @@
         "Afyonkarahisar"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0baa\u0bbf\u0baf\u0bcb\u0ba9\u0bcd\u0b95\u0bb0\u0bcd\u0bb9\u0bbf\u0bb7\u0bb0\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0baa\u0bbf\u0baf\u0bcb\u0ba9\u0bcd\u0b95\u0bb0\u0bcd\u0bb9\u0bbf\u0bb7\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c2b\u0c4d\u0c2f\u0c4b\u0c02\u0c15\u0c3e\u0c30\u0c3e\u0c39\u0c3f\u0c38\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -311,13 +312,8 @@
     "name:ukr_x_preferred":[
         "\u0410\u0444\u044c\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u0456\u0441\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Afyonkarahisar"
-    ],
     "name:und_x_variant":[
-        "Afyon"
-    ],
-    "name:unk_x_variant":[
+        "Afyon",
         "Karahisarishahip"
     ],
     "name:urd_x_preferred":[
@@ -416,9 +412,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"14,230",
     "statoids:area_mi":"5,494",
     "statoids:as_of_date":"2007-12-31",
@@ -444,7 +440,7 @@
         "gp:id":2347260,
         "hasc:id":"TR.AF",
         "iso:id":"TR-03",
-        "qs:id":894997,
+        "qs_pg:id":894997,
         "unlc:id":"TR-03",
         "wd:id":"Q45220",
         "wk:page":"Afyonkarahisar Province"
@@ -465,11 +461,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737380,
+    "wof:lastmodified":1566582981,
     "wof:name":"Afyonkarahisar",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":701572,
     "wof:population_rank":11,

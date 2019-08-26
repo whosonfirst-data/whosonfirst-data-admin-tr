@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.82282,
     "lbl:longitude":29.903409,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bilecik",
     "meso:admin_1":"Bilecik",
     "meso:gadm_admin":"Boz\u00fcy\u00fck",
@@ -37,6 +39,7 @@
     "mps:longitude":29.903409,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0632\u0648\u06cc\u0648\u06a9"
     ],
@@ -110,9 +113,9 @@
         "\u535a\u805a\u4e8e\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"854",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Boz\u00fcy\u00fck",
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":1108709403,
-    "wof:lastmodified":1563359692,
+    "wof:lastmodified":1566585342,
     "wof:name":"Boz\u00fcy\u00fck",
     "wof:parent_id":85679227,
     "wof:placetype":"county",

@@ -11,11 +11,14 @@
     "geom:longitude":36.79819,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"36.79319,41.33718,36.80319,41.34718",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Denizevleri",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Samsun",
@@ -38,7 +41,7 @@
     "wof:concordances":{
         "gn:id":7701146,
         "gp:id":56042849,
-        "qs:id":1105199
+        "qs_pg:id":1105199
     },
     "wof:country":"TR",
     "wof:created":1469053394,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890462561,
-    "wof:lastmodified":1505343690,
+    "wof:lastmodified":1566586362,
     "wof:name":"Denizevleri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

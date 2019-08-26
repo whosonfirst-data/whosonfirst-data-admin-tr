@@ -10,8 +10,10 @@
     "geom:latitude":41.094333,
     "geom:longitude":29.821853,
     "iso:country":"TR",
+    "lbl:bbox":"29.8168525638,41.0893325211,29.8268525638,41.0993325211",
     "lbl:latitude":41.094333,
     "lbl:longitude":29.821852,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444834005,
-    "wof:lastmodified":1566339974,
+    "wof:lastmodified":1566584838,
     "wof:name":"Sogullu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":35.21472,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":14734,
+    "gn:population":14734,
     "iso:country":"TR",
+    "lbl:bbox":"35.19472,40.85306,35.23472,40.89306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "G\u00fcm\u00fc\u015fhac\u0131k\u00f6y"
     ],
@@ -66,7 +70,7 @@
     "name:tur_x_preferred":[
         "G\u00fcm\u00fc\u015fhac\u0131k\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hac\u0131k\u00f6y"
     ],
     "name:vie_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":746426,
         "gp:id":2344041,
-        "qs:id":129199,
+        "qs_pg:id":129199,
         "wd:id":"Q2248859",
         "wk:page":"G\u00fcm\u00fc\u015fhac\u0131k\u00f6y"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890460183,
-    "wof:lastmodified":1563361648,
+    "wof:lastmodified":1566586475,
     "wof:name":"G\u00fcm\u00fc\u015fhac\u0131k\u00f6y",
     "wof:parent_id":1108709531,
     "wof:placetype":"locality",

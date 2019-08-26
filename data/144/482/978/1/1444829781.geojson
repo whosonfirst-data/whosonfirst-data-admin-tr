@@ -10,8 +10,10 @@
     "geom:latitude":41.245884,
     "geom:longitude":28.492613,
     "iso:country":"TR",
+    "lbl:bbox":"28.4876133652,41.2408841028,28.4976133652,41.2508841028",
     "lbl:latitude":41.245884,
     "lbl:longitude":28.492613,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462087,
-        85679237
+        890462087
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829781,
-    "wof:lastmodified":1566339475,
+    "wof:lastmodified":1566584819,
     "wof:name":"Canakca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

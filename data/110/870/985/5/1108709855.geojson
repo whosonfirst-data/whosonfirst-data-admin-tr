@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.098865,
     "lbl:longitude":35.493991,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adana",
     "meso:admin_1":"Adana",
     "meso:gadm_admin":"Y\u00fcre\u011fir",
@@ -37,6 +39,7 @@
     "mps:longitude":35.493991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Sar\u0131\u00e7am"
     ],
@@ -83,7 +86,7 @@
         "Sar\u0131\u00e7am"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108709855,
-    "wof:lastmodified":1564161487,
+    "wof:lastmodified":1566585347,
     "wof:name":"Sar\u0131\u00e7am",
     "wof:parent_id":85679443,
     "wof:placetype":"county",

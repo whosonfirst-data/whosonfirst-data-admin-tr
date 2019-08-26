@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3342481.497745,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.061873,40.196542,29.061873,40.196542",
     "geom:latitude":40.196542,
     "geom:longitude":29.061873,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.056873,40.191542,29.066873,40.201542",
     "lbl:latitude":40.196542,
     "lbl:longitude":29.061873,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.198698,
     "mps:longitude":29.065126,
     "mz:hierarchy_label":0,
@@ -48,12 +50,6 @@
     "name:ukr_x_preferred":[
         "\u0423\u043b\u0443"
     ],
-    "name:und_x_preferred":[
-        "Ulu"
-    ],
-    "name:unk_x_variant":[
-        "Ulu"
-    ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
     "qs:gn_local":750269,
@@ -79,17 +75,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679231,
         102191569,
         85632393,
-        890463107,
-        85679231
+        890463107
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870945,
-        "qs:id":473484
+        "qs_pg:id":473484
     },
     "wof:country":"TR",
     "wof:geomhash":"77f56c4fb200aefa3c29a38b1f15a91a",
@@ -107,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939167,
+    "wof:lastmodified":1566582947,
     "wof:name":"Ulu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

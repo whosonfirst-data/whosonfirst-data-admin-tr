@@ -10,8 +10,10 @@
     "geom:latitude":40.999923,
     "geom:longitude":29.147806,
     "iso:country":"TR",
+    "lbl:bbox":"29.1428062141,40.9949231608,29.1528062141,41.0049231608",
     "lbl:latitude":40.999923,
     "lbl:longitude":29.147806,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461267,
-        85679237
+        890461267
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831381,
-    "wof:lastmodified":1566339659,
+    "wof:lastmodified":1566584847,
     "wof:name":"Serifali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

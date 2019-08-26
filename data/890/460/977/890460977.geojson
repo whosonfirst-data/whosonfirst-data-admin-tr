@@ -11,7 +11,7 @@
     "geom:longitude":32.85794,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":17802,
+    "gn:population":17802,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.801337,
     "lbl:longitude":32.854018,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Cankiri",
     "meso:admin_1":"\u00c7ankiri",
     "meso:gadm_admin":"\u00c7erke\u015f",
@@ -41,6 +43,7 @@
     "mps:longitude":32.854018,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "\u00c7erke\u015f"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "\u00c7erke\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mecidiye"
     ],
     "name:urd_x_preferred":[
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"986",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7erkes",
@@ -138,7 +141,7 @@
         "gn:id":749279,
         "gp:id":29390226,
         "hasc:id":"TR.CI.CE",
-        "qs:id":303890,
+        "qs_pg:id":303890,
         "wd:id":"Q2248795",
         "wk:page":"\u00c7erke\u015f"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890460977,
-    "wof:lastmodified":1563361552,
+    "wof:lastmodified":1566586443,
     "wof:name":"\u00c7erke\u015f",
     "wof:parent_id":85679413,
     "wof:placetype":"county",

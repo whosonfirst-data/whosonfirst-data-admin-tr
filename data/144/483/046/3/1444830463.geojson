@@ -10,8 +10,10 @@
     "geom:latitude":41.025417,
     "geom:longitude":29.017297,
     "iso:country":"TR",
+    "lbl:bbox":"29.0122966278,41.0204168464,29.0222966278,41.0304168464",
     "lbl:latitude":41.025417,
     "lbl:longitude":29.017297,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,11 +35,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912675,
-        890462769,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1444830463,
-    "wof:lastmodified":1566339554,
+    "wof:lastmodified":1566584830,
     "wof:name":"Uskudar",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

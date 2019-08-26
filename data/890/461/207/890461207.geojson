@@ -11,10 +11,14 @@
     "geom:longitude":27.76583,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11027,
+    "gn:population":11027,
     "iso:country":"TR",
+    "lbl:bbox":"27.74583,41.5525,27.78583,41.5925",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0648\u06cc\u0632\u0626"
     ],
@@ -121,7 +125,7 @@
     "wof:concordances":{
         "gn:id":738154,
         "gp:id":2344484,
-        "qs:id":359409,
+        "qs_pg:id":359409,
         "wd:id":"Q364021",
         "wk:page":"Vize"
     },
@@ -138,7 +142,7 @@
         }
     ],
     "wof:id":890461207,
-    "wof:lastmodified":1563361795,
+    "wof:lastmodified":1566586530,
     "wof:name":"Vize",
     "wof:parent_id":890460583,
     "wof:placetype":"locality",

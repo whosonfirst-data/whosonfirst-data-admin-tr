@@ -10,8 +10,10 @@
     "geom:latitude":40.985757,
     "geom:longitude":29.181366,
     "iso:country":"TR",
+    "lbl:bbox":"29.1763660302,40.9807569914,29.1863660302,40.9907569914",
     "lbl:latitude":40.985757,
     "lbl:longitude":29.181366,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -34,10 +36,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461267,
-        85679237
+        890461267
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1444831133,
-    "wof:lastmodified":1566339630,
+    "wof:lastmodified":1566584865,
     "wof:name":"Ferhat Pasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

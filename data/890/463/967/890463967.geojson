@@ -11,10 +11,14 @@
     "geom:longitude":30.14056,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":9250,
+    "gn:population":9250,
     "iso:country":"TR",
+    "lbl:bbox":"30.12056,36.275,30.16056,36.315",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064a\u0646\u064a\u0642\u064a\u0647"
     ],
@@ -90,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0456\u043d\u0456\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Phoenicus"
     ],
     "name:urd_x_preferred":[
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":314923,
         "gp:id":2343995,
-        "qs:id":205186,
+        "qs_pg:id":205186,
         "wd:id":"Q1012894",
         "wk:page":"Finike"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":890463967,
-    "wof:lastmodified":1563361045,
+    "wof:lastmodified":1566586238,
     "wof:name":"Finike",
     "wof:parent_id":890462847,
     "wof:placetype":"locality",

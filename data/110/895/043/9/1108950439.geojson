@@ -10,9 +10,12 @@
     "geom:latitude":41.047833,
     "geom:longitude":28.951251,
     "iso:country":"TR",
+    "lbl:bbox":"28.9462507098,41.0428327972,28.9562507098,41.0528327972",
     "lbl:latitude":41.047833,
     "lbl:longitude":28.951251,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "\u00c7\u0131ksal\u0131n"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108950439,
-    "wof:lastmodified":1497292381,
+    "wof:lastmodified":1566585302,
     "wof:name":"Ciksalin",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

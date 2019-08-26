@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":41.516867,
     "lbl:longitude":33.699878,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kastamonu",
     "mps:latitude":41.512941,
     "mps:longitude":33.570753,
@@ -241,7 +242,7 @@
         "Kastamonu"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bb7\u0bcd\u0b9f\u0bae\u0bcb\u0ba9\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bb7\u0bcd\u0b9f\u0bae\u0bcb\u0ba9\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c38\u0c4d\u0c1f\u0c3e\u0c2e\u0c4b\u0c28\u0c41 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -273,13 +274,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
     ],
-    "name:und_x_preferred":[
-        "Kastamonu"
-    ],
     "name:und_x_variant":[
-        "Kastamonu"
-    ],
-    "name:unk_x_variant":[
         "Kastamonu Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -375,9 +370,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"13,108",
     "statoids:area_mi":"5,061",
     "statoids:as_of_date":"2007-12-31",
@@ -403,7 +398,7 @@
         "gp:id":2347292,
         "hasc:id":"TR.KS",
         "iso:id":"TR-37",
-        "qs:id":370042,
+        "qs_pg:id":370042,
         "unlc:id":"TR-37",
         "wd:id":"Q483191",
         "wk:page":"Kastamonu Province"
@@ -424,11 +419,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737380,
+    "wof:lastmodified":1566582981,
     "wof:name":"Kastamonu",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":360366,
     "wof:population_rank":10,

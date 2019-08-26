@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":39.844138,
     "lbl:longitude":33.506581,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":39.844138,
     "mps:longitude":33.506581,
     "mz:hierarchy_label":1,
@@ -314,7 +316,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":39.841667,
     "wd:longitude":33.513889,
@@ -329,10 +331,12 @@
     "wof:concordances":{
         "gn:id":307654,
         "gp:id":2344196,
-        "qs:id":204750,
-        "qs_pg:id":1134814,
+        "qs_pg:id":204750,
         "wd:id":"Q206891",
         "wk:page":"K\u0131r\u0131kkale"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134814
     },
     "wof:country":"TR",
     "wof:geomhash":"167457be363fd09f1c342f37b32c31df",
@@ -346,7 +350,7 @@
         }
     ],
     "wof:id":101911233,
-    "wof:lastmodified":1563360671,
+    "wof:lastmodified":1566586011,
     "wof:name":"K\u0131r\u0131kkale",
     "wof:parent_id":1108709743,
     "wof:placetype":"locality",

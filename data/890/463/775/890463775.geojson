@@ -11,11 +11,14 @@
     "geom:longitude":27.42891,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.42391,38.48209,27.43391,38.49209",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Yeni"
     ],
@@ -114,7 +117,7 @@
     "wof:concordances":{
         "gn:id":6686883,
         "gp:id":56042543,
-        "qs:id":540150,
+        "qs_pg:id":540150,
         "wd:id":"Q6062088",
         "wk:page":"Yeni"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":890463775,
-    "wof:lastmodified":1563361100,
+    "wof:lastmodified":1566586259,
     "wof:name":"Yeni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

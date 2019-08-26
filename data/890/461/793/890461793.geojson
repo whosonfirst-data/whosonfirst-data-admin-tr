@@ -11,11 +11,15 @@
     "geom:longitude":38.38167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":770,
+    "gn:population":770,
     "iso:country":"TR",
+    "lbl:bbox":"38.36167,36.96,38.40167,37.0",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yasl\u0131mezar K\u00f6y\u00fc"
     ],
     "qs:name":"Yonlyu",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":296578,
-        "qs:id":547175
+        "qs_pg:id":547175
     },
     "wof:country":"TR",
     "wof:created":1469053364,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890461793,
-    "wof:lastmodified":1505343687,
+    "wof:lastmodified":1566586515,
     "wof:name":"Yonlyu",
     "wof:parent_id":890460731,
     "wof:placetype":"locality",

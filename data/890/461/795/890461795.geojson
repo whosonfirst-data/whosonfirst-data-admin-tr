@@ -11,10 +11,14 @@
     "geom:longitude":40.96028,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1220,
+    "gn:population":1220,
     "iso:country":"TR",
+    "lbl:bbox":"40.94028,37.47222,40.98028,37.51222",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0627\u0634\u062f\u064a\u0629\u060c \u0645\u0627\u0631\u062f\u064a\u0646"
     ],
@@ -105,7 +109,7 @@
     "name:tur_x_preferred":[
         "\u00dc\u00e7kavak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Re\u015fidi"
     ],
     "name:vie_x_preferred":[
@@ -129,7 +133,7 @@
     "wof:concordances":{
         "gn:id":298585,
         "gp:id":2344374,
-        "qs:id":547231,
+        "qs_pg:id":547231,
         "wd:id":"Q335241"
     },
     "wof:country":"TR",
@@ -145,7 +149,7 @@
         }
     ],
     "wof:id":890461795,
-    "wof:lastmodified":1563361768,
+    "wof:lastmodified":1566586520,
     "wof:name":"Reshidi",
     "wof:parent_id":1108709869,
     "wof:placetype":"locality",

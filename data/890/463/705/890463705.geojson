@@ -11,11 +11,15 @@
     "geom:longitude":43.77255,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"43.75255,39.70236,43.79255,39.74236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:nld_x_preferred":[
         "Tutak"
     ],
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":298726,
         "gp:id":2344459,
-        "qs:id":194996,
+        "qs_pg:id":194996,
         "wk:page":"Tutak"
     },
     "wof:country":"TR",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890463705,
-    "wof:lastmodified":1564162694,
+    "wof:lastmodified":1566586234,
     "wof:name":"Tutak",
     "wof:parent_id":890463125,
     "wof:placetype":"locality",

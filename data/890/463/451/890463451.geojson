@@ -11,7 +11,7 @@
     "geom:longitude":35.406154,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":21167,
+    "gn:population":21167,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.61976,
     "lbl:longitude":35.435927,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kayseri",
     "meso:admin_1":"Kayseri",
     "meso:gadm_admin":"\u0130ncesu",
@@ -41,6 +43,7 @@
     "mps:longitude":35.435927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Hac\u0131lar"
     ],
@@ -113,7 +116,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":74,
     "wof:belongsto":[
@@ -126,7 +129,7 @@
         "gn:id":313013,
         "gp:id":29390397,
         "hasc:id":"TR.KY.IN",
-        "qs:id":124123,
+        "qs_pg:id":124123,
         "wd:id":"Q785077",
         "wk:page":"Hac\u0131lar"
     },
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":890463451,
-    "wof:lastmodified":1563361079,
+    "wof:lastmodified":1566586251,
     "wof:name":"Hac\u0131lar",
     "wof:parent_id":85679321,
     "wof:placetype":"county",

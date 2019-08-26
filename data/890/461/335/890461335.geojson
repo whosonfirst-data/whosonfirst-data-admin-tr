@@ -11,10 +11,14 @@
     "geom:longitude":29.69944,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":78,
+    "gn:population":78,
     "iso:country":"TR",
+    "lbl:bbox":"29.67944,40.58209,29.71944,40.62209",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0639\u062b\u0645\u0627\u0646\u064a\u0629"
     ],
@@ -162,7 +166,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0441\u043c\u0430\u043d\u0456\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mercimek"
     ],
     "name:urd_x_preferred":[
@@ -197,7 +201,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":740876,
-        "qs:id":1030186,
+        "qs_pg:id":1030186,
         "wk:page":"Osmaniye"
     },
     "wof:country":"TR",
@@ -213,7 +217,7 @@
         }
     ],
     "wof:id":890461335,
-    "wof:lastmodified":1564162901,
+    "wof:lastmodified":1566586516,
     "wof:name":"Osmaniye",
     "wof:parent_id":890462667,
     "wof:placetype":"locality",

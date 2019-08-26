@@ -10,8 +10,10 @@
     "geom:latitude":37.873593,
     "geom:longitude":32.490648,
     "iso:country":"TR",
+    "lbl:bbox":"32.485648,37.868593,32.495648,37.878593",
     "lbl:latitude":37.873593,
     "lbl:longitude":32.490648,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.871672,
     "mps:longitude":32.486333,
     "mz:hierarchy_label":0,
@@ -44,12 +46,8 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u043c\u0456\u0434\u0456\u0454"
     ],
-    "name:und_x_preferred":[
-        "Hamidiye"
-    ],
-    "name:unk_x_variant":[
-        "So\u011flu",
-        "Hamidiye"
+    "name:und_x_variant":[
+        "So\u011flu"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPL",
@@ -79,7 +77,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":69,
     "wof:belongsto":[
         85679425,
@@ -91,7 +89,7 @@
     "wof:concordances":{
         "gn:id":312764,
         "gp:id":56042585,
-        "qs:id":235191
+        "qs_pg:id":235191
     },
     "wof:country":"TR",
     "wof:geomhash":"74fff61d9a716a53cfcb9c0795156cdf",
@@ -109,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564158356,
+    "wof:lastmodified":1566582930,
     "wof:name":"Hamidiye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

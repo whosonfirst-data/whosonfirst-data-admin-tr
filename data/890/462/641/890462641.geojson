@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.143308,
     "lbl:longitude":32.600185,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Karabuk",
     "meso:admin_1":"Karab\u00fck",
     "meso:gadm_admin":"Merkez",
@@ -41,6 +43,7 @@
     "mps:longitude":32.600185,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Merkez"
     ],
@@ -59,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"760",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Karab\u00fck",
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gp:id":29390629,
         "hasc:id":"TR.KB.KB",
-        "qs:id":1120059,
+        "qs_pg:id":1120059,
         "wk:page":"Merkez"
     },
     "wof:country":"TR",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890462641,
-    "wof:lastmodified":1561070607,
+    "wof:lastmodified":1566586403,
     "wof:name":"Merkez",
     "wof:parent_id":85679537,
     "wof:placetype":"county",

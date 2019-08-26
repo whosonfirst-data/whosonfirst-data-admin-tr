@@ -11,7 +11,7 @@
     "geom:longitude":31.010067,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":5981,
+    "gn:population":5981,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.778907,
     "lbl:longitude":31.024077,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Eskisehir",
     "meso:admin_1":"Eskisehir",
     "meso:gadm_admin":"Alpu",
@@ -41,6 +43,7 @@
     "mps:longitude":31.024077,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Alpu"
     ],
@@ -77,7 +80,7 @@
     "name:tur_x_preferred":[
         "Alpu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alp\u0131k\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"886",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Alpu",
@@ -121,7 +124,7 @@
         "gn:id":323963,
         "gp:id":29390072,
         "hasc:id":"TR.ES.AL",
-        "qs:id":207342,
+        "qs_pg:id":207342,
         "wd:id":"Q2671060",
         "wk:page":"Alpu"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":890464103,
-    "wof:lastmodified":1563361124,
+    "wof:lastmodified":1566586268,
     "wof:name":"Alpu",
     "wof:parent_id":85679255,
     "wof:placetype":"county",

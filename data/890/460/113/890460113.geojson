@@ -11,10 +11,14 @@
     "geom:longitude":29.82861,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":181,
+    "gn:population":181,
     "iso:country":"TR",
+    "lbl:bbox":"29.80861,40.34778,29.84861,40.38778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Avdan"
     ],
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":751550,
-        "qs:id":83414,
+        "qs_pg:id":83414,
         "wd:id":"Q1154964",
         "wk:page":"Avdan"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890460113,
-    "wof:lastmodified":1561769290,
+    "wof:lastmodified":1566586477,
     "wof:name":"Avdan",
     "wof:parent_id":1108709787,
     "wof:placetype":"locality",

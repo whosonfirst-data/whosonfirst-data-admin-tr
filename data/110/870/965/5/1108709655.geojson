@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.008559,
     "lbl:longitude":30.713797,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Antalya",
     "meso:admin_1":"Antalya",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":30.713797,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Kepez"
     ],
@@ -98,7 +101,7 @@
         "\u06a9\u067e\u06cc\u0632"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108709655,
-    "wof:lastmodified":1563359646,
+    "wof:lastmodified":1566585324,
     "wof:name":"Kepez",
     "wof:parent_id":85679263,
     "wof:placetype":"county",

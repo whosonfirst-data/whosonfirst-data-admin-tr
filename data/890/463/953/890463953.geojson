@@ -11,14 +11,18 @@
     "geom:longitude":41.49444,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2162,
+    "gn:population":2162,
     "iso:country":"TR",
+    "lbl:bbox":"41.47444,37.46778,41.51444,37.50778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "G\u00fclveren"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bahvar"
     ],
     "qs:name":"G\u00fclveren",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313640,
-        "qs:id":205123
+        "qs_pg:id":205123
     },
     "wof:country":"TR",
     "wof:created":1469053450,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890463953,
-    "wof:lastmodified":1505343695,
+    "wof:lastmodified":1566586203,
     "wof:name":"G\u00fclveren",
     "wof:parent_id":890463867,
     "wof:placetype":"locality",

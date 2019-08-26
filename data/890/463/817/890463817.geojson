@@ -11,10 +11,14 @@
     "geom:longitude":39.92889,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":11271,
+    "gn:population":11271,
     "iso:country":"TR",
+    "lbl:bbox":"39.90889,38.67167,39.94889,38.71167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ace_x_preferred":[
         "Palu"
     ],
@@ -168,7 +172,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0430\u043b\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Paluyah"
     ],
     "name:urd_x_preferred":[
@@ -208,7 +212,7 @@
     "wof:concordances":{
         "gn:id":302912,
         "gp:id":2344317,
-        "qs:id":204400,
+        "qs_pg:id":204400,
         "wd:id":"Q15826",
         "wk:page":"Palu"
     },
@@ -225,7 +229,7 @@
         }
     ],
     "wof:id":890463817,
-    "wof:lastmodified":1563360972,
+    "wof:lastmodified":1566586214,
     "wof:name":"Palu",
     "wof:parent_id":1108709799,
     "wof:placetype":"locality",

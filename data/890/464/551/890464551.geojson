@@ -11,11 +11,14 @@
     "geom:longitude":32.88678,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"32.88178,39.94355,32.89178,39.95355",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "qs:name":"Gultepe",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Ankara",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":7927157,
         "gp:id":55865095,
-        "qs:id":242454,
+        "qs_pg:id":242454,
         "wk:page":"Gultepe"
     },
     "wof:country":"TR",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890464551,
-    "wof:lastmodified":1527734161,
+    "wof:lastmodified":1566586267,
     "wof:name":"Gultepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

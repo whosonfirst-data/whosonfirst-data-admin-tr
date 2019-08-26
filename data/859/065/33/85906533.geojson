@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.032275,
     "lbl:longitude":28.945638,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.036895,
     "mps:longitude":28.948988,
     "mz:hierarchy_label":1,
@@ -88,12 +89,6 @@
     "name:tur_x_variant":[
         "Balat"
     ],
-    "name:und_x_preferred":[
-        "Balat Karaba\u015f"
-    ],
-    "name:unk_x_variant":[
-        "Balat Karaba\u015f"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u62c9\u7279"
     ],
@@ -132,7 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724067,
-        "qs:id":899058,
+        "qs_pg:id":899058,
         "wd:id":"Q48796"
     },
     "wof:country":"TR",
@@ -150,7 +145,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247578,
+    "wof:lastmodified":1566582919,
     "wof:name":"Balat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

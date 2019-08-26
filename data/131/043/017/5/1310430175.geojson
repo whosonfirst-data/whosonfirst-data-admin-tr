@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"27.65576,41.81748,27.69576,41.85748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d"
     ],
@@ -66,8 +70,7 @@
         "Balaban"
     ],
     "name:und_x_variant":[
-        "Velika",
-        "Balaban"
+        "Velika"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":1310430175,
-    "wof:lastmodified":1564161874,
+    "wof:lastmodified":1566585654,
     "wof:name":"Balaban",
     "wof:parent_id":890461747,
     "wof:placetype":"locality",

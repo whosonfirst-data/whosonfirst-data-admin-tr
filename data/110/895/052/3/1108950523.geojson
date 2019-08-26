@@ -10,8 +10,10 @@
     "geom:latitude":41.065367,
     "geom:longitude":28.912479,
     "iso:country":"TR",
+    "lbl:bbox":"28.9074788855,41.0603671211,28.9174788855,41.0703671211",
     "lbl:latitude":41.065367,
     "lbl:longitude":28.912479,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Ba\u011flarba\u015f\u0131"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950523,
-    "wof:lastmodified":1563359573,
+    "wof:lastmodified":1566585288,
     "wof:name":"Baglarbasi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

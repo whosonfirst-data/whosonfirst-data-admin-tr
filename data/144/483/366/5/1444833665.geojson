@@ -10,8 +10,10 @@
     "geom:latitude":41.176156,
     "geom:longitude":29.615644,
     "iso:country":"TR",
+    "lbl:bbox":"29.6106435157,41.1711564112,29.6206435157,41.1811564112",
     "lbl:latitude":41.176156,
     "lbl:longitude":29.615644,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833665,
-    "wof:lastmodified":1566339933,
+    "wof:lastmodified":1566584846,
     "wof:name":"Balibey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

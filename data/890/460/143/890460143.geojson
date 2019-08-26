@@ -11,11 +11,15 @@
     "geom:longitude":29.11639,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":60437,
+    "gn:population":60437,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.09639,36.60167,29.13639,36.64167",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Fethiye"
     ],
@@ -265,7 +269,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0442\u0445\u0456\u0454"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makry"
     ],
     "name:urd_x_preferred":[
@@ -318,7 +322,7 @@
     "wof:concordances":{
         "gn:id":314967,
         "gp:id":2343991,
-        "qs:id":124138,
+        "qs_pg:id":124138,
         "wd:id":"Q207998",
         "wk:page":"Fethiye"
     },
@@ -335,7 +339,7 @@
         }
     ],
     "wof:id":890460143,
-    "wof:lastmodified":1563361565,
+    "wof:lastmodified":1566586448,
     "wof:name":"Fethiye",
     "wof:parent_id":890462845,
     "wof:placetype":"locality",

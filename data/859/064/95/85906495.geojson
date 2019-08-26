@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.006279,
     "lbl:longitude":28.963902,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.007367,
     "mps:longitude":28.963711,
     "mz:hierarchy_label":1,
@@ -37,12 +38,6 @@
     "name:tur_x_variant":[
         "Sara\u00e7ishak",
         "Sara\u00e7"
-    ],
-    "name:und_x_preferred":[
-        "Sara\u00e7ishak"
-    ],
-    "name:unk_x_variant":[
-        "Sara\u00e7ishak"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -79,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724028,
-        "qs:id":230475
+        "qs_pg:id":230475
     },
     "wof:country":"TR",
     "wof:geomhash":"ef23ee26f907874c4e54203098a54c1e",
@@ -96,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247577,
+    "wof:lastmodified":1566582925,
     "wof:name":"Sarac Ishak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

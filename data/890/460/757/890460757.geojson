@@ -11,7 +11,7 @@
     "geom:longitude":39.237565,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4832,
+    "gn:population":4832,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.482221,
     "lbl:longitude":39.194229,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Gumushane",
     "meso:admin_1":"G\u00fcm\u00fcshane",
     "meso:gadm_admin":"Torul",
@@ -41,6 +43,7 @@
     "mps:longitude":39.194229,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Torul"
     ],
@@ -83,7 +86,7 @@
     "name:tur_x_preferred":[
         "Torul"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ardasa"
     ],
     "name:urd_x_preferred":[
@@ -105,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1079",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Torul",
@@ -129,7 +132,7 @@
         "gn:id":738668,
         "gp:id":29390822,
         "hasc:id":"TR.GU.TO",
-        "qs:id":342601,
+        "qs_pg:id":342601,
         "wd:id":"Q2006069",
         "wk:page":"Torul"
     },
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":890460757,
-    "wof:lastmodified":1563361593,
+    "wof:lastmodified":1566586458,
     "wof:name":"Torul",
     "wof:parent_id":85679465,
     "wof:placetype":"county",

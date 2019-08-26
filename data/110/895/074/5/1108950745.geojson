@@ -10,8 +10,10 @@
     "geom:latitude":41.049686,
     "geom:longitude":28.83557,
     "iso:country":"TR",
+    "lbl:bbox":"28.830570127,41.0446856129,28.840570127,41.0546856129",
     "lbl:latitude":41.049686,
     "lbl:longitude":28.83557,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -99,7 +101,7 @@
     "name:war_x_preferred":[
         "Demirkap\u0131"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":1108950745,
-    "wof:lastmodified":1563359591,
+    "wof:lastmodified":1566585296,
     "wof:name":"Demirkapi",
     "wof:parent_id":101912683,
     "wof:placetype":"neighbourhood",

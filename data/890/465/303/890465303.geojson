@@ -11,17 +11,21 @@
     "geom:longitude":40.6783,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":809,
+    "gn:population":809,
     "iso:country":"TR",
+    "lbl:bbox":"40.6583,37.19538,40.6983,37.23538",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "E\u015fkin"
     ],
     "name:tur_x_variant":[
         "Eskin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Telfeyiz"
     ],
     "qs:name":"E\u015fkin",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":315211,
         "gp:id":2344204,
-        "qs:id":547533
+        "qs_pg:id":547533
     },
     "wof:country":"TR",
     "wof:created":1469053514,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890465303,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586342,
     "wof:name":"E\u015fkin",
     "wof:parent_id":890460129,
     "wof:placetype":"locality",

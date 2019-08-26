@@ -12,8 +12,10 @@
     "gn:latitude":39.92479,
     "gn:longitude":32.825,
     "iso:country":"TR",
+    "lbl:bbox":"32.829153,39.927714,32.839153,39.937714",
     "lbl:latitude":39.932714,
     "lbl:longitude":32.834153,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.93599,
     "mps:longitude":32.836537,
     "mz:hierarchy_label":0,
@@ -37,12 +39,8 @@
     "name:tur_x_preferred":[
         "Bah\u00e7elievler"
     ],
-    "name:und_x_preferred":[
-        "Bah\u00e7elievler"
-    ],
-    "name:unk_x_variant":[
-        "B\u00fcy\u00fck Bah\u00e7elievler",
-        "Bah\u00e7elievler"
+    "name:und_x_variant":[
+        "B\u00fcy\u00fck Bah\u00e7elievler"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -73,7 +71,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":573,
     "wof:belongsto":[
         85679409,
@@ -86,7 +84,6 @@
     "wof:concordances":{
         "gn:id":322329,
         "gp:id":2343545,
-        "qs:id":9123,
         "qs_pg:id":9123,
         "wd:id":"Q4843096"
     },
@@ -106,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1553814914,
+    "wof:lastmodified":1566582918,
     "wof:name":"Bah\u00e7elievler",
     "wof:parent_id":101912789,
     "wof:placetype":"neighbourhood",

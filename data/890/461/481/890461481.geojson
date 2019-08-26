@@ -11,9 +11,12 @@
     "geom:longitude":35.48528,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":592840,
+    "gn:population":592840,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.46528,38.71222,35.50528,38.75222",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -299,7 +302,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0439\u0441\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Caesarea"
     ],
     "name:urd_x_preferred":[
@@ -445,7 +448,7 @@
     "wof:concordances":{
         "gn:id":308464,
         "gp:id":2344174,
-        "qs:id":1193119,
+        "qs_pg:id":1193119,
         "wd:id":"Q48338",
         "wk:page":"Kayseri"
     },
@@ -462,7 +465,7 @@
         }
     ],
     "wof:id":890461481,
-    "wof:lastmodified":1563361779,
+    "wof:lastmodified":1566586524,
     "wof:name":"Kayseri",
     "wof:parent_id":890462393,
     "wof:placetype":"locality",

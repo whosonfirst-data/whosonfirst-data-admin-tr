@@ -11,8 +11,11 @@
     "geom:longitude":28.981389,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.9763895,41.0261495,28.9863895,41.0361495",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Firuza\u011fa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101913185,
-        890461447,
-        85679237
+        890461447
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724103,
-        "qs:id":897000
+        "qs_pg:id":897000
     },
     "wof:country":"TR",
     "wof:created":1469053340,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890461155,
-    "wof:lastmodified":1500070998,
+    "wof:lastmodified":1566586518,
     "wof:name":"Firuza\u011fa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

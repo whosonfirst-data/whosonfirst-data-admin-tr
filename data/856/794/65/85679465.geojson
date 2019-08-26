@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.284941,
     "lbl:longitude":39.378607,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"G\u00fcm\u00fcshane",
     "mps:latitude":40.2637,
     "mps:longitude":39.418928,
@@ -241,13 +242,7 @@
     "name:und_x_colloquial":[
         "Gumushane"
     ],
-    "name:und_x_preferred":[
-        "G\u00fcm\u00fc\u015fhane"
-    ],
     "name:und_x_variant":[
-        "G\u00fcm\u00fcshane"
-    ],
-    "name:unk_x_variant":[
         "G\u00fcm\u00fc\u015fane Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -343,9 +338,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"6,575",
     "statoids:area_mi":"2,539",
     "statoids:as_of_date":"2007-12-31",
@@ -370,7 +365,7 @@
         "gp:id":2347319,
         "hasc:id":"TR.GU",
         "iso:id":"TR-29",
-        "qs:id":1354697,
+        "qs_pg:id":1354697,
         "unlc:id":"TR-29",
         "wd:id":"Q482788",
         "wk:page":"G\u00fcm\u00fc\u015fhane Province"
@@ -391,7 +386,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737378,
+    "wof:lastmodified":1566582970,
     "wof:name":"Gumushane",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

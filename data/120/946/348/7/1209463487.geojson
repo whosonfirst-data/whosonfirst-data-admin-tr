@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"34.37361,39.58174,34.41361,39.62174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":7756349
     },
     "wof:country":"TR",
-    "wof:geomhash":"7c4582f2162c94a05583c99ee67e5b0e",
+    "wof:geomhash":"4bd7e77f76173338094ebe69da06b5a4",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209463487,
-    "wof:lastmodified":1536286310,
+    "wof:lastmodified":1566584449,
     "wof:name":"Harmanpinar",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.393609999999995,
+    34.39361,
     39.60174,
-    34.393609999999995,
+    34.39361,
     39.60174
 ],
   "geometry": {"coordinates":[34.39361,39.60174],"type":"Point"}

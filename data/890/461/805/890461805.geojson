@@ -11,11 +11,15 @@
     "geom:longitude":37.70372,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":530,
+    "gn:population":530,
     "iso:country":"TR",
+    "lbl:bbox":"37.68372,36.86006,37.72372,36.90006",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "K\u00fcrap"
     ],
     "qs:name":"Kirap",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":314311,
-        "qs:id":547521
+        "qs_pg:id":547521
     },
     "wof:country":"TR",
     "wof:created":1469053368,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890461805,
-    "wof:lastmodified":1505343687,
+    "wof:lastmodified":1566586504,
     "wof:name":"Kirap",
     "wof:parent_id":890461691,
     "wof:placetype":"locality",

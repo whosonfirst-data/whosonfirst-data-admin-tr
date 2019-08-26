@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":41.638724,
     "lbl:longitude":27.377219,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kirklareli",
     "mps:latitude":41.652995,
     "mps:longitude":27.361416,
@@ -257,7 +258,7 @@
         "K\u0131rklareli"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbf\u0bb0\u0b95\u0bcd\u0bb3\u0bb0\u0bc7\u0bb2\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbf\u0bb0\u0b95\u0bcd\u0bb3\u0bb0\u0bc7\u0bb2\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3f\u0c30\u0c4d\u0c15\u0c4d\u200c\u0c32\u0c3e\u0c30\u0c47\u0c32\u0c40 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -286,13 +287,7 @@
     "name:und_x_colloquial":[
         "Kirklareli"
     ],
-    "name:und_x_preferred":[
-        "K\u0131rklareli"
-    ],
     "name:und_x_variant":[
-        "Kirklareli"
-    ],
-    "name:unk_x_variant":[
         "K\u0131rklareli Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -388,9 +383,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"6,550",
     "statoids:area_mi":"2,529",
     "statoids:as_of_date":"2007-12-31",
@@ -415,7 +410,7 @@
         "gp:id":2347294,
         "hasc:id":"TR.KL",
         "iso:id":"TR-39",
-        "qs:id":219624,
+        "qs_pg:id":219624,
         "unlc:id":"TR-39",
         "wd:id":"Q131597",
         "wk:page":"K\u0131rklareli Province"
@@ -436,11 +431,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737381,
+    "wof:lastmodified":1566582984,
     "wof:name":"Kirklareli",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":333256,
     "wof:population_rank":10,

@@ -11,14 +11,18 @@
     "geom:longitude":40.57886,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":170,
+    "gn:population":170,
     "iso:country":"TR",
+    "lbl:bbox":"40.55886,37.22718,40.59886,37.26718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "\u0130kikuyu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giribiri"
     ],
     "qs:name":"\u0130kikuyu",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":311626,
         "gp:id":2344204,
-        "qs:id":80084
+        "qs_pg:id":80084
     },
     "wof:country":"TR",
     "wof:created":1469053310,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890460309,
-    "wof:lastmodified":1505343681,
+    "wof:lastmodified":1566586421,
     "wof:name":"\u0130kikuyu",
     "wof:parent_id":890460129,
     "wof:placetype":"locality",

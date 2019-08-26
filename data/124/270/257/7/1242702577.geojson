@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"42.01417,38.10146,42.05417,38.14146",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaraca"
     ],
@@ -44,8 +48,7 @@
         "Karaca"
     ],
     "name:und_x_variant":[
-        "Tasil",
-        "Karaca"
+        "Tasil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1242702577,
-    "wof:lastmodified":1564163596,
+    "wof:lastmodified":1566586991,
     "wof:name":"Karaca",
     "wof:parent_id":890463401,
     "wof:placetype":"locality",

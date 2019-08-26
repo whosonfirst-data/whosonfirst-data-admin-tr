@@ -11,11 +11,15 @@
     "geom:longitude":37.67333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2643,
+    "gn:population":2643,
     "iso:country":"TR",
+    "lbl:bbox":"37.65333,36.95833,37.69333,36.99833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Orui"
     ],
     "qs:name":"Sekili",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":301290,
-        "qs:id":547300
+        "qs_pg:id":547300
     },
     "wof:country":"TR",
     "wof:created":1469053494,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890464991,
-    "wof:lastmodified":1505343700,
+    "wof:lastmodified":1566586270,
     "wof:name":"Sekili",
     "wof:parent_id":890461691,
     "wof:placetype":"locality",

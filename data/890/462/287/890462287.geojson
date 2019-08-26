@@ -11,11 +11,14 @@
     "geom:longitude":39.46389,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.45889,40.15194,39.46889,40.16194",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "Kar\u015f\u0131yaka \u0130l\u00e7esi"
     ],
@@ -61,7 +64,7 @@
     "name:tur_x_preferred":[
         "Kar\u015f\u0131yaka"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Persor"
     ],
     "name:urd_x_preferred":[
@@ -93,7 +96,7 @@
     "wof:concordances":{
         "gn:id":743937,
         "gp:id":56043093,
-        "qs:id":1019770,
+        "qs_pg:id":1019770,
         "wk:page":"Kar\u015f\u0131yaka"
     },
     "wof:country":"TR",
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890462287,
-    "wof:lastmodified":1564162804,
+    "wof:lastmodified":1566586368,
     "wof:name":"Karsiyaka",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

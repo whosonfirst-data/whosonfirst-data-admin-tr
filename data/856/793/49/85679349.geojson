@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":40.791474,
     "lbl:longitude":37.507253,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Ordu",
     "mps:latitude":40.80497,
     "mps:longitude":37.53947,
@@ -244,7 +245,7 @@
         "Ordu"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bcb\u0bb0\u0bcd\u0b9f\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c30\u0c4d\u0c21\u0c41 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -270,13 +271,7 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0434\u0443"
     ],
-    "name:und_x_preferred":[
-        "Ordu"
-    ],
     "name:und_x_variant":[
-        "Ordu"
-    ],
-    "name:unk_x_variant":[
         "Ordu Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -369,9 +364,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"6,001",
     "statoids:area_mi":"2,317",
     "statoids:as_of_date":"2007-12-31",
@@ -397,7 +392,7 @@
         "gp:id":2347304,
         "hasc:id":"TR.OR",
         "iso:id":"TR-52",
-        "qs:id":1135407,
+        "qs_pg:id":1135407,
         "unlc:id":"TR-52",
         "wd:id":"Q483180",
         "wk:page":"Ordu Province"
@@ -418,11 +413,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737376,
+    "wof:lastmodified":1566582963,
     "wof:name":"Ordu",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":715409,
     "wof:population_rank":11,

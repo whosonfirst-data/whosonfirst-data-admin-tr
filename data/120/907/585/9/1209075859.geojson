@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"29.54024,37.09194,29.58024,37.13194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":8198483
     },
     "wof:country":"TR",
-    "wof:geomhash":"f97a51ecb703ae28d0c993c1aa50bf70",
+    "wof:geomhash":"adc8c20f0c7d179b21c8dbf012762a28",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209075859,
-    "wof:lastmodified":1536298496,
+    "wof:lastmodified":1566584287,
     "wof:name":"Karapinar",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.560240000000004,
+    29.56024,
     37.11194,
-    29.560240000000004,
+    29.56024,
     37.11194
 ],
   "geometry": {"coordinates":[29.56024,37.11194],"type":"Point"}

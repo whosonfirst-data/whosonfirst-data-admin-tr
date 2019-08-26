@@ -11,11 +11,15 @@
     "geom:longitude":27.76515,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.74515,41.80413,27.78515,41.84413",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0430\u043b\u044a\u043a \u0421\u0430\u043c\u043e\u043a\u043e\u0432"
     ],
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Demirk\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samakof"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":748399,
         "gp:id":2316884,
-        "qs:id":249194,
+        "qs_pg:id":249194,
         "wd:id":"Q1023149",
         "wk:page":"Demirk\u00f6y"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":890464613,
-    "wof:lastmodified":1563361217,
+    "wof:lastmodified":1566586304,
     "wof:name":"Demirk\u00f6y",
     "wof:parent_id":890461747,
     "wof:placetype":"locality",

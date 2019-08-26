@@ -10,9 +10,12 @@
     "geom:latitude":41.067524,
     "geom:longitude":28.901149,
     "iso:country":"TR",
+    "lbl:bbox":"28.8961492289,41.0625241858,28.9061492289,41.0725241858",
     "lbl:latitude":41.067524,
     "lbl:longitude":28.901149,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "H\u00fcrriyet"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108950529,
-    "wof:lastmodified":1497292379,
+    "wof:lastmodified":1566585287,
     "wof:name":"Hurriyet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

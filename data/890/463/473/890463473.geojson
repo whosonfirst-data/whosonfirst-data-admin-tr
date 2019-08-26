@@ -11,7 +11,7 @@
     "geom:longitude":41.966482,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":23504,
+    "gn:population":23504,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.570813,
     "lbl:longitude":42.020668,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Erzurum",
     "meso:admin_1":"Erzurum",
     "meso:gadm_admin":"Oltu",
@@ -41,6 +43,7 @@
     "mps:longitude":42.020668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0644\u062a\u0648"
     ],
@@ -125,7 +128,7 @@
     "name:tur_x_preferred":[
         "Oltu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olty"
     ],
     "name:urd_x_preferred":[
@@ -150,9 +153,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1394",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Oltu",
@@ -174,7 +177,7 @@
         "gn:id":741160,
         "gp:id":29390663,
         "hasc:id":"TR.EM.OT",
-        "qs:id":129155,
+        "qs_pg:id":129155,
         "wd:id":"Q915429",
         "wk:page":"Oltu"
     },
@@ -190,7 +193,7 @@
         }
     ],
     "wof:id":890463473,
-    "wof:lastmodified":1563361071,
+    "wof:lastmodified":1566586249,
     "wof:name":"Oltu",
     "wof:parent_id":85679369,
     "wof:placetype":"county",

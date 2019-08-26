@@ -10,8 +10,10 @@
     "geom:latitude":41.125874,
     "geom:longitude":28.737542,
     "iso:country":"TR",
+    "lbl:bbox":"28.732542055,41.1208739433,28.742542055,41.1308739433",
     "lbl:latitude":41.125874,
     "lbl:longitude":28.737542,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,7 +41,7 @@
     "name:vie_x_preferred":[
         "\u015eamlar"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1108950799,
-    "wof:lastmodified":1563359541,
+    "wof:lastmodified":1566585271,
     "wof:name":"Samlar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

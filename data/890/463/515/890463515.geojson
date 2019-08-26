@@ -11,7 +11,7 @@
     "geom:longitude":37.529547,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":10535,
+    "gn:population":10535,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.892076,
     "lbl:longitude":37.529547,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ordu",
     "meso:admin_1":"Ordu",
     "meso:gadm_admin":"\u00c7ama\u015f",
@@ -41,6 +43,7 @@
     "mps:longitude":37.529547,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "\u00c7ama\u015f il\u00e7\u0259si"
     ],
@@ -95,7 +98,7 @@
     "name:tur_x_preferred":[
         "\u00c7ama\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00dcrmeli"
     ],
     "name:urd_x_preferred":[
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"91",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7amas",
@@ -144,7 +147,7 @@
         "gn:id":749916,
         "gp:id":29390192,
         "hasc:id":"TR.OR.CM",
-        "qs:id":294622,
+        "qs_pg:id":294622,
         "wd:id":"Q2248630",
         "wk:page":"\u00c7ama\u015f"
     },
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890463515,
-    "wof:lastmodified":1563361119,
+    "wof:lastmodified":1566586266,
     "wof:name":"\u00c7ama\u015f",
     "wof:parent_id":85679349,
     "wof:placetype":"county",

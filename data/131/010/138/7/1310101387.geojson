@@ -24,8 +24,12 @@
     "gn:population":500,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"30.46017,36.39716,30.50017,36.43716",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "\u00c7\u0131ral\u0131"
     ],
@@ -62,9 +66,6 @@
     "name:tur_x_preferred":[
         "\u00c7\u0131ral\u0131"
     ],
-    "name:und_x_variant":[
-        "\u00c7\u0131ral\u0131"
-    ],
     "src:geom":"geonames",
     "src:population":"geonames",
     "wof:belongsto":[
@@ -90,7 +91,7 @@
         }
     ],
     "wof:id":1310101387,
-    "wof:lastmodified":1564161890,
+    "wof:lastmodified":1566585665,
     "wof:name":"Cirali",
     "wof:parent_id":890461933,
     "wof:placetype":"locality",

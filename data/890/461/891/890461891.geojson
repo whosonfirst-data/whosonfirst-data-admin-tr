@@ -11,11 +11,15 @@
     "geom:longitude":35.37014,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":9221,
+    "gn:population":9221,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.35014,36.56204,35.39014,36.60204",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0627\u0637\u0627\u0634"
     ],
@@ -97,9 +101,6 @@
     "name:tur_x_variant":[
         "Karata\u015f"
     ],
-    "name:unk_x_variant":[
-        "K\u00fc\u00e7\u00fckkarata\u015f"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0631\u06c1 \u062a\u0627\u0634"
     ],
@@ -130,7 +131,7 @@
     "wof:concordances":{
         "gn:id":309312,
         "gp:id":2344159,
-        "qs:id":1250357,
+        "qs_pg:id":1250357,
         "wd:id":"Q376854",
         "wk:page":"Karata\u015f"
     },
@@ -147,7 +148,7 @@
         }
     ],
     "wof:id":890461891,
-    "wof:lastmodified":1563361799,
+    "wof:lastmodified":1566586531,
     "wof:name":"Karata\u015f",
     "wof:parent_id":890463329,
     "wof:placetype":"locality",

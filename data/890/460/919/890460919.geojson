@@ -11,11 +11,15 @@
     "geom:longitude":42.2025,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1368,
+    "gn:population":1368,
     "iso:country":"TR",
+    "lbl:bbox":"42.1825,37.87583,42.2225,37.91583",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u015ea\u015f"
     ],
     "qs:name":"Palamutlu",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":302924,
-        "qs:id":547325
+        "qs_pg:id":547325
     },
     "wof:country":"TR",
     "wof:created":1469053332,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460919,
-    "wof:lastmodified":1505343684,
+    "wof:lastmodified":1566586476,
     "wof:name":"Palamutlu",
     "wof:parent_id":890461169,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":40.53611,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":135,
+    "gn:population":135,
     "iso:country":"TR",
+    "lbl:bbox":"40.51611,37.6925,40.55611,37.7325",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "\u00d6nc\u00fcl\u00fc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0131tmiran"
     ],
     "qs:name":"Kytmiran",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":303499,
-        "qs:id":80034
+        "qs_pg:id":80034
     },
     "wof:country":"TR",
     "wof:created":1469053284,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890459843,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586557,
     "wof:name":"Kytmiran",
     "wof:parent_id":890463353,
     "wof:placetype":"locality",

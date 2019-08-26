@@ -10,8 +10,10 @@
     "geom:latitude":41.028217,
     "geom:longitude":28.978259,
     "iso:country":"TR",
+    "lbl:bbox":"28.9732587801,41.0232166106,28.9832587801,41.0332166106",
     "lbl:latitude":41.028217,
     "lbl:longitude":28.978259,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -48,7 +50,7 @@
     "name:tur_x_preferred":[
         "Tophane"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -74,7 +76,7 @@
         }
     ],
     "wof:id":1108950427,
-    "wof:lastmodified":1563359587,
+    "wof:lastmodified":1566585293,
     "wof:name":"Tophane",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

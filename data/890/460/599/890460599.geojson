@@ -11,10 +11,14 @@
     "geom:longitude":29.15969,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":71063,
+    "gn:population":71063,
     "iso:country":"TR",
+    "lbl:bbox":"29.13969,40.41094,29.17969,40.45094",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0645\u0644\u064a\u0643"
     ],
@@ -96,7 +100,7 @@
     "name:tur_x_preferred":[
         "Gemlik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kios"
     ],
     "name:urd_x_preferred":[
@@ -124,7 +128,7 @@
     "wof:concordances":{
         "gn:id":746958,
         "gp:id":2344007,
-        "qs:id":349918,
+        "qs_pg:id":349918,
         "wd:id":"Q753752",
         "wk:page":"Gemlik"
     },
@@ -141,7 +145,7 @@
         }
     ],
     "wof:id":890460599,
-    "wof:lastmodified":1563361585,
+    "wof:lastmodified":1566586455,
     "wof:name":"Gemlik",
     "wof:parent_id":1108709513,
     "wof:placetype":"locality",

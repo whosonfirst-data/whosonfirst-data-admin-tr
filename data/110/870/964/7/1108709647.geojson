@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.282664,
     "lbl:longitude":32.926383,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Karaman",
     "meso:admin_1":"Karaman",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":32.926383,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kaz\u0131mkarabekir"
     ],
@@ -74,7 +77,7 @@
         "Kaz\u0131mkarabekir"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108709647,
-    "wof:lastmodified":1564161475,
+    "wof:lastmodified":1566585331,
     "wof:name":"Kaz\u0131mkarabekir",
     "wof:parent_id":85679427,
     "wof:placetype":"county",

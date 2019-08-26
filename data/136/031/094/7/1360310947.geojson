@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"37.08217,40.90102,37.12217,40.94102",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:min_x_preferred":[
         "Yenikent"
     ],
@@ -33,8 +37,7 @@
     ],
     "name:und_x_variant":[
         "Da\u011fk\u00f6y\u00fc",
-        "Da\u011fk\u00f6y",
-        "Yenikent"
+        "Da\u011fk\u00f6y"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360310947,
-    "wof:lastmodified":1564162182,
+    "wof:lastmodified":1566585860,
     "wof:name":"Yenikent",
     "wof:parent_id":890463343,
     "wof:placetype":"locality",

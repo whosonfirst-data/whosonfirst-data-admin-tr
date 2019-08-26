@@ -10,8 +10,10 @@
     "geom:latitude":41.004576,
     "geom:longitude":28.802897,
     "iso:country":"TR",
+    "lbl:bbox":"28.7978972285,40.9995760283,28.8078972285,41.0095760283",
     "lbl:latitude":41.004576,
     "lbl:longitude":28.802897,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Kartaltepe"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1108950709,
-    "wof:lastmodified":1563359548,
+    "wof:lastmodified":1566585275,
     "wof:name":"Kartaltepe",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

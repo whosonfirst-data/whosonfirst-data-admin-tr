@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":40.478437,
     "lbl:longitude":29.732927,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bursa",
     "meso:admin_1":"Bursa",
     "meso:gadm_admin":"\u0130znik",
@@ -38,6 +40,7 @@
     "mps:longitude":29.732927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0632\u0646\u064a\u0642"
     ],
@@ -221,9 +224,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"737",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Iznik",
@@ -244,7 +247,7 @@
     "wof:concordances":{
         "gp:id":29390913,
         "hasc:id":"TR.BU.IZ",
-        "qs:id":1134534,
+        "qs_pg:id":1134534,
         "wd:id":"Q217125",
         "wk:page":"\u0130znik"
     },
@@ -260,7 +263,7 @@
         }
     ],
     "wof:id":890462667,
-    "wof:lastmodified":1563361372,
+    "wof:lastmodified":1566586376,
     "wof:name":"\u0130znik",
     "wof:parent_id":85679231,
     "wof:placetype":"county",

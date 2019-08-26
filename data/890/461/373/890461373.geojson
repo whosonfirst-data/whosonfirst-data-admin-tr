@@ -11,7 +11,7 @@
     "geom:longitude":43.621983,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.131479,
     "lbl:longitude":43.614474,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Van",
     "meso:admin_1":"Van",
     "meso:gadm_admin":"G\u00fcrp\u0131nar",
@@ -41,6 +43,7 @@
     "mps:longitude":43.614474,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "G\u00fcrpinar"
     ],
@@ -53,7 +56,7 @@
     "name:nld_x_preferred":[
         "G\u00fcrp\u0131nar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0131\u011fz\u0131"
     ],
     "qs:name":"G\u00fcrp\u0131nar",
@@ -71,9 +74,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"4130",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00fcrpinar",
@@ -97,7 +100,7 @@
         "gn:id":313328,
         "gp:id":29390391,
         "hasc:id":"TR.VA.GU",
-        "qs:id":1049789,
+        "qs_pg:id":1049789,
         "wd:id":"Q2342146",
         "wk:page":"G\u00fcrp\u0131nar (District), Van"
     },
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":890461373,
-    "wof:lastmodified":1561769301,
+    "wof:lastmodified":1566586539,
     "wof:name":"G\u00fcrp\u0131nar",
     "wof:parent_id":85679509,
     "wof:placetype":"county",

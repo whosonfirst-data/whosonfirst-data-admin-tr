@@ -11,11 +11,15 @@
     "geom:longitude":31.76333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"31.74333,37.17694,31.78333,37.21694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Cevizli"
     ],
@@ -34,7 +38,7 @@
     "name:tur_x_preferred":[
         "Cevizli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gagras"
     ],
     "name:vie_x_preferred":[
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":318706,
         "gp:id":2314941,
-        "qs:id":1248063,
+        "qs_pg:id":1248063,
         "wd:id":"Q4816998",
         "wk:page":"Cevizli"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":890460039,
-    "wof:lastmodified":1561769285,
+    "wof:lastmodified":1566586442,
     "wof:name":"Cevizli",
     "wof:parent_id":890464323,
     "wof:placetype":"locality",

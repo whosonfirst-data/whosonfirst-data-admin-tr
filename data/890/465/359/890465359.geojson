@@ -11,10 +11,14 @@
     "geom:longitude":38.85306,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1243,
+    "gn:population":1243,
     "iso:country":"TR",
+    "lbl:bbox":"38.83306,36.785,38.87306,36.825",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Dorumali"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":316270,
-        "qs:id":547559
+        "qs_pg:id":547559
     },
     "wof:country":"TR",
     "wof:created":1469053516,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465359,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586341,
     "wof:name":"Dorumali",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

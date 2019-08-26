@@ -11,11 +11,15 @@
     "geom:longitude":42.21611,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":288,
+    "gn:population":288,
     "iso:country":"TR",
+    "lbl:bbox":"42.19611,37.43944,42.23611,37.47944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Firisan"
     ],
     "qs:name":"Atba\u015f\u0131",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":408534,
         "gp:id":2344230,
-        "qs:id":548016
+        "qs_pg:id":548016
     },
     "wof:country":"TR",
     "wof:created":1469053520,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890465477,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586331,
     "wof:name":"Atba\u015f\u0131",
     "wof:parent_id":890460285,
     "wof:placetype":"locality",

@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.030692,
     "lbl:longitude":28.947959,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.02966,
     "mps:longitude":28.948148,
     "mz:hierarchy_label":1,
@@ -26,12 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:tur_x_preferred":[
-        "Hizir \u00c7avus"
-    ],
-    "name:und_x_preferred":[
-        "Hizir \u00c7avus"
-    ],
-    "name:unk_x_variant":[
         "Hizir \u00c7avus"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -69,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724053,
-        "qs:id":909796
+        "qs_pg:id":909796
     },
     "wof:country":"TR",
     "wof:geomhash":"7ec6f249226a37a0b66e721852825372",
@@ -86,7 +81,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247577,
+    "wof:lastmodified":1566582921,
     "wof:name":"Hizir Cavus",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

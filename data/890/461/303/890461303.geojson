@@ -11,14 +11,18 @@
     "geom:longitude":29.13306,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":7335,
+    "gn:population":7335,
     "iso:country":"TR",
+    "lbl:bbox":"29.11306,40.84778,29.15306,40.88778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u0411\u0443\u044e\u043a\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Prinkipo"
     ],
     "qs:name":"Adalar",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":750249,
-        "qs:id":1026826
+        "qs_pg:id":1026826
     },
     "wof:country":"TR",
     "wof:created":1469053346,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890461303,
-    "wof:lastmodified":1505343686,
+    "wof:lastmodified":1566586515,
     "wof:name":"Adalar",
     "wof:parent_id":890462793,
     "wof:placetype":"locality",

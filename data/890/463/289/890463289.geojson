@@ -11,11 +11,15 @@
     "geom:longitude":26.75532,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.73532,40.49574,26.77532,40.53574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0627\u064a\u0631"
     ],
@@ -46,7 +50,7 @@
     "name:tur_x_preferred":[
         "Bolay\u0131r"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bulay\u0131r"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":750525,
         "gp:id":2343818,
-        "qs:id":129227,
+        "qs_pg:id":129227,
         "wd:id":"Q2987585",
         "wk:page":"Bolay\u0131r"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890463289,
-    "wof:lastmodified":1563360967,
+    "wof:lastmodified":1566586213,
     "wof:name":"Bolay\u0131r",
     "wof:parent_id":1108709509,
     "wof:placetype":"locality",

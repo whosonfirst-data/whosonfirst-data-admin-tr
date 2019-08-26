@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":39.425433,
     "lbl:longitude":30.018958,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":39.425433,
     "mps:longitude":30.018958,
     "mz:hierarchy_label":1,
@@ -232,7 +234,7 @@
     "name:ukr_x_variant":[
         "\u041a\u044e\u0442\u0430\u0445'\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cotiaeum"
     ],
     "name:urd_x_preferred":[
@@ -357,7 +359,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":1491,
     "wof:belongsto":[
@@ -370,10 +372,12 @@
     "wof:concordances":{
         "gn:id":305268,
         "gp:id":2344239,
-        "qs:id":204631,
-        "qs_pg:id":1134823,
+        "qs_pg:id":204631,
         "wd:id":"Q188894",
         "wk:page":"K\u00fctahya"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134823
     },
     "wof:country":"TR",
     "wof:geomhash":"61f193aca3b31c76d6b189cc90555578",
@@ -387,7 +391,7 @@
         }
     ],
     "wof:id":101911159,
-    "wof:lastmodified":1563360653,
+    "wof:lastmodified":1566586008,
     "wof:name":"K\u00fctahya",
     "wof:parent_id":890461533,
     "wof:placetype":"locality",

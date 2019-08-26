@@ -11,10 +11,14 @@
     "geom:longitude":41.33714,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":250,
+    "gn:population":250,
     "iso:country":"TR",
+    "lbl:bbox":"41.31714,37.45205,41.35714,37.49205",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Mercimekli"
     ],
@@ -90,7 +94,7 @@
     "name:tur_x_preferred":[
         "Mercimekli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khapisnas"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +120,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":304568,
-        "qs:id":547370,
+        "qs_pg:id":547370,
         "wd:id":"Q984702"
     },
     "wof:country":"TR",
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890465095,
-    "wof:lastmodified":1563361315,
+    "wof:lastmodified":1566586351,
     "wof:name":"Mercimekli",
     "wof:parent_id":890463867,
     "wof:placetype":"locality",

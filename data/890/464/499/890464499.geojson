@@ -11,11 +11,15 @@
     "geom:longitude":31.05556,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":73260,
+    "gn:population":73260,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"31.03556,36.84278,31.07556,36.88278",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:bak_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043a"
     ],
@@ -79,7 +83,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Belek\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":321580,
         "gp:id":2311303,
-        "qs:id":237376,
+        "qs_pg:id":237376,
         "wd:id":"Q815388",
         "wk:page":"Belek"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890464499,
-    "wof:lastmodified":1563361166,
+    "wof:lastmodified":1566586285,
     "wof:name":"Belek",
     "wof:parent_id":890463871,
     "wof:placetype":"locality",

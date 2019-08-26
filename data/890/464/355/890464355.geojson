@@ -11,11 +11,15 @@
     "geom:longitude":31.09889,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":36925,
+    "gn:population":36925,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"31.07889,36.89694,31.11889,36.93694",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Serik"
     ],
@@ -55,7 +59,7 @@
     "name:rus_x_preferred":[
         "\u0421\u0435\u0440\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koles"
     ],
     "name:urd_x_preferred":[
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":301101,
         "gp:id":2344380,
-        "qs:id":9158,
+        "qs_pg:id":9158,
         "wd:id":"Q1850419",
         "wk:page":"Serik"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890464355,
-    "wof:lastmodified":1563361137,
+    "wof:lastmodified":1566586274,
     "wof:name":"Serik",
     "wof:parent_id":890463871,
     "wof:placetype":"locality",

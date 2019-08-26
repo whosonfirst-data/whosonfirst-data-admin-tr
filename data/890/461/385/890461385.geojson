@@ -11,12 +11,16 @@
     "geom:longitude":29.21361,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.19361,40.9875,29.23361,41.0275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Husseinli"
     ],
     "qs:name":"Sar\u0131gazi",
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":740097,
         "gp:id":2335976,
-        "qs:id":389679
+        "qs_pg:id":389679
     },
     "wof:country":"TR",
     "wof:created":1469053349,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890461385,
-    "wof:lastmodified":1505343686,
+    "wof:lastmodified":1566586509,
     "wof:name":"Sar\u0131gazi",
     "wof:parent_id":1108709841,
     "wof:placetype":"locality",

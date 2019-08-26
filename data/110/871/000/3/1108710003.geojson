@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.555192,
     "lbl:longitude":44.245915,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Hakkari",
     "meso:admin_1":"Hakkari",
     "meso:gadm_admin":"Y\u00fcksekova",
@@ -37,6 +39,7 @@
     "mps:longitude":44.245915,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u064a\u0648\u0643\u0633\u0643\u0648\u0641\u0627"
     ],
@@ -122,9 +125,9 @@
         "\u5c24\u7a46\u723e\u5854\u52d2\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2372",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Y\u00fcksekova",
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":1108710003,
-    "wof:lastmodified":1563359797,
+    "wof:lastmodified":1566585386,
     "wof:name":"Y\u00fcksekova",
     "wof:parent_id":85679501,
     "wof:placetype":"county",

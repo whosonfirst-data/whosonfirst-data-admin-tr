@@ -10,8 +10,10 @@
     "geom:latitude":41.367484,
     "geom:longitude":28.474989,
     "iso:country":"TR",
+    "lbl:bbox":"28.4699894549,41.3624837842,28.4799894549,41.3724837842",
     "lbl:latitude":41.367484,
     "lbl:longitude":28.474989,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462087,
-        85679237
+        890462087
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829889,
-    "wof:lastmodified":1566339486,
+    "wof:lastmodified":1566584823,
     "wof:name":"Hisarbeyli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":41.003521,
     "geom:longitude":28.854756,
     "iso:country":"TR",
+    "lbl:bbox":"28.8497561834,40.9985210041,28.8597561834,41.0085210041",
     "lbl:latitude":41.003521,
     "lbl:longitude":28.854756,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:tur_x_preferred":[
         "Siyavu\u015fpa\u015fa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -35,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871091,
-        "qs:id":136839
+        "qs_pg:id":136839
     },
     "wof:country":"TR",
     "wof:created":1491368574,
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108950675,
-    "wof:lastmodified":1534379466,
+    "wof:lastmodified":1566585315,
     "wof:name":"Siyavuspasa",
     "wof:parent_id":101912673,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":30.52,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":1293,
+    "gn:population":1293,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.5,40.15833,30.54,40.19833",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Yenipazar"
     ],
@@ -196,7 +200,7 @@
     "name:tur_x_preferred":[
         "Yenipazar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0131rka"
     ],
     "name:vec_x_preferred":[
@@ -241,7 +245,7 @@
     "wof:concordances":{
         "gn:id":737614,
         "gp:id":2341981,
-        "qs:id":785761,
+        "qs_pg:id":785761,
         "wd:id":"Q2568094",
         "wk:page":"Yenipazar"
     },
@@ -258,7 +262,7 @@
         }
     ],
     "wof:id":890461067,
-    "wof:lastmodified":1563361810,
+    "wof:lastmodified":1566586535,
     "wof:name":"Yenipazar",
     "wof:parent_id":1108709995,
     "wof:placetype":"locality",

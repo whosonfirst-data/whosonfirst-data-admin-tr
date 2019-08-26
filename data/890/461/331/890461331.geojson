@@ -11,11 +11,15 @@
     "geom:longitude":33.03901,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.01901,41.51183,33.05901,41.55183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Daday"
     ],
@@ -87,7 +91,7 @@
     "wof:concordances":{
         "gn:id":752841,
         "gp:id":2316080,
-        "qs:id":1029330,
+        "qs_pg:id":1029330,
         "wd:id":"Q2674056",
         "wk:page":"Daday"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":890461331,
-    "wof:lastmodified":1563361667,
+    "wof:lastmodified":1566586481,
     "wof:name":"Daday",
     "wof:parent_id":890460371,
     "wof:placetype":"locality",

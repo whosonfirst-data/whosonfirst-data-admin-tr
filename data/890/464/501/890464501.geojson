@@ -11,11 +11,15 @@
     "geom:longitude":29.39454,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.37454,40.75973,29.41454,40.79973",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u0631\u064a\u0643\u0627"
     ],
@@ -100,7 +104,7 @@
     "name:tur_x_preferred":[
         "Dar\u0131ca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deridja"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +139,7 @@
     "wof:concordances":{
         "gn:id":748636,
         "gp:id":2316381,
-        "qs:id":237536,
+        "qs_pg:id":237536,
         "wd:id":"Q986398",
         "wk:page":"Dar\u0131ca"
     },
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":890464501,
-    "wof:lastmodified":1563361199,
+    "wof:lastmodified":1566586298,
     "wof:name":"Dar\u0131ca",
     "wof:parent_id":1108709421,
     "wof:placetype":"locality",

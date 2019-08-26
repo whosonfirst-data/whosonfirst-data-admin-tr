@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4477419.226428,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.705364,36.881069,30.705364,36.881069",
     "geom:latitude":36.881069,
     "geom:longitude":30.705364,
     "gn:latitude":36.88206,
     "gn:longitude":30.70404,
     "iso:country":"TR",
+    "lbl:bbox":"30.700364,36.876069,30.710364,36.886069",
     "lbl:latitude":36.881069,
     "lbl:longitude":30.705364,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.869496,
     "mps:longitude":30.691943,
     "mz:hierarchy_label":0,
@@ -34,10 +36,7 @@
     "name:und_x_colloquial":[
         "Kilicarslan"
     ],
-    "name:und_x_preferred":[
-        "Kili\u00e7arslan"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kili\u00e7arslan"
     ],
     "name:vie_x_preferred":[
@@ -74,20 +73,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
         101912923,
-        1108709753,
-        85679263
+        1108709753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8073941,
         "gp:id":55870798,
-        "qs:id":204715,
         "qs_pg:id":204715
     },
     "wof:country":"TR",
@@ -106,7 +103,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939164,
+    "wof:lastmodified":1566582938,
     "wof:name":"Kili\u00e7arslan",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

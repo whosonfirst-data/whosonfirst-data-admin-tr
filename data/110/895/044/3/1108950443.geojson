@@ -10,8 +10,10 @@
     "geom:latitude":41.032069,
     "geom:longitude":28.989488,
     "iso:country":"TR",
+    "lbl:bbox":"28.9844883008,41.0270690953,28.9944883008,41.0370690953",
     "lbl:latitude":41.032069,
     "lbl:longitude":28.989488,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "F\u0131nd\u0131kl\u0131"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1108950443,
-    "wof:lastmodified":1563359601,
+    "wof:lastmodified":1566585301,
     "wof:name":"Findikli",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

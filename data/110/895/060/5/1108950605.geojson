@@ -10,8 +10,10 @@
     "geom:latitude":41.019038,
     "geom:longitude":28.882585,
     "iso:country":"TR",
+    "lbl:bbox":"28.8775845219,41.0140384329,28.8875845219,41.0240384329",
     "lbl:latitude":41.019038,
     "lbl:longitude":28.882585,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -99,7 +101,7 @@
     "name:war_x_preferred":[
         "G\u00fcng\u00f6ren"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1108950605,
-    "wof:lastmodified":1563359628,
+    "wof:lastmodified":1566585316,
     "wof:name":"Gungoren",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":41.91611,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1130,
+    "gn:population":1130,
     "iso:country":"TR",
+    "lbl:bbox":"41.89611,37.68917,41.93611,37.72917",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Lodi"
     ],
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u043e\u0434\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ayn\u0131"
     ],
     "name:vol_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":322508,
         "gp:id":2344385,
-        "qs:id":547687,
+        "qs_pg:id":547687,
         "wk:page":"Lodi"
     },
     "wof:country":"TR",
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":890459125,
-    "wof:lastmodified":1564162983,
+    "wof:lastmodified":1566586592,
     "wof:name":"Lodi",
     "wof:parent_id":1108709493,
     "wof:placetype":"locality",

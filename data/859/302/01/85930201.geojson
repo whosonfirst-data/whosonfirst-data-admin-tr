@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.138748,
     "lbl:longitude":29.048915,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.132123,
     "mps:longitude":29.050575,
     "mz:hierarchy_label":1,
@@ -58,12 +59,6 @@
     "name:tur_x_variant":[
         "Tarabya"
     ],
-    "name:und_x_preferred":[
-        "Tarabya-Ferahevler"
-    ],
-    "name:unk_x_variant":[
-        "Tarabya-Ferahevler"
-    ],
     "name:zho_x_preferred":[
         "\u5854\u62c9\u6bd4\u4e9e\u5340"
     ],
@@ -105,7 +100,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871402,
-        "qs:id":1155192,
         "qs_pg:id":1155192,
         "wd:id":"Q2143550"
     },
@@ -125,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247573,
+    "wof:lastmodified":1566582933,
     "wof:name":"Tarabya",
     "wof:parent_id":101912653,
     "wof:placetype":"neighbourhood",

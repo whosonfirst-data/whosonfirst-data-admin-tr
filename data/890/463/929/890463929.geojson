@@ -11,10 +11,14 @@
     "geom:longitude":29.41369,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":3000,
+    "gn:population":3000,
     "iso:country":"TR",
+    "lbl:bbox":"29.39369,36.2451,29.43369,36.2851",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kalkan"
     ],
@@ -51,7 +55,7 @@
     "name:tur_x_preferred":[
         "Kalkan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalamaki"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":310677,
         "gp:id":2325144,
-        "qs:id":204972,
+        "qs_pg:id":204972,
         "wd:id":"Q1722363",
         "wk:page":"Kalkan"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890463929,
-    "wof:lastmodified":1563361098,
+    "wof:lastmodified":1566586259,
     "wof:name":"Kalkan",
     "wof:parent_id":890462379,
     "wof:placetype":"locality",

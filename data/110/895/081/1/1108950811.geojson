@@ -10,8 +10,10 @@
     "geom:latitude":40.989702,
     "geom:longitude":28.706071,
     "iso:country":"TR",
+    "lbl:bbox":"28.7010707868,40.984702219,28.7110707868,40.994702219",
     "lbl:latitude":40.989702,
     "lbl:longitude":28.706071,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,7 +38,7 @@
     "name:tur_x_preferred":[
         "Cihangir"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1108950811,
-    "wof:lastmodified":1564161444,
+    "wof:lastmodified":1566585299,
     "wof:name":"Cihangir",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

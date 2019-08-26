@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.014082,
     "lbl:longitude":28.91572,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.021858,
     "mps:longitude":28.902287,
     "mz:hierarchy_label":1,
@@ -33,9 +34,6 @@
     ],
     "name:tur_x_preferred":[
         "Merkezefendi"
-    ],
-    "name:unk_x_variant":[
-        "Merkez Efendi"
     ],
     "name:vie_x_preferred":[
         "Merkezefendi"
@@ -76,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723977,
-        "qs:id":14412
+        "qs_pg:id":14412
     },
     "wof:country":"TR",
     "wof:geomhash":"83c55f307500269d3a54f823d0b67cc2",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582927,
     "wof:name":"Merkez Efendi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

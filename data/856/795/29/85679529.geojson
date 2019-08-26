@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.589653,
     "lbl:longitude":29.231465,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Yalova",
     "mps:latitude":40.588273,
     "mps:longitude":29.241842,
@@ -272,12 +273,6 @@
     "name:ukr_x_preferred":[
         "\u042f\u043b\u043e\u0432\u0430"
     ],
-    "name:und_x_preferred":[
-        "Yalova"
-    ],
-    "name:und_x_variant":[
-        "Yalova"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u06cc\u0627\u0644\u0648\u0648\u0627"
     ],
@@ -371,9 +366,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"674",
     "statoids:area_mi":"260",
     "statoids:as_of_date":"2007-12-31",
@@ -398,7 +393,7 @@
         "gp:id":20070182,
         "hasc:id":"TR.YL",
         "iso:id":"TR-77",
-        "qs:id":1179342,
+        "qs_pg:id":1179342,
         "unlc:id":"TR-77",
         "wd:id":"Q483083",
         "wk:page":"Yalova Province"
@@ -419,11 +414,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737379,
+    "wof:lastmodified":1566582977,
     "wof:name":"Yalova",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":181758,
     "wof:population_rank":9,

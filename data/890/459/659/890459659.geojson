@@ -11,14 +11,18 @@
     "geom:longitude":41.08667,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":129,
+    "gn:population":129,
     "iso:country":"TR",
+    "lbl:bbox":"41.06667,37.10694,41.10667,37.14694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "G\u00fcnebakan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zorava"
     ],
     "qs:name":"G\u00fcnebakan",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":295800,
-        "qs:id":547151
+        "qs_pg:id":547151
     },
     "wof:country":"TR",
     "wof:created":1469053277,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890459659,
-    "wof:lastmodified":1505343678,
+    "wof:lastmodified":1566586564,
     "wof:name":"G\u00fcnebakan",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

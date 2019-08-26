@@ -11,7 +11,7 @@
     "geom:longitude":33.357331,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.705545,
     "lbl:longitude":33.342636,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirikkale",
     "meso:admin_1":"Kirikkale",
     "meso:gadm_admin":"Yah\u015fihan",
@@ -41,6 +43,7 @@
     "mps:longitude":33.342636,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Yahsihan"
     ],
@@ -63,9 +66,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"198",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Yahsihan",
@@ -86,7 +89,7 @@
         "gn:id":322312,
         "gp:id":29390122,
         "hasc:id":"TR.KK.YA",
-        "qs:id":1163031
+        "qs_pg:id":1163031
     },
     "wof:country":"TR",
     "wof:created":1469053405,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":890462829,
-    "wof:lastmodified":1561070603,
+    "wof:lastmodified":1566586367,
     "wof:name":"Bah\u015fili",
     "wof:parent_id":85679447,
     "wof:placetype":"county",

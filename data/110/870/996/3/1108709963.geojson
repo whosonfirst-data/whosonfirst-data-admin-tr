@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.887241,
     "lbl:longitude":33.419634,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirikkale",
     "meso:admin_1":"Kirikkale",
     "meso:gadm_admin":"Elmada\u011f",
@@ -37,6 +39,7 @@
     "mps:longitude":33.419634,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yah\u015fihan \u0130l\u00e7esi"
     ],
@@ -86,7 +89,7 @@
         "\u4e9e\u8d6b\u5e0c\u6f22"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":1108709963,
-    "wof:lastmodified":1564161471,
+    "wof:lastmodified":1566585325,
     "wof:name":"Yah\u015fihan",
     "wof:parent_id":85679447,
     "wof:placetype":"county",

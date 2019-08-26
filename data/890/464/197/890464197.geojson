@@ -11,12 +11,15 @@
     "geom:longitude":28.43583,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.43083,40.12765,28.44083,40.13765",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Voyvoda"
     ],
     "qs:name":"Yesilova",
@@ -37,7 +40,7 @@
     "wof:concordances":{
         "gn:id":737553,
         "gp:id":55871036,
-        "qs:id":207641
+        "qs_pg:id":207641
     },
     "wof:country":"TR",
     "wof:created":1469053464,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890464197,
-    "wof:lastmodified":1505343697,
+    "wof:lastmodified":1566586301,
     "wof:name":"Yesilova",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

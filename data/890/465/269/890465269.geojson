@@ -11,11 +11,15 @@
     "geom:longitude":42.09806,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":502,
+    "gn:population":502,
     "iso:country":"TR",
+    "lbl:bbox":"42.07806,37.25833,42.11806,37.29833",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dzhibri"
     ],
     "qs:name":"Cibri",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313796,
-        "qs:id":547505
+        "qs_pg:id":547505
     },
     "wof:country":"TR",
     "wof:created":1469053511,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465269,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586336,
     "wof:name":"Cibri",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

@@ -9,14 +9,15 @@
     "geom:bbox":"28.9638787688,41.0151382125,28.9688873291,41.0198184241",
     "geom:latitude":41.017025,
     "geom:longitude":28.966339,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":41.02602,
     "gn:longitude":28.97451,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":41.025414,
     "lbl:longitude":28.97719,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.016953,
     "mps:longitude":28.966292,
     "mz:hierarchy_label":1,
@@ -134,9 +135,6 @@
     "name:ukr_x_preferred":[
         "\u0413\u0430\u043b\u0430\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Galata"
-    ],
     "name:urd_x_preferred":[
         "\u063a\u0644\u0637\u06c1"
     ],
@@ -205,7 +203,6 @@
     "wof:concordances":{
         "gn:id":747059,
         "gp:id":2343574,
-        "qs:id":1141925,
         "qs_pg:id":1141925,
         "wd:id":"Q501817",
         "wk:page":"Galata"
@@ -226,7 +223,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247574,
+    "wof:lastmodified":1566582915,
     "wof:name":"Galata",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":32.904244,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":13090,
+    "gn:population":13090,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.267943,
     "lbl:longitude":32.882079,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Konya",
     "meso:admin_1":"Konya",
     "meso:gadm_admin":"Alt\u0131nekin",
@@ -41,6 +43,7 @@
     "mps:longitude":32.882079,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Alt\u0131nekin"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Alt\u0131nekin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Z\u0131var\u0131k"
     ],
     "name:urd_x_preferred":[
@@ -113,9 +116,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1449",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Altinekin",
@@ -137,7 +140,7 @@
         "gn:id":323930,
         "gp:id":29390075,
         "hasc:id":"TR.KO.AT",
-        "qs:id":525681,
+        "qs_pg:id":525681,
         "wd:id":"Q2672829",
         "wk:page":"Alt\u0131nekin"
     },
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":890463075,
-    "wof:lastmodified":1563361066,
+    "wof:lastmodified":1566586246,
     "wof:name":"Alt\u0131nekin",
     "wof:parent_id":85679425,
     "wof:placetype":"county",

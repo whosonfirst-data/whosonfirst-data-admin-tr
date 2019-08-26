@@ -9,14 +9,15 @@
     "geom:bbox":"28.9846801758,41.0192828673,29.0121459961,41.0393235179",
     "geom:latitude":41.030608,
     "geom:longitude":28.996748,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":41.03456,
     "gn:longitude":28.99292,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":41.034301,
     "lbl:longitude":28.991542,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.031621,
     "mps:longitude":28.995398,
     "mz:hierarchy_label":1,
@@ -68,12 +69,6 @@
     "name:und_x_colloquial":[
         "Kabatas"
     ],
-    "name:und_x_preferred":[
-        "Kabata\u015f"
-    ],
-    "name:unk_x_variant":[
-        "Kabata\u015f"
-    ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":745044,
@@ -124,7 +119,6 @@
     "wd:latitude":41.034167,
     "wd:longitude":28.992222,
     "wd:wordcount":74,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85679237,
         102191569,
@@ -136,7 +130,6 @@
     "wof:concordances":{
         "gn:id":744957,
         "gp:id":2343592,
-        "qs:id":482580,
         "qs_pg:id":482580,
         "wd:id":"Q1775810",
         "wk:page":"Kabata\u015f, Istanbul"
@@ -157,7 +150,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247574,
+    "wof:lastmodified":1566582916,
     "wof:name":"Kabata\u015f",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

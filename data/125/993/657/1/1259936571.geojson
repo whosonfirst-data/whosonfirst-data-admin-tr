@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"40.47046,37.7804,40.51046,37.8204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Qaralar"
     ],
@@ -44,8 +48,7 @@
         "Karalar"
     ],
     "name:und_x_variant":[
-        "Karelu",
-        "Karalar"
+        "Karelu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1259936571,
-    "wof:lastmodified":1564164264,
+    "wof:lastmodified":1566587449,
     "wof:name":"Karalar",
     "wof:parent_id":890463353,
     "wof:placetype":"locality",

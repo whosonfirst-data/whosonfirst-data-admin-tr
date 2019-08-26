@@ -11,7 +11,7 @@
     "geom:longitude":29.936823,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":16587,
+    "gn:population":16587,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.709915,
     "lbl:longitude":29.936834,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Antalya",
     "meso:admin_1":"Antalya",
     "meso:gadm_admin":"Elmal\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":29.936834,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Almal\u0131"
     ],
@@ -135,9 +138,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1647",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Elmali",
@@ -159,7 +162,7 @@
         "gn:id":315697,
         "gp:id":29390301,
         "hasc:id":"TR.AL.EL",
-        "qs:id":213650,
+        "qs_pg:id":213650,
         "wd:id":"Q1013462",
         "wk:page":"Elmal\u0131"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890464317,
-    "wof:lastmodified":1563361265,
+    "wof:lastmodified":1566586323,
     "wof:name":"Elmal\u0131",
     "wof:parent_id":85679263,
     "wof:placetype":"county",

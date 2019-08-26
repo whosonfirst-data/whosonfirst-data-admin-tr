@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.006754,
     "lbl:longitude":28.888452,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.004489,
     "mps:longitude":28.889915,
     "mz:hierarchy_label":1,
@@ -64,12 +65,6 @@
     "name:und_x_colloquial":[
         "Abdurrahman Nafiz Gurman"
     ],
-    "name:und_x_preferred":[
-        "Abdurrahman Nafiz G\u00fcrman"
-    ],
-    "name:unk_x_variant":[
-        "Abdurrahman Nafiz G\u00fcrman"
-    ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
     "qs:gn_local":745044,
@@ -106,7 +101,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871315,
-        "qs:id":1337771,
+        "qs_pg:id":1337771,
         "wd:id":"Q4666305"
     },
     "wof:country":"TR",
@@ -124,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582911,
     "wof:name":"Abdurrahman Nafiz G\u00fcrman",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

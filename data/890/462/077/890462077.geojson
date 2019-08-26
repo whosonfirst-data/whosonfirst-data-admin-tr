@@ -11,11 +11,15 @@
     "geom:longitude":27.94167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.92167,38.15583,27.96167,38.19583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Karaova Baraj\u0131"
     ],
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":309645,
         "gp:id":55966566,
-        "qs:id":970855,
+        "qs_pg:id":970855,
         "wk:page":"Karaova Dam"
     },
     "wof:country":"TR",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890462077,
-    "wof:lastmodified":1564162804,
+    "wof:lastmodified":1566586369,
     "wof:name":"Karaova",
     "wof:parent_id":890461543,
     "wof:placetype":"locality",

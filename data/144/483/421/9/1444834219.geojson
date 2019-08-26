@@ -10,8 +10,10 @@
     "geom:latitude":41.118445,
     "geom:longitude":29.618462,
     "iso:country":"TR",
+    "lbl:bbox":"29.61346234,41.1134446237,29.62346234,41.1234446237",
     "lbl:latitude":41.118445,
     "lbl:longitude":29.618462,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444834219,
-    "wof:lastmodified":1566339998,
+    "wof:lastmodified":1566584851,
     "wof:name":"Ovacik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

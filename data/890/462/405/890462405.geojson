@@ -11,11 +11,15 @@
     "geom:longitude":35.58772,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.56772,38.63634,35.60772,38.67634",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"Erciyes",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Kayseri",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":315529,
         "gp:id":2318983,
-        "qs:id":1072591
+        "qs_pg:id":1072591
     },
     "wof:country":"TR",
     "wof:created":1469053388,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890462405,
-    "wof:lastmodified":1505343689,
+    "wof:lastmodified":1566586406,
     "wof:name":"Erciyes",
     "wof:parent_id":890463065,
     "wof:placetype":"locality",

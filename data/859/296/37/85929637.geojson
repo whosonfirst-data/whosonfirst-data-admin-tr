@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2845042.415277,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.146701,38.43042,27.146701,38.43042",
     "geom:latitude":38.43042,
     "geom:longitude":27.146701,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"27.141701,38.42542,27.151701,38.43542",
     "lbl:latitude":38.43042,
     "lbl:longitude":27.146701,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.425939,
     "mps:longitude":27.153637,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
-    "name:und_x_preferred":[
-        "Mimarsinan"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mimarsinan"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890464249,
-        85679201
+        890464249
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865537,
-        "qs:id":1197701
+        "qs_pg:id":1197701
     },
     "wof:country":"TR",
     "wof:geomhash":"be1bf9247e1afd471cecf0cf6f1dc84b",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939148,
+    "wof:lastmodified":1566582941,
     "wof:name":"Mimarsinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

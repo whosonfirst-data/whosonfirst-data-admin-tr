@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":38.320556,
     "lbl:longitude":26.340761,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":38.320556,
     "mps:longitude":26.340761,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Alt\u0131n Yunus"
     ],
@@ -40,7 +43,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":83,
     "wof:belongsto":[
         102191569,
@@ -52,7 +55,6 @@
     "wof:concordances":{
         "gn:id":411393,
         "gp:id":55966390,
-        "qs:id":383674,
         "qs_pg:id":383674,
         "wd:id":"Q17511462"
     },
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":101912909,
-    "wof:lastmodified":1563360617,
+    "wof:lastmodified":1566585995,
     "wof:name":"Altin Yunus",
     "wof:parent_id":890460535,
     "wof:placetype":"locality",

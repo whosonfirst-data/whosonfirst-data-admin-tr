@@ -11,12 +11,16 @@
     "geom:longitude":29.98839,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":9200,
+    "gn:population":9200,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.96839,40.70453,30.00839,40.74453",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "K\u00f6se"
     ],
     "qs:name":"K\u00f6sek\u00f6y",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":742588,
         "gp:id":2330184,
-        "qs:id":29163
+        "qs_pg:id":29163
     },
     "wof:country":"TR",
     "wof:created":1469053471,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890464393,
-    "wof:lastmodified":1505343697,
+    "wof:lastmodified":1566586302,
     "wof:name":"K\u00f6sek\u00f6y",
     "wof:parent_id":1108709327,
     "wof:placetype":"locality",

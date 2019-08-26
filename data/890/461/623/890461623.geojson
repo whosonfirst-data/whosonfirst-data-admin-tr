@@ -11,7 +11,7 @@
     "geom:longitude":41.40312,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":16217,
+    "gn:population":16217,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.235436,
     "lbl:longitude":41.405679,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Artvin",
     "meso:admin_1":"Artvin",
     "meso:gadm_admin":"Arhavi",
@@ -41,6 +43,7 @@
     "mps:longitude":41.405679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Arhavi"
     ],
@@ -62,7 +65,7 @@
     "name:tur_x_preferred":[
         "Arhavi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Musazade"
     ],
     "qs:name":"Arhavi",
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"299",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Arhavi",
@@ -105,7 +108,7 @@
         "gn:id":751931,
         "gp:id":29390091,
         "hasc:id":"TR.AV.AH",
-        "qs:id":129237,
+        "qs_pg:id":129237,
         "wd:id":"Q15960747",
         "wk:page":"Arhavi"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890461623,
-    "wof:lastmodified":1563361780,
+    "wof:lastmodified":1566586525,
     "wof:name":"Arhavi",
     "wof:parent_id":85679367,
     "wof:placetype":"county",

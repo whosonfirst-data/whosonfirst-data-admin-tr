@@ -10,8 +10,10 @@
     "geom:latitude":41.178181,
     "geom:longitude":29.611009,
     "iso:country":"TR",
+    "lbl:bbox":"29.6060086562,41.1731806324,29.6160086562,41.1831806324",
     "lbl:latitude":41.178181,
     "lbl:longitude":29.611009,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,10 +35,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444833649,
-    "wof:lastmodified":1566339932,
+    "wof:lastmodified":1566584828,
     "wof:name":"Haci Kasim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

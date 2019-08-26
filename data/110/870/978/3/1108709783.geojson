@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.280593,
     "lbl:longitude":35.267101,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Corum",
     "meso:admin_1":"\u00c7orum",
     "meso:gadm_admin":"Ortak\u00f6y",
@@ -37,6 +39,7 @@
     "mps:longitude":35.267101,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Ortak\u00f6y"
     ],
@@ -104,9 +107,9 @@
         "\u5965\u5854\u79d1\u4f0a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"217",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Ortak\u00f6y",
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1108709783,
-    "wof:lastmodified":1564161484,
+    "wof:lastmodified":1566585343,
     "wof:name":"Ortak\u00f6y",
     "wof:parent_id":85679339,
     "wof:placetype":"county",

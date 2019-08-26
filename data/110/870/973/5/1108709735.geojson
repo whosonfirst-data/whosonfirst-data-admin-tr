@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.876964,
     "lbl:longitude":44.016746,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Igdir",
     "meso:admin_1":"Igdir",
     "meso:gadm_admin":"Merkez",
@@ -37,11 +39,12 @@
     "mps:longitude":44.016746,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_variant":[
         "Merkez"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1108709735,
-    "wof:lastmodified":1561070588,
+    "wof:lastmodified":1566585371,
     "wof:name":"Merkez",
     "wof:parent_id":85679515,
     "wof:placetype":"county",

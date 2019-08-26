@@ -11,7 +11,7 @@
     "geom:longitude":37.004668,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":10743,
+    "gn:population":10743,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.058239,
     "lbl:longitude":37.031187,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ordu",
     "meso:admin_1":"Ordu",
     "meso:gadm_admin":"\u0130kizce",
@@ -41,6 +43,7 @@
     "mps:longitude":37.031187,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u0130kizce \u0130l\u00e7esi"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "\u0130kizce"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00e2lelimaabeyceli"
     ],
     "name:urd_x_preferred":[
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"78",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Ikizce",
@@ -132,7 +135,7 @@
         "gn:id":745364,
         "gp:id":29390887,
         "hasc:id":"TR.OR.IK",
-        "qs:id":129197,
+        "qs_pg:id":129197,
         "wd:id":"Q2670781",
         "wk:page":"\u0130kizce"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":890461607,
-    "wof:lastmodified":1563361808,
+    "wof:lastmodified":1566586534,
     "wof:name":"\u0130kizce",
     "wof:parent_id":85679349,
     "wof:placetype":"county",

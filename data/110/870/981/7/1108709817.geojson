@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.867967,
     "lbl:longitude":38.092828,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Giresun",
     "meso:admin_1":"Giresun",
     "meso:gadm_admin":"Piraziz",
@@ -37,6 +39,7 @@
     "mps:longitude":38.092828,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Piraziz \u0130l\u00e7esi"
     ],
@@ -98,9 +101,9 @@
         "\u76ae\u62c9\u9f4a\u8332"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"154",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Piraziz",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1108709817,
-    "wof:lastmodified":1563359788,
+    "wof:lastmodified":1566585381,
     "wof:name":"Piraziz",
     "wof:parent_id":85679341,
     "wof:placetype":"county",

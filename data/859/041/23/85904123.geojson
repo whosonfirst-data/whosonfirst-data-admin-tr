@@ -14,6 +14,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.01792,
     "lbl:longitude":28.916463,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.022959,
     "mps:longitude":28.914371,
     "mz:hierarchy_label":1,
@@ -165,9 +166,6 @@
         "Karaguemruek",
         "Karagumruk"
     ],
-    "name:und_x_preferred":[
-        "Karag\u00fcmr\u00fck"
-    ],
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
@@ -182,7 +180,7 @@
     "wof:concordances":{
         "gn:id":744346,
         "gp:id":2343599,
-        "qs:id":1256981,
+        "qs_pg:id":1256981,
         "wd:id":"Q6102963",
         "wk:page":"Karag\u00fcmr\u00fck"
     },
@@ -201,7 +199,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582915,
     "wof:name":"Karag\u00fcmr\u00fck",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

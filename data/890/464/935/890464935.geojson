@@ -11,14 +11,18 @@
     "geom:longitude":41.2493,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1491,
+    "gn:population":1491,
     "iso:country":"TR",
+    "lbl:bbox":"41.2293,37.24103,41.2693,37.28103",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Toptepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nebil"
     ],
     "qs:name":"Toptepe",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298953,
-        "qs:id":547258
+        "qs_pg:id":547258
     },
     "wof:country":"TR",
     "wof:created":1469053491,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890464935,
-    "wof:lastmodified":1505343700,
+    "wof:lastmodified":1566586299,
     "wof:name":"Toptepe",
     "wof:parent_id":890463867,
     "wof:placetype":"locality",

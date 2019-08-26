@@ -11,10 +11,14 @@
     "geom:longitude":36.22885,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":56513,
+    "gn:population":56513,
     "iso:country":"TR",
+    "lbl:bbox":"36.20885,36.84158,36.24885,36.88158",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u0631\u062a\u064a\u0648\u0644"
     ],
@@ -118,7 +122,7 @@
     "wof:concordances":{
         "gn:id":316284,
         "gp:id":2343941,
-        "qs:id":307949,
+        "qs_pg:id":307949,
         "wd:id":"Q988324",
         "wk:page":"D\u00f6rtyol"
     },
@@ -135,7 +139,7 @@
         }
     ],
     "wof:id":890460033,
-    "wof:lastmodified":1563361631,
+    "wof:lastmodified":1566586471,
     "wof:name":"D\u00f6rtyol",
     "wof:parent_id":1108709463,
     "wof:placetype":"locality",

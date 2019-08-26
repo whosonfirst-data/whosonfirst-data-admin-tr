@@ -11,10 +11,14 @@
     "geom:longitude":41.44361,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":113,
+    "gn:population":113,
     "iso:country":"TR",
+    "lbl:bbox":"41.42361,37.55583,41.46361,37.59583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "\u00d6zler"
     ],
@@ -36,7 +40,7 @@
     "name:tur_x_preferred":[
         "\u00d6zler"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0130l\u00f6z"
     ],
     "name:vie_x_preferred":[
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":302971,
         "gp:id":2344009,
-        "qs:id":547328,
+        "qs_pg:id":547328,
         "wd:id":"Q8079150"
     },
     "wof:country":"TR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890465045,
-    "wof:lastmodified":1561769270,
+    "wof:lastmodified":1566586346,
     "wof:name":"\u00d6zler",
     "wof:parent_id":1108709515,
     "wof:placetype":"locality",

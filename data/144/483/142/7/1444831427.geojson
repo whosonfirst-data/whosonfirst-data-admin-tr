@@ -10,8 +10,10 @@
     "geom:latitude":41.020001,
     "geom:longitude":29.164858,
     "iso:country":"TR",
+    "lbl:bbox":"29.1598579195,41.0150010805,29.1698579195,41.0250010805",
     "lbl:latitude":41.020001,
     "lbl:longitude":29.164858,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461267,
-        85679237
+        890461267
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831427,
-    "wof:lastmodified":1566339664,
+    "wof:lastmodified":1566584841,
     "wof:name":"Asagi Dudullu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

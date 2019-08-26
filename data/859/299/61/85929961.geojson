@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.081263,
     "lbl:longitude":28.783909,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.07627,
     "mps:longitude":28.790766,
     "mz:hierarchy_label":1,
@@ -142,12 +143,6 @@
     "name:und_x_colloquial":[
         "Ziya Gokalp"
     ],
-    "name:und_x_preferred":[
-        "Ziya G\u00f6kalp"
-    ],
-    "name:unk_x_variant":[
-        "Ziya G\u00f6kalp"
-    ],
     "name:urd_x_preferred":[
         "\u0636\u06cc\u0627\u0621 \u06af\u0648\u06a9 \u0627\u0644\u067e"
     ],
@@ -193,7 +188,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870976,
-        "qs:id":230833,
+        "qs_pg:id":230833,
         "wd:id":"Q83275"
     },
     "wof:country":"TR",
@@ -211,7 +206,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582944,
     "wof:name":"Ziya Gokalp",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

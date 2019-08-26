@@ -10,8 +10,10 @@
     "geom:latitude":40.992381,
     "geom:longitude":29.400895,
     "iso:country":"TR",
+    "lbl:bbox":"29.3958950251,40.9873814216,29.4058950251,40.9973814216",
     "lbl:latitude":40.992381,
     "lbl:longitude":29.400895,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461937,
-        85679237
+        890461937
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833305,
-    "wof:lastmodified":1566339892,
+    "wof:lastmodified":1566584826,
     "wof:name":"BallIca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

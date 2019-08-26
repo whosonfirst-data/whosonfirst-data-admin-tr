@@ -11,11 +11,14 @@
     "geom:longitude":30.69264,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.68764,36.88526,30.69764,36.89526",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Altindag",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Antalya",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":8073914,
         "gp:id":55870683,
-        "qs:id":1337691
+        "qs_pg:id":1337691
     },
     "wof:country":"TR",
     "wof:created":1469053353,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890461475,
-    "wof:lastmodified":1505343686,
+    "wof:lastmodified":1566586524,
     "wof:name":"Altindag",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

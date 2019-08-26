@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":38.672347,
     "lbl:longitude":40.589031,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bingol",
     "meso:admin_1":"Bing\u00f6l",
     "meso:gadm_admin":"Gen\u00e7",
@@ -38,6 +40,7 @@
     "mps:longitude":40.589031,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u06af\u0646\u062c"
     ],
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1712",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Gen\u00e7",
@@ -142,7 +145,7 @@
     "wof:concordances":{
         "gp:id":29390346,
         "hasc:id":"TR.BG.GE",
-        "qs:id":1324087,
+        "qs_pg:id":1324087,
         "wd:id":"Q203630",
         "wk:page":"Gen\u00e7"
     },
@@ -158,7 +161,7 @@
         }
     ],
     "wof:id":890464589,
-    "wof:lastmodified":1563361193,
+    "wof:lastmodified":1566586296,
     "wof:name":"Gen\u00e7",
     "wof:parent_id":85679391,
     "wof:placetype":"county",

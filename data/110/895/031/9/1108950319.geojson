@@ -10,9 +10,12 @@
     "geom:latitude":41.011573,
     "geom:longitude":28.927939,
     "iso:country":"TR",
+    "lbl:bbox":"28.9229391336,41.0065728383,28.9329391336,41.0165728383",
     "lbl:latitude":41.011573,
     "lbl:longitude":28.927939,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "\u00c7apa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108950319,
-    "wof:lastmodified":1497292379,
+    "wof:lastmodified":1566585287,
     "wof:name":"Capa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

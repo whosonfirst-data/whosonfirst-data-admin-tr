@@ -11,7 +11,7 @@
     "geom:longitude":41.0761,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":26569,
+    "gn:population":26569,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.493374,
     "lbl:longitude":41.081255,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyarbakir",
     "meso:admin_1":"Diyarbakir",
     "meso:gadm_admin":"Kulp",
@@ -41,6 +43,7 @@
     "mps:longitude":41.081255,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kulp"
     ],
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1610",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kulp",
@@ -143,7 +146,7 @@
         "gn:id":305750,
         "gp:id":29390522,
         "hasc:id":"TR.DY.KU",
-        "qs:id":342378,
+        "qs_pg:id":342378,
         "wd:id":"Q955561",
         "wk:page":"Kulp"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890463481,
-    "wof:lastmodified":1563361061,
+    "wof:lastmodified":1566586245,
     "wof:name":"Kulp",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

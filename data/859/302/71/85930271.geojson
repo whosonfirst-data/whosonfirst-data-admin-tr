@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.085564,
     "lbl:longitude":28.89679,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.084224,
     "mps:longitude":28.893946,
     "mz:hierarchy_label":1,
@@ -97,7 +98,7 @@
     "name:tur_x_preferred":[
         "Karayollar\u0131"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Karayollari"
     ],
     "name:war_x_preferred":[
@@ -116,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871480,
-        "qs:id":1010913,
+        "qs_pg:id":1010913,
         "wd:id":"Q6072274"
     },
     "wof:country":"TR",
@@ -134,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582935,
     "wof:name":"Karayollari",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

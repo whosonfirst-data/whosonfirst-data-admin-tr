@@ -11,11 +11,15 @@
     "geom:longitude":29.15507,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":427040,
+    "gn:population":427040,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.13507,40.91567,29.17507,40.95567",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u062a\u064a\u0628\u0627"
     ],
@@ -130,7 +134,7 @@
     "wof:concordances":{
         "gn:id":741763,
         "gp:id":2332033,
-        "qs:id":1139530,
+        "qs_pg:id":1139530,
         "wd:id":"Q739547",
         "wk:page":"Maltepe"
     },
@@ -147,7 +151,7 @@
         }
     ],
     "wof:id":890462721,
-    "wof:lastmodified":1563361472,
+    "wof:lastmodified":1566586414,
     "wof:name":"Maltepe",
     "wof:parent_id":890460749,
     "wof:placetype":"locality",

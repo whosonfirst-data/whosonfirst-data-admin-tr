@@ -11,11 +11,14 @@
     "geom:longitude":30.72266,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.71766,36.9034,30.72766,36.9134",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kizilarik",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Antalya",
@@ -38,7 +41,7 @@
     "wof:concordances":{
         "gn:id":8074130,
         "gp:id":55871274,
-        "qs:id":273704
+        "qs_pg:id":273704
     },
     "wof:country":"TR",
     "wof:created":1469053363,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890461761,
-    "wof:lastmodified":1505343687,
+    "wof:lastmodified":1566586520,
     "wof:name":"Kizilarik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

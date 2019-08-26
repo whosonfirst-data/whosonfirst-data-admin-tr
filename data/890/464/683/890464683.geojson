@@ -11,11 +11,15 @@
     "geom:longitude":27.92142,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.90142,40.38969,27.94142,40.42969",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Tatl\u0131su"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":738972,
         "gp:id":2338672,
-        "qs:id":1189960
+        "qs_pg:id":1189960
     },
     "wof:country":"TR",
     "wof:created":1469053481,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890464683,
-    "wof:lastmodified":1505343699,
+    "wof:lastmodified":1566586311,
     "wof:name":"Tatl\u0131su",
     "wof:parent_id":890462795,
     "wof:placetype":"locality",

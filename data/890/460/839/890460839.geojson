@@ -11,11 +11,14 @@
     "geom:longitude":30.37111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.36611,39.54417,30.37611,39.55417",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "\u00c7aml\u0131ca"
     ],
@@ -88,9 +91,6 @@
     "name:tur_x_preferred":[
         "\u00c7aml\u0131ca"
     ],
-    "name:unk_x_variant":[
-        "\u00c7aml\u0131ca"
-    ],
     "name:vie_x_preferred":[
         "\u00c7aml\u0131ca"
     ],
@@ -119,7 +119,7 @@
     "wof:concordances":{
         "gn:id":301608,
         "gp:id":56043377,
-        "qs:id":281700,
+        "qs_pg:id":281700,
         "wd:id":"Q6491381"
     },
     "wof:country":"TR",
@@ -135,7 +135,7 @@
         }
     ],
     "wof:id":890460839,
-    "wof:lastmodified":1563361634,
+    "wof:lastmodified":1566586471,
     "wof:name":"\u00c7amlica",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

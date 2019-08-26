@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.7979,
     "lbl:longitude":30.206011,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Afyon",
     "meso:admin_1":"Afyon",
     "meso:gadm_admin":"Sincanl\u0131",
@@ -37,6 +39,7 @@
     "mps:longitude":30.206011,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0627\u0646 \u0628\u0627\u0634\u0627"
     ],
@@ -99,9 +102,9 @@
         "Sinanpa\u015fa"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"853",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Sinanpasa",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":1108709887,
-    "wof:lastmodified":1563359785,
+    "wof:lastmodified":1566585380,
     "wof:name":"Sinanpa\u015fa",
     "wof:parent_id":85679267,
     "wof:placetype":"county",

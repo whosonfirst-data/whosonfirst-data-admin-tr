@@ -11,17 +11,21 @@
     "geom:longitude":41.2594,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":191,
+    "gn:population":191,
     "iso:country":"TR",
+    "lbl:bbox":"41.2394,37.08464,41.2794,37.12464",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Beylik"
     ],
     "name:tur_x_preferred":[
         "Beylik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bakisyan"
     ],
     "qs:name":"Beylik",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":316095,
         "gp:id":2344290,
-        "qs:id":547550,
+        "qs_pg:id":547550,
         "wk:page":"Beylik"
     },
     "wof:country":"TR",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890465339,
-    "wof:lastmodified":1564162758,
+    "wof:lastmodified":1566586328,
     "wof:name":"Beylik",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

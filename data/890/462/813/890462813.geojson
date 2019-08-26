@@ -11,11 +11,14 @@
     "geom:longitude":30.696,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.691,36.88906,30.701,36.89906",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\u00dc\u00e7gen",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Antalya",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":8074175,
         "gp:id":55870897,
-        "qs:id":1158970
+        "qs_pg:id":1158970
     },
     "wof:country":"TR",
     "wof:created":1469053404,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890462813,
-    "wof:lastmodified":1505343691,
+    "wof:lastmodified":1566586403,
     "wof:name":"\u00dc\u00e7gen",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

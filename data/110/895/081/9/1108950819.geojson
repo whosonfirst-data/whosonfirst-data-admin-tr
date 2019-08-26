@@ -10,8 +10,10 @@
     "geom:latitude":41.032124,
     "geom:longitude":28.706157,
     "iso:country":"TR",
+    "lbl:bbox":"28.7011566175,41.027124287,28.7111566175,41.037124287",
     "lbl:latitude":41.032124,
     "lbl:longitude":28.706157,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:tur_x_preferred":[
         "Ye\u015filkent"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108950819,
-    "wof:lastmodified":1534379467,
+    "wof:lastmodified":1566585299,
     "wof:name":"Yesilkent",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

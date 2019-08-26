@@ -11,14 +11,18 @@
     "geom:longitude":41.07167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":352,
+    "gn:population":352,
     "iso:country":"TR",
+    "lbl:bbox":"41.05167,37.085,41.09167,37.125",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Durakba\u015f\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Serdzhikhane"
     ],
     "qs:name":"Durakba\u015f\u0131",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":316132,
-        "qs:id":547555
+        "qs_pg:id":547555
     },
     "wof:country":"TR",
     "wof:created":1469053515,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890465349,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586339,
     "wof:name":"Durakba\u015f\u0131",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

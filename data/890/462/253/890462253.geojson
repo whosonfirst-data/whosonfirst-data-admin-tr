@@ -11,11 +11,15 @@
     "geom:longitude":34.50917,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":6749,
+    "gn:population":6749,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"34.48917,38.53028,34.52917,38.57028",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Ac\u0131g\u00f6l"
     ],
@@ -79,9 +83,6 @@
     "name:tur_x_preferred":[
         "Ac\u0131g\u00f6l"
     ],
-    "name:unk_x_variant":[
-        "Dobada"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u062c\u06cc\u06af\u0644"
     ],
@@ -109,7 +110,7 @@
     "wof:concordances":{
         "gn:id":325449,
         "gp:id":2343676,
-        "qs:id":1310540,
+        "qs_pg:id":1310540,
         "wd:id":"Q94683",
         "wk:page":"Ac\u0131g\u00f6l"
     },
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":890462253,
-    "wof:lastmodified":1563361452,
+    "wof:lastmodified":1566586406,
     "wof:name":"Ac\u0131g\u00f6l",
     "wof:parent_id":890460835,
     "wof:placetype":"locality",

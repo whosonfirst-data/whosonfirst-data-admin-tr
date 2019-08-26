@@ -9,14 +9,15 @@
     "geom:bbox":"29.0588378906,41.0752102054,29.0823709006,41.0938421632",
     "geom:latitude":41.08401,
     "geom:longitude":29.070332,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":41.08737,
     "gn:longitude":29.07094,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":41.083608,
     "lbl:longitude":29.067811,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.084501,
     "mps:longitude":29.069157,
     "mz:hierarchy_label":1,
@@ -104,11 +105,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0430\u0434\u043e\u043b\u0443\u0445\u0456\u0441\u0430\u0440"
     ],
-    "name:und_x_preferred":[
-        "Anadolu Hisari"
-    ],
-    "name:unk_x_variant":[
-        "Anadolu Hisari",
+    "name:und_x_variant":[
         "Hisar"
     ],
     "name:vie_x_preferred":[
@@ -174,7 +171,6 @@
     "wof:concordances":{
         "gn:id":751994,
         "gp:id":55870750,
-        "qs:id":1077224,
         "qs_pg:id":1077224,
         "wd:id":"Q81650",
         "wk:page":"Anadoluhisar\u0131"
@@ -194,7 +190,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566582938,
     "wof:name":"Anadolu Hisari",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

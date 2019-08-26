@@ -11,11 +11,14 @@
     "geom:longitude":30.62618,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.62118,36.8706,30.63118,36.8806",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Ulu\u00e7",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Antalya",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":8073739,
         "gp:id":55870744,
-        "qs:id":898371
+        "qs_pg:id":898371
     },
     "wof:country":"TR",
     "wof:created":1469053373,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890461951,
-    "wof:lastmodified":1505343688,
+    "wof:lastmodified":1566586518,
     "wof:name":"Ulu\u00e7",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

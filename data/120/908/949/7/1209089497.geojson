@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"32.26697,40.91927,32.30697,40.95927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":8196088
     },
     "wof:country":"TR",
-    "wof:geomhash":"f03954ab117a2f29100ede074b853733",
+    "wof:geomhash":"f0833f5a068efd809d43ec453a65ca4c",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209089497,
-    "wof:lastmodified":1536298079,
+    "wof:lastmodified":1566584346,
     "wof:name":"Zaimler",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.286970000000004,
+    32.28697,
     40.93927,
-    32.286970000000004,
+    32.28697,
     40.93927
 ],
   "geometry": {"coordinates":[32.28697,40.93927],"type":"Point"}

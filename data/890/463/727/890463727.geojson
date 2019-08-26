@@ -11,11 +11,15 @@
     "geom:longitude":39.76212,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":52684,
+    "gn:population":52684,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.74212,38.24533,39.78212,38.28533",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0627\u0631\u0642\u0627\u0646\u06cc"
     ],
@@ -106,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0440\u0435\u0433\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arghana"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":315468,
         "gp:id":2343972,
-        "qs:id":1233414,
+        "qs_pg:id":1233414,
         "wd:id":"Q945363",
         "wk:page":"Ergani"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":890463727,
-    "wof:lastmodified":1563361119,
+    "wof:lastmodified":1566586265,
     "wof:name":"Ergani",
     "wof:parent_id":1108709491,
     "wof:placetype":"locality",

@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.624535,
     "lbl:longitude":34.087324,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirsehir",
     "meso:admin_1":"Kirsehir",
     "meso:gadm_admin":"Ak\u00e7akent",
@@ -37,6 +39,7 @@
     "mps:longitude":34.087324,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Ak\u00e7akent"
     ],
@@ -89,9 +92,9 @@
         "Ak\u00e7akent"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"585",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Ak\u00e7akent",
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":1108709269,
-    "wof:lastmodified":1564161509,
+    "wof:lastmodified":1566585376,
     "wof:name":"Ak\u00e7akent",
     "wof:parent_id":85679317,
     "wof:placetype":"county",

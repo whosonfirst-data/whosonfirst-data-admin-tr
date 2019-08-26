@@ -11,14 +11,18 @@
     "geom:longitude":41.37049,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1333,
+    "gn:population":1333,
     "iso:country":"TR",
+    "lbl:bbox":"41.35049,37.07476,41.39049,37.11476",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Tepealt\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Telyakup"
     ],
     "qs:name":"Tepealt\u0131",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299354,
-        "qs:id":547265
+        "qs_pg:id":547265
     },
     "wof:country":"TR",
     "wof:created":1469053492,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890464949,
-    "wof:lastmodified":1505343700,
+    "wof:lastmodified":1566586294,
     "wof:name":"Tepealt\u0131",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

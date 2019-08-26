@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":38.54651,
     "lbl:longitude":42.396393,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bitlis",
     "mps:latitude":38.516678,
     "mps:longitude":42.338589,
@@ -233,7 +234,7 @@
         "Bitlis Province"
     ],
     "name:sin_x_preferred":[
-        "\u0db6\u0dd2\u0da7\u0dca\u0dbd\u0dd2\u0dc3\u0dca  \u0db4\u0dc5\u0dcf\u0dad"
+        "\u0db6\u0dd2\u0da7\u0dca\u0dbd\u0dd2\u0dc3\u0dca \u0db4\u0dc5\u0dcf\u0dad"
     ],
     "name:sme_x_preferred":[
         "Bitlis eanangoddi"
@@ -280,13 +281,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0442\u043b\u0456\u0441"
     ],
-    "name:und_x_preferred":[
-        "Bitlis"
-    ],
     "name:und_x_variant":[
-        "Bitlis"
-    ],
-    "name:unk_x_variant":[
         "Bitlis Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -385,9 +380,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"6,707",
     "statoids:area_mi":"2,590",
     "statoids:as_of_date":"2007-12-31",
@@ -413,7 +408,7 @@
         "gp:id":2347270,
         "hasc:id":"TR.BT",
         "iso:id":"TR-13",
-        "qs:id":205642,
+        "qs_pg:id":205642,
         "unlc:id":"TR-13",
         "wd:id":"Q83239",
         "wk:page":"Bitlis Province"
@@ -434,11 +429,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737377,
+    "wof:lastmodified":1566582968,
     "wof:name":"Bitlis",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":327886,
     "wof:population_rank":10,

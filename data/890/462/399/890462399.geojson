@@ -11,11 +11,15 @@
     "geom:longitude":37.59409,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"37.57409,41.01435,37.61409,41.05435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bolaman"
     ],
@@ -25,7 +29,7 @@
     "name:tur_x_preferred":[
         "Bolaman"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u00e2leli"
     ],
     "name:vie_x_preferred":[
@@ -52,7 +56,7 @@
     "wof:concordances":{
         "gn:id":750528,
         "gp:id":2312084,
-        "qs:id":1072315,
+        "qs_pg:id":1072315,
         "wd:id":"Q4938905",
         "wk:page":"Bolaman"
     },
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":890462399,
-    "wof:lastmodified":1561769272,
+    "wof:lastmodified":1566586364,
     "wof:name":"Bolaman",
     "wof:parent_id":890460187,
     "wof:placetype":"locality",

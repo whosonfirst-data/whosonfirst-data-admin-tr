@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":38.620052,
     "lbl:longitude":27.397315,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":38.620052,
     "mps:longitude":27.397315,
     "mz:hierarchy_label":1,
@@ -42,7 +44,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0430\u043d\u0438\u0441\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Saruhan"
     ],
     "name:zho_x_preferred":[
@@ -155,7 +157,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -167,10 +169,12 @@
     "wof:concordances":{
         "gn:id":304827,
         "gp:id":2344250,
-        "qs:id":204616,
-        "qs_pg:id":1134825,
+        "qs_pg:id":204616,
         "wd:id":"Q920866",
         "wk:page":"Magnesia ad Sipylum"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134825
     },
     "wof:country":"TR",
     "wof:geomhash":"f3e78681e0052fa587bfe0a0e6b827a8",
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":101911255,
-    "wof:lastmodified":1563360690,
+    "wof:lastmodified":1566586014,
     "wof:name":"Manisa",
     "wof:parent_id":890463535,
     "wof:placetype":"locality",

@@ -12,8 +12,10 @@
     "gn:latitude":39.91154,
     "gn:longitude":32.85795,
     "iso:country":"TR",
+    "lbl:bbox":"32.852238,39.907191,32.862238,39.917191",
     "lbl:latitude":39.912191,
     "lbl:longitude":32.857238,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.910789,
     "mps:longitude":32.855298,
     "mz:hierarchy_label":0,
@@ -35,12 +37,6 @@
         "Kavakl\u0131dere"
     ],
     "name:tur_x_preferred":[
-        "Kavakl\u0131dere"
-    ],
-    "name:und_x_preferred":[
-        "Kavakl\u0131dere"
-    ],
-    "name:unk_x_variant":[
         "Kavakl\u0131dere"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -72,7 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":43,
     "wof:belongsto":[
         85679409,
@@ -84,7 +80,6 @@
     "wof:concordances":{
         "gn:id":8017101,
         "gp:id":2343603,
-        "qs:id":119733,
         "qs_pg:id":119733
     },
     "wof:country":"TR",
@@ -103,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564158346,
+    "wof:lastmodified":1566582914,
     "wof:name":"Kavakl\u0131dere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

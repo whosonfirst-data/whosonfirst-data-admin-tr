@@ -11,8 +11,12 @@
     "geom:longitude":35.563645,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.543645,38.666062,35.583645,38.706062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Talas"
     ],
@@ -94,7 +98,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2344421,
-        "qs:id":1134851,
+        "qs_pg:id":1134851,
         "wd:id":"Q233043",
         "wk:page":"Talas"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890461443,
-    "wof:lastmodified":1563361777,
+    "wof:lastmodified":1566586523,
     "wof:name":"Talas",
     "wof:parent_id":890463065,
     "wof:placetype":"locality",

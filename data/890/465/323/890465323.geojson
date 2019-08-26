@@ -11,11 +11,15 @@
     "geom:longitude":38.68972,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":81,
+    "gn:population":81,
     "iso:country":"TR",
+    "lbl:bbox":"38.66972,36.81389,38.70972,36.85389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kerrik"
     ],
     "qs:name":"Edebey",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":315991,
-        "qs:id":547542
+        "qs_pg:id":547542
     },
     "wof:country":"TR",
     "wof:created":1469053514,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465323,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586338,
     "wof:name":"Edebey",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

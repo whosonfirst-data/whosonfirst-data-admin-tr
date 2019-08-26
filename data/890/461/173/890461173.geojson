@@ -11,10 +11,14 @@
     "geom:longitude":38.9475,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":32114,
+    "gn:population":32114,
     "iso:country":"TR",
+    "lbl:bbox":"38.9275,36.69111,38.9675,36.73111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u0642\u062c\u0629 \u0642\u0644\u0639\u0629"
     ],
@@ -114,7 +118,7 @@
     "name:tur_x_preferred":[
         "Ak\u00e7akale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akchakale"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +146,7 @@
     "wof:concordances":{
         "gn:id":324944,
         "gp:id":2343697,
-        "qs:id":348432,
+        "qs_pg:id":348432,
         "wd:id":"Q424700",
         "wk:page":"Ak\u00e7akale"
     },
@@ -159,7 +163,7 @@
         }
     ],
     "wof:id":890461173,
-    "wof:lastmodified":1563361726,
+    "wof:lastmodified":1566586505,
     "wof:name":"Ak\u00e7akale",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

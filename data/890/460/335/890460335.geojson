@@ -11,7 +11,7 @@
     "geom:longitude":27.155093,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
         "Bayrakl\u0131 District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":38.481192,
     "lbl:longitude":27.143288,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Kar\u015f\u0131yaka",
@@ -40,6 +42,7 @@
     "mps:longitude":27.143288,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Bayrakl\u0131"
     ],
@@ -93,7 +96,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":89,
     "wof:belongsto":[
@@ -105,7 +108,7 @@
     "wof:concordances":{
         "gn:id":7732715,
         "hasc:id":"TR.IZ.KA",
-        "qs:id":1063803,
+        "qs_pg:id":1063803,
         "wd:id":"Q812591",
         "wk:page":"Bayrakl\u0131"
     },
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":890460335,
-    "wof:lastmodified":1563361587,
+    "wof:lastmodified":1566586455,
     "wof:name":"Bayrakl\u0131",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

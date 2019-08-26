@@ -11,10 +11,14 @@
     "geom:longitude":41.32928,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":4065,
+    "gn:population":4065,
     "iso:country":"TR",
+    "lbl:bbox":"41.30928,37.94577,41.34928,37.98577",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "\u0130kik\u00f6pr\u00fc"
     ],
@@ -24,7 +28,7 @@
     "name:tur_x_preferred":[
         "\u0130kik\u00f6pr\u00fc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u015fa\u011f\u0131 Aviski"
     ],
     "name:vie_x_preferred":[
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":311628,
-        "qs:id":547449,
+        "qs_pg:id":547449,
         "wd:id":"Q8080054"
     },
     "wof:country":"TR",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890465199,
-    "wof:lastmodified":1561769269,
+    "wof:lastmodified":1566586344,
     "wof:name":"Aviski",
     "wof:parent_id":1108709369,
     "wof:placetype":"locality",

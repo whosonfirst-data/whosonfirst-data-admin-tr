@@ -10,8 +10,10 @@
     "geom:latitude":41.327534,
     "geom:longitude":28.481169,
     "iso:country":"TR",
+    "lbl:bbox":"28.4761692676,41.3225343616,28.4861692676,41.3325343616",
     "lbl:latitude":41.327534,
     "lbl:longitude":28.481169,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462087,
-        85679237
+        890462087
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829829,
-    "wof:lastmodified":1566339480,
+    "wof:lastmodified":1566584820,
     "wof:name":"Orencik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

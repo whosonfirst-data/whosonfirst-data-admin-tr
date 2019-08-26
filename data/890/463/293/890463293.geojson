@@ -11,11 +11,15 @@
     "geom:longitude":27.92194,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.90194,41.42431,27.94194,41.46431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0631\u0627\u064a"
     ],
@@ -160,7 +164,7 @@
     "wof:concordances":{
         "gn:id":740205,
         "gp:id":2344356,
-        "qs:id":448175,
+        "qs_pg:id":448175,
         "wd:id":"Q401432",
         "wk:page":"Saray"
     },
@@ -177,7 +181,7 @@
         }
     ],
     "wof:id":890463293,
-    "wof:lastmodified":1563360998,
+    "wof:lastmodified":1566586223,
     "wof:name":"Saray",
     "wof:parent_id":1108709857,
     "wof:placetype":"locality",

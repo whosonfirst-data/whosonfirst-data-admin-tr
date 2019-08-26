@@ -10,8 +10,10 @@
     "geom:latitude":40.907459,
     "geom:longitude":29.243882,
     "iso:country":"TR",
+    "lbl:bbox":"29.2388820066,40.9024587667,29.2488820066,40.9124587667",
     "lbl:latitude":40.907459,
     "lbl:longitude":29.243882,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462523,
-        85679237
+        890462523
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833329,
-    "wof:lastmodified":1566339896,
+    "wof:lastmodified":1566584847,
     "wof:name":"Dolayoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

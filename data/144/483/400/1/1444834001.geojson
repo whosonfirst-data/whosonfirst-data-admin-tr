@@ -10,8 +10,10 @@
     "geom:latitude":41.096855,
     "geom:longitude":29.804543,
     "iso:country":"TR",
+    "lbl:bbox":"29.7995433662,41.0918551673,29.8095433662,41.1018551673",
     "lbl:latitude":41.096855,
     "lbl:longitude":29.804543,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444834001,
-    "wof:lastmodified":1566339974,
+    "wof:lastmodified":1566584838,
     "wof:name":"Gokmasli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

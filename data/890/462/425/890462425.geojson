@@ -11,11 +11,15 @@
     "geom:longitude":27.37819,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.35819,37.01271,27.39819,37.05271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bitez"
     ],
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":6692497,
         "gp:id":55966437,
-        "qs:id":1077239,
+        "qs_pg:id":1077239,
         "wd:id":"Q120641",
         "wk:page":"Bitez"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890462425,
-    "wof:lastmodified":1563361347,
+    "wof:lastmodified":1566586368,
     "wof:name":"Bitez",
     "wof:parent_id":890462453,
     "wof:placetype":"locality",

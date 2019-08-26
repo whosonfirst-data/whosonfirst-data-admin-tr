@@ -11,10 +11,14 @@
     "geom:longitude":40.59194,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":280,
+    "gn:population":280,
     "iso:country":"TR",
+    "lbl:bbox":"40.57194,37.86361,40.61194,37.90361",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bakacak"
     ],
@@ -90,7 +94,7 @@
     "name:tur_x_preferred":[
         "Bakacak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seyitkhasan"
     ],
     "name:vie_x_preferred":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":322297,
         "gp:id":2343813,
-        "qs:id":547670,
+        "qs_pg:id":547670,
         "wd:id":"Q804226",
         "wk:page":"Bakacak Dam"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890459089,
-    "wof:lastmodified":1563361898,
+    "wof:lastmodified":1566586578,
     "wof:name":"Bakacak",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

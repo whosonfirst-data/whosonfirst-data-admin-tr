@@ -10,8 +10,10 @@
     "geom:latitude":41.087983,
     "geom:longitude":29.076403,
     "iso:country":"TR",
+    "lbl:bbox":"29.0714025024,41.0829831517,29.0814025024,41.0929831517",
     "lbl:latitude":41.087983,
     "lbl:longitude":29.076403,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,11 +35,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912645,
-        890461921,
-        85679237
+        890461921
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1444831627,
-    "wof:lastmodified":1566339692,
+    "wof:lastmodified":1566584846,
     "wof:name":"Otagtepe",
     "wof:parent_id":101912645,
     "wof:placetype":"neighbourhood",

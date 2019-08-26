@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":39.649691,
     "lbl:longitude":27.891492,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":39.649691,
     "mps:longitude":27.891492,
     "mz:hierarchy_label":1,
@@ -207,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043b\u0438\u043a\u0435\u0441\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hadrianutherae"
     ],
     "name:urd_x_preferred":[
@@ -332,7 +334,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "wd:elevation":70.0,
     "wd:latitude":39.651111,
@@ -349,7 +351,6 @@
     "wof:concordances":{
         "gn:id":322165,
         "gp:id":2343771,
-        "qs:id":1193111,
         "qs_pg:id":1193111,
         "wd:id":"Q199723",
         "wk:page":"Bal\u0131kesir"
@@ -366,7 +367,7 @@
         }
     ],
     "wof:id":101912867,
-    "wof:lastmodified":1563360627,
+    "wof:lastmodified":1566585999,
     "wof:name":"Bal\u0131kesir",
     "wof:parent_id":890462339,
     "wof:placetype":"locality",

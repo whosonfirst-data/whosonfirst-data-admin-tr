@@ -11,11 +11,15 @@
     "geom:longitude":37.83789,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"37.81789,39.23445,37.85789,39.27445",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kuluncak"
     ],
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":7588726,
         "gp:id":2330948,
-        "qs:id":1186110,
+        "qs_pg:id":1186110,
         "wd:id":"Q1027193",
         "wk:page":"Kuluncak"
     },
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890463497,
-    "wof:lastmodified":1563360990,
+    "wof:lastmodified":1566586220,
     "wof:name":"Kuluncak",
     "wof:parent_id":890462009,
     "wof:placetype":"locality",

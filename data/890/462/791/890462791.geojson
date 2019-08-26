@@ -11,11 +11,15 @@
     "geom:longitude":29.54579,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4158,
+    "gn:population":4158,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.52579,36.97722,29.56579,37.01722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Alt\u0131nyayla"
     ],
@@ -70,7 +74,7 @@
     "name:tur_x_preferred":[
         "Alt\u0131nyayla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dinmil"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":323887,
         "gp:id":2343724,
-        "qs:id":1153931,
+        "qs_pg:id":1153931,
         "wd:id":"Q447230",
         "wk:page":"Alt\u0131nyayla"
     },
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":890462791,
-    "wof:lastmodified":1563361336,
+    "wof:lastmodified":1566586362,
     "wof:name":"Alt\u0131nyayla",
     "wof:parent_id":1108709281,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":33.82733,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":75315,
+    "gn:population":75315,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.498536,
     "lbl:longitude":33.911677,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Silifke",
@@ -41,6 +43,7 @@
     "mps:longitude":33.911677,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u064a\u0644\u064a\u0641\u0643\u0649"
     ],
@@ -149,7 +152,7 @@
     "name:tur_x_preferred":[
         "Silifke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Selefke"
     ],
     "name:urd_x_preferred":[
@@ -176,9 +179,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2572",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Silifke",
@@ -200,7 +203,7 @@
         "gn:id":300808,
         "gp:id":29390753,
         "hasc:id":"TR.IC.SI",
-        "qs:id":235250,
+        "qs_pg:id":235250,
         "wd:id":"Q650630",
         "wk:page":"Silifke"
     },
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890464483,
-    "wof:lastmodified":1563361151,
+    "wof:lastmodified":1566586279,
     "wof:name":"Silifke",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

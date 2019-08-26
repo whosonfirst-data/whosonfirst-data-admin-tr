@@ -11,8 +11,12 @@
     "geom:longitude":28.245473,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.2254735,41.051239,28.2654735,41.091239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Fatih"
     ],
@@ -175,7 +179,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871023,
-        "qs:id":234231,
+        "qs_pg:id":234231,
         "wd:id":"Q732923",
         "wk:page":"Fatih"
     },
@@ -192,7 +196,7 @@
         }
     ],
     "wof:id":890464465,
-    "wof:lastmodified":1563361177,
+    "wof:lastmodified":1566586289,
     "wof:name":"Fatih",
     "wof:parent_id":890462765,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":32.85532,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"32.85032,39.96438,32.86032,39.97438",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Bas\u0131nevleri",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Ankara",
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":7926671,
         "gp:id":55865376,
-        "qs:id":1070913
+        "qs_pg:id":1070913
     },
     "wof:country":"TR",
     "wof:created":1469053387,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":890462383,
-    "wof:lastmodified":1505343689,
+    "wof:lastmodified":1566586381,
     "wof:name":"Bas\u0131nevleri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

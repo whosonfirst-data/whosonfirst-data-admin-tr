@@ -10,8 +10,10 @@
     "geom:latitude":41.022138,
     "geom:longitude":29.146633,
     "iso:country":"TR",
+    "lbl:bbox":"29.1416331941,41.0171380471,29.1516331941,41.0271380471",
     "lbl:latitude":41.022138,
     "lbl:longitude":29.146633,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461267,
-        85679237
+        890461267
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831359,
-    "wof:lastmodified":1566339658,
+    "wof:lastmodified":1566584824,
     "wof:name":"Cemil Meric",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

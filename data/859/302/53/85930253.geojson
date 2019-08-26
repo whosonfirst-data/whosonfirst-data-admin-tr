@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":18921234.616015,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.596674,36.831186,30.596674,36.831186",
     "geom:latitude":36.831186,
     "geom:longitude":30.596674,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"30.591674,36.826186,30.601674,36.836186",
     "lbl:latitude":36.831186,
     "lbl:longitude":30.596674,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.837603,
     "mps:longitude":30.601067,
     "mz:hierarchy_label":0,
@@ -34,12 +36,6 @@
         "Sar\u0131su"
     ],
     "name:swe_x_preferred":[
-        "Sarisu"
-    ],
-    "name:und_x_preferred":[
-        "Sarisu"
-    ],
-    "name:unk_x_variant":[
         "Sarisu"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -67,17 +63,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
-        1108709665,
-        85679263
+        1108709665
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871452,
-        "qs:id":986681
+        "qs_pg:id":986681
     },
     "wof:country":"TR",
     "wof:geomhash":"9941a37c09da3d1dd22596082ab3475f",
@@ -95,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939181,
+    "wof:lastmodified":1566582933,
     "wof:name":"Sarisu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

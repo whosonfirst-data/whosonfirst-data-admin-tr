@@ -11,11 +11,14 @@
     "geom:longitude":30.72056,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.71556,36.91326,30.72556,36.92326",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Teomanpasa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Antalya",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":8074131,
         "gp:id":55870702,
-        "qs:id":1193670
+        "qs_pg:id":1193670
     },
     "wof:country":"TR",
     "wof:created":1469053322,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890460637,
-    "wof:lastmodified":1505343683,
+    "wof:lastmodified":1566586469,
     "wof:name":"Teomanpasa",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,14 @@
     "geom:longitude":29.08657,
     "gn:country":"TR",
     "gn:fcode":"BLDG",
-    "gn:pop":100,
+    "gn:population":100,
     "iso:country":"TR",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Lalezar Sitesi",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +33,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7601976,
-        "qs:id":108022
+        "qs_pg:id":108022
     },
     "wof:country":"TR",
     "wof:created":1469053300,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":890460047,
-    "wof:lastmodified":1505343680,
+    "wof:lastmodified":1566586436,
     "wof:name":"Lalezar Sitesi",
     "wof:parent_id":890462769,
     "wof:placetype":"locality",

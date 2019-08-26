@@ -10,8 +10,10 @@
     "geom:latitude":41.039156,
     "geom:longitude":28.856742,
     "iso:country":"TR",
+    "lbl:bbox":"28.8517417075,41.0341556141,28.8617417075,41.0441556141",
     "lbl:latitude":41.039156,
     "lbl:longitude":28.856742,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Sancaktepe"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950755,
-    "wof:lastmodified":1563359599,
+    "wof:lastmodified":1566585299,
     "wof:name":"Sancaktepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

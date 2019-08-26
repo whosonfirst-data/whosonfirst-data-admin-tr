@@ -11,11 +11,15 @@
     "geom:longitude":29.09056,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.07056,41.12389,29.11056,41.16389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0643\u0648\u0632"
     ],
@@ -94,7 +98,7 @@
     "name:tur_x_preferred":[
         "Beykoz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beukoz"
     ],
     "name:urd_x_preferred":[
@@ -126,7 +130,7 @@
     "wof:concordances":{
         "gn:id":750662,
         "gp:id":2343803,
-        "qs:id":467858,
+        "qs_pg:id":467858,
         "wd:id":"Q794351",
         "wk:page":"Beykoz"
     },
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":890461763,
-    "wof:lastmodified":1563361663,
+    "wof:lastmodified":1566586480,
     "wof:name":"Beykoz",
     "wof:parent_id":890461921,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":35.296218,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":25155,
+    "gn:population":25155,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.135599,
     "lbl:longitude":35.376465,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samsun",
     "meso:admin_1":"Samsun",
     "meso:gadm_admin":"Vezirk\u00f6pr\u00fc",
@@ -41,6 +43,7 @@
     "mps:longitude":35.376465,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u0632\u064a\u0631 \u0643\u0648\u0628\u0631\u064a"
     ],
@@ -107,7 +110,7 @@
     "name:tur_x_preferred":[
         "Vezirk\u00f6pr\u00fc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6pr\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -132,9 +135,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1800",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Vezirk\u00f6pr\u00fc",
@@ -156,7 +159,7 @@
         "gn:id":738167,
         "gp:id":29390851,
         "hasc:id":"TR.SS.VE",
-        "qs:id":1234843,
+        "qs_pg:id":1234843,
         "wd:id":"Q2086353",
         "wk:page":"Vezirk\u00f6pr\u00fc"
     },
@@ -172,7 +175,7 @@
         }
     ],
     "wof:id":890463729,
-    "wof:lastmodified":1563361117,
+    "wof:lastmodified":1566586265,
     "wof:name":"Vezirk\u00f6pr\u00fc",
     "wof:parent_id":85679357,
     "wof:placetype":"county",

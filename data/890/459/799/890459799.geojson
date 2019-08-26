@@ -11,11 +11,15 @@
     "geom:longitude":43.45972,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":951,
+    "gn:population":951,
     "iso:country":"TR",
+    "lbl:bbox":"43.43972,37.38806,43.47972,37.42806",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ta\u015fba\u015f\u0131"
     ],
     "qs:name":"Kelitan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299801,
-        "qs:id":80013
+        "qs_pg:id":80013
     },
     "wof:country":"TR",
     "wof:created":1469053282,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459799,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586546,
     "wof:name":"Kelitan",
     "wof:parent_id":890464425,
     "wof:placetype":"locality",

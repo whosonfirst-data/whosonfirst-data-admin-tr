@@ -10,8 +10,10 @@
     "geom:latitude":41.139245,
     "geom:longitude":28.466346,
     "iso:country":"TR",
+    "lbl:bbox":"28.4613455532,41.1342450612,28.4713455532,41.1442450612",
     "lbl:latitude":41.139245,
     "lbl:longitude":28.466345,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462087,
-        85679237
+        890462087
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829637,
-    "wof:lastmodified":1566339459,
+    "wof:lastmodified":1566584818,
     "wof:name":"Ferhatpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

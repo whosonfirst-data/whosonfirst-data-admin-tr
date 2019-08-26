@@ -11,7 +11,7 @@
     "geom:longitude":34.876809,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.038787,
     "lbl:longitude":34.872546,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Tarsus",
@@ -41,6 +43,7 @@
     "mps:longitude":34.872546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Tarsus"
     ],
@@ -50,7 +53,7 @@
     "name:nld_x_preferred":[
         "Tarsus"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tarsus \u0130l\u00e7esi"
     ],
     "qs:name":"Tarsus",
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2019",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tarsus",
@@ -92,7 +95,7 @@
         "gn:id":7732939,
         "gp:id":29390791,
         "hasc:id":"TR.IC.TA",
-        "qs:id":1295543,
+        "qs_pg:id":1295543,
         "wd:id":"Q2800095",
         "wk:page":"Tarsus"
     },
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890463423,
-    "wof:lastmodified":1561769250,
+    "wof:lastmodified":1566586216,
     "wof:name":"Tarsus",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

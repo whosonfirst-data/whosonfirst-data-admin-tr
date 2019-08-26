@@ -11,7 +11,7 @@
     "geom:longitude":27.255906,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":38.332353,
     "lbl:longitude":27.257622,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Buca",
@@ -44,6 +46,7 @@
     "mps:longitude":27.257622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Buca"
     ],
@@ -122,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"134",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -146,7 +149,7 @@
         "gn:id":7732718,
         "gp:id":29390179,
         "hasc:id":"TR.IZ.BU",
-        "qs:id":1095706,
+        "qs_pg:id":1095706,
         "wd:id":"Q2672826",
         "wk:page":"Buca"
     },
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890462507,
-    "wof:lastmodified":1563361415,
+    "wof:lastmodified":1566586393,
     "wof:name":"Buca",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":27.55541,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2137,
+    "gn:population":2137,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.53541,40.56633,27.57541,40.60633",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "M\u00e0rmara"
     ],
@@ -81,7 +85,7 @@
     "wof:concordances":{
         "gn:id":741730,
         "gp:id":2332126,
-        "qs:id":9109,
+        "qs_pg:id":9109,
         "wk:page":"Marmara"
     },
     "wof:country":"TR",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890464343,
-    "wof:lastmodified":1564162755,
+    "wof:lastmodified":1566586326,
     "wof:name":"Marmara",
     "wof:parent_id":1108709711,
     "wof:placetype":"locality",

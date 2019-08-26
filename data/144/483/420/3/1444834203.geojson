@@ -10,8 +10,10 @@
     "geom:latitude":41.104757,
     "geom:longitude":29.73133,
     "iso:country":"TR",
+    "lbl:bbox":"29.7263297521,41.0997566756,29.7363297521,41.1097566756",
     "lbl:latitude":41.104757,
     "lbl:longitude":29.73133,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444834203,
-    "wof:lastmodified":1566339996,
+    "wof:lastmodified":1566584854,
     "wof:name":"Karabeyli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

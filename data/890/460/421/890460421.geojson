@@ -11,10 +11,14 @@
     "geom:longitude":42.0121,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3052,
+    "gn:population":3052,
     "iso:country":"TR",
+    "lbl:bbox":"41.9921,37.92911,42.0321,37.96911",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Tillo"
     ],
@@ -72,9 +76,6 @@
     "name:tur_x_preferred":[
         "Tillo"
     ],
-    "name:unk_x_variant":[
-        "Tillo"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0644\u0644\u0648"
     ],
@@ -96,7 +97,7 @@
     "wof:concordances":{
         "gn:id":322810,
         "gp:id":2309761,
-        "qs:id":205869,
+        "qs_pg:id":205869,
         "wd:id":"Q792913"
     },
     "wof:country":"TR",
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":890460421,
-    "wof:lastmodified":1563361599,
+    "wof:lastmodified":1566586460,
     "wof:name":"Ayd\u0131nlar",
     "wof:parent_id":1108709315,
     "wof:placetype":"locality",

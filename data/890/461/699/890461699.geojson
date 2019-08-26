@@ -11,11 +11,15 @@
     "geom:longitude":28.96472,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.94472,41.05944,28.98472,41.09944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u063a\u062f \u062e\u0627\u0646\u0629"
     ],
@@ -88,7 +92,7 @@
     "name:tur_x_preferred":[
         "K\u00e2\u011f\u0131thane"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kagathane"
     ],
     "name:urd_x_preferred":[
@@ -120,7 +124,7 @@
     "wof:concordances":{
         "gn:id":744876,
         "gp:id":2324901,
-        "qs:id":237534,
+        "qs_pg:id":237534,
         "wd:id":"Q284489",
         "wk:page":"Ka\u011f\u0131thane"
     },
@@ -137,7 +141,7 @@
         }
     ],
     "wof:id":890461699,
-    "wof:lastmodified":1563361793,
+    "wof:lastmodified":1566586529,
     "wof:name":"K\u00e2\u011f\u0131thane",
     "wof:parent_id":890461447,
     "wof:placetype":"locality",

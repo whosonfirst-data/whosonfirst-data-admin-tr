@@ -12,8 +12,10 @@
     "gn:latitude":39.97494,
     "gn:longitude":32.86632,
     "iso:country":"TR",
+    "lbl:bbox":"32.861973,39.974709,32.871973,39.984709",
     "lbl:latitude":39.979709,
     "lbl:longitude":32.866973,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.982345,
     "mps:longitude":32.861969,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
         "Kalaba"
     ],
     "name:tur_x_preferred":[
-        "Kalaba"
-    ],
-    "name:unk_x_variant":[
         "Kalaba"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -75,7 +74,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":22,
     "wof:belongsto":[
         85679409,
@@ -87,7 +86,6 @@
     "wof:concordances":{
         "gn:id":310833,
         "gp:id":2343595,
-        "qs:id":316965,
         "qs_pg:id":316965
     },
     "wof:country":"TR",
@@ -106,7 +104,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564158346,
+    "wof:lastmodified":1566582914,
     "wof:name":"Kalaba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":44.08417,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":70171,
+    "gn:population":70171,
     "iso:country":"TR",
+    "lbl:bbox":"44.06417,39.52694,44.10417,39.56694",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u062f\u0648\u063a\u0628\u0627\u064a\u0632\u064a\u062f"
     ],
@@ -123,7 +127,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0433\u0443\u0431\u0430\u044f\u0437\u0438\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Beyaz\u0131t"
     ],
     "name:urd_x_preferred":[
@@ -156,7 +160,7 @@
     "wof:concordances":{
         "gn:id":316411,
         "gp:id":2343938,
-        "qs:id":1117736,
+        "qs_pg:id":1117736,
         "wd:id":"Q849535",
         "wk:page":"Do\u011fubeyaz\u0131t"
     },
@@ -173,7 +177,7 @@
         }
     ],
     "wof:id":890461437,
-    "wof:lastmodified":1563361707,
+    "wof:lastmodified":1566586497,
     "wof:name":"Do\u011fubayaz\u0131t",
     "wof:parent_id":890463125,
     "wof:placetype":"locality",

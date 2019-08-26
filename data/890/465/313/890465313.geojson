@@ -11,11 +11,15 @@
     "geom:longitude":42.12921,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":577,
+    "gn:population":577,
     "iso:country":"TR",
+    "lbl:bbox":"42.10921,37.86846,42.14921,37.90846",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Binevre"
     ],
     "qs:name":"Ekmek\u00e7iler",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":315828,
-        "qs:id":547538
+        "qs_pg:id":547538
     },
     "wof:country":"TR",
     "wof:created":1469053514,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465313,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586340,
     "wof:name":"Ekmek\u00e7iler",
     "wof:parent_id":1108709747,
     "wof:placetype":"locality",

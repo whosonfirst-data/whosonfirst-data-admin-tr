@@ -10,8 +10,10 @@
     "geom:latitude":41.149281,
     "geom:longitude":29.084242,
     "iso:country":"TR",
+    "lbl:bbox":"29.0792417093,41.1442813414,29.0892417093,41.1542813414",
     "lbl:latitude":41.149281,
     "lbl:longitude":29.084242,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461921,
-        85679237
+        890461921
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831683,
-    "wof:lastmodified":1566339698,
+    "wof:lastmodified":1566584825,
     "wof:name":"Camlibahce",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":32.286122,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":37.701236,
     "lbl:longitude":32.263266,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Konya",
     "meso:admin_1":"Konya",
     "meso:gadm_admin":"Meram",
@@ -44,6 +46,7 @@
     "mps:longitude":32.263266,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Meram \u0130l\u00e7esi"
     ],
@@ -98,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1680",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -122,7 +125,7 @@
         "gn:id":304582,
         "gp:id":29390566,
         "hasc:id":"TR.KO.KM",
-        "qs:id":1063532,
+        "qs_pg:id":1063532,
         "wd:id":"Q3055997",
         "wk:page":"Meram"
     },
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":890462363,
-    "wof:lastmodified":1563361340,
+    "wof:lastmodified":1566586365,
     "wof:name":"Meram",
     "wof:parent_id":85679425,
     "wof:placetype":"county",

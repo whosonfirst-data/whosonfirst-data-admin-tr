@@ -11,11 +11,15 @@
     "geom:longitude":32.47538,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"32.45538,38.23257,32.49538,38.27257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Konya"
     ],
@@ -271,7 +275,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u043d\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Konar"
     ],
     "name:urd_x_preferred":[
@@ -321,7 +325,7 @@
     "wof:concordances":{
         "gn:id":307541,
         "gp:id":55966544,
-        "qs:id":970854,
+        "qs_pg:id":970854,
         "wd:id":"Q79857",
         "wk:page":"Konya"
     },
@@ -338,7 +342,7 @@
         }
     ],
     "wof:id":890462075,
-    "wof:lastmodified":1563361438,
+    "wof:lastmodified":1566586400,
     "wof:name":"Konya",
     "wof:parent_id":890463179,
     "wof:placetype":"locality",

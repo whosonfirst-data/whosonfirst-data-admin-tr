@@ -10,8 +10,10 @@
     "geom:latitude":41.136693,
     "geom:longitude":29.589465,
     "iso:country":"TR",
+    "lbl:bbox":"29.5844651425,41.1316931162,29.5944651425,41.1416931162",
     "lbl:latitude":41.136693,
     "lbl:longitude":29.589465,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833695,
-    "wof:lastmodified":1566339937,
+    "wof:lastmodified":1566584847,
     "wof:name":"Karamandere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

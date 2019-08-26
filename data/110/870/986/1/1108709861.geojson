@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.757562,
     "lbl:longitude":27.654778,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Manisa",
     "meso:admin_1":"Manisa",
     "meso:gadm_admin":"Saruhanl\u0131",
@@ -37,6 +39,7 @@
     "mps:longitude":27.654778,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0633\u0627\u0631\u0648\u062e\u0627\u0646\u0644\u06cc"
     ],
@@ -98,9 +101,9 @@
         "\u85a9\u9b6f\u6f22\u52d2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"839",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Saruhanli",
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1108709861,
-    "wof:lastmodified":1563359793,
+    "wof:lastmodified":1566585384,
     "wof:name":"Saruhanl\u0131",
     "wof:parent_id":85679285,
     "wof:placetype":"county",

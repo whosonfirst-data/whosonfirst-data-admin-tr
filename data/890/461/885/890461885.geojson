@@ -11,7 +11,7 @@
     "geom:longitude":34.796821,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":13922,
+    "gn:population":13922,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.48066,
     "lbl:longitude":34.800449,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Yozgat",
     "meso:admin_1":"Yozgat",
     "meso:gadm_admin":"\u015eefaatli",
@@ -41,6 +43,7 @@
     "mps:longitude":34.800449,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u015eefaatli"
     ],
@@ -95,7 +98,7 @@
     "name:tur_x_variant":[
         "\u015eefaatli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hac\u0131\u015fefaatl\u0131"
     ],
     "name:urd_x_preferred":[
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"827",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Sefaatli",
@@ -144,7 +147,7 @@
         "gn:id":301353,
         "gp:id":29390739,
         "hasc:id":"TR.YZ.SE",
-        "qs:id":1234825,
+        "qs_pg:id":1234825,
         "wd:id":"Q388673",
         "wk:page":"\u015eefaatli"
     },
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890461885,
-    "wof:lastmodified":1563361783,
+    "wof:lastmodified":1566586525,
     "wof:name":"\u015eefaatli",
     "wof:parent_id":85679461,
     "wof:placetype":"county",

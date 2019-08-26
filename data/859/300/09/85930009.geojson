@@ -9,14 +9,15 @@
     "geom:bbox":"29.2603247071,40.8349826167,29.2968041993,40.8757567535",
     "geom:latitude":40.856638,
     "geom:longitude":29.277583,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPL",
     "gn:latitude":40.86397,
     "gn:longitude":29.28715,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":40.860736,
     "lbl:longitude":29.281826,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.860624,
     "mps:longitude":29.279059,
     "mz:hierarchy_label":1,
@@ -110,12 +111,6 @@
     "name:und_x_colloquial":[
         "Guzelyali"
     ],
-    "name:und_x_preferred":[
-        "G\u00fczelyali"
-    ],
-    "name:unk_x_variant":[
-        "G\u00fczelyali"
-    ],
     "name:vie_x_preferred":[
         "G\u00fczelyal\u0131"
     ],
@@ -155,7 +150,6 @@
     "wof:concordances":{
         "gn:id":862943,
         "gp:id":55871044,
-        "qs:id":1206464,
         "qs_pg:id":1206464,
         "wd:id":"Q1562347"
     },
@@ -174,7 +168,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582908,
     "wof:name":"G\u00fczelyali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

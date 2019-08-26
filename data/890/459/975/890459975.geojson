@@ -11,10 +11,14 @@
     "geom:longitude":41.395,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1452,
+    "gn:population":1452,
     "iso:country":"TR",
+    "lbl:bbox":"41.375,37.46028,41.415,37.50028",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Bar\u0131\u015ftepe"
     ],
@@ -93,7 +97,7 @@
     "name:tur_x_preferred":[
         "Bar\u0131\u015ftepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Salkhi"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":322002,
         "gp:id":2344266,
-        "qs:id":80134,
+        "qs_pg:id":80134,
         "wd:id":"Q809715"
     },
     "wof:country":"TR",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890459975,
-    "wof:lastmodified":1563361926,
+    "wof:lastmodified":1566586594,
     "wof:name":"Bar\u0131\u015ftepe",
     "wof:parent_id":890463867,
     "wof:placetype":"locality",

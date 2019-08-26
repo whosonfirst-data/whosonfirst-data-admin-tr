@@ -11,11 +11,15 @@
     "geom:longitude":42.15889,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":129,
+    "gn:population":129,
     "iso:country":"TR",
+    "lbl:bbox":"42.13889,37.31972,42.17889,37.35972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Basisik"
     ],
     "qs:name":"Ku\u015ftepe",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":305282,
-        "qs:id":547374
+        "qs_pg:id":547374
     },
     "wof:country":"TR",
     "wof:created":1469053501,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465105,
-    "wof:lastmodified":1505343701,
+    "wof:lastmodified":1566586328,
     "wof:name":"Ku\u015ftepe",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

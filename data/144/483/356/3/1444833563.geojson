@@ -10,8 +10,10 @@
     "geom:latitude":41.19321,
     "geom:longitude":29.439977,
     "iso:country":"TR",
+    "lbl:bbox":"29.4349766182,41.1882096042,29.4449766182,41.1982096042",
     "lbl:latitude":41.19321,
     "lbl:longitude":29.439977,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833563,
-    "wof:lastmodified":1566339922,
+    "wof:lastmodified":1566584848,
     "wof:name":"Dogancili",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

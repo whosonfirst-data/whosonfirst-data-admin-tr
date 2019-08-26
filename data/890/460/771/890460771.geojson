@@ -11,10 +11,14 @@
     "geom:longitude":26.06972,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":2635,
+    "gn:population":2635,
     "iso:country":"TR",
+    "lbl:bbox":"26.04972,39.815,26.08972,39.855",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043d\u0435\u0434\u043e\u0441"
     ],
@@ -85,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u043e\u0437\u0434\u0436\u0430\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bo\u011f\u00e7aada"
     ],
     "name:vec_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":320700,
         "gp:id":2312352,
-        "qs:id":348349,
+        "qs_pg:id":348349,
         "wd:id":"Q10259759"
     },
     "wof:country":"TR",
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":890460771,
-    "wof:lastmodified":1563361562,
+    "wof:lastmodified":1566586447,
     "wof:name":"Bozcaada",
     "wof:parent_id":890462455,
     "wof:placetype":"locality",

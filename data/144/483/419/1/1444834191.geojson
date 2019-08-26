@@ -10,8 +10,10 @@
     "geom:latitude":41.094354,
     "geom:longitude":29.904336,
     "iso:country":"TR",
+    "lbl:bbox":"29.8993358969,41.0893540825,29.9093358969,41.0993540825",
     "lbl:latitude":41.094354,
     "lbl:longitude":29.904336,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444834191,
-    "wof:lastmodified":1566339996,
+    "wof:lastmodified":1566584850,
     "wof:name":"Celebi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

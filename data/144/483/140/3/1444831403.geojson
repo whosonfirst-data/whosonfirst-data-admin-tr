@@ -10,8 +10,10 @@
     "geom:latitude":41.030275,
     "geom:longitude":29.152155,
     "iso:country":"TR",
+    "lbl:bbox":"29.1471549712,41.0252751539,29.1571549712,41.0352751539",
     "lbl:latitude":41.030275,
     "lbl:longitude":29.152155,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461267,
-        85679237
+        890461267
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831403,
-    "wof:lastmodified":1566339663,
+    "wof:lastmodified":1566584866,
     "wof:name":"Parseller",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

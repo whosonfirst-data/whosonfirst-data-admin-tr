@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":40.658543,
     "lbl:longitude":35.803461,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":40.658543,
     "mps:longitude":35.803461,
     "mz:hierarchy_label":1,
@@ -255,7 +257,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0430\u0441\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Amasiyah"
     ],
     "name:urd_x_preferred":[
@@ -380,7 +382,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.65,
     "wd:longitude":35.833333,
@@ -395,10 +397,12 @@
     "wof:concordances":{
         "gn:id":752015,
         "gp:id":2343729,
-        "qs:id":1134753,
         "qs_pg:id":349928,
         "wd:id":"Q170532",
         "wk:page":"Amasya"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134753
     },
     "wof:country":"TR",
     "wof:geomhash":"6a47d779aeee991aceea581bc212307d",
@@ -412,7 +416,7 @@
         }
     ],
     "wof:id":101912687,
-    "wof:lastmodified":1563360622,
+    "wof:lastmodified":1566585997,
     "wof:name":"Amasya",
     "wof:parent_id":890463241,
     "wof:placetype":"locality",

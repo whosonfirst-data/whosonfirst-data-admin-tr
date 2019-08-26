@@ -14,6 +14,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.03067,
     "lbl:longitude":28.937526,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.028943,
     "mps:longitude":28.937926,
     "mz:hierarchy_label":1,
@@ -34,9 +35,6 @@
     ],
     "name:tur_x_variant":[
         "Kadriye"
-    ],
-    "name:unk_x_variant":[
-        "Kariye"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPL",
@@ -75,7 +73,7 @@
     "wof:concordances":{
         "gn:id":8384549,
         "gp:id":22724003,
-        "qs:id":363316
+        "qs_pg:id":363316
     },
     "wof:country":"TR",
     "wof:geomhash":"3e551af5d072c07af102fbd1c68c192d",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247576,
+    "wof:lastmodified":1566582925,
     "wof:name":"Kariye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

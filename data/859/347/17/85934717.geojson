@@ -11,8 +11,10 @@
     "geom:longitude":32.51277,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"32.50777,37.945528,32.51777,37.955528",
     "lbl:latitude":37.950528,
     "lbl:longitude":32.51277,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.950695,
     "mps:longitude":32.511292,
     "mz:hierarchy_label":0,
@@ -111,12 +113,6 @@
     "name:und_x_colloquial":[
         "Suleyman Celebi"
     ],
-    "name:und_x_preferred":[
-        "S\u00fcleyman \u00c7elebi"
-    ],
-    "name:unk_x_variant":[
-        "S\u00fcleyman \u00c7elebi"
-    ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
     "qs:gn_local":306571,
@@ -144,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":634,
     "wof:belongsto":[
         85679425,
@@ -155,7 +151,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042770,
-        "qs:id":8930,
+        "qs_pg:id":8930,
         "wd:id":"Q1095044"
     },
     "wof:country":"TR",
@@ -174,7 +170,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356505,
+    "wof:lastmodified":1566582930,
     "wof:name":"S\u00fcleyman \u00c7elebi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

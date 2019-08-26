@@ -11,7 +11,7 @@
     "geom:longitude":27.379169,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.179587,
     "lbl:longitude":27.376664,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Torbal\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":27.376664,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0440\u0431\u0430\u043b\u044b"
     ],
@@ -122,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"565",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Torbali",
@@ -146,7 +149,7 @@
         "gn:id":7732734,
         "gp:id":29390820,
         "hasc:id":"TR.IZ.TO",
-        "qs:id":118671,
+        "qs_pg:id":118671,
         "wd:id":"Q1011344",
         "wk:page":"Torbal\u0131"
     },
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890463311,
-    "wof:lastmodified":1563361099,
+    "wof:lastmodified":1566586259,
     "wof:name":"Torbal\u0131",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

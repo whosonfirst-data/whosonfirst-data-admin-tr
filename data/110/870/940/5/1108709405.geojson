@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.988037,
     "lbl:longitude":28.709354,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Aydin",
     "meso:admin_1":"Aydin",
     "meso:gadm_admin":"Kuyucak",
@@ -37,6 +39,7 @@
     "mps:longitude":28.709354,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Buharkent"
     ],
@@ -98,7 +101,7 @@
         "\u5e03\u54c8\u723e\u80af\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":1108709405,
-    "wof:lastmodified":1564161483,
+    "wof:lastmodified":1566585343,
     "wof:name":"Buharkent",
     "wof:parent_id":85679195,
     "wof:placetype":"county",

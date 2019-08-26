@@ -10,8 +10,10 @@
     "geom:latitude":41.072633,
     "geom:longitude":29.015952,
     "iso:country":"TR",
+    "lbl:bbox":"29.0109518069,41.0676329421,29.0209518069,41.0776329421",
     "lbl:latitude":41.072633,
     "lbl:longitude":29.015952,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:tur_x_preferred":[
         "Zincirlikuyu"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108950063,
-    "wof:lastmodified":1563359585,
+    "wof:lastmodified":1566585292,
     "wof:name":"Zincirlikuyu",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

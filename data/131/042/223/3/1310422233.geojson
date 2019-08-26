@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"33.4171,39.55718,33.4571,39.59718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "K\u00f6pr\u00fck\u00f6y"
     ],
@@ -32,9 +36,7 @@
         "K\u00f6pr\u00fc"
     ],
     "name:und_x_variant":[
-        "K\u00f6pr\u00fck\u00f6y\u00fc",
-        "K\u00f6pr\u00fc",
-        "K\u00f6pr\u00fck\u00f6y"
+        "K\u00f6pr\u00fck\u00f6y\u00fc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +62,7 @@
         }
     ],
     "wof:id":1310422233,
-    "wof:lastmodified":1564161810,
+    "wof:lastmodified":1566585606,
     "wof:name":"Koprukoy",
     "wof:parent_id":890464139,
     "wof:placetype":"locality",

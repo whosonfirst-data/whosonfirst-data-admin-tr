@@ -11,7 +11,7 @@
     "geom:longitude":30.714662,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.05706,
     "lbl:longitude":30.724908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Eskisehir",
     "meso:admin_1":"Eskisehir",
     "meso:gadm_admin":"Sar\u0131cakaya",
@@ -41,6 +43,7 @@
     "mps:longitude":30.724908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Sar\u0131cakaya \u0130l\u00e7esi"
     ],
@@ -77,7 +80,7 @@
     "name:tur_x_preferred":[
         "Sar\u0131cakaya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sar\u0131o\u011flan"
     ],
     "name:urd_x_preferred":[
@@ -97,9 +100,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"375",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Saricakaya",
@@ -121,7 +124,7 @@
         "gn:id":750296,
         "gp:id":29390726,
         "hasc:id":"TR.ES.SA",
-        "qs:id":887118,
+        "qs_pg:id":887118,
         "wd:id":"Q3056019",
         "wk:page":"Sar\u0131cakaya"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":890463237,
-    "wof:lastmodified":1563361090,
+    "wof:lastmodified":1566586255,
     "wof:name":"Sar\u0131cakaya",
     "wof:parent_id":85679255,
     "wof:placetype":"county",

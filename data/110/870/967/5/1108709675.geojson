@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.182972,
     "lbl:longitude":41.484121,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Batman",
     "meso:admin_1":"Batman",
     "meso:gadm_admin":"Kozluk",
@@ -37,6 +39,7 @@
     "mps:longitude":41.484121,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kozluk \u0130l\u00e7esi"
     ],
@@ -113,9 +116,9 @@
         "\u79d1\u8332\u76e7\u514b"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1119",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kozluk",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108709675,
-    "wof:lastmodified":1563359737,
+    "wof:lastmodified":1566585360,
     "wof:name":"Kozluk",
     "wof:parent_id":85679483,
     "wof:placetype":"county",

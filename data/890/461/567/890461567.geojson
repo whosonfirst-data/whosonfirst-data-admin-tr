@@ -11,11 +11,15 @@
     "geom:longitude":38.24333,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":12961,
+    "gn:population":12961,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"38.22333,38.01417,38.26333,38.05417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "\u00c7elikhan"
     ],
@@ -82,7 +86,7 @@
     "name:tur_x_preferred":[
         "\u00c7elikhan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Celikan"
     ],
     "name:urd_x_preferred":[
@@ -115,7 +119,7 @@
     "wof:concordances":{
         "gn:id":318904,
         "gp:id":2314649,
-        "qs:id":124144,
+        "qs_pg:id":124144,
         "wd:id":"Q272782",
         "wk:page":"\u00c7elikhan"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":890461567,
-    "wof:lastmodified":1563361666,
+    "wof:lastmodified":1566586481,
     "wof:name":"\u00c7elikhan",
     "wof:parent_id":1108710053,
     "wof:placetype":"locality",

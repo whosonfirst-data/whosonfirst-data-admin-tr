@@ -11,7 +11,7 @@
     "geom:longitude":26.892074,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.18167,
     "lbl:longitude":26.894006,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Seferihisar",
@@ -41,6 +43,7 @@
     "mps:longitude":26.894006,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Seferihisar"
     ],
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"386",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Seferihisar",
@@ -143,7 +146,7 @@
         "gn:id":7732732,
         "gp:id":29390740,
         "hasc:id":"TR.IZ.SF",
-        "qs:id":891441,
+        "qs_pg:id":891441,
         "wd:id":"Q2523774",
         "wk:page":"Seferihisar"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890461939,
-    "wof:lastmodified":1563361672,
+    "wof:lastmodified":1566586484,
     "wof:name":"Seferihisar",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

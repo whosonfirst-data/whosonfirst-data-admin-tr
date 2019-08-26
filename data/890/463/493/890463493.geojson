@@ -11,11 +11,15 @@
     "geom:longitude":28.92516,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":18937,
+    "gn:population":18937,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.90516,37.90448,28.94516,37.94448",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Sarayk\u00f6y"
     ],
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Sarayk\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seraikeui"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":301827,
         "gp:id":2344358,
-        "qs:id":449540,
+        "qs_pg:id":449540,
         "wd:id":"Q1639909",
         "wk:page":"Sarayk\u00f6y"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890463493,
-    "wof:lastmodified":1563361075,
+    "wof:lastmodified":1566586250,
     "wof:name":"Sarayk\u00f6y",
     "wof:parent_id":890462531,
     "wof:placetype":"locality",

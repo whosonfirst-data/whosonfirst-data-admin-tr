@@ -10,8 +10,10 @@
     "geom:latitude":40.940252,
     "geom:longitude":29.277127,
     "iso:country":"TR",
+    "lbl:bbox":"29.27212711,40.9352522869,29.28212711,40.9452522869",
     "lbl:latitude":40.940252,
     "lbl:longitude":29.277127,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709899,
-        85679237
+        1108709899
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832905,
-    "wof:lastmodified":1566339842,
+    "wof:lastmodified":1566584860,
     "wof:name":"Necip Fazil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

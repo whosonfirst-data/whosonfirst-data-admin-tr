@@ -11,11 +11,15 @@
     "geom:longitude":42.05917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":147,
+    "gn:population":147,
     "iso:country":"TR",
+    "lbl:bbox":"42.03917,37.37944,42.07917,37.41944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Khendekkey"
     ],
     "qs:name":"Hendekk\u00f6y",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":312218,
-        "qs:id":547467
+        "qs_pg:id":547467
     },
     "wof:country":"TR",
     "wof:created":1469053510,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465239,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586352,
     "wof:name":"Hendekk\u00f6y",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":28.45917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":7017,
+    "gn:population":7017,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.43917,37.8933,28.47917,37.9333",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kuyucak"
     ],
@@ -61,7 +65,7 @@
     "name:tur_x_preferred":[
         "Kuyucak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kayancuk"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":305210,
         "gp:id":2344240,
-        "qs:id":384080,
+        "qs_pg:id":384080,
         "wd:id":"Q1004534",
         "wk:page":"Kuyucak"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":890463193,
-    "wof:lastmodified":1563360950,
+    "wof:lastmodified":1566586206,
     "wof:name":"Kuyucak",
     "wof:parent_id":1108709689,
     "wof:placetype":"locality",

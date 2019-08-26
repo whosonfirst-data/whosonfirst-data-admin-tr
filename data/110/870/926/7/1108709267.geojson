@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.807837,
     "lbl:longitude":38.831443,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sanliurfa",
     "meso:admin_1":"Sanliurfa",
     "meso:gadm_admin":"Harran",
@@ -37,6 +39,7 @@
     "mps:longitude":38.831443,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0623\u0642\u062c\u0629 \u0642\u0644\u0639\u0629"
     ],
@@ -134,7 +137,7 @@
         "\u963f\u514b\u6070\u5361\u840a"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108709267,
-    "wof:lastmodified":1564161510,
+    "wof:lastmodified":1566585376,
     "wof:name":"Ak\u00e7akale",
     "wof:parent_id":85679441,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":26.92522,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":3153,
+    "gn:population":3153,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.90522,41.32812,26.94522,41.36812",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Pehlivank\u00f6y"
     ],
@@ -67,7 +71,7 @@
     "name:tur_x_preferred":[
         "Pehlivank\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pavli"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":740650,
         "gp:id":2344325,
-        "qs:id":129154,
+        "qs_pg:id":129154,
         "wd:id":"Q1022161",
         "wk:page":"Pehlivank\u00f6y"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890463471,
-    "wof:lastmodified":1563360959,
+    "wof:lastmodified":1566586210,
     "wof:name":"Pehlivank\u00f6y",
     "wof:parent_id":1108709813,
     "wof:placetype":"locality",

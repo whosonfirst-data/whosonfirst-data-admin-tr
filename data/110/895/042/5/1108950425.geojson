@@ -10,9 +10,12 @@
     "geom:latitude":41.02867,
     "geom:longitude":28.971793,
     "iso:country":"TR",
+    "lbl:bbox":"28.9667928649,41.0236698558,28.9767928649,41.0336698558",
     "lbl:latitude":41.02867,
     "lbl:longitude":28.971793,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "\u015ei\u015fhane"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108950425,
-    "wof:lastmodified":1497292378,
+    "wof:lastmodified":1566585293,
     "wof:name":"Sishane",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

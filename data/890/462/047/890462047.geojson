@@ -11,11 +11,15 @@
     "geom:longitude":41.87027,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":10104,
+    "gn:population":10104,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"41.85027,40.32653,41.89027,40.36653",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Narman \u0130l\u00e7esi"
     ],
@@ -64,7 +68,7 @@
     "name:tur_x_preferred":[
         "Narman"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0130d"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":741330,
         "gp:id":2344281,
-        "qs:id":384082,
+        "qs_pg:id":384082,
         "wd:id":"Q1025415",
         "wk:page":"Narman"
     },
@@ -109,7 +113,7 @@
         }
     ],
     "wof:id":890462047,
-    "wof:lastmodified":1563361361,
+    "wof:lastmodified":1566586372,
     "wof:name":"Narman",
     "wof:parent_id":1108709761,
     "wof:placetype":"locality",

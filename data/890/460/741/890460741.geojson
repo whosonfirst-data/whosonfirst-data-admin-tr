@@ -11,10 +11,14 @@
     "geom:longitude":28.32225,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":119370,
+    "gn:population":119370,
     "iso:country":"TR",
+    "lbl:bbox":"28.30225,37.89631,28.34225,37.93631",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0632\u064a\u0644\u0644\u064a"
     ],
@@ -108,7 +112,7 @@
     "name:tur_x_preferred":[
         "Nazilli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pazark\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -139,7 +143,7 @@
     "wof:concordances":{
         "gn:id":303873,
         "gp:id":2344284,
-        "qs:id":307733,
+        "qs_pg:id":307733,
         "wd:id":"Q637120",
         "wk:page":"Nazilli"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":890460741,
-    "wof:lastmodified":1563361575,
+    "wof:lastmodified":1566586451,
     "wof:name":"Nazilli",
     "wof:parent_id":890462085,
     "wof:placetype":"locality",

@@ -11,14 +11,18 @@
     "geom:longitude":37.87167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":44,
+    "gn:population":44,
     "iso:country":"TR",
+    "lbl:bbox":"37.85167,36.93306,37.89167,36.97306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Boz Alio\u011flu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bozal\u0131"
     ],
     "qs:name":"Bozalio\u011flu",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":320740,
-        "qs:id":80127
+        "qs_pg:id":80127
     },
     "wof:country":"TR",
     "wof:created":1469053294,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890459967,
-    "wof:lastmodified":1505343680,
+    "wof:lastmodified":1566586575,
     "wof:name":"Bozalio\u011flu",
     "wof:parent_id":890461691,
     "wof:placetype":"locality",

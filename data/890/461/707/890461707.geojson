@@ -11,11 +11,15 @@
     "geom:longitude":33.08614,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11301,
+    "gn:population":11301,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.06614,40.11512,33.10614,40.15512",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:cat_x_preferred":[
         "Akyurt"
     ],
@@ -82,7 +86,7 @@
     "name:tur_x_preferred":[
         "Akyurt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ravli"
     ],
     "name:urd_x_preferred":[
@@ -110,7 +114,7 @@
     "wof:concordances":{
         "gn:id":752284,
         "gp:id":55871100,
-        "qs:id":858147,
+        "qs_pg:id":858147,
         "wd:id":"Q557607",
         "wk:page":"Akyurt"
     },
@@ -127,7 +131,7 @@
         }
     ],
     "wof:id":890461707,
-    "wof:lastmodified":1563361680,
+    "wof:lastmodified":1566586488,
     "wof:name":"Akyurt",
     "wof:parent_id":1108709265,
     "wof:placetype":"locality",

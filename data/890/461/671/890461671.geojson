@@ -11,11 +11,15 @@
     "geom:longitude":29.21237,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":36185,
+    "gn:population":36185,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.19237,40.17828,29.23237,40.21828",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u064a\u0633\u062a\u0627\u0644"
     ],
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":743404,
         "gp:id":2328274,
-        "qs:id":354072,
+        "qs_pg:id":354072,
         "wd:id":"Q2607431",
         "wk:page":"Kestel"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":890461671,
-    "wof:lastmodified":1563361777,
+    "wof:lastmodified":1566586523,
     "wof:name":"Kestel",
     "wof:parent_id":890462395,
     "wof:placetype":"locality",

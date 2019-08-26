@@ -14,6 +14,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.085906,
     "lbl:longitude":28.926659,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.093842,
     "mps:longitude":28.930238,
     "mz:hierarchy_label":1,
@@ -32,10 +33,7 @@
     "name:tur_x_variant":[
         "\u015eemsettin"
     ],
-    "name:und_x_preferred":[
-        "Aksemsettin"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aksemsettin"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -75,7 +73,7 @@
     "wof:concordances":{
         "gn:id":739824,
         "gp:id":55871387,
-        "qs:id":398277
+        "qs_pg:id":398277
     },
     "wof:country":"TR",
     "wof:geomhash":"6bdb4114fe13eccc6ef6b56d485d4dec",
@@ -92,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566582909,
     "wof:name":"Aksemsettin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
