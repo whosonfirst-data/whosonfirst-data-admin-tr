@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":40.970957,
     "lbl:longitude":29.04391,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.957315,
     "mps:longitude":29.033016,
     "mz:hierarchy_label":1,
@@ -82,12 +83,6 @@
     "name:tur_x_preferred":[
         "Fenerbah\u00e7e"
     ],
-    "name:und_x_preferred":[
-        "Fenerbah\u00e7e"
-    ],
-    "name:unk_x_variant":[
-        "Fenerbah\u00e7e"
-    ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
     "qs:gn_local":745044,
@@ -117,7 +112,6 @@
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":2390,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         85679237,
         102191569,
@@ -128,7 +122,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865043,
-        "qs:id":1090108,
         "qs_pg:id":1090108,
         "wd:id":"Q726288"
     },
@@ -148,7 +141,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566582924,
     "wof:name":"Fenerbah\u00e7e",
     "wof:parent_id":101912681,
     "wof:placetype":"neighbourhood",

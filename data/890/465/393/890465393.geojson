@@ -11,10 +11,14 @@
     "geom:longitude":41.25833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":596,
+    "gn:population":596,
     "iso:country":"TR",
+    "lbl:bbox":"41.23833,37.86278,41.27833,37.90278",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Danal\u0131"
     ],
@@ -32,9 +36,6 @@
     ],
     "name:tur_x_preferred":[
         "Danal\u0131"
-    ],
-    "name:unk_x_variant":[
-        "Zercil"
     ],
     "name:vie_x_preferred":[
         "Danal\u0131"
@@ -54,7 +55,7 @@
     "wof:concordances":{
         "gn:id":317630,
         "gp:id":2343786,
-        "qs:id":547589,
+        "qs_pg:id":547589,
         "wd:id":"Q5214915"
     },
     "wof:country":"TR",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":890465393,
-    "wof:lastmodified":1561769269,
+    "wof:lastmodified":1566586344,
     "wof:name":"Danal\u0131",
     "wof:parent_id":1108709369,
     "wof:placetype":"locality",

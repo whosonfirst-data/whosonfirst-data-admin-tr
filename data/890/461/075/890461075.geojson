@@ -11,11 +11,14 @@
     "geom:longitude":28.94082,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.93582,41.05772,28.94582,41.06772",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Silahtara\u011fa"
     ],
@@ -88,7 +91,7 @@
     "name:tur_x_preferred":[
         "Silahtara\u011fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Silihtaraga"
     ],
     "name:war_x_preferred":[
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":739637,
         "gp:id":2343640,
-        "qs:id":327022,
+        "qs_pg:id":327022,
         "wd:id":"Q6075082"
     },
     "wof:country":"TR",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890461075,
-    "wof:lastmodified":1563361781,
+    "wof:lastmodified":1566586525,
     "wof:name":"Silahtara\u011fa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

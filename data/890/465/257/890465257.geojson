@@ -11,10 +11,14 @@
     "geom:longitude":41.42833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":84,
+    "gn:population":84,
     "iso:country":"TR",
+    "lbl:bbox":"41.40833,37.61444,41.44833,37.65444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "G\u00fcrb\u00fcz"
     ],
@@ -27,7 +31,7 @@
     "name:tur_x_preferred":[
         "G\u00fcrb\u00fcz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u0131rbita"
     ],
     "name:vie_x_preferred":[
@@ -47,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313380,
-        "qs:id":547497,
+        "qs_pg:id":547497,
         "wd:id":"Q10764109"
     },
     "wof:country":"TR",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890465257,
-    "wof:lastmodified":1561769268,
+    "wof:lastmodified":1566586333,
     "wof:name":"Khyrbeta",
     "wof:parent_id":1108709515,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":41.224606,
     "geom:longitude":28.210202,
     "iso:country":"TR",
+    "lbl:bbox":"28.2052016477,41.2196055925,28.2152016477,41.2296055925",
     "lbl:latitude":41.224606,
     "lbl:longitude":28.210202,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462765,
-        85679237
+        890462765
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444830289,
-    "wof:lastmodified":1566339533,
+    "wof:lastmodified":1566584856,
     "wof:name":"Buyuksinekli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

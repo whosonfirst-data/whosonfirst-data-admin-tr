@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"29.45589,38.68346,29.49589,38.72346",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":313798
     },
     "wof:country":"TR",
-    "wof:geomhash":"5106672540cfcc9b5b0cb34f6bdcc75e",
+    "wof:geomhash":"0174d26b52470b39380553410afa22ee",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209130635,
-    "wof:lastmodified":1536296816,
+    "wof:lastmodified":1566584531,
     "wof:name":"Gucer",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.475890000000003,
+    29.47589,
     38.70346,
-    29.475890000000003,
+    29.47589,
     38.70346
 ],
   "geometry": {"coordinates":[29.47589,38.70346],"type":"Point"}

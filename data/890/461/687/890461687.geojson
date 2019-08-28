@@ -11,7 +11,7 @@
     "geom:longitude":31.469347,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":20890,
+    "gn:population":20890,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.112794,
     "lbl:longitude":31.430927,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zonguldak",
     "meso:admin_1":"Zonguldak",
     "meso:gadm_admin":"Ere\u011fli",
@@ -41,6 +43,7 @@
     "mps:longitude":31.430927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0622\u0644\u0627\u067e\u0644\u06cc"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Alapl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yukar\u0131do\u011fnc\u0131lar"
     ],
     "name:urd_x_preferred":[
@@ -114,7 +117,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":269,
     "wof:belongsto":[
@@ -127,7 +130,7 @@
         "gn:id":752184,
         "gp:id":29390068,
         "hasc:id":"TR.ZO.ER",
-        "qs:id":445810,
+        "qs_pg:id":445810,
         "wd:id":"Q1012945",
         "wk:page":"Alapl\u0131"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890461687,
-    "wof:lastmodified":1563361699,
+    "wof:lastmodified":1566586494,
     "wof:name":"Alapl\u0131",
     "wof:parent_id":85679419,
     "wof:placetype":"county",

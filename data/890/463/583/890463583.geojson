@@ -11,11 +11,15 @@
     "geom:longitude":44.35419,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"44.33419,39.3967,44.37419,39.4367",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "G\u00fcrbulak"
     ],
@@ -49,7 +53,7 @@
     "name:tur_x_preferred":[
         "G\u00fcrbulak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fcrc\u00fcbulak"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":313381,
         "gp:id":2321691,
-        "qs:id":191228,
+        "qs_pg:id":191228,
         "wd:id":"Q2199700",
         "wk:page":"G\u00fcrbulak"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890463583,
-    "wof:lastmodified":1563361115,
+    "wof:lastmodified":1566586264,
     "wof:name":"G\u00fcrbulak",
     "wof:parent_id":890463125,
     "wof:placetype":"locality",

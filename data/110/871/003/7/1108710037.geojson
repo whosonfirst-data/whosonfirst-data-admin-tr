@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.79794,
     "lbl:longitude":40.029312,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Erzincan",
     "meso:admin_1":"Erzincan",
     "meso:gadm_admin":"\u00c7ay\u0131rl\u0131",
@@ -37,6 +39,7 @@
     "mps:longitude":40.029312,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "\u00c7ay\u0131rl\u0131"
     ],
@@ -113,9 +116,9 @@
         "\u00c7ay\u0131rl\u0131"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1080",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7ayirli",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108710037,
-    "wof:lastmodified":1563359804,
+    "wof:lastmodified":1566585388,
     "wof:name":"\u00c7ay\u0131rl\u0131",
     "wof:parent_id":85679373,
     "wof:placetype":"county",

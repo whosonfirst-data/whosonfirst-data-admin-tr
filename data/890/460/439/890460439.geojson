@@ -11,10 +11,14 @@
     "geom:longitude":32.33133,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"32.31133,41.17962,32.35133,41.21962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yenice"
     ],
@@ -66,7 +70,7 @@
     "name:tur_x_preferred":[
         "Yenice"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7eltik"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":737723,
         "gp:id":2344512,
-        "qs:id":129124,
+        "qs_pg:id":129124,
         "wd:id":"Q130228",
         "wk:page":"Yenice"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890460439,
-    "wof:lastmodified":1563361529,
+    "wof:lastmodified":1566586437,
     "wof:name":"Yenice",
     "wof:parent_id":1108709987,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":29.582498,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
         "Dilovas\u0131 District"
@@ -27,6 +27,8 @@
     ],
     "lbl:latitude":40.838543,
     "lbl:longitude":29.572356,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kocaeli",
     "meso:admin_1":"Kocaeli",
     "meso:gadm_admin":"Gebze",
@@ -40,6 +42,7 @@
     "mps:longitude":29.572356,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u062f\u06cc\u0644 \u0627\u0648\u0648\u0627\u0633\u06cc"
     ],
@@ -105,7 +108,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":76,
     "wof:belongsto":[
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":7732931,
         "hasc:id":"TR.KC.GE",
-        "qs:id":1041872,
+        "qs_pg:id":1041872,
         "wd:id":"Q2473716",
         "wk:page":"Dilovas\u0131"
     },
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":890461367,
-    "wof:lastmodified":1563361761,
+    "wof:lastmodified":1566586518,
     "wof:name":"Dilovas\u0131",
     "wof:parent_id":85679241,
     "wof:placetype":"county",

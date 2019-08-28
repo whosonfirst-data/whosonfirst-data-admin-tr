@@ -11,14 +11,18 @@
     "geom:longitude":40.92906,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":750,
+    "gn:population":750,
     "iso:country":"TR",
+    "lbl:bbox":"40.90906,37.4991,40.94906,37.5391",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Kayatepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kharisi"
     ],
     "qs:name":"Kayatepe",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":308552,
         "gp:id":2344374,
-        "qs:id":547421
+        "qs_pg:id":547421
     },
     "wof:country":"TR",
     "wof:created":1469053506,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890465181,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586340,
     "wof:name":"Kayatepe",
     "wof:parent_id":1108709869,
     "wof:placetype":"locality",

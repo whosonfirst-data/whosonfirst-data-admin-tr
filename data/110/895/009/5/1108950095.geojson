@@ -10,9 +10,12 @@
     "geom:latitude":41.080872,
     "geom:longitude":28.989573,
     "iso:country":"TR",
+    "lbl:bbox":"28.9845731621,41.0758716361,28.9945731621,41.0858716361",
     "lbl:latitude":41.080872,
     "lbl:longitude":28.989573,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -20,13 +23,13 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912685,
-        890461743,
-        85679237
+        890461743
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108950095,
-    "wof:lastmodified":1492123960,
+    "wof:lastmodified":1566585287,
     "wof:name":"Harmantepe",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

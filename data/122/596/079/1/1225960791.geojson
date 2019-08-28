@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"27.62889,41.20361,27.66889,41.24361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0625\u064a\u0633\u064a\u0646\u0644\u0627\u0631"
     ],
@@ -102,8 +106,7 @@
         "Esenler"
     ],
     "name:und_x_variant":[
-        "Esenli",
-        "Esenler"
+        "Esenli"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0646\u0644\u0631"
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1225960791,
-    "wof:lastmodified":1564164916,
+    "wof:lastmodified":1566587870,
     "wof:name":"Esenler",
     "wof:parent_id":890463841,
     "wof:placetype":"locality",

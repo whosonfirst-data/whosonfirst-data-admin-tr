@@ -11,11 +11,15 @@
     "geom:longitude":26.73722,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.71722,39.55944,26.75722,39.59944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0622\u0644\u062a\u06cc\u0646 \u0627\u0648\u0644\u0648\u0642"
     ],
@@ -43,7 +47,7 @@
     "name:tur_x_preferred":[
         "Alt\u0131noluk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7ambah\u00e7e Papazlik"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":323911,
         "gp:id":2308306,
-        "qs:id":218098,
+        "qs_pg:id":218098,
         "wd:id":"Q3233272",
         "wk:page":"Alt\u0131noluk"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890463505,
-    "wof:lastmodified":1563360942,
+    "wof:lastmodified":1566586204,
     "wof:name":"Alt\u0131noluk",
     "wof:parent_id":890462487,
     "wof:placetype":"locality",

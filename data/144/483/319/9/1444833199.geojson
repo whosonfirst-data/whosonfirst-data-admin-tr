@@ -10,8 +10,10 @@
     "geom:latitude":40.900518,
     "geom:longitude":29.290088,
     "iso:country":"TR",
+    "lbl:bbox":"29.2850875505,40.8955175115,29.2950875505,40.9055175115",
     "lbl:latitude":40.900517,
     "lbl:longitude":29.290087,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461937,
-        85679237
+        890461937
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833199,
-    "wof:lastmodified":1566339881,
+    "wof:lastmodified":1566584864,
     "wof:name":"Ramazano\u011flu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

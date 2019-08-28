@@ -11,7 +11,7 @@
     "geom:longitude":41.016639,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":15303,
+    "gn:population":15303,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.958557,
     "lbl:longitude":40.98954,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bingol",
     "meso:admin_1":"Bing\u00f6l",
     "meso:gadm_admin":"Solhan",
@@ -41,6 +43,7 @@
     "mps:longitude":40.98954,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0633\u0648\u0644\u062d\u0627\u0646"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "Solhan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buglan"
     ],
     "name:urd_x_preferred":[
@@ -129,9 +132,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1220",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Solhan",
@@ -153,7 +156,7 @@
         "gn:id":300377,
         "gp:id":29390766,
         "hasc:id":"TR.BG.SO",
-        "qs:id":1237190,
+        "qs_pg:id":1237190,
         "wd:id":"Q990328",
         "wk:page":"Solhan"
     },
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":890461897,
-    "wof:lastmodified":1563361814,
+    "wof:lastmodified":1566586535,
     "wof:name":"Solhan",
     "wof:parent_id":85679391,
     "wof:placetype":"county",

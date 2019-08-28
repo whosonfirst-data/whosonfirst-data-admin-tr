@@ -11,8 +11,10 @@
     "geom:longitude":27.168005,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"27.163005,38.459552,27.173005,38.469552",
     "lbl:latitude":38.464552,
     "lbl:longitude":27.168005,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.464385,
     "mps:longitude":27.165622,
     "mz:hierarchy_label":0,
@@ -66,12 +68,6 @@
     "name:tur_x_preferred":[
         "Bayrakl\u0131"
     ],
-    "name:und_x_preferred":[
-        "Bayrakl\u0131"
-    ],
-    "name:unk_x_variant":[
-        "Bayrakl\u0131"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06d2\u0631\u0627\u06a9\u0644\u06cc"
     ],
@@ -105,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":89,
     "wof:belongsto":[
         85679201,
@@ -116,7 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865550,
-        "qs:id":1197702,
+        "qs_pg:id":1197702,
         "wd:id":"Q812591"
     },
     "wof:country":"TR",
@@ -135,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356519,
+    "wof:lastmodified":1566582940,
     "wof:name":"Bayrakl\u0131",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

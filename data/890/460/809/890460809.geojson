@@ -11,7 +11,7 @@
     "geom:longitude":31.026553,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":7274,
+    "gn:population":7274,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.095329,
     "lbl:longitude":31.023192,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Isparta",
     "meso:admin_1":"Isparta",
     "meso:gadm_admin":"Gelendost",
@@ -41,6 +43,7 @@
     "mps:longitude":31.023192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Gelendost \u0130l\u00e7esi"
     ],
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "Gelendost"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gelendos"
     ],
     "name:urd_x_preferred":[
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"647",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Gelendost",
@@ -128,7 +131,7 @@
         "gn:id":314698,
         "gp:id":29390342,
         "hasc:id":"TR.IP.GE",
-        "qs:id":478457,
+        "qs_pg:id":478457,
         "wd:id":"Q1499635",
         "wk:page":"Gelendost"
     },
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":890460809,
-    "wof:lastmodified":1563361625,
+    "wof:lastmodified":1566586469,
     "wof:name":"Gelendost",
     "wof:parent_id":85679279,
     "wof:placetype":"county",

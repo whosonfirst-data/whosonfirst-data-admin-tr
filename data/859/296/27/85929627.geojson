@@ -11,8 +11,10 @@
     "geom:longitude":27.209314,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"27.204314,38.452085,27.214314,38.462085",
     "lbl:latitude":38.457085,
     "lbl:longitude":27.209314,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.456547,
     "mps:longitude":27.207916,
     "mz:hierarchy_label":0,
@@ -57,10 +59,7 @@
     "name:tur_x_preferred":[
         "K\u00e2z\u0131m Dirik"
     ],
-    "name:und_x_preferred":[
-        "Kaz\u0131m Dirik"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaz\u0131m Dirik"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -90,7 +89,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":116,
     "wof:belongsto":[
         85679201,
@@ -101,7 +100,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865410,
-        "qs:id":473170,
+        "qs_pg:id":473170,
         "wd:id":"Q269240"
     },
     "wof:country":"TR",
@@ -120,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356519,
+    "wof:lastmodified":1566582940,
     "wof:name":"Kaz\u0131m Dirik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

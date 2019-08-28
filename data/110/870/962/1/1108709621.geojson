@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.337616,
     "lbl:longitude":27.045528,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Narl\u0131dere",
@@ -37,6 +39,7 @@
     "mps:longitude":27.045528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Karaba\u011flar"
     ],
@@ -74,7 +77,7 @@
         "\u0642\u0631\u06c1 \u0628\u0627\u063a\u0644\u0627\u0631"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -96,7 +99,7 @@
         }
     ],
     "wof:id":1108709621,
-    "wof:lastmodified":1564161472,
+    "wof:lastmodified":1566585326,
     "wof:name":"Karaba\u011flar",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

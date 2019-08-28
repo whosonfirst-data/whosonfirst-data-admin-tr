@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":36.855834,
     "lbl:longitude":28.274385,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.855834,
     "mps:longitude":28.274385,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0435\u043f\u0435"
     ],
@@ -58,7 +61,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":59,
     "wof:belongsto":[
         102191569,
@@ -69,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966464,
-        "qs:id":1155450,
         "qs_pg:id":1155450
     },
     "wof:country":"TR",
@@ -84,7 +86,7 @@
         }
     ],
     "wof:id":101912961,
-    "wof:lastmodified":1564162395,
+    "wof:lastmodified":1566586001,
     "wof:name":"Tepe",
     "wof:parent_id":890460753,
     "wof:placetype":"locality",

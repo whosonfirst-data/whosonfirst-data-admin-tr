@@ -11,10 +11,14 @@
     "geom:longitude":40.76861,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":624,
+    "gn:population":624,
     "iso:country":"TR",
+    "lbl:bbox":"40.74861,37.14167,40.78861,37.18167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "\u00c7al\u0131\u015fl\u0131"
     ],
@@ -33,7 +37,7 @@
     "name:tur_x_preferred":[
         "\u00c7al\u0131\u015fl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u015ea\u011flan"
     ],
     "name:vie_x_preferred":[
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":319783,
         "gp:id":2344252,
-        "qs:id":547628,
+        "qs_pg:id":547628,
         "wd:id":"Q4823866"
     },
     "wof:country":"TR",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890465441,
-    "wof:lastmodified":1561769268,
+    "wof:lastmodified":1566586332,
     "wof:name":"Shaklan",
     "wof:parent_id":890463121,
     "wof:placetype":"locality",

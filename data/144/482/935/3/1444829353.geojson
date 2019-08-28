@@ -10,8 +10,10 @@
     "geom:latitude":41.036084,
     "geom:longitude":28.595836,
     "iso:country":"TR",
+    "lbl:bbox":"28.5908355171,41.0310844462,28.6008355171,41.0410844462",
     "lbl:latitude":41.036084,
     "lbl:longitude":28.595835,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462459,
-        85679237
+        890462459
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829353,
-    "wof:lastmodified":1566339425,
+    "wof:lastmodified":1566584821,
     "wof:name":"19 Mayis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

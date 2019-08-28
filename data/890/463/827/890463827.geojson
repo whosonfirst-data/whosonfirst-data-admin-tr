@@ -11,10 +11,14 @@
     "geom:longitude":40.95437,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2802,
+    "gn:population":2802,
     "iso:country":"TR",
+    "lbl:bbox":"40.93437,37.15763,40.97437,37.19763",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u0627"
     ],
@@ -72,9 +76,6 @@
     "name:tur_x_preferred":[
         "O\u011fuz"
     ],
-    "name:unk_x_variant":[
-        "Dara"
-    ],
     "name:zho_x_preferred":[
         "\u8fbe\u62c9_(\u7f8e\u7d22\u4e0d\u8fbe\u7c73\u4e9a)"
     ],
@@ -94,7 +95,7 @@
     "wof:concordances":{
         "gn:id":303648,
         "gp:id":1941417,
-        "qs:id":204445,
+        "qs_pg:id":204445,
         "wd:id":"Q585145",
         "wk:page":"Oghuz"
     },
@@ -111,7 +112,7 @@
         }
     ],
     "wof:id":890463827,
-    "wof:lastmodified":1563360956,
+    "wof:lastmodified":1566586209,
     "wof:name":"O\u011fuz",
     "wof:parent_id":890463121,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":41.95111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":183,
+    "gn:population":183,
     "iso:country":"TR",
+    "lbl:bbox":"41.93111,37.16111,41.97111,37.20111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "U\u011fur"
     ],
@@ -126,7 +130,7 @@
     "name:tur_x_preferred":[
         "U\u011fur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tilbel"
     ],
     "name:zho_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298507,
-        "qs:id":80008,
+        "qs_pg:id":80008,
         "wd:id":"Q1290345",
         "wk:page":"U\u011fur"
     },
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":890459789,
-    "wof:lastmodified":1563361924,
+    "wof:lastmodified":1566586592,
     "wof:name":"U\u011fur",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

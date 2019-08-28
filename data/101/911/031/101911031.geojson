@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":41.400073,
     "lbl:longitude":33.783804,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":41.400073,
     "mps:longitude":33.783804,
     "mz:hierarchy_label":1,
@@ -204,7 +206,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Castamuni"
     ],
     "name:urd_x_preferred":[
@@ -332,7 +334,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.383333,
     "wd:longitude":33.783333,
@@ -347,10 +349,12 @@
     "wof:concordances":{
         "gn:id":743882,
         "gp:id":2344169,
-        "qs:id":1087176,
         "qs_pg:id":1062332,
         "wd:id":"Q155915",
         "wk:page":"Kastamonu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1087176
     },
     "wof:country":"TR",
     "wof:geomhash":"2aedb7cd360458596c7b1c19a70db6ab",
@@ -364,7 +368,7 @@
         }
     ],
     "wof:id":101911031,
-    "wof:lastmodified":1563360668,
+    "wof:lastmodified":1566586010,
     "wof:name":"Kastamonu",
     "wof:parent_id":890463421,
     "wof:placetype":"locality",

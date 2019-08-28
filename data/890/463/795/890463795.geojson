@@ -11,10 +11,14 @@
     "geom:longitude":30.54861,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":15919,
+    "gn:population":15919,
     "iso:country":"TR",
+    "lbl:bbox":"30.52861,38.08444,30.56861,38.12444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Senirkent \u0130l\u00e7esi"
     ],
@@ -57,7 +61,7 @@
     "name:tur_x_preferred":[
         "Senirkent"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Senikent"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":301172,
         "gp:id":2336702,
-        "qs:id":204251,
+        "qs_pg:id":204251,
         "wd:id":"Q1937212",
         "wk:page":"Senirkent"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890463795,
-    "wof:lastmodified":1563361052,
+    "wof:lastmodified":1566586241,
     "wof:name":"Senirkent",
     "wof:parent_id":1108709875,
     "wof:placetype":"locality",

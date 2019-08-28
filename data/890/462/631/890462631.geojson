@@ -11,15 +11,19 @@
     "geom:longitude":29.07722,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.05722,40.19889,29.09722,40.23889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "K\u00fc\u00e7\u00fckbal\u0131kl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baluklu"
     ],
     "qs:name":"K\u00fc\u00e7\u00fckbal\u0131kl\u0131",
@@ -40,7 +44,7 @@
     "wof:concordances":{
         "gn:id":742401,
         "gp:id":2330640,
-        "qs:id":1116950
+        "qs_pg:id":1116950
     },
     "wof:country":"TR",
     "wof:created":1469053398,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":890462631,
-    "wof:lastmodified":1505343690,
+    "wof:lastmodified":1566586411,
     "wof:name":"K\u00fc\u00e7\u00fckbal\u0131kl\u0131",
     "wof:parent_id":890463107,
     "wof:placetype":"locality",

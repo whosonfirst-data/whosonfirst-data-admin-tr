@@ -10,8 +10,10 @@
     "geom:latitude":41.106253,
     "geom:longitude":28.898059,
     "iso:country":"TR",
+    "lbl:bbox":"28.8930593225,41.1012530127,28.9030593225,41.1112530127",
     "lbl:latitude":41.106253,
     "lbl:longitude":28.898059,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Gazi"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950553,
-    "wof:lastmodified":1563359574,
+    "wof:lastmodified":1566585288,
     "wof:name":"Gazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

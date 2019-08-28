@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.033329,
     "lbl:longitude":34.307826,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Nigde",
     "meso:admin_1":"Nigde",
     "meso:gadm_admin":"Altunhisar",
@@ -37,6 +39,7 @@
     "mps:longitude":34.307826,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Altunhisar \u0130l\u00e7esi"
     ],
@@ -86,9 +89,9 @@
         "Altunhisar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"586",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Altunhisar",
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1108709285,
-    "wof:lastmodified":1563359781,
+    "wof:lastmodified":1566585379,
     "wof:name":"Altunhisar",
     "wof:parent_id":85679453,
     "wof:placetype":"county",

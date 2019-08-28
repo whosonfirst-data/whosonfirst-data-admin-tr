@@ -11,11 +11,15 @@
     "geom:longitude":42.35333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":279,
+    "gn:population":279,
     "iso:country":"TR",
+    "lbl:bbox":"42.33333,37.90333,42.37333,37.94333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yukar\u0131 Artuvin"
     ],
     "qs:name":"Hertivinler",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":315847,
         "gp:id":2344316,
-        "qs:id":547540
+        "qs_pg:id":547540
     },
     "wof:country":"TR",
     "wof:created":1469053514,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890465317,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586356,
     "wof:name":"Hertivinler",
     "wof:parent_id":890461169,
     "wof:placetype":"locality",

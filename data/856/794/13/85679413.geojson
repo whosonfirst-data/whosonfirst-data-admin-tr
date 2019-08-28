@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.697635,
     "lbl:longitude":33.522852,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"\u00c7ankiri",
     "mps:latitude":40.681713,
     "mps:longitude":33.593445,
@@ -242,7 +243,7 @@
         "\u00c7ank\u0131r\u0131"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0ba9\u0bcd\u0b95\u0bbf\u0bb0\u0bbf   \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bbe\u0ba9\u0bcd\u0b95\u0bbf\u0bb0\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c02\u0c15\u0c3f\u0c30\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -273,15 +274,6 @@
     ],
     "name:und_x_colloquial":[
         "Cankiri"
-    ],
-    "name:und_x_preferred":[
-        "\u00c7ank\u0131r\u0131"
-    ],
-    "name:und_x_variant":[
-        "\u00c7ankiri"
-    ],
-    "name:unk_x_variant":[
-        "\u00c7ank\u0131r\u0131"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0686\u0627\u0646\u0642\u0631\u06cc"
@@ -379,9 +371,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"7,388",
     "statoids:area_mi":"2,853",
     "statoids:as_of_date":"2007-12-31",
@@ -406,7 +398,7 @@
         "gp:id":2347275,
         "hasc:id":"TR.CI",
         "iso:id":"TR-18",
-        "qs:id":1075612,
+        "qs_pg:id":1075612,
         "unlc:id":"TR-18",
         "wd:id":"Q272662",
         "wk:page":"\u00c7ank\u0131r\u0131 Province"
@@ -427,7 +419,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737379,
+    "wof:lastmodified":1566582975,
     "wof:name":"Cankiri",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

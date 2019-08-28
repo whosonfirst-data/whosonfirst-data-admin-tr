@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":41.097913,
     "lbl:longitude":29.087977,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.097913,
     "mps:longitude":29.087977,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0646\u0644\u062c\u0627"
     ],
@@ -43,7 +46,7 @@
     "name:tur_x_preferred":[
         "Kanl\u0131ca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khanlijeh"
     ],
     "qs:a0":"Turkey",
@@ -61,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":444,
     "wof:belongsto":[
         102191569,
@@ -73,7 +76,6 @@
     "wof:concordances":{
         "gn:id":744711,
         "gp:id":2343598,
-        "qs:id":900660,
         "qs_pg:id":900660,
         "wd:id":"Q6645927"
     },
@@ -89,7 +91,7 @@
         }
     ],
     "wof:id":101912645,
-    "wof:lastmodified":1563360619,
+    "wof:lastmodified":1566585997,
     "wof:name":"Kanl\u0131ca",
     "wof:parent_id":890461921,
     "wof:placetype":"locality",

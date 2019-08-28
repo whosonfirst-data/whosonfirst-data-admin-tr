@@ -11,11 +11,15 @@
     "geom:longitude":27.73508,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":47220,
+    "gn:population":47220,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.71508,38.06877,27.75508,38.10877",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Lugband"
     ],
@@ -205,7 +209,7 @@
     "name:ukr_x_preferred":[
         "\u0430\u0432\u0442\u043e\u0448\u0438\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arcadiopolis"
     ],
     "name:urd_x_preferred":[
@@ -243,7 +247,7 @@
     "wof:concordances":{
         "gn:id":299137,
         "gp:id":2344444,
-        "qs:id":1193184,
+        "qs_pg:id":1193184,
         "wd:id":"Q169545",
         "wk:page":"Tire"
     },
@@ -260,7 +264,7 @@
         }
     ],
     "wof:id":890463543,
-    "wof:lastmodified":1563361016,
+    "wof:lastmodified":1566586229,
     "wof:name":"Tire",
     "wof:parent_id":890462119,
     "wof:placetype":"locality",

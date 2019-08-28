@@ -11,7 +11,7 @@
     "geom:longitude":30.212846,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.03572,
     "lbl:longitude":30.197823,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bilecik",
     "meso:admin_1":"Bilecik",
     "meso:gadm_admin":"S\u00f6\u011f\u00fct",
@@ -41,6 +43,7 @@
     "mps:longitude":30.197823,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u063a\u0648\u062a"
     ],
@@ -189,9 +192,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"530",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"S\u00f6g\u00fct",
@@ -213,7 +216,7 @@
         "gn:id":300468,
         "gp:id":29390764,
         "hasc:id":"TR.BC.SO",
-        "qs:id":211196,
+        "qs_pg:id":211196,
         "wd:id":"Q768506",
         "wk:page":"S\u00f6\u011f\u00fct"
     },
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":890464287,
-    "wof:lastmodified":1563361147,
+    "wof:lastmodified":1566586277,
     "wof:name":"S\u00f6\u011f\u00fct",
     "wof:parent_id":85679227,
     "wof:placetype":"county",

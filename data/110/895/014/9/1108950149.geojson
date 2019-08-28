@@ -10,8 +10,10 @@
     "geom:latitude":41.066852,
     "geom:longitude":28.94105,
     "iso:country":"TR",
+    "lbl:bbox":"28.9360501884,41.0618522996,28.9460501884,41.0718522996",
     "lbl:latitude":41.066852,
     "lbl:longitude":28.94105,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -69,7 +71,7 @@
     "name:tur_x_preferred":[
         "Sakarya"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -93,7 +95,7 @@
         }
     ],
     "wof:id":1108950149,
-    "wof:lastmodified":1564161416,
+    "wof:lastmodified":1566585276,
     "wof:name":"Sakarya",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

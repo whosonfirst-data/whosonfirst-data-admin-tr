@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.045223,
     "lbl:longitude":38.899579,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tunceli",
     "meso:admin_1":"Tunceli",
     "meso:gadm_admin":"\u00c7emi\u015fgezek",
@@ -37,6 +39,7 @@
     "mps:longitude":38.899579,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "\u00c7emi\u015fgezek"
     ],
@@ -107,9 +110,9 @@
         "\u00c7emi\u015fgezek"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"865",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7emisgezek",
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1108710059,
-    "wof:lastmodified":1563359807,
+    "wof:lastmodified":1566585390,
     "wof:name":"\u00c7emi\u015fgezek",
     "wof:parent_id":85679497,
     "wof:placetype":"county",

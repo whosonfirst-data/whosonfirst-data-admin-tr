@@ -11,11 +11,15 @@
     "geom:longitude":38.86111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":344,
+    "gn:population":344,
     "iso:country":"TR",
+    "lbl:bbox":"38.84111,36.74222,38.88111,36.78222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "R\u00fcc\u00fcm"
     ],
     "qs:name":"Onortak",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":303495,
-        "qs:id":80033
+        "qs_pg:id":80033
     },
     "wof:country":"TR",
     "wof:created":1469053283,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459841,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586578,
     "wof:name":"Onortak",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

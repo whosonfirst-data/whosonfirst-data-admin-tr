@@ -11,7 +11,7 @@
     "geom:longitude":40.211146,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.626917,
     "lbl:longitude":40.254678,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyarbakir",
     "meso:admin_1":"Diyarbakir",
     "meso:gadm_admin":"\u00c7\u0131nar",
@@ -41,6 +43,7 @@
     "mps:longitude":40.254678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u00c7\u0131nar \u0130l\u00e7esi"
     ],
@@ -113,7 +116,7 @@
     "name:tur_x_preferred":[
         "\u00c7\u0131nar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hankp\u0131nar"
     ],
     "name:urd_x_preferred":[
@@ -138,9 +141,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1990",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7inar",
@@ -162,7 +165,7 @@
         "gn:id":318404,
         "gp:id":29390247,
         "hasc:id":"TR.DY.CI",
-        "qs:id":1013030,
+        "qs_pg:id":1013030,
         "wd:id":"Q3423261",
         "wk:page":"\u00c7\u0131nar"
     },
@@ -178,7 +181,7 @@
         }
     ],
     "wof:id":890463353,
-    "wof:lastmodified":1563360941,
+    "wof:lastmodified":1566586203,
     "wof:name":"\u00c7\u0131nar",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

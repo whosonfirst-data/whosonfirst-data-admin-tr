@@ -11,14 +11,18 @@
     "geom:longitude":41.4051,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":640,
+    "gn:population":640,
     "iso:country":"TR",
+    "lbl:bbox":"41.3851,37.93384,41.4251,37.97384",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "G\u00f6kdo\u011fan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Cimzark"
     ],
     "qs:name":"G\u00f6kdo\u011fan",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":314250,
         "gp:id":2343786,
-        "qs:id":547519
+        "qs_pg:id":547519
     },
     "wof:country":"TR",
     "wof:created":1469053481,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890464657,
-    "wof:lastmodified":1505343698,
+    "wof:lastmodified":1566586289,
     "wof:name":"G\u00f6kdo\u011fan",
     "wof:parent_id":1108709683,
     "wof:placetype":"locality",

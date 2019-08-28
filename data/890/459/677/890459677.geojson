@@ -11,10 +11,14 @@
     "geom:longitude":41.62111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":174,
+    "gn:population":174,
     "iso:country":"TR",
+    "lbl:bbox":"41.60111,37.28877,41.64111,37.32877",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Haberli"
     ],
@@ -99,7 +103,7 @@
     "name:tur_x_preferred":[
         "Haberli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bas\u0131birin"
     ],
     "name:vie_x_preferred":[
@@ -123,7 +127,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313179,
-        "qs:id":547487,
+        "qs_pg:id":547487,
         "wd:id":"Q654463",
         "wk:page":"H\u00e4berli"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":890459677,
-    "wof:lastmodified":1563361907,
+    "wof:lastmodified":1566586583,
     "wof:name":"Haberli",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

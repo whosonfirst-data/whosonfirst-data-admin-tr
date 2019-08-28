@@ -11,10 +11,14 @@
     "geom:longitude":37.59583,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":95,
+    "gn:population":95,
     "iso:country":"TR",
+    "lbl:bbox":"37.57583,36.80667,37.61583,36.84667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Karaburun \u0130l\u00e7esi"
     ],
@@ -54,7 +58,7 @@
     "name:tur_x_preferred":[
         "Karaburun"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karaburun K\u00f6y\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -81,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":310202,
-        "qs:id":547435,
+        "qs_pg:id":547435,
         "wk:page":"Karaburun"
     },
     "wof:country":"TR",
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890460929,
-    "wof:lastmodified":1564162877,
+    "wof:lastmodified":1566586474,
     "wof:name":"Karaburun",
     "wof:parent_id":1108709769,
     "wof:placetype":"locality",

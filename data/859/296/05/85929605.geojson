@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5499148.731791,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.82662,39.933752,32.82662,39.933752",
     "geom:latitude":39.933752,
     "geom:longitude":32.82662,
     "gn:latitude":39.93465,
     "gn:longitude":32.81179,
     "iso:country":"TR",
+    "lbl:bbox":"32.82162,39.928752,32.83162,39.938752",
     "lbl:latitude":39.933752,
     "lbl:longitude":32.82662,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.941807,
     "mps:longitude":32.823217,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0415\u043c\u043d\u0456\u0454\u0442-\u0424\u0430\u0442\u0456\u0445"
-    ],
-    "name:unk_x_variant":[
-        "Emniyet"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -66,19 +65,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
         101912789,
-        890462771,
-        85679409
+        890462771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7927142,
         "gp:id":55865333,
-        "qs:id":204706,
         "qs_pg:id":204706
     },
     "wof:country":"TR",
@@ -97,7 +95,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939143,
+    "wof:lastmodified":1566582939,
     "wof:name":"Emniyet",
     "wof:parent_id":101912789,
     "wof:placetype":"neighbourhood",

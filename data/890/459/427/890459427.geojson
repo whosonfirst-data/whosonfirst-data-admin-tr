@@ -11,14 +11,18 @@
     "geom:longitude":41.00861,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":505,
+    "gn:population":505,
     "iso:country":"TR",
+    "lbl:bbox":"40.98861,37.6825,41.02861,37.7225",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Harmantepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karamemo Harabesi"
     ],
     "qs:name":"Harmantepe",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":312539,
-        "qs:id":547478
+        "qs_pg:id":547478
     },
     "wof:country":"TR",
     "wof:created":1469053268,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890459427,
-    "wof:lastmodified":1505343677,
+    "wof:lastmodified":1566586582,
     "wof:name":"Harmantepe",
     "wof:parent_id":1108709869,
     "wof:placetype":"locality",

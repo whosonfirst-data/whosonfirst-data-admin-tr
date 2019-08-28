@@ -11,11 +11,15 @@
     "geom:longitude":27.36223,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":50303,
+    "gn:population":50303,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.34223,38.1319,27.38223,38.1719",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0440\u0431\u0430\u043b\u044b"
     ],
@@ -108,7 +112,7 @@
     "wof:concordances":{
         "gn:id":298935,
         "gp:id":2339430,
-        "qs:id":1256297,
+        "qs_pg:id":1256297,
         "wd:id":"Q1011344",
         "wk:page":"Torbal\u0131"
     },
@@ -125,7 +129,7 @@
         }
     ],
     "wof:id":890461945,
-    "wof:lastmodified":1563361828,
+    "wof:lastmodified":1566586539,
     "wof:name":"Torbal\u0131",
     "wof:parent_id":890463311,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000446,
-    "geom:area_square_m":4426597.907913,
+    "geom:area_square_m":4426597.90791,
     "geom:bbox":"29.1203134965,36.6302125287,29.1591845613,36.6694686976",
     "geom:latitude":36.653519,
     "geom:longitude":29.134978,
     "iso:country":"TR",
     "lbl:latitude":36.655128,
     "lbl:longitude":29.126572,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.655128,
     "mps:longitude":29.126572,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"5",
@@ -30,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -40,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966605,
-        "qs:id":1155445,
         "qs_pg:id":1155445
     },
     "wof:country":"TR",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101912929,
-    "wof:lastmodified":1497298409,
+    "wof:lastmodified":1566586004,
     "wof:name":"Cami",
     "wof:parent_id":890462845,
     "wof:placetype":"locality",

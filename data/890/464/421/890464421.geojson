@@ -11,7 +11,7 @@
     "geom:longitude":43.339448,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.132727,
     "lbl:longitude":43.37144,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Van",
     "meso:admin_1":"Van",
     "meso:gadm_admin":"Erci\u015f",
@@ -41,6 +43,7 @@
     "mps:longitude":43.37144,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0631\u062c\u064a\u0634"
     ],
@@ -158,9 +161,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1876",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Ercis",
@@ -182,7 +185,7 @@
         "gn:id":7733002,
         "gp:id":29390307,
         "hasc:id":"TR.VA.ER",
-        "qs:id":226246,
+        "qs_pg:id":226246,
         "wd:id":"Q695365",
         "wk:page":"Erci\u015f"
     },
@@ -198,7 +201,7 @@
         }
     ],
     "wof:id":890464421,
-    "wof:lastmodified":1563361218,
+    "wof:lastmodified":1566586304,
     "wof:name":"Erci\u015f",
     "wof:parent_id":85679509,
     "wof:placetype":"county",

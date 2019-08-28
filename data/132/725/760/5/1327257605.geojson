@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"38.01712,36.84447,38.05712,36.88447",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ziyaret"
     ],
@@ -41,8 +45,7 @@
         "Ziyaret"
     ],
     "name:und_x_variant":[
-        "Ziyaretk\u00f6y",
-        "Ziyaret"
+        "Ziyaretk\u00f6y"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1327257605,
-    "wof:lastmodified":1564156846,
+    "wof:lastmodified":1566581768,
     "wof:name":"Ziyaret",
     "wof:parent_id":890464331,
     "wof:placetype":"locality",

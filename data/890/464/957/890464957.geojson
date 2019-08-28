@@ -11,11 +11,15 @@
     "geom:longitude":41.84722,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":891,
+    "gn:population":891,
     "iso:country":"TR",
+    "lbl:bbox":"41.82722,37.55556,41.86722,37.59556",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ammara"
     ],
     "qs:name":"Temelli",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299376,
-        "qs:id":547269
+        "qs_pg:id":547269
     },
     "wof:country":"TR",
     "wof:created":1469053493,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890464957,
-    "wof:lastmodified":1505343700,
+    "wof:lastmodified":1566586298,
     "wof:name":"Temelli",
     "wof:parent_id":1108709423,
     "wof:placetype":"locality",

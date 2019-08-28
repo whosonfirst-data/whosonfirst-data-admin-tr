@@ -11,11 +11,14 @@
     "geom:longitude":35.50769,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.50269,37.14672,35.51269,37.15672",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:aze_x_preferred":[
         "Sar\u0131\u00e7am"
     ],
@@ -64,7 +67,7 @@
     "name:tur_x_preferred":[
         "Sar\u0131\u00e7am"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sar\u0131\u00e7ah"
     ],
     "name:urd_x_preferred":[
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":301770,
         "gp:id":55871394,
-        "qs:id":858165,
+        "qs_pg:id":858165,
         "wd:id":"Q1430729",
         "wk:page":"Sar\u0131\u00e7am"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890460569,
-    "wof:lastmodified":1563361486,
+    "wof:lastmodified":1566586421,
     "wof:name":"Sari\u00e7am",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

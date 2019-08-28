@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":37.816713,
     "lbl:longitude":38.431624,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Adiyaman",
     "mps:latitude":37.85651,
     "mps:longitude":38.479579,
@@ -278,15 +279,6 @@
     "name:und_x_colloquial":[
         "Adiyaman"
     ],
-    "name:und_x_preferred":[
-        "Ad\u0131yaman"
-    ],
-    "name:und_x_variant":[
-        "Adiyaman"
-    ],
-    "name:unk_x_variant":[
-        "Ad\u0131yaman"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u062f\u06cc\u0627\u0645\u0627\u0646 \u0635\u0648\u0628\u06c1"
     ],
@@ -380,9 +372,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"7,614",
     "statoids:area_mi":"2,940",
     "statoids:as_of_date":"2007-12-31",
@@ -407,7 +399,7 @@
         "gp:id":2347259,
         "hasc:id":"TR.AD",
         "iso:id":"TR-02",
-        "qs:id":894996,
+        "qs_pg:id":894996,
         "unlc:id":"TR-02",
         "wd:id":"Q43924",
         "wk:page":"Ad\u0131yaman Province"
@@ -428,11 +420,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737380,
+    "wof:lastmodified":1566582981,
     "wof:name":"Adiyaman",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":582762,
     "wof:population_rank":11,

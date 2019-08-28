@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.92905,
     "lbl:longitude":30.032232,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kocaeli",
     "mps:latitude":40.931705,
     "mps:longitude":30.060985,
@@ -156,7 +157,7 @@
         "\u30b3\u30b8\u30e3\u30a8\u30ea\u770c"
     ],
     "name:kan_x_preferred":[
-        "\u0c95\u0ccb\u0c95\u0cc7\u0cb2\u0cbf  \u0caa\u0ccd\u0cb0\u0cbe\u0ce6\u0ca4\u0ccd\u0caf"
+        "\u0c95\u0ccb\u0c95\u0cc7\u0cb2\u0cbf \u0caa\u0ccd\u0cb0\u0cbe\u0ce6\u0ca4\u0ccd\u0caf"
     ],
     "name:kat_x_preferred":[
         "\u10e5\u10dd\u10ef\u10d0\u10d4\u10da\u10d8\u10e1 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
@@ -281,13 +282,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u043e\u0434\u0436\u0430\u0435\u043b\u0456"
     ],
-    "name:und_x_preferred":[
-        "Kocaeli"
-    ],
     "name:und_x_variant":[
-        "Kocaeli"
-    ],
-    "name:unk_x_variant":[
         "Kocaeli Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -383,9 +378,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"3,626",
     "statoids:area_mi":"1,400",
     "statoids:as_of_date":"2007-12-31",
@@ -410,7 +405,7 @@
         "gp:id":2347296,
         "hasc:id":"TR.KC",
         "iso:id":"TR-41",
-        "qs:id":1171194,
+        "qs_pg:id":1171194,
         "unlc:id":"TR-41",
         "wd:id":"Q83965",
         "wk:page":"Kocaeli Province"
@@ -431,11 +426,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737382,
+    "wof:lastmodified":1566582989,
     "wof:name":"Kocaeli",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1437926,
     "wof:population_rank":12,

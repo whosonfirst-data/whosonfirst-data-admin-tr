@@ -11,7 +11,7 @@
     "geom:longitude":35.589872,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":31916,
+    "gn:population":31916,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.280149,
     "lbl:longitude":35.620194,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adana",
     "meso:admin_1":"Adana",
     "meso:gadm_admin":"\u0130mamo\u011flu",
@@ -41,6 +43,7 @@
     "mps:longitude":35.620194,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "\u0130mamo\u011flu"
     ],
@@ -141,9 +144,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"283",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Imamoglu",
@@ -167,7 +170,7 @@
         "gn:id":311453,
         "gp:id":29390890,
         "hasc:id":"TR.AA.IM",
-        "qs:id":211157,
+        "qs_pg:id":211157,
         "wd:id":"Q343879",
         "wk:page":"\u0130mamo\u011flu"
     },
@@ -183,7 +186,7 @@
         }
     ],
     "wof:id":890464285,
-    "wof:lastmodified":1563361230,
+    "wof:lastmodified":1566586310,
     "wof:name":"\u0130mamo\u011flu",
     "wof:parent_id":85679443,
     "wof:placetype":"county",

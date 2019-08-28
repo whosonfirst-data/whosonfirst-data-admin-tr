@@ -11,14 +11,18 @@
     "geom:longitude":41.11459,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":973,
+    "gn:population":973,
     "iso:country":"TR",
+    "lbl:bbox":"41.09459,37.81593,41.13459,37.85593",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Karay\u00fcn"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6h\u00fck\u00e2n"
     ],
     "qs:name":"Karay\u00fcn",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":309182,
         "gp:id":2343786,
-        "qs:id":80075
+        "qs_pg:id":80075
     },
     "wof:country":"TR",
     "wof:created":1469053292,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890459899,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586587,
     "wof:name":"Karay\u00fcn",
     "wof:parent_id":1108709725,
     "wof:placetype":"locality",

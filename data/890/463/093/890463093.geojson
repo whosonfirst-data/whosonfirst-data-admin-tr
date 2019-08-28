@@ -11,11 +11,15 @@
     "geom:longitude":39.72033,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.70033,40.89036,39.74033,40.93036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00c7a\u011flayan"
     ],
@@ -28,7 +32,7 @@
     "name:tur_x_preferred":[
         "\u00c7a\u011flayan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zambur"
     ],
     "name:vie_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":749901,
         "gp:id":2313139,
-        "qs:id":887583,
+        "qs_pg:id":887583,
         "wd:id":"Q4817491",
         "wk:page":"\u00c7a\u011flayan"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890463093,
-    "wof:lastmodified":1563361094,
+    "wof:lastmodified":1566586257,
     "wof:name":"\u00c7a\u011flayan",
     "wof:parent_id":890462779,
     "wof:placetype":"locality",

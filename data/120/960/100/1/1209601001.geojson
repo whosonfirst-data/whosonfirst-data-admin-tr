@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"30.63139,37.02694,30.67139,37.06694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":318337
     },
     "wof:country":"TR",
-    "wof:geomhash":"4ca1295f1563f37ca21491f57b2f2a14",
+    "wof:geomhash":"6d8396ee85d354cf38bf8d550d6e2edf",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209601001,
-    "wof:lastmodified":1536282168,
+    "wof:lastmodified":1566584621,
     "wof:name":"Ciplakli",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.651390000000006,
+    30.65139000000001,
     37.04694,
-    30.651390000000006,
+    30.65139000000001,
     37.04694
 ],
   "geometry": {"coordinates":[30.65139000000001,37.04694],"type":"Point"}

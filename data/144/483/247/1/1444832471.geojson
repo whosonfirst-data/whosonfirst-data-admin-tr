@@ -10,8 +10,10 @@
     "geom:latitude":40.965922,
     "geom:longitude":29.242337,
     "iso:country":"TR",
+    "lbl:bbox":"29.2373370534,40.9609223366,29.2473370534,40.9709223366",
     "lbl:latitude":40.965922,
     "lbl:longitude":29.242337,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709841,
-        85679237
+        1108709841
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832471,
-    "wof:lastmodified":1566339790,
+    "wof:lastmodified":1566584854,
     "wof:name":"Veysel Karani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

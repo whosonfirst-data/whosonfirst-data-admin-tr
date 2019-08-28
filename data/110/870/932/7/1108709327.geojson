@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.612223,
     "lbl:longitude":29.954899,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kocaeli",
     "meso:admin_1":"Kocaeli",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":29.954899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0628\u0627\u0634\u06cc\u0633\u06a9\u0644\u0647"
     ],
@@ -80,7 +83,7 @@
         "\u0628\u0627\u0634\u06cc\u0633\u06a9\u0644\u06d2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":1108709327,
-    "wof:lastmodified":1563359729,
+    "wof:lastmodified":1566585358,
     "wof:name":"Ba\u015fiskele",
     "wof:parent_id":85679241,
     "wof:placetype":"county",

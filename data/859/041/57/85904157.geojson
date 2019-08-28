@@ -12,8 +12,10 @@
     "gn:latitude":38.42313,
     "gn:longitude":27.1611,
     "iso:country":"TR",
+    "lbl:bbox":"27.090398,38.427937,27.100398,38.437937",
     "lbl:latitude":38.432937,
     "lbl:longitude":27.095398,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.429914,
     "mps:longitude":27.086818,
     "mz:hierarchy_label":0,
@@ -41,9 +43,6 @@
         "Tepecik"
     ],
     "name:tur_x_preferred":[
-        "Tepecik"
-    ],
-    "name:unk_x_variant":[
         "Tepecik"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -75,15 +74,13 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":20,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299328,
         "gp:id":2343648,
-        "qs:id":884356,
         "qs_pg:id":884356
     },
     "wof:country":"TR",
@@ -101,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564158346,
+    "wof:lastmodified":1566582912,
     "wof:name":"Tepecik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

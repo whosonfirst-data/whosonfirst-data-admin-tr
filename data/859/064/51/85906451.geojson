@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.004519,
     "lbl:longitude":28.92619,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.009863,
     "mps:longitude":28.922643,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
-        "Canbaziye"
-    ],
-    "name:unk_x_variant":[
         "Canbaziye"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723973,
-        "qs:id":995380
+        "qs_pg:id":995380
     },
     "wof:country":"TR",
     "wof:geomhash":"491d10740cf1e3aa4fe0d7e12d022464",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582925,
     "wof:name":"Canbaziye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

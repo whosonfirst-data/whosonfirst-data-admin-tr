@@ -11,11 +11,14 @@
     "geom:longitude":30.62252,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.61752,39.82479,30.62752,39.83479",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u062c\u0645\u0647\u0648\u0631\u064a\u062a"
     ],
@@ -117,7 +120,7 @@
     "wof:concordances":{
         "gn:id":8245945,
         "gp:id":56042869,
-        "qs:id":908080,
+        "qs_pg:id":908080,
         "wd:id":"Q1143794",
         "wk:page":"Cumhuriyet"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":890459583,
-    "wof:lastmodified":1563361925,
+    "wof:lastmodified":1566586593,
     "wof:name":"Cumhuriyet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

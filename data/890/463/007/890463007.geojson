@@ -11,11 +11,15 @@
     "geom:longitude":29.35278,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":829,
+    "gn:population":829,
     "iso:country":"TR",
+    "lbl:bbox":"29.33278,40.10639,29.37278,40.14639",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kozluviran"
     ],
     "qs:name":"Kozlu\u00f6ren",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":742422,
-        "qs:id":83380
+        "qs_pg:id":83380
     },
     "wof:country":"TR",
     "wof:created":1469053413,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890463007,
-    "wof:lastmodified":1505343692,
+    "wof:lastmodified":1566586220,
     "wof:name":"Kozlu\u00f6ren",
     "wof:parent_id":890462395,
     "wof:placetype":"locality",

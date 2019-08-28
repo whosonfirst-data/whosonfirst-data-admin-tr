@@ -11,7 +11,7 @@
     "geom:longitude":35.92442,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":11753,
+    "gn:population":11753,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.435996,
     "lbl:longitude":35.867767,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kayseri",
     "meso:admin_1":"Kayseri",
     "meso:gadm_admin":"Tomarza",
@@ -41,6 +43,7 @@
     "mps:longitude":35.867767,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tomarza"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Tomarza"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goztere"
     ],
     "name:urd_x_preferred":[
@@ -111,9 +114,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1485",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tomarza",
@@ -135,7 +138,7 @@
         "gn:id":299054,
         "gp:id":29390816,
         "hasc:id":"TR.KY.TO",
-        "qs:id":887126,
+        "qs_pg:id":887126,
         "wd:id":"Q1018553",
         "wk:page":"Tomarza"
     },
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":890461117,
-    "wof:lastmodified":1563361748,
+    "wof:lastmodified":1566586513,
     "wof:name":"Tomarza",
     "wof:parent_id":85679321,
     "wof:placetype":"county",

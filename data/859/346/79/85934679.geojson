@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7917222.579874,
+    "geom:area_square_m":0.0,
     "geom:bbox":"31.417122,36.773953,31.417122,36.773953",
     "geom:latitude":36.773953,
     "geom:longitude":31.417122,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"31.412122,36.768953,31.422122,36.778953",
     "lbl:latitude":36.773953,
     "lbl:longitude":31.417122,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.768762,
     "mps:longitude":31.413781,
     "mz:hierarchy_label":0,
@@ -54,10 +56,7 @@
     "name:spa_x_preferred":[
         "Emre Ayd\u0131n"
     ],
-    "name:und_x_preferred":[
-        "Aydin Evler"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aydin Evler"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -88,17 +87,16 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
-        890464359,
-        85679263
+        890464359
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966510,
-        "qs:id":1199583,
         "qs_pg:id":1199583
     },
     "wof:country":"TR",
@@ -117,7 +115,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939798,
+    "wof:lastmodified":1566582929,
     "wof:name":"Aydin Evler",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

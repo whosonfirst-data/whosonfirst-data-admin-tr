@@ -11,10 +11,14 @@
     "geom:longitude":29.10806,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2000,
+    "gn:population":2000,
     "iso:country":"TR",
+    "lbl:bbox":"29.08806,38.24972,29.12806,38.28972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "G\u00fcll\u00fc"
     ],
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":313713,
         "gp:id":56558381,
-        "qs:id":80085,
+        "qs_pg:id":80085,
         "wd:id":"Q1560136"
     },
     "wof:country":"TR",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890459913,
-    "wof:lastmodified":1561769305,
+    "wof:lastmodified":1566586570,
     "wof:name":"G\u00fcll\u00fc",
     "wof:parent_id":1108709467,
     "wof:placetype":"locality",

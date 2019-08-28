@@ -11,14 +11,18 @@
     "geom:longitude":37.54227,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":623,
+    "gn:population":623,
     "iso:country":"TR",
+    "lbl:bbox":"37.52227,36.87573,37.56227,36.91573",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Yakac\u0131k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ziramba"
     ],
     "qs:name":"Yakac\u0131k",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":297898,
-        "qs:id":203835
+        "qs_pg:id":203835
     },
     "wof:country":"TR",
     "wof:created":1469053262,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890459335,
-    "wof:lastmodified":1564162957,
+    "wof:lastmodified":1566586574,
     "wof:name":"Yakac\u0131k",
     "wof:parent_id":1108709769,
     "wof:placetype":"locality",

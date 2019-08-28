@@ -11,11 +11,15 @@
     "geom:longitude":29.96768,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":2588,
+    "gn:population":2588,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.94768,38.55824,29.98768,38.59824",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Hocalar"
     ],
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":311994,
         "gp:id":2323454,
-        "qs:id":257755,
+        "qs_pg:id":257755,
         "wd:id":"Q2672697",
         "wk:page":"Hocalar"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890464687,
-    "wof:lastmodified":1563361155,
+    "wof:lastmodified":1566586280,
     "wof:name":"Hocalar",
     "wof:parent_id":1108709591,
     "wof:placetype":"locality",

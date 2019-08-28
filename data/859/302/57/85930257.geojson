@@ -12,6 +12,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.008799,
     "lbl:longitude":29.15723,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.008921,
     "mps:longitude":29.15663,
     "mz:hierarchy_label":1,
@@ -30,12 +31,9 @@
     "name:tur_x_variant":[
         "Yukar\u0131dudullu"
     ],
-    "name:und_x_preferred":[
-        "Yukari Dudullu"
-    ],
-    "name:unk_x_variant":[
-        "Dudullu",
-        "Yukari Dudullu"
+    "name:und_x_variant":[
+        "Yukari Dudullu",
+        "Dudullu"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPL",
@@ -76,7 +74,6 @@
     "wof:concordances":{
         "gn:id":737346,
         "gp:id":55871454,
-        "qs:id":1078843,
         "qs_pg:id":1078843
     },
     "wof:country":"TR",
@@ -94,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582932,
     "wof:name":"Yukari Dudullu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

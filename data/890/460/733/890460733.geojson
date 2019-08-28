@@ -11,7 +11,7 @@
     "geom:longitude":39.387776,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":175341,
+    "gn:population":175341,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.64632,
     "lbl:longitude":39.477477,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sanliurfa",
     "meso:admin_1":"Sanliurfa",
     "meso:gadm_admin":"Siverek",
@@ -41,6 +43,7 @@
     "mps:longitude":39.477477,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Siverek"
     ],
@@ -62,7 +65,7 @@
     "name:spa_x_preferred":[
         "Siverek"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suverek"
     ],
     "qs:name":"Siverek",
@@ -78,9 +81,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"4367",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Siverek",
@@ -104,7 +107,7 @@
         "gn:id":300614,
         "gp:id":29390760,
         "hasc:id":"TR.SU.SI",
-        "qs:id":124088,
+        "qs_pg:id":124088,
         "wd:id":"Q3379626",
         "wk:page":"Siverek"
     },
@@ -120,7 +123,7 @@
         }
     ],
     "wof:id":890460733,
-    "wof:lastmodified":1561769287,
+    "wof:lastmodified":1566586453,
     "wof:name":"Siverek",
     "wof:parent_id":85679441,
     "wof:placetype":"county",

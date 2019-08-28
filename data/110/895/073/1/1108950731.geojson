@@ -10,8 +10,10 @@
     "geom:latitude":41.038465,
     "geom:longitude":28.756148,
     "iso:country":"TR",
+    "lbl:bbox":"28.75114809,41.0334650635,28.76114809,41.0434650635",
     "lbl:latitude":41.038465,
     "lbl:longitude":28.756148,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -99,7 +101,7 @@
     "name:war_x_preferred":[
         "Yar\u0131mburgaz"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -125,7 +127,7 @@
         }
     ],
     "wof:id":1108950731,
-    "wof:lastmodified":1563359590,
+    "wof:lastmodified":1566585295,
     "wof:name":"Yarimburgaz",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

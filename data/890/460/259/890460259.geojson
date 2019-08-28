@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":40.686718,
     "lbl:longitude":27.114387,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tekirdag",
     "meso:admin_1":"Tekirdag",
     "meso:gadm_admin":"\u015eark\u00f6y",
@@ -38,6 +40,7 @@
     "mps:longitude":27.114387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0634\u0627\u0631\u06a9\u0648\u06cc"
     ],
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"555",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Sark\u00f6y",
@@ -148,7 +151,7 @@
     "wof:concordances":{
         "gp:id":29390790,
         "hasc:id":"TR.TG.SK",
-        "qs:id":469867,
+        "qs_pg:id":469867,
         "wd:id":"Q388544",
         "wk:page":"\u015eark\u00f6y"
     },
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":890460259,
-    "wof:lastmodified":1563361530,
+    "wof:lastmodified":1566586437,
     "wof:name":"\u015eark\u00f6y",
     "wof:parent_id":85679223,
     "wof:placetype":"county",

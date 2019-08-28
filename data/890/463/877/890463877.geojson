@@ -11,10 +11,14 @@
     "geom:longitude":27.78389,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":43193,
+    "gn:population":43193,
     "iso:country":"TR",
+    "lbl:bbox":"27.76389,37.29639,27.80389,37.33639",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u0644\u0627\u0633"
     ],
@@ -117,7 +121,7 @@
     "name:tur_x_preferred":[
         "Milas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mylasa"
     ],
     "name:urd_x_preferred":[
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":304355,
         "gp:id":2344268,
-        "qs:id":204568,
+        "qs_pg:id":204568,
         "wd:id":"Q924252",
         "wk:page":"Milas"
     },
@@ -162,7 +166,7 @@
         }
     ],
     "wof:id":890463877,
-    "wof:lastmodified":1563361058,
+    "wof:lastmodified":1566586243,
     "wof:name":"Milas",
     "wof:parent_id":890462233,
     "wof:placetype":"locality",

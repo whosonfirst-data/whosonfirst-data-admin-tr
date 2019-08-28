@@ -11,7 +11,7 @@
     "geom:longitude":39.403086,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.061326,
     "lbl:longitude":39.395548,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Trabzon",
     "meso:admin_1":"Trabzon",
     "meso:gadm_admin":"\u00c7ar\u015f\u0131ba\u015f\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":39.395548,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u00c7ar\u015f\u0131ba\u015f\u0131"
     ],
@@ -111,9 +114,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"67",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7arsibasi",
@@ -135,7 +138,7 @@
         "gn:id":7732995,
         "gp:id":29390204,
         "hasc:id":"TR.TB.CB",
-        "qs:id":1160850,
+        "qs_pg:id":1160850,
         "wd:id":"Q2901047",
         "wk:page":"\u00c7ar\u015f\u0131ba\u015f\u0131"
     },
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":890462825,
-    "wof:lastmodified":1563361443,
+    "wof:lastmodified":1566586403,
     "wof:name":"\u00c7ar\u015f\u0131ba\u015f\u0131",
     "wof:parent_id":85679383,
     "wof:placetype":"county",

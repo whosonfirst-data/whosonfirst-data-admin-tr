@@ -10,8 +10,10 @@
     "geom:latitude":40.982172,
     "geom:longitude":29.145889,
     "iso:country":"TR",
+    "lbl:bbox":"29.1408893278,40.9771717769,29.1508893278,40.9871717769",
     "lbl:latitude":40.982172,
     "lbl:longitude":29.145889,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709303,
-        85679237
+        1108709303
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831073,
-    "wof:lastmodified":1566339624,
+    "wof:lastmodified":1566584847,
     "wof:name":"Kay\u0131\u015fda\u011f\u0131",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

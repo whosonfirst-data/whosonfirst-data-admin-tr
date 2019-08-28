@@ -10,8 +10,10 @@
     "geom:latitude":41.014627,
     "geom:longitude":28.959732,
     "iso:country":"TR",
+    "lbl:bbox":"28.9547316121,41.0096266109,28.9647316121,41.0196266109",
     "lbl:latitude":41.014627,
     "lbl:longitude":28.959732,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -39,7 +41,7 @@
     "name:tur_x_preferred":[
         "Vefa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1108950241,
-    "wof:lastmodified":1563359538,
+    "wof:lastmodified":1566585269,
     "wof:name":"Vefa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

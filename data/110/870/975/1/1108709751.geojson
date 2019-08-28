@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.909521,
     "lbl:longitude":34.385377,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":34.385377,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mezitli \u0130l\u00e7esi"
     ],
@@ -101,7 +104,7 @@
         "\u0645\u06cc\u0632\u06cc\u062a\u0644\u06cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108709751,
-    "wof:lastmodified":1563359790,
+    "wof:lastmodified":1566585382,
     "wof:name":"Mezitli",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

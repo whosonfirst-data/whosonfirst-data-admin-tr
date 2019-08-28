@@ -11,11 +11,15 @@
     "geom:longitude":36.21588,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"36.19588,36.73755,36.23588,36.77755",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0627\u0633"
     ],
@@ -70,7 +74,7 @@
     "name:tur_x_variant":[
         "Payas"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karacami"
     ],
     "name:urd_x_preferred":[
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":297899,
         "gp:id":2344487,
-        "qs:id":322828,
+        "qs_pg:id":322828,
         "wd:id":"Q2674278"
     },
     "wof:country":"TR",
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890461065,
-    "wof:lastmodified":1563361704,
+    "wof:lastmodified":1566586496,
     "wof:name":"Yakac\u0131k",
     "wof:parent_id":1108709463,
     "wof:placetype":"locality",

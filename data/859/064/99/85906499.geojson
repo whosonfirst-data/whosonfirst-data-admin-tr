@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.00322,
     "lbl:longitude":28.97438,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.003012,
     "mps:longitude":28.974116,
     "mz:hierarchy_label":1,
@@ -32,12 +33,6 @@
         "K\u00fc\u00e7\u00fck Ayasofya"
     ],
     "name:tur_x_preferred":[
-        "K\u00fc\u00e7\u00fck Ayasofya"
-    ],
-    "name:und_x_preferred":[
-        "K\u00fc\u00e7\u00fck Ayasofya"
-    ],
-    "name:unk_x_variant":[
         "K\u00fc\u00e7\u00fck Ayasofya"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -75,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724031,
-        "qs:id":1087530
+        "qs_pg:id":1087530
     },
     "wof:country":"TR",
     "wof:geomhash":"03e79b2c2ae0725041751eb234717c7e",
@@ -92,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247577,
+    "wof:lastmodified":1566582927,
     "wof:name":"Kucuk Ayasofya",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

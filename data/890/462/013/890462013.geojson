@@ -11,7 +11,7 @@
     "geom:longitude":31.306761,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":20063,
+    "gn:population":20063,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.018473,
     "lbl:longitude":31.300756,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Afyon",
     "meso:admin_1":"Afyon",
     "meso:gadm_admin":"Emirda\u011f",
@@ -41,6 +43,7 @@
     "mps:longitude":31.300756,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Emirdag"
     ],
@@ -65,7 +68,7 @@
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u0645\u06cc\u0631\u062f\u0627\u06af"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aziziye"
     ],
     "name:zho_x_preferred":[
@@ -84,9 +87,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2048",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Emirdag",
@@ -111,7 +114,7 @@
         "gn:id":315621,
         "gp:id":29390304,
         "hasc:id":"TR.AF.EM",
-        "qs:id":946153,
+        "qs_pg:id":946153,
         "wd:id":"Q18433361",
         "wk:page":"Emirda\u011f"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890462013,
-    "wof:lastmodified":1561769273,
+    "wof:lastmodified":1566586370,
     "wof:name":"Emirda\u011f",
     "wof:parent_id":85679267,
     "wof:placetype":"county",

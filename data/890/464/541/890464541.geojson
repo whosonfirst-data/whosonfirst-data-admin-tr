@@ -11,11 +11,15 @@
     "geom:longitude":29.05,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.03,41.14667,29.07,41.18667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Sar\u0131yer rayonu"
     ],
@@ -100,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0441\u0430\u0440'\u0454\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sari-yar"
     ],
     "name:urd_x_preferred":[
@@ -135,7 +139,7 @@
     "wof:concordances":{
         "gn:id":740006,
         "gp:id":2344367,
-        "qs:id":240031,
+        "qs_pg:id":240031,
         "wd:id":"Q857107",
         "wk:page":"Sar\u0131yer"
     },
@@ -152,7 +156,7 @@
         }
     ],
     "wof:id":890464541,
-    "wof:lastmodified":1563361265,
+    "wof:lastmodified":1566586323,
     "wof:name":"Sar\u0131yer",
     "wof:parent_id":890463467,
     "wof:placetype":"locality",

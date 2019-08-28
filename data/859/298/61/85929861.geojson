@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.022191,
     "lbl:longitude":28.58081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.021355,
     "mps:longitude":28.574691,
     "mz:hierarchy_label":1,
@@ -100,9 +101,6 @@
     "name:tur_x_preferred":[
         "Dizdariye"
     ],
-    "name:und_x_preferred":[
-        "Dizdariye"
-    ],
     "name:war_x_preferred":[
         "Dizdariye"
     ],
@@ -119,7 +117,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870855,
-        "qs:id":1031259,
+        "qs_pg:id":1031259,
         "wd:id":"Q6069583"
     },
     "wof:country":"TR",
@@ -137,7 +135,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247579,
+    "wof:lastmodified":1566582935,
     "wof:name":"Dizdariye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":35.49472,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":10585,
+    "gn:population":10585,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.47472,40.05306,35.51472,40.09306",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "\u00c7ekerek \u0130l\u00e7esi"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0435\u043a\u0435\u0440\u0435\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hac\u0131k\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -104,7 +108,7 @@
     "wof:concordances":{
         "gn:id":749392,
         "gp:id":2343879,
-        "qs:id":466606,
+        "qs_pg:id":466606,
         "wd:id":"Q763824",
         "wk:page":"\u00c7ekerek"
     },
@@ -121,7 +125,7 @@
         }
     ],
     "wof:id":890460245,
-    "wof:lastmodified":1563361514,
+    "wof:lastmodified":1566586432,
     "wof:name":"\u00c7ekerek",
     "wof:parent_id":1108710049,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":42.91361,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1996,
+    "gn:population":1996,
     "iso:country":"TR",
+    "lbl:bbox":"42.89361,37.37583,42.93361,37.41583",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "G\u00fcrur"
     ],
     "qs:name":"Ortaba\u011f",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":303357,
-        "qs:id":547348
+        "qs_pg:id":547348
     },
     "wof:country":"TR",
     "wof:created":1469053499,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465063,
-    "wof:lastmodified":1505343701,
+    "wof:lastmodified":1566586336,
     "wof:name":"Ortaba\u011f",
     "wof:parent_id":890462089,
     "wof:placetype":"locality",

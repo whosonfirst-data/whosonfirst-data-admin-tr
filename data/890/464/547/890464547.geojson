@@ -11,11 +11,15 @@
     "geom:longitude":28.47715,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11949,
+    "gn:population":11949,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.45715,41.00107,28.49715,41.04107",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:tur_x_preferred":[
         "Kumburgaz"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":742266,
         "gp:id":2330991,
-        "qs:id":241532
+        "qs_pg:id":241532
     },
     "wof:country":"TR",
     "wof:created":1469053476,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890464547,
-    "wof:lastmodified":1505343698,
+    "wof:lastmodified":1566586320,
     "wof:name":"Kumburgaz",
     "wof:parent_id":890462459,
     "wof:placetype":"locality",

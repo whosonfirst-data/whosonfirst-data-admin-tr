@@ -11,14 +11,18 @@
     "geom:longitude":41.59547,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":336,
+    "gn:population":336,
     "iso:country":"TR",
+    "lbl:bbox":"41.57547,37.26444,41.61547,37.30444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Ma\u011farak\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kivah"
     ],
     "qs:name":"Ma\u011farak\u00f6y",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":307432,
-        "qs:id":80066
+        "qs_pg:id":80066
     },
     "wof:country":"TR",
     "wof:created":1469053286,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890459889,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586554,
     "wof:name":"Ma\u011farak\u00f6y",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

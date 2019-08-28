@@ -10,8 +10,10 @@
     "geom:latitude":40.898268,
     "geom:longitude":29.21058,
     "iso:country":"TR",
+    "lbl:bbox":"29.2055796827,40.8932684717,29.2155796827,40.9032684717",
     "lbl:latitude":40.898268,
     "lbl:longitude":29.21058,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462523,
-        85679237
+        890462523
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832599,
-    "wof:lastmodified":1566339805,
+    "wof:lastmodified":1566584835,
     "wof:name":"Topselvi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

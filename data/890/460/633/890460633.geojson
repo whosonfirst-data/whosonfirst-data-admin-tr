@@ -11,11 +11,14 @@
     "geom:longitude":32.80716,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"32.80216,39.93641,32.81216,39.94641",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Gazi",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Ankara",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":7927125,
         "gp:id":55865099,
-        "qs:id":1193502
+        "qs_pg:id":1193502
     },
     "wof:country":"TR",
     "wof:created":1469053322,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890460633,
-    "wof:lastmodified":1505343683,
+    "wof:lastmodified":1566586437,
     "wof:name":"Gazi",
     "wof:parent_id":101912789,
     "wof:placetype":"neighbourhood",

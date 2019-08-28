@@ -11,7 +11,7 @@
     "geom:longitude":29.361662,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.780683,
     "lbl:longitude":29.359237,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Denizli",
     "meso:admin_1":"Denizli",
     "meso:gadm_admin":"Honaz",
@@ -41,6 +43,7 @@
     "mps:longitude":29.359237,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Honaz"
     ],
@@ -119,9 +122,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"497",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Honaz",
@@ -143,7 +146,7 @@
         "gn:id":7732360,
         "gp:id":29390429,
         "hasc:id":"TR.DN.HO",
-        "qs:id":32457,
+        "qs_pg:id":32457,
         "wd:id":"Q1023136",
         "wk:page":"Honaz"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890461523,
-    "wof:lastmodified":1563361835,
+    "wof:lastmodified":1566586542,
     "wof:name":"Honaz",
     "wof:parent_id":85679277,
     "wof:placetype":"county",

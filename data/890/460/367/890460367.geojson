@@ -11,10 +11,14 @@
     "geom:longitude":30.01417,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":15708,
+    "gn:population":15708,
     "iso:country":"TR",
+    "lbl:bbox":"29.99417,40.33722,30.03417,40.37722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0639\u062b\u0645\u0627\u0646 \u0627\u0626\u0644\u06cc"
     ],
@@ -72,7 +76,7 @@
     "name:tur_x_preferred":[
         "Osmaneli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lefke"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":740881,
         "gp:id":2344310,
-        "qs:id":1030192,
+        "qs_pg:id":1030192,
         "wd:id":"Q736759",
         "wk:page":"Osmaneli"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890460367,
-    "wof:lastmodified":1563361590,
+    "wof:lastmodified":1566586457,
     "wof:name":"Osmaneli",
     "wof:parent_id":1108709787,
     "wof:placetype":"locality",

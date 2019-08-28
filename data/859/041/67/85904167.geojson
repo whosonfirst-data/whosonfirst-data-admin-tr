@@ -12,6 +12,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.003003,
     "lbl:longitude":28.951966,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.996857,
     "mps:longitude":28.954296,
     "mz:hierarchy_label":1,
@@ -48,13 +49,6 @@
     "name:und_x_colloquial":[
         "Yenikapi"
     ],
-    "name:und_x_preferred":[
-        "Yenikap\u0131"
-    ],
-    "name:unk_x_variant":[
-        "Yenikap\u0131",
-        "Yenikap\u0131"
-    ],
     "name:zho_x_preferred":[
         "\u8036\u5c3c\u5361\u76ae"
     ],
@@ -86,7 +80,6 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mz",
     "wd:wordcount":501,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85679237,
@@ -97,7 +90,7 @@
     "wof:concordances":{
         "gn:id":737687,
         "gp:id":2343660,
-        "qs:id":1171069,
+        "qs_pg:id":1171069,
         "wd:id":"Q4824801",
         "wk:page":"Yenikap\u0131"
     },
@@ -116,7 +109,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582913,
     "wof:name":"Yenikapi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

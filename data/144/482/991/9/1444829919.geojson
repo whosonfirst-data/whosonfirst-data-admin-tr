@@ -10,8 +10,10 @@
     "geom:latitude":41.37487,
     "geom:longitude":28.205595,
     "iso:country":"TR",
+    "lbl:bbox":"28.2005953985,41.3698695935,28.2105953985,41.3798695935",
     "lbl:latitude":41.37487,
     "lbl:longitude":28.205595,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462087,
-        85679237
+        890462087
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829919,
-    "wof:lastmodified":1566339490,
+    "wof:lastmodified":1566584817,
     "wof:name":"Aydinlar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

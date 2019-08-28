@@ -11,7 +11,7 @@
     "geom:longitude":27.498994,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.055545,
     "lbl:longitude":27.549427,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Mugla",
     "meso:admin_1":"Mugla",
     "meso:gadm_admin":"Bodrum",
@@ -41,6 +43,7 @@
     "mps:longitude":27.549427,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Halikarnassos"
     ],
@@ -239,9 +242,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"656",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Bodrum",
@@ -263,7 +266,7 @@
         "gn:id":7733242,
         "gp:id":29390164,
         "hasc:id":"TR.MG.BO",
-        "qs:id":1081948,
+        "qs_pg:id":1081948,
         "wd:id":"Q172267",
         "wk:page":"Bodrum"
     },
@@ -279,7 +282,7 @@
         }
     ],
     "wof:id":890462453,
-    "wof:lastmodified":1563361382,
+    "wof:lastmodified":1566586379,
     "wof:name":"Bodrum",
     "wof:parent_id":85679291,
     "wof:placetype":"county",

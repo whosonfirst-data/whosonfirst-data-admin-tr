@@ -11,11 +11,15 @@
     "geom:longitude":42.18169,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":498,
+    "gn:population":498,
     "iso:country":"TR",
+    "lbl:bbox":"42.16169,37.93511,42.20169,37.97511",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mavit"
     ],
     "qs:name":"Pirin\u00e7li",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":302570,
-        "qs:id":547315
+        "qs_pg:id":547315
     },
     "wof:country":"TR",
     "wof:created":1469053496,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465025,
-    "wof:lastmodified":1505343701,
+    "wof:lastmodified":1566586332,
     "wof:name":"Pirin\u00e7li",
     "wof:parent_id":890463401,
     "wof:placetype":"locality",

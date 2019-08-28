@@ -10,8 +10,10 @@
     "geom:latitude":41.038704,
     "geom:longitude":28.975528,
     "iso:country":"TR",
+    "lbl:bbox":"28.9705276598,41.0337041624,28.9805276598,41.0437041624",
     "lbl:latitude":41.038704,
     "lbl:longitude":28.975528,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -57,7 +59,7 @@
     "name:urd_x_preferred":[
         "\u0628\u0648\u0633\u062a\u0627\u0646"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -68,7 +70,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724086,
-        "qs:id":14476,
+        "qs_pg:id":14476,
         "wk:page":"Bostan"
     },
     "wof:country":"TR",
@@ -85,7 +87,7 @@
         }
     ],
     "wof:id":1108950389,
-    "wof:lastmodified":1564161426,
+    "wof:lastmodified":1566585285,
     "wof:name":"Bostan",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

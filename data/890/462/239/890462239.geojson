@@ -11,11 +11,15 @@
     "geom:longitude":38.91722,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3718,
+    "gn:population":3718,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"38.89722,40.7875,38.93722,40.8275",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Do\u011fankent \u0130l\u00e7esi"
     ],
@@ -58,7 +62,7 @@
     "name:tur_x_preferred":[
         "Do\u011fankent"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Manast\u0131rb\u00fck\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":748008,
         "gp:id":2317806,
-        "qs:id":1310350,
+        "qs_pg:id":1310350,
         "wd:id":"Q1253669",
         "wk:page":"Do\u011fankent"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":890462239,
-    "wof:lastmodified":1563361455,
+    "wof:lastmodified":1566586408,
     "wof:name":"Do\u011fankent",
     "wof:parent_id":1108709447,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":42.43833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1002,
+    "gn:population":1002,
     "iso:country":"TR",
+    "lbl:bbox":"42.41833,37.72111,42.45833,37.76111",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tiri"
     ],
     "qs:name":"Ok\u00e7ular",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":303626,
-        "qs:id":80039
+        "qs_pg:id":80039
     },
     "wof:country":"TR",
     "wof:created":1469053484,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890464715,
-    "wof:lastmodified":1505343699,
+    "wof:lastmodified":1566586293,
     "wof:name":"Ok\u00e7ular",
     "wof:parent_id":890461169,
     "wof:placetype":"locality",

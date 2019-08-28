@@ -10,8 +10,10 @@
     "geom:latitude":41.048396,
     "geom:longitude":28.981033,
     "iso:country":"TR",
+    "lbl:bbox":"28.9760330043,41.0433961392,28.9860330043,41.0533961392",
     "lbl:latitude":41.048396,
     "lbl:longitude":28.981033,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -42,7 +44,7 @@
     "name:tur_x_preferred":[
         "Kurtulu\u015f"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1108950047,
-    "wof:lastmodified":1563359610,
+    "wof:lastmodified":1566585306,
     "wof:name":"Kurtulus",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

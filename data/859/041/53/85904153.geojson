@@ -9,14 +9,15 @@
     "geom:bbox":"28.9760363203,41.0094388798,29.001159668,41.0234272725",
     "geom:latitude":41.016294,
     "geom:longitude":28.987368,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":41.01527,
     "gn:longitude":28.98271,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":41.014952,
     "lbl:longitude":28.975453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.019246,
     "mps:longitude":28.979781,
     "mz:hierarchy_label":1,
@@ -70,9 +71,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0440\u043a\u0435\u0434\u0436\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Sirkeci"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -131,7 +129,6 @@
     "wof:concordances":{
         "gn:id":739560,
         "gp:id":2343641,
-        "qs:id":461447,
         "qs_pg:id":461447,
         "wd:id":"Q935953",
         "wk:page":"Sirkeci"
@@ -151,7 +148,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582915,
     "wof:name":"Sirkeci",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

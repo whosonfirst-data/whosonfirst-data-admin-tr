@@ -11,7 +11,7 @@
     "geom:longitude":36.130504,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.937482,
     "lbl:longitude":36.083773,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Hatay",
     "meso:admin_1":"Hatay",
     "meso:gadm_admin":"Erzin",
@@ -41,6 +43,7 @@
     "mps:longitude":36.083773,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0625\u0631\u0632\u0646"
     ],
@@ -110,7 +113,7 @@
     "name:tur_x_preferred":[
         "Erzin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Erzin \u0130l\u00e7esi"
     ],
     "name:urd_x_preferred":[
@@ -140,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"358",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Erzin",
@@ -164,7 +167,7 @@
         "gn:id":436926,
         "gp:id":29390316,
         "hasc:id":"TR.HT.ER",
-        "qs:id":69972,
+        "qs_pg:id":69972,
         "wd:id":"Q1012929",
         "wk:page":"Erzin"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890462739,
-    "wof:lastmodified":1563361331,
+    "wof:lastmodified":1566586360,
     "wof:name":"Erzin",
     "wof:parent_id":85679331,
     "wof:placetype":"county",

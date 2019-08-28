@@ -11,10 +11,14 @@
     "geom:longitude":29.48111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2033,
+    "gn:population":2033,
     "iso:country":"TR",
+    "lbl:bbox":"29.46111,40.36583,29.50111,40.40583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0646\u0627\u0631\u0644\u06cc\u062c\u0627"
     ],
@@ -57,7 +61,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":741335,
-        "qs:id":83358,
+        "qs_pg:id":83358,
         "wk:page":"Narl\u0131ca"
     },
     "wof:country":"TR",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890462983,
-    "wof:lastmodified":1564162812,
+    "wof:lastmodified":1566586381,
     "wof:name":"Narl\u0131ca",
     "wof:parent_id":890464593,
     "wof:placetype":"locality",

@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":41.063654,
     "lbl:longitude":28.958112,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.063654,
     "mps:longitude":28.958112,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Oxmeydan\u0131"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":194,
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":7732576,
         "gp:id":22724144,
-        "qs:id":1262744,
         "qs_pg:id":1262744,
         "wd:id":"Q12811225"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101913185,
-    "wof:lastmodified":1563360651,
+    "wof:lastmodified":1566586008,
     "wof:name":"Okmeydani",
     "wof:parent_id":890461447,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":41.038588,
     "geom:longitude":28.519046,
     "iso:country":"TR",
+    "lbl:bbox":"28.5140456225,41.0335877481,28.5240456225,41.0435877481",
     "lbl:latitude":41.038588,
     "lbl:longitude":28.519046,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462459,
-        85679237
+        890462459
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829457,
-    "wof:lastmodified":1566339436,
+    "wof:lastmodified":1566584823,
     "wof:name":"Turkoba",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

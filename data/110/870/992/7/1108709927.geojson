@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.062834,
     "lbl:longitude":34.429764,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":34.429764,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Toroslar"
     ],
@@ -86,7 +89,7 @@
         "\u062a\u0648\u0631\u0648\u0633\u0644\u0627\u0631"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108709927,
-    "wof:lastmodified":1563359725,
+    "wof:lastmodified":1566585356,
     "wof:name":"Toroslar",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

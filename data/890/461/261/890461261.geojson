@@ -11,10 +11,14 @@
     "geom:longitude":39.17533,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":4631,
+    "gn:population":4631,
     "iso:country":"TR",
+    "lbl:bbox":"39.15533,40.22432,39.19533,40.26432",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:fra_x_preferred":[
         "Evren"
     ],
@@ -24,7 +28,7 @@
     "name:tur_x_preferred":[
         "Evren"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sefker"
     ],
     "qs:name":"Evren",
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":747217,
         "gp:id":2344520,
-        "qs:id":370074,
+        "qs_pg:id":370074,
         "wk:page":"Evren"
     },
     "wof:country":"TR",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":890461261,
-    "wof:lastmodified":1564162891,
+    "wof:lastmodified":1566586498,
     "wof:name":"Evren",
     "wof:parent_id":890461585,
     "wof:placetype":"locality",

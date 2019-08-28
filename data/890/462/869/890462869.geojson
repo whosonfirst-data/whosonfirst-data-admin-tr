@@ -11,11 +11,15 @@
     "geom:longitude":26.94694,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.92694,39.59583,26.96694,39.63583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Zeytinli"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":295913,
         "gp:id":2343411,
-        "qs:id":1168863
+        "qs_pg:id":1168863
     },
     "wof:country":"TR",
     "wof:created":1469053406,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890462869,
-    "wof:lastmodified":1505343691,
+    "wof:lastmodified":1566586377,
     "wof:name":"Zeytinli",
     "wof:parent_id":890462487,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":29.712929,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.769928,
     "lbl:longitude":29.755109,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Denizli",
     "meso:admin_1":"Denizli",
     "meso:gadm_admin":"\u00c7ardak",
@@ -41,6 +43,7 @@
     "mps:longitude":29.755109,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u00c7ardak"
     ],
@@ -110,9 +113,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"323",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7ardak",
@@ -134,7 +137,7 @@
         "gn:id":7732353,
         "gp:id":29390202,
         "hasc:id":"TR.DN.CK",
-        "qs:id":988250,
+        "qs_pg:id":988250,
         "wd:id":"Q272634",
         "wk:page":"\u00c7ardak"
     },
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":890462113,
-    "wof:lastmodified":1563361479,
+    "wof:lastmodified":1566586417,
     "wof:name":"\u00c7ardak",
     "wof:parent_id":85679277,
     "wof:placetype":"county",

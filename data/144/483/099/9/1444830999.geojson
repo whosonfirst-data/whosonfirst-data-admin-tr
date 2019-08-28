@@ -10,8 +10,10 @@
     "geom:latitude":41.001866,
     "geom:longitude":29.095249,
     "iso:country":"TR",
+    "lbl:bbox":"29.0902491961,40.9968664527,29.1002491961,41.0068664527",
     "lbl:latitude":41.001866,
     "lbl:longitude":29.095249,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912641,
-        890462627,
-        85679237
+        890462627
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444830999,
-    "wof:lastmodified":1566339615,
+    "wof:lastmodified":1566584837,
     "wof:name":"Mustafa Kemal",
     "wof:parent_id":101912641,
     "wof:placetype":"neighbourhood",

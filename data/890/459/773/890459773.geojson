@@ -11,11 +11,15 @@
     "geom:longitude":34.38924,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":282,
+    "gn:population":282,
     "iso:country":"TR",
+    "lbl:bbox":"34.36924,37.4076,34.40924,37.4476",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yass\u0131kaya K\u00f6y\u00fc"
     ],
     "qs:name":"Yass\u0131kaya",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":297582,
-        "qs:id":79999
+        "qs_pg:id":79999
     },
     "wof:country":"TR",
     "wof:created":1469053281,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459773,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586592,
     "wof:name":"Yass\u0131kaya",
     "wof:parent_id":1108709557,
     "wof:placetype":"locality",

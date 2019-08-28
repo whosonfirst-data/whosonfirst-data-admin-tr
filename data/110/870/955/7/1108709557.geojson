@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.389947,
     "lbl:longitude":34.259146,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Konya",
     "meso:admin_1":"Konya",
     "meso:gadm_admin":"Halkap\u0131nar",
@@ -37,6 +39,7 @@
     "mps:longitude":34.259146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Halkapinar"
     ],
@@ -50,9 +53,9 @@
         "Halkap\u0131nar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1054",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Halkapinar",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108709557,
-    "wof:lastmodified":1561769146,
+    "wof:lastmodified":1566585333,
     "wof:name":"Halkap\u0131nar",
     "wof:parent_id":85679425,
     "wof:placetype":"county",

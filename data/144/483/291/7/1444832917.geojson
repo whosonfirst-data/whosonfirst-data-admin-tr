@@ -10,8 +10,10 @@
     "geom:latitude":40.944834,
     "geom:longitude":29.288113,
     "iso:country":"TR",
+    "lbl:bbox":"29.2831134437,40.9398338691,29.2931134437,40.9498338691",
     "lbl:latitude":40.944834,
     "lbl:longitude":29.288113,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709899,
-        85679237
+        1108709899
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832917,
-    "wof:lastmodified":1566339843,
+    "wof:lastmodified":1566584859,
     "wof:name":"Orhangazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

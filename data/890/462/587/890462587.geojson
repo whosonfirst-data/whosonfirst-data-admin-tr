@@ -11,8 +11,11 @@
     "geom:longitude":28.988842,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.983842,41.063965,28.993842,41.073965",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\u0130zzet Pa\u015fa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912685,
-        890461743,
-        85679237
+        890461743
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865029,
-        "qs:id":1111454
+        "qs_pg:id":1111454
     },
     "wof:country":"TR",
     "wof:created":1469053395,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890462587,
-    "wof:lastmodified":1500071014,
+    "wof:lastmodified":1566586387,
     "wof:name":"\u0130zzet Pa\u015fa",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

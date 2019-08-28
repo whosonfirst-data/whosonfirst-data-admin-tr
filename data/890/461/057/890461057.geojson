@@ -11,11 +11,15 @@
     "geom:longitude":28.15778,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":24816,
+    "gn:population":24816,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.13778,39.89361,28.17778,39.93361",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0633\u0648\u0633\u0648\u0631\u0644\u0648\u0643"
     ],
@@ -76,7 +80,7 @@
     "name:tur_x_preferred":[
         "Susurluk"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Susugurlu"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":300058,
         "gp:id":2344417,
-        "qs:id":763042,
+        "qs_pg:id":763042,
         "wd:id":"Q1023133",
         "wk:page":"Susurluk"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890461057,
-    "wof:lastmodified":1563361800,
+    "wof:lastmodified":1566586531,
     "wof:name":"Susurluk",
     "wof:parent_id":890462063,
     "wof:placetype":"locality",

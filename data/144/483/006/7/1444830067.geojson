@@ -10,8 +10,10 @@
     "geom:latitude":41.13173,
     "geom:longitude":28.204708,
     "iso:country":"TR",
+    "lbl:bbox":"28.1997084809,41.1267296772,28.2097084809,41.1367296772",
     "lbl:latitude":41.13173,
     "lbl:longitude":28.204708,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462765,
-        85679237
+        890462765
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444830067,
-    "wof:lastmodified":1566339509,
+    "wof:lastmodified":1566584840,
     "wof:name":"Kucuk Kilicli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,8 +11,11 @@
     "geom:longitude":34.8784,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":256482,
+    "gn:population":256482,
     "iso:country":"TR",
+    "lbl:bbox":"34.8584,36.89876,34.8984,36.93876",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0440\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antiochia ad Cydnum"
     ],
     "name:urd_x_preferred":[
@@ -310,10 +313,12 @@
     "wof:concordances":{
         "gn:id":299817,
         "gp:id":2344423,
-        "qs:id":204132,
-        "qs_pg:id":239495,
+        "qs_pg:id":204132,
         "wd:id":"Q48001",
         "wk:page":"Tarsus"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":239495
     },
     "wof:country":"TR",
     "wof:created":1469053443,
@@ -328,7 +333,7 @@
         }
     ],
     "wof:id":890463779,
-    "wof:lastmodified":1563361028,
+    "wof:lastmodified":1566586233,
     "wof:name":"Tarsus",
     "wof:parent_id":890463423,
     "wof:placetype":"locality",

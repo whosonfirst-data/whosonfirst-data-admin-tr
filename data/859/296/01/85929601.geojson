@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7246035.165152,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.803962,39.905473,32.803962,39.905473",
     "geom:latitude":39.905473,
     "geom:longitude":32.803962,
     "gn:latitude":39.90079,
     "gn:longitude":32.79641,
     "iso:country":"TR",
+    "lbl:bbox":"32.798962,39.900473,32.808962,39.910473",
     "lbl:latitude":39.905473,
     "lbl:longitude":32.803962,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.901389,
     "mps:longitude":32.805107,
     "mz:hierarchy_label":0,
@@ -31,13 +33,7 @@
     "name:tur_x_preferred":[
         "\u00c7ukurambar"
     ],
-    "name:und_x_preferred":[
-        "Cukurambar"
-    ],
     "name:und_x_variant":[
-        "\u00c7ukurambar"
-    ],
-    "name:unk_x_variant":[
         "Cukurambar"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -69,19 +65,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
         101912789,
-        890462771,
-        85679409
+        890462771
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7927308,
         "gp:id":55865321,
-        "qs:id":1152349,
         "qs_pg:id":1152349,
         "wd:id":"Q6078800"
     },
@@ -101,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939143,
+    "wof:lastmodified":1566582941,
     "wof:name":"Cukurambar",
     "wof:parent_id":101912789,
     "wof:placetype":"neighbourhood",

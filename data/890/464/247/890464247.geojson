@@ -11,7 +11,7 @@
     "geom:longitude":35.696769,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":47572,
+    "gn:population":47572,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.783585,
     "lbl:longitude":35.677412,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amasya",
     "meso:admin_1":"Amasya",
     "meso:gadm_admin":"Suluova",
@@ -41,6 +43,7 @@
     "mps:longitude":35.677412,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0633\u0648\u0644\u0648 \u0627\u0648\u0648\u0627"
     ],
@@ -110,7 +113,7 @@
     "name:tur_x_preferred":[
         "Suluova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Suluca"
     ],
     "name:urd_x_preferred":[
@@ -135,9 +138,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"516",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Suluova",
@@ -159,7 +162,7 @@
         "gn:id":739251,
         "gp:id":29390775,
         "hasc:id":"TR.AM.SU",
-        "qs:id":890530,
+        "qs_pg:id":890530,
         "wd:id":"Q1922386",
         "wk:page":"Suluova"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890464247,
-    "wof:lastmodified":1563361228,
+    "wof:lastmodified":1566586309,
     "wof:name":"Suluova",
     "wof:parent_id":85679335,
     "wof:placetype":"county",

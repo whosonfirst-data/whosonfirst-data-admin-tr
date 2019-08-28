@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4477504.823773,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.924255,40.233831,28.924255,40.233831",
     "geom:latitude":40.233831,
     "geom:longitude":28.924255,
     "gn:latitude":41.06576,
     "gn:longitude":28.73577,
     "iso:country":"TR",
+    "lbl:bbox":"28.919255,40.228831,28.929255,40.238831",
     "lbl:latitude":40.233831,
     "lbl:longitude":28.924255,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.231315,
     "mps:longitude":28.924255,
     "mz:hierarchy_label":0,
@@ -25,10 +27,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Altinsehir"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Altinsehir"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -58,18 +57,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679231,
         102191569,
         85632393,
-        890463103,
-        85679231
+        890463103
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":857246,
         "gp:id":55871107,
-        "qs:id":896594
+        "qs_pg:id":896594
     },
     "wof:country":"TR",
     "wof:geomhash":"6211ff6f4b70ab2555c58c7bb0f70dd5",
@@ -87,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939171,
+    "wof:lastmodified":1566582907,
     "wof:name":"Altinsehir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

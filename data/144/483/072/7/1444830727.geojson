@@ -10,8 +10,10 @@
     "geom:latitude":41.028165,
     "geom:longitude":29.027434,
     "iso:country":"TR",
+    "lbl:bbox":"29.0224339184,41.0231645239,29.0324339184,41.0331645239",
     "lbl:latitude":41.028165,
     "lbl:longitude":29.027434,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912675,
-        890462769,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444830727,
-    "wof:lastmodified":1566339583,
+    "wof:lastmodified":1566584854,
     "wof:name":"Fistikagaci",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",

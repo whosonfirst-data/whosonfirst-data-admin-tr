@@ -11,11 +11,15 @@
     "geom:longitude":29.75194,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":17080,
+    "gn:population":17080,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.73194,38.71707,29.77194,38.75707",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Banaz"
     ],
@@ -70,7 +74,7 @@
     "name:tur_x_preferred":[
         "Banaz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u0130slamk\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":322051,
         "gp:id":2343779,
-        "qs:id":124156,
+        "qs_pg:id":124156,
         "wd:id":"Q669172",
         "wk:page":"Banaz"
     },
@@ -120,7 +124,7 @@
         }
     ],
     "wof:id":890463455,
-    "wof:lastmodified":1563360993,
+    "wof:lastmodified":1566586221,
     "wof:name":"Banaz",
     "wof:parent_id":1108709357,
     "wof:placetype":"locality",

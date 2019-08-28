@@ -10,8 +10,10 @@
     "geom:latitude":41.082063,
     "geom:longitude":29.73133,
     "iso:country":"TR",
+    "lbl:bbox":"29.7263297521,41.0770628861,29.7363297521,41.0870628861",
     "lbl:latitude":41.082063,
     "lbl:longitude":29.73133,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833947,
-    "wof:lastmodified":1566339966,
+    "wof:lastmodified":1566584849,
     "wof:name":"Osmankoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

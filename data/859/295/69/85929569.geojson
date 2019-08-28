@@ -12,8 +12,10 @@
     "gn:latitude":40.37663,
     "gn:longitude":33.37373,
     "iso:country":"TR",
+    "lbl:bbox":"32.857195,39.925619,32.867195,39.935619",
     "lbl:latitude":39.930619,
     "lbl:longitude":32.862195,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.930009,
     "mps:longitude":32.867882,
     "mz:hierarchy_label":0,
@@ -46,12 +48,6 @@
     "name:tur_x_preferred":[
         "Demirta\u015f"
     ],
-    "name:und_x_preferred":[
-        "Demirta\u015f"
-    ],
-    "name:unk_x_variant":[
-        "Demirta\u015f"
-    ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPL",
     "qs:gn_local":323786,
@@ -80,7 +76,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":122,
     "wof:belongsto":[
         85679409,
@@ -92,7 +88,7 @@
     "wof:concordances":{
         "gn:id":748377,
         "gp:id":55865184,
-        "qs:id":225565,
+        "qs_pg:id":225565,
         "wd:id":"Q1185706"
     },
     "wof:country":"TR",
@@ -111,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356492,
+    "wof:lastmodified":1566582922,
     "wof:name":"Demirta\u015f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

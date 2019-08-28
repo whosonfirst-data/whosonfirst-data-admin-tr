@@ -11,7 +11,7 @@
     "geom:longitude":38.952031,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":16990,
+    "gn:population":16990,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.573917,
     "lbl:longitude":38.91912,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sanliurfa",
     "meso:admin_1":"Sanliurfa",
     "meso:gadm_admin":"Hilvan",
@@ -41,6 +43,7 @@
     "mps:longitude":38.91912,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0647\u06cc\u0644\u0648\u0627\u0646"
     ],
@@ -107,7 +110,7 @@
     "name:tur_x_preferred":[
         "Hilvan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karacorun"
     ],
     "name:urd_x_preferred":[
@@ -135,9 +138,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1296",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Hilvan",
@@ -159,7 +162,7 @@
         "gn:id":312134,
         "gp:id":29390424,
         "hasc:id":"TR.SU.HI",
-        "qs:id":211070,
+        "qs_pg:id":211070,
         "wd:id":"Q990319",
         "wk:page":"Hilvan"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890464281,
-    "wof:lastmodified":1563361159,
+    "wof:lastmodified":1566586282,
     "wof:name":"Hilvan",
     "wof:parent_id":85679441,
     "wof:placetype":"county",

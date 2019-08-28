@@ -11,11 +11,15 @@
     "geom:longitude":41.71966,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":20793,
+    "gn:population":20793,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"41.69966,37.52545,41.73966,37.56545",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0631\u0628\u0648\u0631\u0627\u0646\u064c"
     ],
@@ -76,9 +80,6 @@
     "name:tur_x_variant":[
         "Akk\u00f6pr\u00fc"
     ],
-    "name:unk_x_variant":[
-        "Kerboran"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0627\u0631\u06af\u0686\u06cc\u062a"
     ],
@@ -111,7 +112,7 @@
     "wof:concordances":{
         "gn:id":317587,
         "gp:id":2316377,
-        "qs:id":124143,
+        "qs_pg:id":124143,
         "wd:id":"Q1004605",
         "wk:page":"Darge\u00e7it"
     },
@@ -128,7 +129,7 @@
         }
     ],
     "wof:id":890461565,
-    "wof:lastmodified":1563361765,
+    "wof:lastmodified":1566586519,
     "wof:name":"Darge\u00e7it",
     "wof:parent_id":1108709423,
     "wof:placetype":"locality",

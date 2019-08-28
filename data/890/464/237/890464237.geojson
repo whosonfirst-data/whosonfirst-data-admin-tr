@@ -11,7 +11,7 @@
     "geom:longitude":39.286283,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":14544,
+    "gn:population":14544,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.889833,
     "lbl:longitude":39.292033,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Trabzon",
     "meso:admin_1":"Trabzon",
     "meso:gadm_admin":"Tonya",
@@ -41,6 +43,7 @@
     "mps:longitude":39.292033,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Tonya \u0130l\u00e7esi"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "Tonya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ortamahalle"
     ],
     "name:urd_x_preferred":[
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"254",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tonya",
@@ -138,7 +141,7 @@
         "gn:id":738715,
         "gp:id":29390817,
         "hasc:id":"TR.TB.TO",
-        "qs:id":887134,
+        "qs_pg:id":887134,
         "wd:id":"Q1020641",
         "wk:page":"Tonya"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890464237,
-    "wof:lastmodified":1563361250,
+    "wof:lastmodified":1566586316,
     "wof:name":"Tonya",
     "wof:parent_id":85679383,
     "wof:placetype":"county",

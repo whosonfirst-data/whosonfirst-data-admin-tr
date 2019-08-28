@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.9886,
     "lbl:longitude":28.648861,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Istanbul",
     "meso:admin_1":"Istanbul",
     "meso:gadm_admin":"Beylikduzu",
@@ -37,6 +39,7 @@
     "mps:longitude":28.648861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Beylikd\u00fcz\u00fc"
     ],
@@ -128,7 +131,7 @@
         "\u5e87\u529b\u675c\u7956"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":1108709381,
-    "wof:lastmodified":1563359637,
+    "wof:lastmodified":1566585320,
     "wof:name":"Beylikd\u00fcz\u00fc",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

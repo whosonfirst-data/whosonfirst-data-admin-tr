@@ -11,8 +11,11 @@
     "geom:longitude":29.05861,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.05361,40.186987,29.06361,40.196987",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u044f\u0437\u0456\u0434"
     ],
@@ -82,7 +85,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870917,
-        "qs:id":1337675,
+        "qs_pg:id":1337675,
         "wk:page":"Beyazid"
     },
     "wof:country":"TR",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":890461985,
-    "wof:lastmodified":1564162897,
+    "wof:lastmodified":1566586510,
     "wof:name":"Beyazit",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

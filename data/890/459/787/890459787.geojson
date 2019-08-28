@@ -11,10 +11,14 @@
     "geom:longitude":41.33179,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":36,
+    "gn:population":36,
     "iso:country":"TR",
+    "lbl:bbox":"41.31179,37.95905,41.35179,37.99905",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "U\u011furca"
     ],
@@ -30,7 +34,7 @@
     "name:tur_x_preferred":[
         "U\u011furca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Korukk\u00f6y"
     ],
     "name:vie_x_preferred":[
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":298503,
         "gp:id":2311575,
-        "qs:id":80007,
+        "qs_pg:id":80007,
         "wd:id":"Q7905393"
     },
     "wof:country":"TR",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890459787,
-    "wof:lastmodified":1563361923,
+    "wof:lastmodified":1566586592,
     "wof:name":"U\u011furca",
     "wof:parent_id":1108709369,
     "wof:placetype":"locality",

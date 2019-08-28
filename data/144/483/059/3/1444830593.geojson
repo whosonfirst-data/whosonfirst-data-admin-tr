@@ -10,8 +10,10 @@
     "geom:latitude":41.03733,
     "geom:longitude":29.083701,
     "iso:country":"TR",
+    "lbl:bbox":"29.0787010039,41.032330187,29.0887010039,41.042330187",
     "lbl:latitude":41.03733,
     "lbl:longitude":29.083701,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912541,
-        890462769,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444830593,
-    "wof:lastmodified":1566339568,
+    "wof:lastmodified":1566584858,
     "wof:name":"Yavuzturk",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",

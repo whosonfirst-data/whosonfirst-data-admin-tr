@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"32.11614,40.72528,32.15614,40.76528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":8195007
     },
     "wof:country":"TR",
-    "wof:geomhash":"375656abc5a18b680b3cf21d77a11ed4",
+    "wof:geomhash":"04b85745c9ea24612685b95af64f6553",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209287747,
-    "wof:lastmodified":1536291801,
+    "wof:lastmodified":1566584769,
     "wof:name":"Cobanlar",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.136140000000005,
+    32.13614,
     40.74528,
-    32.136140000000005,
+    32.13614,
     40.74528
 ],
   "geometry": {"coordinates":[32.13614,40.74528],"type":"Point"}

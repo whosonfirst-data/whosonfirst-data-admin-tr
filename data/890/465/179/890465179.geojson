@@ -11,14 +11,18 @@
     "geom:longitude":41.64,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":250,
+    "gn:population":250,
     "iso:country":"TR",
+    "lbl:bbox":"41.62,37.82389,41.66,37.86389",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Kayatepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sarip"
     ],
     "qs:name":"Kayatepe",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":308551,
-        "qs:id":547420
+        "qs_pg:id":547420
     },
     "wof:country":"TR",
     "wof:created":1469053506,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890465179,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586356,
     "wof:name":"Kayatepe",
     "wof:parent_id":1108709369,
     "wof:placetype":"locality",

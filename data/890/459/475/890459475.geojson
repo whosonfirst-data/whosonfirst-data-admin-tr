@@ -11,14 +11,18 @@
     "geom:longitude":40.56917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":744,
+    "gn:population":744,
     "iso:country":"TR",
+    "lbl:bbox":"40.54917,37.36444,40.58917,37.40444",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Cevizlik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dzhevzat"
     ],
     "qs:name":"Cevizlik",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":318695,
         "gp:id":2344252,
-        "qs:id":547610
+        "qs_pg:id":547610
     },
     "wof:country":"TR",
     "wof:created":1469053270,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890459475,
-    "wof:lastmodified":1505343677,
+    "wof:lastmodified":1566586580,
     "wof:name":"Cevizlik",
     "wof:parent_id":890463121,
     "wof:placetype":"locality",

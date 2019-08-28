@@ -11,8 +11,11 @@
     "geom:longitude":28.980216,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.975216,41.035002,28.985216,41.045002",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"B\u00fclb\u00fcl",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101913185,
-        890461447,
-        85679237
+        890461447
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724087,
-        "qs:id":268826
+        "qs_pg:id":268826
     },
     "wof:country":"TR",
     "wof:created":1469053252,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890459029,
-    "wof:lastmodified":1500071001,
+    "wof:lastmodified":1566586580,
     "wof:name":"B\u00fclb\u00fcl",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

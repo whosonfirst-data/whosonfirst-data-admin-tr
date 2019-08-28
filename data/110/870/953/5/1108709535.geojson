@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.147315,
     "lbl:longitude":29.052927,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Denizli",
     "meso:admin_1":"Denizli",
     "meso:gadm_admin":"G\u00fcney",
@@ -37,6 +39,7 @@
     "mps:longitude":29.052927,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "G\u00fcney"
     ],
@@ -83,9 +86,9 @@
         "G\u00fcney"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"533",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00fcney",
@@ -117,7 +120,7 @@
         }
     ],
     "wof:id":1108709535,
-    "wof:lastmodified":1564161469,
+    "wof:lastmodified":1566585322,
     "wof:name":"G\u00fcney",
     "wof:parent_id":85679277,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":29.2725,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.2525,40.8575,29.2925,40.8975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Pendik"
     ],
@@ -123,7 +127,7 @@
     "wof:concordances":{
         "gn:id":740616,
         "gp:id":2334746,
-        "qs:id":290704,
+        "qs_pg:id":290704,
         "wd:id":"Q857056",
         "wk:page":"Pendik"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":890460869,
-    "wof:lastmodified":1563361540,
+    "wof:lastmodified":1566586440,
     "wof:name":"Pendik",
     "wof:parent_id":890461937,
     "wof:placetype":"locality",

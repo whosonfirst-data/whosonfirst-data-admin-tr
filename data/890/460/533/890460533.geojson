@@ -11,11 +11,15 @@
     "geom:longitude":27.42917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":39317,
+    "gn:population":39317,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.40917,37.01833,27.44917,37.05833",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:afr_x_preferred":[
         "Halikarnassos"
     ],
@@ -211,9 +215,6 @@
     "name:ukr_x_variant":[
         "\u0413\u0430\u043b\u0456\u043a\u0430\u0440\u043d\u0430\u0441"
     ],
-    "name:unk_x_variant":[
-        "Halicarnassus"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u062f\u0631\u0648\u0645"
     ],
@@ -252,7 +253,7 @@
     "wof:concordances":{
         "gn:id":320995,
         "gp:id":2343815,
-        "qs:id":240030,
+        "qs_pg:id":240030,
         "wd:id":"Q172267",
         "wk:page":"Bodrum"
     },
@@ -269,7 +270,7 @@
         }
     ],
     "wof:id":890460533,
-    "wof:lastmodified":1563361489,
+    "wof:lastmodified":1566586422,
     "wof:name":"Bodrum",
     "wof:parent_id":890462453,
     "wof:placetype":"locality",

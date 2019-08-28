@@ -11,8 +11,11 @@
     "geom:longitude":40.74357,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":71373,
+    "gn:population":71373,
     "iso:country":"TR",
+    "lbl:bbox":"40.72357,37.29309,40.76357,37.33309",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
@@ -208,7 +211,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0440\u0434\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marde"
     ],
     "name:urd_x_preferred":[
@@ -334,7 +337,7 @@
     "wof:concordances":{
         "gn:id":304797,
         "gp:id":90874562,
-        "qs:id":204613,
+        "qs_pg:id":204613,
         "wd:id":"Q188022",
         "wk:page":"Mardin"
     },
@@ -351,7 +354,7 @@
         }
     ],
     "wof:id":890463881,
-    "wof:lastmodified":1563360979,
+    "wof:lastmodified":1566586216,
     "wof:name":"Mardin",
     "wof:parent_id":890463121,
     "wof:placetype":"locality",

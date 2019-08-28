@@ -11,10 +11,14 @@
     "geom:longitude":40.77388,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":263,
+    "gn:population":263,
     "iso:country":"TR",
+    "lbl:bbox":"40.75388,37.28765,40.79388,37.32765",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "Kaletyul\u2019mara"
     ],
@@ -24,7 +28,7 @@
     "name:tur_x_preferred":[
         "Eskikale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalet\u00fclmara"
     ],
     "qs:name":"Eskikale",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":315246,
         "gp:id":2344252,
-        "qs:id":547534
+        "qs_pg:id":547534
     },
     "wof:country":"TR",
     "wof:created":1469053514,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":890465305,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586345,
     "wof:name":"Eskikale",
     "wof:parent_id":890463121,
     "wof:placetype":"locality",

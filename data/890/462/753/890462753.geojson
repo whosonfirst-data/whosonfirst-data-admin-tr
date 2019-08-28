@@ -11,7 +11,7 @@
     "geom:longitude":40.530344,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":6485,
+    "gn:population":6485,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.253381,
     "lbl:longitude":40.525007,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyarbakir",
     "meso:admin_1":"Diyarbakir",
     "meso:gadm_admin":"Merkez",
@@ -41,6 +43,7 @@
     "mps:longitude":40.525007,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kocak\u00f6y \u0130l\u00e7esi"
     ],
@@ -112,7 +115,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":85,
     "wof:belongsto":[
@@ -125,7 +128,7 @@
         "gn:id":306935,
         "gp:id":29390500,
         "hasc:id":"TR.DY.DY",
-        "qs:id":70026,
+        "qs_pg:id":70026,
         "wd:id":"Q1023277",
         "wk:page":"Kocak\u00f6y"
     },
@@ -141,7 +144,7 @@
         }
     ],
     "wof:id":890462753,
-    "wof:lastmodified":1563361335,
+    "wof:lastmodified":1566586362,
     "wof:name":"Kocak\u00f6y",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

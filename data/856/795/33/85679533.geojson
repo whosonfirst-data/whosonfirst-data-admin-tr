@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.864382,
     "lbl:longitude":31.229634,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"D\u00fczce",
     "mps:latitude":40.891171,
     "mps:longitude":31.260917,
@@ -269,12 +270,6 @@
     "name:und_x_colloquial":[
         "Duzce"
     ],
-    "name:und_x_preferred":[
-        "D\u00fczce"
-    ],
-    "name:und_x_variant":[
-        "D\u00fczce"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u0648\u0632\u062c\u06d2 \u0635\u0648\u0628\u06c1"
     ],
@@ -371,9 +366,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1,014",
     "statoids:area_mi":"392",
     "statoids:as_of_date":"2007-12-31",
@@ -398,7 +393,7 @@
         "gp:id":29390030,
         "hasc:id":"TR.DU",
         "iso:id":"TR-81",
-        "qs:id":942415,
+        "qs_pg:id":942415,
         "unlc:id":"TR-81",
         "wd:id":"Q432391",
         "wk:page":"D\u00fczce Province"
@@ -419,7 +414,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737379,
+    "wof:lastmodified":1566582976,
     "wof:name":"Duzce",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

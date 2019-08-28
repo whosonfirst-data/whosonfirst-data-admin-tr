@@ -11,11 +11,15 @@
     "geom:longitude":34.011,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3956,
+    "gn:population":3956,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.991,41.95858,34.031,41.99858",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ava_x_preferred":[
         "\u0410\u0431\u0430\u043d\u0430"
     ],
@@ -76,7 +80,7 @@
     "name:tur_x_preferred":[
         "Abana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Apana"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":752926,
         "gp:id":2343671,
-        "qs:id":483086,
+        "qs_pg:id":483086,
         "wd:id":"Q2006400",
         "wk:page":"Abana"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890460643,
-    "wof:lastmodified":1563361510,
+    "wof:lastmodified":1566586430,
     "wof:name":"Abana",
     "wof:parent_id":1108709237,
     "wof:placetype":"locality",

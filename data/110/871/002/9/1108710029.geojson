@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.870465,
     "lbl:longitude":37.449819,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ordu",
     "meso:admin_1":"Ordu",
     "meso:gadm_admin":"Korgan",
@@ -37,6 +39,7 @@
     "mps:longitude":37.449819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u00c7atalp\u0131nar \u0130l\u00e7esi"
     ],
@@ -83,7 +86,7 @@
         "\u00c7atalp\u0131nar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":1108710029,
-    "wof:lastmodified":1564161520,
+    "wof:lastmodified":1566585390,
     "wof:name":"\u00c7atalp\u0131nar",
     "wof:parent_id":85679349,
     "wof:placetype":"county",

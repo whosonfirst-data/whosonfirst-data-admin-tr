@@ -11,7 +11,7 @@
     "geom:longitude":34.331805,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.430085,
     "lbl:longitude":34.334765,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Aksaray",
     "meso:admin_1":"Aksaray",
     "meso:gadm_admin":"G\u00fcla\u011fa\u00e7",
@@ -41,6 +43,7 @@
     "mps:longitude":34.334765,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "G\u00fcla\u011fa\u00e7"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "G\u00fcla\u011fa\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u011fa\u00e7l\u0131"
     ],
     "name:urd_x_preferred":[
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"286",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00fclaga\u00e7",
@@ -149,7 +152,7 @@
         "gn:id":325278,
         "gp:id":29390377,
         "hasc:id":"TR.AK.GL",
-        "qs:id":1014171,
+        "qs_pg:id":1014171,
         "wd:id":"Q1958579",
         "wk:page":"G\u00fcla\u011fa\u00e7"
     },
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":890462201,
-    "wof:lastmodified":1563361456,
+    "wof:lastmodified":1566586408,
     "wof:name":"G\u00fcla\u011fa\u00e7",
     "wof:parent_id":85679457,
     "wof:placetype":"county",

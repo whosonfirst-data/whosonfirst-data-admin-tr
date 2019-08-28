@@ -10,8 +10,10 @@
     "geom:latitude":41.013037,
     "geom:longitude":28.875007,
     "iso:country":"TR",
+    "lbl:bbox":"28.8700065663,41.0080369623,28.8800065663,41.0180369623",
     "lbl:latitude":41.013037,
     "lbl:longitude":28.875007,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -102,7 +104,7 @@
     "name:war_x_preferred":[
         "G\u00fcven"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1108950611,
-    "wof:lastmodified":1563359614,
+    "wof:lastmodified":1566585308,
     "wof:name":"Guven",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,10 @@
     "geom:latitude":41.010497,
     "geom:longitude":29.248975,
     "iso:country":"TR",
+    "lbl:bbox":"29.24397463,41.0054970706,29.25397463,41.0154970706",
     "lbl:latitude":41.010497,
     "lbl:longitude":29.248975,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709841,
-        85679237
+        1108709841
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832393,
-    "wof:lastmodified":1566339781,
+    "wof:lastmodified":1566584859,
     "wof:name":"Safa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

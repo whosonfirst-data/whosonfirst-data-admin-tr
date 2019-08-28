@@ -10,8 +10,10 @@
     "geom:latitude":41.034142,
     "geom:longitude":28.46028,
     "iso:country":"TR",
+    "lbl:bbox":"28.4552801815,41.0291421636,28.4652801815,41.0391421636",
     "lbl:latitude":41.034142,
     "lbl:longitude":28.46028,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462459,
-        85679237
+        890462459
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829565,
-    "wof:lastmodified":1566339449,
+    "wof:lastmodified":1566584822,
     "wof:name":"Kumburgaz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

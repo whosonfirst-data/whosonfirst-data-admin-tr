@@ -11,12 +11,15 @@
     "geom:longitude":29.03,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1137,
+    "gn:population":1137,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.025,40.625,29.035,40.635",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "A\u015fag\u0131 Kocadere"
     ],
     "qs:name":"Koca Dede",
@@ -37,7 +40,7 @@
     "wof:concordances":{
         "gn:id":742875,
         "gp:id":22723995,
-        "qs:id":56036
+        "qs_pg:id":56036
     },
     "wof:country":"TR",
     "wof:created":1469053473,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":890464431,
-    "wof:lastmodified":1505343698,
+    "wof:lastmodified":1566586286,
     "wof:name":"Koca Dede",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

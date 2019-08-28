@@ -11,7 +11,7 @@
     "geom:longitude":33.295861,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":11956,
+    "gn:population":11956,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.809423,
     "lbl:longitude":33.284263,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Cankiri",
     "meso:admin_1":"\u00c7ankiri",
     "meso:gadm_admin":"Kur\u015funlu",
@@ -41,6 +43,7 @@
     "mps:longitude":33.284263,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kur\u015funlu"
     ],
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "Kur\u015funlu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karacaviran"
     ],
     "name:urd_x_preferred":[
@@ -102,9 +105,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"477",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kursunlu",
@@ -126,7 +129,7 @@
         "gn:id":742164,
         "gp:id":29390530,
         "hasc:id":"TR.CI.KU",
-        "qs:id":946167,
+        "qs_pg:id":946167,
         "wd:id":"Q2670983",
         "wk:page":"Kur\u015funlu"
     },
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":890463143,
-    "wof:lastmodified":1563361019,
+    "wof:lastmodified":1566586230,
     "wof:name":"Kur\u015funlu",
     "wof:parent_id":85679413,
     "wof:placetype":"county",

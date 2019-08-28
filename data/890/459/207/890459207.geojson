@@ -11,10 +11,14 @@
     "geom:longitude":40.54988,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":186,
+    "gn:population":186,
     "iso:country":"TR",
+    "lbl:bbox":"40.52988,37.52206,40.56988,37.56206",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Aksu"
     ],
@@ -81,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0441\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akgevir"
     ],
     "name:vie_x_preferred":[
@@ -102,7 +106,7 @@
     "wof:concordances":{
         "gn:id":324474,
         "gp:id":2313873,
-        "qs:id":547723
+        "qs_pg:id":547723
     },
     "wof:country":"TR",
     "wof:created":1469053258,
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890459207,
-    "wof:lastmodified":1564162971,
+    "wof:lastmodified":1566586585,
     "wof:name":"Aksu",
     "wof:parent_id":1108709713,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":40.954947,
     "geom:longitude":29.284222,
     "iso:country":"TR",
+    "lbl:bbox":"29.2792224505,40.9499468028,29.2892224505,40.9599468028",
     "lbl:latitude":40.954947,
     "lbl:longitude":29.284222,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709899,
-        85679237
+        1108709899
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832927,
-    "wof:lastmodified":1566339846,
+    "wof:lastmodified":1566584834,
     "wof:name":"Hamidiye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

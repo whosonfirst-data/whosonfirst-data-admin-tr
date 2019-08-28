@@ -11,7 +11,7 @@
     "geom:longitude":32.540165,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":11896,
+    "gn:population":11896,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.26627,
     "lbl:longitude":32.540192,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ankara",
     "meso:admin_1":"Ankara",
     "meso:gadm_admin":"Haymana",
@@ -41,6 +43,7 @@
     "mps:longitude":32.540192,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Haymana"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "Haymana"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sivrihamam"
     ],
     "name:urd_x_preferred":[
@@ -132,9 +135,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2984",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Haymana",
@@ -159,7 +162,7 @@
         "gn:id":312289,
         "gp:id":29390415,
         "hasc:id":"TR.AN.HA",
-        "qs:id":245202,
+        "qs_pg:id":245202,
         "wd:id":"Q1020642",
         "wk:page":"Haymana, Ankara"
     },
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":890464585,
-    "wof:lastmodified":1563361258,
+    "wof:lastmodified":1566586320,
     "wof:name":"Haymana",
     "wof:parent_id":85679409,
     "wof:placetype":"county",

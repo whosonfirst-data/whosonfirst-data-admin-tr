@@ -11,11 +11,15 @@
     "geom:longitude":43.56667,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"43.54667,40.51333,43.58667,40.55333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0622\u0646\u064a"
     ],
@@ -127,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Anik\u00f6y\u00fc"
     ],
     "name:vie_x_preferred":[
@@ -159,7 +163,7 @@
     "wof:concordances":{
         "gn:id":741253,
         "gp:id":2344291,
-        "qs:id":191289,
+        "qs_pg:id":191289,
         "wd:id":"Q546010",
         "wk:page":"Ocakl\u0131, Dinar"
     },
@@ -176,7 +180,7 @@
         }
     ],
     "wof:id":890463589,
-    "wof:lastmodified":1563361028,
+    "wof:lastmodified":1566586233,
     "wof:name":"Ocakl\u0131",
     "wof:parent_id":890462489,
     "wof:placetype":"locality",

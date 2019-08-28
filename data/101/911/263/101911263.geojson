@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":37.839732,
     "lbl:longitude":27.845505,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":37.839732,
     "mps:longitude":27.845505,
     "mz:hierarchy_label":1,
@@ -243,7 +245,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0434\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fcsel Hissar"
     ],
     "name:urd_x_preferred":[
@@ -365,7 +367,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.848056,
     "wd:longitude":27.845278,
@@ -380,10 +382,12 @@
     "wof:concordances":{
         "gn:id":322830,
         "gp:id":2343751,
-        "qs:id":1134755,
         "qs_pg:id":309286,
         "wd:id":"Q170457",
         "wk:page":"Ayd\u0131n"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134755
     },
     "wof:country":"TR",
     "wof:geomhash":"5fbb0fddf78fde10bf8897a4bb4802b5",
@@ -397,7 +401,7 @@
         }
     ],
     "wof:id":101911263,
-    "wof:lastmodified":1563360690,
+    "wof:lastmodified":1566586014,
     "wof:name":"Ayd\u0131n",
     "wof:parent_id":890461265,
     "wof:placetype":"locality",

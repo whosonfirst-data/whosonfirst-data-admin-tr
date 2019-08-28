@@ -11,11 +11,15 @@
     "geom:longitude":28.84017,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.82017,40.21114,28.86017,40.25114",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "G\u00f6r\u00fckle"
     ],
@@ -31,7 +35,7 @@
     "name:tur_x_preferred":[
         "G\u00f6r\u00fckle"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00f6r\u00fckle"
     ],
     "qs:name":"G\u00f6r\u00fckle",
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":746552,
         "gp:id":2320977,
-        "qs:id":1278308,
+        "qs_pg:id":1278308,
         "wd:id":"Q5626673",
         "wk:page":"G\u00f6r\u00fckle"
     },
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":890460739,
-    "wof:lastmodified":1561769281,
+    "wof:lastmodified":1566586423,
     "wof:name":"G\u00f6r\u00fckle",
     "wof:parent_id":890463103,
     "wof:placetype":"locality",

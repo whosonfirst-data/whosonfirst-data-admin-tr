@@ -10,8 +10,10 @@
     "geom:latitude":41.003348,
     "geom:longitude":28.836217,
     "iso:country":"TR",
+    "lbl:bbox":"28.8312167454,40.9983482737,28.8412167454,41.0083482737",
     "lbl:latitude":41.003348,
     "lbl:longitude":28.836217,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -24,7 +26,7 @@
     "name:tur_x_preferred":[
         "Zafer"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -48,7 +50,7 @@
         }
     ],
     "wof:id":1108950681,
-    "wof:lastmodified":1564161456,
+    "wof:lastmodified":1566585310,
     "wof:name":"Zafer",
     "wof:parent_id":101912671,
     "wof:placetype":"neighbourhood",

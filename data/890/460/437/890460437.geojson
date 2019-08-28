@@ -11,10 +11,14 @@
     "geom:longitude":31.44356,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"31.42356,40.93983,31.46356,40.97983",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Y\u0131\u011f\u0131lca \u0130l\u00e7esi"
     ],
@@ -72,7 +76,7 @@
     "name:tur_x_preferred":[
         "Y\u0131\u011f\u0131lca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ahmet\u00e7iler"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":737521,
         "gp:id":2344525,
-        "qs:id":129121,
+        "qs_pg:id":129121,
         "wd:id":"Q2674064",
         "wk:page":"Y\u0131\u011f\u0131lca"
     },
@@ -114,7 +118,7 @@
         }
     ],
     "wof:id":890460437,
-    "wof:lastmodified":1563361530,
+    "wof:lastmodified":1566586437,
     "wof:name":"Y\u0131\u011f\u0131lca",
     "wof:parent_id":1108709961,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":29.18861,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.16861,40.88495,29.20861,40.92495",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0631\u062a\u0627\u0644"
     ],
@@ -123,7 +127,7 @@
     "wof:concordances":{
         "gn:id":743932,
         "gp:id":2344167,
-        "qs:id":896235,
+        "qs_pg:id":896235,
         "wd:id":"Q639014",
         "wk:page":"Kartal"
     },
@@ -140,7 +144,7 @@
         }
     ],
     "wof:id":890461153,
-    "wof:lastmodified":1563361749,
+    "wof:lastmodified":1566586513,
     "wof:name":"Kartal",
     "wof:parent_id":890462523,
     "wof:placetype":"locality",

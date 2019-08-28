@@ -11,14 +11,18 @@
     "geom:longitude":40.91472,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":291,
+    "gn:population":291,
     "iso:country":"TR",
+    "lbl:bbox":"40.89472,37.87167,40.93472,37.91167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Hasanp\u0131nar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dervi\u015fi"
     ],
     "qs:name":"Hasanp\u0131nar",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":316859,
-        "qs:id":547575
+        "qs_pg:id":547575
     },
     "wof:country":"TR",
     "wof:created":1469053516,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890465363,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586329,
     "wof:name":"Hasanp\u0131nar",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

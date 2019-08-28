@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":36.805814,
     "lbl:longitude":34.619681,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mps:latitude":36.805814,
     "mps:longitude":34.619681,
     "mz:hierarchy_label":1,
@@ -255,7 +257,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u0440\u0441\u0456\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zephyrium"
     ],
     "name:urd_x_preferred":[
@@ -383,7 +385,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -395,7 +397,6 @@
     "wof:concordances":{
         "gn:id":304531,
         "gp:id":2323778,
-        "qs:id":479043,
         "qs_pg:id":479043,
         "wd:id":"Q134291",
         "wk:page":"Mersin"
@@ -412,7 +413,7 @@
         }
     ],
     "wof:id":101913223,
-    "wof:lastmodified":1563360650,
+    "wof:lastmodified":1566586007,
     "wof:name":"\u0130\u00e7el",
     "wof:parent_id":1108709257,
     "wof:placetype":"locality",

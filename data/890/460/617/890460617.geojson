@@ -11,11 +11,15 @@
     "geom:longitude":33.23135,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.21135,41.7889,33.25135,41.8289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u015eenpazar \u0130l\u00e7esi"
     ],
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "\u015eenpazar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuztekke"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":739808,
         "gp:id":2336724,
-        "qs:id":1189959,
+        "qs_pg:id":1189959,
         "wd:id":"Q388894"
     },
     "wof:country":"TR",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890460617,
-    "wof:lastmodified":1563361512,
+    "wof:lastmodified":1566586431,
     "wof:name":"\u015eenpazar\u0131",
     "wof:parent_id":1108709203,
     "wof:placetype":"locality",

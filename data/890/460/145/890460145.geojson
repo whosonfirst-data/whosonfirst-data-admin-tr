@@ -11,7 +11,7 @@
     "geom:longitude":29.923638,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4902,
+    "gn:population":4902,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.061548,
     "lbl:longitude":29.925679,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Afyon",
     "meso:admin_1":"Afyon",
     "meso:gadm_admin":"Evciler",
@@ -41,6 +43,7 @@
     "mps:longitude":29.925679,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Evciler"
     ],
@@ -108,9 +111,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"141",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Evciler",
@@ -132,7 +135,7 @@
         "gn:id":315132,
         "gp:id":29390323,
         "hasc:id":"TR.AF.EV",
-        "qs:id":124139,
+        "qs_pg:id":124139,
         "wd:id":"Q2672705",
         "wk:page":"Evciler"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":890460145,
-    "wof:lastmodified":1563361557,
+    "wof:lastmodified":1566586444,
     "wof:name":"Evciler",
     "wof:parent_id":85679267,
     "wof:placetype":"county",

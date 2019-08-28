@@ -10,8 +10,10 @@
     "geom:latitude":41.096091,
     "geom:longitude":29.144895,
     "iso:country":"TR",
+    "lbl:bbox":"29.1398954263,41.0910905562,29.1498954263,41.1010905562",
     "lbl:latitude":41.096091,
     "lbl:longitude":29.144895,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461921,
-        85679237
+        890461921
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831793,
-    "wof:lastmodified":1566339712,
+    "wof:lastmodified":1566584864,
     "wof:name":"Cengeldere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

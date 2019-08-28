@@ -11,11 +11,15 @@
     "geom:longitude":29.98028,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":395,
+    "gn:population":395,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.96028,40.86667,30.00028,40.90667",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Kaynarca"
     ],
@@ -238,7 +242,7 @@
     "wof:concordances":{
         "gn:id":743635,
         "gp:id":2344173,
-        "qs:id":1024945,
+        "qs_pg:id":1024945,
         "wd:id":"Q6380636",
         "wk:page":"Kaynarca"
     },
@@ -255,7 +259,7 @@
         }
     ],
     "wof:id":890462303,
-    "wof:lastmodified":1563361409,
+    "wof:lastmodified":1566586390,
     "wof:name":"Kaynarca",
     "wof:parent_id":1108709225,
     "wof:placetype":"locality",

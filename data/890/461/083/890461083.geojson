@@ -11,9 +11,12 @@
     "geom:longitude":27.13838,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":2500603,
+    "gn:population":2500603,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.11838,38.39273,27.15838,38.43273",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":5.1,
@@ -383,7 +386,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0437\u043c\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ismir"
     ],
     "name:urd_x_preferred":[
@@ -531,7 +534,7 @@
     "wof:concordances":{
         "gn:id":311046,
         "gp:id":2344117,
-        "qs:id":811822,
+        "qs_pg:id":811822,
         "wd:id":"Q35997",
         "wk:page":"\u0130zmir"
     },
@@ -548,7 +551,7 @@
         }
     ],
     "wof:id":890461083,
-    "wof:lastmodified":1563361690,
+    "wof:lastmodified":1566586491,
     "wof:name":"\u0130zmir",
     "wof:parent_id":890464249,
     "wof:placetype":"locality",

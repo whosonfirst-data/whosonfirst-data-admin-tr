@@ -10,8 +10,10 @@
     "geom:latitude":41.022974,
     "geom:longitude":29.235757,
     "iso:country":"TR",
+    "lbl:bbox":"29.2307566973,41.0179743228,29.2407566973,41.0279743228",
     "lbl:latitude":41.022974,
     "lbl:longitude":29.235757,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108710051,
-        85679237
+        1108710051
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832129,
-    "wof:lastmodified":1566339749,
+    "wof:lastmodified":1566584852,
     "wof:name":"Sogukpinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

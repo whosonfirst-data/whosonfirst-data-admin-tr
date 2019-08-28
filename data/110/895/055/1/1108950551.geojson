@@ -10,8 +10,10 @@
     "geom:latitude":41.098621,
     "geom:longitude":28.895313,
     "iso:country":"TR",
+    "lbl:bbox":"28.8903127391,41.093621186,28.9003127391,41.103621186",
     "lbl:latitude":41.098621,
     "lbl:longitude":28.895313,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Yunusemre"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950551,
-    "wof:lastmodified":1563359574,
+    "wof:lastmodified":1566585288,
     "wof:name":"Yunus Emre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

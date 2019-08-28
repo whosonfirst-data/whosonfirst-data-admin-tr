@@ -11,17 +11,21 @@
     "geom:longitude":38.78194,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":260,
+    "gn:population":260,
     "iso:country":"TR",
+    "lbl:bbox":"38.76194,36.89611,38.80194,36.93611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Atl\u0131konak"
     ],
     "name:tur_x_variant":[
         "Bah\u015fi\u015f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bakhshish"
     ],
     "qs:name":"Atl\u0131konak",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":436359,
-        "qs:id":80328
+        "qs_pg:id":80328
     },
     "wof:country":"TR",
     "wof:created":1469053295,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890459999,
-    "wof:lastmodified":1505343680,
+    "wof:lastmodified":1566586550,
     "wof:name":"Atl\u0131konak",
     "wof:parent_id":890461365,
     "wof:placetype":"locality",

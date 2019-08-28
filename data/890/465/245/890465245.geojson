@@ -11,10 +11,14 @@
     "geom:longitude":41.24285,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":172,
+    "gn:population":172,
     "iso:country":"TR",
+    "lbl:bbox":"41.22285,37.10914,41.26285,37.14914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "G\u00fcr\u00fcn"
     ],
@@ -93,7 +97,7 @@
     "name:tur_x_variant":[
         "Mutluca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fcrrin"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":313315,
         "gp:id":2344290,
-        "qs:id":547492,
+        "qs_pg:id":547492,
         "wd:id":"Q3678081"
     },
     "wof:country":"TR",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890465245,
-    "wof:lastmodified":1563361279,
+    "wof:lastmodified":1566586331,
     "wof:name":"Gyuryun",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

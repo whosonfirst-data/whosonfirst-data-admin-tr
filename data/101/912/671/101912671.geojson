@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":40.986605,
     "lbl:longitude":28.842069,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.986605,
     "mps:longitude":28.842069,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Atak\u00f6y"
     ],
@@ -43,7 +46,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":96,
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,6 @@
     "wof:concordances":{
         "gn:id":7627068,
         "gp:id":22724135,
-        "qs:id":1137218,
         "qs_pg:id":1137218,
         "wd:id":"Q6087586"
     },
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":101912671,
-    "wof:lastmodified":1563360635,
+    "wof:lastmodified":1566586002,
     "wof:name":"Atakoy",
     "wof:parent_id":890462833,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":29.22611,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.20611,41.0125,29.24611,41.0525",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sultan\u00e7iftli\u011fi"
     ],
@@ -88,7 +92,7 @@
     "name:tur_x_preferred":[
         "Sultan\u00e7iftli\u011fi"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sultan\u00e7iflikk\u00f6y"
     ],
     "name:war_x_preferred":[
@@ -114,7 +118,7 @@
     "wof:concordances":{
         "gn:id":739282,
         "gp:id":2337916,
-        "qs:id":1189934,
+        "qs_pg:id":1189934,
         "wd:id":"Q6070245"
     },
     "wof:country":"TR",
@@ -130,7 +134,7 @@
         }
     ],
     "wof:id":890460615,
-    "wof:lastmodified":1563361614,
+    "wof:lastmodified":1566586464,
     "wof:name":"Sultan\u00e7iftli\u011fi",
     "wof:parent_id":1108710051,
     "wof:placetype":"locality",

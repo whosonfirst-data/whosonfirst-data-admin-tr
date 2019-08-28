@@ -5,20 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000426,
-    "geom:area_square_m":4156138.594892,
+    "geom:area_square_m":4156138.594887,
     "geom:bbox":"27.2605560756,37.8890626552,27.2881582209,37.9470006325",
     "geom:latitude":37.918596,
     "geom:longitude":27.275666,
     "iso:country":"TR",
     "lbl:latitude":37.913839,
     "lbl:longitude":27.270856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":37.913839,
     "mps:longitude":27.270856,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Bayrakl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bayatika"
     ],
     "qs:a0":"Turkey",
@@ -36,7 +40,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -47,7 +51,6 @@
     "wof:concordances":{
         "gn:id":321743,
         "gp:id":55966450,
-        "qs:id":1080244,
         "qs_pg:id":1080244
     },
     "wof:country":"TR",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":101912951,
-    "wof:lastmodified":1497290833,
+    "wof:lastmodified":1566586001,
     "wof:name":"Bayrakli Dede",
     "wof:parent_id":890461025,
     "wof:placetype":"locality",

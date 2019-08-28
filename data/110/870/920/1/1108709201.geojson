@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.582349,
     "lbl:longitude":42.369843,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Erzurum",
     "meso:admin_1":"Erzurum",
     "meso:gadm_admin":"\u015eenkaya",
@@ -37,6 +39,7 @@
     "mps:longitude":42.369843,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u015eenkaya"
     ],
@@ -95,9 +98,9 @@
         "\u015eenkaya"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1536",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Senkaya",
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":1108709201,
-    "wof:lastmodified":1563359759,
+    "wof:lastmodified":1566585369,
     "wof:name":"\u015eenkaya",
     "wof:parent_id":85679369,
     "wof:placetype":"county",

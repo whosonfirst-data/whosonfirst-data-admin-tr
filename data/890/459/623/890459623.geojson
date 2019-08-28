@@ -11,10 +11,14 @@
     "geom:longitude":39.13359,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":665,
+    "gn:population":665,
     "iso:country":"TR",
+    "lbl:bbox":"39.11359,36.79178,39.15359,36.83178",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Selalmaz"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":301271,
-        "qs:id":547298
+        "qs_pg:id":547298
     },
     "wof:country":"TR",
     "wof:created":1469053275,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459623,
-    "wof:lastmodified":1505343678,
+    "wof:lastmodified":1566586580,
     "wof:name":"Selalmaz",
     "wof:parent_id":890461929,
     "wof:placetype":"locality",

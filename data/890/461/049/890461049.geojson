@@ -11,11 +11,15 @@
     "geom:longitude":27.06938,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":53489,
+    "gn:population":53489,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.04938,38.58754,27.08938,38.62754",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:cat_x_preferred":[
         "Menemen"
     ],
@@ -94,7 +98,7 @@
     "name:tur_x_preferred":[
         "Menemen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Temnos"
     ],
     "name:urd_x_preferred":[
@@ -127,7 +131,7 @@
     "wof:concordances":{
         "gn:id":304612,
         "gp:id":2344258,
-        "qs:id":758417,
+        "qs_pg:id":758417,
         "wd:id":"Q2152404",
         "wk:page":"Menemen"
     },
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":890461049,
-    "wof:lastmodified":1563361701,
+    "wof:lastmodified":1566586495,
     "wof:name":"Menemen",
     "wof:parent_id":890460565,
     "wof:placetype":"locality",

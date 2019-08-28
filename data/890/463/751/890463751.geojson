@@ -11,10 +11,14 @@
     "geom:longitude":34.48528,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"34.46528,37.52776,34.50528,37.56776",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Uluk\u0131\u015fla"
     ],
@@ -72,7 +76,7 @@
     "name:tur_x_variant":[
         "Uluk\u0131\u015fla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halala"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":298414,
         "gp:id":2344468,
-        "qs:id":204027,
+        "qs_pg:id":204027,
         "wd:id":"Q1018537",
         "wk:page":"Uluk\u0131\u015fla"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890463751,
-    "wof:lastmodified":1563361043,
+    "wof:lastmodified":1566586237,
     "wof:name":"Uluk\u0131\u015fla",
     "wof:parent_id":1108709951,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":38.07677,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"38.07177,37.0123,38.08177,37.0223",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u064a\u062f\u064a \u062a\u0628\u064a\u0647"
     ],
@@ -57,7 +60,7 @@
     "wof:concordances":{
         "gn:id":7538936,
         "gp:id":56043047,
-        "qs:id":997035,
+        "qs_pg:id":997035,
         "wk:page":"Yeditepe"
     },
     "wof:country":"TR",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":890462147,
-    "wof:lastmodified":1564162839,
+    "wof:lastmodified":1566586418,
     "wof:name":"Yeditepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

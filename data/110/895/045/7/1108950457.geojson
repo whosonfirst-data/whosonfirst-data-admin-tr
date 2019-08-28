@@ -10,8 +10,10 @@
     "geom:latitude":41.024478,
     "geom:longitude":28.910207,
     "iso:country":"TR",
+    "lbl:bbox":"28.9052068881,41.01947837,28.9152068881,41.02947837",
     "lbl:latitude":41.024478,
     "lbl:longitude":28.910207,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -36,7 +38,7 @@
     "name:tur_x_preferred":[
         "Maltepe"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1108950457,
-    "wof:lastmodified":1564161437,
+    "wof:lastmodified":1566585294,
     "wof:name":"Maltepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

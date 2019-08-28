@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":40.586349,
     "lbl:longitude":41.627747,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Erzurum",
     "meso:admin_1":"Erzurum",
     "meso:gadm_admin":"Uzundere",
@@ -38,6 +40,7 @@
     "mps:longitude":41.627747,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Uzundere \u0130l\u00e7esi"
     ],
@@ -104,9 +107,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"416",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Uzundere",
@@ -127,7 +130,7 @@
     "wof:concordances":{
         "gp:id":29390848,
         "hasc:id":"TR.EM.UZ",
-        "qs:id":1324371,
+        "qs_pg:id":1324371,
         "wd:id":"Q1843445",
         "wk:page":"Uzundere"
     },
@@ -143,7 +146,7 @@
         }
     ],
     "wof:id":890463117,
-    "wof:lastmodified":1563361030,
+    "wof:lastmodified":1566586234,
     "wof:name":"Uzundere",
     "wof:parent_id":85679369,
     "wof:placetype":"county",

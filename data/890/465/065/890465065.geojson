@@ -11,11 +11,15 @@
     "geom:longitude":34.21314,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":241,
+    "gn:population":241,
     "iso:country":"TR",
+    "lbl:bbox":"34.19314,37.40116,34.23314,37.44116",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Yayikli"
     ],
     "qs:name":"Nernek",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":303839,
         "gp:id":2322429,
-        "qs:id":547349
+        "qs_pg:id":547349
     },
     "wof:country":"TR",
     "wof:created":1469053499,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890465065,
-    "wof:lastmodified":1505343701,
+    "wof:lastmodified":1566586333,
     "wof:name":"Nernek",
     "wof:parent_id":1108709557,
     "wof:placetype":"locality",

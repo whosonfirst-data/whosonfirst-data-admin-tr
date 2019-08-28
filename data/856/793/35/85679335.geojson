@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.653253,
     "lbl:longitude":35.702925,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Amasya",
     "mps:latitude":40.664856,
     "mps:longitude":35.667855,
@@ -280,7 +281,7 @@
         "Amasya"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bae\u0bb8\u0bcd\u0baf\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0bae\u0bb8\u0bcd\u0baf\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c2e\u0c3e\u0c38\u0c4d\u0c2f \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -312,13 +313,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043c\u0430\u0441\u044c\u044f"
     ],
-    "name:und_x_preferred":[
-        "Amasya"
-    ],
     "name:und_x_variant":[
-        "Amasya"
-    ],
-    "name:unk_x_variant":[
         "Amasia"
     ],
     "name:urd_x_preferred":[
@@ -417,9 +412,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"5,520",
     "statoids:area_mi":"2,131",
     "statoids:as_of_date":"2007-12-31",
@@ -444,7 +439,7 @@
         "gp:id":2347262,
         "hasc:id":"TR.AM",
         "iso:id":"TR-05",
-        "qs:id":894998,
+        "qs_pg:id":894998,
         "unlc:id":"TR-05",
         "wd:id":"Q80036",
         "wk:page":"Amasya Province"
@@ -465,11 +460,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737375,
+    "wof:lastmodified":1566582956,
     "wof:name":"Amasya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":328674,
     "wof:population_rank":10,

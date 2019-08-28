@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":38.437389,
     "lbl:longitude":33.857048,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Aksaray",
     "mps:latitude":38.343477,
     "mps:longitude":33.846494,
@@ -266,7 +267,7 @@
         "Aksaray"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b95\u0bcd\u0bb8\u0bb0\u0bbe\u0baf\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0b95\u0bcd\u0bb8\u0bb0\u0bbe\u0baf\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c15\u0c4d\u0c38\u0c3e\u0c30\u0c47 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -297,12 +298,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043a\u0441\u0430\u0440\u0430\u0439"
-    ],
-    "name:und_x_preferred":[
-        "Aksaray"
-    ],
-    "name:und_x_variant":[
-        "Aksaray"
     ],
     "name:urd_x_preferred":[
         "\u0635\u0648\u0628\u06c1 \u0622\u0642 \u0633\u0631\u0627\u0626\u06d2"
@@ -397,9 +392,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"7,626",
     "statoids:area_mi":"2,944",
     "statoids:as_of_date":"2007-12-31",
@@ -424,7 +419,7 @@
         "gp:id":2347325,
         "hasc:id":"TR.AK",
         "iso:id":"TR-68",
-        "qs:id":895003,
+        "qs_pg:id":895003,
         "unlc:id":"TR-68",
         "wd:id":"Q83073",
         "wk:page":"Aksaray Province"
@@ -445,11 +440,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737377,
+    "wof:lastmodified":1566582965,
     "wof:name":"Aksaray",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":366109,
     "wof:population_rank":10,

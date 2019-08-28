@@ -10,8 +10,10 @@
     "geom:latitude":41.159583,
     "geom:longitude":28.904658,
     "iso:country":"TR",
+    "lbl:bbox":"28.8996579582,41.1545831376,28.9096579582,41.1645831376",
     "lbl:latitude":41.159583,
     "lbl:longitude":28.904658,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Mithatpa\u015fa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950113,
-    "wof:lastmodified":1563359595,
+    "wof:lastmodified":1566585298,
     "wof:name":"Mithatpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":8935105.214289,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.159619,38.39275,27.159619,38.39275",
     "geom:latitude":38.39275,
     "geom:longitude":27.159619,
     "iso:country":"TR",
+    "lbl:bbox":"27.154619,38.38775,27.164619,38.39775",
     "lbl:latitude":38.39275,
     "lbl:longitude":27.159619,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.391831,
     "mps:longitude":27.149766,
     "mz:hierarchy_label":0,
@@ -33,15 +35,8 @@
         "Esrefpasa",
         "Esrefpasasemti"
     ],
-    "name:und_x_preferred":[
-        "E\u015frefpa\u015fa"
-    ],
     "name:und_x_variant":[
         "E\u015frefpa\u015fasemti"
-    ],
-    "name:unk_x_variant":[
-        "E\u015frefpa\u015fasemti",
-        "E\u015frefpa\u015fa"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -71,19 +66,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":450,
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890462507,
-        85679201
+        890462507
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":315161,
         "gp:id":2343569,
-        "qs:id":263801,
+        "qs_pg:id":263801,
         "wd:id":"Q5423538",
         "wk:page":"E\u015frefpa\u015fa"
     },
@@ -103,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936187,
+    "wof:lastmodified":1566582918,
     "wof:name":"E\u015frefpa\u015fa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

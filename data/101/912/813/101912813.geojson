@@ -12,9 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":40.14771,
     "lbl:longitude":26.429419,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.14771,
     "mps:longitude":26.429419,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"7",
@@ -30,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -40,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966557,
-        "qs:id":141159,
         "qs_pg:id":141159
     },
     "wof:country":"TR",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101912813,
-    "wof:lastmodified":1497291077,
+    "wof:lastmodified":1566586002,
     "wof:name":"Ismet Pasa",
     "wof:parent_id":890462343,
     "wof:placetype":"locality",

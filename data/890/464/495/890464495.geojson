@@ -11,11 +11,15 @@
     "geom:longitude":28.87121,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.85121,40.96936,28.89121,41.00936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0642\u0631 \u0643\u0648\u064a"
     ],
@@ -112,7 +116,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u043a\u0438\u0440\u043a\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Makr\u0131k\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":751214,
         "gp:id":2343767,
-        "qs:id":237097,
+        "qs_pg:id":237097,
         "wd:id":"Q752528",
         "wk:page":"Bak\u0131rk\u00f6y"
     },
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":890464495,
-    "wof:lastmodified":1563361250,
+    "wof:lastmodified":1566586316,
     "wof:name":"Bak\u0131rk\u00f6y",
     "wof:parent_id":890462833,
     "wof:placetype":"locality",

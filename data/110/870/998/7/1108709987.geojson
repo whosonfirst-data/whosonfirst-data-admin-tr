@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":41.142046,
     "lbl:longitude":32.242808,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Karabuk",
     "meso:admin_1":"Karab\u00fck",
     "meso:gadm_admin":"Yenice",
@@ -37,6 +39,7 @@
     "mps:longitude":32.242808,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Yenice"
     ],
@@ -101,9 +104,9 @@
         "\u8036\u5c3c\u5091"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"620",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Yenice",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108709987,
-    "wof:lastmodified":1563359643,
+    "wof:lastmodified":1566585323,
     "wof:name":"Yenice",
     "wof:parent_id":85679537,
     "wof:placetype":"county",

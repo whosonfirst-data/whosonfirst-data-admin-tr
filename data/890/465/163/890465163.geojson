@@ -11,14 +11,18 @@
     "geom:longitude":40.57427,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":495,
+    "gn:population":495,
     "iso:country":"TR",
+    "lbl:bbox":"40.55427,37.53493,40.59427,37.57493",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Kemerli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Harapbazin"
     ],
     "qs:name":"Kemerli",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":308199,
         "gp:id":2313873,
-        "qs:id":547413
+        "qs_pg:id":547413
     },
     "wof:country":"TR",
     "wof:created":1469053505,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890465163,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586343,
     "wof:name":"Kemerli",
     "wof:parent_id":1108709713,
     "wof:placetype":"locality",

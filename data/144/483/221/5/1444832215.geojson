@@ -10,8 +10,10 @@
     "geom:latitude":41.077389,
     "geom:longitude":29.348309,
     "iso:country":"TR",
+    "lbl:bbox":"29.3433093968,41.0723889327,29.3533093968,41.0823889327",
     "lbl:latitude":41.077389,
     "lbl:longitude":29.348309,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108710051,
-        85679237
+        1108710051
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832215,
-    "wof:lastmodified":1566339759,
+    "wof:lastmodified":1566584831,
     "wof:name":"Kocullu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

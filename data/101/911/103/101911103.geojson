@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":40.916496,
     "lbl:longitude":38.387703,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":40.916496,
     "mps:longitude":38.387703,
     "mz:hierarchy_label":1,
@@ -201,7 +203,7 @@
     "name:ukr_x_preferred":[
         "\u0490\u0456\u0440\u0435\u0441\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pharnacia"
     ],
     "name:urd_x_preferred":[
@@ -329,7 +331,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":40.9,
     "wd:longitude":38.416667,
@@ -344,7 +346,6 @@
     "wof:concordances":{
         "gn:id":746881,
         "gp:id":2344018,
-        "qs:id":1134786,
         "qs_pg:id":1134786,
         "wd:id":"Q201095",
         "wk:page":"Giresun"
@@ -361,7 +362,7 @@
         }
     ],
     "wof:id":101911103,
-    "wof:lastmodified":1563360652,
+    "wof:lastmodified":1566586008,
     "wof:name":"Giresun",
     "wof:parent_id":890460305,
     "wof:placetype":"locality",

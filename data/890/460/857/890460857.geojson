@@ -11,18 +11,21 @@
     "geom:longitude":30.74,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.735,39.56417,30.745,39.57417",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:min_x_preferred":[
         "Yenikent"
     ],
     "name:tur_x_preferred":[
         "Yenikent"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yenik\u00f6y"
     ],
     "qs:name":"Yenikent",
@@ -48,7 +51,7 @@
     "wof:concordances":{
         "gn:id":296980,
         "gp:id":56043400,
-        "qs:id":290044,
+        "qs_pg:id":290044,
         "wk:page":"Yenikent"
     },
     "wof:country":"TR",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890460857,
-    "wof:lastmodified":1564162853,
+    "wof:lastmodified":1566586437,
     "wof:name":"Yenikent",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":42.20389,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":443,
+    "gn:population":443,
     "iso:country":"TR",
+    "lbl:bbox":"42.18389,37.36222,42.22389,37.40222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Dirsekli"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":408527,
         "gp:id":2343899,
-        "qs:id":548015
+        "qs_pg:id":548015
     },
     "wof:country":"TR",
     "wof:created":1469053520,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890465475,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586347,
     "wof:name":"Dirsekli",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

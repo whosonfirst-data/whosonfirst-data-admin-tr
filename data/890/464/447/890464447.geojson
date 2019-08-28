@@ -11,7 +11,7 @@
     "geom:longitude":33.402421,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.714779,
     "lbl:longitude":33.409813,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Mut",
@@ -41,6 +43,7 @@
     "mps:longitude":33.409813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Mut"
     ],
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2518",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Mut",
@@ -161,7 +164,7 @@
         "gn:id":7910604,
         "gp:id":29390647,
         "hasc:id":"TR.IC.MU",
-        "qs:id":232378,
+        "qs_pg:id":232378,
         "wd:id":"Q94637",
         "wk:page":"Mut"
     },
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890464447,
-    "wof:lastmodified":1563361141,
+    "wof:lastmodified":1566586275,
     "wof:name":"Mut",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

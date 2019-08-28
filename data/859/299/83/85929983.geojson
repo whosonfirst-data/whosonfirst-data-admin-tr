@@ -11,8 +11,10 @@
     "geom:longitude":35.332638,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"35.327638,36.984446,35.337638,36.994446",
     "lbl:latitude":36.989446,
     "lbl:longitude":35.332638,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.982383,
     "mps:longitude":35.329561,
     "mz:hierarchy_label":0,
@@ -25,12 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
     "name:eng_x_preferred":[
-        "Ulucami"
-    ],
-    "name:und_x_preferred":[
-        "Ulucami"
-    ],
-    "name:unk_x_variant":[
         "Ulucami"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -60,7 +56,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":159,
     "wof:belongsto":[
         85679443,
@@ -71,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870997,
-        "qs:id":961090,
+        "qs_pg:id":961090,
         "wd:id":"Q16966611"
     },
     "wof:country":"TR",
@@ -90,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356528,
+    "wof:lastmodified":1566582947,
     "wof:name":"Ulucami",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

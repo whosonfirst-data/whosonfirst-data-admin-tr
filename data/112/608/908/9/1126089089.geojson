@@ -9,16 +9,19 @@
     "geom:bbox":"27.1,38.4,27.1,38.4",
     "geom:latitude":38.4,
     "geom:longitude":27.1,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":38.41148,
     "gn:longitude":27.12071,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"27.095,38.395,27.105,38.405",
     "lbl:latitude":38.4,
     "lbl:longitude":27.1,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ell_x_preferred":[
         "\u039c\u03b5\u03bb\u03b1\u03bd\u03c4\u03af\u03b1"
@@ -34,12 +37,6 @@
     ],
     "name:und_x_colloquial":[
         "Karatas"
-    ],
-    "name:und_x_preferred":[
-        "Karata\u015f"
-    ],
-    "name:unk_x_variant":[
-        "Karata\u015f"
     ],
     "qs_pg:aaroncc":"TR",
     "qs_pg:gn_country":"TR",
@@ -62,7 +59,7 @@
     "qs_pg:woe_adm0":23424969,
     "qs_pg:woe_id":2343600,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424969,
     "woe:name_adm0":"Turkey",
     "woe:name_adm1":"\u0130zmir",
@@ -77,7 +74,6 @@
     "wof:concordances":{
         "gn:id":309288,
         "gp:id":2343600,
-        "qs:id":1077779,
         "qs_pg:id":1077779,
         "wd:id":"Q4821047",
         "wk:page":"Karata\u015f, Izmir"
@@ -96,7 +92,7 @@
         }
     ],
     "wof:id":1126089089,
-    "wof:lastmodified":1563361929,
+    "wof:lastmodified":1566586596,
     "wof:name":"Karata\u015f",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

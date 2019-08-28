@@ -11,11 +11,14 @@
     "geom:longitude":29.07103,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.06603,41.01907,29.07603,41.02907",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"K\u0131s\u0131kl\u0131",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":743127,
         "gp:id":2343607,
-        "qs:id":327026
+        "qs_pg:id":327026
     },
     "wof:country":"TR",
     "wof:created":1469053338,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890461077,
-    "wof:lastmodified":1505343685,
+    "wof:lastmodified":1566586491,
     "wof:name":"K\u0131s\u0131kl\u0131",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",

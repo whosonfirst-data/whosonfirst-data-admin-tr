@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":40.982609,
     "lbl:longitude":28.721101,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.986874,
     "mps:longitude":28.72769,
     "mz:hierarchy_label":1,
@@ -25,10 +26,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Merkez"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merkez"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -69,7 +67,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870948,
-        "qs:id":1092391,
         "qs_pg:id":1092391
     },
     "wof:country":"TR",
@@ -88,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247581,
+    "wof:lastmodified":1566582946,
     "wof:name":"Merkez",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":42.12846,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":3546,
+    "gn:population":3546,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"42.10846,40.80164,42.14846,40.84164",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Olur"
     ],
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Olur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Olor"
     ],
     "name:urd_x_preferred":[
@@ -101,7 +105,7 @@
     "wof:concordances":{
         "gn:id":741136,
         "gp:id":2333598,
-        "qs:id":1310442,
+        "qs_pg:id":1310442,
         "wd:id":"Q14640",
         "wk:page":"Olur"
     },
@@ -118,7 +122,7 @@
         }
     ],
     "wof:id":890464227,
-    "wof:lastmodified":1563361142,
+    "wof:lastmodified":1566586275,
     "wof:name":"Olur",
     "wof:parent_id":1108709777,
     "wof:placetype":"locality",

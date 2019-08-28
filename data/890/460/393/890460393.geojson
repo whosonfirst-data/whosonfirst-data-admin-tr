@@ -11,10 +11,14 @@
     "geom:longitude":42.60917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":11943,
+    "gn:population":11943,
     "iso:country":"TR",
+    "lbl:bbox":"42.58917,40.77361,42.62917,40.81361",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:aze_x_preferred":[
         "G\u00f6l\u0259"
     ],
@@ -90,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u044c\u043e\u043b\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Merdenek"
     ],
     "name:urd_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":746643,
         "gp:id":2320773,
-        "qs:id":370068,
+        "qs_pg:id":370068,
         "wd:id":"Q1004454"
     },
     "wof:country":"TR",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890460393,
-    "wof:lastmodified":1563361591,
+    "wof:lastmodified":1566586457,
     "wof:name":"Merdinik",
     "wof:parent_id":1108709521,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":33.66667,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.64667,39.26333,33.68667,39.30333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Akp\u0131nar"
     ],
@@ -217,7 +221,7 @@
     "name:tur_x_variant":[
         "Akp\u0131nar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u011fp\u0131nar"
     ],
     "name:vec_x_preferred":[
@@ -264,7 +268,7 @@
     "wof:concordances":{
         "gn:id":324533,
         "gp:id":2343704,
-        "qs:id":327023,
+        "qs_pg:id":327023,
         "wd:id":"Q362215",
         "wk:page":"Akp\u0131nar"
     },
@@ -281,7 +285,7 @@
         }
     ],
     "wof:id":890463523,
-    "wof:lastmodified":1563361116,
+    "wof:lastmodified":1566586264,
     "wof:name":"Akp\u0131nar",
     "wof:parent_id":890461851,
     "wof:placetype":"locality",

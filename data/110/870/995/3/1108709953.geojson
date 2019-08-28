@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":41.238643,
     "lbl:longitude":26.736188,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Edirne",
     "meso:admin_1":"Edirne",
     "meso:gadm_admin":"Uzunk\u00f6pr\u00fc",
@@ -37,6 +39,7 @@
     "mps:longitude":26.736188,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0632\u0648\u0646 \u06a9\u0648\u067e\u0631\u0648"
     ],
@@ -122,9 +125,9 @@
         "\u70cf\u5c0a\u514b\u666e\u5442"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1213",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Uzunk\u00f6pr\u00fc",
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":1108709953,
-    "wof:lastmodified":1564161494,
+    "wof:lastmodified":1566585354,
     "wof:name":"Uzunk\u00f6pr\u00fc",
     "wof:parent_id":85679213,
     "wof:placetype":"county",

@@ -23,8 +23,12 @@
     "gn:population":1720,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"33.73041,36.22083,33.77041,36.26083",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Akdere"
     ],
@@ -41,8 +45,7 @@
         "Akdere"
     ],
     "name:und_x_variant":[
-        "Akdere\u0131\u015f\u0131kl\u0131",
-        "Akdere"
+        "Akdere\u0131\u015f\u0131kl\u0131"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1226183791,
-    "wof:lastmodified":1564164574,
+    "wof:lastmodified":1566587653,
     "wof:name":"Akdere",
     "wof:parent_id":890464483,
     "wof:placetype":"locality",

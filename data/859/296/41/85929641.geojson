@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1144061.165988,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.133542,38.426311,27.133542,38.426311",
     "geom:latitude":38.426311,
     "geom:longitude":27.133542,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"27.128542,38.421311,27.138542,38.431311",
     "lbl:latitude":38.426311,
     "lbl:longitude":27.133542,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.426948,
     "mps:longitude":27.129226,
     "mz:hierarchy_label":0,
@@ -51,9 +53,6 @@
     "name:tur_x_preferred":[
         "Akdeniz"
     ],
-    "name:unk_x_variant":[
-        "Akdeniz"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0642\u062f\u06cc\u0646\u06cc\u0632\u060c \u0645\u0631\u0633\u06cc\u0646"
     ],
@@ -87,18 +86,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":360,
     "wof:belongsto":[
+        85679201,
         102191569,
         85632393,
-        890464249,
-        85679201
+        890464249
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865543,
-        "qs:id":1197706
+        "qs_pg:id":1197706
     },
     "wof:country":"TR",
     "wof:geomhash":"e03f0b4c9bfff284a8882048b9f3be4a",
@@ -116,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531939148,
+    "wof:lastmodified":1566582941,
     "wof:name":"Akdeniz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

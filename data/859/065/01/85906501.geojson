@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.006344,
     "lbl:longitude":28.975347,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.005781,
     "mps:longitude":28.972962,
     "mz:hierarchy_label":1,
@@ -26,9 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
-        "Binbirdirek"
-    ],
-    "name:unk_x_variant":[
         "Binbirdirek"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724032,
-        "qs:id":501193
+        "qs_pg:id":501193
     },
     "wof:country":"TR",
     "wof:geomhash":"99c2196404af8c15f737d54e66c86d5d",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247577,
+    "wof:lastmodified":1566582921,
     "wof:name":"Binbirdirek",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

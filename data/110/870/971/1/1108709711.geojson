@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.61734,
     "lbl:longitude":27.615387,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Balikesir",
     "meso:admin_1":"Balikesir",
     "meso:gadm_admin":"Marmara",
@@ -37,6 +39,7 @@
     "mps:longitude":27.615387,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0642\u0636\u0627\u0621 \u0645\u0631\u0645\u0631\u0629"
     ],
@@ -101,9 +104,9 @@
         "Marmara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"154",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Marmara",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108709711,
-    "wof:lastmodified":1563359698,
+    "wof:lastmodified":1566585345,
     "wof:name":"Marmara",
     "wof:parent_id":85679205,
     "wof:placetype":"county",

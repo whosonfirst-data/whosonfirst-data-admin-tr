@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"32.99172,41.87643,33.03172,41.91643",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":751290
     },
     "wof:country":"TR",
-    "wof:geomhash":"5f205bd7313f2af71c477a3646a00ca2",
+    "wof:geomhash":"a20f8ff82fce54604d5a0cd92780da4e",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209147727,
-    "wof:lastmodified":1536296305,
+    "wof:lastmodified":1566584546,
     "wof:name":"Bagyurdu",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.011720000000004,
+    33.01172,
     41.89643,
-    33.011720000000004,
+    33.01172,
     41.89643
 ],
   "geometry": {"coordinates":[33.01172,41.89643],"type":"Point"}

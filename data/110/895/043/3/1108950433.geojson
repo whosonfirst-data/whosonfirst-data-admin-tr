@@ -10,8 +10,10 @@
     "geom:latitude":41.035511,
     "geom:longitude":28.989703,
     "iso:country":"TR",
+    "lbl:bbox":"28.9847028776,41.0305113207,28.9947028776,41.0405113207",
     "lbl:latitude":41.035511,
     "lbl:longitude":28.989703,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,7 +32,7 @@
     "name:tur_x_variant":[
         "\u00d6meravni"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -56,7 +58,7 @@
         }
     ],
     "wof:id":1108950433,
-    "wof:lastmodified":1514506844,
+    "wof:lastmodified":1566585302,
     "wof:name":"Ayaspasa",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

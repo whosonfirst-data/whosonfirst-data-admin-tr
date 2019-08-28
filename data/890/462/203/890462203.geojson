@@ -11,11 +11,15 @@
     "geom:longitude":34.60111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"34.58111,37.15028,34.62111,37.19028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0627\u0645\u0644\u064a\u0627\u064a\u0644\u0627"
     ],
@@ -79,7 +83,7 @@
     "name:tur_x_preferred":[
         "\u00c7aml\u0131yayla"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Namrun"
     ],
     "name:urd_x_preferred":[
@@ -109,7 +113,7 @@
     "wof:concordances":{
         "gn:id":319591,
         "gp:id":2313702,
-        "qs:id":1014370,
+        "qs_pg:id":1014370,
         "wd:id":"Q94603",
         "wk:page":"\u00c7aml\u0131yayla"
     },
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":890462203,
-    "wof:lastmodified":1563361371,
+    "wof:lastmodified":1566586376,
     "wof:name":"\u00c7aml\u0131yayla",
     "wof:parent_id":1108710019,
     "wof:placetype":"locality",

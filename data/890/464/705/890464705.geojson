@@ -11,11 +11,15 @@
     "geom:longitude":29.66833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.64833,37.80694,29.68833,37.84694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00c7ardak"
     ],
@@ -64,7 +68,7 @@
     "name:tur_x_preferred":[
         "\u00c7ardak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7ardakk\u00f6y\u00fc"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":319415,
         "gp:id":2313931,
-        "qs:id":271200,
+        "qs_pg:id":271200,
         "wd:id":"Q272634",
         "wk:page":"\u00c7ardak"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":890464705,
-    "wof:lastmodified":1563361197,
+    "wof:lastmodified":1566586297,
     "wof:name":"\u00c7ardak",
     "wof:parent_id":890462113,
     "wof:placetype":"locality",

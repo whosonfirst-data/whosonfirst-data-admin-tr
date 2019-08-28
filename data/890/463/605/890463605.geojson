@@ -11,7 +11,7 @@
     "geom:longitude":30.103793,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":13805,
+    "gn:population":13805,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.030413,
     "lbl:longitude":30.103895,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kocaeli",
     "meso:admin_1":"Kocaeli",
     "meso:gadm_admin":"Kand\u0131ra",
@@ -41,6 +43,7 @@
     "mps:longitude":30.103895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0642\u0627\u0646\u062f\u06cc\u0631\u0627"
     ],
@@ -122,9 +125,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"921",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kandira",
@@ -146,7 +149,7 @@
         "gn:id":744716,
         "gp:id":29390452,
         "hasc:id":"TR.KC.KD",
-        "qs:id":192812,
+        "qs_pg:id":192812,
         "wd:id":"Q1022149",
         "wk:page":"Kand\u0131ra"
     },
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890463605,
-    "wof:lastmodified":1563360987,
+    "wof:lastmodified":1566586219,
     "wof:name":"Kand\u0131ra",
     "wof:parent_id":85679241,
     "wof:placetype":"county",

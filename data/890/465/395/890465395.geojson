@@ -11,11 +11,15 @@
     "geom:longitude":42.05917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":336,
+    "gn:population":336,
     "iso:country":"TR",
+    "lbl:bbox":"42.03917,37.97583,42.07917,38.01583",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Doli"
     ],
     "qs:name":"Daml\u0131k\u00f6y",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":317643,
-        "qs:id":547590
+        "qs_pg:id":547590
     },
     "wof:country":"TR",
     "wof:created":1469053517,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465395,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586341,
     "wof:name":"Daml\u0131k\u00f6y",
     "wof:parent_id":890463401,
     "wof:placetype":"locality",

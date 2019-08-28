@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.244023,
     "lbl:longitude":28.41156,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Mugla",
     "meso:admin_1":"Mugla",
     "meso:gadm_admin":"Merkez",
@@ -41,6 +43,7 @@
     "mps:longitude":28.41156,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Merkez"
     ],
@@ -59,9 +62,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1661",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Mugla",
@@ -82,7 +85,7 @@
     "wof:concordances":{
         "gp:id":29390580,
         "hasc:id":"TR.MG.MG",
-        "qs:id":212960,
+        "qs_pg:id":212960,
         "wk:page":"Merkez"
     },
     "wof:country":"TR",
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":890464307,
-    "wof:lastmodified":1561070598,
+    "wof:lastmodified":1566586267,
     "wof:name":"Merkez",
     "wof:parent_id":85679291,
     "wof:placetype":"county",

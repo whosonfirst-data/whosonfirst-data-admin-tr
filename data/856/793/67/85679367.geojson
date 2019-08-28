@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":41.148903,
     "lbl:longitude":41.697748,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Artvin",
     "mps:latitude":41.084001,
     "mps:longitude":41.717557,
@@ -301,7 +302,7 @@
         "Artvin"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0bb1\u0bcd\u0b9f\u0bb5\u0bbf\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0bb1\u0bcd\u0b9f\u0bb5\u0bbf\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c06\u0c30\u0c4d\u0c1f\u0c4d\u0c35\u0c3f\u0c28\u0c4d"
@@ -327,13 +328,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0440\u0442\u0432\u0456\u043d"
     ],
-    "name:und_x_preferred":[
-        "Artvin"
-    ],
     "name:und_x_variant":[
-        "Artvin"
-    ],
-    "name:unk_x_variant":[
         "\u00c7oruh"
     ],
     "name:urd_x_preferred":[
@@ -435,9 +430,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"7,436",
     "statoids:area_mi":"2,871",
     "statoids:as_of_date":"2007-12-31",
@@ -463,7 +458,7 @@
         "gp:id":2347265,
         "hasc:id":"TR.AV",
         "iso:id":"TR-08",
-        "qs:id":885971,
+        "qs_pg:id":885971,
         "unlc:id":"TR-08",
         "wd:id":"Q43745",
         "wk:page":"Artvin Province"
@@ -484,11 +479,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737375,
+    "wof:lastmodified":1566582957,
     "wof:name":"Artvin",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":168092,
     "wof:population_rank":9,

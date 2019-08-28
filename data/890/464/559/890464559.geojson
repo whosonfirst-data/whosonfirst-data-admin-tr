@@ -11,10 +11,14 @@
     "geom:longitude":37.76833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":103,
+    "gn:population":103,
     "iso:country":"TR",
+    "lbl:bbox":"37.74833,36.78333,37.78833,36.82333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d"
     ],
@@ -58,7 +62,7 @@
         "Seyd\u00fcmen",
         "Se\u011fd\u00fcmen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Seydyumen"
     ],
     "qs:name":"Balaban",
@@ -76,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":436094,
-        "qs:id":548100,
+        "qs_pg:id":548100,
         "wk:page":"Balaban"
     },
     "wof:country":"TR",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890464559,
-    "wof:lastmodified":1564162711,
+    "wof:lastmodified":1566586271,
     "wof:name":"Balaban",
     "wof:parent_id":1108709633,
     "wof:placetype":"locality",

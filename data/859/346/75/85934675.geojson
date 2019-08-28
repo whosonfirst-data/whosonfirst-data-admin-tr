@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13059899.019286,
+    "geom:area_square_m":0.0,
     "geom:bbox":"32.038838,36.534523,32.038838,36.534523",
     "geom:latitude":36.534523,
     "geom:longitude":32.038838,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"32.033838,36.529523,32.043838,36.539523",
     "lbl:latitude":36.534523,
     "lbl:longitude":32.038838,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.533307,
     "mps:longitude":32.044919,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
     "name:und_x_colloquial":[
         "Obagol"
     ],
-    "name:und_x_preferred":[
-        "Obag\u00f6l"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Obag\u00f6l"
     ],
     "qs:gn_id":0,
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
-        890463831,
-        85679263
+        890463831
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966485,
-        "qs:id":1155446
+        "qs_pg:id":1155446
     },
     "wof:country":"TR",
     "wof:geomhash":"9e74dbebfc4a9c50ad7ff2794ed5046b",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939798,
+    "wof:lastmodified":1566582929,
     "wof:name":"Obag\u00f6l",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

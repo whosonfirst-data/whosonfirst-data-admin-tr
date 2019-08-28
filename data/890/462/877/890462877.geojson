@@ -11,11 +11,15 @@
     "geom:longitude":28.48222,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.46222,38.74361,28.50222,38.78361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Borlu"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":320859,
         "gp:id":2343823,
-        "qs:id":1168881
+        "qs_pg:id":1168881
     },
     "wof:country":"TR",
     "wof:created":1469053407,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890462877,
-    "wof:lastmodified":1505343691,
+    "wof:lastmodified":1566586398,
     "wof:name":"Borlu",
     "wof:parent_id":1108709429,
     "wof:placetype":"locality",

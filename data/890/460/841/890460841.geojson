@@ -11,7 +11,7 @@
     "geom:longitude":34.326829,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3748,
+    "gn:population":3748,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.27205,
     "lbl:longitude":34.329172,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Aksaray",
     "meso:admin_1":"Aksaray",
     "meso:gadm_admin":"G\u00fczelyurt",
@@ -41,6 +43,7 @@
     "mps:longitude":34.329172,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "G\u00fczelyurt"
     ],
@@ -107,7 +110,7 @@
     "name:tur_x_preferred":[
         "G\u00fczelyurt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gelveri"
     ],
     "name:urd_x_preferred":[
@@ -131,9 +134,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"322",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00fczelyurt",
@@ -155,7 +158,7 @@
         "gn:id":313199,
         "gp:id":29390395,
         "hasc:id":"TR.AK.GY",
-        "qs:id":488833,
+        "qs_pg:id":488833,
         "wd:id":"Q1004503",
         "wk:page":"G\u00fczelyurt"
     },
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":890460841,
-    "wof:lastmodified":1563361598,
+    "wof:lastmodified":1566586459,
     "wof:name":"G\u00fczelyurt",
     "wof:parent_id":85679457,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":40.05842,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":29917,
+    "gn:population":29917,
     "iso:country":"TR",
+    "lbl:bbox":"40.03842,40.91854,40.07842,40.95854",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0622\u0631\u0627\u06a9\u0644\u06cc"
     ],
@@ -72,7 +76,7 @@
     "name:tur_x_preferred":[
         "Arakl\u0131"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Iraklia"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":751971,
         "gp:id":2343735,
-        "qs:id":129255,
+        "qs_pg:id":129255,
         "wd:id":"Q764830",
         "wk:page":"Arakl\u0131"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890460203,
-    "wof:lastmodified":1563361535,
+    "wof:lastmodified":1566586439,
     "wof:name":"Arakl\u0131",
     "wof:parent_id":890463835,
     "wof:placetype":"locality",

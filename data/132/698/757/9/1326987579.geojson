@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"40.008,39.78775,40.048,39.82775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "\u00c7ay\u0131rl\u0131"
     ],
@@ -79,9 +83,6 @@
     "name:tur_x_preferred":[
         "\u00c7ay\u0131rl\u0131"
     ],
-    "name:und_x_variant":[
-        "\u00c7ay\u0131rl\u0131"
-    ],
     "name:urd_x_preferred":[
         "\u0686\u0627\u0626\u06d2\u0631\u06cc\u0644\u06cc"
     ],
@@ -112,7 +113,7 @@
         }
     ],
     "wof:id":1326987579,
-    "wof:lastmodified":1564157312,
+    "wof:lastmodified":1566582069,
     "wof:name":"Mans",
     "wof:parent_id":1108710037,
     "wof:placetype":"locality",

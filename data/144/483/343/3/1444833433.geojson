@@ -10,8 +10,10 @@
     "geom:latitude":40.83797,
     "geom:longitude":29.363301,
     "iso:country":"TR",
+    "lbl:bbox":"29.3583011646,40.8329701433,29.3683011646,40.8429701433",
     "lbl:latitude":40.83797,
     "lbl:longitude":29.363301,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,10 +35,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709941,
-        85679237
+        1108709941
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444833433,
-    "wof:lastmodified":1566339906,
+    "wof:lastmodified":1566584866,
     "wof:name":"Mimar Sinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

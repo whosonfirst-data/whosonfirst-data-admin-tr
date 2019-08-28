@@ -10,9 +10,12 @@
     "geom:latitude":41.008421,
     "geom:longitude":28.970854,
     "iso:country":"TR",
+    "lbl:bbox":"28.9658544994,41.0034208231,28.9758544994,41.0134208231",
     "lbl:latitude":41.008421,
     "lbl:longitude":28.970854,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "\u00c7emberlita\u015f"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108950329,
-    "wof:lastmodified":1497292378,
+    "wof:lastmodified":1566585306,
     "wof:name":"Cemberlitas",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

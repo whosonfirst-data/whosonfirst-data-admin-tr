@@ -11,11 +11,15 @@
     "geom:longitude":39.70213,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":39591,
+    "gn:population":39591,
     "iso:country":"TR",
+    "lbl:bbox":"39.68213,39.69011,39.72213,39.73011",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":9.0,
+    "name:und_x_variant":[
         "\u00dcz\u00fcml\u00fc"
     ],
     "qs:name":"Cimin",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":298230,
         "gp:id":2340285,
-        "qs:id":203966
+        "qs_pg:id":203966
     },
     "wof:country":"TR",
     "wof:created":1469053441,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890463747,
-    "wof:lastmodified":1505343694,
+    "wof:lastmodified":1566586229,
     "wof:name":"Cimin",
     "wof:parent_id":890463337,
     "wof:placetype":"locality",

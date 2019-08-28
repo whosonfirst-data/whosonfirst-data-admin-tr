@@ -11,10 +11,14 @@
     "geom:longitude":40.06417,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":356,
+    "gn:population":356,
     "iso:country":"TR",
+    "lbl:bbox":"40.04417,36.92167,40.08417,36.96167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Keskin"
     ],
@@ -54,7 +58,7 @@
     "name:tur_x_preferred":[
         "Keskin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fcm\u00fc\u015f"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":308027,
-        "qs:id":547408,
+        "qs_pg:id":547408,
         "wk:page":"Keskin"
     },
     "wof:country":"TR",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890465155,
-    "wof:lastmodified":1564162779,
+    "wof:lastmodified":1566586344,
     "wof:name":"Keskin",
     "wof:parent_id":1108709413,
     "wof:placetype":"locality",

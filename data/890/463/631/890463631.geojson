@@ -11,11 +11,15 @@
     "geom:longitude":39.22321,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":298004,
+    "gn:population":298004,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.20321,38.65431,39.24321,38.69431",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0639\u0645\u0648\u0631\u0629 \u0627\u0644\u0639\u0632\u064a\u0632"
     ],
@@ -185,7 +189,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044f\u0437\u0438\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mezreh"
     ],
     "name:urd_x_preferred":[
@@ -227,7 +231,7 @@
     "wof:concordances":{
         "gn:id":315808,
         "gp:id":2326344,
-        "qs:id":194909,
+        "qs_pg:id":194909,
         "wd:id":"Q990305",
         "wk:page":"Karako\u00e7an"
     },
@@ -244,7 +248,7 @@
         }
     ],
     "wof:id":890463631,
-    "wof:lastmodified":1563361095,
+    "wof:lastmodified":1566586257,
     "wof:name":"Karako\u00e7an",
     "wof:parent_id":890462513,
     "wof:placetype":"locality",

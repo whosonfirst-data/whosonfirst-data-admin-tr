@@ -11,10 +11,14 @@
     "geom:longitude":30.03667,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":55365,
+    "gn:population":55365,
     "iso:country":"TR",
+    "lbl:bbox":"30.01667,39.88778,30.05667,39.92778",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0632\u0648\u06cc\u0648\u06a9"
     ],
@@ -78,7 +82,7 @@
     "name:tur_x_preferred":[
         "Boz\u00fcy\u00fck"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boz\u00f6y\u00fck"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":320557,
         "gp:id":2343833,
-        "qs:id":205588,
+        "qs_pg:id":205588,
         "wd:id":"Q519741",
         "wk:page":"Boz\u00fcy\u00fck"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890464009,
-    "wof:lastmodified":1563361167,
+    "wof:lastmodified":1566586285,
     "wof:name":"Boz\u00fcy\u00fck",
     "wof:parent_id":1108709403,
     "wof:placetype":"locality",

@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001328,
-    "geom:area_square_m":12390567.576149,
+    "geom:area_square_m":12390567.57615,
     "geom:bbox":"28.8473507711,40.9682828269,28.9106031771,41.0149886028",
     "geom:latitude":40.991524,
     "geom:longitude":28.874365,
     "iso:country":"TR",
     "lbl:latitude":40.989271,
     "lbl:longitude":28.873886,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":40.989271,
     "mps:longitude":28.873886,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"9",
@@ -30,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -40,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724139,
-        "qs:id":886227,
         "qs_pg:id":886227
     },
     "wof:country":"TR",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101912673,
-    "wof:lastmodified":1497298489,
+    "wof:lastmodified":1566585997,
     "wof:name":"A. Nafiz Gurman",
     "wof:parent_id":890462833,
     "wof:placetype":"locality",

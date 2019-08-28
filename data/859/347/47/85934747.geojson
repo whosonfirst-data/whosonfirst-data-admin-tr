@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4782374.374064,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.095328,37.787152,29.095328,37.787152",
     "geom:latitude":37.787152,
     "geom:longitude":29.095328,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.090328,37.782152,29.100328,37.792152",
     "lbl:latitude":37.787152,
     "lbl:longitude":29.095328,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.78881,
     "mps:longitude":29.096399,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Kirishane"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kirishane"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -57,17 +56,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679277,
         102191569,
         85632393,
-        890460703,
-        85679277
+        890460703
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56043315,
-        "qs:id":894103
+        "qs_pg:id":894103
     },
     "wof:country":"TR",
     "wof:geomhash":"27ef2b7015ecd02c5ec4e9f4983381b1",
@@ -85,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939808,
+    "wof:lastmodified":1566582931,
     "wof:name":"Kirishane",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

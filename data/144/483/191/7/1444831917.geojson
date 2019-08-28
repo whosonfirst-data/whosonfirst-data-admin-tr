@@ -10,8 +10,10 @@
     "geom:latitude":41.185206,
     "geom:longitude":29.248722,
     "iso:country":"TR",
+    "lbl:bbox":"29.2437220014,41.1802059641,29.2537220014,41.1902059641",
     "lbl:latitude":41.185206,
     "lbl:longitude":29.248722,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461921,
-        85679237
+        890461921
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444831917,
-    "wof:lastmodified":1566339727,
+    "wof:lastmodified":1566584846,
     "wof:name":"Pasamandira",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":39.94706,
     "lbl:longitude":32.713396,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":39.94706,
     "mps:longitude":32.713396,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Etimesgut"
     ],
@@ -79,7 +82,7 @@
     "name:tur_x_preferred":[
         "Etimesgut"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Etimesut"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":672,
     "wof:belongsto":[
         102191569,
@@ -118,10 +121,12 @@
     "wof:concordances":{
         "gn:id":315155,
         "gp:id":2319477,
-        "qs:id":391376,
-        "qs_pg:id":1250749,
+        "qs_pg:id":391376,
         "wd:id":"Q1029159",
         "wk:page":"Etimesgut"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1250749
     },
     "wof:country":"TR",
     "wof:geomhash":"689da3e5db5cb9c00224d1f823751eb0",
@@ -135,7 +140,7 @@
         }
     ],
     "wof:id":101912785,
-    "wof:lastmodified":1563360629,
+    "wof:lastmodified":1566586000,
     "wof:name":"Etimes\u011fut",
     "wof:parent_id":890462771,
     "wof:placetype":"locality",

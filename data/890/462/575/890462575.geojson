@@ -11,11 +11,14 @@
     "geom:longitude":30.76786,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.76286,40.42897,30.77286,40.43897",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:cat_x_preferred":[
         "Orta"
     ],
@@ -75,7 +78,7 @@
     "wof:concordances":{
         "gn:id":8183434,
         "gp:id":56043423,
-        "qs:id":1105206,
+        "qs_pg:id":1105206,
         "wk:page":"Orta"
     },
     "wof:country":"TR",
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":890462575,
-    "wof:lastmodified":1564162813,
+    "wof:lastmodified":1566586383,
     "wof:name":"Orta",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

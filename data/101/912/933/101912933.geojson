@@ -5,16 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000554,
-    "geom:area_square_m":5501411.902351,
+    "geom:area_square_m":5501411.902347,
     "geom:bbox":"29.1140724705,36.6065648746,29.1544111812,36.6365679192",
     "geom:latitude":36.622256,
     "geom:longitude":29.13458,
     "iso:country":"TR",
     "lbl:latitude":36.623678,
     "lbl:longitude":29.135847,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.623678,
     "mps:longitude":29.135847,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"4",
@@ -30,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -40,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966684,
-        "qs:id":281623,
         "qs_pg:id":281623
     },
     "wof:country":"TR",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101912933,
-    "wof:lastmodified":1497299125,
+    "wof:lastmodified":1566586001,
     "wof:name":"Kesikkapi",
     "wof:parent_id":890462845,
     "wof:placetype":"locality",

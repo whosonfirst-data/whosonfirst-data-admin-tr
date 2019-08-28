@@ -11,11 +11,15 @@
     "geom:longitude":28.83056,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":14811,
+    "gn:population":14811,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.81056,38.025,28.85056,38.065",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0644\u062f\u0627\u0646"
     ],
@@ -79,7 +83,7 @@
     "name:tur_x_preferred":[
         "Buldan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Boldan"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":320437,
         "gp:id":2343839,
-        "qs:id":914710,
+        "qs_pg:id":914710,
         "wd:id":"Q1003598",
         "wk:page":"Buldan"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890461987,
-    "wof:lastmodified":1563361822,
+    "wof:lastmodified":1566586537,
     "wof:name":"Buldan",
     "wof:parent_id":1108709407,
     "wof:placetype":"locality",

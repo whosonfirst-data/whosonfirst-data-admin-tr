@@ -11,10 +11,14 @@
     "geom:longitude":40.95917,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":618,
+    "gn:population":618,
     "iso:country":"TR",
+    "lbl:bbox":"40.93917,37.93306,40.97917,37.97306",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Karpuzlu"
     ],
@@ -60,7 +64,7 @@
     "name:tur_x_variant":[
         "Karpuzlu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kapuzi"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":306512,
-        "qs:id":547394,
+        "qs_pg:id":547394,
         "wd:id":"Q1734375",
         "wk:page":"Karpuzlu"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":890465127,
-    "wof:lastmodified":1563361295,
+    "wof:lastmodified":1566586339,
     "wof:name":"Karpuzlu",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

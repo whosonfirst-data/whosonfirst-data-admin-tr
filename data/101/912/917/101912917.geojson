@@ -5,17 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000268,
-    "geom:area_square_m":2659413.411227,
+    "geom:area_square_m":2659413.411226,
     "geom:bbox":"30.5538265198,36.5892381389,30.5782899915,36.627856845",
     "geom:latitude":36.603193,
     "geom:longitude":30.563487,
     "iso:country":"TR",
     "lbl:latitude":36.602265,
     "lbl:longitude":30.562653,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.602265,
     "mps:longitude":30.562653,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"3",
@@ -31,14 +34,13 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966663,
-        "qs:id":1198068,
         "qs_pg:id":1198068
     },
     "wof:country":"TR",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":101912917,
-    "wof:lastmodified":1506725864,
+    "wof:lastmodified":1566586006,
     "wof:name":"Merkez",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

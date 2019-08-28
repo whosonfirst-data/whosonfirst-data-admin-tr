@@ -11,7 +11,7 @@
     "geom:longitude":28.202951,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.926989,
     "lbl:longitude":28.305038,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Mugla",
     "meso:admin_1":"Mugla",
     "meso:gadm_admin":"Marmaris",
@@ -41,6 +43,7 @@
     "mps:longitude":28.305038,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0645\u0627\u0631\u064a\u0633"
     ],
@@ -212,9 +215,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"878",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Marmaris",
@@ -236,7 +239,7 @@
         "gn:id":7732942,
         "gp:id":29390558,
         "hasc:id":"TR.MG.MA",
-        "qs:id":1292212,
+        "qs_pg:id":1292212,
         "wd:id":"Q209908",
         "wk:page":"Marmaris"
     },
@@ -252,7 +255,7 @@
         }
     ],
     "wof:id":890460753,
-    "wof:lastmodified":1563361496,
+    "wof:lastmodified":1566586425,
     "wof:name":"Marmaris",
     "wof:parent_id":85679291,
     "wof:placetype":"county",

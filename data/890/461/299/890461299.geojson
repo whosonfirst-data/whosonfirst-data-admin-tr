@@ -11,11 +11,15 @@
     "geom:longitude":27.25,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.23,38.43,27.27,38.47",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:msa_x_preferred":[
         "Do\u011fanlar"
     ],
@@ -44,7 +48,7 @@
     "wof:concordances":{
         "gn:id":316461,
         "gp:id":2317823,
-        "qs:id":384074,
+        "qs_pg:id":384074,
         "wk:page":"Do\u011fanlar, \u0130scehisar"
     },
     "wof:country":"TR",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890461299,
-    "wof:lastmodified":1564162914,
+    "wof:lastmodified":1566586535,
     "wof:name":"Do\u011fanlar",
     "wof:parent_id":890463111,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":41.191411,
     "geom:longitude":28.747985,
     "iso:country":"TR",
+    "lbl:bbox":"28.7429847941,41.1864105146,28.7529847941,41.1964105146",
     "lbl:latitude":41.191411,
     "lbl:longitude":28.747985,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -99,7 +101,7 @@
     "name:war_x_preferred":[
         "\u0130slambey"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -126,7 +128,7 @@
         }
     ],
     "wof:id":1108950893,
-    "wof:lastmodified":1563359587,
+    "wof:lastmodified":1566585293,
     "wof:name":"Islambey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

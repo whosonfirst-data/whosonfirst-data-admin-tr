@@ -10,8 +10,10 @@
     "geom:latitude":41.088056,
     "geom:longitude":28.914024,
     "iso:country":"TR",
+    "lbl:bbox":"28.9090238386,41.0830558947,28.9190238386,41.0930558947",
     "lbl:latitude":41.088056,
     "lbl:longitude":28.914024,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Mevlana"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950535,
-    "wof:lastmodified":1563359568,
+    "wof:lastmodified":1566585285,
     "wof:name":"Mevlana",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

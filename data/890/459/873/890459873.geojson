@@ -11,14 +11,18 @@
     "geom:longitude":40.7939,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":528,
+    "gn:population":528,
     "iso:country":"TR",
+    "lbl:bbox":"40.7739,37.13948,40.8139,37.17948",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Kuyulu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Biritava"
     ],
     "qs:name":"Kuyulu",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":305193,
         "gp:id":2344252,
-        "qs:id":80056
+        "qs_pg:id":80056
     },
     "wof:country":"TR",
     "wof:created":1469053285,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890459873,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586555,
     "wof:name":"Kuyulu",
     "wof:parent_id":890463121,
     "wof:placetype":"locality",

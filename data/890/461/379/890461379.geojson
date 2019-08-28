@@ -11,7 +11,7 @@
     "geom:longitude":35.826626,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4592,
+    "gn:population":4592,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.864258,
     "lbl:longitude":35.822103,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adana",
     "meso:admin_1":"Adana",
     "meso:gadm_admin":"Feke",
@@ -41,6 +43,7 @@
     "mps:longitude":35.822103,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Feke"
     ],
@@ -107,7 +110,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u043a\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Asmaca"
     ],
     "name:urd_x_preferred":[
@@ -127,9 +130,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1227",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Feke",
@@ -151,7 +154,7 @@
         "gn:id":315000,
         "gp:id":29390330,
         "hasc:id":"TR.AA.FE",
-        "qs:id":1054033,
+        "qs_pg:id":1054033,
         "wd:id":"Q1430807",
         "wk:page":"Feke"
     },
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":890461379,
-    "wof:lastmodified":1563361723,
+    "wof:lastmodified":1566586504,
     "wof:name":"Feke",
     "wof:parent_id":85679443,
     "wof:placetype":"county",

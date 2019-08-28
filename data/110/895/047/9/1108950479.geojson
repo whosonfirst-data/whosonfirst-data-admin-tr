@@ -10,8 +10,10 @@
     "geom:latitude":40.995002,
     "geom:longitude":28.907643,
     "iso:country":"TR",
+    "lbl:bbox":"28.9026434843,40.99000198,28.9126434843,41.00000198",
     "lbl:latitude":40.995002,
     "lbl:longitude":28.907643,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -27,7 +29,7 @@
     "name:tur_x_preferred":[
         "Bal\u0131kl\u0131"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -51,7 +53,7 @@
         }
     ],
     "wof:id":1108950479,
-    "wof:lastmodified":1514506877,
+    "wof:lastmodified":1566585281,
     "wof:name":"Balikli",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

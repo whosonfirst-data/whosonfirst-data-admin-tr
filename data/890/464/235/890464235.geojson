@@ -11,7 +11,7 @@
     "geom:longitude":27.505355,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.40228,
     "lbl:longitude":27.465524,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Kemalpa\u015fa",
@@ -41,6 +43,7 @@
     "mps:longitude":27.465524,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041a\u0435\u043c\u0430\u043b\u043f\u0430\u0448\u0430"
     ],
@@ -140,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"655",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kemalpasa",
@@ -164,7 +167,7 @@
         "gn:id":7732724,
         "gp:id":29390490,
         "hasc:id":"TR.IZ.KP",
-        "qs:id":886902,
+        "qs_pg:id":886902,
         "wd:id":"Q1014125",
         "wk:page":"Kemalpa\u015fa"
     },
@@ -180,7 +183,7 @@
         }
     ],
     "wof:id":890464235,
-    "wof:lastmodified":1563361164,
+    "wof:lastmodified":1566586284,
     "wof:name":"Kemalpa\u015fa",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

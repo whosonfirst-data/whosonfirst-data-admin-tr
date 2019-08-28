@@ -11,7 +11,7 @@
     "geom:longitude":43.392957,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":5477,
+    "gn:population":5477,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.618142,
     "lbl:longitude":43.376322,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Agri",
     "meso:admin_1":"Agri",
     "meso:gadm_admin":"Ta\u015fl\u0131\u00e7ay",
@@ -41,6 +43,7 @@
     "mps:longitude":43.376322,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Da\u015fl\u0131\u00e7ay il\u00e7\u0259si"
     ],
@@ -98,7 +101,7 @@
     "name:tur_x_preferred":[
         "Ta\u015fl\u0131\u00e7ay"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u015fa\u011f\u0131ta\u015fl\u0131\u00e7ay"
     ],
     "name:urd_x_preferred":[
@@ -123,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"834",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tasli\u00e7ay",
@@ -147,7 +150,7 @@
         "gn:id":299701,
         "gp:id":29390794,
         "hasc:id":"TR.AG.TA",
-        "qs:id":254336,
+        "qs_pg:id":254336,
         "wd:id":"Q1023307",
         "wk:page":"Ta\u015fl\u0131\u00e7ay"
     },
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":890460623,
-    "wof:lastmodified":1563361610,
+    "wof:lastmodified":1566586462,
     "wof:name":"Ta\u015fl\u0131\u00e7ay",
     "wof:parent_id":85679387,
     "wof:placetype":"county",

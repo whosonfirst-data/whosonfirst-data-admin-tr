@@ -11,10 +11,14 @@
     "geom:longitude":42.33883,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":520,
+    "gn:population":520,
     "iso:country":"TR",
+    "lbl:bbox":"42.31883,37.8632,42.35883,37.9032",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Karasungur"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":439012,
-        "qs:id":548231
+        "qs_pg:id":548231
     },
     "wof:country":"TR",
     "wof:created":1469053260,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459265,
-    "wof:lastmodified":1505343676,
+    "wof:lastmodified":1566586586,
     "wof:name":"Karasungur",
     "wof:parent_id":890461169,
     "wof:placetype":"locality",

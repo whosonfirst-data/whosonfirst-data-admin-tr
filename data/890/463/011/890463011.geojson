@@ -11,10 +11,14 @@
     "geom:longitude":29.39472,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":876,
+    "gn:population":876,
     "iso:country":"TR",
+    "lbl:bbox":"29.37472,40.61306,29.41472,40.65306",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "K\u0131l\u0131\u00e7"
     ],
@@ -87,7 +91,7 @@
     "name:tur_x_preferred":[
         "K\u0131l\u0131\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0131l\u0131n\u00e7"
     ],
     "name:vie_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":743367,
-        "qs:id":83382,
+        "qs_pg:id":83382,
         "wd:id":"Q10783397",
         "wk:page":"K\u0131l\u0131\u00e7"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890463011,
-    "wof:lastmodified":1563361063,
+    "wof:lastmodified":1566586245,
     "wof:name":"K\u0131l\u0131\u00e7",
     "wof:parent_id":890461615,
     "wof:placetype":"locality",

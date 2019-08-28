@@ -11,7 +11,7 @@
     "geom:longitude":28.777528,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":589139,
+    "gn:population":589139,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":41.02336,
     "lbl:longitude":28.780487,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Istanbul",
     "meso:admin_1":"Istanbul",
     "meso:gadm_admin":"K\u00fc\u00e7\u00fck\u00e7ekmece",
@@ -44,6 +46,7 @@
     "mps:longitude":28.780487,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u062c\u0643 \u062c\u0643\u0645\u062c\u0629"
     ],
@@ -149,9 +152,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"124",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -173,7 +176,7 @@
         "gn:id":7732569,
         "gp:id":29390520,
         "hasc:id":"TR.IB.KU",
-        "qs:id":891436,
+        "qs_pg:id":891436,
         "wd:id":"Q639240",
         "wk:page":"K\u00fc\u00e7\u00fck\u00e7ekmece"
     },
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":890463101,
-    "wof:lastmodified":1563361051,
+    "wof:lastmodified":1566586240,
     "wof:name":"K\u00fc\u00e7\u00fck\u00e7ekmece",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

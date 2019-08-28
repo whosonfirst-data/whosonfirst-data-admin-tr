@@ -11,10 +11,14 @@
     "geom:longitude":26.84127,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":4380,
+    "gn:population":4380,
     "iso:country":"TR",
+    "lbl:bbox":"26.82127,39.37016,26.86127,39.41016",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "G\u00f6me\u00e7 \u0130l\u00e7esi"
     ],
@@ -60,7 +64,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u044c\u043e\u043c\u0435\u0447"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fcme"
     ],
     "name:urd_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:concordances":{
         "gn:id":313995,
         "gp:id":2320903,
-        "qs:id":205158,
+        "qs_pg:id":205158,
         "wd:id":"Q2598762"
     },
     "wof:country":"TR",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890463957,
-    "wof:lastmodified":1563361032,
+    "wof:lastmodified":1566586235,
     "wof:name":"Armutova",
     "wof:parent_id":890462605,
     "wof:placetype":"locality",

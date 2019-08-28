@@ -11,11 +11,15 @@
     "geom:longitude":33.740927,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4150,
+    "gn:population":4150,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.720927,39.894538,33.760927,39.934538",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Bal\u0131\u015feyh"
     ],
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "Bal\u0131\u015feyh"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bal\u0131\u015f\u0131h"
     ],
     "name:urd_x_preferred":[
@@ -87,12 +91,12 @@
     "wof:concordances":{
         "gn:id":322137,
         "gp:id":2343775,
-        "qs:id":1134757,
+        "qs_pg:id":1134757,
         "wd:id":"Q2300781",
         "wk:page":"Bal\u0131\u015feyh"
     },
     "wof:concordances_alt":{
-        "qs:id":205775
+        "qs_pg:id":205775
     },
     "wof:country":"TR",
     "wof:created":1469053399,
@@ -107,7 +111,7 @@
         }
     ],
     "wof:id":890462685,
-    "wof:lastmodified":1563361431,
+    "wof:lastmodified":1566586399,
     "wof:name":"Bal\u0131\u015feyh",
     "wof:parent_id":1108709351,
     "wof:placetype":"locality",

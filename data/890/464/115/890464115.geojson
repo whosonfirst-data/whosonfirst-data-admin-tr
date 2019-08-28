@@ -11,7 +11,7 @@
     "geom:longitude":37.894831,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":41892,
+    "gn:population":41892,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.610787,
     "lbl:longitude":37.894819,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adiyaman",
     "meso:admin_1":"Adiyaman",
     "meso:gadm_admin":"Besni",
@@ -41,6 +43,7 @@
     "mps:longitude":37.894819,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0633\u0646\u064a"
     ],
@@ -128,7 +131,7 @@
     "name:tur_x_preferred":[
         "Besni"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bahisni"
     ],
     "name:urd_x_preferred":[
@@ -153,9 +156,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1151",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Besni",
@@ -177,7 +180,7 @@
         "gn:id":321337,
         "gp:id":29390146,
         "hasc:id":"TR.AD.BE",
-        "qs:id":207353,
+        "qs_pg:id":207353,
         "wd:id":"Q816753",
         "wk:page":"Besni"
     },
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":890464115,
-    "wof:lastmodified":1563361257,
+    "wof:lastmodified":1566586319,
     "wof:name":"Besni",
     "wof:parent_id":85679295,
     "wof:placetype":"county",

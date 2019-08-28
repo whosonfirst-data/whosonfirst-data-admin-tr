@@ -12,6 +12,8 @@
     "iso:country":"TR",
     "lbl:latitude":41.452948,
     "lbl:longitude":31.795998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.452948,
     "mps:longitude":31.795998,
     "mz:hierarchy_label":1,
@@ -200,7 +202,7 @@
     "name:ukr_x_preferred":[
         "\u0417\u043e\u043d\u0433\u0443\u043b\u0434\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Songuldak"
     ],
     "name:urd_x_preferred":[
@@ -325,7 +327,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":577,
     "wof:belongsto":[
         102191569,
@@ -337,7 +339,6 @@
     "wof:concordances":{
         "gn:id":737022,
         "gp:id":2344539,
-        "qs:id":1134863,
         "qs_pg:id":1134863,
         "wd:id":"Q187895",
         "wk:page":"Zonguldak"
@@ -354,7 +355,7 @@
         }
     ],
     "wof:id":101911165,
-    "wof:lastmodified":1563360675,
+    "wof:lastmodified":1566586011,
     "wof:name":"Zonguldak",
     "wof:parent_id":1108709749,
     "wof:placetype":"locality",

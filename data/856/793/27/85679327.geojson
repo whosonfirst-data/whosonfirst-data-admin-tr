@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":38.739956,
     "lbl:longitude":34.676752,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Nevsehir",
     "mps:latitude":38.774315,
     "mps:longitude":34.682464,
@@ -232,7 +233,7 @@
         "Nev\u015fehir"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bc6\u0bb5\u0bcd\u0b9a\u0bc6\u0bb9\u0bbf\u0bb0\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0ba8\u0bc6\u0bb5\u0bcd\u0b9a\u0bc6\u0bb9\u0bbf\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c46\u0c35\u0c4d\u0c38\u0c46\u0c39\u0c3f\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -260,15 +261,6 @@
     ],
     "name:und_x_colloquial":[
         "Nevsehir"
-    ],
-    "name:und_x_preferred":[
-        "Nev\u015fehir"
-    ],
-    "name:und_x_variant":[
-        "Nevsehir"
-    ],
-    "name:unk_x_variant":[
-        "Nev\u015fehir"
     ],
     "name:urd_x_preferred":[
         "\u0646\u0648 \u0634\u06c1\u0631 \u0635\u0648\u0628\u06c1"
@@ -363,9 +355,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"5,467",
     "statoids:area_mi":"2,111",
     "statoids:as_of_date":"2007-12-31",
@@ -391,7 +383,7 @@
         "gp:id":2347303,
         "hasc:id":"TR.NV",
         "iso:id":"TR-50",
-        "qs:id":674890,
+        "qs_pg:id":674890,
         "unlc:id":"TR-50",
         "wd:id":"Q430693",
         "wk:page":"Nev\u015fehir Province"
@@ -412,11 +404,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737375,
+    "wof:lastmodified":1566582957,
     "wof:name":"Nevsehir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":280058,
     "wof:population_rank":10,

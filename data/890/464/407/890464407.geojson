@@ -11,14 +11,18 @@
     "geom:longitude":40.52222,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":38,
+    "gn:population":38,
     "iso:country":"TR",
+    "lbl:bbox":"40.50222,37.50056,40.54222,37.54056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Derecik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tavusu"
     ],
     "qs:name":"Derecik",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":299532,
         "gp:id":2332177,
-        "qs:id":547272
+        "qs_pg:id":547272
     },
     "wof:country":"TR",
     "wof:created":1469053471,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890464407,
-    "wof:lastmodified":1505343697,
+    "wof:lastmodified":1566586286,
     "wof:name":"Derecik",
     "wof:parent_id":1108709713,
     "wof:placetype":"locality",

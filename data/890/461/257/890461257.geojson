@@ -11,10 +11,14 @@
     "geom:longitude":41.00944,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"40.98944,41.01028,41.02944,41.05028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "\u00c7aml\u0131hem\u015fin \u0130l\u00e7esi"
     ],
@@ -57,7 +61,7 @@
     "name:tur_x_preferred":[
         "\u00c7aml\u0131hem\u015fin"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vi\u00e7e\u00fclya"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":749841,
         "gp:id":2313671,
-        "qs:id":370072,
+        "qs_pg:id":370072,
         "wd:id":"Q2670821",
         "wk:page":"\u00c7aml\u0131hem\u015fin"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890461257,
-    "wof:lastmodified":1563361704,
+    "wof:lastmodified":1566586496,
     "wof:name":"\u00c7aml\u0131hem\u015fin",
     "wof:parent_id":1108710017,
     "wof:placetype":"locality",

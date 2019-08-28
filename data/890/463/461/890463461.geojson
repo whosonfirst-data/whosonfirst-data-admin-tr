@@ -11,7 +11,7 @@
     "geom:longitude":38.469021,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":10022,
+    "gn:population":10022,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.008476,
     "lbl:longitude":38.472473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Malatya",
     "meso:admin_1":"Malatya",
     "meso:gadm_admin":"Arapkir",
@@ -41,6 +43,7 @@
     "mps:longitude":38.472473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Arapkir"
     ],
@@ -101,7 +104,7 @@
     "name:tur_x_preferred":[
         "Arapgir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Arabkir"
     ],
     "name:urd_x_preferred":[
@@ -123,9 +126,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"974",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Arapkir",
@@ -146,7 +149,7 @@
         "gn:id":323721,
         "gp:id":29390087,
         "hasc:id":"TR.ML.AP",
-        "qs:id":124161
+        "qs_pg:id":124161
     },
     "wof:country":"TR",
     "wof:created":1469053431,
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890463461,
-    "wof:lastmodified":1564162704,
+    "wof:lastmodified":1566586255,
     "wof:name":"Arapgir",
     "wof:parent_id":85679309,
     "wof:placetype":"county",

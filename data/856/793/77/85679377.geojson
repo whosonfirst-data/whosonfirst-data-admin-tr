@@ -29,6 +29,7 @@
     ],
     "lbl:latitude":40.908458,
     "lbl:longitude":40.861918,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Rize",
     "mps:latitude":40.945066,
     "mps:longitude":40.880619,
@@ -261,13 +262,7 @@
     "name:ukr_x_variant":[
         "\u0456\u043b \u0420\u0456\u0437\u0435"
     ],
-    "name:und_x_preferred":[
-        "Rize"
-    ],
     "name:und_x_variant":[
-        "Rize"
-    ],
-    "name:unk_x_variant":[
         "Rize Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -360,9 +355,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"3,920",
     "statoids:area_mi":"1,514",
     "statoids:as_of_date":"2007-12-31",
@@ -388,7 +383,7 @@
         "gp:id":2347305,
         "hasc:id":"TR.RI",
         "iso:id":"TR-53",
-        "qs:id":370039,
+        "qs_pg:id":370039,
         "unlc:id":"TR-53",
         "wd:id":"Q483481",
         "wk:page":"Rize Province"
@@ -409,11 +404,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737376,
+    "wof:lastmodified":1566582963,
     "wof:name":"Rize",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":316252,
     "wof:population_rank":10,

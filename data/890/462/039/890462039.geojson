@@ -11,10 +11,14 @@
     "geom:longitude":29.05081,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2598,
+    "gn:population":2598,
     "iso:country":"TR",
+    "lbl:bbox":"29.03081,36.68827,29.07081,36.72827",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "\u042f\u043d\u044b\u043a\u043b\u0430\u0440"
     ],
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7280504,
-        "qs:id":671085
+        "qs_pg:id":671085
     },
     "wof:country":"TR",
     "wof:created":1469053376,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890462039,
-    "wof:lastmodified":1505343688,
+    "wof:lastmodified":1566586381,
     "wof:name":"Yaniklar",
     "wof:parent_id":890462845,
     "wof:placetype":"locality",

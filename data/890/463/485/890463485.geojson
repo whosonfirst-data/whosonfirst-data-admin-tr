@@ -11,7 +11,7 @@
     "geom:longitude":29.780445,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":6777,
+    "gn:population":6777,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.57264,
     "lbl:longitude":29.807748,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Burdur",
     "meso:admin_1":"Burdur",
     "meso:gadm_admin":"Ye\u015filova",
@@ -41,6 +43,7 @@
     "mps:longitude":29.807748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Ye\u015filova \u0130l\u00e7esi"
     ],
@@ -92,7 +95,7 @@
     "name:tur_x_preferred":[
         "Ye\u015filova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sat\u0131lar"
     ],
     "name:urd_x_preferred":[
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1224",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Yesilova",
@@ -138,7 +141,7 @@
         "gn:id":296823,
         "gp:id":29390882,
         "hasc:id":"TR.BD.YL",
-        "qs:id":343394,
+        "qs_pg:id":343394,
         "wd:id":"Q1582858",
         "wk:page":"Ye\u015filova"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890463485,
-    "wof:lastmodified":1563360960,
+    "wof:lastmodified":1566586210,
     "wof:name":"Ye\u015filova",
     "wof:parent_id":85679273,
     "wof:placetype":"county",

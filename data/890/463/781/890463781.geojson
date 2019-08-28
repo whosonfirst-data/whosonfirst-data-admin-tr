@@ -11,11 +11,15 @@
     "geom:longitude":42.86861,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":688,
+    "gn:population":688,
     "iso:country":"TR",
+    "lbl:bbox":"42.84861,37.35917,42.88861,37.39917",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ki\u011fva"
     ],
     "qs:name":"Ta\u015fdelen",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":299786,
         "gp:id":2340025,
-        "qs:id":204140
+        "qs_pg:id":204140
     },
     "wof:country":"TR",
     "wof:created":1469053443,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890463781,
-    "wof:lastmodified":1505343695,
+    "wof:lastmodified":1566586259,
     "wof:name":"Ta\u015fdelen",
     "wof:parent_id":890462089,
     "wof:placetype":"locality",

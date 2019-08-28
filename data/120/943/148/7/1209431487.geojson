@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"33.28282,40.84952,33.32282,40.88952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":746053
     },
     "wof:country":"TR",
-    "wof:geomhash":"0127687656a2ddcea9faf4735aa1917f",
+    "wof:geomhash":"d82df01f30a33a093fb722aaa25fff19",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209431487,
-    "wof:lastmodified":1536287229,
+    "wof:lastmodified":1566584806,
     "wof:name":"Hacimuslu",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.302820000000004,
+    33.30282,
     40.86952,
-    33.302820000000004,
+    33.30282,
     40.86952
 ],
   "geometry": {"coordinates":[33.30282,40.86952],"type":"Point"}

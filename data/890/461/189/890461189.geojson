@@ -11,11 +11,15 @@
     "geom:longitude":40.02372,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":3669,
+    "gn:population":3669,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"40.00372,39.95396,40.04372,39.99396",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Otluqbeli"
     ],
@@ -76,7 +80,7 @@
     "name:tur_x_preferred":[
         "Otlukbeli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karakulak"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":303147,
         "gp:id":2334223,
-        "qs:id":918355,
+        "qs_pg:id":918355,
         "wd:id":"Q1023293",
         "wk:page":"Otlukbeli"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890461189,
-    "wof:lastmodified":1563361729,
+    "wof:lastmodified":1566586506,
     "wof:name":"Otlukbeli",
     "wof:parent_id":1108709789,
     "wof:placetype":"locality",

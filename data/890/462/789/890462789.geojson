@@ -11,11 +11,15 @@
     "geom:longitude":39.60604,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":2704,
+    "gn:population":2704,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.58604,39.00004,39.62604,39.04004",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Mazgirt \u0130l\u00e7esi"
     ],
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Mazgirt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mazkirt"
     ],
     "name:urd_x_preferred":[
@@ -106,7 +110,7 @@
     "wof:concordances":{
         "gn:id":304738,
         "gp:id":2332173,
-        "qs:id":1153874,
+        "qs_pg:id":1153874,
         "wd:id":"Q1023313",
         "wk:page":"Mazgirt"
     },
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":890462789,
-    "wof:lastmodified":1563361478,
+    "wof:lastmodified":1566586417,
     "wof:name":"Mazgirt",
     "wof:parent_id":1108709715,
     "wof:placetype":"locality",

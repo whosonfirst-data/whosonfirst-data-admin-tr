@@ -10,8 +10,10 @@
     "geom:latitude":41.036998,
     "geom:longitude":28.86315,
     "iso:country":"TR",
+    "lbl:bbox":"28.8581504021,41.0319976194,28.8681504021,41.0419976194",
     "lbl:latitude":41.036998,
     "lbl:longitude":28.86315,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -99,7 +101,7 @@
     "name:war_x_preferred":[
         "\u00c7\u0131nar"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -123,7 +125,7 @@
         }
     ],
     "wof:id":1108950757,
-    "wof:lastmodified":1563359598,
+    "wof:lastmodified":1566585299,
     "wof:name":"Cinar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

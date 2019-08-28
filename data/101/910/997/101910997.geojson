@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":41.023582,
     "lbl:longitude":40.518516,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":41.023582,
     "mps:longitude":40.518516,
     "mz:hierarchy_label":1,
@@ -213,7 +215,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0437\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7orum"
     ],
     "name:urd_x_preferred":[
@@ -338,7 +340,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.016667,
     "wd:longitude":40.516667,
@@ -353,7 +355,6 @@
     "wof:concordances":{
         "gn:id":740483,
         "gp:id":2344336,
-        "qs:id":1134837,
         "qs_pg:id":1134837,
         "wd:id":"Q201101",
         "wk:page":"Rize"
@@ -370,7 +371,7 @@
         }
     ],
     "wof:id":101910997,
-    "wof:lastmodified":1563360692,
+    "wof:lastmodified":1566586015,
     "wof:name":"Rize",
     "wof:parent_id":1108709745,
     "wof:placetype":"locality",

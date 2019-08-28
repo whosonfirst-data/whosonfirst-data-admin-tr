@@ -11,17 +11,21 @@
     "geom:longitude":42.42306,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":454,
+    "gn:population":454,
     "iso:country":"TR",
+    "lbl:bbox":"42.40306,37.10833,42.44306,37.14833",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0648\u06a4\u0627\u06af\u0648\u0649"
     ],
     "name:ara_x_variant":[
         "\u0100wv\u0101g\u016by"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u00fcrava"
     ],
     "qs:name":"Kyurava",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":392047,
         "gp:id":1979474,
-        "qs:id":80299
+        "qs_pg:id":80299
     },
     "wof:country":"TR",
     "wof:created":1469053302,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890460103,
-    "wof:lastmodified":1505343680,
+    "wof:lastmodified":1566586422,
     "wof:name":"Kyurava",
     "wof:parent_id":1108709879,
     "wof:placetype":"locality",

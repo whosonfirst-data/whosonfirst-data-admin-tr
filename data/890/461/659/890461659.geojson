@@ -11,7 +11,7 @@
     "geom:longitude":33.741776,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":9935,
+    "gn:population":9935,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.922178,
     "lbl:longitude":33.738366,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kastamonu",
     "meso:admin_1":"Kastamonu",
     "meso:gadm_admin":"\u0130nebolu",
@@ -41,6 +43,7 @@
     "mps:longitude":33.738366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0646\u064a \u0628\u0648\u0644\u0648"
     ],
@@ -116,7 +119,7 @@
     "name:tur_x_preferred":[
         "\u0130nebolu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Abonutichus"
     ],
     "name:urd_x_preferred":[
@@ -146,9 +149,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"302",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Inebolu",
@@ -170,7 +173,7 @@
         "gn:id":745175,
         "gp:id":29390896,
         "hasc:id":"TR.KS.IN",
-        "qs:id":342406,
+        "qs_pg:id":342406,
         "wd:id":"Q282654",
         "wk:page":"\u0130nebolu"
     },
@@ -186,7 +189,7 @@
         }
     ],
     "wof:id":890461659,
-    "wof:lastmodified":1563361718,
+    "wof:lastmodified":1566586502,
     "wof:name":"\u0130nebolu",
     "wof:parent_id":85679259,
     "wof:placetype":"county",

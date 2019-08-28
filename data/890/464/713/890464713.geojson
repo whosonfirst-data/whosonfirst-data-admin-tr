@@ -11,11 +11,15 @@
     "geom:longitude":37.61574,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":389,
+    "gn:population":389,
     "iso:country":"TR",
+    "lbl:bbox":"37.59574,36.86889,37.63574,36.90889",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Rumevlek"
     ],
     "qs:name":"U\u011furova",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298489,
-        "qs:id":80006
+        "qs_pg:id":80006
     },
     "wof:country":"TR",
     "wof:created":1469053483,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890464713,
-    "wof:lastmodified":1505343699,
+    "wof:lastmodified":1566586290,
     "wof:name":"U\u011furova",
     "wof:parent_id":1108709769,
     "wof:placetype":"locality",

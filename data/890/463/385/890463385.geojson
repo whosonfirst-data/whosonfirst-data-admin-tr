@@ -11,7 +11,7 @@
     "geom:longitude":32.185974,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":9044,
+    "gn:population":9044,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.30031,
     "lbl:longitude":32.187678,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zonguldak",
     "meso:admin_1":"Zonguldak",
     "meso:gadm_admin":"G\u00f6k\u00e7ebey",
@@ -41,6 +43,7 @@
     "mps:longitude":32.187678,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "G\u00f6k\u00e7ebey \u0130l\u00e7esi"
     ],
@@ -92,7 +95,7 @@
     "name:tur_x_preferred":[
         "G\u00f6k\u00e7ebey"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tefen"
     ],
     "name:urd_x_preferred":[
@@ -117,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"189",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00f6k\u00e7ebey",
@@ -143,7 +146,7 @@
         "gn:id":746821,
         "gp:id":29390355,
         "hasc:id":"TR.ZO.GO",
-        "qs:id":933614,
+        "qs_pg:id":933614,
         "wd:id":"Q1014093",
         "wk:page":"G\u00f6k\u00e7ebey"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890463385,
-    "wof:lastmodified":1563361018,
+    "wof:lastmodified":1566586230,
     "wof:name":"G\u00f6k\u00e7ebey",
     "wof:parent_id":85679419,
     "wof:placetype":"county",

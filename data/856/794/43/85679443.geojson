@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":37.25953,
     "lbl:longitude":35.471847,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Adana",
     "mps:latitude":37.306875,
     "mps:longitude":35.478924,
@@ -297,7 +298,7 @@
         "Adana"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0ba4\u0ba9\u0bbe  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0ba4\u0ba9\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c21\u0c3e\u0c28\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -323,13 +324,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0430\u043d\u0430"
     ],
-    "name:und_x_preferred":[
-        "Adana"
-    ],
     "name:und_x_variant":[
-        "Adana"
-    ],
-    "name:unk_x_variant":[
         "Seyhan"
     ],
     "name:urd_x_preferred":[
@@ -428,9 +423,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"12,788",
     "statoids:area_mi":"4,937",
     "statoids:as_of_date":"2007-12-31",
@@ -455,7 +450,7 @@
         "gp:id":2347258,
         "hasc:id":"TR.AA",
         "iso:id":"TR-01",
-        "qs:id":424108,
+        "qs_pg:id":424108,
         "unlc:id":"TR-01",
         "wd:id":"Q40549",
         "wk:page":"Adana Province"
@@ -476,11 +471,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737377,
+    "wof:lastmodified":1566582968,
     "wof:name":"Adana",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":2006650,
     "wof:population_rank":12,

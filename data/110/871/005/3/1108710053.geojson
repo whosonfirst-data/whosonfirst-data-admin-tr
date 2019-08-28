@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.053296,
     "lbl:longitude":38.300792,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adiyaman",
     "meso:admin_1":"Adiyaman",
     "meso:gadm_admin":"\u00c7elikhan",
@@ -37,6 +39,7 @@
     "mps:longitude":38.300792,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "\u00c7elikhan"
     ],
@@ -113,9 +116,9 @@
         "\u5207\u5229\u514b\u6c57"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"651",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7elikhan",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108710053,
-    "wof:lastmodified":1563359809,
+    "wof:lastmodified":1566585390,
     "wof:name":"\u00c7elikhan",
     "wof:parent_id":85679295,
     "wof:placetype":"county",

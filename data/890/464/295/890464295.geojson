@@ -11,7 +11,7 @@
     "geom:longitude":31.342414,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":32771,
+    "gn:population":32771,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.007955,
     "lbl:longitude":31.342386,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Isparta",
     "meso:admin_1":"Isparta",
     "meso:gadm_admin":"\u015earkikaraa\u011fa\u00e7",
@@ -41,6 +43,7 @@
     "mps:longitude":31.342386,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "\u015eark\u00eekaraa\u011fa\u00e7"
     ],
@@ -89,7 +92,7 @@
     "name:tur_x_preferred":[
         "\u015earkikaraa\u011fa\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Do\u011fukaraa\u011fa\u00e7"
     ],
     "name:urd_x_preferred":[
@@ -116,9 +119,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"827",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Sarkikaraaga\u00e7",
@@ -140,7 +143,7 @@
         "gn:id":301539,
         "gp:id":29390723,
         "hasc:id":"TR.IP.SA",
-        "qs:id":211838,
+        "qs_pg:id":211838,
         "wd:id":"Q388528",
         "wk:page":"\u015earkikaraa\u011fa\u00e7"
     },
@@ -156,7 +159,7 @@
         }
     ],
     "wof:id":890464295,
-    "wof:lastmodified":1563361163,
+    "wof:lastmodified":1566586284,
     "wof:name":"\u015earkikaraa\u011fa\u00e7",
     "wof:parent_id":85679279,
     "wof:placetype":"county",

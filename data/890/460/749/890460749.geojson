@@ -11,7 +11,7 @@
     "geom:longitude":29.162283,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":40.946627,
     "lbl:longitude":29.167221,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Istanbul",
     "meso:admin_1":"Istanbul",
     "meso:gadm_admin":"Maltepe",
@@ -44,6 +46,7 @@
     "mps:longitude":29.167221,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0644\u062a\u064a\u0628\u0627"
     ],
@@ -152,9 +155,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"123",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -176,7 +179,7 @@
         "gn:id":7733238,
         "gp:id":29390551,
         "hasc:id":"TR.IB.MA",
-        "qs:id":1292210,
+        "qs_pg:id":1292210,
         "wd:id":"Q739547",
         "wk:page":"Maltepe"
     },
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":890460749,
-    "wof:lastmodified":1563361563,
+    "wof:lastmodified":1566586447,
     "wof:name":"Maltepe",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

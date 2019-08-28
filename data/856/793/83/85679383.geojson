@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":40.813947,
     "lbl:longitude":39.620632,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Trabzon",
     "mps:latitude":40.80772,
     "mps:longitude":39.792776,
@@ -257,7 +258,7 @@
         "Trabzon"
     ],
     "name:tam_x_preferred":[
-        "\u0b9f\u0bcd\u0bb0\u0bbe\u0baa\u0bcd\u0bb8\u0bcd\u0ba9\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b9f\u0bcd\u0bb0\u0bbe\u0baa\u0bcd\u0bb8\u0bcd\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1f\u0c4d\u0c30\u0c3e\u0c2c\u0c4d\u0c1c\u0c4b\u0c28\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -289,13 +290,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0440\u0430\u0431\u0437\u043e\u043d"
     ],
-    "name:und_x_preferred":[
-        "Trabzon"
-    ],
     "name:und_x_variant":[
-        "Trabzon"
-    ],
-    "name:unk_x_variant":[
         "Trebizond"
     ],
     "name:urd_x_preferred":[
@@ -394,9 +389,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"4,685",
     "statoids:area_mi":"1,809",
     "statoids:as_of_date":"2007-12-31",
@@ -421,7 +416,7 @@
         "gp:id":2347312,
         "hasc:id":"TR.TB",
         "iso:id":"TR-61",
-        "qs:id":319130,
+        "qs_pg:id":319130,
         "unlc:id":"TR-61",
         "wd:id":"Q388995",
         "wk:page":"Trabzon Province"
@@ -442,11 +437,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737376,
+    "wof:lastmodified":1566582963,
     "wof:name":"Trabzon",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":740569,
     "wof:population_rank":11,

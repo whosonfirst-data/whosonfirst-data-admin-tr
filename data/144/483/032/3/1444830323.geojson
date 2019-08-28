@@ -10,8 +10,10 @@
     "geom:latitude":41.316555,
     "geom:longitude":28.174839,
     "iso:country":"TR",
+    "lbl:bbox":"28.1698393863,41.3115547176,28.1798393863,41.3215547176",
     "lbl:latitude":41.316555,
     "lbl:longitude":28.174839,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462765,
-        85679237
+        890462765
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444830323,
-    "wof:lastmodified":1566339538,
+    "wof:lastmodified":1566584857,
     "wof:name":"Sayalar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,14 +9,16 @@
     "geom:bbox":"31.983814,36.547273,31.983814,36.547273",
     "geom:latitude":36.547273,
     "geom:longitude":31.983814,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":36.54939,
     "gn:longitude":31.98762,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"31.978814,36.542273,31.988814,36.552273",
     "lbl:latitude":36.547273,
     "lbl:longitude":31.983814,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.541639,
     "mps:longitude":31.978187,
     "mz:hierarchy_label":0,
@@ -97,12 +99,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u0440\u0430\u0439"
     ],
-    "name:und_x_preferred":[
-        "Saray"
-    ],
-    "name:unk_x_variant":[
-        "Saray"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0631\u0627\u0626\u06d2"
     ],
@@ -155,7 +151,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":255,
     "wof:belongsto":[
         85679263,
@@ -167,7 +163,6 @@
     "wof:concordances":{
         "gn:id":8069907,
         "gp:id":55966595,
-        "qs:id":896687,
         "qs_pg:id":896687,
         "wk:page":"Aissirimou"
     },
@@ -187,7 +182,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564158355,
+    "wof:lastmodified":1566582929,
     "wof:name":"Saray",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

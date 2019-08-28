@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":39.606347,
     "lbl:longitude":42.963522,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Agri",
     "mps:latitude":39.64822,
     "mps:longitude":43.017835,
@@ -269,7 +270,7 @@
         "A\u011fr\u0131"
     ],
     "name:tam_x_preferred":[
-        "\u0b85\u0b95\u0bcd\u0bb0\u0bbf  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b85\u0b95\u0bcd\u0bb0\u0bbf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c17\u0c4d\u0c30\u0c3f \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -298,14 +299,8 @@
     "name:und_x_colloquial":[
         "Agri"
     ],
-    "name:und_x_preferred":[
-        "A\u011fr\u0131"
-    ],
     "name:und_x_variant":[
         "A\u011fri",
-        "Agri"
-    ],
-    "name:unk_x_variant":[
         "Karak\u00f6se"
     ],
     "name:urd_x_preferred":[
@@ -401,9 +396,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"11,376",
     "statoids:area_mi":"4,392",
     "statoids:as_of_date":"2007-12-31",
@@ -428,7 +423,7 @@
         "gp:id":2347261,
         "hasc:id":"TR.AG",
         "iso:id":"TR-04",
-        "qs:id":1047500,
+        "qs_pg:id":1047500,
         "unlc:id":"TR-04",
         "wd:id":"Q80051",
         "wk:page":"A\u011fr\u0131 Province"
@@ -449,11 +444,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737375,
+    "wof:lastmodified":1566582958,
     "wof:name":"Agri",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":530879,
     "wof:population_rank":11,

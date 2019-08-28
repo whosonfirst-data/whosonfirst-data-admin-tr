@@ -11,7 +11,7 @@
     "geom:longitude":29.365984,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.634448,
     "lbl:longitude":29.331034,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Mugla",
     "meso:admin_1":"Mugla",
     "meso:gadm_admin":"Fethiye",
@@ -41,6 +43,7 @@
     "mps:longitude":29.331034,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Fethiye"
     ],
@@ -254,9 +257,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2955",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Fethiye",
@@ -278,7 +281,7 @@
         "gn:id":7732940,
         "gp:id":29390333,
         "hasc:id":"TR.MG.FE",
-        "qs:id":1164260,
+        "qs_pg:id":1164260,
         "wd:id":"Q1966463",
         "wk:page":"Fethiye"
     },
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":890462845,
-    "wof:lastmodified":1561769272,
+    "wof:lastmodified":1566586367,
     "wof:name":"Fethiye",
     "wof:parent_id":85679291,
     "wof:placetype":"county",

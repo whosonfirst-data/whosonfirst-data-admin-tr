@@ -11,9 +11,12 @@
     "geom:longitude":38.31667,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":441805,
+    "gn:population":441805,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"38.29667,38.33018,38.33667,38.37018",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -203,7 +206,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u044c\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Malatia"
     ],
     "name:urd_x_preferred":[
@@ -333,7 +336,7 @@
     "wof:concordances":{
         "gn:id":304922,
         "gp:id":2344246,
-        "qs:id":277179,
+        "qs_pg:id":277179,
         "wd:id":"Q165995",
         "wk:page":"Malatya"
     },
@@ -350,7 +353,7 @@
         }
     ],
     "wof:id":890460451,
-    "wof:lastmodified":1563361624,
+    "wof:lastmodified":1566586469,
     "wof:name":"Malatya",
     "wof:parent_id":890462419,
     "wof:placetype":"locality",

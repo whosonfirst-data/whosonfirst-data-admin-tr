@@ -11,10 +11,14 @@
     "geom:longitude":41.75111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":105,
+    "gn:population":105,
     "iso:country":"TR",
+    "lbl:bbox":"41.73111,37.78861,41.77111,37.82861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bul_x_preferred":[
         "\u0410\u0439\u0434\u0435\u043c\u0438\u0440"
     ],
@@ -42,7 +46,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0434\u0435\u043c\u0438\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "H\u00fcseyniye"
     ],
     "qs:name":"Aydemir",
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":322832,
         "gp:id":2344385,
-        "qs:id":547680,
+        "qs_pg:id":547680,
         "wk:page":"Aydemir"
     },
     "wof:country":"TR",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":890459113,
-    "wof:lastmodified":1564162984,
+    "wof:lastmodified":1566586593,
     "wof:name":"Aydemir",
     "wof:parent_id":1108709683,
     "wof:placetype":"locality",

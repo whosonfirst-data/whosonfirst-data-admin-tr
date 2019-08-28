@@ -11,8 +11,10 @@
     "geom:longitude":29.422524,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.417524,40.758972,29.427524,40.768972",
     "lbl:latitude":40.763972,
     "lbl:longitude":29.422524,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.758698,
     "mps:longitude":29.422399,
     "mz:hierarchy_label":0,
@@ -58,12 +60,6 @@
     "name:und_x_colloquial":[
         "Bayramoren"
     ],
-    "name:und_x_preferred":[
-        "Bayram\u00f6ren"
-    ],
-    "name:unk_x_variant":[
-        "Bayram\u00f6ren"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06d2\u0631\u0627\u0645\u0648\u0631\u06cc\u0646"
     ],
@@ -96,12 +92,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wd:wordcount":98,
-    "wof:belongs_to":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56042904,
-        "qs:id":119706
+        "qs_pg:id":119706
     },
     "wof:country":"TR",
     "wof:geomhash":"232df76436186c1dde52cd6f08ba7ffc",
@@ -118,7 +113,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247582,
+    "wof:lastmodified":1566582931,
     "wof:name":"Bayram\u00f6ren",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

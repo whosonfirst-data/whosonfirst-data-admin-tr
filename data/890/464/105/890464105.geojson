@@ -11,7 +11,7 @@
     "geom:longitude":36.389064,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":8660,
+    "gn:population":8660,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.606299,
     "lbl:longitude":36.385534,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kahramanmaras",
     "meso:admin_1":"Kahramanmaras",
     "meso:gadm_admin":"And\u0131r\u0131n",
@@ -41,6 +43,7 @@
     "mps:longitude":36.385534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "And\u0131r\u0131n"
     ],
@@ -75,7 +78,7 @@
         "\u0531\u0576\u0564\u056b\u0580\u056b\u0576"
     ],
     "name:ita_x_preferred":[
-        "Distretto di  And\u0131r\u0131n"
+        "Distretto di And\u0131r\u0131n"
     ],
     "name:kur_x_preferred":[
         "Andirin"
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0434\u0438\u0440\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "And\u0131ran"
     ],
     "name:urd_x_preferred":[
@@ -139,9 +142,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1191",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Andirin",
@@ -163,7 +166,7 @@
         "gn:id":323797,
         "gp:id":29390083,
         "hasc:id":"TR.KM.AN",
-        "qs:id":207344,
+        "qs_pg:id":207344,
         "wd:id":"Q528602",
         "wk:page":"And\u0131r\u0131n"
     },
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":890464105,
-    "wof:lastmodified":1563361131,
+    "wof:lastmodified":1566586271,
     "wof:name":"And\u0131r\u0131n",
     "wof:parent_id":85679303,
     "wof:placetype":"county",

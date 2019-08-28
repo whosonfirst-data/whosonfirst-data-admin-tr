@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":40.686879,
     "lbl:longitude":26.206344,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Edirne",
     "meso:admin_1":"Edirne",
     "meso:gadm_admin":"Enez",
@@ -37,6 +39,7 @@
     "mps:longitude":26.206344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0415\u043d\u043e\u0441"
     ],
@@ -110,9 +113,9 @@
         "Enez"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"438",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Enez",
@@ -144,7 +147,7 @@
         }
     ],
     "wof:id":1108709483,
-    "wof:lastmodified":1564161478,
+    "wof:lastmodified":1566585334,
     "wof:name":"Enez",
     "wof:parent_id":85679213,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":29.08333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.06333,40.86333,29.10333,40.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Heyb\u0259liada"
     ],
@@ -73,7 +77,7 @@
     "name:ukr_x_preferred":[
         "\u0425\u0435\u0439\u0431\u0435\u043b\u0456\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halki"
     ],
     "qs:name":"Heybeli",
@@ -96,7 +100,7 @@
     "wof:concordances":{
         "gn:id":745646,
         "gp:id":2323221,
-        "qs:id":483051,
+        "qs_pg:id":483051,
         "wd:id":"Q253317",
         "wk:page":"Heybeliada"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890460609,
-    "wof:lastmodified":1563361639,
+    "wof:lastmodified":1566586473,
     "wof:name":"Heybeli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

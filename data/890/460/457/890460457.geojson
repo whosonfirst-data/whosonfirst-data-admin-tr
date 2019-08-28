@@ -11,8 +11,11 @@
     "geom:longitude":29.97932,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":40285,
+    "gn:population":40285,
     "iso:country":"TR",
+    "lbl:bbox":"29.95932,40.12192,29.99932,40.16192",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -196,7 +199,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0435\u0434\u0436\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Agrilium"
     ],
     "name:urd_x_preferred":[
@@ -325,7 +328,7 @@
     "wof:concordances":{
         "gn:id":750598,
         "gp:id":2343810,
-        "qs:id":273831,
+        "qs_pg:id":273831,
         "wd:id":"Q208006",
         "wk:page":"Bilecik"
     },
@@ -342,7 +345,7 @@
         }
     ],
     "wof:id":890460457,
-    "wof:lastmodified":1563361633,
+    "wof:lastmodified":1566586471,
     "wof:name":"Bilecik",
     "wof:parent_id":1108709729,
     "wof:placetype":"locality",

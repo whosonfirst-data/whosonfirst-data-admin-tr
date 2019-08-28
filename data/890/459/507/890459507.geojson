@@ -11,10 +11,14 @@
     "geom:longitude":40.71361,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":87,
+    "gn:population":87,
     "iso:country":"TR",
+    "lbl:bbox":"40.69361,37.86972,40.73361,37.90972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "A\u015fa\u011f\u0131dolay"
     ],
@@ -94,7 +98,7 @@
         "A\u015fa\u011f\u0131 Dolay",
         "Karayakuplu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "A\u015fa\u011f\u0131 Fetle"
     ],
     "name:vie_x_preferred":[
@@ -117,7 +121,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":323395,
-        "qs:id":547694,
+        "qs_pg:id":547694,
         "wd:id":"Q3675337"
     },
     "wof:country":"TR",
@@ -133,7 +137,7 @@
         }
     ],
     "wof:id":890459507,
-    "wof:lastmodified":1563361893,
+    "wof:lastmodified":1566586575,
     "wof:name":"A\u015fa\u011f\u0131dolay",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

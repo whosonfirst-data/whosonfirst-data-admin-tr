@@ -11,11 +11,15 @@
     "geom:longitude":41.86306,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":443,
+    "gn:population":443,
     "iso:country":"TR",
+    "lbl:bbox":"41.84306,37.33083,41.88306,37.37083",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Harabe\u015feref"
     ],
     "qs:name":"Dirsekli",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":316572,
-        "qs:id":80106
+        "qs_pg:id":80106
     },
     "wof:country":"TR",
     "wof:created":1469053293,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459933,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586577,
     "wof:name":"Dirsekli",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

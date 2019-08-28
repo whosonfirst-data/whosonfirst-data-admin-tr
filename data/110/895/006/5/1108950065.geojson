@@ -10,9 +10,12 @@
     "geom:latitude":41.071209,
     "geom:longitude":28.972979,
     "iso:country":"TR",
+    "lbl:bbox":"28.9679792206,41.0662093982,28.9779792206,41.0762093982",
     "lbl:latitude":41.071209,
     "lbl:longitude":28.972979,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "G\u00fcrsel"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108950065,
-    "wof:lastmodified":1497292378,
+    "wof:lastmodified":1566585293,
     "wof:name":"Gursel",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",

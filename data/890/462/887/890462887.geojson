@@ -11,11 +11,15 @@
     "geom:longitude":43.18885,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":3812,
+    "gn:population":3812,
     "iso:country":"TR",
+    "lbl:bbox":"43.16885,37.64257,43.20885,37.68257",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Mezraa"
     ],
     "qs:name":"Mezrea",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":304414,
-        "qs:id":80029
+        "qs_pg:id":80029
     },
     "wof:country":"TR",
     "wof:created":1469053408,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890462887,
-    "wof:lastmodified":1505343691,
+    "wof:lastmodified":1566586369,
     "wof:name":"Mezrea",
     "wof:parent_id":1108709387,
     "wof:placetype":"locality",

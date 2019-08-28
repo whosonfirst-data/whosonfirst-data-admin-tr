@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":41.239403,
     "lbl:longitude":28.409152,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Istanbul",
     "mps:latitude":41.240616,
     "mps:longitude":28.419199,
@@ -272,13 +273,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0431\u0443\u043b"
     ],
-    "name:und_x_preferred":[
-        "\u0130stanbul"
-    ],
     "name:und_x_variant":[
-        "Istanbul"
-    ],
-    "name:unk_x_variant":[
         "\u0130stanbul Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -380,9 +375,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"5,220",
     "statoids:area_mi":"2,015",
     "statoids:as_of_date":"2007-12-31",
@@ -407,7 +402,7 @@
         "gp:id":2347289,
         "hasc:id":"TR.IB",
         "iso:id":"TR-34",
-        "qs:id":812115,
+        "qs_pg:id":812115,
         "unlc:id":"TR-34",
         "wd:id":"Q534799",
         "wk:page":"Istanbul Province"
@@ -428,11 +423,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737381,
+    "wof:lastmodified":1566582987,
     "wof:name":"Istanbul",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":12573836,
     "wof:population_rank":14,

@@ -11,7 +11,7 @@
     "geom:longitude":35.421753,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":50658,
+    "gn:population":50658,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.828497,
     "lbl:longitude":35.441899,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amasya",
     "meso:admin_1":"Amasya",
     "meso:gadm_admin":"Merzifon",
@@ -41,6 +43,7 @@
     "mps:longitude":35.441899,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0631\u0632\u064a\u0641\u0648\u0646"
     ],
@@ -140,7 +143,7 @@
     "name:tur_x_preferred":[
         "Merzifon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Marsivan"
     ],
     "name:urd_x_preferred":[
@@ -167,9 +170,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"972",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Merzifon",
@@ -194,7 +197,7 @@
         "gn:id":741609,
         "gp:id":29390632,
         "hasc:id":"TR.AM.ME",
-        "qs:id":129165,
+        "qs_pg:id":129165,
         "wd:id":"Q958135",
         "wk:page":"Merzifon"
     },
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890461589,
-    "wof:lastmodified":1563361745,
+    "wof:lastmodified":1566586512,
     "wof:name":"Merzifon",
     "wof:parent_id":85679335,
     "wof:placetype":"county",

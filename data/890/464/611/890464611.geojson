@@ -11,11 +11,15 @@
     "geom:longitude":28.82556,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.80556,41.03361,28.84556,41.07361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Mahmutbey"
     ],
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":741812,
         "gp:id":2331930,
-        "qs:id":249086
+        "qs_pg:id":249086
     },
     "wof:country":"TR",
     "wof:created":1469053479,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890464611,
-    "wof:lastmodified":1505343698,
+    "wof:lastmodified":1566586282,
     "wof:name":"Mahmutbey",
     "wof:parent_id":890464319,
     "wof:placetype":"locality",

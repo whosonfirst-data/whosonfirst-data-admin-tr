@@ -11,10 +11,14 @@
     "geom:longitude":38.87167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":436,
+    "gn:population":436,
     "iso:country":"TR",
+    "lbl:bbox":"38.85167,36.89611,38.89167,36.93611",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Dibek"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":436370,
-        "qs:id":80329
+        "qs_pg:id":80329
     },
     "wof:country":"TR",
     "wof:created":1469053295,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460001,
-    "wof:lastmodified":1505343680,
+    "wof:lastmodified":1566586442,
     "wof:name":"Dibek",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

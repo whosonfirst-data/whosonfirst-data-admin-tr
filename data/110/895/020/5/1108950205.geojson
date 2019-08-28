@@ -10,8 +10,10 @@
     "geom:latitude":41.179096,
     "geom:longitude":28.995181,
     "iso:country":"TR",
+    "lbl:bbox":"28.9901807699,41.1740955358,29.0001807699,41.1840955358",
     "lbl:latitude":41.179096,
     "lbl:longitude":28.995181,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -27,12 +29,12 @@
     "name:tur_x_variant":[
         "Bah\u00e7ek\u00f6y Yenimahalle"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890463467,
-        85679237
+        890463467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +55,7 @@
         }
     ],
     "wof:id":1108950205,
-    "wof:lastmodified":1509410164,
+    "wof:lastmodified":1566585296,
     "wof:name":"Bahcekoy Yeni",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

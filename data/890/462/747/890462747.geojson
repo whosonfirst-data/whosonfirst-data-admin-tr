@@ -11,7 +11,7 @@
     "geom:longitude":35.537683,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":2796,
+    "gn:population":2796,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.413223,
     "lbl:longitude":35.525125,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Amasya",
     "meso:admin_1":"Amasya",
     "meso:gadm_admin":"G\u00f6yn\u00fccek",
@@ -41,6 +43,7 @@
     "mps:longitude":35.525125,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "G\u00f6yn\u00fccek"
     ],
@@ -106,9 +109,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"578",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00f6yn\u00fccek",
@@ -130,7 +133,7 @@
         "gn:id":746547,
         "gp:id":29390372,
         "hasc:id":"TR.AM.GO",
-        "qs:id":69997,
+        "qs_pg:id":69997,
         "wd:id":"Q2670770",
         "wk:page":"G\u00f6yn\u00fccek"
     },
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":890462747,
-    "wof:lastmodified":1563361392,
+    "wof:lastmodified":1566586383,
     "wof:name":"G\u00f6yn\u00fccek",
     "wof:parent_id":85679335,
     "wof:placetype":"county",

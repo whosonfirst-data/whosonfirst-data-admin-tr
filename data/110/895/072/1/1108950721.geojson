@@ -10,8 +10,10 @@
     "geom:latitude":41.026034,
     "geom:longitude":28.774802,
     "iso:country":"TR",
+    "lbl:bbox":"28.769801969,41.021033914,28.779801969,41.031033914",
     "lbl:latitude":41.026034,
     "lbl:longitude":28.774802,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "\u0130stasyon"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -122,7 +124,7 @@
         }
     ],
     "wof:id":1108950721,
-    "wof:lastmodified":1563359599,
+    "wof:lastmodified":1566585300,
     "wof:name":"Istasyon",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

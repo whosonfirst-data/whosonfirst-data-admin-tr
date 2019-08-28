@@ -10,8 +10,10 @@
     "geom:latitude":40.957885,
     "geom:longitude":29.215787,
     "iso:country":"TR",
+    "lbl:bbox":"29.2107867471,40.9528853136,29.2207867471,40.9628853136",
     "lbl:latitude":40.957885,
     "lbl:longitude":29.215787,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709841,
-        85679237
+        1108709841
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444832255,
-    "wof:lastmodified":1566339764,
+    "wof:lastmodified":1566584856,
     "wof:name":"Fatih",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,10 +11,14 @@
     "geom:longitude":41.51167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":223,
+    "gn:population":223,
     "iso:country":"TR",
+    "lbl:bbox":"41.49167,37.1075,41.53167,37.1475",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0411\u0430\u043b\u0430\u0431\u0430\u043d"
     ],
@@ -54,7 +58,7 @@
     "name:tur_x_preferred":[
         "Balaban"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Girev\u015fi"
     ],
     "qs:name":"Balaban",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":322239,
         "gp:id":2344184,
-        "qs:id":205770,
+        "qs_pg:id":205770,
         "wk:page":"Balaban"
     },
     "wof:country":"TR",
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":890464035,
-    "wof:lastmodified":1564162744,
+    "wof:lastmodified":1566586313,
     "wof:name":"Balaban",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

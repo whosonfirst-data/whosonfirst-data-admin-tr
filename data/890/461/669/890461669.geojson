@@ -11,11 +11,15 @@
     "geom:longitude":27.65612,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":10324,
+    "gn:population":10324,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.63612,39.36319,27.67612,39.40319",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
         "\u0633\u0627\u0648\u0627\u0634 \u062a\u0628\u0647"
     ],
@@ -61,7 +65,7 @@
     "name:tur_x_preferred":[
         "Sava\u015ftepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Giresun"
     ],
     "name:urd_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:concordances":{
         "gn:id":301453,
         "gp:id":2336339,
-        "qs:id":346074,
+        "qs_pg:id":346074,
         "wd:id":"Q2384358",
         "wk:page":"Sava\u015ftepe"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890461669,
-    "wof:lastmodified":1563361710,
+    "wof:lastmodified":1566586499,
     "wof:name":"Sava\u015ftepe",
     "wof:parent_id":1108709867,
     "wof:placetype":"locality",

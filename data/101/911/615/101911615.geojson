@@ -12,9 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":41.992762,
     "lbl:longitude":35.09161,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.992762,
     "mps:longitude":35.09161,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:a0":"Turkey",
     "qs:a1":"*",
     "qs:a1r":"0",
@@ -30,7 +34,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -40,7 +44,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2344460,
-        "qs:id":1134859,
         "qs_pg:id":1134859
     },
     "wof:country":"TR",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":101911615,
-    "wof:lastmodified":1497296458,
+    "wof:lastmodified":1566586013,
     "wof:name":"Tutuzlupinar",
     "wof:parent_id":890461085,
     "wof:placetype":"locality",

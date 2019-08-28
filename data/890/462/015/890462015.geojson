@@ -11,8 +11,11 @@
     "geom:longitude":28.974037,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.969037,41.03798,28.979037,41.04798",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Hac\u0131ahmet",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101913185,
-        890461447,
-        85679237
+        890461447
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724092,
-        "qs:id":946667
+        "qs_pg:id":946667
     },
     "wof:country":"TR",
     "wof:created":1469053375,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890462015,
-    "wof:lastmodified":1500070993,
+    "wof:lastmodified":1566586367,
     "wof:name":"Hac\u0131ahmet",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

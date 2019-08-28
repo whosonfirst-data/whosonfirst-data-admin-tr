@@ -11,7 +11,7 @@
     "geom:longitude":35.988069,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":36.165763,
     "lbl:longitude":35.986053,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Hatay",
     "meso:admin_1":"Hatay",
     "meso:gadm_admin":"Samanda\u011f",
@@ -41,6 +43,7 @@
     "mps:longitude":35.986053,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0633\u0648\u064a\u062f\u064a\u0629"
     ],
@@ -143,7 +146,7 @@
     "name:tur_x_variant":[
         "Samanda\u011f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alev\u0131\u015f\u0131k"
     ],
     "name:urd_x_preferred":[
@@ -170,9 +173,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"446",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Samandag",
@@ -194,7 +197,7 @@
         "gn:id":301975,
         "gp:id":29390714,
         "hasc:id":"TR.HT.SA",
-        "qs:id":124093,
+        "qs_pg:id":124093,
         "wd:id":"Q840957",
         "wk:page":"Samanda\u011f"
     },
@@ -210,7 +213,7 @@
         }
     ],
     "wof:id":890463283,
-    "wof:lastmodified":1563361055,
+    "wof:lastmodified":1566586242,
     "wof:name":"Samanda\u011f",
     "wof:parent_id":85679331,
     "wof:placetype":"county",

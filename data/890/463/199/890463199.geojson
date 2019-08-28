@@ -11,7 +11,7 @@
     "geom:longitude":40.313116,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":31951,
+    "gn:population":31951,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.890631,
     "lbl:longitude":40.275486,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Trabzon",
     "meso:admin_1":"Trabzon",
     "meso:gadm_admin":"Dernekpazar\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":40.275486,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dernekpazari"
     ],
@@ -50,7 +53,7 @@
     "name:rus_x_preferred":[
         "\u041e\u0444"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sulakl\u0131"
     ],
     "qs:name":"Of",
@@ -68,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"82",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Dernekpazari",
@@ -91,7 +94,7 @@
         "gn:id":741240,
         "gp:id":29390662,
         "hasc:id":"TR.TB.DE",
-        "qs:id":1028823
+        "qs_pg:id":1028823
     },
     "wof:country":"TR",
     "wof:created":1469053420,
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890463199,
-    "wof:lastmodified":1561070596,
+    "wof:lastmodified":1566586240,
     "wof:name":"Of",
     "wof:parent_id":85679383,
     "wof:placetype":"county",

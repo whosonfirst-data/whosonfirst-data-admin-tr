@@ -13,10 +13,13 @@
     "iso:country":"TR",
     "lbl:latitude":41.632258,
     "lbl:longitude":32.327378,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mps:latitude":41.632258,
     "mps:longitude":32.327378,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u062a\u064a\u0646"
     ],
@@ -173,7 +176,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0442\u0438\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Parthenium"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":41.634444,
     "wd:longitude":32.3375,
@@ -222,10 +225,12 @@
         "gn:id":751057,
         "gp:id":2343781,
         "loc:id":"n2007004078",
-        "qs:id":129230,
-        "qs_pg:id":1251239,
+        "qs_pg:id":129230,
         "wd:id":"Q211805",
         "wk:page":"Bart\u0131n"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1251239
     },
     "wof:country":"TR",
     "wof:geomhash":"fdefe625a0f775cb156e4aa2859c570c",
@@ -239,7 +244,7 @@
         }
     ],
     "wof:id":101911163,
-    "wof:lastmodified":1563360676,
+    "wof:lastmodified":1566586012,
     "wof:name":"Bart\u0131n",
     "wof:parent_id":1108709723,
     "wof:placetype":"locality",

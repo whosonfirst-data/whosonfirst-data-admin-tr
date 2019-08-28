@@ -11,14 +11,18 @@
     "geom:longitude":29.51871,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":2138,
+    "gn:population":2138,
     "iso:country":"TR",
+    "lbl:bbox":"29.49871,40.08881,29.53871,40.12881",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Alanyurt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adabinli"
     ],
     "qs:name":"Alanyurt",
@@ -37,7 +41,7 @@
     "wof:concordances":{
         "gn:id":752188,
         "gp:id":2344108,
-        "qs:id":129257,
+        "qs_pg:id":129257,
         "wk:page":"Alanyurt"
     },
     "wof:country":"TR",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890460205,
-    "wof:lastmodified":1564162856,
+    "wof:lastmodified":1566586442,
     "wof:name":"Alanyurt",
     "wof:parent_id":890464471,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":41.117351,
     "geom:longitude":29.0512,
     "iso:country":"TR",
+    "lbl:bbox":"29.0461996274,41.1123510262,29.0561996274,41.1223510262",
     "lbl:latitude":41.117351,
     "lbl:longitude":29.0512,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -45,7 +47,7 @@
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u63d0\u5c3c\u8036"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1108950161,
-    "wof:lastmodified":1563359596,
+    "wof:lastmodified":1566585298,
     "wof:name":"Istinye",
     "wof:parent_id":101912653,
     "wof:placetype":"neighbourhood",

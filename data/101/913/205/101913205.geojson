@@ -12,9 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":36.836336,
     "lbl:longitude":28.244616,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":36.836336,
     "mps:longitude":28.244616,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "\u015eirinyer"
     ],
@@ -33,7 +37,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -43,7 +47,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55966691,
-        "qs:id":1198065,
         "qs_pg:id":1198065
     },
     "wof:country":"TR",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":101913205,
-    "wof:lastmodified":1497294673,
+    "wof:lastmodified":1566586006,
     "wof:name":"Sirinyer",
     "wof:parent_id":890460753,
     "wof:placetype":"locality",

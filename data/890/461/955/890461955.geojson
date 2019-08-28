@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":37.529417,
     "lbl:longitude":29.05825,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Denizli",
     "meso:admin_1":"Denizli",
     "meso:gadm_admin":"Tavas",
@@ -38,6 +40,7 @@
     "mps:longitude":29.05825,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u062a\u0627\u0648\u0627\u0633"
     ],
@@ -125,9 +128,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1585",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Tavas",
@@ -147,7 +150,7 @@
     "wof:concordances":{
         "gp:id":29390797,
         "hasc:id":"TR.DN.TA",
-        "qs:id":1324345,
+        "qs_pg:id":1324345,
         "wd:id":"Q1004555"
     },
     "wof:country":"TR",
@@ -162,7 +165,7 @@
         }
     ],
     "wof:id":890461955,
-    "wof:lastmodified":1563361680,
+    "wof:lastmodified":1566586488,
     "wof:name":"Tavas",
     "wof:parent_id":85679277,
     "wof:placetype":"county",

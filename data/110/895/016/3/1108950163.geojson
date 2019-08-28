@@ -10,8 +10,10 @@
     "geom:latitude":41.124162,
     "geom:longitude":29.062987,
     "iso:country":"TR",
+    "lbl:bbox":"29.0579870479,41.1191617166,29.0679870479,41.1291617166",
     "lbl:latitude":41.124162,
     "lbl:longitude":29.062987,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -51,7 +53,7 @@
     "name:vie_x_preferred":[
         "Yenik\u00f6y"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -77,7 +79,7 @@
         }
     ],
     "wof:id":1108950163,
-    "wof:lastmodified":1563359596,
+    "wof:lastmodified":1566585298,
     "wof:name":"Yenikoy",
     "wof:parent_id":101912653,
     "wof:placetype":"neighbourhood",

@@ -11,7 +11,7 @@
     "geom:longitude":35.601153,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.777911,
     "lbl:longitude":35.71025,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kayseri",
     "meso:admin_1":"Kayseri",
     "meso:gadm_admin":"Develi",
@@ -41,6 +43,7 @@
     "mps:longitude":35.71025,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Melikgazi"
     ],
@@ -101,7 +104,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":164,
     "wof:belongsto":[
@@ -114,7 +117,7 @@
         "gn:id":7732928,
         "gp:id":29390562,
         "hasc:id":"TR.KY.DE",
-        "qs:id":204500,
+        "qs_pg:id":204500,
         "wd:id":"Q2670975",
         "wk:page":"Melikgazi"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890463863,
-    "wof:lastmodified":1563361096,
+    "wof:lastmodified":1566586257,
     "wof:name":"Melikgazi",
     "wof:parent_id":85679321,
     "wof:placetype":"county",

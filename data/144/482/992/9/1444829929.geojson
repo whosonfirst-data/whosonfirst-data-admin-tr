@@ -10,8 +10,10 @@
     "geom:latitude":41.412816,
     "geom:longitude":28.186598,
     "iso:country":"TR",
+    "lbl:bbox":"28.1815981965,41.4078159879,28.1915981965,41.4178159879",
     "lbl:latitude":41.412816,
     "lbl:longitude":28.186598,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462087,
-        85679237
+        890462087
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829929,
-    "wof:lastmodified":1566339491,
+    "wof:lastmodified":1566584821,
     "wof:name":"Ataturk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.020778,
     "lbl:longitude":29.007517,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.017595,
     "mps:longitude":29.007016,
     "mz:hierarchy_label":1,
@@ -29,12 +30,6 @@
         "Imrahor-Salacak"
     ],
     "name:tur_x_variant":[
-        "\u0130mrahor-Salacak"
-    ],
-    "name:und_x_preferred":[
-        "\u0130mrahor-Salacak"
-    ],
-    "name:unk_x_variant":[
         "\u0130mrahor-Salacak"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -72,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2343630,
-        "qs:id":430915
+        "qs_pg:id":430915
     },
     "wof:country":"TR",
     "wof:geomhash":"aa163f578e26690e062b3128bfb4de1c",
@@ -89,7 +84,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582913,
     "wof:name":"\u0130mrahor-Salacak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

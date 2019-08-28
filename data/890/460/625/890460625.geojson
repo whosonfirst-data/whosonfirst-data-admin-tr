@@ -11,7 +11,7 @@
     "geom:longitude":43.09094,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4230,
+    "gn:population":4230,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.807777,
     "lbl:longitude":43.087193,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kars",
     "meso:admin_1":"Kars",
     "meso:gadm_admin":"Susuz",
@@ -41,6 +43,7 @@
     "mps:longitude":43.087193,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "Susuz il\u00e7\u0259si"
     ],
@@ -95,7 +98,7 @@
     "name:tur_x_preferred":[
         "Susuz"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nevodobovka"
     ],
     "name:urd_x_preferred":[
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"701",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Susuz",
@@ -144,7 +147,7 @@
         "gn:id":739201,
         "gp:id":29390781,
         "hasc:id":"TR.KA.SU",
-        "qs:id":254337,
+        "qs_pg:id":254337,
         "wd:id":"Q1022236",
         "wk:page":"Susuz"
     },
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890460625,
-    "wof:lastmodified":1563361603,
+    "wof:lastmodified":1566586460,
     "wof:name":"Susuz",
     "wof:parent_id":85679475,
     "wof:placetype":"county",

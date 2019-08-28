@@ -11,7 +11,7 @@
     "geom:longitude":36.281876,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":2154,
+    "gn:population":2154,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.028346,
     "lbl:longitude":36.269268,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Samsun",
     "meso:admin_1":"Samsun",
     "meso:gadm_admin":"Asarcik",
@@ -41,6 +43,7 @@
     "mps:longitude":36.269268,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Asarc\u0131k \u0130l\u00e7esi"
     ],
@@ -80,7 +83,7 @@
     "name:tur_x_preferred":[
         "Asarc\u0131k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bi\u00e7incik"
     ],
     "name:urd_x_preferred":[
@@ -100,9 +103,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"232",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Asarcik",
@@ -124,7 +127,7 @@
         "gn:id":750615,
         "gp:id":29390096,
         "hasc:id":"TR.SS.AS",
-        "qs:id":207345,
+        "qs_pg:id":207345,
         "wd:id":"Q2262525",
         "wk:page":"Asarc\u0131k"
     },
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":890464107,
-    "wof:lastmodified":1563361204,
+    "wof:lastmodified":1566586300,
     "wof:name":"Asarc\u0131k",
     "wof:parent_id":85679357,
     "wof:placetype":"county",

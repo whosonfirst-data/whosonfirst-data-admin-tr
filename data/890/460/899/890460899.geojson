@@ -11,11 +11,15 @@
     "geom:longitude":43.08139,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":596,
+    "gn:population":596,
     "iso:country":"TR",
+    "lbl:bbox":"43.06139,37.96944,43.10139,38.00944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "R\u00fcknan"
     ],
     "qs:name":"S\u00f6zveren",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":300320,
-        "qs:id":547283
+        "qs_pg:id":547283
     },
     "wof:country":"TR",
     "wof:created":1469053331,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460899,
-    "wof:lastmodified":1505343684,
+    "wof:lastmodified":1566586472,
     "wof:name":"S\u00f6zveren",
     "wof:parent_id":1108710025,
     "wof:placetype":"locality",

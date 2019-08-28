@@ -11,12 +11,15 @@
     "geom:longitude":36.21594,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"36.21094,38.52608,36.22094,38.53608",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Keltepe"
     ],
     "qs:name":"G\u00fcltepe",
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":313655,
         "gp:id":56043204,
-        "qs:id":1314407
+        "qs_pg:id":1314407
     },
     "wof:country":"TR",
     "wof:created":1469053327,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890460791,
-    "wof:lastmodified":1505343683,
+    "wof:lastmodified":1566586426,
     "wof:name":"G\u00fcltepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

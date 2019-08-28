@@ -11,11 +11,15 @@
     "geom:longitude":39.08861,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":3185,
+    "gn:population":3185,
     "iso:country":"TR",
+    "lbl:bbox":"39.06861,36.71417,39.10861,36.75417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u015eark\u0131mugayre"
     ],
     "qs:name":"G\u00fcneren",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313500,
-        "qs:id":547502
+        "qs_pg:id":547502
     },
     "wof:country":"TR",
     "wof:created":1469053511,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465261,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586334,
     "wof:name":"G\u00fcneren",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

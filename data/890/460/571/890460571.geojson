@@ -11,7 +11,7 @@
     "geom:longitude":28.905587,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.526787,
     "lbl:longitude":28.907347,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Yalova",
     "meso:admin_1":"Yalova",
     "meso:gadm_admin":"Armutlu",
@@ -41,6 +43,7 @@
     "mps:longitude":28.907347,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Armutlu"
     ],
@@ -65,7 +68,7 @@
     "name:tur_x_preferred":[
         "Armutlu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Armutli"
     ],
     "qs:name":"Armutlu",
@@ -83,9 +86,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"238",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Armutlu",
@@ -107,7 +110,7 @@
         "gn:id":751881,
         "gp:id":29390092,
         "hasc:id":"TR.YL.AR",
-        "qs:id":488826,
+        "qs_pg:id":488826,
         "wd:id":"Q400270",
         "wk:page":"Armutlu"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890460571,
-    "wof:lastmodified":1563361640,
+    "wof:lastmodified":1566586473,
     "wof:name":"Armutlu",
     "wof:parent_id":85679529,
     "wof:placetype":"county",

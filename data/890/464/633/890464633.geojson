@@ -11,11 +11,15 @@
     "geom:longitude":43.21564,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":217,
+    "gn:population":217,
     "iso:country":"TR",
+    "lbl:bbox":"43.19564,37.58725,43.23564,37.62725",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Bezal"
     ],
     "qs:name":"Ortal\u0131",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":303274,
         "gp:id":2343807,
-        "qs:id":547345
+        "qs_pg:id":547345
     },
     "wof:country":"TR",
     "wof:created":1469053480,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890464633,
-    "wof:lastmodified":1505343698,
+    "wof:lastmodified":1566586282,
     "wof:name":"Ortal\u0131",
     "wof:parent_id":1108709387,
     "wof:placetype":"locality",

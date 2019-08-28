@@ -9,14 +9,15 @@
     "geom:bbox":"28.9970885908,41.0737817636,29.0203857422,41.091772221",
     "geom:latitude":41.083973,
     "geom:longitude":29.010661,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":41.08116,
     "gn:longitude":29.01772,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":41.077626,
     "lbl:longitude":29.019453,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.083313,
     "mps:longitude":29.011826,
     "mz:hierarchy_label":1,
@@ -89,12 +90,6 @@
     "name:tur_x_preferred":[
         "Levent"
     ],
-    "name:und_x_preferred":[
-        "Levent"
-    ],
-    "name:unk_x_variant":[
-        "Levent"
-    ],
     "name:zho_x_preferred":[
         "\u840a\u6587\u7279"
     ],
@@ -159,7 +154,6 @@
     "wof:concordances":{
         "gn:id":7669145,
         "gp:id":55870825,
-        "qs:id":1152360,
         "qs_pg:id":1152360,
         "wd:id":"Q48898",
         "wk:page":"Levent"
@@ -180,7 +174,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566582936,
     "wof:name":"Levent",
     "wof:parent_id":101912663,
     "wof:placetype":"neighbourhood",

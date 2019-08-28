@@ -27,6 +27,7 @@
     ],
     "lbl:latitude":37.490129,
     "lbl:longitude":43.796497,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Hakkari",
     "mps:latitude":37.588291,
     "mps:longitude":44.199598,
@@ -284,13 +285,7 @@
     "name:und_x_colloquial":[
         "Hakkari"
     ],
-    "name:und_x_preferred":[
-        "Hakk\u00e2ri"
-    ],
     "name:und_x_variant":[
-        "Hakkari"
-    ],
-    "name:unk_x_variant":[
         "Hakk\u00e2ri Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -386,9 +381,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"7,121",
     "statoids:area_mi":"2,749",
     "statoids:as_of_date":"2007-12-31",
@@ -413,7 +408,7 @@
         "gp:id":2347320,
         "hasc:id":"TR.HK",
         "iso:id":"TR-30",
-        "qs:id":890105,
+        "qs_pg:id":890105,
         "unlc:id":"TR-30",
         "wd:id":"Q93209",
         "wk:page":"Hakk\u00e2ri Province"
@@ -434,11 +429,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737379,
+    "wof:lastmodified":1566582979,
     "wof:name":"Hakkari",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":246469,
     "wof:population_rank":10,

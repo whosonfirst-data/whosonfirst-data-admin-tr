@@ -14,6 +14,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.003424,
     "lbl:longitude":28.963528,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.99305,
     "mps:longitude":28.967496,
     "mz:hierarchy_label":1,
@@ -71,13 +72,6 @@
     "name:und_x_colloquial":[
         "Kumkapi"
     ],
-    "name:und_x_preferred":[
-        "Kumkap\u0131"
-    ],
-    "name:unk_x_variant":[
-        "Kumkap\u0131",
-        "Kumkap\u0131"
-    ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
     "qs:gn_local":745044,
@@ -108,7 +102,6 @@
     "wd:latitude":41.0,
     "wd:longitude":28.966667,
     "wd:wordcount":146,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         85679237,
@@ -119,7 +112,7 @@
     "wof:concordances":{
         "gn:id":742252,
         "gp:id":2343616,
-        "qs:id":1207485,
+        "qs_pg:id":1207485,
         "wd:id":"Q2152551",
         "wk:page":"Kumkap\u0131"
     },
@@ -138,7 +131,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582915,
     "wof:name":"Kumkapi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

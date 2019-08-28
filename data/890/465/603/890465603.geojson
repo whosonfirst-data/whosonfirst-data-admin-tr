@@ -11,10 +11,14 @@
     "geom:longitude":40.50722,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":520,
+    "gn:population":520,
     "iso:country":"TR",
+    "lbl:bbox":"40.48722,37.18028,40.52722,37.22028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Akziyaret"
     ],
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":441816,
         "gp:id":2344204,
-        "qs:id":548279
+        "qs_pg:id":548279
     },
     "wof:country":"TR",
     "wof:created":1469053526,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890465603,
-    "wof:lastmodified":1505343704,
+    "wof:lastmodified":1566586335,
     "wof:name":"Akziyaret",
     "wof:parent_id":890460129,
     "wof:placetype":"locality",

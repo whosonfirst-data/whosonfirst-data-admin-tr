@@ -11,11 +11,15 @@
     "geom:longitude":43.04139,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":621,
+    "gn:population":621,
     "iso:country":"TR",
+    "lbl:bbox":"43.02139,37.49972,43.06139,37.53972",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "\u00c7emhaski"
     ],
     "qs:name":"Pirin\u00e7li",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":302571,
-        "qs:id":547316
+        "qs_pg:id":547316
     },
     "wof:country":"TR",
     "wof:created":1469053496,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465027,
-    "wof:lastmodified":1505343701,
+    "wof:lastmodified":1566586346,
     "wof:name":"Pirin\u00e7li",
     "wof:parent_id":1108709387,
     "wof:placetype":"locality",

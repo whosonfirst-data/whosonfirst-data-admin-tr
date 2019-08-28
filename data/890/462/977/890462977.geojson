@@ -11,11 +11,15 @@
     "geom:longitude":29.41559,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":1785,
+    "gn:population":1785,
     "iso:country":"TR",
+    "lbl:bbox":"29.39559,40.3748,29.43559,40.4148",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "M\u00fcslims\u00f6l\u00f6z"
     ],
     "qs:name":"S\u00f6l\u00f6z",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":739393,
-        "qs:id":83356
+        "qs_pg:id":83356
     },
     "wof:country":"TR",
     "wof:created":1469053411,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890462977,
-    "wof:lastmodified":1505343691,
+    "wof:lastmodified":1566586381,
     "wof:name":"S\u00f6l\u00f6z",
     "wof:parent_id":890464593,
     "wof:placetype":"locality",

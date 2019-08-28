@@ -11,7 +11,7 @@
     "geom:longitude":25.839703,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":7822,
+    "gn:population":7822,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.156239,
     "lbl:longitude":25.827812,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Canakkale",
     "meso:admin_1":"\u00c7anakkale",
     "meso:gadm_admin":"G\u00f6k\u00e7eada",
@@ -41,6 +43,7 @@
     "mps:longitude":25.827812,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u0413\u0451\u043a\u0447\u044d\u0430\u0434\u0430"
     ],
@@ -86,7 +89,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u044c\u043e\u043a\u0447\u0435\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Panagia"
     ],
     "name:vie_x_preferred":[
@@ -107,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"287",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00f6k\u00e7eada",
@@ -130,7 +133,7 @@
         "gn:id":745260,
         "gp:id":29390354,
         "hasc:id":"TR.CK.GO",
-        "qs:id":480085,
+        "qs_pg:id":480085,
         "wd:id":"Q1559296"
     },
     "wof:country":"TR",
@@ -145,7 +148,7 @@
         }
     ],
     "wof:id":890461677,
-    "wof:lastmodified":1563361790,
+    "wof:lastmodified":1566586528,
     "wof:name":"G\u00f6k\u00e7eada",
     "wof:parent_id":85679209,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":32.116913,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":21773,
+    "gn:population":21773,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":41.452145,
     "lbl:longitude":32.097407,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Zonguldak",
     "meso:admin_1":"Zonguldak",
     "meso:gadm_admin":"\u00c7aycuma",
@@ -41,6 +43,7 @@
     "mps:longitude":32.097407,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0686\u0627\u06cc \u062c\u0648\u0645\u0627"
     ],
@@ -117,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"392",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"\u00c7aycuma",
@@ -141,7 +144,7 @@
         "gn:id":749508,
         "gp:id":29390215,
         "hasc:id":"TR.ZO.CA",
-        "qs:id":448561,
+        "qs_pg:id":448561,
         "wd:id":"Q272709",
         "wk:page":"\u00c7aycuma"
     },
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":890461695,
-    "wof:lastmodified":1563361720,
+    "wof:lastmodified":1566586503,
     "wof:name":"\u00c7aycuma",
     "wof:parent_id":85679419,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":38.23444,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":257,
+    "gn:population":257,
     "iso:country":"TR",
+    "lbl:bbox":"38.21444,36.91028,38.25444,36.95028",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:aze_x_preferred":[
         "Qaraca"
     ],
@@ -33,7 +37,7 @@
     "name:tur_x_preferred":[
         "Karaca"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u00fcveydi"
     ],
     "qs:name":"Karaca",
@@ -51,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":310187,
-        "qs:id":547434,
+        "qs_pg:id":547434,
         "wk:page":"Karaca"
     },
     "wof:country":"TR",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890459635,
-    "wof:lastmodified":1564162942,
+    "wof:lastmodified":1566586563,
     "wof:name":"Karaca",
     "wof:parent_id":890460731,
     "wof:placetype":"locality",

@@ -10,8 +10,10 @@
     "geom:latitude":41.154709,
     "geom:longitude":29.540671,
     "iso:country":"TR",
+    "lbl:bbox":"29.5356710868,41.1497092691,29.5456710868,41.1597092691",
     "lbl:latitude":41.154709,
     "lbl:longitude":29.540671,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -33,10 +35,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1444834211,
-    "wof:lastmodified":1566339997,
+    "wof:lastmodified":1566584851,
     "wof:name":"K\u0131izilca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

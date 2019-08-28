@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7407864.499455,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.090006,37.745696,29.090006,37.745696",
     "geom:latitude":37.745696,
     "geom:longitude":29.090006,
     "gn:latitude":38.55936,
     "gn:longitude":29.06813,
     "iso:country":"TR",
+    "lbl:bbox":"29.085006,37.740696,29.095006,37.750696",
     "lbl:latitude":37.745696,
     "lbl:longitude":29.090006,
+    "lbl:max_zoom":18.0,
     "mps:latitude":37.744997,
     "mps:longitude":29.089868,
     "mz:hierarchy_label":0,
@@ -40,10 +42,7 @@
     "name:und_x_colloquial":[
         "Camlik"
     ],
-    "name:und_x_preferred":[
-        "\u00c7amlik"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7amlik"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -74,18 +73,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679277,
         102191569,
         85632393,
-        890460703,
-        85679277
+        890460703
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":319672,
         "gp:id":56043380,
-        "qs:id":97353
+        "qs_pg:id":97353
     },
     "wof:country":"TR",
     "wof:geomhash":"608c1601ea12afdcf6217e8bae4fb845",
@@ -103,7 +102,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939809,
+    "wof:lastmodified":1566582931,
     "wof:name":"\u00c7amlik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

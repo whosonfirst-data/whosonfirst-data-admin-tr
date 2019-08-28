@@ -11,11 +11,15 @@
     "geom:longitude":27.86129,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.84129,40.32229,27.88129,40.36229",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ota_x_preferred":[
         "\u0627\u06cc\u062f\u0646\u062c\u0642"
     ],
@@ -25,7 +29,7 @@
     "name:tur_x_preferred":[
         "Ayd\u0131nc\u0131k"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aidinjik"
     ],
     "qs:name":"Edincik",
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":747714,
         "gp:id":2318449,
-        "qs:id":249195
+        "qs_pg:id":249195
     },
     "wof:country":"TR",
     "wof:created":1469053320,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890460591,
-    "wof:lastmodified":1505343683,
+    "wof:lastmodified":1566586458,
     "wof:name":"Edincik",
     "wof:parent_id":890462505,
     "wof:placetype":"locality",

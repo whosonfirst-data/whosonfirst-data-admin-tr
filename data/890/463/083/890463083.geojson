@@ -11,11 +11,15 @@
     "geom:longitude":37.60167,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":18771,
+    "gn:population":18771,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"37.58167,40.76833,37.62167,40.80833",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "G\u00fcrgentepe \u0130l\u00e7esi"
     ],
@@ -67,7 +71,7 @@
     "name:tur_x_preferred":[
         "G\u00fcrgentepe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akmescit"
     ],
     "name:urd_x_preferred":[
@@ -98,7 +102,7 @@
     "wof:concordances":{
         "gn:id":746252,
         "gp:id":2321735,
-        "qs:id":466569,
+        "qs_pg:id":466569,
         "wd:id":"Q1948325",
         "wk:page":"G\u00fcrgentepe"
     },
@@ -115,7 +119,7 @@
         }
     ],
     "wof:id":890463083,
-    "wof:lastmodified":1563360967,
+    "wof:lastmodified":1566586213,
     "wof:name":"G\u00fcrgentepe",
     "wof:parent_id":1108709545,
     "wof:placetype":"locality",

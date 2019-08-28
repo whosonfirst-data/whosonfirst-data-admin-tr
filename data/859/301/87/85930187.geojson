@@ -12,8 +12,10 @@
     "gn:latitude":36.88691,
     "gn:longitude":30.69397,
     "iso:country":"TR",
+    "lbl:bbox":"30.69584,36.88028,30.70584,36.89028",
     "lbl:latitude":36.88528,
     "lbl:longitude":30.70084,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.884359,
     "mps:longitude":30.69634,
     "mz:hierarchy_label":0,
@@ -33,12 +35,6 @@
     ],
     "name:msa_x_preferred":[
         "Qeshlaq-e Gomar"
-    ],
-    "name:und_x_preferred":[
-        "Deniz"
-    ],
-    "name:unk_x_variant":[
-        "Deniz"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -68,7 +64,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":23,
     "wof:belongsto":[
         85679263,
@@ -81,7 +77,6 @@
     "wof:concordances":{
         "gn:id":8073913,
         "gp:id":55871386,
-        "qs:id":1074448,
         "qs_pg:id":1074448,
         "wk:page":"Qeshlaq-e Gomar"
     },
@@ -101,7 +96,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1564158344,
+    "wof:lastmodified":1566582910,
     "wof:name":"Deniz",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"34.57647,39.97119,34.61647,40.01119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":297322
     },
     "wof:country":"TR",
-    "wof:geomhash":"f5efc53bbe6bb2f0674d2e9f4affe8a7",
+    "wof:geomhash":"64d5efea6c8c13175cf10f2d05c307a4",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209289097,
-    "wof:lastmodified":1536291757,
+    "wof:lastmodified":1566584765,
     "wof:name":"Yazirkoy",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.596470000000004,
+    34.59647,
     39.99119,
-    34.596470000000004,
+    34.59647,
     39.99119
 ],
   "geometry": {"coordinates":[34.59647,39.99119],"type":"Point"}

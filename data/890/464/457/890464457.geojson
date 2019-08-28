@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":38.877222,
     "lbl:longitude":33.528099,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ankara",
     "meso:admin_1":"Ankara",
     "meso:gadm_admin":"\u015eultan Ko\u00e7hisar",
@@ -38,6 +40,7 @@
     "mps:longitude":33.528099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:aze_x_preferred":[
         "\u015e\u0259r\u0259fliqo\u00e7hisar"
     ],
@@ -137,7 +140,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":345,
     "wof:belongsto":[
         102191569,
@@ -148,7 +151,7 @@
     "wof:concordances":{
         "gp:id":29390806,
         "hasc:id":"TR.AN.SK",
-        "qs:id":233651,
+        "qs_pg:id":233651,
         "wd:id":"Q388999",
         "wk:page":"\u015eerefliko\u00e7hisar"
     },
@@ -164,7 +167,7 @@
         }
     ],
     "wof:id":890464457,
-    "wof:lastmodified":1563361249,
+    "wof:lastmodified":1566586316,
     "wof:name":"\u015eerefliko\u00e7hisar",
     "wof:parent_id":85679409,
     "wof:placetype":"county",

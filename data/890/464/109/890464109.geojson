@@ -11,7 +11,7 @@
     "geom:longitude":36.250434,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":6231,
+    "gn:population":6231,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.126305,
     "lbl:longitude":36.24683,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Tokat",
     "meso:admin_1":"Tokat",
     "meso:gadm_admin":"Artova",
@@ -41,6 +43,7 @@
     "mps:longitude":36.24683,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Artova \u0130l\u00e7esi"
     ],
@@ -86,7 +89,7 @@
     "name:tur_x_preferred":[
         "Artova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kunduz"
     ],
     "name:urd_x_preferred":[
@@ -106,9 +109,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"356",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Artova",
@@ -130,7 +133,7 @@
         "gn:id":751818,
         "gp:id":29390093,
         "hasc:id":"TR.TT.AR",
-        "qs:id":207346,
+        "qs_pg:id":207346,
         "wd:id":"Q2674070",
         "wk:page":"Artova"
     },
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":890464109,
-    "wof:lastmodified":1563361203,
+    "wof:lastmodified":1566586299,
     "wof:name":"Artova",
     "wof:parent_id":85679363,
     "wof:placetype":"county",

@@ -11,10 +11,14 @@
     "geom:longitude":41.39472,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":243,
+    "gn:population":243,
     "iso:country":"TR",
+    "lbl:bbox":"41.37472,37.64417,41.41472,37.68417",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Uzundere \u0130l\u00e7esi"
     ],
@@ -51,7 +55,7 @@
     "name:tur_x_preferred":[
         "Uzundere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Vezrin"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298202,
-        "qs:id":547232,
+        "qs_pg:id":547232,
         "wk:page":"Uzundere"
     },
     "wof:country":"TR",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890459367,
-    "wof:lastmodified":1564162959,
+    "wof:lastmodified":1566586576,
     "wof:name":"Uzundere",
     "wof:parent_id":890462625,
     "wof:placetype":"locality",

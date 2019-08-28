@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":41.503327,
     "lbl:longitude":42.689735,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ardahan",
     "meso:admin_1":"Ardahan",
     "meso:gadm_admin":"Posof",
@@ -37,6 +39,7 @@
     "mps:longitude":42.689735,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Posof"
     ],
@@ -113,9 +116,9 @@
         "\u6ce2\u62c9\u7279\u52d2"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"623",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Posof",
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":1108709823,
-    "wof:lastmodified":1563359705,
+    "wof:lastmodified":1566585348,
     "wof:name":"Posof",
     "wof:parent_id":85679511,
     "wof:placetype":"county",

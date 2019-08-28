@@ -11,11 +11,14 @@
     "geom:longitude":29.03333,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.02833,40.96167,29.03833,40.97167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03ca\u03bd\u03c4\u03ac\u03c1 \u03a0\u03b1\u03c3\u03ac"
     ],
@@ -43,7 +46,7 @@
     "name:tur_x_preferred":[
         "Haydarpa\u015fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ha\u00efdar-Pacha"
     ],
     "qs:name":"Haydarpa\u015fa",
@@ -69,7 +72,7 @@
     "wof:concordances":{
         "gn:id":745705,
         "gp:id":2343585,
-        "qs:id":1187970,
+        "qs_pg:id":1187970,
         "wd:id":"Q2634867",
         "wk:page":"Haydarpa\u015fa"
     },
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890464521,
-    "wof:lastmodified":1563361181,
+    "wof:lastmodified":1566586291,
     "wof:name":"Haydarpa\u015fa",
     "wof:parent_id":101912681,
     "wof:placetype":"neighbourhood",

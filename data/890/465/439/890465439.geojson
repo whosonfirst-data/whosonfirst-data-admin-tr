@@ -11,17 +11,21 @@
     "geom:longitude":41.11111,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":221,
+    "gn:population":221,
     "iso:country":"TR",
+    "lbl:bbox":"41.09111,37.39222,41.13111,37.43222",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "Meskenk\u00eby"
     ],
     "name:tur_x_preferred":[
         "\u00c7amyurt"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mesken"
     ],
     "qs:name":"\u00c7amyurt",
@@ -38,7 +42,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":319527,
-        "qs:id":547627
+        "qs_pg:id":547627
     },
     "wof:country":"TR",
     "wof:created":1469053519,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890465439,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586333,
     "wof:name":"\u00c7amyurt",
     "wof:parent_id":890463867,
     "wof:placetype":"locality",

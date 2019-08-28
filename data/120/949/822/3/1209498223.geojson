@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"31.00329,40.30435,31.04329,40.34435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":8183877
     },
     "wof:country":"TR",
-    "wof:geomhash":"d96cd201c90c63929eac12881c5177ac",
+    "wof:geomhash":"8bda2d332b2d39f1f0d13da117d184e6",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209498223,
-    "wof:lastmodified":1536285267,
+    "wof:lastmodified":1566584515,
     "wof:name":"Kayran",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.023290000000006,
+    31.02329000000001,
     40.32435,
-    31.023290000000006,
+    31.02329000000001,
     40.32435
 ],
   "geometry": {"coordinates":[31.02329000000001,40.32435],"type":"Point"}

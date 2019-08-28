@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":41.778813,
     "lbl:longitude":26.906622,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Edirne",
     "meso:admin_1":"Edirne",
     "meso:gadm_admin":"S\u00fcleo\u011flu",
@@ -37,6 +39,7 @@
     "mps:longitude":26.906622,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u0438\u043e\u043b\u0443"
     ],
@@ -102,9 +105,9 @@
         "S\u00fcleo\u011flu"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"352",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"S\u00fcleoglu",
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":1108709913,
-    "wof:lastmodified":1563359647,
+    "wof:lastmodified":1566585325,
     "wof:name":"S\u00fclo\u011flu",
     "wof:parent_id":85679213,
     "wof:placetype":"county",

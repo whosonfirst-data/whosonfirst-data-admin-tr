@@ -11,10 +11,12 @@
     "geom:longitude":28.937674,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"28.9326741797,41.0644407098,28.9426741797,41.0744407098",
     "lbl:latitude":41.069441,
     "lbl:longitude":28.937674,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -222,7 +224,7 @@
     "name:zul_x_preferred":[
         "Esentepe"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -234,7 +236,7 @@
     "wof:concordances":{
         "gn:id":7732468,
         "gp:id":55871048,
-        "qs:id":1000619,
+        "qs_pg:id":1000619,
         "wd:id":"Q6070208",
         "wk:page":"Esentepe"
     },
@@ -251,7 +253,7 @@
         }
     ],
     "wof:id":1108950151,
-    "wof:lastmodified":1563359540,
+    "wof:lastmodified":1566585270,
     "wof:name":"Esentepe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

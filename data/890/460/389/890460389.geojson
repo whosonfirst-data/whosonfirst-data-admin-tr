@@ -11,11 +11,15 @@
     "geom:longitude":29.08278,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.06278,40.60711,29.10278,40.64711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u064a\u0643\u064a\u0651\u0629"
     ],
@@ -28,7 +32,7 @@
     "name:tur_x_preferred":[
         "Te\u015fvikiye"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Zindan"
     ],
     "name:vie_x_preferred":[
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":738781,
         "gp:id":2339105,
-        "qs:id":345341,
+        "qs_pg:id":345341,
         "wd:id":"Q5274738",
         "wk:page":"Te\u015fvikiye"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890460389,
-    "wof:lastmodified":1563361646,
+    "wof:lastmodified":1566586475,
     "wof:name":"Te\u015fvikiye",
     "wof:parent_id":890463063,
     "wof:placetype":"locality",

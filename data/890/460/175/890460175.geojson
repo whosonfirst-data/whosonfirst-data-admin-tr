@@ -11,10 +11,14 @@
     "geom:longitude":40.4419,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":9115,
+    "gn:population":9115,
     "iso:country":"TR",
+    "lbl:bbox":"40.4219,40.90804,40.4619,40.94804",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Kalkandere"
     ],
@@ -60,7 +64,7 @@
     "name:tur_x_preferred":[
         "Kalkandere"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Medrese"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":744767,
         "gp:id":2325149,
-        "qs:id":129178,
+        "qs_pg:id":129178,
         "wd:id":"Q2670776",
         "wk:page":"Kalkandere"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890460175,
-    "wof:lastmodified":1563361568,
+    "wof:lastmodified":1566586449,
     "wof:name":"Kalkandere",
     "wof:parent_id":1108709619,
     "wof:placetype":"locality",

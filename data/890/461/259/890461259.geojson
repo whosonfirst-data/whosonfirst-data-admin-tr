@@ -11,10 +11,14 @@
     "geom:longitude":36.06887,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TR",
+    "lbl:bbox":"36.04887,41.4811,36.08887,41.5211",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ondokuzmay\u0131s"
     ],
@@ -57,7 +61,7 @@
     "name:tur_x_preferred":[
         "19 May\u0131s"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ball\u0131ca"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":751103,
         "gp:id":56122927,
-        "qs:id":370073,
+        "qs_pg:id":370073,
         "wd:id":"Q644699",
         "wk:page":"Ondokuzmay\u0131s"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890461259,
-    "wof:lastmodified":1563361707,
+    "wof:lastmodified":1566586497,
     "wof:name":"Ondokuzmay\u0131s",
     "wof:parent_id":1108709779,
     "wof:placetype":"locality",

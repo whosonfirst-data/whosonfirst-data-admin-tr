@@ -11,11 +11,15 @@
     "geom:longitude":39.14139,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":958,
+    "gn:population":958,
     "iso:country":"TR",
+    "lbl:bbox":"39.12139,36.70917,39.16139,36.74917",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Birdelef"
     ],
     "qs:name":"Ekinyaz\u0131",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":315833,
-        "qs:id":547539
+        "qs_pg:id":547539
     },
     "wof:country":"TR",
     "wof:created":1469053514,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465315,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586339,
     "wof:name":"Ekinyaz\u0131",
     "wof:parent_id":1108709267,
     "wof:placetype":"locality",

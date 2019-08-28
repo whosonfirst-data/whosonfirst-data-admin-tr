@@ -11,10 +11,14 @@
     "geom:longitude":41.55805,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":246,
+    "gn:population":246,
     "iso:country":"TR",
+    "lbl:bbox":"41.53805,37.61137,41.57805,37.65137",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "G\u00fczel\u00f6z"
     ],
@@ -27,7 +31,7 @@
     "name:tur_x_preferred":[
         "G\u00fczel\u00f6z"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bat\u0131r"
     ],
     "name:vie_x_preferred":[
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":313213,
-        "qs:id":547488,
+        "qs_pg:id":547488,
         "wd:id":"Q5627211",
         "wk:page":"Bidar"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890460267,
-    "wof:lastmodified":1561769284,
+    "wof:lastmodified":1566586440,
     "wof:name":"Bidar",
     "wof:parent_id":1108709515,
     "wof:placetype":"locality",

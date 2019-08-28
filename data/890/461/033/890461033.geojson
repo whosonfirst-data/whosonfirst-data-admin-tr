@@ -11,11 +11,15 @@
     "geom:longitude":28.6446,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":5000,
+    "gn:population":5000,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.6246,36.81429,28.6646,36.85429",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u064a\u0627\u0646"
     ],
@@ -70,7 +74,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0430\u043b\u044c\u044f\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dalyank\u00f6y"
     ],
     "name:vie_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":317681,
         "gp:id":2316252,
-        "qs:id":687082,
+        "qs_pg:id":687082,
         "wd:id":"Q518586",
         "wk:page":"Dalyan"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890461033,
-    "wof:lastmodified":1563361803,
+    "wof:lastmodified":1566586532,
     "wof:name":"Dalyan",
     "wof:parent_id":890463119,
     "wof:placetype":"locality",

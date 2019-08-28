@@ -11,10 +11,14 @@
     "geom:longitude":41.1335,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":423,
+    "gn:population":423,
     "iso:country":"TR",
+    "lbl:bbox":"41.1135,37.14529,41.1535,37.18529",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "A\u00e7\u0131kk\u00f6y"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":325445,
-        "qs:id":80152
+        "qs_pg:id":80152
     },
     "wof:country":"TR",
     "wof:created":1469053295,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890459989,
-    "wof:lastmodified":1505343680,
+    "wof:lastmodified":1566586591,
     "wof:name":"Bamedi",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

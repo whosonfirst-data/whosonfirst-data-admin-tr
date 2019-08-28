@@ -11,7 +11,7 @@
     "geom:longitude":40.515485,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":38.931837,
     "lbl:longitude":40.490339,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bingol",
     "meso:admin_1":"Bing\u00f6l",
     "meso:gadm_admin":"Merkez",
@@ -44,6 +46,7 @@
     "mps:longitude":40.490339,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Merkez"
     ],
@@ -60,9 +63,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1790",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Bing\u00f6l",
@@ -84,7 +87,7 @@
         "gn:id":7732205,
         "gp:id":29390611,
         "hasc:id":"TR.BG.BG",
-        "qs:id":207414,
+        "qs_pg:id":207414,
         "wk:page":"Merkez"
     },
     "wof:country":"TR",
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890464151,
-    "wof:lastmodified":1561070599,
+    "wof:lastmodified":1566586274,
     "wof:name":"Merkez",
     "wof:parent_id":85679391,
     "wof:placetype":"county",

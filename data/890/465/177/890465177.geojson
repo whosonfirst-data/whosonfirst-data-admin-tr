@@ -11,10 +11,14 @@
     "geom:longitude":40.92239,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":470,
+    "gn:population":470,
     "iso:country":"TR",
+    "lbl:bbox":"40.90239,37.43537,40.94239,37.47537",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Kaya\u00fcst\u00fc"
     ],
@@ -120,7 +124,7 @@
     "wof:concordances":{
         "gn:id":308549,
         "gp:id":2344300,
-        "qs:id":547419,
+        "qs_pg:id":547419,
         "wd:id":"Q984703"
     },
     "wof:country":"TR",
@@ -136,7 +140,7 @@
         }
     ],
     "wof:id":890465177,
-    "wof:lastmodified":1563361322,
+    "wof:lastmodified":1566586355,
     "wof:name":"Eydo",
     "wof:parent_id":1108710073,
     "wof:placetype":"locality",

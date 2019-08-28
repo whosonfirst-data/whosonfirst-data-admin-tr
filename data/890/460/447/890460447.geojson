@@ -11,11 +11,14 @@
     "geom:longitude":30.64891,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.64391,36.86602,30.65391,36.87602",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Kuskavagi",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Antalya",
@@ -39,7 +42,7 @@
     "wof:concordances":{
         "gn:id":8073740,
         "gp:id":55871227,
-        "qs:id":1198272
+        "qs_pg:id":1198272
     },
     "wof:country":"TR",
     "wof:created":1469053315,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890460447,
-    "wof:lastmodified":1505343682,
+    "wof:lastmodified":1566586429,
     "wof:name":"Kuskavagi",
     "wof:parent_id":101912921,
     "wof:placetype":"neighbourhood",

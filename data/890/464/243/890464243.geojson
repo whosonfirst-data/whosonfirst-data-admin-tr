@@ -11,7 +11,7 @@
     "geom:longitude":32.649781,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":17975,
+    "gn:population":17975,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.504069,
     "lbl:longitude":32.729707,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ankara",
     "meso:admin_1":"Ankara",
     "meso:gadm_admin":"K\u0131z\u0131lcahamam",
@@ -41,6 +43,7 @@
     "mps:longitude":32.729707,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0632\u06cc\u0644\u062c\u0627 \u062d\u0627\u0645\u0627\u0645"
     ],
@@ -110,7 +113,7 @@
     "name:tur_x_preferred":[
         "K\u0131z\u0131lcahamam"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Yabanabat"
     ],
     "name:urd_x_preferred":[
@@ -137,9 +140,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1761",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Kizilcahamam",
@@ -161,7 +164,7 @@
         "gn:id":743051,
         "gp:id":29390538,
         "hasc:id":"TR.AN.KI",
-        "qs:id":888663,
+        "qs_pg:id":888663,
         "wd:id":"Q1020663",
         "wk:page":"K\u0131z\u0131lcahamam"
     },
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":890464243,
-    "wof:lastmodified":1563361156,
+    "wof:lastmodified":1566586281,
     "wof:name":"K\u0131z\u0131lcahamam",
     "wof:parent_id":85679409,
     "wof:placetype":"county",

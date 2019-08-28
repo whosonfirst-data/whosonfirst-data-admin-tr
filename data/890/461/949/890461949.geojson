@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":36.188933,
     "lbl:longitude":33.043813,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Icel",
     "meso:admin_1":"I\u00e7el",
     "meso:gadm_admin":"Anamur",
@@ -38,6 +40,7 @@
     "mps:longitude":33.043813,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u0632\u06cc\u0627\u0632\u06cc"
     ],
@@ -125,7 +128,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":443,
     "wof:belongsto":[
         102191569,
@@ -136,7 +139,7 @@
     "wof:concordances":{
         "gp:id":29390178,
         "hasc:id":"TR.IC.AN",
-        "qs:id":1323955,
+        "qs_pg:id":1323955,
         "wd:id":"Q896218",
         "wk:page":"Bozyaz\u0131"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890461949,
-    "wof:lastmodified":1563361741,
+    "wof:lastmodified":1566586510,
     "wof:name":"Bozyaz\u0131",
     "wof:parent_id":85679313,
     "wof:placetype":"county",

@@ -11,11 +11,15 @@
     "geom:longitude":41.79667,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":179,
+    "gn:population":179,
     "iso:country":"TR",
+    "lbl:bbox":"41.77667,37.41139,41.81667,37.45139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Verzik"
     ],
     "qs:name":"Bostanl\u0131",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":320840,
-        "qs:id":348370
+        "qs_pg:id":348370
     },
     "wof:country":"TR",
     "wof:created":1469053308,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460227,
-    "wof:lastmodified":1505343681,
+    "wof:lastmodified":1566586430,
     "wof:name":"Bostanl\u0131",
     "wof:parent_id":1108709423,
     "wof:placetype":"locality",

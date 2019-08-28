@@ -13,10 +13,13 @@
     "iso:country":"TR",
     "lbl:latitude":37.521611,
     "lbl:longitude":42.456164,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mps:latitude":37.521611,
     "mps:longitude":42.456164,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ara_x_preferred":[
         "\u0634\u0631\u0646\u0627\u0642"
     ],
@@ -176,7 +179,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0438\u0440\u043d\u0430\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shirnak"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:latitude":37.516389,
     "wd:longitude":42.461111,
@@ -221,10 +224,12 @@
     "wof:concordances":{
         "gn:id":300640,
         "gp:id":2344396,
-        "qs:id":204194,
-        "qs_pg:id":1003123,
+        "qs_pg:id":204194,
         "wd:id":"Q131495",
         "wk:page":"\u015e\u0131rnak"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1003123
     },
     "wof:country":"TR",
     "wof:geomhash":"2f7c7b97b215432cfe8cb099b4f74b2b",
@@ -238,7 +243,7 @@
         }
     ],
     "wof:id":101911211,
-    "wof:lastmodified":1563360661,
+    "wof:lastmodified":1566586009,
     "wof:name":"\u015eirnak",
     "wof:parent_id":890460285,
     "wof:placetype":"locality",

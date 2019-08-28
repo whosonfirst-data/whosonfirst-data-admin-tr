@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"27.84282,39.2713,27.88282,39.3113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -34,7 +38,7 @@
         "gn:id":314274
     },
     "wof:country":"TR",
-    "wof:geomhash":"e4f5c9b4e5da14ba5b79b94e86eaa06c",
+    "wof:geomhash":"6a3479c3f7b0601d8fe337a2b1b9b6c0",
     "wof:hierarchy":[
         {
             "country_id":85632393,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209237511,
-    "wof:lastmodified":1536293430,
+    "wof:lastmodified":1566584488,
     "wof:name":"Gokcukur",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.862820000000006,
+    27.86282000000001,
     39.2913,
-    27.862820000000006,
+    27.86282000000001,
     39.2913
 ],
   "geometry": {"coordinates":[27.86282000000001,39.2913],"type":"Point"}

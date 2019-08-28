@@ -11,10 +11,14 @@
     "geom:longitude":38.34806,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":4779,
+    "gn:population":4779,
     "iso:country":"TR",
+    "lbl:bbox":"38.32806,40.05972,38.36806,40.09972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ak\u0131nc\u0131lar"
     ],
@@ -63,9 +67,6 @@
     "name:tur_x_preferred":[
         "Ak\u0131nc\u0131lar"
     ],
-    "name:unk_x_variant":[
-        "Ezbider"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0642\u06cc\u0646\u062c\u06cc\u0644\u0627\u0631"
     ],
@@ -88,7 +89,7 @@
     "wof:concordances":{
         "gn:id":752476,
         "gp:id":2307320,
-        "qs:id":1028873,
+        "qs_pg:id":1028873,
         "wd:id":"Q424774",
         "wk:page":"Ak\u0131nc\u0131lar"
     },
@@ -105,7 +106,7 @@
         }
     ],
     "wof:id":890460313,
-    "wof:lastmodified":1563361570,
+    "wof:lastmodified":1566586450,
     "wof:name":"Ak\u0131nc\u0131lar",
     "wof:parent_id":1108709251,
     "wof:placetype":"locality",

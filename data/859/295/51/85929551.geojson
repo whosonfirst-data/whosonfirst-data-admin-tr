@@ -11,8 +11,10 @@
     "geom:longitude":32.856266,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"32.851266,39.916828,32.861266,39.926828",
     "lbl:latitude":39.921828,
     "lbl:longitude":32.856266,
+    "lbl:max_zoom":18.0,
     "mps:latitude":39.921304,
     "mps:longitude":32.856363,
     "mz:hierarchy_label":0,
@@ -81,9 +83,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0443\u043c\u0445\u0443\u0440\u0456\u0454\u0442"
     ],
-    "name:unk_x_variant":[
-        "Cumhuriyet"
-    ],
     "name:vie_x_preferred":[
         "Cumhuriyet"
     ],
@@ -115,7 +114,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85679409,
         102191569,
@@ -125,7 +124,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865130,
-        "qs:id":243296,
         "qs_pg:id":243296
     },
     "wof:country":"TR",
@@ -144,7 +142,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564158350,
+    "wof:lastmodified":1566582922,
     "wof:name":"Cumhuriyet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

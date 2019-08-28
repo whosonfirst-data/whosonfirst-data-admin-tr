@@ -11,11 +11,15 @@
     "geom:longitude":43.99301,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":8249,
+    "gn:population":8249,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"43.97301,38.63477,44.01301,38.67477",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:azb_x_preferred":[
         "\u0627\u0648\u0632\u0622\u0644\u067e"
     ],
@@ -76,7 +80,7 @@
     "name:tur_x_preferred":[
         "\u00d6zalp"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karkall\u0131"
     ],
     "name:urd_x_preferred":[
@@ -112,7 +116,7 @@
     "wof:concordances":{
         "gn:id":303022,
         "gp:id":2334380,
-        "qs:id":222229,
+        "qs_pg:id":222229,
         "wd:id":"Q307726",
         "wk:page":"\u00d6zalp"
     },
@@ -129,7 +133,7 @@
         }
     ],
     "wof:id":890464371,
-    "wof:lastmodified":1563361188,
+    "wof:lastmodified":1566586294,
     "wof:name":"\u00d6zalp",
     "wof:parent_id":1108710079,
     "wof:placetype":"locality",

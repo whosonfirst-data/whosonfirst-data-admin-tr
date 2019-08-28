@@ -11,7 +11,7 @@
     "geom:longitude":27.190097,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.212385,
     "lbl:longitude":27.168879,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Izmir",
     "meso:admin_1":"Izmir",
     "meso:gadm_admin":"Bergama",
@@ -41,6 +43,7 @@
     "mps:longitude":27.168879,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0631\u063a\u0627\u0645\u0627"
     ],
@@ -167,9 +170,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1722",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Bergama",
@@ -191,7 +194,7 @@
         "gn:id":7732716,
         "gp:id":29390145,
         "hasc:id":"TR.IZ.BE",
-        "qs:id":1164257,
+        "qs_pg:id":1164257,
         "wd:id":"Q737822",
         "wk:page":"Bergama"
     },
@@ -207,7 +210,7 @@
         }
     ],
     "wof:id":890462839,
-    "wof:lastmodified":1563361459,
+    "wof:lastmodified":1566586409,
     "wof:name":"Bergama",
     "wof:parent_id":85679201,
     "wof:placetype":"county",

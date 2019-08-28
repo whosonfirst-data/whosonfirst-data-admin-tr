@@ -11,11 +11,15 @@
     "geom:longitude":33.36351,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"33.34351,41.76728,33.38351,41.80728",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0631\u0627\u0643"
     ],
@@ -61,7 +65,7 @@
     "name:tur_x_preferred":[
         "Ara\u00e7"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "\u00c7aml\u0131b\u00fck"
     ],
     "name:urd_x_preferred":[
@@ -93,7 +97,7 @@
     "wof:concordances":{
         "gn:id":744544,
         "gp:id":2343734,
-        "qs:id":40862,
+        "qs_pg:id":40862,
         "wd:id":"Q2670913",
         "wk:page":"Ara\u00e7"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":890462589,
-    "wof:lastmodified":1563361400,
+    "wof:lastmodified":1566586387,
     "wof:name":"Ara\u00e7",
     "wof:parent_id":890460195,
     "wof:placetype":"locality",

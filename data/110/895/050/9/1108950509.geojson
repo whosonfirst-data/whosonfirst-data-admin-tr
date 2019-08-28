@@ -10,8 +10,10 @@
     "geom:latitude":41.070764,
     "geom:longitude":28.883897,
     "iso:country":"TR",
+    "lbl:bbox":"28.8788969819,41.0657643454,28.8888969819,41.0757643454",
     "lbl:latitude":41.070764,
     "lbl:longitude":28.883897,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Cevatpa\u015fa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950509,
-    "wof:lastmodified":1563359616,
+    "wof:lastmodified":1566585309,
     "wof:name":"Cevatpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

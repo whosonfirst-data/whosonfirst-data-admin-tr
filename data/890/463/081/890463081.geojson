@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":41.396946,
     "lbl:longitude":27.416333,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirklareli",
     "meso:admin_1":"Kirklareli",
     "meso:gadm_admin":"L\u00fcleburgaz",
@@ -38,6 +40,7 @@
     "mps:longitude":27.416333,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:azb_x_preferred":[
         "\u0644\u0648\u0644\u0628\u0648\u0631\u06af\u0627\u0632"
     ],
@@ -185,9 +188,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1018",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"L\u00fcleburgaz",
@@ -208,7 +211,7 @@
     "wof:concordances":{
         "gp:id":29390545,
         "hasc:id":"TR.KL.LU",
-        "qs:id":1106508,
+        "qs_pg:id":1106508,
         "wd:id":"Q214670",
         "wk:page":"L\u00fcleburgaz"
     },
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":890463081,
-    "wof:lastmodified":1563361065,
+    "wof:lastmodified":1566586246,
     "wof:name":"L\u00fcleburgaz",
     "wof:parent_id":85679219,
     "wof:placetype":"county",

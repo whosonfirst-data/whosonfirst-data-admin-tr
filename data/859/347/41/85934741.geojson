@@ -11,8 +11,10 @@
     "geom:longitude":34.614807,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"34.609807,36.778625,34.619807,36.788625",
     "lbl:latitude":36.783625,
     "lbl:longitude":34.614807,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.78362,
     "mps:longitude":34.613323,
     "mz:hierarchy_label":0,
@@ -180,12 +182,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0440\u0456 \u0420\u0435\u0457\u0441"
     ],
-    "name:und_x_preferred":[
-        "Piri Reis"
-    ],
-    "name:unk_x_variant":[
-        "Piri Reis"
-    ],
     "name:urd_x_preferred":[
         "\u067e\u06cc\u0631\u06cc \u0631\u0626\u06cc\u0633"
     ],
@@ -218,7 +214,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2544,
     "wof:belongsto":[
         85679313,
@@ -230,7 +226,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":56043268,
-        "qs:id":791930,
         "qs_pg:id":791930,
         "wd:id":"Q217915"
     },
@@ -250,7 +245,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356507,
+    "wof:lastmodified":1566582931,
     "wof:name":"Piri Reis",
     "wof:parent_id":101913223,
     "wof:placetype":"neighbourhood",

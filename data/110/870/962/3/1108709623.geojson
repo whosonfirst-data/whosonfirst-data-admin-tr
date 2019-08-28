@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.363221,
     "lbl:longitude":29.524146,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Usak",
     "meso:admin_1":"Usak",
     "meso:gadm_admin":"Karahall\u0131",
@@ -37,6 +39,7 @@
     "mps:longitude":29.524146,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Karahall\u0131"
     ],
@@ -80,9 +83,9 @@
         "Karahall\u0131"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"337",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Karahalli",
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":1108709623,
-    "wof:lastmodified":1564161472,
+    "wof:lastmodified":1566585327,
     "wof:name":"Karahall\u0131",
     "wof:parent_id":85679431,
     "wof:placetype":"county",

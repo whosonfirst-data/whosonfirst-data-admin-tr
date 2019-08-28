@@ -11,8 +11,11 @@
     "geom:longitude":28.986179,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.981179,41.030037,28.991179,41.040037",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"Altinsehir",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101913185,
-        890461447,
-        85679237
+        890461447
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870746,
-        "qs:id":1137708
+        "qs_pg:id":1137708
     },
     "wof:country":"TR",
     "wof:created":1469053400,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890462717,
-    "wof:lastmodified":1500071014,
+    "wof:lastmodified":1566586414,
     "wof:name":"Altinsehir",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",

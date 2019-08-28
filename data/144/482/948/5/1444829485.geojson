@@ -10,8 +10,10 @@
     "geom:latitude":41.02348,
     "geom:longitude":28.475558,
     "iso:country":"TR",
+    "lbl:bbox":"28.4705580518,41.0184801695,28.4805580518,41.0284801695",
     "lbl:latitude":41.02348,
     "lbl:longitude":28.475558,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462459,
-        85679237
+        890462459
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829485,
-    "wof:lastmodified":1566339439,
+    "wof:lastmodified":1566584819,
     "wof:name":"Yenimahalle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

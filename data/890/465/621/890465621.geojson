@@ -11,10 +11,14 @@
     "geom:longitude":41.72889,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":171,
+    "gn:population":171,
     "iso:country":"TR",
+    "lbl:bbox":"41.70889,37.1975,41.74889,37.2375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "K\u0131rca"
     ],
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":442014,
-        "qs:id":548288
+        "qs_pg:id":548288
     },
     "wof:country":"TR",
     "wof:created":1469053526,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465621,
-    "wof:lastmodified":1505343704,
+    "wof:lastmodified":1566586331,
     "wof:name":"Kirca",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

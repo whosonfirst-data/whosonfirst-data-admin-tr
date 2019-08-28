@@ -11,11 +11,14 @@
     "geom:longitude":39.65876,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"39.65376,40.9271,39.66376,40.9371",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:afr_x_preferred":[
         "Fatih"
     ],
@@ -153,7 +156,7 @@
     "wof:concordances":{
         "gn:id":7548907,
         "gp:id":56043097,
-        "qs:id":393723,
+        "qs_pg:id":393723,
         "wk:page":"Fatih"
     },
     "wof:country":"TR",
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":890463079,
-    "wof:lastmodified":1564162681,
+    "wof:lastmodified":1566586211,
     "wof:name":"Fatih",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

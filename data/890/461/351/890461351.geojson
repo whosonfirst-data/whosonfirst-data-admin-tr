@@ -11,7 +11,7 @@
     "geom:longitude":30.914049,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.833079,
     "lbl:longitude":30.924351,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Duzce",
     "meso:admin_1":"D\u00fczce",
     "meso:gadm_admin":"G\u00fcm\u00fc\u015fova",
@@ -41,6 +43,7 @@
     "mps:longitude":30.924351,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "G\u00fcm\u00fc\u015fova \u0130l\u00e7esi"
     ],
@@ -83,7 +86,7 @@
     "name:tur_x_preferred":[
         "G\u00fcm\u00fc\u015fova"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0131\u015flak\u00f6y"
     ],
     "name:urd_x_preferred":[
@@ -107,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"189",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00fcm\u00fcsova",
@@ -131,7 +134,7 @@
         "gn:id":746413,
         "gp:id":29390382,
         "hasc:id":"TR.DU.GU",
-        "qs:id":1033166,
+        "qs_pg:id":1033166,
         "wd:id":"Q2671034",
         "wk:page":"G\u00fcm\u00fc\u015fova"
     },
@@ -147,7 +150,7 @@
         }
     ],
     "wof:id":890461351,
-    "wof:lastmodified":1563361759,
+    "wof:lastmodified":1566586517,
     "wof:name":"G\u00fcm\u00fc\u015fova",
     "wof:parent_id":85679533,
     "wof:placetype":"county",

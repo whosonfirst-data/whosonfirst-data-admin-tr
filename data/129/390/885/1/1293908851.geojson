@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"39.553,39.07287,39.593,39.11287",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Batman"
     ],
@@ -276,8 +280,7 @@
     ],
     "name:und_x_variant":[
         "Haydari Mezraas\u0131",
-        "Haydari",
-        "Batman"
+        "Haydari"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0679 \u0645\u06cc\u0646"
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":1293908851,
-    "wof:lastmodified":1564158538,
+    "wof:lastmodified":1566583135,
     "wof:name":"Batman",
     "wof:parent_id":890459041,
     "wof:placetype":"locality",

@@ -11,11 +11,15 @@
     "geom:longitude":27.28333,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.26333,37.69667,27.30333,37.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Davutlar"
     ],
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":317515,
         "gp:id":2316460,
-        "qs:id":1063095,
+        "qs_pg:id":1063095,
         "wd:id":"Q3233819",
         "wk:page":"Davutlar"
     },
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":890461393,
-    "wof:lastmodified":1563361762,
+    "wof:lastmodified":1566586518,
     "wof:name":"Davutlar",
     "wof:parent_id":890461025,
     "wof:placetype":"locality",

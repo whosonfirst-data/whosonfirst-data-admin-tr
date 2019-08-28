@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2857063.267911,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.333757,36.994219,35.333757,36.994219",
     "geom:latitude":36.994219,
     "geom:longitude":35.333757,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"35.328757,36.989219,35.338757,36.999219",
     "lbl:latitude":36.994219,
     "lbl:longitude":35.333757,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.99852,
     "mps:longitude":35.335938,
     "mz:hierarchy_label":0,
@@ -24,10 +26,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
-    "name:und_x_preferred":[
-        "Resatbey"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Resatbey"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -57,18 +56,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":175,
     "wof:belongsto":[
+        85679443,
         102191569,
         85632393,
-        890462761,
-        85679443
+        890462761
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871494,
-        "qs:id":1003163
+        "qs_pg:id":1003163
     },
     "wof:country":"TR",
     "wof:geomhash":"8308a7833a2cbecfe70167376bab2428",
@@ -86,7 +85,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939182,
+    "wof:lastmodified":1566582933,
     "wof:name":"Resatbey",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

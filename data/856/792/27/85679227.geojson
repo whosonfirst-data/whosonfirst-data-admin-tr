@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":40.096193,
     "lbl:longitude":30.094829,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Bilecik",
     "mps:latitude":40.089034,
     "mps:longitude":30.067316,
@@ -273,7 +274,7 @@
         "Bilecik"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bbf\u0bb3\u0bc7\u0bb8\u0bbf\u0b95\u0bcd  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0baa\u0bbf\u0bb3\u0bc7\u0bb8\u0bbf\u0b95\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3f\u0c32\u0c46\u0c38\u0c3f\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -302,13 +303,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043b\u0435\u0434\u0436\u0438\u043a"
     ],
-    "name:und_x_preferred":[
-        "Bilecik"
-    ],
     "name:und_x_variant":[
-        "Bilecik"
-    ],
-    "name:unk_x_variant":[
         "Ertu\u011frul"
     ],
     "name:urd_x_preferred":[
@@ -407,9 +402,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"4,307",
     "statoids:area_mi":"1,663",
     "statoids:as_of_date":"2007-12-31",
@@ -434,7 +429,7 @@
         "gp:id":2347268,
         "hasc:id":"TR.BC",
         "iso:id":"TR-11",
-        "qs:id":111302,
+        "qs_pg:id":111302,
         "unlc:id":"TR-11",
         "wd:id":"Q46763",
         "wk:page":"Bilecik Province"
@@ -455,11 +450,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737380,
+    "wof:lastmodified":1566582983,
     "wof:name":"Bilecik",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":203777,
     "wof:population_rank":10,

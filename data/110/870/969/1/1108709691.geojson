@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.75941,
     "lbl:longitude":28.36246,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Manisa",
     "meso:admin_1":"Manisa",
     "meso:gadm_admin":"K\u00f6pr\u00fcba\u015f\u0131",
@@ -37,6 +39,7 @@
     "mps:longitude":28.36246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "K\u00f6pr\u00fcbasi"
     ],
@@ -50,9 +53,9 @@
         "K\u00f6pr\u00fcba\u015f\u0131"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"318",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"K\u00f6pr\u00fcbasi",
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1108709691,
-    "wof:lastmodified":1561769158,
+    "wof:lastmodified":1566585364,
     "wof:name":"K\u00f6pr\u00fcba\u015f\u0131",
     "wof:parent_id":85679285,
     "wof:placetype":"county",

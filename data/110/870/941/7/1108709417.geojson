@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.819152,
     "lbl:longitude":28.885246,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Mugla",
     "meso:admin_1":"Mugla",
     "meso:gadm_admin":"Dalaman",
@@ -37,6 +39,7 @@
     "mps:longitude":28.885246,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u062f\u0627\u0644\u0627\u0645\u0627\u0646"
     ],
@@ -134,9 +137,9 @@
         "\u9054\u62c9\u66fc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"622",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Dalaman",
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1108709417,
-    "wof:lastmodified":1564161482,
+    "wof:lastmodified":1566585340,
     "wof:name":"Dalaman",
     "wof:parent_id":85679291,
     "wof:placetype":"county",

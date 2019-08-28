@@ -11,11 +11,15 @@
     "geom:longitude":34.29159,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":187,
+    "gn:population":187,
     "iso:country":"TR",
+    "lbl:bbox":"34.27159,37.3998,34.31159,37.4398",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Dedel"
     ],
     "qs:name":"Dedeli",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":317458,
-        "qs:id":547587
+        "qs_pg:id":547587
     },
     "wof:country":"TR",
     "wof:created":1469053517,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890465387,
-    "wof:lastmodified":1505343703,
+    "wof:lastmodified":1566586356,
     "wof:name":"Dedeli",
     "wof:parent_id":1108709557,
     "wof:placetype":"locality",

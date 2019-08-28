@@ -11,7 +11,7 @@
     "geom:longitude":34.878587,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":12833,
+    "gn:population":12833,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.864985,
     "lbl:longitude":34.863809,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Nevsehir",
     "meso:admin_1":"Nevsehir",
     "meso:gadm_admin":"Avanos",
@@ -41,6 +43,7 @@
     "mps:longitude":34.863809,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ava_x_preferred":[
         "\u0410\u0432\u0430\u043d\u043e\u0441"
     ],
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"994",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Avanos",
@@ -179,7 +182,7 @@
         "gn:id":322965,
         "gp:id":29390101,
         "hasc:id":"TR.NV.AV",
-        "qs:id":888662,
+        "qs_pg:id":888662,
         "wd:id":"Q790160",
         "wk:page":"Avanos"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890464241,
-    "wof:lastmodified":1563361220,
+    "wof:lastmodified":1566586306,
     "wof:name":"Avanos",
     "wof:parent_id":85679327,
     "wof:placetype":"county",

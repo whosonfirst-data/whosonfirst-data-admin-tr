@@ -11,8 +11,11 @@
     "geom:longitude":36.17347,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":159965,
+    "gn:population":159965,
     "iso:country":"TR",
+    "lbl:bbox":"36.15347,36.56718,36.19347,36.60718",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.7,
@@ -184,7 +187,7 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u043a\u0435\u043d\u0434\u0435\u0440\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Myriandrus"
     ],
     "name:urd_x_preferred":[
@@ -313,10 +316,12 @@
     "wof:concordances":{
         "gn:id":311111,
         "gp:id":2344110,
-        "qs:id":307782,
-        "qs_pg:id":1134794,
+        "qs_pg:id":307782,
         "wd:id":"Q174341",
         "wk:page":"\u0130skenderun"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1134794
     },
     "wof:country":"TR",
     "wof:created":1469053315,
@@ -331,7 +336,7 @@
         }
     ],
     "wof:id":890460445,
-    "wof:lastmodified":1563361618,
+    "wof:lastmodified":1566586466,
     "wof:name":"\u0130skenderun",
     "wof:parent_id":890464451,
     "wof:placetype":"locality",

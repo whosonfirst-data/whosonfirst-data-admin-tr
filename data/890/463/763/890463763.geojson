@@ -11,11 +11,15 @@
     "geom:longitude":42.40226,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":237,
+    "gn:population":237,
     "iso:country":"TR",
+    "lbl:bbox":"42.38226,37.87638,42.42226,37.91638",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Serkhal"
     ],
     "qs:name":"Tuzcular",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":298687,
-        "qs:id":204062
+        "qs_pg:id":204062
     },
     "wof:country":"TR",
     "wof:created":1469053443,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890463763,
-    "wof:lastmodified":1505343695,
+    "wof:lastmodified":1566586200,
     "wof:name":"Tuzcular",
     "wof:parent_id":890461169,
     "wof:placetype":"locality",

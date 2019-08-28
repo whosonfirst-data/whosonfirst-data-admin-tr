@@ -11,10 +11,14 @@
     "geom:longitude":28.37895,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":10563,
+    "gn:population":10563,
     "iso:country":"TR",
+    "lbl:bbox":"28.35895,41.03584,28.39895,41.07584",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0421\u0435\u043b\u0438\u043c\u043f\u0430\u0448\u0430"
     ],
@@ -54,7 +58,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0435\u043b\u0456\u043c\u043f\u0430\u0448\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Epivates"
     ],
     "qs:name":"Selimpa\u015fa",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":739838,
         "gp:id":55870992,
-        "qs:id":1028810,
+        "qs_pg:id":1028810,
         "wd:id":"Q2472581",
         "wk:page":"Selimpa\u015fa"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890461309,
-    "wof:lastmodified":1563361665,
+    "wof:lastmodified":1566586481,
     "wof:name":"Selimpa\u015fa",
     "wof:parent_id":890462765,
     "wof:placetype":"locality",

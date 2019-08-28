@@ -11,7 +11,7 @@
     "geom:longitude":28.897981,
     "gn:country":"TR",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_disambiguation":[
@@ -31,6 +31,8 @@
     ],
     "lbl:latitude":41.042823,
     "lbl:longitude":28.899498,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Istanbul",
     "meso:admin_1":"Istanbul",
     "meso:gadm_admin":"Bayrampa\u015fa",
@@ -44,6 +46,7 @@
     "mps:longitude":28.899498,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u0631\u0645 \u0628\u0627\u0634\u0627"
     ],
@@ -155,9 +158,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"7",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"",
@@ -179,7 +182,7 @@
         "gn:id":7732459,
         "gp:id":29390141,
         "hasc:id":"TR.IB.BP",
-        "qs:id":1164256,
+        "qs_pg:id":1164256,
         "wd:id":"Q791567",
         "wk:page":"Bayrampa\u015fa"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890462837,
-    "wof:lastmodified":1563361455,
+    "wof:lastmodified":1566586408,
     "wof:name":"Bayrampa\u015fa",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

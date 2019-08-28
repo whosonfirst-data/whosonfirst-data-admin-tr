@@ -11,11 +11,15 @@
     "geom:longitude":34.89829,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"34.87829,38.56512,34.91829,38.60512",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0443\u0441\u0442\u0430\u0444\u0430\u043f\u0430\u0448\u0430"
     ],
@@ -52,7 +56,7 @@
     "name:tur_x_preferred":[
         "Mustafapa\u015fa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mustafakemalpa\u015fa"
     ],
     "name:vie_x_preferred":[
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":304023,
         "gp:id":2344277,
-        "qs:id":1171097,
+        "qs_pg:id":1171097,
         "wd:id":"Q1377935"
     },
     "wof:country":"TR",
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890462963,
-    "wof:lastmodified":1563361337,
+    "wof:lastmodified":1566586363,
     "wof:name":"Mustafapa\u015fa",
     "wof:parent_id":890462629,
     "wof:placetype":"locality",

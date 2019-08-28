@@ -11,14 +11,18 @@
     "geom:longitude":37.95778,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":470,
+    "gn:population":470,
     "iso:country":"TR",
+    "lbl:bbox":"37.93778,36.9675,37.97778,37.0075",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Yukar\u0131 Bay\u0131nd\u0131r"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0131ndi"
     ],
     "qs:name":"Yukar\u0131bay\u0131nd\u0131r",
@@ -36,7 +40,7 @@
     "wof:concordances":{
         "gn:id":296513,
         "gp:id":2311923,
-        "qs:id":547169
+        "qs_pg:id":547169
     },
     "wof:country":"TR",
     "wof:created":1469053487,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890464809,
-    "wof:lastmodified":1505343699,
+    "wof:lastmodified":1566586313,
     "wof:name":"Yukar\u0131bay\u0131nd\u0131r",
     "wof:parent_id":890461691,
     "wof:placetype":"locality",

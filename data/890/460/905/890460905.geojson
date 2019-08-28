@@ -11,11 +11,15 @@
     "geom:longitude":42.03389,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":3372,
+    "gn:population":3372,
     "iso:country":"TR",
+    "lbl:bbox":"42.01389,37.35778,42.05389,37.39778",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Tilila"
     ],
     "qs:name":"Tililan",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":300635,
-        "qs:id":547286
+        "qs_pg:id":547286
     },
     "wof:country":"TR",
     "wof:created":1469053332,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890460905,
-    "wof:lastmodified":1505343684,
+    "wof:lastmodified":1566586458,
     "wof:name":"Tililan",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

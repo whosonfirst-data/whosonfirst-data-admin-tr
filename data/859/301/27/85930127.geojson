@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.091511,
     "lbl:longitude":29.014292,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.097982,
     "mps:longitude":29.008588,
     "mz:hierarchy_label":1,
@@ -26,12 +27,6 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:msa_x_preferred":[
-        "Konaklar"
-    ],
-    "name:und_x_preferred":[
-        "Konaklar"
-    ],
-    "name:unk_x_variant":[
         "Konaklar"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +70,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871275,
-        "qs:id":392593,
         "qs_pg:id":392593
     },
     "wof:country":"TR",
@@ -93,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247573,
+    "wof:lastmodified":1566582909,
     "wof:name":"Konaklar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

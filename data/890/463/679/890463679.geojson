@@ -11,11 +11,15 @@
     "geom:longitude":29.06778,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.04778,38.13444,29.08778,38.17444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "G\u00fcney"
     ],
@@ -55,7 +59,7 @@
     "name:tur_x_preferred":[
         "G\u00fcney"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fcnay"
     ],
     "name:urd_x_preferred":[
@@ -83,7 +87,7 @@
     "wof:concordances":{
         "gn:id":313481,
         "gp:id":2344044,
-        "qs:id":194968,
+        "qs_pg:id":194968,
         "wd:id":"Q1027171",
         "wk:page":"G\u00fcney"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890463679,
-    "wof:lastmodified":1563361072,
+    "wof:lastmodified":1566586249,
     "wof:name":"G\u00fcney",
     "wof:parent_id":1108709535,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":32.856223,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"32.851223,39.937548,32.861223,39.947548",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\u0130nkilap",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"Ankara",
@@ -26,14 +29,14 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191569,
-        85632393,
         85679409,
+        85632393,
         890463833
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865308,
-        "qs:id":1336340
+        "qs_pg:id":1336340
     },
     "wof:country":"TR",
     "wof:created":1469053430,
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":890463427,
-    "wof:lastmodified":1500071240,
+    "wof:lastmodified":1566586248,
     "wof:name":"\u0130nkilap",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

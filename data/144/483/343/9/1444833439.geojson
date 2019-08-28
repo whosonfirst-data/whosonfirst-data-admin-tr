@@ -10,8 +10,10 @@
     "geom:latitude":40.829744,
     "geom:longitude":29.354833,
     "iso:country":"TR",
+    "lbl:bbox":"29.3498325324,40.8247443736,29.3598325324,40.8347443736",
     "lbl:latitude":40.829744,
     "lbl:longitude":29.354833,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709941,
-        85679237
+        1108709941
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833439,
-    "wof:lastmodified":1566339907,
+    "wof:lastmodified":1566584866,
     "wof:name":"Sifa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

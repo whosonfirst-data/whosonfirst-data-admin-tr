@@ -10,9 +10,12 @@
     "geom:latitude":41.008254,
     "geom:longitude":28.955924,
     "iso:country":"TR",
+    "lbl:bbox":"28.9509236201,41.0032535229,28.9609236201,41.0132535229",
     "lbl:latitude":41.008254,
     "lbl:longitude":28.955924,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "Mesihpa\u015fa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108950249,
-    "wof:lastmodified":1497292381,
+    "wof:lastmodified":1566585269,
     "wof:name":"Mesihpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

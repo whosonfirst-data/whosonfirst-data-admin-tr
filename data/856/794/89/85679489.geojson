@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":37.916371,
     "lbl:longitude":42.124267,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Siirt",
     "mps:latitude":37.935757,
     "mps:longitude":42.025488,
@@ -260,13 +261,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0457\u0440\u0442"
     ],
-    "name:und_x_preferred":[
-        "Siirt"
-    ],
     "name:und_x_variant":[
-        "Siirt"
-    ],
-    "name:unk_x_variant":[
         "Siirt Vil\u00e2yeti"
     ],
     "name:urd_x_preferred":[
@@ -362,9 +357,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"5,406",
     "statoids:area_mi":"2,087",
     "statoids:as_of_date":"2007-12-31",
@@ -389,7 +384,7 @@
         "gp:id":2347324,
         "hasc:id":"TR.SI",
         "iso:id":"TR-56",
-        "qs:id":895009,
+        "qs_pg:id":895009,
         "unlc:id":"TR-56",
         "wd:id":"Q482825",
         "wk:page":"Siirt Province"
@@ -410,11 +405,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737377,
+    "wof:lastmodified":1566582966,
     "wof:name":"Siirt",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":291528,
     "wof:population_rank":10,

@@ -11,11 +11,15 @@
     "geom:longitude":26.6954,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":35193,
+    "gn:population":35193,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"26.6754,39.29905,26.7154,39.33905",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0623\u064a\u0641\u0627\u0644\u064a\u0643"
     ],
@@ -118,7 +122,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0439\u0432\u0430\u043b\u0438\u043a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kydoniai"
     ],
     "name:urd_x_preferred":[
@@ -153,7 +157,7 @@
     "wof:concordances":{
         "gn:id":322673,
         "gp:id":2343757,
-        "qs:id":359906,
+        "qs_pg:id":359906,
         "wd:id":"Q793383",
         "wk:page":"Ayval\u0131k"
     },
@@ -170,7 +174,7 @@
         }
     ],
     "wof:id":890461211,
-    "wof:lastmodified":1563361683,
+    "wof:lastmodified":1566586489,
     "wof:name":"Ayval\u0131k",
     "wof:parent_id":890462663,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
+    "lbl:bbox":"36.24004,35.97563,36.28004,36.01563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yi\u011fityolu"
     ],
@@ -33,10 +37,6 @@
     ],
     "name:tur_x_variant":[
         "Karbeyaz"
-    ],
-    "name:und_x_variant":[
-        "Karbeyaz",
-        "Yi\u011fityolu"
     ],
     "name:vie_x_preferred":[
         "Karbeyaz"
@@ -65,7 +65,7 @@
         }
     ],
     "wof:id":1276468111,
-    "wof:lastmodified":1564159865,
+    "wof:lastmodified":1566584127,
     "wof:name":"Yigityolu",
     "wof:parent_id":1108709283,
     "wof:placetype":"locality",

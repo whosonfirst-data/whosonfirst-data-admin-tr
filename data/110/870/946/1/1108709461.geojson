@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.134366,
     "lbl:longitude":30.573643,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Antalya",
     "meso:admin_1":"Antalya",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":30.573643,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "D\u00f6\u015femealt\u0131"
     ],
@@ -86,7 +89,7 @@
         "\u062f\u0648\u0634\u0645\u06cc\u0627\u0644\u062a\u06cc"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":1108709461,
-    "wof:lastmodified":1563359681,
+    "wof:lastmodified":1566585339,
     "wof:name":"D\u00f6\u015femealt\u0131",
     "wof:parent_id":85679263,
     "wof:placetype":"county",

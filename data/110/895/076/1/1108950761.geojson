@@ -10,8 +10,10 @@
     "geom:latitude":41.031991,
     "geom:longitude":28.865668,
     "iso:country":"TR",
+    "lbl:bbox":"28.8606681036,41.0269907994,28.8706681036,41.0369907994",
     "lbl:latitude":41.031991,
     "lbl:longitude":28.865668,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":0,
@@ -21,7 +23,7 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -43,7 +45,7 @@
         }
     ],
     "wof:id":1108950761,
-    "wof:lastmodified":1534379467,
+    "wof:lastmodified":1566585280,
     "wof:name":"Merkez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

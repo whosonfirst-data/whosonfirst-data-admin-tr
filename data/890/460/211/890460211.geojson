@@ -11,8 +11,11 @@
     "geom:longitude":43.38311,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":371713,
+    "gn:population":371713,
     "iso:country":"TR",
+    "lbl:bbox":"43.36311,38.47239,43.40311,38.51239",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -232,7 +235,7 @@
     "name:ukr_x_preferred":[
         "\u0412\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Thospia"
     ],
     "name:urd_x_preferred":[
@@ -367,10 +370,12 @@
     "wof:concordances":{
         "gn:id":298117,
         "gp:id":2344480,
-        "qs:id":307700,
         "qs_pg:id":239497,
         "wd:id":"Q83061",
         "wk:page":"Van"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":307700
     },
     "wof:country":"TR",
     "wof:created":1469053307,
@@ -385,7 +390,7 @@
         }
     ],
     "wof:id":890460211,
-    "wof:lastmodified":1563361508,
+    "wof:lastmodified":1566586429,
     "wof:name":"Van",
     "wof:parent_id":890462703,
     "wof:placetype":"locality",

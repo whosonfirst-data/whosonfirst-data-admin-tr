@@ -11,10 +11,14 @@
     "geom:longitude":41.67639,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":658,
+    "gn:population":658,
     "iso:country":"TR",
+    "lbl:bbox":"41.65639,37.20194,41.69639,37.24194",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:aar_x_preferred":[
         "Aksoy"
     ],
@@ -672,7 +676,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":324477,
-        "qs:id":206018,
+        "qs_pg:id":206018,
         "wd:id":"Q421604",
         "wk:page":"Aksoy"
     },
@@ -689,7 +693,7 @@
         }
     ],
     "wof:id":890464055,
-    "wof:lastmodified":1563361169,
+    "wof:lastmodified":1566586286,
     "wof:name":"Aksoy",
     "wof:parent_id":1108709195,
     "wof:placetype":"locality",

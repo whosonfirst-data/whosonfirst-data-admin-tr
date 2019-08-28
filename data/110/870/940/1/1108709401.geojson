@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.358457,
     "lbl:longitude":34.360689,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirsehir",
     "meso:admin_1":"Kirsehir",
     "meso:gadm_admin":"Boztepe",
@@ -37,6 +39,7 @@
     "mps:longitude":34.360689,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Boztepe"
     ],
@@ -47,9 +50,9 @@
         "Boztepe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"562",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Boztepe",
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1108709401,
-    "wof:lastmodified":1561769150,
+    "wof:lastmodified":1566585342,
     "wof:name":"Boztepe",
     "wof:parent_id":85679317,
     "wof:placetype":"county",

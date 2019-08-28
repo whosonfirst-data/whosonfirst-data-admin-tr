@@ -28,6 +28,7 @@
     ],
     "lbl:latitude":37.881212,
     "lbl:longitude":36.972397,
+    "lbl:min_zoom":8.0,
     "meso:name_local":"Kahramanmaras",
     "mps:latitude":37.940288,
     "mps:longitude":36.922914,
@@ -242,7 +243,7 @@
         "Kahramanmara\u015f"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bb9\u0bb0\u0bae\u0bbe\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0bb8  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+        "\u0b95\u0bb9\u0bb0\u0bae\u0bbe\u0ba9\u0bcd\u0bae\u0bbe\u0bb0\u0bcd\u0bb8 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c39\u0c3e\u0c30\u0c3e\u0c2e\u0c28\u0c4d\u0c2e\u0c3e\u0c30\u0c38\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
@@ -278,14 +279,8 @@
         "K maras",
         "Kahramanmaras"
     ],
-    "name:und_x_preferred":[
-        "Kahramanmara\u015f"
-    ],
     "name:und_x_variant":[
         "K mara\u015f",
-        "Kahramanmaras"
-    ],
-    "name:unk_x_variant":[
         "Mara\u015f \u0130li"
     ],
     "name:urd_x_preferred":[
@@ -384,9 +379,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"14,327",
     "statoids:area_mi":"5,532",
     "statoids:as_of_date":"2007-12-31",
@@ -411,7 +406,7 @@
         "gp:id":2347300,
         "hasc:id":"TR.KM",
         "iso:id":"TR-46",
-        "qs:id":219626,
+        "qs_pg:id":219626,
         "unlc:id":"TR-46",
         "wd:id":"Q482834",
         "wk:page":"Kahramanmara\u015f Province"
@@ -432,11 +427,10 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1565737374,
+    "wof:lastmodified":1566582956,
     "wof:name":"K. Maras",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":1004414,
     "wof:population_rank":12,

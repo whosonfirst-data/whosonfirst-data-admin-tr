@@ -11,10 +11,14 @@
     "geom:longitude":38.4625,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":501,
+    "gn:population":501,
     "iso:country":"TR",
+    "lbl:bbox":"38.4425,36.92606,38.4825,36.96606",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Ziyaret"
     ],
@@ -30,7 +34,7 @@
     "name:tur_x_variant":[
         "Ziyaret"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ebum\u00fcslim Ziyareti"
     ],
     "qs:name":"Ziyaret",
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":305837,
-        "qs:id":547380,
+        "qs_pg:id":547380,
         "wk:page":"Ziyaret"
     },
     "wof:country":"TR",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":890465117,
-    "wof:lastmodified":1564162774,
+    "wof:lastmodified":1566586341,
     "wof:name":"Ziyaret",
     "wof:parent_id":890460731,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":28.95018,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"28.94518,41.00366,28.95518,41.01366",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0622\u0642 \u0633\u0631\u0627\u064a"
     ],
@@ -84,7 +87,7 @@
     "wof:concordances":{
         "gn:id":7669106,
         "gp:id":22724044,
-        "qs:id":968150,
+        "qs_pg:id":968150,
         "wd:id":"Q123751",
         "wk:page":"Aksaray"
     },
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890462069,
-    "wof:lastmodified":1563361461,
+    "wof:lastmodified":1566586410,
     "wof:name":"Aksaray",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,17 +11,21 @@
     "geom:longitude":40.53031,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":353,
+    "gn:population":353,
     "iso:country":"TR",
+    "lbl:bbox":"40.51031,37.1853,40.55031,37.2253",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:rus_x_preferred":[
         "Tel\u2019nashir"
     ],
     "name:tur_x_preferred":[
         "Arak\u00f6y"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Telna\u015fir"
     ],
     "qs:name":"Arak\u00f6y",
@@ -39,7 +43,7 @@
     "wof:concordances":{
         "gn:id":323740,
         "gp:id":2344204,
-        "qs:id":80148
+        "qs_pg:id":80148
     },
     "wof:country":"TR",
     "wof:created":1469053410,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890462947,
-    "wof:lastmodified":1505343691,
+    "wof:lastmodified":1566586385,
     "wof:name":"Arak\u00f6y",
     "wof:parent_id":890460129,
     "wof:placetype":"locality",

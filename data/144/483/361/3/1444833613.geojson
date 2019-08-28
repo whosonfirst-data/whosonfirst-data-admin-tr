@@ -10,8 +10,10 @@
     "geom:latitude":41.158883,
     "geom:longitude":29.561856,
     "iso:country":"TR",
+    "lbl:bbox":"29.5568562572,41.1538833722,29.5668562572,41.1638833722",
     "lbl:latitude":41.158883,
     "lbl:longitude":29.561856,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461727,
-        85679237
+        890461727
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833613,
-    "wof:lastmodified":1566339927,
+    "wof:lastmodified":1566584845,
     "wof:name":"Mesrutiyet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

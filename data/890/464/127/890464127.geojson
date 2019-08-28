@@ -11,7 +11,7 @@
     "geom:longitude":38.735991,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":15058,
+    "gn:population":15058,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.700602,
     "lbl:longitude":38.761228,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Giresun",
     "meso:admin_1":"Giresun",
     "meso:gadm_admin":"Ya\u011fl\u0131dere",
@@ -41,6 +43,7 @@
     "mps:longitude":38.761228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Espiye \u0130l\u00e7esi"
     ],
@@ -112,9 +115,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"322",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Yaglidere",
@@ -136,7 +139,7 @@
         "gn:id":831432,
         "gp:id":29390320,
         "hasc:id":"TR.GI.YA",
-        "qs:id":207384,
+        "qs_pg:id":207384,
         "wd:id":"Q2901145",
         "wk:page":"Espiye"
     },
@@ -152,7 +155,7 @@
         }
     ],
     "wof:id":890464127,
-    "wof:lastmodified":1563361186,
+    "wof:lastmodified":1566586293,
     "wof:name":"Espiye",
     "wof:parent_id":85679341,
     "wof:placetype":"county",

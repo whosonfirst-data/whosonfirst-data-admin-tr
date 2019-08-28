@@ -11,10 +11,14 @@
     "geom:longitude":40.9125,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":620,
+    "gn:population":620,
     "iso:country":"TR",
+    "lbl:bbox":"40.8925,37.67928,40.9325,37.71928",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0634\u0627\u0646"
     ],
@@ -63,7 +67,7 @@
     "name:tur_x_preferred":[
         "Ba\u015fhan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hanuser"
     ],
     "name:yid_x_preferred":[
@@ -84,7 +88,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":321953,
-        "qs:id":80135,
+        "qs_pg:id":80135,
         "wk:page":"Bashan"
     },
     "wof:country":"TR",
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":890459977,
-    "wof:lastmodified":1564162946,
+    "wof:lastmodified":1566586565,
     "wof:name":"Ba\u015fhan",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

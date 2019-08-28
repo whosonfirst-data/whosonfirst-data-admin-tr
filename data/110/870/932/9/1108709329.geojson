@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":37.859779,
     "lbl:longitude":40.073896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyarbakir",
     "meso:admin_1":"Diyarbakir",
     "meso:gadm_admin":"Merkez",
@@ -37,6 +39,7 @@
     "mps:longitude":40.073896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Ba\u011flar"
     ],
@@ -68,7 +71,7 @@
         "Ba\u011flar"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108709329,
-    "wof:lastmodified":1563359729,
+    "wof:lastmodified":1566585357,
     "wof:name":"Ba\u011flar",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

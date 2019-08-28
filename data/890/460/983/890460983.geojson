@@ -11,7 +11,7 @@
     "geom:longitude":44.110589,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":14516,
+    "gn:population":14516,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":38.050269,
     "lbl:longitude":44.070917,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Van",
     "meso:admin_1":"Van",
     "meso:gadm_admin":"Ba\u015fkale",
@@ -41,6 +43,7 @@
     "mps:longitude":44.070917,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0634 \u0642\u0644\u0639\u0629"
     ],
@@ -116,7 +119,7 @@
     "name:tur_x_preferred":[
         "Ba\u015fkale"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bash Kaleh"
     ],
     "name:urd_x_preferred":[
@@ -141,9 +144,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2731",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Baskale",
@@ -165,7 +168,7 @@
         "gn:id":321940,
         "gp:id":29390929,
         "hasc:id":"TR.VA.BK",
-        "qs:id":303930,
+        "qs_pg:id":303930,
         "wd:id":"Q812759",
         "wk:page":"Ba\u015fkale"
     },
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":890460983,
-    "wof:lastmodified":1563361553,
+    "wof:lastmodified":1566586443,
     "wof:name":"Ba\u015fkale",
     "wof:parent_id":85679509,
     "wof:placetype":"county",

@@ -11,7 +11,7 @@
     "geom:longitude":34.428088,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":16522,
+    "gn:population":16522,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.118008,
     "lbl:longitude":34.424478,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirsehir",
     "meso:admin_1":"Kirsehir",
     "meso:gadm_admin":"Mucur",
@@ -41,6 +43,7 @@
     "mps:longitude":34.424478,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Mucur"
     ],
@@ -114,9 +117,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1122",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Mucur",
@@ -138,7 +141,7 @@
         "gn:id":304196,
         "gp:id":29390638,
         "hasc:id":"TR.KH.MU",
-        "qs:id":352484,
+        "qs_pg:id":352484,
         "wd:id":"Q1051730",
         "wk:page":"Mucur"
     },
@@ -154,7 +157,7 @@
         }
     ],
     "wof:id":890460229,
-    "wof:lastmodified":1563361507,
+    "wof:lastmodified":1566586429,
     "wof:name":"Mucur",
     "wof:parent_id":85679317,
     "wof:placetype":"county",

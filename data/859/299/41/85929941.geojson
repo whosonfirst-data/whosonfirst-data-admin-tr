@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":40.908054,
     "lbl:longitude":29.299133,
+    "lbl:max_zoom":18.0,
     "mps:latitude":40.903533,
     "mps:longitude":29.30759,
     "mz:hierarchy_label":1,
@@ -25,10 +26,7 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
-    "name:und_x_preferred":[
-        "Sanayi"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sanayi"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -66,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870956,
-        "qs:id":1294380
+        "qs_pg:id":1294380
     },
     "wof:country":"TR",
     "wof:geomhash":"09d23303b3fbfb65b8750bf30d7c4d42",
@@ -83,7 +81,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247580,
+    "wof:lastmodified":1566582947,
     "wof:name":"Sanayi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

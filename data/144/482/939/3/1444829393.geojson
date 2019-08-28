@@ -10,8 +10,10 @@
     "geom:latitude":41.104761,
     "geom:longitude":28.597323,
     "iso:country":"TR",
+    "lbl:bbox":"28.5923232497,41.0997612094,28.6023232497,41.1097612094",
     "lbl:latitude":41.104761,
     "lbl:longitude":28.597323,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462459,
-        85679237
+        890462459
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444829393,
-    "wof:lastmodified":1566339429,
+    "wof:lastmodified":1566584818,
     "wof:name":"Karaagac",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

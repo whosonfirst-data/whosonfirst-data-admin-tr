@@ -11,8 +11,10 @@
     "geom:longitude":27.111511,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"27.106511,38.403405,27.116511,38.413405",
     "lbl:latitude":38.408405,
     "lbl:longitude":27.111511,
+    "lbl:max_zoom":18.0,
     "mps:latitude":38.408388,
     "mps:longitude":27.111475,
     "mz:hierarchy_label":0,
@@ -54,9 +56,6 @@
     "name:tur_x_preferred":[
         "Turgutreis"
     ],
-    "name:unk_x_variant":[
-        "Turgutreis"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0648\u0631\u06af\u0648\u0631\u0631\u06cc\u0633"
     ],
@@ -93,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:latitude":37.016667,
     "wd:longitude":27.266667,
     "wd:wordcount":493,
@@ -106,7 +105,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55865570,
-        "qs:id":1091781,
+        "qs_pg:id":1091781,
         "wd:id":"Q1767162"
     },
     "wof:country":"TR",
@@ -125,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563356518,
+    "wof:lastmodified":1566582939,
     "wof:name":"Turgutreis",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":6001523.714766,
+    "geom:area_square_m":0.0,
     "geom:bbox":"30.715236,36.874603,30.715236,36.874603",
     "geom:latitude":36.874603,
     "geom:longitude":30.715236,
     "gn:latitude":36.87666,
     "gn:longitude":30.70956,
     "iso:country":"TR",
+    "lbl:bbox":"30.710236,36.869603,30.720236,36.879603",
     "lbl:latitude":36.874603,
     "lbl:longitude":30.715236,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.868609,
     "mps:longitude":30.71469,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
     "name:und_x_colloquial":[
         "Genclik"
     ],
-    "name:und_x_preferred":[
-        "Gen\u00e7lik"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gen\u00e7lik"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -62,19 +61,18 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679263,
         102191569,
         85632393,
         101912923,
-        1108709753,
-        85679263
+        1108709753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8073942,
         "gp:id":55871458,
-        "qs:id":1100625,
         "qs_pg:id":1100625
     },
     "wof:country":"TR",
@@ -93,7 +91,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531939181,
+    "wof:lastmodified":1566582931,
     "wof:name":"Gen\u00e7lik",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

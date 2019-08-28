@@ -10,9 +10,12 @@
     "geom:latitude":41.234025,
     "geom:longitude":28.59738,
     "iso:country":"TR",
+    "lbl:bbox":"28.5923804702,41.2290252412,28.6023804702,41.2390252412",
     "lbl:latitude":41.234025,
     "lbl:longitude":28.59738,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "Yass\u0131\u00f6ren"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1108950937,
-    "wof:lastmodified":1497292380,
+    "wof:lastmodified":1566585314,
     "wof:name":"Yassioren",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":29.33586,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":175,
+    "gn:population":175,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"29.31586,40.93702,29.35586,40.97702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0646\u0629"
     ],
@@ -31,7 +35,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0440\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kurnak\u00f6y"
     ],
     "qs:name":"Kurna",
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":742179,
         "gp:id":2331167,
-        "qs:id":1064131,
+        "qs_pg:id":1064131,
         "wk:page":"Kurna"
     },
     "wof:country":"TR",
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":890462369,
-    "wof:lastmodified":1564162820,
+    "wof:lastmodified":1566586392,
     "wof:name":"Kurna",
     "wof:parent_id":890461937,
     "wof:placetype":"locality",

@@ -11,7 +11,7 @@
     "geom:longitude":33.486992,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.496897,
     "lbl:longitude":33.479321,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Kirikkale",
     "meso:admin_1":"Kirikkale",
     "meso:gadm_admin":"Keskin",
@@ -41,6 +43,7 @@
     "mps:longitude":33.479321,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "\u00c7elebi"
     ],
@@ -98,7 +101,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":155,
     "wof:belongsto":[
@@ -111,7 +114,7 @@
         "gn:id":318925,
         "gp:id":29390221,
         "hasc:id":"TR.KK.KE",
-        "qs:id":52726,
+        "qs_pg:id":52726,
         "wd:id":"Q2424608",
         "wk:page":"\u00c7elebi"
     },
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":890462633,
-    "wof:lastmodified":1563361363,
+    "wof:lastmodified":1566586374,
     "wof:name":"\u00c7elebi",
     "wof:parent_id":85679447,
     "wof:placetype":"county",

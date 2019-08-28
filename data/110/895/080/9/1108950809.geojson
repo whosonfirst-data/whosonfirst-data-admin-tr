@@ -10,9 +10,12 @@
     "geom:latitude":40.990652,
     "geom:longitude":28.720033,
     "iso:country":"TR",
+    "lbl:bbox":"28.7150325858,40.9856524083,28.7250325858,40.9956524083",
     "lbl:latitude":40.990652,
     "lbl:longitude":28.720033,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +26,7 @@
     "name:tur_x_preferred":[
         "\u00dcniversite"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1108950809,
-    "wof:lastmodified":1497292379,
+    "wof:lastmodified":1566585296,
     "wof:name":"Universite",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",

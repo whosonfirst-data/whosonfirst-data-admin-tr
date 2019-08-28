@@ -9,14 +9,15 @@
     "geom:bbox":"29.0203857422,41.0282151522,29.0313720703,41.0420738417",
     "geom:latitude":41.035741,
     "geom:longitude":29.026268,
-    "gn:gn_country":"TR",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"TR",
+    "gn:fcode":"PPLX",
     "gn:latitude":41.03333,
     "gn:longitude":29.03333,
+    "gn:population":0,
     "iso:country":"TR",
     "lbl:latitude":41.035205,
     "lbl:longitude":29.031054,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.036003,
     "mps:longitude":29.026922,
     "mz:hierarchy_label":1,
@@ -50,9 +51,8 @@
     "name:tur_x_variant":[
         "Kuzguncuk Mahallesi"
     ],
-    "name:unk_x_variant":[
-        "Kuzgunyuk",
-        "Kuzguncuk"
+    "name:und_x_variant":[
+        "Kuzgunyuk"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -111,7 +111,6 @@
     "wof:concordances":{
         "gn:id":741931,
         "gp:id":2343618,
-        "qs:id":483066,
         "qs_pg:id":483066,
         "wd:id":"Q2555555",
         "wk:page":"Kuzguncuk"
@@ -131,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566247575,
+    "wof:lastmodified":1566582915,
     "wof:name":"Kuzguncuk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

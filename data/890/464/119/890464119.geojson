@@ -11,7 +11,7 @@
     "geom:longitude":30.934821,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":40.91,
     "lbl:longitude":30.941996,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Duzce",
     "meso:admin_1":"D\u00fczce",
     "meso:gadm_admin":"Kocaali",
@@ -41,6 +43,7 @@
     "mps:longitude":30.941996,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Cumayeri \u0130l\u00e7esi"
     ],
@@ -103,7 +106,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":64,
     "wof:belongsto":[
@@ -116,7 +119,7 @@
         "gn:id":8140653,
         "gp:id":29390244,
         "hasc:id":"TR.SK.KO",
-        "qs:id":207367,
+        "qs_pg:id":207367,
         "wd:id":"Q2349440",
         "wk:page":"Cumayeri"
     },
@@ -132,7 +135,7 @@
         }
     ],
     "wof:id":890464119,
-    "wof:lastmodified":1563361192,
+    "wof:lastmodified":1566586296,
     "wof:name":"Cumayeri",
     "wof:parent_id":85679533,
     "wof:placetype":"county",

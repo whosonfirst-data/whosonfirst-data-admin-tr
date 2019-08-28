@@ -11,7 +11,7 @@
     "geom:longitude":39.740839,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":154163,
+    "gn:population":154163,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.261781,
     "lbl:longitude":39.772988,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Sanliurfa",
     "meso:admin_1":"Sanliurfa",
     "meso:gadm_admin":"Viran\u015fehir",
@@ -41,6 +43,7 @@
     "mps:longitude":39.772988,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0648\u064a\u0631\u0627\u0646 \u0634\u0647\u0631"
     ],
@@ -143,7 +146,7 @@
     "name:tur_x_preferred":[
         "Viran\u015fehir"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Antoninopolis"
     ],
     "name:urd_x_preferred":[
@@ -171,9 +174,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2272",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Viransehir",
@@ -195,7 +198,7 @@
         "gn:id":298033,
         "gp:id":29390852,
         "hasc:id":"TR.SU.VI",
-        "qs:id":888133,
+        "qs_pg:id":888133,
         "wd:id":"Q497731",
         "wk:page":"Viran\u015fehir"
     },
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":890461923,
-    "wof:lastmodified":1563361736,
+    "wof:lastmodified":1566586508,
     "wof:name":"Viran\u015fehir",
     "wof:parent_id":85679441,
     "wof:placetype":"county",

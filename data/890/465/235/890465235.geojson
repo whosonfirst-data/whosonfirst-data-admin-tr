@@ -11,14 +11,18 @@
     "geom:longitude":40.90833,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":259,
+    "gn:population":259,
     "iso:country":"TR",
+    "lbl:bbox":"40.88833,37.625,40.92833,37.665",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Hisarkaya"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kalabozres"
     ],
     "qs:name":"Hisarkaya",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":312048,
-        "qs:id":547465
+        "qs_pg:id":547465
     },
     "wof:country":"TR",
     "wof:created":1469053509,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890465235,
-    "wof:lastmodified":1505343702,
+    "wof:lastmodified":1566586334,
     "wof:name":"Hisarkaya",
     "wof:parent_id":1108709869,
     "wof:placetype":"locality",

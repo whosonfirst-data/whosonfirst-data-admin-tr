@@ -11,14 +11,18 @@
     "geom:longitude":40.89,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":153,
+    "gn:population":153,
     "iso:country":"TR",
+    "lbl:bbox":"40.87,37.90722,40.91,37.94722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:tur_x_preferred":[
         "Dikenli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dikenlik"
     ],
     "qs:name":"Dikenli",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":316574,
-        "qs:id":80107
+        "qs_pg:id":80107
     },
     "wof:country":"TR",
     "wof:created":1469053293,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890459935,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586574,
     "wof:name":"Dikenli",
     "wof:parent_id":890461785,
     "wof:placetype":"locality",

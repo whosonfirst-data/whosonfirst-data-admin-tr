@@ -11,11 +11,15 @@
     "geom:longitude":38.38235,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":630,
+    "gn:population":630,
     "iso:country":"TR",
+    "lbl:bbox":"38.36235,36.91395,38.40235,36.95395",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ko\u00e7\u015f\u00fckran"
     ],
     "qs:name":"Binatl\u0131",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":321089,
-        "qs:id":547648
+        "qs_pg:id":547648
     },
     "wof:country":"TR",
     "wof:created":1469053368,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890461813,
-    "wof:lastmodified":1505343687,
+    "wof:lastmodified":1566586527,
     "wof:name":"Binatl\u0131",
     "wof:parent_id":890460731,
     "wof:placetype":"locality",

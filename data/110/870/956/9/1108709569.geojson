@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":38.405411,
     "lbl:longitude":40.398682,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Diyarbakir",
     "meso:admin_1":"Diyarbakir",
     "meso:gadm_admin":"Hani",
@@ -37,6 +39,7 @@
     "mps:longitude":40.398682,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Hani"
     ],
@@ -101,9 +104,9 @@
         "\u54c8\u5c3c"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"413",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Hani",
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1108709569,
-    "wof:lastmodified":1563359744,
+    "wof:lastmodified":1566585363,
     "wof:name":"Hani",
     "wof:parent_id":85679395,
     "wof:placetype":"county",

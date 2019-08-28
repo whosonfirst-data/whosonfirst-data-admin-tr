@@ -11,10 +11,14 @@
     "geom:longitude":28.40378,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":44256,
+    "gn:population":44256,
     "iso:country":"TR",
+    "lbl:bbox":"28.38378,40.19525,28.42378,40.23525",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:azb_x_preferred":[
         "\u0642\u0631\u0627\u062c\u0647\u200c \u0628\u064e\u06cc"
     ],
@@ -84,7 +88,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0434\u0436\u0430\u0431\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muhalich"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":744537,
-        "qs:id":274955,
+        "qs_pg:id":274955,
         "wd:id":"Q130539",
         "wk:page":"Karacabey"
     },
@@ -128,7 +132,7 @@
         }
     ],
     "wof:id":890460073,
-    "wof:lastmodified":1563361601,
+    "wof:lastmodified":1566586460,
     "wof:name":"Karacabey",
     "wof:parent_id":890461019,
     "wof:placetype":"locality",

@@ -11,12 +11,15 @@
     "geom:longitude":30.79167,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"30.78667,39.59583,30.79667,39.60583",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "G\u00fcll\u00fcce"
     ],
     "qs:name":"Hayriye",
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":313697,
         "gp:id":56043415,
-        "qs:id":1199856
+        "qs_pg:id":1199856
     },
     "wof:country":"TR",
     "wof:created":1469053316,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890460483,
-    "wof:lastmodified":1505343682,
+    "wof:lastmodified":1566586433,
     "wof:name":"Hayriye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -11,11 +11,15 @@
     "geom:longitude":42.31889,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":430,
+    "gn:population":430,
     "iso:country":"TR",
+    "lbl:bbox":"42.29889,37.95167,42.33889,37.99167",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Zivnik"
     ],
     "qs:name":"Di\u015flinar",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":316555,
         "gp:id":2344316,
-        "qs:id":80105
+        "qs_pg:id":80105
     },
     "wof:country":"TR",
     "wof:created":1469053293,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890459931,
-    "wof:lastmodified":1505343679,
+    "wof:lastmodified":1566586545,
     "wof:name":"Di\u015flinar",
     "wof:parent_id":890463401,
     "wof:placetype":"locality",

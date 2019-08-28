@@ -25,6 +25,8 @@
     ],
     "lbl:latitude":37.703191,
     "lbl:longitude":34.146195,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Konya",
     "meso:admin_1":"Konya",
     "meso:gadm_admin":"Ere\u011fli",
@@ -38,6 +40,7 @@
     "mps:longitude":34.146195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:cat_x_preferred":[
         "Ere\u011fli"
     ],
@@ -107,9 +110,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"2560",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Eregli",
@@ -130,7 +133,7 @@
     "wof:concordances":{
         "gp:id":29390311,
         "hasc:id":"TR.KO.ER",
-        "qs:id":493653,
+        "qs_pg:id":493653,
         "wd:id":"Q1350067",
         "wk:page":"Ere\u011fli"
     },
@@ -146,7 +149,7 @@
         }
     ],
     "wof:id":890461839,
-    "wof:lastmodified":1563361805,
+    "wof:lastmodified":1566586533,
     "wof:name":"Ere\u011fli",
     "wof:parent_id":85679425,
     "wof:placetype":"county",

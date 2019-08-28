@@ -11,10 +11,14 @@
     "geom:longitude":42.11139,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":742,
+    "gn:population":742,
     "iso:country":"TR",
+    "lbl:bbox":"42.09139,37.235,42.13139,37.275",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Katran"
     ],
@@ -24,7 +28,7 @@
     "name:swe_x_preferred":[
         "Katran"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bazift"
     ],
     "name:uzb_x_preferred":[
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":308869,
-        "qs:id":547430,
+        "qs_pg:id":547430,
         "wk:page":"Katran"
     },
     "wof:country":"TR",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":890459411,
-    "wof:lastmodified":1564162966,
+    "wof:lastmodified":1566586580,
     "wof:name":"Katran",
     "wof:parent_id":890462509,
     "wof:placetype":"locality",

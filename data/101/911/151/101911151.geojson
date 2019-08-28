@@ -13,6 +13,8 @@
     "iso:country":"TR",
     "lbl:latitude":41.661152,
     "lbl:longitude":26.586754,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":41.661152,
     "mps:longitude":26.586754,
     "mz:hierarchy_label":1,
@@ -711,7 +713,7 @@
     "name:ukr_x_preferred":[
         "\u0415\u0434\u0456\u0440\u043d\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adrianoupolis"
     ],
     "name:urd_x_preferred":[
@@ -878,7 +880,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":42.0,
     "wd:latitude":41.678056,
@@ -897,7 +899,6 @@
         "gn:id":747712,
         "gp:id":2343949,
         "nyt:id":"N38458892420377720541",
-        "qs:id":273827,
         "qs_pg:id":273827,
         "wd:id":"Q43387",
         "wk:page":"Edirne"
@@ -914,7 +915,7 @@
         }
     ],
     "wof:id":101911151,
-    "wof:lastmodified":1563360659,
+    "wof:lastmodified":1566586009,
     "wof:name":"Edirne",
     "wof:parent_id":890461029,
     "wof:placetype":"locality",

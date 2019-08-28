@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":39.982447,
     "lbl:longitude":28.529055,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Bursa",
     "meso:admin_1":"Bursa",
     "meso:gadm_admin":"Mustafa Kemalpa\u015fa",
@@ -37,6 +39,7 @@
     "mps:longitude":28.529055,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0645\u0635\u0637\u0641\u0649 \u0643\u0645\u0627\u0644 \u0628\u0627\u0634\u0627"
     ],
@@ -120,9 +123,9 @@
         "\u7a46\u65af\u5854\u6cd5\u51f1\u99ac\u723e\u5e15\u6c99"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"1762",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Mustafa Kemalpasa",
@@ -155,7 +158,7 @@
         }
     ],
     "wof:id":1108709701,
-    "wof:lastmodified":1563359678,
+    "wof:lastmodified":1566585338,
     "wof:name":"M.Kemalpa\u015fa",
     "wof:parent_id":85679231,
     "wof:placetype":"county",

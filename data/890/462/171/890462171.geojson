@@ -11,12 +11,15 @@
     "geom:longitude":36.12336,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"36.11836,36.52116,36.12836,36.53116",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":15.0,
+    "name:und_x_variant":[
         "Kyshla"
     ],
     "qs:name":"Kisla",
@@ -41,7 +44,7 @@
     "wof:concordances":{
         "gn:id":437742,
         "gp:id":55870899,
-        "qs:id":1001910
+        "qs_pg:id":1001910
     },
     "wof:country":"TR",
     "wof:created":1469053380,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":890462171,
-    "wof:lastmodified":1505343688,
+    "wof:lastmodified":1566586419,
     "wof:name":"Kisla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

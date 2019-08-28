@@ -11,9 +11,12 @@
     "geom:longitude":35.32889,
     "gn:country":"TR",
     "gn:fcode":"PPLA",
-    "gn:pop":1248988,
+    "gn:population":1248988,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"35.30889,36.98167,35.34889,37.02167",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.1,
@@ -306,7 +309,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0434\u0430\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Adhanah"
     ],
     "name:urd_x_preferred":[
@@ -448,7 +451,7 @@
     "wof:concordances":{
         "gn:id":325363,
         "gp:id":2343678,
-        "qs:id":273767,
+        "qs_pg:id":273767,
         "wd:id":"Q38545",
         "wk:page":"Adana"
     },
@@ -465,7 +468,7 @@
         }
     ],
     "wof:id":890461703,
-    "wof:lastmodified":1563361761,
+    "wof:lastmodified":1566586518,
     "wof:name":"Adana",
     "wof:parent_id":890462761,
     "wof:placetype":"locality",

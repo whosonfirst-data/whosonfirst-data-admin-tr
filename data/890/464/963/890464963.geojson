@@ -11,11 +11,15 @@
     "geom:longitude":37.90306,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":163,
+    "gn:population":163,
     "iso:country":"TR",
+    "lbl:bbox":"37.88306,36.90556,37.92306,36.94556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Ticar"
     ],
     "qs:name":"Teketa\u015f\u0131",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":299455,
-        "qs:id":547271
+        "qs_pg:id":547271
     },
     "wof:country":"TR",
     "wof:created":1469053493,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890464963,
-    "wof:lastmodified":1505343700,
+    "wof:lastmodified":1566586273,
     "wof:name":"Teketa\u015f\u0131",
     "wof:parent_id":1108709633,
     "wof:placetype":"locality",

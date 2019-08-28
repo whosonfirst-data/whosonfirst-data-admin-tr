@@ -13,6 +13,7 @@
     "iso:country":"TR",
     "lbl:latitude":41.146258,
     "lbl:longitude":29.032745,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.146124,
     "mps:longitude":29.025243,
     "mz:hierarchy_label":1,
@@ -79,12 +80,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0443\u043c\u0445\u0443\u0440\u0456\u0454\u0442"
     ],
-    "name:und_x_preferred":[
-        "Cumhuriyet"
-    ],
-    "name:unk_x_variant":[
-        "Cumhuriyet"
-    ],
     "name:vie_x_preferred":[
         "Cumhuriyet"
     ],
@@ -125,7 +120,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870966,
-        "qs:id":986678,
         "qs_pg:id":986678
     },
     "wof:country":"TR",
@@ -143,7 +137,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566247570,
+    "wof:lastmodified":1566582945,
     "wof:name":"Cumhuriyet",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

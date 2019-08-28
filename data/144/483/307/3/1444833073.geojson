@@ -10,8 +10,10 @@
     "geom:latitude":40.875817,
     "geom:longitude":29.253152,
     "iso:country":"TR",
+    "lbl:bbox":"29.2481517256,40.8708171709,29.2581517256,40.8808171709",
     "lbl:latitude":40.875817,
     "lbl:longitude":29.253152,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,10 +32,10 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461937,
-        85679237
+        890461937
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1444833073,
-    "wof:lastmodified":1566339866,
+    "wof:lastmodified":1566584824,
     "wof:name":"Kaynarca",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

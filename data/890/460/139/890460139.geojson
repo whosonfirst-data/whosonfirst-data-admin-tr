@@ -11,7 +11,7 @@
     "geom:longitude":37.640157,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":28078,
+    "gn:population":28078,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":37.729231,
     "lbl:longitude":37.600488,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Adiyaman",
     "meso:admin_1":"Adiyaman",
     "meso:gadm_admin":"G\u00f6lba\u015f\u0131",
@@ -41,6 +43,7 @@
     "mps:longitude":37.600488,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "G\u00f6lba\u015f\u0131"
     ],
@@ -117,9 +120,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"821",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"G\u00f6lbasi",
@@ -141,7 +144,7 @@
         "gn:id":314136,
         "gp:id":29390358,
         "hasc:id":"TR.AD.GO",
-        "qs:id":124127,
+        "qs_pg:id":124127,
         "wd:id":"Q473454",
         "wk:page":"G\u00f6lba\u015f\u0131"
     },
@@ -157,7 +160,7 @@
         }
     ],
     "wof:id":890460139,
-    "wof:lastmodified":1563361593,
+    "wof:lastmodified":1566586457,
     "wof:name":"G\u00f6lba\u015f\u0131",
     "wof:parent_id":85679295,
     "wof:placetype":"county",

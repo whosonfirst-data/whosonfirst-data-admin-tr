@@ -11,10 +11,14 @@
     "geom:longitude":40.63889,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":25,
+    "gn:population":25,
     "iso:country":"TR",
+    "lbl:bbox":"40.61889,37.25806,40.65889,37.29806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Karaman"
     ],
@@ -117,7 +121,7 @@
     "wof:concordances":{
         "gn:id":441849,
         "gp:id":2329522,
-        "qs:id":548283,
+        "qs_pg:id":548283,
         "wd:id":"Q984710",
         "wk:page":"Karaman"
     },
@@ -134,7 +138,7 @@
         }
     ],
     "wof:id":890465613,
-    "wof:lastmodified":1563361307,
+    "wof:lastmodified":1566586345,
     "wof:name":"Karaman",
     "wof:parent_id":890460129,
     "wof:placetype":"locality",

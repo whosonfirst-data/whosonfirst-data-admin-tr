@@ -11,11 +11,15 @@
     "geom:longitude":27.26667,
     "gn:country":"TR",
     "gn:fcode":"PPL",
-    "gn:pop":0,
+    "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
+    "lbl:bbox":"27.24667,36.99667,27.28667,37.03667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0422\u0443\u0440\u0433\u0443\u0442\u0440\u0435\u0439\u0441"
     ],
@@ -44,9 +48,6 @@
         "Turgutreis"
     ],
     "name:tur_x_preferred":[
-        "Turgutreis"
-    ],
-    "name:unk_x_variant":[
         "Turgutreis"
     ],
     "name:urd_x_preferred":[
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":309235,
         "gp:id":2326803,
-        "qs:id":1136864,
+        "qs_pg:id":1136864,
         "wd:id":"Q1767162"
     },
     "wof:country":"TR",
@@ -96,7 +97,7 @@
         }
     ],
     "wof:id":890462701,
-    "wof:lastmodified":1563361330,
+    "wof:lastmodified":1566586360,
     "wof:name":"Karatoprak",
     "wof:parent_id":890462453,
     "wof:placetype":"locality",

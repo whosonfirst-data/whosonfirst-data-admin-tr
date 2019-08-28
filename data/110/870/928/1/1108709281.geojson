@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":36.931773,
     "lbl:longitude":29.468032,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Burdur",
     "meso:admin_1":"Burdur",
     "meso:gadm_admin":"Fethiye",
@@ -37,6 +39,7 @@
     "mps:longitude":29.468032,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Fethiye"
     ],
@@ -236,7 +239,7 @@
         "Fethiye"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -259,7 +262,7 @@
         }
     ],
     "wof:id":1108709281,
-    "wof:lastmodified":1561769163,
+    "wof:lastmodified":1566585378,
     "wof:name":"Alt\u0131nyayla",
     "wof:parent_id":85679273,
     "wof:placetype":"county",

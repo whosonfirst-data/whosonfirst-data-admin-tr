@@ -12,10 +12,13 @@
     "iso:country":"TR",
     "lbl:latitude":41.080056,
     "lbl:longitude":29.047596,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":41.080056,
     "mps:longitude":29.047596,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Rumelihisar\u0131"
     ],
@@ -106,7 +109,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -117,7 +120,6 @@
     "wof:concordances":{
         "gn:id":740477,
         "gp:id":2343626,
-        "qs:id":1134737,
         "qs_pg:id":1134737,
         "wd:id":"Q6073442",
         "wk:page":"Rumelihisar\u0131"
@@ -134,7 +136,7 @@
         }
     ],
     "wof:id":101913213,
-    "wof:lastmodified":1563360650,
+    "wof:lastmodified":1566586007,
     "wof:name":"Rumelihisar\u0131",
     "wof:parent_id":890462841,
     "wof:placetype":"locality",

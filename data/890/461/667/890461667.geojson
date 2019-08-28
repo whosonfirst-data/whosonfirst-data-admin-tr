@@ -11,7 +11,7 @@
     "geom:longitude":30.460947,
     "gn:country":"TR",
     "gn:fcode":"PPLA2",
-    "gn:pop":5767,
+    "gn:population":5767,
     "gp:adm0":23424969,
     "iso:country":"TR",
     "label:eng_x_preferred_longname":[
@@ -28,6 +28,8 @@
     ],
     "lbl:latitude":39.052504,
     "lbl:longitude":30.457107,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin1_en":"Afyon",
     "meso:admin_1":"Afyon",
     "meso:gadm_admin":"\u0130hsaniye",
@@ -41,6 +43,7 @@
     "mps:longitude":30.457107,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "\u0130hsaniye"
     ],
@@ -120,9 +123,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-12-31",
+    "src:population_date":"2007-12-31",
     "statoids:area_km":"889",
     "statoids:as_of_date":"2007-12-31",
     "statoids:capital":"Ihsaniye",
@@ -144,7 +147,7 @@
         "gn:id":311645,
         "gp:id":29390886,
         "hasc:id":"TR.AF.IH",
-        "qs:id":343423,
+        "qs_pg:id":343423,
         "wd:id":"Q343559",
         "wk:page":"\u0130hsaniye"
     },
@@ -160,7 +163,7 @@
         }
     ],
     "wof:id":890461667,
-    "wof:lastmodified":1563361712,
+    "wof:lastmodified":1566586500,
     "wof:name":"\u0130hsaniye",
     "wof:parent_id":85679267,
     "wof:placetype":"county",

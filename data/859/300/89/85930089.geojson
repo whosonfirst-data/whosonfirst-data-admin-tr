@@ -12,8 +12,10 @@
     "gn:latitude":36.8654,
     "gn:longitude":30.79171,
     "iso:country":"TR",
+    "lbl:bbox":"30.783519,36.849848,30.793519,36.859848",
     "lbl:latitude":36.854848,
     "lbl:longitude":30.788519,
+    "lbl:max_zoom":18.0,
     "mps:latitude":36.858031,
     "mps:longitude":30.799305,
     "mz:hierarchy_label":0,
@@ -49,10 +51,7 @@
     "name:und_x_colloquial":[
         "Guzelbag"
     ],
-    "name:und_x_preferred":[
-        "G\u00fczelbag"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00fczelbag"
     ],
     "name:vie_x_preferred":[
@@ -89,7 +88,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":27,
     "wof:belongsto":[
         85679263,
@@ -102,7 +101,6 @@
     "wof:concordances":{
         "gn:id":8073969,
         "gp:id":55871182,
-        "qs:id":204722,
         "qs_pg:id":204722,
         "wd:id":"Q5627194"
     },
@@ -122,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1563356467,
+    "wof:lastmodified":1566582907,
     "wof:name":"G\u00fczelbag",
     "wof:parent_id":101912923,
     "wof:placetype":"neighbourhood",

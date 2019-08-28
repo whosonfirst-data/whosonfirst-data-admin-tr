@@ -10,8 +10,10 @@
     "geom:latitude":41.055282,
     "geom:longitude":29.079238,
     "iso:country":"TR",
+    "lbl:bbox":"29.0742378058,41.0502824573,29.0842378058,41.0602824573",
     "lbl:latitude":41.055282,
     "lbl:longitude":29.079238,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -30,11 +32,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         101912647,
-        890462769,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,7 +52,7 @@
         }
     ],
     "wof:id":1444830627,
-    "wof:lastmodified":1566339573,
+    "wof:lastmodified":1566584834,
     "wof:name":"Bahcelievler",
     "wof:parent_id":101912647,
     "wof:placetype":"neighbourhood",

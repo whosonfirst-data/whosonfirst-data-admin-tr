@@ -10,8 +10,10 @@
     "geom:latitude":41.032422,
     "geom:longitude":28.891766,
     "iso:country":"TR",
+    "lbl:bbox":"28.8867655063,41.0274222742,28.8967655063,41.0374222742",
     "lbl:latitude":41.032422,
     "lbl:longitude":28.891766,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":0,
@@ -96,7 +98,7 @@
     "name:war_x_preferred":[
         "Davutpa\u015fa"
     ],
-    "src:lbl:centroid":"mz",
+    "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -120,7 +122,7 @@
         }
     ],
     "wof:id":1108950641,
-    "wof:lastmodified":1563359577,
+    "wof:lastmodified":1566585290,
     "wof:name":"Davutpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
