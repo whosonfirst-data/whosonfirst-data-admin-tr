@@ -332,6 +332,7 @@
     "qs:type":"rural hamlet near local_admin match geoplanet",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -357,6 +358,10 @@
         "qs_pg:id":1134754
     },
     "wof:country":"TR",
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"36a180f5f19f9f2881c5a7c0feadae7c",
     "wof:hierarchy":[
         {
@@ -368,7 +373,7 @@
         }
     ],
     "wof:id":101911639,
-    "wof:lastmodified":1566586013,
+    "wof:lastmodified":1582340318,
     "wof:name":"Artvin",
     "wof:parent_id":890461767,
     "wof:placetype":"locality",
