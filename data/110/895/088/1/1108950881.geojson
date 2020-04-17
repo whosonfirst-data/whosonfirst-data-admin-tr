@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7402886385,41.1837455287,28.7402886385,41.1837455287",
+    "geom:bbox":"28.740289,41.183746,28.740289,41.183746",
     "geom:latitude":41.183746,
     "geom:longitude":28.740289,
     "iso:country":"TR",
@@ -35,9 +35,9 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709297
+        1108709297,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +45,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368702,
-    "wof:geomhash":"9f0bf8517c1cee4c0832d147c0653309",
+    "wof:geomhash":"ada5966c7c601c116d4d8485458ad3be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +56,8 @@
         }
     ],
     "wof:id":1108950881,
-    "wof:lastmodified":1566585302,
-    "wof:name":"\nArnavutkoy Merkez",
+    "wof:lastmodified":1587164336,
+    "wof:name":"Arnavutkoy Merkez",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -66,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.74028863845057,
-    41.18374552871671,
-    28.74028863845057,
-    41.18374552871671
+    28.740289,
+    41.183746,
+    28.740289,
+    41.183746
 ],
-  "geometry": {"coordinates":[28.74028863845057,41.18374552871671],"type":"Point"}
+  "geometry": {"coordinates":[28.740289,41.183746],"type":"Point"}
 }
