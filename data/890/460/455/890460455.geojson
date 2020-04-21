@@ -77,6 +77,9 @@
     "name:bam_x_preferred":[
         "Istanbul"
     ],
+    "name:ban_x_preferred":[
+        "Istanbul"
+    ],
     "name:bar_x_preferred":[
         "Istanbul"
     ],
@@ -184,6 +187,12 @@
         "\u0399\u03c3\u03c4\u03b1\u03bc\u03c0\u03bf\u03c5\u03bb",
         "\u03c3\u03c4\u03b7\u03bd \u03a0\u03cc\u03bb\u03b9 [stim\u02c8boli]"
     ],
+    "name:eng_ca_x_preferred":[
+        "Istanbul"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Istanbul"
+    ],
     "name:eng_x_historical":[
         "Constantinople"
     ],
@@ -249,6 +258,9 @@
     ],
     "name:gan_x_preferred":[
         "\u4f0a\u65af\u5766\u5e03\u723e"
+    ],
+    "name:gcr_x_preferred":[
+        "Istanbul"
     ],
     "name:gla_x_preferred":[
         "Istanbul"
@@ -367,6 +379,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10e1\u10e2\u10d0\u10db\u10d1\u10dd\u10da\u10d8"
+    ],
+    "name:kaz_kz_x_preferred":[
+        "\u042b\u0441\u0442\u0430\u043c\u0431\u04b1\u043b"
     ],
     "name:kaz_x_preferred":[
         "\u042b\u0441\u0442\u0430\u043c\u0431\u04b1\u043b"
@@ -534,6 +549,9 @@
     "name:nov_x_preferred":[
         "Istanbul"
     ],
+    "name:nrm_x_preferred":[
+        "Coustantinoble"
+    ],
     "name:nya_x_preferred":[
         "Istanbul"
     ],
@@ -573,6 +591,9 @@
     "name:pol_x_variant":[
         "Istambu\u0142"
     ],
+    "name:por_br_x_preferred":[
+        "Istambul"
+    ],
     "name:por_x_preferred":[
         "Istambul"
     ],
@@ -596,6 +617,9 @@
     ],
     "name:sah_x_preferred":[
         "\u0418\u0441\u0442\u0430\u043d\u0431\u0443\u043b"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c64\u1c65\u1c5b\u1c5f\u1c71\u1c75\u1c69\u1c5e"
     ],
     "name:scn_x_preferred":[
         "Istanbul"
@@ -749,6 +773,15 @@
     "name:zea_x_preferred":[
         "Istanbul"
     ],
+    "name:zho_hk_x_preferred":[
+        "\u4f0a\u65af\u5766\u5821"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4f0a\u65af\u5766\u5821"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f0a\u65af\u5766\u5821"
+    ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u5766\u5821"
     ],
@@ -864,8 +897,8 @@
     "wof:belongsto":[
         102191569,
         85632393,
-        85679237,
-        1108709503
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -888,7 +921,7 @@
         }
     ],
     "wof:id":890460455,
-    "wof:lastmodified":1566586439,
+    "wof:lastmodified":1587428248,
     "wof:name":"Istanbul",
     "wof:parent_id":1108709503,
     "wof:placetype":"locality",

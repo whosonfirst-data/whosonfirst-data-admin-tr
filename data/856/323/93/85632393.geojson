@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":81.280636,
-    "geom:area_square_m":780182557701.785278,
+    "geom:area_square_m":780182559624.58667,
     "geom:bbox":"25.664528,35.80768,44.818128,42.104165",
     "geom:latitude":39.059334,
     "geom:longitude":35.167961,
@@ -67,6 +67,9 @@
     "name:arg_x_preferred":[
         "Turqu\u00eda"
     ],
+    "name:ary_x_preferred":[
+        "\u062a\u0648\u0631\u0643\u064a\u0627"
+    ],
     "name:arz_x_preferred":[
         "\u062a\u0648\u0631\u0643\u064a\u0627"
     ],
@@ -102,6 +105,9 @@
     ],
     "name:bam_x_variant":[
         "Turiki"
+    ],
+    "name:ban_x_preferred":[
+        "Turki"
     ],
     "name:bar_x_preferred":[
         "Tiakei"
@@ -226,6 +232,12 @@
     "name:dan_x_preferred":[
         "Tyrkiet"
     ],
+    "name:deu_at_x_preferred":[
+        "T\u00fcrkei"
+    ],
+    "name:deu_ch_x_preferred":[
+        "T\u00fcrkei"
+    ],
     "name:deu_x_colloquial":[
         "Republik Tuerkei",
         "Republik Turkei",
@@ -258,6 +270,12 @@
     ],
     "name:eml_x_preferred":[
         "Turch\u00ee"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Turkey"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Turkey"
     ],
     "name:eng_x_preferred":[
         "Turkey"
@@ -341,6 +359,9 @@
     "name:gan_x_preferred":[
         "\u571f\u8033\u5176"
     ],
+    "name:gcr_x_preferred":[
+        "Tirki"
+    ],
     "name:gla_x_preferred":[
         "An Tuirc"
     ],
@@ -352,6 +373,9 @@
     ],
     "name:glg_x_variant":[
         "Turqu\u00eda - T\u00fcrkiye"
+    ],
+    "name:glk_x_preferred":[
+        "\u062a\u06ca\u0631\u06a9\u064a\u0647"
     ],
     "name:glv_x_preferred":[
         "Yn Turkee"
@@ -505,6 +529,9 @@
     ],
     "name:kbp_x_preferred":[
         "Tuurkii"
+    ],
+    "name:kea_x_preferred":[
+        "Turkia"
     ],
     "name:khm_x_preferred":[
         "\u1791\u17bd\u179a\u1782\u17b8"
@@ -729,6 +756,9 @@
     "name:nov_x_preferred":[
         "Turkia"
     ],
+    "name:nqo_x_preferred":[
+        "\u07d3\u07ca\u07d5\u07cd\u07eb \u07e3\u07dd\u07ca\u07ec\u07d6\u07cc\u07eb"
+    ],
     "name:nrm_x_preferred":[
         "Turtchie"
     ],
@@ -798,6 +828,9 @@
     "name:pol_x_preferred":[
         "Turcja"
     ],
+    "name:por_br_x_preferred":[
+        "Turquia"
+    ],
     "name:por_x_preferred":[
         "Turquia"
     ],
@@ -852,6 +885,9 @@
     "name:sgs_x_preferred":[
         "Tork\u0117j\u0117"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u107d\u102d\u107c\u103a\u1087\u101c\u1062\u107c"
+    ],
     "name:sin_x_preferred":[
         "\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2\u0dba"
     ],
@@ -903,6 +939,12 @@
     "name:srn_x_preferred":[
         "Turkiyakondre"
     ],
+    "name:srp_ec_x_preferred":[
+        "\u0422\u0443\u0440\u0441\u043a\u0430"
+    ],
+    "name:srp_el_x_preferred":[
+        "Turska"
+    ],
     "name:srp_x_preferred":[
         "\u0422\u0443\u0440\u0441\u043a\u0430"
     ],
@@ -923,6 +965,9 @@
     ],
     "name:szl_x_preferred":[
         "Turcyjo"
+    ],
+    "name:szy_x_preferred":[
+        "Turkey"
     ],
     "name:tah_x_preferred":[
         "Turiti"
@@ -1075,8 +1120,26 @@
     "name:zha_x_preferred":[
         "Dujwjgiz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u571f\u8033\u5176"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u571f\u8033\u5176"
+    ],
     "name:zho_min_nan_x_preferred":[
         "T\u00fcrkiye"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u571f\u8033\u5176"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u571f\u8033\u5176"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u571f\u8033\u5176"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u571f\u8033\u5176"
     ],
     "name:zho_x_preferred":[
         "\u571f\u8033\u5176"
@@ -1240,7 +1303,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1583797443,
+    "wof:lastmodified":1587428245,
     "wof:name":"Turkey",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
