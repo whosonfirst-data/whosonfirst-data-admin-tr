@@ -1,0 +1,113 @@
+{
+  "id": 85929403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000104,
+    "geom:area_square_m":966318.12971,
+    "geom:bbox":"28.9803722568,41.0572157385,28.993458421,41.0683561348",
+    "geom:latitude":41.062888,
+    "geom:longitude":28.987487,
+    "gn:id":"",
+    "iso:country":"TU",
+    "lbl:latitude":41.059797,
+    "lbl:longitude":28.992208,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.062979,
+    "mps:longitude":28.988016,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "19 Mayis"
+    ],
+    "name:eng_x_preferred":[
+        "19 May\u0131s"
+    ],
+    "name:tur_x_preferred":[
+        "19 May\u0131s"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"19 May\u0131s",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"\u015ei\u015fli",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":41,
+    "qs:photo_sum":176,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390815,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912685,
+        890461743
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55865014,
+        "qs_pg:id":473098
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"c1edca509c21956343e596c85a484786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461743,
+            "locality_id":101912685,
+            "neighbourhood_id":85929403,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85929403,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343860,
+    "wof:name":"19 Mayis",
+    "wof:parent_id":101912685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.980372256848,
+    41.05721573850153,
+    28.9934584209845,
+    41.06835613480413
+],
+  "geometry": {"coordinates":[[[28.98742675781477,41.06835613480413],[28.99017333982511,41.06714179616391],[28.99211221441976,41.0679990253543],[28.99291992036581,41.0669277208991],[28.99291992188859,41.06487127276155],[28.99293796305341,41.06485691577538],[28.9934584209845,41.06278605242524],[28.99291992188546,41.0620718589828],[28.99291992188336,41.06071513203771],[28.99291992188967,41.05864414640006],[28.99291992188199,41.05721573850153],[28.99017333982511,41.05842988594064],[28.98823455683345,41.05757283217437],[28.98742675558344,41.05864414201619],[28.98193359380008,41.05864414640006],[28.9819335937845,41.0600725015067],[28.98193359378558,41.06278600350046],[28.98193354461802,41.06278606870208],[28.980372256848,41.06485676902521],[28.98193359378143,41.0669276649754],[28.98193359380008,41.06692773020002],[28.98634983952439,41.06692773020002],[28.98742675781477,41.06835613480413]]],"type":"Polygon"}
+}

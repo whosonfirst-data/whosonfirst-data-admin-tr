@@ -1,0 +1,116 @@
+{
+  "id": 85906545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000012,
+    "geom:area_square_m":113827.562079,
+    "geom:bbox":"28.9731202544,41.0282503572,28.9791870117,41.0317152938",
+    "geom:latitude":41.03036,
+    "geom:longitude":28.97674,
+    "gn:id":"",
+    "iso:country":"TU",
+    "lbl:latitude":41.030661,
+    "lbl:longitude":28.975172,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.030437,
+    "mps:longitude":28.976785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Asmali Mescit"
+    ],
+    "name:eng_x_preferred":[
+        "Asmal\u0131 Mescit"
+    ],
+    "name:tur_x_preferred":[
+        "Asmal\u0131 Mescit"
+    ],
+    "name:tur_x_variant":[
+        "Asmal\u0131mescit"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Asmal\u0131 Mescit",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Beyo\u011flu",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":654,
+    "qs:photo_sum":1702,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390154,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101913185,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724079,
+        "qs_pg:id":237745
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"e51a6bbea3ffffb4be4be83941f1b907",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "locality_id":101913185,
+            "neighbourhood_id":85906545,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85906545,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343860,
+    "wof:name":"Asmali Mescit",
+    "wof:parent_id":101913185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97312025439282,
+    41.02825035715536,
+    28.97918701170852,
+    41.03171529380008
+],
+  "geometry": {"coordinates":[[[28.97918701170011,41.03171529380008],[28.97918701170852,41.03100117677306],[28.97918701170801,41.03035748484147],[28.97918701170011,41.02964338720001],[28.97781372070017,41.02964338720001],[28.97781372070023,41.02860740685344],[28.97670978144993,41.02860740702317],[28.97644042970012,41.02825035715536],[28.97575378420021,41.02855375908197],[28.97575378420004,41.02860740940011],[28.97575378420004,41.02912539963357],[28.97575378420004,41.02964338720001],[28.97506713870001,41.02964338720001],[28.97506713870001,41.03016136918309],[28.9743804932001,41.03016136923354],[28.97369384770008,41.03016136926827],[28.97312025439282,41.03016136890029],[28.97319840054575,41.03067934757527],[28.97369384770008,41.03067934785186],[28.9743804932001,41.03067934795959],[28.9743804932001,41.03119732257532],[28.97506713870001,41.03119732257532],[28.97506713870001,41.03171529323085],[28.97575378420004,41.03171529311697],[28.97644042970012,41.03171529320242],[28.97918701170011,41.03171529380008]]],"type":"Polygon"}
+}

@@ -1,0 +1,120 @@
+{
+  "id": 85930219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000124,
+    "geom:area_square_m":1154055.737799,
+    "geom:bbox":"29.0423583984,41.0917721558,29.0615844727,41.1000516309",
+    "geom:latitude":41.095154,
+    "geom:longitude":29.051273,
+    "gn:id":"",
+    "iso:country":"TU",
+    "lbl:latitude":41.09436,
+    "lbl:longitude":29.048335,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.095912,
+    "mps:longitude":29.050127,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Baltaliman\u0131"
+    ],
+    "name:eng_x_preferred":[
+        "Balta Limani"
+    ],
+    "name:eng_x_variant":[
+        "Baltaliman\u0131"
+    ],
+    "name:tur_x_preferred":[
+        "Baltaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0430-\u043b\u0438\u043c\u0430\u043d"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Balta Limani",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Sar\u0131yer",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":151,
+    "qs:photo_sum":281,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390733,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912659,
+        890463467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55871410,
+        "qs_pg:id":281594,
+        "wd:id":"Q4852587"
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"be31a44ab41b3538c1f9d9f6bd641e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890463467,
+            "locality_id":101912659,
+            "neighbourhood_id":85930219,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85930219,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343861,
+    "wof:name":"Baltalimani",
+    "wof:parent_id":101912659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0423583984097,
+    41.09177215577533,
+    29.0615844726866,
+    41.10005163090003
+],
+  "geometry": {"coordinates":[[[29.0560913086,41.09798186759359],[29.05687121510107,41.09694693372531],[29.0580579841386,41.09694693372531],[29.05883788774258,41.09591204826326],[29.0615844726866,41.09591204689201],[29.06158447268638,41.09384216315017],[29.0615844726812,41.09177221478112],[29.05883789061232,41.09177221156786],[29.0560913086,41.09177221229341],[29.05334472658188,41.09177221229341],[29.05059814451846,41.09177221229341],[29.0478515625,41.09177221827929],[29.04677492932228,41.0917722177351],[29.04677489000858,41.09177215577533],[29.04235839841806,41.09177215577533],[29.0423583984097,41.09177222100004],[29.04235839841346,41.09591205640004],[29.04235839842511,41.09798171322525],[29.04625499331007,41.09798171322525],[29.04631940173044,41.09801834328388],[29.0478515625,41.10005156570045],[29.0478515625,41.10005163090003],[29.05334472660013,41.10005163090003],[29.05334472660013,41.09798187630005],[29.0560913086,41.09798186759359]]],"type":"Polygon"}
+}

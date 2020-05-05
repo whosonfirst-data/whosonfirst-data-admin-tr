@@ -1,0 +1,116 @@
+{
+  "id": 85930107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.682646,36.907252,30.682646,36.907252",
+    "geom:latitude":36.907252,
+    "geom:longitude":30.682646,
+    "gn:latitude":36.90048,
+    "gn:longitude":30.68637,
+    "iso:country":"TU",
+    "lbl:bbox":"30.677646,36.902252,30.687646,36.912252",
+    "lbl:latitude":36.907252,
+    "lbl:longitude":30.682646,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":36.906016,
+    "mps:longitude":30.687313,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_colloquial":[
+        "Guvenlik"
+    ],
+    "name:und_x_variant":[
+        "G\u00fcvenlik"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":323777,
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"G\u00fcvenlik",
+    "qs:local_max":1873,
+    "qs:local_sum":6541,
+    "qs:localhoods":23,
+    "qs:name":"G\u00fcvenlik",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:name_adm2":"Merkez",
+    "qs:name_local":"Antalya",
+    "qs:photo_max":14,
+    "qs:photo_sum":18,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347264,
+    "qs:woe_adm2":29390627,
+    "qs:woe_lau":0,
+    "qs:woe_local":2343733,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wd:wordcount":110,
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        101912921,
+        1108709655
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8074178,
+        "gp:id":55871196,
+        "qs_pg:id":1198945,
+        "wk:page":"Kleine Sinn"
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"5f11c18772970dac34c863dbaf228ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709655,
+            "locality_id":101912921,
+            "neighbourhood_id":85930107,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":85930107,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343859,
+    "wof:name":"G\u00fcvenlik",
+    "wof:parent_id":101912921,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.682646,
+    36.907252,
+    30.682646,
+    36.907252
+],
+  "geometry": {"coordinates":[30.682646,36.907252],"type":"Point"}
+}

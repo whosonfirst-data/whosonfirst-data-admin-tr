@@ -1,0 +1,101 @@
+{
+  "id": 85929445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000114,
+    "geom:area_square_m":1059789.786705,
+    "geom:bbox":"29.0451049805,41.0455167967,29.0631464488,41.0565730782",
+    "geom:latitude":41.051158,
+    "geom:longitude":29.055019,
+    "iso:country":"TU",
+    "lbl:latitude":41.054817,
+    "lbl:longitude":29.052725,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.050148,
+    "mps:longitude":29.057137,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kuleli"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:id":0,
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Kuleli",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"\u00dcsk\u00fcdar",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":82,
+    "qs:photo_sum":254,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":9,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390845,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912541,
+        890462769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55865034
+    },
+    "wof:country":"TU",
+    "wof:geomhash":"95048f48c69f301482b97afcd77d68b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":85929445,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85929445,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1566588213,
+    "wof:name":"Kuleli",
+    "wof:parent_id":101912541,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.04510498048359,
+    41.04551679674236,
+    29.06314644879063,
+    41.05657307818944
+],
+  "geometry": {"coordinates":[[[29.05390122788873,41.05657307117541],[29.05442180203306,41.05450195732361],[29.05883789060005,41.05450196330007],[29.05883789060005,41.05450189807536],[29.06314644879063,41.05450189807536],[29.06158447265022,41.05035945410005],[29.06158447265022,41.04697351681803],[29.05883789060005,41.04624515677358],[29.05883789060005,41.04621681450007],[29.05873101436464,41.04621681450007],[29.0560913086,41.04551679674236],[29.05449120201189,41.04594112548428],[29.05442189889141,41.04621681450007],[29.05334472660013,41.04621681450007],[29.05334472660013,41.04828818776987],[29.05059814451914,41.0482881932907],[29.05059814451363,41.05035950979195],[29.0478515625,41.05035951060694],[29.04510498048359,41.05035951205582],[29.0451049804866,41.05243076439187],[29.0478515625,41.05243076769065],[29.0478515625,41.05450195379204],[29.05059814451914,41.05450195709074],[29.05059814298488,41.05657307818944],[29.05334472660013,41.05657307602655],[29.05390122788873,41.05657307117541]]],"type":"Polygon"}
+}

@@ -1,0 +1,107 @@
+{
+  "id": 85934735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"39.712272,41.009148,39.712272,41.009148",
+    "geom:latitude":41.009148,
+    "geom:longitude":39.712272,
+    "gn:id":"",
+    "iso:country":"TU",
+    "lbl:bbox":"39.707272,41.004148,39.717272,41.014148",
+    "lbl:latitude":41.009148,
+    "lbl:longitude":39.712272,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.009506,
+    "mps:longitude":39.712831,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:und_x_variant":[
+        "Hizirbey"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":738648,
+    "qs:local_max":64,
+    "qs:local_sum":64,
+    "qs:localhoods":1,
+    "qs:name":"Hizirbey",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Trabzon",
+    "qs:name_adm2":"Merkez",
+    "qs:name_local":"Trabzon",
+    "qs:photo_max":22,
+    "qs:photo_sum":64,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347312,
+    "qs:woe_adm2":29390575,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344452,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85679383,
+        102191569,
+        85632393,
+        101912783,
+        890462779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043095,
+        "qs_pg:id":884336
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"823b98c1035d1088e07633917d6927b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462779,
+            "locality_id":101912783,
+            "neighbourhood_id":85934735,
+            "region_id":85679383
+        }
+    ],
+    "wof:id":85934735,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343861,
+    "wof:name":"Hizirbey",
+    "wof:parent_id":101912783,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    39.712272,
+    41.009148,
+    39.712272,
+    41.009148
+],
+  "geometry": {"coordinates":[39.712272,41.009148],"type":"Point"}
+}

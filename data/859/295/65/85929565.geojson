@@ -1,0 +1,115 @@
+{
+  "id": 85929565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70109,39.977484,32.70109,39.977484",
+    "geom:latitude":39.977484,
+    "geom:longitude":32.70109,
+    "gn:latitude":39.98515,
+    "gn:longitude":32.70035,
+    "iso:country":"TU",
+    "lbl:bbox":"32.69609,39.972484,32.70609,39.982484",
+    "lbl:latitude":39.977484,
+    "lbl:longitude":32.70109,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":39.978383,
+    "mps:longitude":32.705526,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Kardelen"
+    ],
+    "name:tur_x_preferred":[
+        "Mehmet Hac\u0131o\u011flu"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":323786,
+    "qs:gn_nam_loc":"Ankara",
+    "qs:gn_namadm1":"68",
+    "qs:gn_name":"Kardelen",
+    "qs:local_max":3835,
+    "qs:local_sum":10452,
+    "qs:localhoods":37,
+    "qs:name":"Kardelen",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Ankara",
+    "qs:name_adm2":"Yenimahalle",
+    "qs:name_local":"Ankara",
+    "qs:photo_max":26,
+    "qs:photo_sum":58,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":7,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347263,
+    "qs:woe_adm2":29390874,
+    "qs:woe_lau":0,
+    "qs:woe_local":2343732,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85679409,
+        102191569,
+        85632393,
+        101912785,
+        890462771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7927408,
+        "gp:id":55865177,
+        "qs_pg:id":26657
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "wof:geomhash":"7de0c5ecb51b246ae98d4a00c651c9e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462771,
+            "locality_id":101912785,
+            "neighbourhood_id":85929565,
+            "region_id":85679409
+        }
+    ],
+    "wof:id":85929565,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1582343860,
+    "wof:name":"Kardelen",
+    "wof:parent_id":101912785,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70109,
+    39.977484,
+    32.70109,
+    39.977484
+],
+  "geometry": {"coordinates":[32.70109,39.977484],"type":"Point"}
+}

@@ -1,0 +1,109 @@
+{
+  "id": 85929449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000196,
+    "geom:area_square_m":1826799.310199,
+    "geom:bbox":"29.0451049805,41.0545018981,29.0660295029,41.068998455",
+    "geom:latitude":41.061051,
+    "geom:longitude":29.055456,
+    "iso:country":"TU",
+    "lbl:latitude":41.062243,
+    "lbl:longitude":29.05421,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.061313,
+    "mps:longitude":29.056303,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Vanikoy",
+        "Wanikoey"
+    ],
+    "name:eng_x_variant":[
+        "Vani Kioi",
+        "Vankoy",
+        "Wanik\u00f6y",
+        "Vanik\u00f6y"
+    ],
+    "name:tur_x_preferred":[
+        "Vanik\u00f6y"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:id":0,
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Vanik\u00f6y",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"\u00dcsk\u00fcdar",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":62,
+    "qs:photo_sum":157,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":12,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390845,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85679237,
+        85632393,
+        890462769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55865037
+    },
+    "wof:country":"TU",
+    "wof:geomhash":"3149b55efc64466c4f2a583342da1df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "neighbourhood_id":85929449,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85929449,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1566588215,
+    "wof:name":"Vanik\u00f6y",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0451049804812,
+    41.05450189807536,
+    29.06602950285395,
+    41.06899845495018
+],
+  "geometry": {"coordinates":[[[29.05390127705527,41.06899844680035],[29.05442165303873,41.06692773020002],[29.05883789060005,41.06692773020002],[29.0588378906188,41.0669276649754],[29.06196046614627,41.06278600350046],[29.06602950285395,41.06008758327773],[29.06589916140422,41.05876420432988],[29.06586272245113,41.05864408120013],[29.06589916140422,41.0585239580702],[29.06593154811497,41.0581951302772],[29.06314644879063,41.05450189807536],[29.05883789060005,41.05450189807536],[29.05442184152093,41.05450189807536],[29.05442180203306,41.05450195732361],[29.05334472660013,41.05450196330007],[29.05334472660013,41.05657307602655],[29.05059814298488,41.05657307818944],[29.04981730399402,41.05760858435035],[29.0486324030453,41.05760858435035],[29.0478515625,41.05864413961882],[29.0478515625,41.06071513067728],[29.0451049804812,41.06071513398113],[29.04510498048637,41.06278606056264],[29.0451049804866,41.06485692257741],[29.0478515625,41.0648569321001],[29.0478515625,41.06692773020002],[29.05059814451482,41.06692773020002],[29.05059814451397,41.06899845495018],[29.05334472660013,41.06899845164402],[29.05390127705527,41.06899844680035]]],"type":"Polygon"}
+}

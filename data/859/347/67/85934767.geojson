@@ -1,0 +1,107 @@
+{
+  "id": 85934767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.51736,39.774356,30.51736,39.774356",
+    "geom:latitude":39.774356,
+    "geom:longitude":30.51736,
+    "gn:id":"",
+    "iso:country":"TU",
+    "lbl:bbox":"30.51236,39.769356,30.52236,39.779356",
+    "lbl:latitude":39.774356,
+    "lbl:longitude":30.51736,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":39.767973,
+    "mps:longitude":30.520217,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":1,
+    "name:und_x_variant":[
+        "Kirmizitoprak"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":315202,
+    "qs:local_max":228,
+    "qs:local_sum":472,
+    "qs:localhoods":5,
+    "qs:name":"Kirmizitoprak",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Eski\u015fehir",
+    "qs:name_adm2":"Merkez",
+    "qs:name_local":"Eski\u015fehir",
+    "qs:photo_max":116,
+    "qs:photo_sum":228,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347283,
+    "qs:woe_adm2":29390626,
+    "qs:woe_lau":0,
+    "qs:woe_local":2343980,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85679255,
+        102191569,
+        85632393,
+        101912871,
+        1108709773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043391,
+        "qs_pg:id":483010
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"c0bbd9f1109c2ab317c20d21e948cc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709773,
+            "locality_id":101912871,
+            "neighbourhood_id":85934767,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":85934767,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343861,
+    "wof:name":"Kirmizitoprak",
+    "wof:parent_id":101912871,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.51736,
+    39.774356,
+    30.51736,
+    39.774356
+],
+  "geometry": {"coordinates":[30.51736,39.774356],"type":"Point"}
+}

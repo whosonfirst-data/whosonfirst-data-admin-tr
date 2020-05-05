@@ -1,0 +1,111 @@
+{
+  "id": 85929467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000041,
+    "geom:area_square_m":378363.027223,
+    "geom:bbox":"29.0195775552,41.0074926234,29.0269565376,41.0161743641",
+    "geom:latitude":41.011492,
+    "geom:longitude":29.023005,
+    "gn:id":"",
+    "iso:country":"TU",
+    "lbl:latitude":41.011927,
+    "lbl:longitude":29.024011,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.010876,
+    "mps:longitude":29.022636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":16.0,
+    "mz:note":"mosque",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Arakiyeci Haci Mehmet"
+    ],
+    "name:und_x_variant":[
+        "Arakiyeci Hac\u0131 Mehmet"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Arakiyeci Hac\u0131 Mehmet",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"\u00dcsk\u00fcdar",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":45,
+    "qs:photo_sum":56,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":5,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390845,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101912675,
+        890462769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55865047,
+        "qs_pg:id":230829
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"0bc906f2eec8918094068c1ca87159a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":85929467,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85929467,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343860,
+    "wof:name":"Arakiyeci Hac\u0131 Mehmet",
+    "wof:parent_id":101912675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0195775552337,
+    41.00749262338324,
+    29.02695653760264,
+    41.01617436410005
+],
+  "geometry": {"coordinates":[[[29.02695653760264,41.00892066980018],[29.02587890621663,41.00749262338874],[29.02313232419999,41.00870585413385],[29.02038574218767,41.00749262338324],[29.02038574219728,41.00892073500002],[29.02038574220012,41.01099328661435],[29.02038573895328,41.01306577779746],[29.0195775552337,41.01413684127253],[29.02009000875705,41.01617436410005],[29.02038574141636,41.01617436410005],[29.02235050002696,41.01617436410005],[29.02313232191426,41.01513820532546],[29.02313232419999,41.01306578079063],[29.02587890621254,41.01306577749193],[29.02668711099761,41.01199467651095],[29.0264352271991,41.01099327730012],[29.02695652120332,41.00892073500002],[29.02695653760264,41.00892066980018]]],"type":"Polygon"}
+}

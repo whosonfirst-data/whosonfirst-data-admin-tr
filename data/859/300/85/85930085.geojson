@@ -1,0 +1,111 @@
+{
+  "id": 85930085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.710263,36.882332,30.710263,36.882332",
+    "geom:latitude":36.882332,
+    "geom:longitude":30.710263,
+    "gn:latitude":36.87829,
+    "gn:longitude":30.70578,
+    "iso:country":"TU",
+    "lbl:bbox":"30.705263,36.877332,30.715263,36.887332",
+    "lbl:latitude":36.882332,
+    "lbl:longitude":30.710263,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":36.881967,
+    "mps:longitude":30.711092,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:und_x_variant":[
+        "Hasim Sican"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":323777,
+    "qs:gn_namadm1":"07",
+    "qs:gn_name":"Ha\u015fim \u0130\u015fcan",
+    "qs:local_max":1873,
+    "qs:local_sum":6541,
+    "qs:localhoods":23,
+    "qs:name":"Hasim Sican",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Antalya",
+    "qs:name_adm2":"Merkez",
+    "qs:name_local":"Antalya",
+    "qs:photo_max":8,
+    "qs:photo_sum":16,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":3,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347264,
+    "qs:woe_adm2":29390627,
+    "qs:woe_lau":0,
+    "qs:woe_local":2343733,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        85679263,
+        102191569,
+        85632393,
+        101912923,
+        1108709753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8073940,
+        "gp:id":55871174,
+        "qs_pg:id":1115476
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"ed6cf9ded4409b482944b6dfc36094c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709753,
+            "locality_id":101912923,
+            "neighbourhood_id":85930085,
+            "region_id":85679263
+        }
+    ],
+    "wof:id":85930085,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343859,
+    "wof:name":"Hasim Sican",
+    "wof:parent_id":101912923,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.710263,
+    36.882332,
+    30.710263,
+    36.882332
+],
+  "geometry": {"coordinates":[30.710263,36.882332],"type":"Point"}
+}

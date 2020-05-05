@@ -1,0 +1,116 @@
+{
+  "id": 85906541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000008,
+    "geom:area_square_m":74532.11129,
+    "geom:bbox":"28.9704085821,41.0310011768,28.9750671387,41.0343161014",
+    "geom:latitude":41.032604,
+    "geom:longitude":28.97276,
+    "gn:id":"",
+    "iso:country":"TU",
+    "lbl:latitude":41.031684,
+    "lbl:longitude":28.971421,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.032328,
+    "mps:longitude":28.972795,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":17.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Catma Mescit"
+    ],
+    "name:eng_x_preferred":[
+        "\u00c7atma Mescit"
+    ],
+    "name:tur_x_preferred":[
+        "\u00c7atma Mescit"
+    ],
+    "name:tur_x_variant":[
+        "\u00c7atmamescit"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"\u00c7atma Mescit",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Beyo\u011flu",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":88,
+    "qs:photo_sum":190,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":6,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390154,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mz",
+    "wof:belongsto":[
+        85679237,
+        102191569,
+        85632393,
+        101913185,
+        890461447
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724076,
+        "qs_pg:id":14471
+    },
+    "wof:country":"TU",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"170a82bd990cf20a37ef986a1afdabfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890461447,
+            "locality_id":101913185,
+            "neighbourhood_id":85906541,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85906541,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1582343860,
+    "wof:name":"Catma Mescit",
+    "wof:parent_id":101913185,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.97040858211676,
+    41.03100117675662,
+    28.97506713870001,
+    41.03431610144976
+],
+  "geometry": {"coordinates":[[[28.97330980122376,41.03429625878262],[28.97369384768558,41.03378713283766],[28.97506713870001,41.03378713295018],[28.97506713870001,41.0331082777932],[28.97506713870001,41.03275122270007],[28.9743804932001,41.03275122270007],[28.9743804932001,41.03223325973076],[28.97369384770008,41.0322332595707],[28.97369384770008,41.03171529380008],[28.97342450599041,41.03171529333049],[28.97308782308016,41.03126896705349],[28.97232055662516,41.03160800691475],[28.97094726561687,41.03100117675662],[28.97040858211676,41.03171527750041],[28.97064729110917,41.0326646344508],[28.9709472656001,41.03274416806684],[28.9709472656001,41.03275122270007],[28.97097387334304,41.03275122270007],[28.97114219683249,41.03279585108071],[28.97137785059488,41.03275122270007],[28.97178187758254,41.03275122270247],[28.97197723388558,41.03301020216897],[28.97232055660004,41.03301020216533],[28.97232055660004,41.03378713440085],[28.97258989531343,41.03378713429996],[28.97265390233292,41.03404169224827],[28.97327487660118,41.03431610144976],[28.97330980122376,41.03429625878262]]],"type":"Polygon"}
+}
