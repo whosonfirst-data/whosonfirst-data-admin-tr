@@ -1,0 +1,107 @@
+{
+  "id": 85934771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.511046,39.777877,30.511046,39.777877",
+    "geom:latitude":39.777877,
+    "geom:longitude":30.511046,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:bbox":"30.506046,39.772877,30.516046,39.782877",
+    "lbl:latitude":39.777877,
+    "lbl:longitude":30.511046,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":39.778807,
+    "mps:longitude":30.509639,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":1,
+    "name:und_x_variant":[
+        "Hosnudiye"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":315202,
+    "qs:local_max":228,
+    "qs:local_sum":472,
+    "qs:localhoods":5,
+    "qs:name":"Hosnudiye",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"Eski\u015fehir",
+    "qs:name_adm2":"Merkez",
+    "qs:name_local":"Eski\u015fehir",
+    "qs:photo_max":26,
+    "qs:photo_sum":65,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":8,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347283,
+    "qs:woe_adm2":29390626,
+    "qs:woe_lau":0,
+    "qs:woe_local":2343980,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        1108709773,
+        101912871,
+        85679255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56043396,
+        "qs_pg:id":483012
+    },
+    "wof:country":"TR",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"7af3e1bb6262fbce0f989d55ed1e25d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709773,
+            "locality_id":101912871,
+            "neighbourhood_id":85934771,
+            "region_id":85679255
+        }
+    ],
+    "wof:id":85934771,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1588718980,
+    "wof:name":"Hosnudiye",
+    "wof:parent_id":101912871,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.511046,
+    39.777877,
+    30.511046,
+    39.777877
+],
+  "geometry": {"coordinates":[30.511046,39.777877],"type":"Point"}
+}

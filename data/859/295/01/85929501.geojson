@@ -1,0 +1,111 @@
+{
+  "id": 85929501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000224,
+    "geom:area_square_m":2086743.660783,
+    "geom:bbox":"29.056091,41.037533,29.077078,41.058288",
+    "geom:latitude":41.048841,
+    "geom:longitude":29.067197,
+    "gn:id":"",
+    "iso:country":"TR",
+    "lbl:latitude":41.04896,
+    "lbl:longitude":29.053239,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":41.050214,
+    "mps:longitude":29.068071,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":1,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"tram stop",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Havuzbasi"
+    ],
+    "name:und_x_variant":[
+        "Havuzba\u015f\u0131"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_id":0,
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Havuzba\u015f\u0131",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"\u00dcsk\u00fcdar",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":32,
+    "qs:photo_sum":39,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":2,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390845,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462769,
+        101912541,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55865076,
+        "qs_pg:id":1136140
+    },
+    "wof:country":"TR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"7d6debf6020cf1396a6bd55486d7d250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912541,
+            "neighbourhood_id":85929501,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85929501,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1588718979,
+    "wof:name":"Havuzba\u015f\u0131",
+    "wof:parent_id":101912541,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.056091,
+    41.037533,
+    29.077078,
+    41.058288
+],
+  "geometry": {"coordinates":[[[29.067078,41.058288],[29.069029,41.058096],[29.070904,41.057527],[29.072633,41.056603],[29.074149,41.055359],[29.075392,41.053844],[29.076316,41.052115],[29.076885,41.050239],[29.077078,41.048288],[29.076885,41.046337],[29.076316,41.044461],[29.076147,41.044145],[29.063108,41.044145],[29.062069,41.04093],[29.056091,41.037533],[29.056091,41.042074],[29.056091,41.044145],[29.056091,41.045517],[29.058731,41.046217],[29.058838,41.046245],[29.061584,41.046974],[29.061584,41.050359],[29.063146,41.054502],[29.065932,41.058195],[29.065933,41.058175],[29.067078,41.058288]]],"type":"Polygon"}
+}

@@ -1,0 +1,123 @@
+{
+  "id": 101911157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000105,
+    "geom:area_square_m":968700.990788,
+    "geom:bbox":"28.087595,41.623392,28.103755,41.638689",
+    "geom:latitude":41.631941,
+    "geom:longitude":28.095145,
+    "iso:country":"TR",
+    "lbl:latitude":41.634879,
+    "lbl:longitude":28.095696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mps:latitude":41.634879,
+    "mps:longitude":28.095696,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0434\u0438\u044f"
+    ],
+    "name:deu_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:eng_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:fra_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e6\u30ad\u30e7\u30a4"
+    ],
+    "name:msa_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u044b\u0439\u044b\u043a\u0451\u0439"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u0438\u0434\u0438\u044f"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0438\u0434\u0438\u0458\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:und_x_variant":[
+        "Salmydessus"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "qs:a0":"Turkey",
+    "qs:a1":"*",
+    "qs:a1r":"0",
+    "qs:adm0":"Turkey",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"K\u0131y\u0131k\u00f6y",
+    "qs:pop":0,
+    "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
+    "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"mapshaper",
+    "wd:wordcount":768,
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460583,
+        85679219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":743093,
+        "gp:id":2344200,
+        "qs_pg:id":1134815,
+        "wd:id":"Q1797525",
+        "wk:page":"K\u0131y\u0131k\u00f6y"
+    },
+    "wof:country":"TR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"26deff89768039c89a55d8702d53e7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460583,
+            "locality_id":101911157,
+            "region_id":85679219
+        }
+    ],
+    "wof:id":101911157,
+    "wof:lastmodified":1588718980,
+    "wof:name":"K\u0131y\u0131k\u00f6y",
+    "wof:parent_id":890460583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.087595,
+    41.623392,
+    28.103755,
+    41.638689
+],
+  "geometry": {"coordinates":[[[28.098052,41.638044],[28.097788,41.637169],[28.098959,41.636954],[28.09843,41.635205],[28.099601,41.63499],[28.099337,41.634115],[28.102848,41.633469],[28.102584,41.632595],[28.103755,41.632379],[28.102169,41.627132],[28.099828,41.627563],[28.100092,41.628438],[28.098922,41.628653],[28.099186,41.629527],[28.098016,41.629743],[28.09828,41.630617],[28.097109,41.630832],[28.097373,41.631707],[28.092691,41.632568],[28.091371,41.628195],[28.092541,41.62798],[28.092277,41.627106],[28.093448,41.62689],[28.092391,41.623392],[28.091221,41.623607],[28.091485,41.624482],[28.090315,41.624697],[28.090579,41.625572],[28.089408,41.625787],[28.089672,41.626661],[28.088502,41.626877],[28.088766,41.627751],[28.087595,41.627966],[28.088915,41.632339],[28.087745,41.632554],[28.088009,41.633429],[28.089179,41.633213],[28.089708,41.634963],[28.090878,41.634747],[28.091142,41.635622],[28.092313,41.635407],[28.093105,41.63803],[28.094276,41.637815],[28.09454,41.638689],[28.098052,41.638044]]],"type":"Polygon"}
+}

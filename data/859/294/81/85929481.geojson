@@ -1,0 +1,120 @@
+{
+  "id": 85929481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000079,
+    "geom:area_square_m":741208.191949,
+    "geom:bbox":"29.013815,40.984045,29.026283,40.993052",
+    "geom:latitude":40.988286,
+    "geom:longitude":29.019538,
+    "gn:latitude":40.98871,
+    "gn:longitude":29.02356,
+    "iso:country":"TR",
+    "lbl:latitude":40.98581,
+    "lbl:longitude":29.024251,
+    "lbl:max_zoom":18.0,
+    "mps:latitude":40.988787,
+    "mps:longitude":29.018172,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:eng_x_colloquial":[
+        "Caferaga"
+    ],
+    "name:ota_x_preferred":[
+        "\u062c\u0639\u0641\u0631 \u0627\u063a\u0627"
+    ],
+    "name:tur_x_preferred":[
+        "Cafera\u011fa"
+    ],
+    "name:tur_x_variant":[
+        "Cafer A\u011fa",
+        "Cafera\u011fa Spor Salonu"
+    ],
+    "qs:gn_adm0_cc":"TR",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":745044,
+    "qs:gn_nam_loc":"Istanbul",
+    "qs:gn_namadm1":"34",
+    "qs:gn_name":"Cafera\u011fa",
+    "qs:local_max":25694,
+    "qs:local_sum":188217,
+    "qs:localhoods":233,
+    "qs:name":"Cafera\u011fa",
+    "qs:name_adm0":"Turkey",
+    "qs:name_adm1":"\u0130stanbul",
+    "qs:name_adm2":"Kad\u0131k\u00f6y",
+    "qs:name_local":"\u0130stanbul",
+    "qs:photo_max":193,
+    "qs:photo_sum":638,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":19,
+    "qs:woe_adm0":23424969,
+    "qs:woe_adm1":2347289,
+    "qs:woe_adm2":29390440,
+    "qs:woe_lau":0,
+    "qs:woe_local":2344116,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890462769,
+        101912675,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6698150,
+        "gp:id":55865060,
+        "qs_pg:id":222163
+    },
+    "wof:country":"TR",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "wof:geomhash":"86258612108d0cb963156db320a88c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462769,
+            "locality_id":101912675,
+            "neighbourhood_id":85929481,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":85929481,
+    "wof:lang":[
+        "unk"
+    ],
+    "wof:lastmodified":1588718979,
+    "wof:name":"Cafera\u011fa",
+    "wof:parent_id":101912675,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.013815,
+    40.984045,
+    29.026283,
+    40.993052
+],
+  "geometry": {"coordinates":[[[29.017639,40.993052],[29.019012,40.992445],[29.019982,40.992873],[29.020116,40.992338],[29.020386,40.992338],[29.020386,40.991301],[29.021759,40.991301],[29.023132,40.991301],[29.023132,40.990944],[29.023132,40.990265],[29.025879,40.990265],[29.025879,40.988192],[29.025879,40.987155],[29.025879,40.986118],[29.026283,40.985583],[29.026157,40.985082],[29.025879,40.985082],[29.024506,40.985082],[29.023132,40.985082],[29.022854,40.985082],[29.022593,40.986118],[29.020386,40.986118],[29.020386,40.984045],[29.019308,40.984045],[29.019308,40.984045],[29.014893,40.984045],[29.014893,40.984045],[29.014893,40.986764],[29.013815,40.988191],[29.014336,40.990265],[29.014084,40.991267],[29.014893,40.992338],[29.0171,40.992338],[29.017639,40.993052]]],"type":"Polygon"}
+}
