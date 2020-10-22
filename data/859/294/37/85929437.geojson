@@ -9,7 +9,6 @@
     "geom:bbox":"29.04155,40.977825,29.064331,40.992338",
     "geom:latitude":40.984128,
     "geom:longitude":29.05253,
-    "gn:id":"",
     "iso:country":"TR",
     "lbl:latitude":40.981417,
     "lbl:longitude":29.048959,
@@ -111,11 +110,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462769,
         101912677,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -139,10 +138,7 @@
         }
     ],
     "wof:id":85929437,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1588718979,
+    "wof:lastmodified":1603254638,
     "wof:name":"Feneryolu",
     "wof:parent_id":101912677,
     "wof:placetype":"neighbourhood",

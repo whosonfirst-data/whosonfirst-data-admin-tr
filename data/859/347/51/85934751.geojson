@@ -9,7 +9,6 @@
     "geom:bbox":"30.502879,39.789862,30.502879,39.789862",
     "geom:latitude":39.789862,
     "geom:longitude":30.502879,
-    "gn:id":"",
     "iso:country":"TR",
     "lbl:bbox":"30.497879,39.784862,30.507879,39.794862",
     "lbl:latitude":39.789862,
@@ -57,11 +56,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679255,
         102191569,
         85632393,
-        1108709923,
         101912873,
-        85679255
+        1108709923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85934751,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1588718980,
+    "wof:lastmodified":1603254640,
     "wof:name":"Yenibaglar",
     "wof:parent_id":101912873,
     "wof:placetype":"neighbourhood",

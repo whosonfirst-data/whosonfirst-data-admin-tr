@@ -9,7 +9,6 @@
     "geom:bbox":"29.091474,40.977964,29.132009,41.009593",
     "geom:latitude":40.994433,
     "geom:longitude":29.111166,
-    "gn:id":"",
     "iso:country":"TR",
     "lbl:latitude":40.990001,
     "lbl:longitude":29.103124,
@@ -108,11 +107,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709303,
         101912637,
-        85679237
+        1108709303
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -136,10 +135,7 @@
         }
     ],
     "wof:id":85930023,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1588718978,
+    "wof:lastmodified":1603254633,
     "wof:name":"Barbaros",
     "wof:parent_id":101912637,
     "wof:placetype":"neighbourhood",

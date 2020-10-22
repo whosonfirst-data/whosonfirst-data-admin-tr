@@ -9,7 +9,6 @@
     "geom:bbox":"32.756545,39.877505,32.756545,39.877505",
     "geom:latitude":39.877505,
     "geom:longitude":32.756545,
-    "gn:id":"",
     "iso:country":"TR",
     "lbl:bbox":"32.751545,39.872505,32.761545,39.882505",
     "lbl:latitude":39.877505,
@@ -58,10 +57,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679409,
         102191569,
         85632393,
-        890462517,
-        85679409
+        890462517
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,10 +83,7 @@
         }
     ],
     "wof:id":85929671,
-    "wof:lang":[
-        "eng"
-    ],
-    "wof:lastmodified":1588718980,
+    "wof:lastmodified":1603254643,
     "wof:name":"Ortadogu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

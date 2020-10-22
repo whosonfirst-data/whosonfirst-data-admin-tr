@@ -9,7 +9,6 @@
     "geom:bbox":"30.511046,39.777877,30.511046,39.777877",
     "geom:latitude":39.777877,
     "geom:longitude":30.511046,
-    "gn:id":"",
     "iso:country":"TR",
     "lbl:bbox":"30.506046,39.772877,30.516046,39.782877",
     "lbl:latitude":39.777877,
@@ -57,11 +56,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85679255,
         102191569,
         85632393,
-        1108709773,
         101912871,
-        85679255
+        1108709773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,10 +84,7 @@
         }
     ],
     "wof:id":85934771,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1588718980,
+    "wof:lastmodified":1603254640,
     "wof:name":"Hosnudiye",
     "wof:parent_id":101912871,
     "wof:placetype":"neighbourhood",

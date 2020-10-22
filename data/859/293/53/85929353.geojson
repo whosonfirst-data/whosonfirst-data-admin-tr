@@ -9,7 +9,6 @@
     "geom:bbox":"29.025879,40.996484,29.0464,41.008921",
     "geom:latitude":41.003185,
     "geom:longitude":29.035588,
-    "gn:id":"",
     "iso:country":"TR",
     "lbl:latitude":41.007156,
     "lbl:longitude":29.034495,
@@ -114,11 +113,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462769,
         101912675,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,10 +141,7 @@
         }
     ],
     "wof:id":85929353,
-    "wof:lang":[
-        "unk"
-    ],
-    "wof:lastmodified":1588718979,
+    "wof:lastmodified":1603254639,
     "wof:name":"Ko\u015fuyolu",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
