@@ -18,8 +18,8 @@
     "lbl:max_zoom":12.0,
     "lbl:min_zoom":2.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:min_zoom":2.0,
+    "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "name:abk_x_preferred":[
         "\u0410\u0441\u04ad\u0430\u043c\u043f\u044b\u043b"
     ],
@@ -42,10 +42,10 @@
         "Constantinopolis"
     ],
     "name:ara_x_preferred":[
-        "\u0627\u0633\u0637\u0646\u0628\u0648\u0644"
+        "\u0625\u0633\u0637\u0646\u0628\u0648\u0644"
     ],
     "name:ara_x_variant":[
-        "\u0625\u0633\u0637\u0646\u0628\u0648\u0644"
+        "\u0627\u0633\u0637\u0646\u0628\u0648\u0644"
     ],
     "name:arc_x_preferred":[
         "\u0710\u071d\u0723\u071b\u0722\u0712\u0718\u0720"
@@ -159,10 +159,10 @@
         "Byzantion"
     ],
     "name:deu_x_preferred":[
-        "Byzantion"
+        "Istanbul"
     ],
     "name:deu_x_variant":[
-        "Istanbul"
+        "Byzantion"
     ],
     "name:diq_x_preferred":[
         "Estanbol"
@@ -177,15 +177,15 @@
         "\u0392\u03c5\u03b6\u03ac\u03bd\u03c4\u03b9\u03bf"
     ],
     "name:ell_x_preferred":[
-        "\u0392\u03c5\u03b6\u03ac\u03bd\u03c4\u03b9\u03bf"
+        "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7"
     ],
     "name:ell_x_variant":[
-        "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7",
         "\u0399\u03c3\u03c4\u03b1\u03bc\u03c0\u03bf\u03cd\u03bb",
         "\u0392\u03c5\u03b6\u03b1\u03bd\u03c4\u03b9\u03bf",
         "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03b9\u03bd\u03bf\u03c5\u03c0\u03bf\u03bb\u03b7",
         "\u0399\u03c3\u03c4\u03b1\u03bc\u03c0\u03bf\u03c5\u03bb",
-        "\u03c3\u03c4\u03b7\u03bd \u03a0\u03cc\u03bb\u03b9 [stim\u02c8boli]"
+        "\u03c3\u03c4\u03b7\u03bd \u03a0\u03cc\u03bb\u03b9 [stim\u02c8boli]",
+        "\u0392\u03c5\u03b6\u03ac\u03bd\u03c4\u03b9\u03bf"
     ],
     "name:eng_ca_x_preferred":[
         "Istanbul"
@@ -236,10 +236,10 @@
         "Byzance"
     ],
     "name:fra_x_preferred":[
-        "Byzance"
+        "Istanbul"
     ],
     "name:fra_x_variant":[
-        "Istanbul"
+        "Byzance"
     ],
     "name:frp_x_preferred":[
         "Istanbul"
@@ -314,11 +314,11 @@
         "Istanbul"
     ],
     "name:hun_x_preferred":[
-        "Biz\u00e1nc"
+        "Isztambul"
     ],
     "name:hun_x_variant":[
         "Konstantin\u00e1poly",
-        "Isztambul"
+        "Biz\u00e1nc"
     ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u0574\u0562\u0578\u0582\u056c"
@@ -360,10 +360,10 @@
         "Istanbul"
     ],
     "name:jpn_x_preferred":[
-        "\u30d3\u30e5\u30b6\u30f3\u30c6\u30a3\u30aa\u30f3"
+        "\u30a4\u30b9\u30bf\u30f3\u30d6\u30fc\u30eb"
     ],
     "name:jpn_x_variant":[
-        "\u30a4\u30b9\u30bf\u30f3\u30d6\u30fc\u30eb"
+        "\u30d3\u30e5\u30b6\u30f3\u30c6\u30a3\u30aa\u30f3"
     ],
     "name:kaa_x_preferred":[
         "\u0130stanbul"
@@ -402,10 +402,10 @@
         "\u0421\u0442\u0430\u043c\u0431\u0443\u043b"
     ],
     "name:kor_x_preferred":[
-        "\ube44\uc794\ud2f0\uc6c0"
+        "\uc774\uc2a4\ud0c4\ubd88"
     ],
     "name:kor_x_variant":[
-        "\uc774\uc2a4\ud0c4\ubd88"
+        "\ube44\uc794\ud2f0\uc6c0"
     ],
     "name:krc_x_preferred":[
         "\u0421\u0442\u0430\u043c\u043f\u0443\u043b"
@@ -528,11 +528,11 @@
         "Constantinopolen"
     ],
     "name:nld_x_preferred":[
-        "Istanbul"
+        "Istanboel"
     ],
     "name:nld_x_variant":[
         "Constantinopolen",
-        "Istanboel"
+        "Istanbul"
     ],
     "name:nno_x_preferred":[
         "Istanbul"
@@ -652,10 +652,10 @@
         "Istanbuul"
     ],
     "name:spa_x_preferred":[
-        "Constantinopla"
+        "Estambul"
     ],
     "name:spa_x_variant":[
-        "Estambul"
+        "Constantinopla"
     ],
     "name:sqi_x_preferred":[
         "Stambolli"
@@ -673,12 +673,12 @@
         "Konstantinopel"
     ],
     "name:swe_x_preferred":[
-        "Byzantion"
+        "Istanbul"
     ],
     "name:swe_x_variant":[
-        "Istanbul",
         "Micklag\u00e5rd",
-        "Konstantinopel"
+        "Konstantinopel",
+        "Byzantion"
     ],
     "name:szl_x_preferred":[
         "Stambu\u0142"
@@ -904,6 +904,7 @@
     "wof:concordances":{
         "gn:id":745044,
         "gp:id":2344116,
+        "ne:id":1159151579,
         "qs_pg:id":273825,
         "wd:id":"Q406",
         "wk:page":"Istanbul"
@@ -921,7 +922,7 @@
         }
     ],
     "wof:id":890460455,
-    "wof:lastmodified":1608675987,
+    "wof:lastmodified":1608678405,
     "wof:megacity":1,
     "wof:name":"Istanbul",
     "wof:parent_id":1108709503,
