@@ -887,7 +887,10 @@
     "qs:photos_sr":11,
     "qs:placetype":"Town",
     "qs:pop_sr":"14",
-    "src:geom":"unknown",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
     "src:population":"wk",
     "wd:elevation":100.0,
     "wd:latitude":"41.01",
@@ -914,6 +917,9 @@
     ],
     "wof:country":"TR",
     "wof:created":1469053315,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"61219be2e013abfa206cc11671b0d34a",
     "wof:hierarchy":[
         {
@@ -925,7 +931,7 @@
         }
     ],
     "wof:id":890460455,
-    "wof:lastmodified":1610061162,
+    "wof:lastmodified":1610062484,
     "wof:megacity":1,
     "wof:name":"Istanbul",
     "wof:parent_id":1108709503,
