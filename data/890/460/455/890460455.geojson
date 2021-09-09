@@ -110,10 +110,10 @@
         "Constantinoble"
     ],
     "name:cat_x_preferred":[
-        "Constantinoble"
+        "Istanbul"
     ],
     "name:cat_x_variant":[
-        "Istanbul"
+        "Constantinoble"
     ],
     "name:cdo_x_preferred":[
         "Istanbul"
@@ -121,11 +121,14 @@
     "name:ceb_x_preferred":[
         "\u0130stanbul"
     ],
-    "name:ces_x_preferred":[
+    "name:ces_x_historical":[
         "Byzantion"
     ],
-    "name:ces_x_variant":[
+    "name:ces_x_preferred":[
         "Istanbul"
+    ],
+    "name:ces_x_variant":[
+        "Byzantion"
     ],
     "name:che_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0431\u0443\u043b"
@@ -158,10 +161,10 @@
         "Byzantion"
     ],
     "name:deu_x_preferred":[
-        "Byzantion"
+        "Istanbul"
     ],
     "name:deu_x_variant":[
-        "Istanbul"
+        "Byzantion"
     ],
     "name:diq_x_preferred":[
         "Estanbol"
@@ -225,20 +228,23 @@
     "name:fij_x_preferred":[
         "Istanbul"
     ],
-    "name:fin_x_preferred":[
+    "name:fin_x_historical":[
         "Byzantion"
     ],
-    "name:fin_x_variant":[
+    "name:fin_x_preferred":[
         "Istanbul"
+    ],
+    "name:fin_x_variant":[
+        "Byzantion"
     ],
     "name:fra_x_historical":[
         "Byzance"
     ],
     "name:fra_x_preferred":[
-        "Byzance"
+        "Istanbul"
     ],
     "name:fra_x_variant":[
-        "Istanbul"
+        "Byzance"
     ],
     "name:frp_x_preferred":[
         "Istanbul"
@@ -294,11 +300,14 @@
     "name:hau_x_preferred":[
         "Istanbul"
     ],
-    "name:heb_x_preferred":[
+    "name:heb_x_historical":[
         "\u05d1\u05d9\u05d6\u05e0\u05d8\u05d9\u05d5\u05df"
     ],
-    "name:heb_x_variant":[
+    "name:heb_x_preferred":[
         "\u05d0\u05d9\u05e1\u05d8\u05e0\u05d1\u05d5\u05dc"
+    ],
+    "name:heb_x_variant":[
+        "\u05d1\u05d9\u05d6\u05e0\u05d8\u05d9\u05d5\u05df"
     ],
     "name:hif_x_preferred":[
         "Istanbul"
@@ -312,12 +321,16 @@
     "name:hsb_x_preferred":[
         "Istanbul"
     ],
-    "name:hun_x_preferred":[
+    "name:hun_x_historical":[
+        "Konstantin\u00e1poly",
         "Biz\u00e1nc"
+    ],
+    "name:hun_x_preferred":[
+        "Isztambul"
     ],
     "name:hun_x_variant":[
         "Konstantin\u00e1poly",
-        "Isztambul"
+        "Biz\u00e1nc"
     ],
     "name:hye_x_preferred":[
         "\u054d\u057f\u0561\u0574\u0562\u0578\u0582\u056c"
@@ -358,11 +371,14 @@
     "name:jav_x_preferred":[
         "Istanbul"
     ],
-    "name:jpn_x_preferred":[
+    "name:jpn_x_historical":[
         "\u30d3\u30e5\u30b6\u30f3\u30c6\u30a3\u30aa\u30f3"
     ],
-    "name:jpn_x_variant":[
+    "name:jpn_x_preferred":[
         "\u30a4\u30b9\u30bf\u30f3\u30d6\u30fc\u30eb"
+    ],
+    "name:jpn_x_variant":[
+        "\u30d3\u30e5\u30b6\u30f3\u30c6\u30a3\u30aa\u30f3"
     ],
     "name:kaa_x_preferred":[
         "\u0130stanbul"
@@ -400,11 +416,14 @@
     "name:kir_x_preferred":[
         "\u0421\u0442\u0430\u043c\u0431\u0443\u043b"
     ],
-    "name:kor_x_preferred":[
+    "name:kor_x_historical":[
         "\ube44\uc794\ud2f0\uc6c0"
     ],
-    "name:kor_x_variant":[
+    "name:kor_x_preferred":[
         "\uc774\uc2a4\ud0c4\ubd88"
+    ],
+    "name:kor_x_variant":[
+        "\ube44\uc794\ud2f0\uc6c0"
     ],
     "name:krc_x_preferred":[
         "\u0421\u0442\u0430\u043c\u043f\u0443\u043b"
@@ -475,11 +494,14 @@
     "name:min_x_preferred":[
         "Istanbul"
     ],
-    "name:mkd_x_preferred":[
+    "name:mkd_x_historical":[
         "\u0412\u0438\u0437\u0430\u043d\u0442\u0438\u0458\u0430 (Vizantija)"
     ],
-    "name:mkd_x_variant":[
+    "name:mkd_x_preferred":[
         "\u0418\u0441\u0442\u0430\u043d\u0431\u0443\u043b"
+    ],
+    "name:mkd_x_variant":[
+        "\u0412\u0438\u0437\u0430\u043d\u0442\u0438\u0458\u0430 (Vizantija)"
     ],
     "name:mlg_x_preferred":[
         "Istanbul"
@@ -511,11 +533,14 @@
     "name:nau_x_preferred":[
         "Istanbul"
     ],
-    "name:nds_x_preferred":[
+    "name:nds_x_historical":[
         "Byzanz"
     ],
-    "name:nds_x_variant":[
+    "name:nds_x_preferred":[
         "Istanbul"
+    ],
+    "name:nds_x_variant":[
+        "Byzanz"
     ],
     "name:nep_x_preferred":[
         "\u0907\u0938\u094d\u0924\u093e\u0928\u092c\u0941\u0932"
@@ -584,11 +609,14 @@
     "name:pnb_x_preferred":[
         "\u0627\u0633\u062a\u0645\u0628\u0648\u0644"
     ],
-    "name:pol_x_preferred":[
+    "name:pol_x_historical":[
         "Stambu\u0142"
     ],
-    "name:pol_x_variant":[
+    "name:pol_x_preferred":[
         "Istambu\u0142"
+    ],
+    "name:pol_x_variant":[
+        "Stambu\u0142"
     ],
     "name:por_br_x_preferred":[
         "Istambul"
@@ -632,11 +660,14 @@
     "name:sin_x_preferred":[
         "\u0d89\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dca\u0db6\u0dd4\u0dbd\u0dca"
     ],
-    "name:slk_x_preferred":[
+    "name:slk_x_historical":[
         "Byzantion"
     ],
-    "name:slk_x_variant":[
+    "name:slk_x_preferred":[
         "Istanbul"
+    ],
+    "name:slk_x_variant":[
+        "Byzantion"
     ],
     "name:slv_x_preferred":[
         "Istanbul"
@@ -650,11 +681,14 @@
     "name:som_x_preferred":[
         "Istanbuul"
     ],
-    "name:spa_x_preferred":[
+    "name:spa_x_historical":[
         "Constantinopla"
     ],
-    "name:spa_x_variant":[
+    "name:spa_x_preferred":[
         "Estambul"
+    ],
+    "name:spa_x_variant":[
+        "Constantinopla"
     ],
     "name:sqi_x_preferred":[
         "Stambolli"
@@ -669,13 +703,14 @@
         "Istanbul"
     ],
     "name:swe_x_historical":[
-        "Konstantinopel"
-    ],
-    "name:swe_x_preferred":[
+        "Konstantinopel",
         "Byzantion"
     ],
+    "name:swe_x_preferred":[
+        "Istanbul"
+    ],
     "name:swe_x_variant":[
-        "Istanbul",
+        "Byzantion",
         "Micklag\u00e5rd",
         "Konstantinopel"
     ],
@@ -931,7 +966,7 @@
         }
     ],
     "wof:id":890460455,
-    "wof:lastmodified":1610062484,
+    "wof:lastmodified":1631139625,
     "wof:megacity":1,
     "wof:name":"Istanbul",
     "wof:parent_id":1108709503,
