@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.01666667,39.42666667,30.01666667,39.42666667",
+    "geom:bbox":"30.016667,39.426667,30.016667,39.426667",
     "geom:latitude":39.426667,
     "geom:longitude":30.016667,
     "iso:country":"TR",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "K\u00fctahya Air Base"
+    ],
+    "name:eng_x_variant":[
+        "LTBN"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30e5\u30bf\u30d2\u30e4\u7a7a\u8ecd\u57fa\u5730"
@@ -53,7 +56,7 @@
         "wd:id":"Q5469363"
     },
     "wof:country":"TR",
-    "wof:geomhash":"a8dab0449f036ef856341044ea5e98db",
+    "wof:geomhash":"e36bc55735e159f84a6ddea59c49fb87",
     "wof:hierarchy":[
         {
             "campus_id":102535937,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102535937,
-    "wof:lastmodified":1566582166,
+    "wof:lastmodified":1631748805,
     "wof:name":"Kutahya Airport",
     "wof:parent_id":85679283,
     "wof:placetype":"campus",
@@ -74,10 +77,10 @@
     ]
 },
   "bbox": [
-    30.01666667,
-    39.42666667,
-    30.01666667,
-    39.42666667
+    30.016667,
+    39.426667,
+    30.016667,
+    39.426667
 ],
-  "geometry": {"coordinates":[30.01666667,39.42666667],"type":"Point"}
+  "geometry": {"coordinates":[30.016667,39.426667],"type":"Point"}
 }

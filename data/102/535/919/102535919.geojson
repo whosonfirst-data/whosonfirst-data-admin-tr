@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"32.5655555556,40.0788888889,32.5655555556,40.0788888889",
+    "geom:bbox":"32.565556,40.078889,32.565556,40.078889",
     "geom:latitude":40.078889,
     "geom:longitude":32.565556,
     "iso:country":"TR",
@@ -21,6 +21,9 @@
     ],
     "name:eng_x_preferred":[
         "Ak\u0131nc\u0131 Air Base"
+    ],
+    "name:eng_x_variant":[
+        "LTAE"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06cc\u06af\u0627\u0647 \u0647\u0648\u0627\u06cc\u06cc \u0627\u06a9\u06cc\u0646\u0686\u06cc"
@@ -68,7 +71,7 @@
         "wd:id":"Q4702112"
     },
     "wof:country":"TR",
-    "wof:geomhash":"d715503f5f3b91b6a065975020ea34c3",
+    "wof:geomhash":"4f439c34bb8af1f6fa9bda9e45df9892",
     "wof:hierarchy":[
         {
             "campus_id":102535919,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":102535919,
-    "wof:lastmodified":1566582166,
+    "wof:lastmodified":1631748806,
     "wof:name":"Murted Airport",
     "wof:parent_id":85679409,
     "wof:placetype":"campus",
@@ -89,10 +92,10 @@
     ]
 },
   "bbox": [
-    32.565555555556,
-    40.078888888889,
-    32.565555555556,
-    40.078888888889
+    32.565556,
+    40.078889,
+    32.565556,
+    40.078889
 ],
-  "geometry": {"coordinates":[32.565555555556,40.078888888889],"type":"Point"}
+  "geometry": {"coordinates":[32.565556,40.078889],"type":"Point"}
 }

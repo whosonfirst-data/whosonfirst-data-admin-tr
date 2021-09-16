@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"39.2913888889,38.6066666667,39.2913888889,38.6066666667",
+    "geom:bbox":"39.291389,38.606667,39.291389,38.606667",
     "geom:latitude":38.606667,
     "geom:longitude":39.291389,
     "iso:country":"TR",
@@ -21,6 +21,10 @@
     ],
     "name:eng_x_preferred":[
         "Elaz\u0131\u011f Airport"
+    ],
+    "name:eng_x_variant":[
+        "EZS",
+        "LTCA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0644\u0627\u0632\u06cc\u063a"
@@ -79,7 +83,7 @@
         "wd:id":"Q1431244"
     },
     "wof:country":"TR",
-    "wof:geomhash":"34898063d9da433e37acae6bfbcb4513",
+    "wof:geomhash":"efbca8cbbcdd2c642d4efa38a7c0cedd",
     "wof:hierarchy":[
         {
             "campus_id":102535841,
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":102535841,
-    "wof:lastmodified":1566582166,
+    "wof:lastmodified":1631748806,
     "wof:name":"Elazig Airport",
     "wof:parent_id":85679299,
     "wof:placetype":"campus",
@@ -100,10 +104,10 @@
     ]
 },
   "bbox": [
-    39.291388888889,
-    38.606666666667,
-    39.291388888889,
-    38.606666666667
+    39.291389,
+    38.606667,
+    39.291389,
+    38.606667
 ],
-  "geometry": {"coordinates":[39.291388888889,38.606666666667],"type":"Point"}
+  "geometry": {"coordinates":[39.291389,38.606667],"type":"Point"}
 }
