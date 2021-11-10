@@ -20,8 +20,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0645\u0627\u0641"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0645\u0627\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09ae\u09be\u09ad"
     ],
     "name:cat_x_preferred":[
         "Simav"
@@ -32,6 +38,9 @@
     "name:deu_x_preferred":[
         "Simav"
     ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b9\u03bc\u03ac\u03b2"
+    ],
     "name:eng_x_preferred":[
         "Simav"
     ],
@@ -41,11 +50,23 @@
     "name:fra_x_preferred":[
         "Simav"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05de\u05d0\u05d1"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u092e\u093e\u0935"
+    ],
     "name:hun_x_preferred":[
+        "Simav"
+    ],
+    "name:ind_x_preferred":[
         "Simav"
     ],
     "name:ita_x_preferred":[
         "Simav"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ub9c8\ube0c"
     ],
     "name:min_x_preferred":[
         "Simav"
@@ -80,6 +101,9 @@
     "name:swa_x_preferred":[
         "Simav"
     ],
+    "name:swe_x_preferred":[
+        "Simav"
+    ],
     "name:tur_x_preferred":[
         "Simav"
     ],
@@ -90,7 +114,16 @@
         "\u0633\u06cc\u0645\u0627\u0648"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Simav"
+    ],
+    "name:vie_x_variant":[
         "Simav"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u9521\u9a6c\u592b\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u99ac\u592b\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u932b\u99ac\u592b"
@@ -131,7 +164,7 @@
         }
     ],
     "wof:id":890460993,
-    "wof:lastmodified":1566586456,
+    "wof:lastmodified":1636499864,
     "wof:name":"Simav",
     "wof:parent_id":1108709885,
     "wof:placetype":"locality",

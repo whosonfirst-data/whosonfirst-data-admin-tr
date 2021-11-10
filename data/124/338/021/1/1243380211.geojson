@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0643\u0633\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u0995\u09cd\u09b8\u09c1"
+    ],
     "name:cat_x_preferred":[
         "Aksu"
     ],
@@ -41,8 +47,20 @@
     "name:deu_x_preferred":[
         "Aksu"
     ],
+    "name:ell_x_preferred":[
+        "\u0386\u03be\u03bf\u03c5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0633\u0648"
+    ],
     "name:fra_x_preferred":[
         "Aksu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e7\u05e1\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0915\u094d\u0938\u0942"
     ],
     "name:hun_x_preferred":[
         "Aksu"
@@ -50,11 +68,17 @@
     "name:hye_x_preferred":[
         "\u0531\u0572\u057d\u0578\u0582"
     ],
+    "name:ind_x_preferred":[
+        "Aksu"
+    ],
     "name:ita_x_preferred":[
         "Aksu"
     ],
     "name:kaz_x_preferred":[
         "\u0410\u049b\u0441\u0443"
+    ],
+    "name:kor_x_preferred":[
+        "\uc545\uc218"
     ],
     "name:lit_x_preferred":[
         "Aksu"
@@ -74,6 +98,9 @@
     "name:pol_x_preferred":[
         "Aksu"
     ],
+    "name:por_x_preferred":[
+        "Aksu"
+    ],
     "name:rus_x_preferred":[
         "\u0410\u043a\u0441\u0443"
     ],
@@ -83,6 +110,7 @@
     "name:spa_x_preferred":[
         "Aksu"
     ],
+    "name:spa_x_variant":[],
     "name:srp_x_preferred":[
         "\u0410\u043a\u0441\u0443"
     ],
@@ -99,6 +127,9 @@
         "Aksu K\u00f6y\u00fc"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng Aksu"
+    ],
+    "name:vie_x_variant":[
         "Aksu"
     ],
     "src:geom":"geonames",
@@ -124,7 +155,7 @@
         }
     ],
     "wof:id":1243380211,
-    "wof:lastmodified":1566586625,
+    "wof:lastmodified":1636499868,
     "wof:name":"Aksu",
     "wof:parent_id":890461655,
     "wof:placetype":"locality",

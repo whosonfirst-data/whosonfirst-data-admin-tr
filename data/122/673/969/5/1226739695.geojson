@@ -51,7 +51,13 @@
         "Sakarya"
     ],
     "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e7\u05e8\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05e7\u05e8\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0915\u093e\u0930\u094d\u092f\u093e"
     ],
     "name:msa_x_preferred":[
         "Sakarya"
@@ -77,6 +83,12 @@
     "name:tur_x_preferred":[
         "Sakarya"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06a9\u0627\u0631\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Sakarya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -89,7 +101,7 @@
         "gn:id":740354
     },
     "wof:country":"TR",
-    "wof:geomhash":"bfb6c4487bc9bf98b59998802dd04c18",
+    "wof:geomhash":"bd1d2980e6c647c3fcacc0f83ff3644c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +112,7 @@
         }
     ],
     "wof:id":1226739695,
-    "wof:lastmodified":1566587649,
+    "wof:lastmodified":1636499875,
     "wof:name":"Sakarya",
     "wof:parent_id":890463477,
     "wof:placetype":"locality",
@@ -111,9 +123,9 @@
 },
   "bbox": [
     42.01679,
-    41.09334000000001,
+    41.09334,
     42.01679,
-    41.09334000000001
+    41.09334
 ],
-  "geometry": {"coordinates":[42.01679,41.09334000000001],"type":"Point"}
+  "geometry": {"coordinates":[42.01679,41.09334],"type":"Point"}
 }

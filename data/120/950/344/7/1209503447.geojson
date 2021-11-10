@@ -33,6 +33,12 @@
     "name:afr_x_preferred":[
         "Mana"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0646\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09a8\u09be"
+    ],
     "name:cat_x_preferred":[
         "Mana"
     ],
@@ -45,6 +51,9 @@
     "name:deu_x_preferred":[
         "Mana"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ac\u03bd\u03b1"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0627\u0646\u0627"
     ],
@@ -54,6 +63,12 @@
     "name:fra_x_preferred":[
         "Mana"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e0\u05e4\u05d5\u05d5\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093e\u0928\u093e"
+    ],
     "name:hun_x_preferred":[
         "Mana"
     ],
@@ -62,6 +77,9 @@
     ],
     "name:ita_x_preferred":[
         "Mana"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub098"
     ],
     "name:lat_x_preferred":[
         "Mana"
@@ -90,7 +108,11 @@
     "name:spa_x_preferred":[
         "Mana"
     ],
+    "name:spa_x_variant":[],
     "name:swe_x_preferred":[
+        "Mana"
+    ],
+    "name:tur_x_preferred":[
         "Mana"
     ],
     "name:ukr_x_preferred":[
@@ -99,6 +121,12 @@
     "name:und_x_variant":[
         "Dervi\u015fbey",
         "Manak\u00f6y"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Mana"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -117,7 +145,7 @@
         }
     ],
     "wof:id":1209503447,
-    "wof:lastmodified":1566584547,
+    "wof:lastmodified":1636499843,
     "wof:name":"Mana",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",

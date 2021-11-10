@@ -29,20 +29,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0644\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c7\u09b2\u09c7\u09a8"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d"
     ],
     "name:ceb_x_preferred":[
         "Belen"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b5\u03bb\u03ad\u03bd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0947\u0932\u0947\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Belen"
+    ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0565\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "Belen"
     ],
     "name:jpn_x_preferred":[
         "\u30d9\u30ec\u30f3"
     ],
     "name:kaz_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca8\ub80c"
     ],
     "name:min_x_preferred":[
         "Belen"
@@ -68,6 +89,12 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0435\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Belen"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -80,7 +107,7 @@
         "gn:id":10350965
     },
     "wof:country":"TR",
-    "wof:geomhash":"9691ead061361396a83d1982eb8294af",
+    "wof:geomhash":"4b18480ad755764ecedba16aa6602595",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +118,7 @@
         }
     ],
     "wof:id":1260355601,
-    "wof:lastmodified":1566585252,
+    "wof:lastmodified":1636499849,
     "wof:name":"Belen",
     "wof:parent_id":890464315,
     "wof:placetype":"locality",
@@ -101,10 +128,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    26.23144000000001,
+    26.23144,
     39.65751,
-    26.23144000000001,
+    26.23144,
     39.65751
 ],
-  "geometry": {"coordinates":[26.23144000000001,39.65751],"type":"Point"}
+  "geometry": {"coordinates":[26.23144,39.65751],"type":"Point"}
 }

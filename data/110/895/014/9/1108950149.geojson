@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9410501884,41.0668522996,28.9410501884,41.0668522996",
+    "geom:bbox":"28.94105,41.066852,28.94105,41.066852",
     "geom:latitude":41.066852,
     "geom:longitude":28.94105,
     "iso:country":"TR",
@@ -45,7 +45,13 @@
         "Sakarya"
     ],
     "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05e7\u05e8\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e1\u05e7\u05e8\u05d9\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0915\u093e\u0930\u094d\u092f\u093e"
     ],
     "name:msa_x_preferred":[
         "Sakarya"
@@ -71,6 +77,12 @@
     "name:tur_x_preferred":[
         "Sakarya"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06a9\u0627\u0631\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Sakarya"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         85679237,
@@ -83,7 +95,7 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368159,
-    "wof:geomhash":"d6b3d88dba00f398a97a5eea6ecaebb1",
+    "wof:geomhash":"5a2f9163bb6dae3e4cc2214e59b53a02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108950149,
-    "wof:lastmodified":1566585276,
+    "wof:lastmodified":1636499849,
     "wof:name":"Sakarya",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -105,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.94105018843678,
-    41.06685229959209,
-    28.94105018843678,
-    41.06685229959209
+    28.94105,
+    41.066852,
+    28.94105,
+    41.066852
 ],
-  "geometry": {"coordinates":[28.94105018843678,41.06685229959209],"type":"Point"}
+  "geometry": {"coordinates":[28.94105,41.066852],"type":"Point"}
 }

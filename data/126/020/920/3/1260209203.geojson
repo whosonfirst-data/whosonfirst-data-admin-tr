@@ -83,6 +83,9 @@
     "name:gag_x_preferred":[
         "Aksaray"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e7\u05e1\u05d0\u05e8\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0915\u094d\u0938\u093e\u0930\u093e\u092f"
     ],
@@ -200,7 +203,7 @@
         "gn:id":10015050
     },
     "wof:country":"TR",
-    "wof:geomhash":"6ef9acb7e52dda39604acabd264b3d6a",
+    "wof:geomhash":"6454b03ad105f032c6675393727629fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -211,7 +214,7 @@
         }
     ],
     "wof:id":1260209203,
-    "wof:lastmodified":1566585188,
+    "wof:lastmodified":1636499848,
     "wof:name":"Aksaray",
     "wof:parent_id":890461585,
     "wof:placetype":"locality",
@@ -221,10 +224,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    38.99312000000001,
+    38.99312,
     40.19035,
-    38.99312000000001,
+    38.99312,
     40.19035
 ],
-  "geometry": {"coordinates":[38.99312000000001,40.19035],"type":"Point"}
+  "geometry": {"coordinates":[38.99312,40.19035],"type":"Point"}
 }

@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05d3\u05d9\u05df"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +44,7 @@
         "gn:id":8143910
     },
     "wof:country":"TR",
-    "wof:geomhash":"a299ff47c9f55f2f87bc8abad8c4f03d",
+    "wof:geomhash":"0afc5087579a8f54fcfacbf7b72cd913",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193161823,
-    "wof:lastmodified":1566585046,
+    "wof:lastmodified":1636499847,
     "wof:name":"Aydin",
     "wof:parent_id":1108709961,
     "wof:placetype":"locality",
@@ -62,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.32162000000001,
+    31.32162,
     40.94121,
-    31.32162000000001,
+    31.32162,
     40.94121
 ],
-  "geometry": {"coordinates":[31.32162000000001,40.94121],"type":"Point"}
+  "geometry": {"coordinates":[31.32162,40.94121],"type":"Point"}
 }

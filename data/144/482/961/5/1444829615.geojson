@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.4137027045,41.1399345534,28.4137027045,41.1399345534",
+    "geom:bbox":"28.413703,41.139935,28.413703,41.139935",
     "geom:latitude":41.139935,
     "geom:longitude":28.413703,
     "iso:country":"TR",
@@ -23,8 +23,14 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_metro":30,
+    "name:ben_x_preferred":[
+        "\u098f\u09b2\u09ac\u09be\u09b8\u09be\u09a8"
+    ],
     "name:eng_x_preferred":[
         "Elbasan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc\u05d1\u05e1\u05d0\u05df"
     ],
     "name:tur_x_preferred":[
         "Elbasan"
@@ -39,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"91e7cb6e504686b63e303d0a0427028e",
+    "wof:geomhash":"753ef9083697b46c67c6b4e5f769b599",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1444829615,
-    "wof:lastmodified":1566584820,
+    "wof:lastmodified":1636499845,
     "wof:name":"Elbasan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.41370270447486,
-    41.13993455343945,
-    28.41370270447486,
-    41.13993455343945
+    28.413703,
+    41.139935,
+    28.413703,
+    41.139935
 ],
-  "geometry": {"coordinates":[28.41370270447486,41.13993455343945],"type":"Point"}
+  "geometry": {"coordinates":[28.413703,41.139935],"type":"Point"}
 }

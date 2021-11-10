@@ -35,13 +35,25 @@
     "name:ceb_x_preferred":[
         "Bida"
     ],
+    "name:deu_x_preferred":[
+        "Bida"
+    ],
     "name:epo_x_preferred":[
         "Bida"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u062f\u0627"
     ],
     "name:fra_x_preferred":[
         "Bida"
     ],
     "name:hau_x_preferred":[
+        "Bida"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Bida"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +98,7 @@
         "gn:id":318992
     },
     "wof:country":"TR",
-    "wof:geomhash":"e3ae14e8ce07cb08b263aa8af9905da1",
+    "wof:geomhash":"f94e42a7b40f46d5f54b75fdf1ba5a24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":1276900091,
-    "wof:lastmodified":1566584202,
+    "wof:lastmodified":1636499841,
     "wof:name":"Bida",
     "wof:parent_id":1108709725,
     "wof:placetype":"locality",
@@ -107,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    41.17574000000001,
+    41.17574,
     37.75181,
-    41.17574000000001,
+    41.17574,
     37.75181
 ],
-  "geometry": {"coordinates":[41.17574000000001,37.75181],"type":"Point"}
+  "geometry": {"coordinates":[41.17574,37.75181],"type":"Point"}
 }

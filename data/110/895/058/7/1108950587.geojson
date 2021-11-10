@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8850719425,40.9945490035,28.8850719425,40.9945490035",
+    "geom:bbox":"28.885072,40.994549,28.885072,40.994549",
     "geom:latitude":40.994549,
     "geom:longitude":28.885072,
     "iso:country":"TR",
@@ -81,6 +81,9 @@
         "Osmaniye"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e1\u05de\u05e0\u05d9\u05d9\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05d5\u05e1\u05de\u05e0\u05d9\u05d4"
     ],
     "name:hun_x_preferred":[
@@ -197,7 +200,7 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368512,
-    "wof:geomhash":"a5413dce33b23e6acdcf0c59eecf7bfd",
+    "wof:geomhash":"c9afcce36abdc9597d129dee83149d57",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -209,7 +212,7 @@
         }
     ],
     "wof:id":1108950587,
-    "wof:lastmodified":1566585315,
+    "wof:lastmodified":1636499850,
     "wof:name":"Osmaniye",
     "wof:parent_id":101912673,
     "wof:placetype":"neighbourhood",
@@ -219,10 +222,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.88507194247844,
-    40.99454900347883,
-    28.88507194247844,
-    40.99454900347883
+    28.885072,
+    40.994549,
+    28.885072,
+    40.994549
 ],
-  "geometry": {"coordinates":[28.88507194247844,40.99454900347883],"type":"Point"}
+  "geometry": {"coordinates":[28.885072,40.994549],"type":"Point"}
 }

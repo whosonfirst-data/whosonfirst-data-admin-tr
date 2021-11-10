@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u099c\u09c7\u09a8"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094b\u091c\u093c\u0947\u0928"
+    ],
     "name:tur_x_preferred":[
         "Bozen"
     ],
@@ -44,7 +50,7 @@
         "gn:id":320645
     },
     "wof:country":"TR",
-    "wof:geomhash":"8425e84590e5987e2b957e0da560f81f",
+    "wof:geomhash":"49ce740c1bda9e34a292285bd3ffbc70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226130823,
-    "wof:lastmodified":1566587904,
+    "wof:lastmodified":1636499876,
     "wof:name":"Bozen",
     "wof:parent_id":890462339,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.82632000000001,
+    27.82632,
     39.48431,
-    27.82632000000001,
+    27.82632,
     39.48431
 ],
-  "geometry": {"coordinates":[27.82632000000001,39.48431],"type":"Point"}
+  "geometry": {"coordinates":[27.82632,39.48431],"type":"Point"}
 }

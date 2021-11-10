@@ -77,6 +77,9 @@
     "name:gag_x_preferred":[
         "Yalova"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05dc\u05d5\u05d1\u05d4"
+    ],
     "name:hye_x_preferred":[
         "\u0545\u0561\u056c\u0578\u057e\u0561"
     ],
@@ -191,7 +194,7 @@
         "gn:id":738026
     },
     "wof:country":"TR",
-    "wof:geomhash":"c6aab9b6d889ad6cea371e0e1e93d5bd",
+    "wof:geomhash":"187489feca17ae482cc6783a55bf54d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -202,7 +205,7 @@
         }
     ],
     "wof:id":1327300241,
-    "wof:lastmodified":1566581551,
+    "wof:lastmodified":1636499812,
     "wof:name":"Yalova",
     "wof:parent_id":1108709471,
     "wof:placetype":"locality",
@@ -213,9 +216,9 @@
 },
   "bbox": [
     26.41445,
-    40.26159000000001,
+    40.26159,
     26.41445,
-    40.26159000000001
+    40.26159
 ],
-  "geometry": {"coordinates":[26.41445,40.26159000000001],"type":"Point"}
+  "geometry": {"coordinates":[26.41445,40.26159],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.2882278846,40.8203051279,29.2882278846,40.8203051279",
+    "geom:bbox":"29.288228,40.820305,29.288228,40.820305",
     "geom:latitude":40.820305,
     "geom:longitude":29.288228,
     "iso:country":"TR",
@@ -26,6 +26,12 @@
     "name:eng_x_preferred":[
         "Tuzla"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05d6\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Tuzla"
+    ],
     "name:tur_x_preferred":[
         "Tuzla"
     ],
@@ -39,7 +45,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"f44ad7fbcd2f6d1dafd80b084aa679c6",
+    "wof:geomhash":"b4fd3f1c754c4d409c3ff7e432222fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1444833359,
-    "wof:lastmodified":1566584847,
+    "wof:lastmodified":1636499845,
     "wof:name":"Tuzla",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -61,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.2882278846395,
-    40.8203051279371,
-    29.2882278846395,
-    40.8203051279371
+    29.288228,
+    40.820305,
+    29.288228,
+    40.820305
 ],
-  "geometry": {"coordinates":[29.2882278846395,40.8203051279371],"type":"Point"}
+  "geometry": {"coordinates":[29.288228,40.820305],"type":"Point"}
 }

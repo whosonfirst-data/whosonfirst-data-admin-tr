@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9807755121,41.0452135192,28.9807755121,41.0452135192",
+    "geom:bbox":"28.980776,41.045214,28.980776,41.045214",
     "geom:latitude":41.045214,
     "geom:longitude":28.980776,
     "iso:country":"TR",
@@ -49,6 +49,9 @@
     ],
     "name:glg_x_preferred":[
         "Eski\u015fehir"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05e7\u05d9\u05e1\u05d4\u05d9"
     ],
     "name:ita_x_preferred":[
         "Eski\u015fehir"
@@ -112,7 +115,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368060,
-    "wof:geomhash":"1381b3ee87ee6690d524b4a57f59012d",
+    "wof:geomhash":"8b232979f4d86f449cca00ca2f1b887b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108950005,
-    "wof:lastmodified":1566585286,
+    "wof:lastmodified":1636499850,
     "wof:name":"Eskisehir",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -134,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.98077551207455,
-    41.045213519203,
-    28.98077551207455,
-    41.045213519203
+    28.980776,
+    41.045214,
+    28.980776,
+    41.045214
 ],
-  "geometry": {"coordinates":[28.98077551207455,41.045213519203],"type":"Point"}
+  "geometry": {"coordinates":[28.980776,41.045214],"type":"Point"}
 }

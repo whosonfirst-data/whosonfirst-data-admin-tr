@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"43.0513150622,39.7198352245,43.0513150622,39.7198352245",
+    "geom:bbox":"43.051315,39.719835,43.051315,39.719835",
     "geom:latitude":39.719835,
     "geom:longitude":43.051315,
     "iso:country":"TR",
@@ -32,6 +32,9 @@
     ],
     "name:epo_x_preferred":[
         "Agri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d2\u05e8\u05d9"
     ],
     "name:ita_x_preferred":[
         "Agri"
@@ -157,7 +160,7 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1499130665,
-    "wof:geomhash":"af5a33786b478f7793b2a4fcc55399d1",
+    "wof:geomhash":"6c850a066e2954748f6247fa8b80ae99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +171,7 @@
         }
     ],
     "wof:id":1141906985,
-    "wof:lastmodified":1566588143,
+    "wof:lastmodified":1636499878,
     "wof:name":"Agri",
     "wof:parent_id":890463323,
     "wof:placetype":"locality",
@@ -178,10 +181,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    43.05131506223415,
-    39.71983522445913,
-    43.05131506223415,
-    39.71983522445913
+    43.051315,
+    39.719835,
+    43.051315,
+    39.719835
 ],
-  "geometry": {"coordinates":[43.05131506223415,39.71983522445913],"type":"Point"}
+  "geometry": {"coordinates":[43.051315,39.719835],"type":"Point"}
 }
