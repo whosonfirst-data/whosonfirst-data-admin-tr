@@ -1,0 +1,81 @@
+{
+  "id": 102535819,
+  "type": "Feature",
+  "properties": {
+    "date:cessation_lower": "2022-02-05",
+    "date:cessation_upper": "2022-02-05",
+    "date:inception_lower": "1953-01-01",
+    "date:inception_upper": "1953-12-31",
+    "edtf:cessation": "2022-02-05",
+    "edtf:inception": "1953",
+    "geom:area": 0.0003807401230000407,
+    "geom:area_square_m": 3554115.276142,
+    "geom:bbox": "28.804714,40.964443,28.833050,40.993309",
+    "geom:latitude": 40.98148784510962,
+    "geom:longitude": 28.819079270458467,
+    "iso:country": "TR",
+    "lbl:latitude": 40.981491,
+    "lbl:longitude": 28.818113,
+    "mps:latitude": 40.981491,
+    "mps:longitude": 28.818113,
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:min_zoom": 13,
+    "name:eng_x_variant": [
+      "ISL",
+      "LTBA"
+    ],
+    "src:geom": "woedb",
+    "src:geom_alt": [],
+    "src:lbl_centroid": "mapshaper",
+    "woe:hierarchy": {
+      "country_id": 23424969,
+      "county_id": 29390124,
+      "planet_id": 1,
+      "state_id": 2347289
+    },
+    "wof:belongsto": [
+      102191569,
+      85632393,
+      85679237,
+      890462833
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": 23388365,
+      "iata:code": "ISL",
+      "icao:code": "LTBA",
+      "wk:id": "Q86473"
+    },
+    "wof:country": "TR",
+    "wof:created": 1656465030,
+    "wof:geomhash": "c84b6ab83be43e80dbaefa456c4e47ca",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102535819,
+        "continent_id": 102191569,
+        "country_id": 85632393,
+        "county_id": 890462833,
+        "region_id": 85679237
+      }
+    ],
+    "wof:id": 102535819,
+    "wof:lastmodified": 1656465078,
+    "wof:name": "Ataturk Hava Limani Airport",
+    "wof:parent_id": -1,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-tr",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "airport"
+    ]
+  },
+  "bbox": [
+    28.804714,
+    40.964443,
+    28.83305,
+    40.993309
+  ],
+  "geometry": {"coordinates":[[[[28.812717,40.986702],[28.815422,40.989811],[28.821505,40.990993],[28.824005,40.993309],[28.827974,40.992641],[28.830667,40.988499],[28.83305,40.98682],[28.830851,40.983299],[28.829498,40.984043],[28.826332,40.983166],[28.82555,40.979897],[28.8305,40.977665],[28.826021,40.977226],[28.825378,40.973934],[28.82336,40.972023],[28.823833,40.967842],[28.827095,40.965252],[28.824949,40.964443],[28.82173,40.965511],[28.82143,40.966873],[28.821194,40.970688],[28.81731,40.97316],[28.815079,40.972252],[28.812531,40.974663],[28.811167,40.975666],[28.808041,40.979481],[28.804714,40.97451],[28.804832,40.980167],[28.806837,40.984821],[28.805937,40.988384],[28.808985,40.986279],[28.812717,40.986702]]]],"type":"MultiPolygon"}
+}
