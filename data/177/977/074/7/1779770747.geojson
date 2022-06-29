@@ -1,0 +1,56 @@
+{
+  "id": 1779770747,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2018-10-29",
+    "date:inception_upper": "2018-10-29",
+    "edtf:cessation": "..",
+    "edtf:inception": "2018-10-29",
+    "geom:area": 0,
+    "geom:bbox": "28.727778,41.262222,28.727778,41.262222",
+    "geom:latitude": 41.262222,
+    "geom:longitude": 28.727778,
+    "mz:is_current": 1,
+    "src:geom": "wikipedia",
+    "wof:belongsto": [
+      102191569,
+      85632393,
+      1108709503,
+      890460455,
+      85679237
+    ],
+    "wof:concordances": {
+      "iata:code": "IST",
+      "icao:code": "LTFM",
+      "wk:id": "Q3661908"
+    },
+    "wof:country": "TR",
+    "wof:created": 1656464023,
+    "wof:geomhash": "6736f8939891773bd2c0ddc414226506",
+    "wof:hierarchy": [
+      {
+        "campus_id": 1779770747,
+        "continent_id": 102191569,
+        "country_id": 85632393,
+        "county_id": 1108709503,
+        "locality_id": 890460455,
+        "region_id": 85679237
+      }
+    ],
+    "wof:id": 1779770747,
+    "wof:lastmodified": 1656464115,
+    "wof:name": "Istanbul Airport",
+    "wof:parent_id": 890460455,
+    "wof:placetype": "campus",
+    "wof:repo": "whosonfirst-data-admin-tr",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    28.727778,
+    41.262222,
+    28.727778,
+    41.262222
+  ],
+  "geometry": {"coordinates":[28.727778,41.262222],"type":"Point"}
+}
