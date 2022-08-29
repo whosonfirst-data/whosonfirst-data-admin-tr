@@ -28,19 +28,24 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
-    "name:und_x_variant":[
-        "Maymuller",
-        "Moymul",
-        "Maymul"
+    "name:eng_x_preferred":[
+        "Moymul"
+    ],
+    "name:eng_x_variant":[
+        "Maymul",
+        "Maymuller"
+    ],
+    "name:tur_x_preferred":[
+        "Moymul"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632393,
-        85679283,
-        890463043
+        890463043,
+        85679283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,8 +63,8 @@
         }
     ],
     "wof:id":1259599721,
-    "wof:lastmodified":1566587444,
-    "wof:name":"Maymul",
+    "wof:lastmodified":1661550371,
+    "wof:name":"Moymul",
     "wof:parent_id":890463043,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
