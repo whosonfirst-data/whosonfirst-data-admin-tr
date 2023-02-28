@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000032,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9909035384,41.055224767,28.9909035384,41.055224767",
-    "geom:latitude":41.055225,
-    "geom:longitude":28.990904,
+    "geom:bbox":"28.986954,41.051752,28.996403,41.057232",
+    "geom:latitude":41.055005,
+    "geom:longitude":28.991116,
     "iso:country":"TR",
-    "lbl:bbox":"28.9859035384,41.050224767,28.9959035384,41.060224767",
-    "lbl:latitude":41.055225,
-    "lbl:longitude":28.990904,
+    "lbl:latitude":41.054851,
+    "lbl:longitude":28.991206,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Mesrutiyet"
+    ],
     "name:tur_x_preferred":[
         "Me\u015frutiyet"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Mesrutiyet"
+    ],
+    "reversegeo:latitude":41.054851,
+    "reversegeo:longitude":28.991206,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -38,7 +49,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368062,
-    "wof:geomhash":"d9596882541ba9066b1619397fdf42f3",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"7cd008672e20707f9b493fccce33d1b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +64,7 @@
         }
     ],
     "wof:id":1108950009,
-    "wof:lastmodified":1566585286,
+    "wof:lastmodified":1677624652,
     "wof:name":"Mesrutiyet",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.99090353841072,
-    41.05522476699999,
-    28.99090353841072,
-    41.05522476699999
+    28.986954,
+    41.051752,
+    28.996403,
+    41.057232
 ],
-  "geometry": {"coordinates":[28.99090353841072,41.05522476699999],"type":"Point"}
+  "geometry": {"coordinates":[[[28.99143,41.051752],[28.990328,41.052661],[28.990223,41.052722],[28.988808,41.053248],[28.987248,41.05372],[28.987232,41.05384],[28.987019,41.055222],[28.987012,41.055309],[28.986959,41.055914],[28.986954,41.056899],[28.986957,41.057051],[28.988988,41.056909],[28.990279,41.056856],[28.99043,41.05695],[28.990663,41.056957],[28.990761,41.057232],[28.991205,41.057225],[28.992262,41.05698],[28.993369,41.056743],[28.994388,41.056641],[28.994919,41.056739],[28.996403,41.056512],[28.995976,41.056129],[28.996035,41.055749],[28.99597,41.055651],[28.994661,41.05446],[28.99143,41.051752]]],"type":"Polygon"}
 }

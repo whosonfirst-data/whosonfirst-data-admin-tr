@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000649,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7200325858,40.9906524083,28.7200325858,40.9906524083",
-    "geom:latitude":40.990652,
-    "geom:longitude":28.720033,
+    "geom:bbox":"28.705755,40.982353,28.756278,41.004809",
+    "geom:latitude":40.992914,
+    "geom:longitude":28.734824,
     "iso:country":"TR",
-    "lbl:bbox":"28.7150325858,40.9856524083,28.7250325858,40.9956524083",
-    "lbl:latitude":40.990652,
-    "lbl:longitude":28.720033,
+    "lbl:latitude":40.992522,
+    "lbl:longitude":28.738651,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Universite"
+    ],
     "name:tur_x_preferred":[
         "\u00dcniversite"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Universite"
+    ],
+    "reversegeo:latitude":40.992522,
+    "reversegeo:longitude":28.738651,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -38,7 +49,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368657,
-    "wof:geomhash":"dd7c6635f84a55bdb8dafe781b694f97",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"e83c5777269b54197d07f07721dbf4be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +64,7 @@
         }
     ],
     "wof:id":1108950809,
-    "wof:lastmodified":1566585296,
+    "wof:lastmodified":1677624654,
     "wof:name":"Universite",
     "wof:parent_id":101912655,
     "wof:placetype":"neighbourhood",
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.72003258577824,
-    40.99065240828561,
-    28.72003258577824,
-    40.99065240828561
+    28.705755,
+    40.982353,
+    28.756278,
+    41.004809
 ],
-  "geometry": {"coordinates":[28.72003258577824,40.99065240828561],"type":"Point"}
+  "geometry": {"coordinates":[[[28.756278,40.985857],[28.738326,40.984095],[28.737242,40.984267],[28.736236,40.984603],[28.735341,40.985016],[28.734559,40.985196],[28.73369,40.98536],[28.732718,40.985506],[28.730825,40.98339],[28.729191,40.983725],[28.727972,40.982353],[28.722486,40.98565],[28.717619,40.988398],[28.713775,40.9906],[28.709884,40.99292],[28.705755,40.995241],[28.711782,41.001125],[28.712627,41.000328],[28.71296,40.999757],[28.713258,40.998924],[28.714091,40.997044],[28.716786,40.998043],[28.718797,40.998775],[28.720177,40.996895],[28.722141,40.997906],[28.724283,40.997478],[28.726401,40.997514],[28.7289,40.998132],[28.75228,41.004809],[28.756278,40.985857]]],"type":"Polygon"}
 }

@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000015,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9791733384,41.0530241492,28.9791733384,41.0530241492",
-    "geom:latitude":41.053024,
-    "geom:longitude":28.979173,
+    "geom:bbox":"28.977756,41.051145,28.984439,41.055604",
+    "geom:latitude":41.053382,
+    "geom:longitude":28.98081,
     "iso:country":"TR",
-    "lbl:bbox":"28.9741733384,41.0480241492,28.9841733384,41.0580241492",
-    "lbl:latitude":41.053024,
-    "lbl:longitude":28.979173,
+    "lbl:latitude":41.053317,
+    "lbl:longitude":28.981316,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +22,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
-    "src:lbl_centroid":"mz",
+    "name:eng_x_preferred":[
+        "Duatepe"
+    ],
+    "name:tur_x_preferred":[
+        "Duatepe"
+    ],
+    "reversegeo:latitude":41.053317,
+    "reversegeo:longitude":28.981316,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -35,7 +46,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368067,
-    "wof:geomhash":"af5cc0e4db9f7e5aa9a8d952563b2fdd",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"f271de4bdf607e20040e684a6b179372",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -47,7 +61,7 @@
         }
     ],
     "wof:id":1108950017,
-    "wof:lastmodified":1566585291,
+    "wof:lastmodified":1677624651,
     "wof:name":"Duatepe",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -57,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97917333841685,
-    41.05302414918806,
-    28.97917333841685,
-    41.05302414918806
+    28.977756,
+    41.051145,
+    28.984439,
+    41.055604
 ],
-  "geometry": {"coordinates":[28.97917333841685,41.05302414918806],"type":"Point"}
+  "geometry": {"coordinates":[[[28.977919,41.052206],[28.977756,41.053739],[28.977846,41.053891],[28.978118,41.054169],[28.97845,41.054493],[28.97879,41.055604],[28.981221,41.05498],[28.981134,41.054594],[28.981795,41.054452],[28.982362,41.054011],[28.983788,41.052879],[28.984439,41.052586],[28.983222,41.051145],[28.97928,41.053077],[28.978725,41.05237],[28.978181,41.052259],[28.977919,41.052206]]],"type":"Polygon"}
 }

@@ -2,7 +2,7 @@
   "id": 890462867,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -18,7 +18,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Zekeriyak\u00f6y"
@@ -82,13 +82,15 @@
         }
     ],
     "wof:id":890462867,
-    "wof:lastmodified":1566586379,
+    "wof:lastmodified":1677624650,
     "wof:name":"Zekeriyak\u00f6y",
     "wof:parent_id":890463467,
     "wof:placetype":"locality",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1108950197
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

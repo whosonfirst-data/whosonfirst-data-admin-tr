@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000066,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.860694344,41.0987613264,28.860694344,41.0987613264",
-    "geom:latitude":41.098761,
-    "geom:longitude":28.860694,
+    "geom:bbox":"28.854097,41.089414,28.864738,41.104352",
+    "geom:latitude":41.098568,
+    "geom:longitude":28.860189,
     "iso:country":"TR",
-    "lbl:bbox":"28.855694344,41.0937613264,28.865694344,41.1037613264",
-    "lbl:latitude":41.098761,
-    "lbl:longitude":28.860694,
+    "lbl:latitude":41.100074,
+    "lbl:longitude":28.859826,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Sultanciftligi"
+    ],
     "name:tur_x_preferred":[
         "Sultan\u00e7iftli\u011fi"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Sultanciftligi"
+    ],
+    "reversegeo:latitude":41.100074,
+    "reversegeo:longitude":28.859826,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -37,7 +48,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368503,
-    "wof:geomhash":"2a0f5882bc55da503ad84e26f7984cdc",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"3e9319103402f612728612170732fd12",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +62,7 @@
         }
     ],
     "wof:id":1108950571,
-    "wof:lastmodified":1566585310,
+    "wof:lastmodified":1677624706,
     "wof:name":"Sultanciftligi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -58,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.86069434401512,
-    41.09876132635636,
-    28.86069434401512,
-    41.09876132635636
+    28.854097,
+    41.089414,
+    28.864738,
+    41.104352
 ],
-  "geometry": {"coordinates":[28.86069434401512,41.09876132635636],"type":"Point"}
+  "geometry": {"coordinates":[[[28.854097,41.102416],[28.861456,41.104352],[28.86281,41.101469],[28.862872,41.101276],[28.862917,41.101008],[28.862932,41.10044],[28.863101,41.098039],[28.863155,41.097153],[28.863208,41.096742],[28.86375,41.094053],[28.864297,41.091393],[28.864738,41.089414],[28.86447,41.089652],[28.863966,41.090127],[28.863361,41.090555],[28.862913,41.091012],[28.862261,41.091869],[28.861581,41.092922],[28.860714,41.093845],[28.858944,41.095699],[28.858515,41.096212],[28.858245,41.096631],[28.857322,41.098206],[28.856595,41.099138],[28.85584,41.099939],[28.855011,41.100974],[28.854245,41.102185],[28.854097,41.102416]]],"type":"Polygon"}
 }

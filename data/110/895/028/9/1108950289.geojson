@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000046,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.939038965,41.0226285734,28.939038965,41.0226285734",
-    "geom:latitude":41.022629,
-    "geom:longitude":28.939039,
+    "geom:bbox":"28.933828,41.018429,28.944863,41.026541",
+    "geom:latitude":41.02238,
+    "geom:longitude":28.938966,
     "iso:country":"TR",
-    "lbl:bbox":"28.934038965,41.0176285734,28.944038965,41.0276285734",
-    "lbl:latitude":41.022629,
-    "lbl:longitude":28.939039,
+    "lbl:latitude":41.022237,
+    "lbl:longitude":28.938966,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,13 +22,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Hirkaiserif"
+    ],
     "name:tur_x_preferred":[
         "H\u0131rka-i \u015eerif"
     ],
     "name:tur_x_variant":[
-        "H\u0131rkai\u015ferif"
+        "H\u0131rkai\u015ferif",
+        "Hirka-i Serif"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.022237,
+    "reversegeo:longitude":28.938966,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -40,7 +49,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368265,
-    "wof:geomhash":"7b18a3450a12f1b0ac1b14c8fb2338fc",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"7b055595576106469646c276fbd2f2da",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,8 +63,8 @@
         }
     ],
     "wof:id":1108950289,
-    "wof:lastmodified":1566585303,
-    "wof:name":"Hirka-i Serif",
+    "wof:lastmodified":1677624660,
+    "wof:name":"Hirkaiserif",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -61,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.93903896504753,
-    41.02262857337311,
-    28.93903896504753,
-    41.02262857337311
+    28.933828,
+    41.018429,
+    28.944863,
+    41.026541
 ],
-  "geometry": {"coordinates":[28.93903896504753,41.02262857337311],"type":"Point"}
+  "geometry": {"coordinates":[[[28.933828,41.021435],[28.934894,41.022326],[28.935215,41.022571],[28.935327,41.022616],[28.935648,41.022656],[28.935699,41.022833],[28.935713,41.022971],[28.935665,41.023061],[28.935499,41.023249],[28.935772,41.023916],[28.935977,41.024766],[28.936059,41.025571],[28.936143,41.026541],[28.936171,41.026536],[28.936492,41.026448],[28.936914,41.026263],[28.938557,41.025194],[28.938957,41.025672],[28.939537,41.025379],[28.939909,41.025996],[28.940265,41.025594],[28.940603,41.025256],[28.940777,41.025112],[28.941269,41.024779],[28.943638,41.023144],[28.944863,41.022257],[28.944066,41.02178],[28.942982,41.02116],[28.942102,41.020639],[28.940582,41.019747],[28.938993,41.01882],[28.938185,41.018429],[28.933828,41.021435]]],"type":"Polygon"}
 }

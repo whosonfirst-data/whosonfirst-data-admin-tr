@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000072,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.95018,41.00866,28.95018,41.00866",
-    "geom:latitude":41.00866,
-    "geom:longitude":28.95018,
+    "geom:bbox":"28.941875,41.000849,28.953751,41.009691",
+    "geom:latitude":41.005434,
+    "geom:longitude":28.948746,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
     "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.94518,41.00366,28.95518,41.01366",
+    "lbl:latitude":41.005246,
+    "lbl:longitude":28.949227,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -75,6 +76,13 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.005246,
+    "reversegeo:longitude":28.949227,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:elevation":980.0,
     "wd:latitude":"38.366666666",
@@ -96,7 +104,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053377,
-    "wof:geomhash":"fcdfa60a089442586d8d12363dcb1ff8",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"18deac7d3374d7dd8783859396e98169",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -107,7 +118,7 @@
         }
     ],
     "wof:id":890462069,
-    "wof:lastmodified":1636499862,
+    "wof:lastmodified":1677624661,
     "wof:name":"Aksaray",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -120,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.95018,
-    41.00866,
-    28.95018,
-    41.00866
+    28.941875,
+    41.000849,
+    28.953751,
+    41.009691
 ],
-  "geometry": {"coordinates":[28.95018,41.00866],"type":"Point"}
+  "geometry": {"coordinates":[[[28.945141,41.000849],[28.945128,41.003042],[28.945848,41.003539],[28.945629,41.003837],[28.945321,41.004161],[28.944804,41.0044],[28.944198,41.003899],[28.943835,41.004272],[28.943446,41.004783],[28.943138,41.005202],[28.942978,41.005398],[28.942726,41.005545],[28.942395,41.005869],[28.942205,41.006131],[28.941875,41.006914],[28.943115,41.007532],[28.943822,41.007673],[28.944755,41.007928],[28.945949,41.008291],[28.947193,41.00873],[28.949186,41.009394],[28.949206,41.009691],[28.951008,41.009623],[28.95338,41.009545],[28.953478,41.007172],[28.953524,41.006065],[28.953585,41.003949],[28.953617,41.003707],[28.953751,41.00243],[28.951805,41.001778],[28.948741,41.001425],[28.946817,41.001137],[28.945141,41.000849]]],"type":"Polygon"}
 }

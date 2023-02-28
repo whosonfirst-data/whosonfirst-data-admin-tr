@@ -4,18 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000011,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.959231,41.0195,28.959231,41.0195",
-    "geom:latitude":41.0195,
-    "geom:longitude":28.959231,
+    "geom:bbox":"28.957116,41.016283,28.961142,41.021364",
+    "geom:latitude":41.018606,
+    "geom:longitude":28.959463,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.954231,41.0145,28.964231,41.0245",
+    "lbl:latitude":41.018465,
+    "lbl:longitude":28.959493,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Hacikadin"
+    ],
+    "name:tur_x_preferred":[
+        "Hac\u0131kadin"
+    ],
+    "name:tur_x_variant":[
+        "Hac\u0131kad\u0131n"
+    ],
     "qs:name":"Hac\u0131kad\u0131n",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,6 +37,13 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.018465,
+    "reversegeo:longitude":28.959493,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -40,7 +57,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053423,
-    "wof:geomhash":"a8f1c8f29deceaec94eab2076705e814",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"be7930e4aa7436d1af1e519dd4365ec8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,20 +71,22 @@
         }
     ],
     "wof:id":890463257,
-    "wof:lastmodified":1566586217,
-    "wof:name":"Hac\u0131kad\u0131n",
+    "wof:lastmodified":1677624667,
+    "wof:name":"Hacikadin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950233
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.959231,
-    41.0195,
-    28.959231,
-    41.0195
+    28.957116,
+    41.016283,
+    28.961142,
+    41.021364
 ],
-  "geometry": {"coordinates":[28.959231,41.0195],"type":"Point"}
+  "geometry": {"coordinates":[[[28.960117,41.016283],[28.959891,41.016328],[28.959462,41.016516],[28.959391,41.016437],[28.958743,41.016798],[28.957116,41.017634],[28.958253,41.019087],[28.958651,41.019684],[28.958943,41.020122],[28.959962,41.021364],[28.960747,41.020595],[28.961142,41.020438],[28.960783,41.019574],[28.960757,41.019385],[28.960798,41.01918],[28.960852,41.018995],[28.961032,41.018772],[28.961047,41.018731],[28.960929,41.018336],[28.960768,41.017837],[28.960647,41.017511],[28.960542,41.017357],[28.960345,41.017011],[28.960311,41.016778],[28.960117,41.016283]]],"type":"Polygon"}
 }

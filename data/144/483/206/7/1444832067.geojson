@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000055,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.1959312379,41.0189594095,29.1959312379,41.0189594095",
-    "geom:latitude":41.018959,
-    "geom:longitude":29.195931,
+    "geom:bbox":"29.190056,41.01371,29.19895,41.024908",
+    "geom:latitude":41.017918,
+    "geom:longitude":29.194703,
     "iso:country":"TR",
-    "lbl:bbox":"29.1909312379,41.0139594095,29.2009312379,41.0239594095",
-    "lbl:latitude":41.018959,
-    "lbl:longitude":29.195931,
+    "lbl:latitude":41.017527,
+    "lbl:longitude":29.194771,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,8 +28,13 @@
     "name:tur_x_preferred":[
         "\u00c7aml\u0131k"
     ],
+    "name:tur_x_variant":[
+        "Camlik"
+    ],
+    "reversegeo:latitude":41.017527,
+    "reversegeo:longitude":29.194771,
     "src:geom":"whosonfirst",
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -39,7 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"e101b7dd053f770e935a731b8d4e5318",
+    "wof:geomhash":"c71518611cfeb29c46e538abba51b7f5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1444832067,
-    "wof:lastmodified":1566584859,
+    "wof:lastmodified":1677624617,
     "wof:name":"Camlik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -61,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.19593123785846,
-    41.01895940953438,
-    29.19593123785846,
-    41.01895940953438
+    29.190056,
+    41.01371,
+    29.19895,
+    41.024908
 ],
-  "geometry": {"coordinates":[29.19593123785846,41.01895940953438],"type":"Point"}
+  "geometry": {"coordinates":[[[29.190122,41.014814],[29.190218,41.015142],[29.190366,41.015471],[29.191048,41.016673],[29.191346,41.017091],[29.191896,41.017792],[29.192006,41.018107],[29.192093,41.018512],[29.192274,41.019528],[29.19234,41.01976],[29.19263,41.020387],[29.193114,41.02157],[29.194615,41.023697],[29.19491,41.024562],[29.19608,41.024908],[29.196378,41.024311],[29.196727,41.023665],[29.196629,41.021332],[29.197002,41.019645],[29.19895,41.01416],[29.196703,41.013785],[29.19407,41.01371],[29.190056,41.014121],[29.190122,41.014814]]],"type":"Polygon"}
 }

@@ -4,18 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.980216,41.040002,28.980216,41.040002",
-    "geom:latitude":41.040002,
-    "geom:longitude":28.980216,
+    "geom:bbox":"28.977698,41.036403,28.983926,41.040946",
+    "geom:latitude":41.038466,
+    "geom:longitude":28.980541,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.975216,41.035002,28.985216,41.045002",
+    "lbl:latitude":41.038432,
+    "lbl:longitude":28.980282,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Bulbul"
+    ],
+    "name:tur_x_preferred":[
+        "B\u00fclb\u00fcl"
+    ],
     "qs:name":"B\u00fclb\u00fcl",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,6 +34,13 @@
     "qs:photos_sr":2,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.038432,
+    "reversegeo:longitude":28.980282,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -41,7 +55,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053252,
-    "wof:geomhash":"d490bdb7d7e8e8dfc08b0b46e9f2b653",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"0c325856f1ae71a4b0b23f3db822a69a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +70,22 @@
         }
     ],
     "wof:id":890459029,
-    "wof:lastmodified":1566586580,
-    "wof:name":"B\u00fclb\u00fcl",
+    "wof:lastmodified":1677624631,
+    "wof:name":"Bulbul",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950391
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.980216,
-    41.040002,
-    28.980216,
-    41.040002
+    28.977698,
+    41.036403,
+    28.983926,
+    41.040946
 ],
-  "geometry": {"coordinates":[28.980216,41.040002],"type":"Point"}
+  "geometry": {"coordinates":[[[28.978041,41.039155],[28.978044,41.039735],[28.977698,41.040138],[28.978463,41.040342],[28.978869,41.040535],[28.979475,41.040946],[28.980545,41.040222],[28.980682,41.040182],[28.981252,41.039447],[28.98152,41.039015],[28.981864,41.038681],[28.982407,41.038393],[28.983003,41.038713],[28.983173,41.038497],[28.983382,41.038288],[28.983762,41.038],[28.983841,41.037732],[28.983926,41.037493],[28.982386,41.036923],[28.981858,41.036738],[28.981518,41.036648],[28.980372,41.036477],[28.979821,41.036403],[28.979405,41.037156],[28.978915,41.038069],[28.978335,41.038854],[28.978041,41.039155]]],"type":"Polygon"}
 }

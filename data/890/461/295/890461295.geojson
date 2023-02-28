@@ -4,18 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.004715,41.050294,29.004715,41.050294",
-    "geom:latitude":41.050294,
-    "geom:longitude":29.004715,
+    "geom:bbox":"29.003677,41.046757,29.008072,41.0524",
+    "geom:latitude":41.049858,
+    "geom:longitude":29.005486,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.999715,41.045294,29.009715,41.055294",
+    "lbl:latitude":41.050239,
+    "lbl:longitude":29.00527,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Abbasaga"
+    ],
+    "name:tur_x_preferred":[
+        "Abbasa\u011fa"
+    ],
     "qs:name":"Abbasa\u011fa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,6 +34,13 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.050239,
+    "reversegeo:longitude":29.00527,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -41,7 +55,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053345,
-    "wof:geomhash":"1aba8d2777e3a155c6a6d25feea5c1b1",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"1f91484d08eb2910c1b7487fd1eb3988",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +70,22 @@
         }
     ],
     "wof:id":890461295,
-    "wof:lastmodified":1566586498,
-    "wof:name":"Abbasa\u011fa",
+    "wof:lastmodified":1677624620,
+    "wof:name":"Abbasaga",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108949971
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    29.004715,
-    41.050294,
-    29.004715,
-    41.050294
+    29.003677,
+    41.046757,
+    29.008072,
+    41.0524
 ],
-  "geometry": {"coordinates":[29.004715,41.050294],"type":"Point"}
+  "geometry": {"coordinates":[[[29.005692,41.046757],[29.005046,41.046806],[29.004802,41.046864],[29.004318,41.046986],[29.00427,41.047028],[29.00417,41.047387],[29.00418,41.047451],[29.004443,41.047917],[29.004581,41.048183],[29.004632,41.048443],[29.004603,41.048687],[29.004177,41.049053],[29.003949,41.049094],[29.003872,41.049168],[29.003875,41.049297],[29.003875,41.04981],[29.003876,41.050107],[29.003771,41.050495],[29.003677,41.050968],[29.004123,41.051153],[29.004608,41.051447],[29.005454,41.052016],[29.005825,41.052307],[29.006061,41.05238],[29.006369,41.0524],[29.006568,41.051904],[29.006668,41.051817],[29.006837,41.051768],[29.00709,41.051673],[29.00721,41.051625],[29.008072,41.051051],[29.00753,41.050742],[29.007045,41.050317],[29.006806,41.050018],[29.006515,41.049639],[29.006313,41.04924],[29.006217,41.048963],[29.006095,41.04852],[29.005928,41.047939],[29.005763,41.047467],[29.005692,41.046757]]],"type":"Polygon"}
 }

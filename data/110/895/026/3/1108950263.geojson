@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000045,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.942900824,41.0126912077,28.942900824,41.0126912077",
-    "geom:latitude":41.012691,
-    "geom:longitude":28.942901,
+    "geom:bbox":"28.933727,41.009623,28.951008,41.0168",
+    "geom:latitude":41.013206,
+    "geom:longitude":28.94187,
     "iso:country":"TR",
-    "lbl:bbox":"28.937900824,41.0076912077,28.947900824,41.0176912077",
-    "lbl:latitude":41.012691,
-    "lbl:longitude":28.942901,
+    "lbl:latitude":41.013592,
+    "lbl:longitude":28.94187,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "Mollag\u00fcrani"
     ],
     "name:eng_x_preferred":[
+        "Mollagurani"
+    ],
+    "name:eng_x_variant":[
         "Mollag\u00fcrani"
     ],
     "name:eus_x_preferred":[
@@ -96,12 +98,19 @@
         "Molla G\u00fcrani"
     ],
     "name:tur_x_variant":[
-        "Mollag\u00fcrani"
+        "Mollag\u00fcrani",
+        "Molla Gurani"
     ],
     "name:war_x_preferred":[
         "Mollag\u00fcrani"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.013592,
+    "reversegeo:longitude":28.94187,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -114,7 +123,10 @@
     },
     "wof:country":"TR",
     "wof:created":1491368249,
-    "wof:geomhash":"58ace8e7190876c680299d2d7431575e",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"adaafd60fd005d7ef852b433e4982f7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -125,8 +137,8 @@
         }
     ],
     "wof:id":1108950263,
-    "wof:lastmodified":1566585304,
-    "wof:name":"Molla Gurani",
+    "wof:lastmodified":1677624659,
+    "wof:name":"Mollagurani",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -135,10 +147,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.9429008239752,
-    41.01269120773345,
-    28.9429008239752,
-    41.01269120773345
+    28.933727,
+    41.009623,
+    28.951008,
+    41.0168
 ],
-  "geometry": {"coordinates":[28.9429008239752,41.01269120773345],"type":"Point"}
+  "geometry": {"coordinates":[[[28.933727,41.015052],[28.934696,41.015835],[28.935883,41.015335],[28.936401,41.016077],[28.936795,41.0168],[28.940714,41.015461],[28.940998,41.015351],[28.94176,41.015962],[28.94462,41.013976],[28.946461,41.012698],[28.949256,41.010751],[28.950356,41.009968],[28.951008,41.009623],[28.949206,41.009691],[28.949088,41.009696],[28.947925,41.009809],[28.945977,41.01027],[28.941791,41.011318],[28.940881,41.011559],[28.939305,41.012246],[28.939143,41.012334],[28.937623,41.013156],[28.936772,41.013582],[28.934952,41.014471],[28.933727,41.015052]]],"type":"Polygon"}
 }

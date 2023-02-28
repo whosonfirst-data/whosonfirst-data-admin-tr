@@ -4,18 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000045,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.023814,41.018862,29.023814,41.018862",
-    "geom:latitude":41.018862,
-    "geom:longitude":29.023814,
+    "geom:bbox":"29.019852,41.015124,29.035365,41.021203",
+    "geom:latitude":41.018476,
+    "geom:longitude":29.027059,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"29.018814,41.013862,29.028814,41.023862",
+    "lbl:latitude":41.017664,
+    "lbl:longitude":29.027824,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Validei Atik"
+    ],
+    "name:tur_x_preferred":[
+        "Validei Atik"
+    ],
+    "name:tur_x_variant":[
+        "Valide-i Atik"
+    ],
     "qs:name":"Valide-i Atik",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,6 +37,13 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.017664,
+    "reversegeo:longitude":29.027824,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -41,7 +58,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053326,
-    "wof:geomhash":"5d47fde7c1fb9fe08046e2e24e0e70ea",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"e18722550472fdb0b7dd8707ef4b8f83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +73,22 @@
         }
     ],
     "wof:id":890460761,
-    "wof:lastmodified":1566586459,
-    "wof:name":"Valide-i Atik",
+    "wof:lastmodified":1677624697,
+    "wof:name":"Validei Atik",
     "wof:parent_id":101912675,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1444830393
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    29.023814,
-    41.018862,
-    29.023814,
-    41.018862
+    29.019852,
+    41.015124,
+    29.035365,
+    41.021203
 ],
-  "geometry": {"coordinates":[29.023814,41.018862],"type":"Point"}
+  "geometry": {"coordinates":[[[29.023187,41.020477],[29.02467,41.020481],[29.024948,41.020417],[29.025155,41.020334],[29.025693,41.019909],[29.025882,41.019845],[29.026198,41.019732],[29.026454,41.019713],[29.026702,41.019785],[29.028128,41.019996],[29.028881,41.020112],[29.029125,41.020112],[29.029773,41.020075],[29.030503,41.020474],[29.030774,41.02053],[29.031041,41.020537],[29.032106,41.020477],[29.033479,41.020425],[29.033701,41.020462],[29.035365,41.021203],[29.035099,41.02064],[29.034977,41.020457],[29.034755,41.020207],[29.033648,41.019322],[29.033019,41.01882],[29.030364,41.016888],[29.029812,41.016483],[29.029511,41.016195],[29.029061,41.015723],[29.028368,41.015124],[29.025885,41.016281],[29.024807,41.016493],[29.023851,41.016721],[29.023177,41.016942],[29.022044,41.017417],[29.02144,41.017745],[29.020907,41.01812],[29.020012,41.01873],[29.019852,41.018841],[29.01994,41.020011],[29.019959,41.020041],[29.02,41.020078],[29.020177,41.02006],[29.02058,41.019947],[29.020828,41.019886],[29.02102,41.019883],[29.021294,41.019905],[29.023187,41.020477]]],"type":"Polygon"}
 }

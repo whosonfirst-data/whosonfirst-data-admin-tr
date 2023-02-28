@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000005,
+    "geom:area":0.000012,
     "geom:area_square_m":48396.686463,
-    "geom:bbox":"28.983038,41.032751,28.986053,41.034823",
-    "geom:latitude":41.033895,
-    "geom:longitude":28.98449,
+    "geom:bbox":"28.982907,41.030611,28.988012,41.035704",
+    "geom:latitude":41.03305,
+    "geom:longitude":28.985311,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.031696,
-    "lbl:longitude":28.985028,
+    "lbl:latitude":41.033326,
+    "lbl:longitude":28.985562,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.033873,
     "mps:longitude":28.984367,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -79,18 +79,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.033326,
+    "reversegeo:longitude":28.985562,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":394,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890461447,
         101913185,
-        85679237
+        890461447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,9 +103,9 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"b7f37ee345f84148e7e0224f43e4d3be",
+    "wof:geomhash":"0b5a1619ff5619dd97d0929812e0ef75",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +120,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1588718979,
+    "wof:lastmodified":1677624749,
     "wof:name":"Cihangir",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -127,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.983038,
-    41.032751,
-    28.986053,
-    41.034823
+    28.982907,
+    41.030611,
+    28.988012,
+    41.035704
 ],
-  "geometry": {"coordinates":[[[28.985084,41.033252],[28.984958,41.032751],[28.98468,41.032751],[28.983307,41.032751],[28.983307,41.03343],[28.983038,41.033787],[28.983168,41.034305],[28.983105,41.034555],[28.983307,41.034823],[28.983994,41.034823],[28.98468,41.034823],[28.98495,41.034823],[28.986053,41.034823],[28.986053,41.033787],[28.986053,41.03368],[28.985084,41.033252]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.988012,41.032672],[28.987331,41.032575],[28.986054,41.032131],[28.986365,41.031631],[28.985228,41.031223],[28.985201,41.030611],[28.982907,41.031683],[28.983468,41.032503],[28.983855,41.033076],[28.984507,41.034022],[28.984762,41.035704],[28.985698,41.035513],[28.98577,41.03546],[28.986078,41.035205],[28.986369,41.034776],[28.98706,41.033581],[28.988012,41.032672]]],"type":"Polygon"}
 }

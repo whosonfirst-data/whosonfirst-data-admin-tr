@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000036,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.964582114,41.0528083984,28.964582114,41.0528083984",
-    "geom:latitude":41.052808,
-    "geom:longitude":28.964582,
+    "geom:bbox":"28.961727,41.047655,28.968714,41.056318",
+    "geom:latitude":41.052527,
+    "geom:longitude":28.965464,
     "iso:country":"TR",
-    "lbl:bbox":"28.959582114,41.0478083984,28.969582114,41.0578083984",
-    "lbl:latitude":41.052808,
-    "lbl:longitude":28.964582,
+    "lbl:latitude":41.053159,
+    "lbl:longitude":28.965115,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Mahmut Sevket Pasha"
+    ],
     "name:tur_x_preferred":[
         "Mahmut \u015eevket Pa\u015fa"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Mahmut Sevket Pasa"
+    ],
+    "reversegeo:latitude":41.053159,
+    "reversegeo:longitude":28.965115,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -38,7 +49,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368084,
-    "wof:geomhash":"e6c3833e8b2821eac6c099bf5016f39a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"c71c1bad19c46048bb7746c2c8146192",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,8 +64,8 @@
         }
     ],
     "wof:id":1108950029,
-    "wof:lastmodified":1566585312,
-    "wof:name":"Mahmut Sevket Pasa",
+    "wof:lastmodified":1677624651,
+    "wof:name":"Mahmut Sevket Pasha",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.96458211403423,
-    41.05280839838149,
-    28.96458211403423,
-    41.05280839838149
+    28.961727,
+    41.047655,
+    28.968714,
+    41.056318
 ],
-  "geometry": {"coordinates":[28.96458211403423,41.05280839838149],"type":"Point"}
+  "geometry": {"coordinates":[[[28.961727,41.053366],[28.961919,41.05352],[28.962272,41.054233],[28.962751,41.055456],[28.962879,41.055457],[28.963217,41.055485],[28.9637,41.055626],[28.964151,41.055936],[28.964528,41.056161],[28.965175,41.056307],[28.965569,41.056318],[28.96594,41.056262],[28.966255,41.056133],[28.966677,41.055879],[28.968714,41.05413],[28.968594,41.054036],[28.968164,41.05351],[28.967908,41.053034],[28.967792,41.052544],[28.967747,41.051999],[28.967798,41.05134],[28.967846,41.050685],[28.96791,41.049734],[28.967978,41.048819],[28.968023,41.047809],[28.968034,41.047655],[28.967163,41.048016],[28.967043,41.047843],[28.96635,41.048317],[28.966238,41.048528],[28.965711,41.048926],[28.96547,41.048957],[28.964853,41.049423],[28.964943,41.049536],[28.964341,41.050168],[28.96413,41.050484],[28.963498,41.05053],[28.96343,41.05056],[28.963009,41.050861],[28.962685,41.050891],[28.962813,41.051485],[28.962249,41.052993],[28.961727,41.053366]]],"type":"Polygon"}
 }

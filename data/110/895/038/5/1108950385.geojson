@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000006,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.977580214,41.0375569455,28.977580214,41.0375569455",
-    "geom:latitude":41.037557,
-    "geom:longitude":28.97758,
+    "geom:bbox":"28.976608,41.03579,28.979821,41.039155",
+    "geom:latitude":41.037196,
+    "geom:longitude":28.978119,
     "iso:country":"TR",
-    "lbl:bbox":"28.972580214,41.0325569455,28.982580214,41.0425569455",
-    "lbl:latitude":41.037557,
-    "lbl:longitude":28.97758,
+    "lbl:latitude":41.03715,
+    "lbl:longitude":28.978119,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Cukur"
+    ],
     "name:tur_x_preferred":[
         "\u00c7ukur"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Cukur"
+    ],
+    "reversegeo:latitude":41.03715,
+    "reversegeo:longitude":28.978119,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -38,7 +49,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368335,
-    "wof:geomhash":"3fe25d0fb27e7625441c218abe0cafe3",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"2b8b21e4b93c7fee5697c0bddfa15350",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +64,7 @@
         }
     ],
     "wof:id":1108950385,
-    "wof:lastmodified":1566585285,
+    "wof:lastmodified":1677624630,
     "wof:name":"Cukur",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97758021403653,
-    41.03755694551624,
-    28.97758021403653,
-    41.03755694551624
+    28.976608,
+    41.03579,
+    28.979821,
+    41.039155
 ],
-  "geometry": {"coordinates":[28.97758021403653,41.03755694551624],"type":"Point"}
+  "geometry": {"coordinates":[[[28.977336,41.03579],[28.977239,41.03611],[28.977088,41.036678],[28.976955,41.037012],[28.976637,41.037839],[28.976608,41.038148],[28.977274,41.038199],[28.977766,41.038303],[28.978183,41.038366],[28.978078,41.038763],[28.978041,41.038968],[28.978041,41.039155],[28.978335,41.038854],[28.978915,41.038069],[28.979405,41.037156],[28.979821,41.036403],[28.979329,41.036277],[28.978534,41.036031],[28.977518,41.035817],[28.977336,41.03579]]],"type":"Polygon"}
 }

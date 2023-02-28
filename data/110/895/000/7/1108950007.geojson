@@ -2,11 +2,11 @@
   "id": 1108950007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9834076545,41.0505645483,28.9834076545,41.0505645483",
+    "geom:bbox":"28.983408,41.050565,28.983408,41.050565",
     "geom:latitude":41.050565,
     "geom:longitude":28.983408,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.983408,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -59,7 +59,7 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368061,
-    "wof:geomhash":"4115ae72f6c6d39ce5318f4adefb201a",
+    "wof:geomhash":"ceba5421e0aa6d953e53f3ea0c522f6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,20 +71,22 @@
         }
     ],
     "wof:id":1108950007,
-    "wof:lastmodified":1566585286,
+    "wof:lastmodified":1677624651,
     "wof:name":"Bozkurt",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890464461
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    28.98340765451221,
-    41.05056454826204,
-    28.98340765451221,
-    41.05056454826204
+    28.983408,
+    41.050565,
+    28.983408,
+    41.050565
 ],
-  "geometry": {"coordinates":[28.98340765451221,41.05056454826204],"type":"Point"}
+  "geometry": {"coordinates":[28.983408,41.050565],"type":"Point"}
 }

@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000038,
+    "geom:area":0.00002,
     "geom:area_square_m":350625.259359,
-    "geom:bbox":"28.979187,41.041038,28.987965,41.046931",
-    "geom:latitude":41.04367,
-    "geom:longitude":28.984041,
+    "geom:bbox":"28.9808,41.040653,28.986665,41.045868",
+    "geom:latitude":41.043224,
+    "geom:longitude":28.984277,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.043953,
-    "lbl:longitude":28.984723,
+    "lbl:latitude":41.04336,
+    "lbl:longitude":28.984333,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.043657,
     "mps:longitude":28.984564,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "\u0130n\u00f6n\u00fc Stad\u0131"
     ],
+    "name:eng_x_preferred":[
+        "Inonu"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0631\u0632\u0634\u06af\u0627\u0647 \u0627\u06cc\u0646\u0648\u0646\u0648 \u0628\u0634\u06cc\u06a9\u062a\u0627\u0634"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:spa_x_preferred":[
         "Estadio BJK \u0130n\u00f6n\u00fc"
+    ],
+    "name:tur_x_preferred":[
+        "In\u00f6n\u00fc"
     ],
     "name:und_x_variant":[
         "In\u00f6n\u00fc"
@@ -82,11 +88,14 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.04336,
+    "reversegeo:longitude":28.984333,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -101,9 +110,9 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"43a3774195cd9c9b3d6aef4937dee350",
+    "wof:geomhash":"46f5270ebcba38eb6e0889e3b58091b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,8 +127,8 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1617131269,
-    "wof:name":"In\u00f6n\u00fc",
+    "wof:lastmodified":1677624750,
+    "wof:name":"Inonu",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -128,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.979187,
-    41.041038,
-    28.987965,
-    41.046931
+    28.9808,
+    41.040653,
+    28.986665,
+    41.045868
 ],
-  "geometry": {"coordinates":[[[28.98468,41.046931],[28.986053,41.046324],[28.987427,41.046931],[28.987965,41.046217],[28.987705,41.045181],[28.987965,41.044145],[28.987705,41.04311],[28.987831,41.042609],[28.987427,41.042431],[28.987427,41.042074],[28.98674,41.042074],[28.98674,41.04156],[28.98674,41.041556],[28.986727,41.041556],[28.986558,41.041511],[28.986397,41.041297],[28.986053,41.041297],[28.986053,41.041038],[28.985649,41.041038],[28.98468,41.041038],[28.983307,41.041038],[28.981934,41.041038],[28.98056,41.041038],[28.98056,41.042074],[28.979187,41.042074],[28.979187,41.042788],[28.979187,41.044145],[28.981934,41.044145],[28.981934,41.046217],[28.984142,41.046217],[28.98468,41.046931]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.986468,41.040653],[28.985166,41.04105],[28.98421,41.041319],[28.983101,41.041869],[28.982832,41.04177],[28.982029,41.040968],[28.980898,41.042026],[28.9808,41.042163],[28.981468,41.042864],[28.982227,41.043832],[28.982928,41.044853],[28.983877,41.045868],[28.984485,41.045737],[28.986561,41.045626],[28.986417,41.044022],[28.986469,41.042621],[28.986665,41.041378],[28.986574,41.040893],[28.986468,41.040653]]],"type":"Polygon"}
 }

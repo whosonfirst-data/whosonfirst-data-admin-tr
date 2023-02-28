@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000079,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8401537552,40.9637169283,28.8401537552,40.9637169283",
-    "geom:latitude":40.963717,
-    "geom:longitude":28.840154,
+    "geom:bbox":"28.834302,40.958393,28.849205,40.973271",
+    "geom:latitude":40.965501,
+    "geom:longitude":28.841305,
     "iso:country":"TR",
-    "lbl:bbox":"28.8351537552,40.9587169283,28.8451537552,40.9687169283",
-    "lbl:latitude":40.963717,
-    "lbl:longitude":28.840154,
+    "lbl:latitude":40.964724,
+    "lbl:longitude":28.840797,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Yesilyurt"
+    ],
     "name:tur_x_preferred":[
         "Ye\u015filyurt"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Yesilyurt"
+    ],
+    "reversegeo:latitude":40.964724,
+    "reversegeo:longitude":28.840797,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -38,7 +49,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368518,
-    "wof:geomhash":"fbc96f96c17e9a4d5c16946c7e3848d4",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"63e8e94a08d69cf7d382968cd0122b45",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +64,7 @@
         }
     ],
     "wof:id":1108950599,
-    "wof:lastmodified":1566585309,
+    "wof:lastmodified":1677624632,
     "wof:name":"Yesilyurt",
     "wof:parent_id":101912671,
     "wof:placetype":"neighbourhood",
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.84015375515816,
-    40.96371692827071,
-    28.84015375515816,
-    40.96371692827071
+    28.834302,
+    40.958393,
+    28.849205,
+    40.973271
 ],
-  "geometry": {"coordinates":[28.84015375515816,40.96371692827071],"type":"Point"}
+  "geometry": {"coordinates":[[[28.839545,40.958393],[28.839372,40.95851],[28.839296,40.958777],[28.838822,40.958785],[28.834302,40.963551],[28.835639,40.96416],[28.836502,40.964795],[28.8385,40.966471],[28.838839,40.966894],[28.839101,40.967275],[28.839363,40.967851],[28.840189,40.969683],[28.840582,40.96973],[28.84148,40.969831],[28.843088,40.970339],[28.843934,40.970728],[28.845678,40.971863],[28.84732,40.973271],[28.848834,40.972032],[28.849205,40.971706],[28.848601,40.97134],[28.846885,40.970519],[28.846423,40.969743],[28.845319,40.968654],[28.845185,40.967863],[28.845916,40.966789],[28.845423,40.966446],[28.844737,40.965939],[28.843812,40.964283],[28.843946,40.963969],[28.842156,40.961075],[28.841619,40.960851],[28.840335,40.959046],[28.839545,40.958393]]],"type":"Polygon"}
 }

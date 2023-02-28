@@ -4,14 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000004,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.974895,41.037024,28.974895,41.037024",
-    "geom:latitude":41.037024,
-    "geom:longitude":28.974895,
+    "geom:bbox":"28.974551,41.035469,28.977336,41.037927",
+    "geom:latitude":41.036647,
+    "geom:longitude":28.97601,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.969895,41.032024,28.979895,41.042024",
+    "lbl:latitude":41.036502,
+    "lbl:longitude":28.976176,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,6 +33,9 @@
         "Kalyoncukullu\u011fu"
     ],
     "name:eng_x_preferred":[
+        "Kalyoncukullugu"
+    ],
+    "name:eng_x_variant":[
         "Kalyoncukullu\u011fu"
     ],
     "name:eus_x_preferred":[
@@ -88,6 +92,9 @@
     "name:tur_x_preferred":[
         "Kalyoncukullu\u011fu"
     ],
+    "name:tur_x_variant":[
+        "Kalyoncu Kullu\u011fu"
+    ],
     "name:war_x_preferred":[
         "Kalyoncukullu\u011fu"
     ],
@@ -102,6 +109,13 @@
     "qs:photos_sr":3,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.036502,
+    "reversegeo:longitude":28.976176,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -117,7 +131,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053418,
-    "wof:geomhash":"5d59fbed8b777a6e7b622e54d392e96a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"ac6a2b1658ed5a2ed4e59aa8415ec87b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,20 +146,22 @@
         }
     ],
     "wof:id":890463135,
-    "wof:lastmodified":1566586200,
-    "wof:name":"Kalyoncu Kullu\u011fu",
+    "wof:lastmodified":1677624631,
+    "wof:name":"Kalyoncukullugu",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950387
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.974895,
-    41.037024,
-    28.974895,
-    41.037024
+    28.974551,
+    41.035469,
+    28.977336,
+    41.037927
 ],
-  "geometry": {"coordinates":[28.974895,41.037024],"type":"Point"}
+  "geometry": {"coordinates":[[[28.976637,41.037839],[28.976955,41.037012],[28.977088,41.036678],[28.977239,41.03611],[28.977336,41.03579],[28.976692,41.035697],[28.97613,41.035583],[28.975758,41.035469],[28.975368,41.036129],[28.974958,41.036154],[28.974797,41.03617],[28.974731,41.036205],[28.974699,41.036343],[28.974658,41.036612],[28.974551,41.036855],[28.974565,41.036926],[28.974614,41.037101],[28.974751,41.037222],[28.974906,41.03728],[28.97504,41.037284],[28.975851,41.037353],[28.975813,41.037792],[28.975813,41.037927],[28.976637,41.037839]]],"type":"Polygon"}
 }

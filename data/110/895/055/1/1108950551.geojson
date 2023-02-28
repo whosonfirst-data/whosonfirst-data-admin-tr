@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000137,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8953127391,41.098621186,28.8953127391,41.098621186",
-    "geom:latitude":41.098621,
-    "geom:longitude":28.895313,
+    "geom:bbox":"28.888965,41.090433,28.906601,41.101966",
+    "geom:latitude":41.095689,
+    "geom:longitude":28.896036,
     "iso:country":"TR",
-    "lbl:bbox":"28.8903127391,41.093621186,28.9003127391,41.103621186",
-    "lbl:latitude":41.098621,
-    "lbl:longitude":28.895313,
+    "lbl:latitude":41.096377,
+    "lbl:longitude":28.895322,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "Yunusemre"
     ],
     "name:eng_x_preferred":[
+        "Yunus Emre"
+    ],
+    "name:eng_x_variant":[
         "Yunusemre"
     ],
     "name:eus_x_preferred":[
@@ -95,10 +97,19 @@
     "name:tur_x_preferred":[
         "Yunusemre"
     ],
+    "name:tur_x_variant":[
+        "Yunus Emre"
+    ],
     "name:war_x_preferred":[
         "Yunusemre"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.096377,
+    "reversegeo:longitude":28.895322,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -111,7 +122,10 @@
     },
     "wof:country":"TR",
     "wof:created":1491368491,
-    "wof:geomhash":"c12dc960fc65b7106b12351dcb444159",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"25fefc0281785635f9f42ce00aa52c50",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +136,7 @@
         }
     ],
     "wof:id":1108950551,
-    "wof:lastmodified":1566585288,
+    "wof:lastmodified":1677624706,
     "wof:name":"Yunus Emre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -132,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.89531273911897,
-    41.09862118595311,
-    28.89531273911897,
-    41.09862118595311
+    28.888965,
+    41.090433,
+    28.906601,
+    41.101966
 ],
-  "geometry": {"coordinates":[28.89531273911897,41.09862118595311],"type":"Point"}
+  "geometry": {"coordinates":[[[28.898631,41.101437],[28.899839,41.09911],[28.900279,41.09836],[28.900957,41.097057],[28.901481,41.095731],[28.901558,41.095552],[28.901641,41.095427],[28.901826,41.095243],[28.902022,41.095094],[28.903182,41.094362],[28.905039,41.093565],[28.905259,41.093464],[28.905997,41.092791],[28.906425,41.091976],[28.906601,41.090791],[28.90516,41.090736],[28.903717,41.09078],[28.900841,41.091012],[28.896797,41.091177],[28.894208,41.091056],[28.891993,41.090814],[28.889948,41.090433],[28.889632,41.092821],[28.889426,41.093977],[28.889411,41.094059],[28.889328,41.094951],[28.889025,41.095802],[28.888971,41.096004],[28.888965,41.096213],[28.889138,41.097361],[28.889388,41.097992],[28.889614,41.099854],[28.889667,41.101966],[28.891967,41.101859],[28.896923,41.101544],[28.898631,41.101437]]],"type":"Polygon"}
 }

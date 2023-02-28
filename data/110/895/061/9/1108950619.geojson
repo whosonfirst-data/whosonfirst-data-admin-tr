@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000038,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8695689493,41.0108108254,28.8695689493,41.0108108254",
-    "geom:latitude":41.010811,
-    "geom:longitude":28.869569,
+    "geom:bbox":"28.863076,41.006249,28.87437,41.014281",
+    "geom:latitude":41.010718,
+    "geom:longitude":28.869401,
     "iso:country":"TR",
-    "lbl:bbox":"28.8645689493,41.0058108254,28.8745689493,41.0158108254",
-    "lbl:latitude":41.010811,
-    "lbl:longitude":28.869569,
+    "lbl:latitude":41.010989,
+    "lbl:longitude":28.869487,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,7 +22,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
-    "src:lbl_centroid":"mz",
+    "name:eng_x_preferred":[
+        "Haznedar"
+    ],
+    "name:tur_x_preferred":[
+        "Haznedar"
+    ],
+    "reversegeo:latitude":41.010989,
+    "reversegeo:longitude":28.869487,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -34,7 +45,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368530,
-    "wof:geomhash":"8eb07fa07719a7cedad42985a5b621d5",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"428ce8e9aa2d967beaef4932eef6a27a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -45,7 +59,7 @@
         }
     ],
     "wof:id":1108950619,
-    "wof:lastmodified":1566585308,
+    "wof:lastmodified":1677624704,
     "wof:name":"Haznedar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -55,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.86956894930154,
-    41.01081082544577,
-    28.86956894930154,
-    41.01081082544577
+    28.863076,
+    41.006249,
+    28.87437,
+    41.014281
 ],
-  "geometry": {"coordinates":[28.86956894930154,41.01081082544577],"type":"Point"}
+  "geometry": {"coordinates":[[[28.869517,41.014182],[28.87316,41.00958],[28.872995,41.00949],[28.87437,41.007874],[28.874017,41.00762],[28.87286,41.007158],[28.870601,41.006249],[28.870419,41.006557],[28.869692,41.007477],[28.869152,41.008325],[28.86815,41.009504],[28.866899,41.010849],[28.865715,41.011868],[28.864747,41.01271],[28.864348,41.013058],[28.863076,41.014281],[28.863694,41.014192],[28.863995,41.014162],[28.865225,41.014085],[28.867044,41.013973],[28.86748,41.013979],[28.868104,41.01405],[28.869517,41.014182]]],"type":"Polygon"}
 }

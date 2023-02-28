@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000123,
+    "geom:area":0.00001,
     "geom:area_square_m":1145772.080389,
-    "geom:bbox":"28.981126,41.046217,28.996205,41.058644",
-    "geom:latitude":41.051777,
-    "geom:longitude":28.989351,
+    "geom:bbox":"28.987248,41.04825,28.99143,41.05372",
+    "geom:latitude":41.051536,
+    "geom:longitude":28.988854,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.051694,
-    "lbl:longitude":28.988648,
+    "lbl:latitude":41.051562,
+    "lbl:longitude":28.988886,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.050707,
     "mps:longitude":28.989351,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -31,6 +31,9 @@
     ],
     "name:tur_x_preferred":[
         "Hal\u00e2sk\u00e2rgazi"
+    ],
+    "name:tur_x_variant":[
+        "Halaskargazi"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -55,11 +58,14 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.051562,
+    "reversegeo:longitude":28.988886,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -74,9 +80,9 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"29aa12c0a7b52a147b09f0e16d704453",
+    "wof:geomhash":"b111ab17c366583b2254640107d5cd2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -91,7 +97,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1617131360,
+    "wof:lastmodified":1677624750,
     "wof:name":"Halaskargazi",
     "wof:parent_id":101912685,
     "wof:placetype":"neighbourhood",
@@ -101,10 +107,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.981126,
-    41.046217,
-    28.996205,
-    41.058644
+    28.987248,
+    41.04825,
+    28.99143,
+    41.05372
 ],
-  "geometry": {"coordinates":[[[28.996205,41.05036],[28.995945,41.049324],[28.995667,41.049324],[28.994293,41.049324],[28.994293,41.048288],[28.99292,41.048288],[28.99292,41.046217],[28.992381,41.046217],[28.990173,41.046217],[28.987965,41.046217],[28.987427,41.046217],[28.98468,41.046217],[28.98468,41.046931],[28.98468,41.048288],[28.981934,41.048288],[28.981934,41.05036],[28.981126,41.051431],[28.981377,41.052431],[28.981934,41.052431],[28.98468,41.052431],[28.98468,41.054502],[28.987427,41.054502],[28.987427,41.058644],[28.99292,41.058644],[28.99292,41.057216],[28.99292,41.05593],[28.995667,41.054716],[28.995667,41.054502],[28.995667,41.053145],[28.996205,41.052431],[28.995945,41.051395],[28.996205,41.05036]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.987248,41.05372],[28.988808,41.053248],[28.990223,41.052722],[28.990328,41.052661],[28.99143,41.051752],[28.988363,41.049526],[28.987588,41.04825],[28.987602,41.049462],[28.987591,41.051194],[28.987248,41.05372]]],"type":"Polygon"}
 }

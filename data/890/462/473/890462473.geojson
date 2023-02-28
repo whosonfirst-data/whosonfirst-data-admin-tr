@@ -4,14 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.988413,41.031456,28.988413,41.031456",
-    "geom:latitude":41.031456,
-    "geom:longitude":28.988413,
+    "geom:bbox":"28.985201,41.02831,28.990174,41.032672",
+    "geom:latitude":41.030697,
+    "geom:longitude":28.987761,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.983413,41.026456,28.993413,41.036456",
+    "lbl:latitude":41.0308,
+    "lbl:longitude":28.988003,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,6 +33,9 @@
         "P\u00fcrtela\u015f Hasan Efendi"
     ],
     "name:eng_x_preferred":[
+        "Purtelashasanefendi"
+    ],
+    "name:eng_x_variant":[
         "P\u00fcrtela\u015f Hasan Efendi"
     ],
     "name:eus_x_preferred":[
@@ -88,6 +92,9 @@
     "name:tur_x_preferred":[
         "P\u00fcrtela\u015f Hasan Efendi"
     ],
+    "name:tur_x_variant":[
+        "P\u00fcrtelas Hasan Efendi"
+    ],
     "name:war_x_preferred":[
         "P\u00fcrtela\u015f Hasan Efendi"
     ],
@@ -102,6 +109,13 @@
     "qs:photos_sr":5,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.0308,
+    "reversegeo:longitude":28.988003,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -117,7 +131,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053390,
-    "wof:geomhash":"81af5beeda323ae9218cc7632f7bd38d",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"1f2d772212acfe1de0c98e2d72067072",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,20 +146,22 @@
         }
     ],
     "wof:id":890462473,
-    "wof:lastmodified":1566586402,
-    "wof:name":"P\u00fcrtelas Hasan Efendi",
+    "wof:lastmodified":1677624628,
+    "wof:name":"Purtelashasanefendi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950437
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.988413,
-    41.031456,
-    28.988413,
-    41.031456
+    28.985201,
+    41.02831,
+    28.990174,
+    41.032672
 ],
-  "geometry": {"coordinates":[28.988413,41.031456],"type":"Point"}
+  "geometry": {"coordinates":[[[[28.988012,41.032672],[28.988922,41.031863],[28.98995,41.031107],[28.990125,41.031012],[28.990046,41.030814],[28.990174,41.030765],[28.989737,41.030174],[28.988689,41.028752],[28.988496,41.028735],[28.988121,41.028906],[28.988088,41.028866],[28.987957,41.028965],[28.987597,41.029211],[28.987269,41.029003],[28.986594,41.028751],[28.986039,41.029647],[28.986433,41.029778],[28.98696,41.02986],[28.986595,41.030156],[28.986274,41.030636],[28.985201,41.030611],[28.985228,41.031223],[28.986365,41.031631],[28.986054,41.032131],[28.987331,41.032575],[28.988012,41.032672]]],[[[28.98863,41.028455],[28.988653,41.028489],[28.988694,41.028509],[28.988765,41.028501],[28.9889,41.028418],[28.988868,41.028368],[28.988874,41.028333],[28.988851,41.02831],[28.988817,41.028313],[28.98863,41.028455]]]],"type":"MultiPolygon"}
 }

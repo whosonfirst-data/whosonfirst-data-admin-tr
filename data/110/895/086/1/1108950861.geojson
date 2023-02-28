@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000105,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.6663025478,41.0101286601,28.6663025478,41.0101286601",
-    "geom:latitude":41.010129,
-    "geom:longitude":28.666303,
+    "geom:bbox":"28.662673,41.005839,28.678643,41.013996",
+    "geom:latitude":41.009733,
+    "geom:longitude":28.671168,
     "iso:country":"TR",
-    "lbl:bbox":"28.6613025478,41.0051286601,28.6713025478,41.0151286601",
-    "lbl:latitude":41.010129,
-    "lbl:longitude":28.666303,
+    "lbl:latitude":41.00983,
+    "lbl:longitude":28.671168,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Guzelyurt"
+    ],
     "name:tur_x_preferred":[
         "G\u00fczelyurt"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Guzelyurt"
+    ],
+    "reversegeo:latitude":41.00983,
+    "reversegeo:longitude":28.671168,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -37,7 +48,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368682,
-    "wof:geomhash":"b2c0cba5e43e0e62a4f71bd2ed838fc5",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"5860b3989cf944459a653d8040798f31",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +62,7 @@
         }
     ],
     "wof:id":1108950861,
-    "wof:lastmodified":1566585300,
+    "wof:lastmodified":1677624677,
     "wof:name":"Guzelyurt",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -58,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.66630254775756,
-    41.01012866013847,
-    28.66630254775756,
-    41.01012866013847
+    28.662673,
+    41.005839,
+    28.678643,
+    41.013996
 ],
-  "geometry": {"coordinates":[28.66630254775756,41.01012866013847],"type":"Point"}
+  "geometry": {"coordinates":[[[28.663605,41.007588],[28.663712,41.007862],[28.663605,41.008457],[28.663355,41.009361],[28.663426,41.012312],[28.66295,41.012229],[28.662673,41.013431],[28.664815,41.012408],[28.664982,41.012366],[28.665982,41.012622],[28.665952,41.012741],[28.668588,41.012616],[28.668576,41.013092],[28.66901,41.013122],[28.669492,41.013413],[28.670111,41.013615],[28.670444,41.013657],[28.6728,41.013526],[28.674091,41.013723],[28.674456,41.01383],[28.67474,41.013913],[28.675311,41.013996],[28.677697,41.012848],[28.678643,41.012497],[28.678286,41.008975],[28.677881,41.005839],[28.672218,41.006025],[28.668097,41.006092],[28.666731,41.006246],[28.664968,41.006598],[28.663443,41.007131],[28.663605,41.007588]]],"type":"Polygon"}
 }

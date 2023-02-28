@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000055,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9684731072,41.0584608359,28.9684731072,41.0584608359",
-    "geom:latitude":41.058461,
-    "geom:longitude":28.968473,
+    "geom:bbox":"28.960344,41.05413,28.973152,41.06347",
+    "geom:latitude":41.058486,
+    "geom:longitude":28.967954,
     "iso:country":"TR",
-    "lbl:bbox":"28.9634731072,41.0534608359,28.9734731072,41.0634608359",
-    "lbl:latitude":41.058461,
-    "lbl:longitude":28.968473,
+    "lbl:latitude":41.058559,
+    "lbl:longitude":28.968585,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Halil Rifat Pasha"
+    ],
     "name:tur_x_preferred":[
         "Halil R\u0131fat Pa\u015fa"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Halil Rifat Pasa"
+    ],
+    "reversegeo:latitude":41.058559,
+    "reversegeo:longitude":28.968585,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -38,7 +49,10 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368083,
-    "wof:geomhash":"4e4785c45ab61131ab890faee79493a5",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"4f704f68306d3d462d1921f1c882b10c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,8 +64,8 @@
         }
     ],
     "wof:id":1108950027,
-    "wof:lastmodified":1566585312,
-    "wof:name":"Halil Rifat Pasa",
+    "wof:lastmodified":1677624651,
+    "wof:name":"Halil Rifat Pasha",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.96847310720293,
-    41.05846083593651,
-    28.96847310720293,
-    41.05846083593651
+    28.960344,
+    41.05413,
+    28.973152,
+    41.06347
 ],
-  "geometry": {"coordinates":[28.96847310720293,41.05846083593651],"type":"Point"}
+  "geometry": {"coordinates":[[[28.968593,41.06347],[28.973152,41.060901],[28.972837,41.060586],[28.972494,41.060124],[28.972263,41.059612],[28.972162,41.059134],[28.972072,41.057947],[28.972032,41.057474],[28.971864,41.056956],[28.971622,41.056512],[28.971459,41.056307],[28.971256,41.05605],[28.970676,41.055561],[28.969573,41.054807],[28.968714,41.05413],[28.966677,41.055879],[28.966255,41.056133],[28.96594,41.056262],[28.965569,41.056318],[28.965175,41.056307],[28.964528,41.056161],[28.964151,41.055936],[28.9637,41.055626],[28.963217,41.055485],[28.962879,41.055457],[28.962206,41.055396],[28.961402,41.055511],[28.960712,41.055739],[28.960344,41.055974],[28.961284,41.056533],[28.962691,41.057534],[28.965156,41.059549],[28.966698,41.061113],[28.968593,41.06347]]],"type":"Polygon"}
 }

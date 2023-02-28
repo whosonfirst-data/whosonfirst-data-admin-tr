@@ -4,18 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9813895,41.0311495,28.9813895,41.0311495",
-    "geom:latitude":41.031149,
-    "geom:longitude":28.981389,
+    "geom:bbox":"28.978536,41.028607,28.982055,41.032305",
+    "geom:latitude":41.030619,
+    "geom:longitude":28.980373,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.9763895,41.0261495,28.9863895,41.0361495",
+    "lbl:latitude":41.030634,
+    "lbl:longitude":28.980493,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Firuzaga"
+    ],
+    "name:tur_x_preferred":[
+        "Firuza\u011fa"
+    ],
     "qs:name":"Firuza\u011fa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,6 +34,13 @@
     "qs:photos_sr":5,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.030634,
+    "reversegeo:longitude":28.980493,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -41,7 +55,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053340,
-    "wof:geomhash":"1d070a0ac1a3dfd7fb329e0252de21cb",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"2310a3ee8ef2ea499671e5b6bd67daef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,20 +70,22 @@
         }
     ],
     "wof:id":890461155,
-    "wof:lastmodified":1566586518,
-    "wof:name":"Firuza\u011fa",
+    "wof:lastmodified":1677624631,
+    "wof:name":"Firuzaga",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950379
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.9813895,
-    41.0311495,
-    28.9813895,
-    41.0311495
+    28.978536,
+    41.028607,
+    28.982055,
+    41.032305
 ],
-  "geometry": {"coordinates":[28.9813895,41.0311495],"type":"Point"}
+  "geometry": {"coordinates":[[[28.982055,41.031529],[28.981902,41.030929],[28.981681,41.030197],[28.981486,41.029812],[28.981262,41.029519],[28.981039,41.029238],[28.9808,41.029002],[28.980643,41.028904],[28.980009,41.028647],[28.979857,41.028607],[28.979706,41.028842],[28.979571,41.029243],[28.979391,41.030011],[28.978984,41.030617],[28.978862,41.030858],[28.978814,41.031041],[28.978733,41.031488],[28.978536,41.031745],[28.979061,41.031743],[28.979658,41.031974],[28.979721,41.031993],[28.979853,41.031989],[28.979986,41.031813],[28.980443,41.032068],[28.980762,41.032305],[28.980979,41.032229],[28.981267,41.031936],[28.981222,41.031772],[28.982055,41.031529]]],"type":"Polygon"}
 }

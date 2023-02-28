@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9720132143,41.0367549956,28.9720132143,41.0367549956",
-    "geom:latitude":41.036755,
-    "geom:longitude":28.972013,
+    "geom:bbox":"28.97012,41.034815,28.97504,41.038788",
+    "geom:latitude":41.03687,
+    "geom:longitude":28.972486,
     "iso:country":"TR",
-    "lbl:bbox":"28.9670132143,41.0317549956,28.9770132143,41.0417549956",
-    "lbl:latitude":41.036755,
-    "lbl:longitude":28.972013,
+    "lbl:latitude":41.036998,
+    "lbl:longitude":28.972439,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "Sururi Mehmet Efendi"
     ],
     "name:eng_x_preferred":[
+        "Sururimehmetefendi"
+    ],
+    "name:eng_x_variant":[
         "Sururi Mehmet Efendi"
     ],
     "name:eus_x_preferred":[
@@ -98,7 +100,13 @@
     "name:war_x_preferred":[
         "Sururi Mehmet Efendi"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.036998,
+    "reversegeo:longitude":28.972439,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -118,7 +126,10 @@
     },
     "wof:country":"TR",
     "wof:created":1491368342,
-    "wof:geomhash":"f9bf922326e9f186ce4b0ac913092b83",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"480bd26c3de45a7102cf5aa77401a301",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -130,8 +141,8 @@
         }
     ],
     "wof:id":1108950393,
-    "wof:lastmodified":1566585292,
-    "wof:name":"Sururi Mehmet Efendi",
+    "wof:lastmodified":1677624630,
+    "wof:name":"Sururimehmetefendi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -142,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97201321432268,
-    41.0367549956411,
-    28.97201321432268,
-    41.0367549956411
+    28.97012,
+    41.034815,
+    28.97504,
+    41.038788
 ],
-  "geometry": {"coordinates":[28.97201321432268,41.0367549956411],"type":"Point"}
+  "geometry": {"coordinates":[[[28.97409,41.038788],[28.974895,41.03764],[28.97504,41.037284],[28.974906,41.03728],[28.974751,41.037222],[28.974614,41.037101],[28.974565,41.036926],[28.974551,41.036855],[28.974436,41.036766],[28.973991,41.036403],[28.973336,41.035839],[28.973265,41.035712],[28.973237,41.035411],[28.973267,41.035208],[28.972881,41.035225],[28.972272,41.035058],[28.971783,41.035088],[28.971281,41.034815],[28.970976,41.034829],[28.970978,41.034982],[28.97012,41.035076],[28.970222,41.035341],[28.970693,41.036591],[28.970938,41.037285],[28.971131,41.037789],[28.971089,41.038204],[28.971249,41.038277],[28.971492,41.038376],[28.971734,41.038476],[28.972215,41.038594],[28.972676,41.03863],[28.973282,41.038633],[28.973652,41.038656],[28.9739,41.038712],[28.97409,41.038788]]],"type":"Polygon"}
 }

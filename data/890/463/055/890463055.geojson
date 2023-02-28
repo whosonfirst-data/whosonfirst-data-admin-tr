@@ -4,18 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000042,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.948717,41.014021,28.948717,41.014021",
-    "geom:latitude":41.014021,
-    "geom:longitude":28.948717,
+    "geom:bbox":"28.94462,41.009545,28.954387,41.01697",
+    "geom:latitude":41.013377,
+    "geom:longitude":28.950028,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.943717,41.009021,28.953717,41.019021",
+    "lbl:latitude":41.01323,
+    "lbl:longitude":28.950361,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Iskenderpasa"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130skenderpa\u015fa"
+    ],
+    "name:tur_x_variant":[
+        "\u0130skender Pa\u015fa"
+    ],
     "qs:name":"\u0130skender Pa\u015fa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,6 +37,13 @@
     "qs:photos_sr":2,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.01323,
+    "reversegeo:longitude":28.950361,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -40,7 +57,10 @@
     },
     "wof:country":"TR",
     "wof:created":1469053415,
-    "wof:geomhash":"b8569ed3ad4a05f2aa731c2c8a0bb6e4",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"470d7c09c7a1e6da52eb0ea009fff776",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,20 +71,22 @@
         }
     ],
     "wof:id":890463055,
-    "wof:lastmodified":1566586222,
-    "wof:name":"\u0130skender Pa\u015fa",
+    "wof:lastmodified":1677624659,
+    "wof:name":"Iskenderpasa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950247
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.948717,
-    41.014021,
-    28.948717,
-    41.014021
+    28.94462,
+    41.009545,
+    28.954387,
+    41.01697
 ],
-  "geometry": {"coordinates":[28.948717,41.014021],"type":"Point"}
+  "geometry": {"coordinates":[[[28.94462,41.013976],[28.945964,41.015192],[28.947551,41.016509],[28.949245,41.01562],[28.949352,41.016397],[28.95032,41.01697],[28.950425,41.016889],[28.951184,41.016443],[28.952101,41.015941],[28.954387,41.01467],[28.953501,41.013478],[28.953356,41.013245],[28.9533,41.013058],[28.95338,41.009545],[28.951008,41.009623],[28.950356,41.009968],[28.949256,41.010751],[28.946461,41.012698],[28.94462,41.013976]]],"type":"Polygon"}
 }

@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000034,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8750065663,41.0130369623,28.8750065663,41.0130369623",
-    "geom:latitude":41.013037,
-    "geom:longitude":28.875007,
+    "geom:bbox":"28.869517,41.007874,28.879432,41.016396",
+    "geom:latitude":41.012614,
+    "geom:longitude":28.874716,
     "iso:country":"TR",
-    "lbl:bbox":"28.8700065663,41.0080369623,28.8800065663,41.0180369623",
-    "lbl:latitude":41.013037,
-    "lbl:longitude":28.875007,
+    "lbl:latitude":41.012097,
+    "lbl:longitude":28.874377,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "G\u00fcven"
     ],
     "name:eng_x_preferred":[
+        "Guven"
+    ],
+    "name:eng_x_variant":[
         "G\u00fcven"
     ],
     "name:eus_x_preferred":[
@@ -98,13 +100,22 @@
     "name:tur_x_preferred":[
         "G\u00fcven"
     ],
+    "name:tur_x_variant":[
+        "Guven"
+    ],
     "name:vie_x_preferred":[
         "G\u00fcven"
     ],
     "name:war_x_preferred":[
         "G\u00fcven"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.012097,
+    "reversegeo:longitude":28.874377,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -117,7 +128,10 @@
     },
     "wof:country":"TR",
     "wof:created":1491368527,
-    "wof:geomhash":"e39304f9dbafe40a20bbdb2af6cddac6",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"011ea6613fd03f4c25de7a1c5ade31e0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +142,7 @@
         }
     ],
     "wof:id":1108950611,
-    "wof:lastmodified":1566585308,
+    "wof:lastmodified":1677624704,
     "wof:name":"Guven",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -138,10 +152,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.87500656631135,
-    41.01303696233818,
-    28.87500656631135,
-    41.01303696233818
+    28.869517,
+    41.007874,
+    28.879432,
+    41.016396
 ],
-  "geometry": {"coordinates":[28.87500656631135,41.01303696233818],"type":"Point"}
+  "geometry": {"coordinates":[[[28.87437,41.007874],[28.872995,41.00949],[28.87316,41.00958],[28.869517,41.014182],[28.869576,41.014187],[28.870231,41.014212],[28.870534,41.014179],[28.870814,41.014036],[28.871142,41.013872],[28.871389,41.013826],[28.871649,41.013834],[28.872809,41.014015],[28.873436,41.014149],[28.873891,41.014297],[28.874287,41.014444],[28.874482,41.014587],[28.875125,41.015011],[28.87544,41.015367],[28.87567,41.015504],[28.876792,41.01586],[28.877849,41.016157],[28.87792,41.016177],[28.879432,41.016396],[28.879047,41.015724],[28.878259,41.014633],[28.878,41.014077],[28.877912,41.013306],[28.877603,41.012512],[28.877416,41.012055],[28.877267,41.01184],[28.875328,41.009951],[28.87529,41.009829],[28.875119,41.009256],[28.875152,41.008761],[28.875119,41.008612],[28.875009,41.008458],[28.87437,41.007874]]],"type":"Polygon"}
 }

@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000262,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.6549156707,41.0044720714,28.6549156707,41.0044720714",
-    "geom:latitude":41.004472,
-    "geom:longitude":28.654916,
+    "geom:bbox":"28.642562,40.984977,28.661696,41.011853",
+    "geom:latitude":40.999254,
+    "geom:longitude":28.652013,
     "iso:country":"TR",
-    "lbl:bbox":"28.6499156707,40.9994720714,28.6599156707,41.0094720714",
-    "lbl:latitude":41.004472,
-    "lbl:longitude":28.654916,
+    "lbl:latitude":40.999373,
+    "lbl:longitude":28.651868,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "Bar\u0131\u015f"
     ],
     "name:eng_x_preferred":[
+        "Baris"
+    ],
+    "name:eng_x_variant":[
         "Bar\u0131\u015f"
     ],
     "name:eus_x_preferred":[
@@ -95,10 +97,19 @@
     "name:tur_x_preferred":[
         "Bar\u0131\u015f"
     ],
+    "name:tur_x_variant":[
+        "Baris"
+    ],
     "name:war_x_preferred":[
         "Bar\u0131\u015f"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":40.999373,
+    "reversegeo:longitude":28.651868,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85679237,
@@ -111,7 +122,10 @@
     },
     "wof:country":"TR",
     "wof:created":1491368669,
-    "wof:geomhash":"9cc62819d61944d438fc0042bc4fba6a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"07a45ccc26d55611d68fbcc475f491c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -122,7 +136,7 @@
         }
     ],
     "wof:id":1108950837,
-    "wof:lastmodified":1566585274,
+    "wof:lastmodified":1677624644,
     "wof:name":"Baris",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -132,10 +146,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.65491567069033,
-    41.00447207139592,
-    28.65491567069033,
-    41.00447207139592
+    28.642562,
+    40.984977,
+    28.661696,
+    41.011853
 ],
-  "geometry": {"coordinates":[28.65491567069033,41.00447207139592],"type":"Point"}
+  "geometry": {"coordinates":[[[28.659394,41.008657],[28.659358,41.006974],[28.66031,41.005112],[28.661298,41.002928],[28.661696,41.001464],[28.661637,41.000013],[28.661452,40.996895],[28.656984,40.997073],[28.655865,40.997246],[28.653921,40.994188],[28.652914,40.992605],[28.650582,40.988416],[28.648797,40.984977],[28.647536,40.986048],[28.645227,40.988095],[28.643894,40.990189],[28.64349,40.993283],[28.642562,40.996895],[28.644442,40.998656],[28.646191,41.000405],[28.648642,41.002761],[28.650035,41.005272],[28.650118,41.005522],[28.649332,41.00745],[28.649297,41.007979],[28.649493,41.009033],[28.649761,41.009741],[28.65035,41.010901],[28.650925,41.011853],[28.65558,41.010102],[28.659394,41.008657]]],"type":"Polygon"}
 }

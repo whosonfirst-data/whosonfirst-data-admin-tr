@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000048,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9432466621,41.0193235328,28.9432466621,41.0193235328",
-    "geom:latitude":41.019324,
-    "geom:longitude":28.943247,
+    "geom:bbox":"28.938186,41.013976,28.95032,41.022257",
+    "geom:latitude":41.018077,
+    "geom:longitude":28.944362,
     "iso:country":"TR",
-    "lbl:bbox":"28.9382466621,41.0143235328,28.9482466621,41.0243235328",
-    "lbl:latitude":41.019324,
-    "lbl:longitude":28.943247,
+    "lbl:latitude":41.018056,
+    "lbl:longitude":28.944362,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Aksemsettin"
+    ],
     "name:tur_x_preferred":[
         "Ak\u015femsettin"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Aksemsettin"
+    ],
+    "reversegeo:latitude":41.018056,
+    "reversegeo:longitude":28.944362,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -41,7 +52,10 @@
     },
     "wof:country":"TR",
     "wof:created":1491368264,
-    "wof:geomhash":"bf9991c9f0f202da0641735522146385",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"b36999a4bf14ba501206b20ca27f6154",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +67,7 @@
         }
     ],
     "wof:id":1108950287,
-    "wof:lastmodified":1566585303,
+    "wof:lastmodified":1677624659,
     "wof:name":"Aksemsettin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -63,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.94324666208813,
-    41.01932353281393,
-    28.94324666208813,
-    41.01932353281393
+    28.938186,
+    41.013976,
+    28.95032,
+    41.022257
 ],
-  "geometry": {"coordinates":[28.94324666208813,41.01932353281393],"type":"Point"}
+  "geometry": {"coordinates":[[[28.95032,41.01697],[28.949352,41.016397],[28.949245,41.01562],[28.947551,41.016509],[28.945964,41.015192],[28.94462,41.013976],[28.941643,41.016043],[28.938186,41.018429],[28.938993,41.01882],[28.940582,41.019747],[28.942102,41.020639],[28.942982,41.02116],[28.944066,41.02178],[28.944863,41.022257],[28.946329,41.020852],[28.948272,41.018914],[28.949882,41.017305],[28.95032,41.01697]]],"type":"Polygon"}
 }

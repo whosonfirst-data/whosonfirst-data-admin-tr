@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.2122390769,41.0082085951,29.2122390769,41.0082085951",
-    "geom:latitude":41.008209,
-    "geom:longitude":29.212239,
+    "geom:bbox":"29.198899,40.9971,29.217315,41.008896",
+    "geom:latitude":41.003889,
+    "geom:longitude":29.208406,
     "iso:country":"TR",
-    "lbl:bbox":"29.2072390769,41.0032085951,29.2172390769,41.0132085951",
-    "lbl:latitude":41.008209,
-    "lbl:longitude":29.212239,
+    "lbl:latitude":41.003673,
+    "lbl:longitude":29.20823,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,8 +28,13 @@
     "name:tur_x_preferred":[
         "Sar\u0131gazi"
     ],
+    "name:tur_x_variant":[
+        "Sarigazi"
+    ],
+    "reversegeo:latitude":41.003673,
+    "reversegeo:longitude":29.20823,
     "src:geom":"whosonfirst",
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -39,7 +43,7 @@
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c9a95af143f618f12e4d3dd4281dc338",
+    "wof:geomhash":"835996e7886b22b0da545e472da8568c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,20 +55,22 @@
         }
     ],
     "wof:id":1444832331,
-    "wof:lastmodified":1566584839,
+    "wof:lastmodified":1677624719,
     "wof:name":"Sarigazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890461385
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    29.21223907687434,
-    41.00820859507277,
-    29.21223907687434,
-    41.00820859507277
+    29.198899,
+    40.9971,
+    29.217315,
+    41.008896
 ],
-  "geometry": {"coordinates":[29.21223907687434,41.00820859507277],"type":"Point"}
+  "geometry": {"coordinates":[[[29.206082,40.9971],[29.204253,40.998452],[29.203081,41.002887],[29.202172,41.003785],[29.202249,41.004223],[29.202408,41.004973],[29.201466,41.004688],[29.199347,41.004321],[29.198899,41.00673],[29.198915,41.007081],[29.199034,41.007988],[29.200347,41.008052],[29.203834,41.00831],[29.206577,41.008644],[29.209555,41.008896],[29.210749,41.008786],[29.213377,41.00849],[29.213886,41.008441],[29.214856,41.007812],[29.215387,41.007341],[29.215584,41.007007],[29.216247,41.004866],[29.216625,41.003667],[29.216904,41.003081],[29.217315,41.002247],[29.215411,41.001392],[29.213078,40.999805],[29.210648,40.998885],[29.209126,40.99768],[29.206082,40.9971]]],"type":"Polygon"}
 }
