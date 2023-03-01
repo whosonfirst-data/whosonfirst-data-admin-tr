@@ -2,11 +2,11 @@
   "id": 1108950429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9705626245,41.0272669439,28.9705626245,41.0272669439",
+    "geom:bbox":"28.970563,41.027267,28.970563,41.027267",
     "geom:latitude":41.027267,
     "geom:longitude":28.970563,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.970563,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -38,7 +38,7 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368392,
-    "wof:geomhash":"c6a73ee0ad990d2c61acbd613daef734",
+    "wof:geomhash":"7165e5d533d3dbae33f899ea55ba0fec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":1108950429,
-    "wof:lastmodified":1566585293,
+    "wof:lastmodified":1677710284,
     "wof:name":"Azapkapi",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -60,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97056262445864,
-    41.02726694388431,
-    28.97056262445864,
-    41.02726694388431
+    28.970563,
+    41.027267,
+    28.970563,
+    41.027267
 ],
-  "geometry": {"coordinates":[28.97056262445864,41.02726694388431],"type":"Point"}
+  "geometry": {"coordinates":[28.970563,41.027267],"type":"Point"}
 }

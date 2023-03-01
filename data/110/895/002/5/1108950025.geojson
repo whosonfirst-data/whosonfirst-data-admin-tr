@@ -2,11 +2,11 @@
   "id": 1108950025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.971620234,41.0626027719,28.971620234,41.0626027719",
+    "geom:bbox":"28.97162,41.062603,28.97162,41.062603",
     "geom:latitude":41.062603,
     "geom:longitude":28.97162,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.97162,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -112,7 +112,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368082,
-    "wof:geomhash":"b4f2965ea16658fbb39a15fed0215f21",
+    "wof:geomhash":"dac7f83bab4e4a96d528afe3286ca56f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -124,7 +124,7 @@
         }
     ],
     "wof:id":1108950025,
-    "wof:lastmodified":1566585312,
+    "wof:lastmodified":1677710288,
     "wof:name":"Kaptanpasa",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -134,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97162023403056,
-    41.06260277186688,
-    28.97162023403056,
-    41.06260277186688
+    28.97162,
+    41.062603,
+    28.97162,
+    41.062603
 ],
-  "geometry": {"coordinates":[28.97162023403056,41.06260277186688],"type":"Point"}
+  "geometry": {"coordinates":[28.97162,41.062603],"type":"Point"}
 }

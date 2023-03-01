@@ -2,11 +2,11 @@
   "id": 1108950441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9768997935,41.0395791737,28.9768997935,41.0395791737",
+    "geom:bbox":"28.9769,41.039579,28.9769,41.039579",
     "geom:latitude":41.039579,
     "geom:longitude":28.9769,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.9769,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -43,7 +43,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368399,
-    "wof:geomhash":"544384b93bd128f79301e80dc7d22707",
+    "wof:geomhash":"c1d50292beffb1b17cdfdde78b20418f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +55,7 @@
         }
     ],
     "wof:id":1108950441,
-    "wof:lastmodified":1566585301,
+    "wof:lastmodified":1677710285,
     "wof:name":"Dolapdere",
     "wof:parent_id":101913185,
     "wof:placetype":"neighbourhood",
@@ -65,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97689979347972,
-    41.03957917367993,
-    28.97689979347972,
-    41.03957917367993
+    28.9769,
+    41.039579,
+    28.9769,
+    41.039579
 ],
-  "geometry": {"coordinates":[28.97689979347972,41.03957917367993],"type":"Point"}
+  "geometry": {"coordinates":[28.9769,41.039579],"type":"Point"}
 }

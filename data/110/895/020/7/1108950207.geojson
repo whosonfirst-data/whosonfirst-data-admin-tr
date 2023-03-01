@@ -2,11 +2,11 @@
   "id": 1108950207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.0271098021,41.1671217469,29.0271098021,41.1671217469",
+    "geom:bbox":"29.02711,41.167122,29.02711,41.167122",
     "geom:latitude":41.167122,
     "geom:longitude":29.02711,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.02711,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -37,7 +37,7 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368195,
-    "wof:geomhash":"eae75cc51d5e6fa1232146b3db9e25c5",
+    "wof:geomhash":"f17de7c205453fb558ff66cf0a1af099",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108950207,
-    "wof:lastmodified":1566585296,
+    "wof:lastmodified":1677710285,
     "wof:name":"Kazim Karabekir",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -58,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.02710980205032,
-    41.16712174692353,
-    29.02710980205032,
-    41.16712174692353
+    29.02711,
+    41.167122,
+    29.02711,
+    41.167122
 ],
-  "geometry": {"coordinates":[29.02710980205032,41.16712174692353],"type":"Point"}
+  "geometry": {"coordinates":[29.02711,41.167122],"type":"Point"}
 }

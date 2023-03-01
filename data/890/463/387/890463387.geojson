@@ -2,11 +2,11 @@
   "id": 890463387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9394745,41.0117735,28.9394745,41.0117735",
+    "geom:bbox":"28.939474,41.011773,28.939474,41.011773",
     "geom:latitude":41.011773,
     "geom:longitude":28.939474,
     "gp:adm0":23424969,
@@ -14,7 +14,7 @@
     "lbl:bbox":"28.9344745,41.0067735,28.9444745,41.0167735",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "qs:name":"Nevbahar",
     "qs:name_adm0":"Turkey",
@@ -40,7 +40,7 @@
     },
     "wof:country":"TR",
     "wof:created":1469053428,
-    "wof:geomhash":"8d0b0797a6cd56817198fe1fee446d4f",
+    "wof:geomhash":"391f95c294bf8d0e8864e06d216bc409",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -51,7 +51,7 @@
         }
     ],
     "wof:id":890463387,
-    "wof:lastmodified":1566586261,
+    "wof:lastmodified":1677710289,
     "wof:name":"Nevbahar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -61,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.9394745,
-    41.0117735,
-    28.9394745,
-    41.0117735
+    28.939474,
+    41.011773,
+    28.939474,
+    41.011773
 ],
-  "geometry": {"coordinates":[28.9394745,41.0117735],"type":"Point"}
+  "geometry": {"coordinates":[28.939474,41.011773],"type":"Point"}
 }

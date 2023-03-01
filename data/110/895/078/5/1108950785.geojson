@@ -2,11 +2,11 @@
   "id": 1108950785,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7999195103,41.0764813665,28.7999195103,41.0764813665",
+    "geom:bbox":"28.79992,41.076481,28.79992,41.076481",
     "geom:latitude":41.076481,
     "geom:longitude":28.79992,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.79992,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -37,7 +37,7 @@
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368644,
-    "wof:geomhash":"dc9d6a2126cd17933988000f43724a9a",
+    "wof:geomhash":"3a19720c79b63ea881536fff74e82144",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -48,7 +48,7 @@
         }
     ],
     "wof:id":1108950785,
-    "wof:lastmodified":1566585281,
+    "wof:lastmodified":1677710283,
     "wof:name":"Ikitelli Osb",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -58,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.79991951025738,
-    41.07648136653155,
-    28.79991951025738,
-    41.07648136653155
+    28.79992,
+    41.076481,
+    28.79992,
+    41.076481
 ],
-  "geometry": {"coordinates":[28.79991951025738,41.07648136653155],"type":"Point"}
+  "geometry": {"coordinates":[28.79992,41.076481],"type":"Point"}
 }
