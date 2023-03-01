@@ -2,7 +2,7 @@
   "id": 85929501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.000224,
     "geom:area_square_m":2086743.660783,
@@ -17,7 +17,7 @@
     "mps:latitude":41.050214,
     "mps:longitude":29.068071,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":1,
@@ -62,11 +62,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462769,
         101912541,
-        85679237
+        890462769
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1588718979,
+    "wof:lastmodified":1677703977,
     "wof:name":"Havuzba\u015f\u0131",
     "wof:parent_id":101912541,
     "wof:placetype":"neighbourhood",
