@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        1108709297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"e9ec95da2bd4b9c2c4e92b71d3de7839",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":1209368345
+            "county_id":1108709297,
+            "locality_id":1209368345,
+            "region_id":85679237
         }
     ],
     "wof:id":1209368345,
-    "wof:lastmodified":1566584276,
+    "wof:lastmodified":1678400162,
     "wof:name":"Bahsayis",
-    "wof:parent_id":85632393,
+    "wof:parent_id":1108709297,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

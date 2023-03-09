@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        890462523
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"8961c8479ed2dd855988a2dcc877e03d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":1209455705
+            "county_id":890462523,
+            "locality_id":1209455705,
+            "region_id":85679237
         }
     ],
     "wof:id":1209455705,
-    "wof:lastmodified":1677710655,
+    "wof:lastmodified":1678401550,
     "wof:name":"Soganlikoy",
-    "wof:parent_id":85632393,
+    "wof:parent_id":890462523,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

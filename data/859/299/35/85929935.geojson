@@ -81,9 +81,10 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709497
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,7 +97,8 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709497,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85929935,
             "region_id":85679237
         }
@@ -105,9 +107,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1677703978,
+    "wof:lastmodified":1678401757,
     "wof:name":"Namik Kemal",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

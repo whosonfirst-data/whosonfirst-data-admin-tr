@@ -28,11 +28,11 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912675,
-        890462769
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +46,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462769,
-            "locality_id":101912675,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890461855,
             "region_id":85679237
         }
     ],
     "wof:id":890461855,
-    "wof:lastmodified":1677710292,
+    "wof:lastmodified":1678401494,
     "wof:name":"Ahmet \u00c7elebi",
-    "wof:parent_id":101912675,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

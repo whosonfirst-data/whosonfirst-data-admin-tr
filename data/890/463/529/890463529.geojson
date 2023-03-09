@@ -82,9 +82,9 @@
     "wd:wordcount":395,
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890461921
+        890461921,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -102,12 +102,13 @@
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":890461921,
+            "locality_id":-1,
             "neighbourhood_id":890463529,
             "region_id":85679237
         }
     ],
     "wof:id":890463529,
-    "wof:lastmodified":1566586231,
+    "wof:lastmodified":1678400383,
     "wof:name":"Mahmut \u015eevket Pa\u015fa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

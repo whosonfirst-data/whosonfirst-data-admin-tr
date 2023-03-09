@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        890461921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"8d454f62a83739555de9ad9470785af3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":1209255335
+            "county_id":890461921,
+            "locality_id":1209255335,
+            "region_id":85679237
         }
     ],
     "wof:id":1209255335,
-    "wof:lastmodified":1566584520,
+    "wof:lastmodified":1678400376,
     "wof:name":"Dagdere",
-    "wof:parent_id":85632393,
+    "wof:parent_id":890461921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

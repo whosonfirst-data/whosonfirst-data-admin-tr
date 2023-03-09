@@ -73,7 +73,12 @@
         "Burgaz"
     ],
     "src:geom":"geonames",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237,
+        890462793
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":750285,
@@ -83,16 +88,17 @@
     "wof:geomhash":"5da9d38fd4d49ae2bd77e5ce4a367ec4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890462793,
             "locality_id":1326683335,
-            "region_id":-1
+            "region_id":85679237
         }
     ],
     "wof:id":1326683335,
-    "wof:lastmodified":1677710654,
+    "wof:lastmodified":1678401572,
     "wof:name":"Burgaz",
-    "wof:parent_id":-1,
+    "wof:parent_id":890462793,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

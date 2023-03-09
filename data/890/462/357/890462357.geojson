@@ -105,9 +105,10 @@
     "wd:wordcount":619,
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890463467
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -124,15 +125,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890463467,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462357,
             "region_id":85679237
         }
     ],
     "wof:id":890462357,
-    "wof:lastmodified":1677710290,
+    "wof:lastmodified":1678401511,
     "wof:name":"Yenimahalle",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",

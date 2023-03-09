@@ -67,10 +67,10 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709941,
-        85679241
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -86,25 +86,19 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709941,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85930147,
             "region_id":85679237
-        },
-        {
-            "continent_id":102191569,
-            "country_id":85632393,
-            "county_id":1108709941,
-            "neighbourhood_id":85930147,
-            "region_id":85679241
         }
     ],
     "wof:id":85930147,
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1677711035,
+    "wof:lastmodified":1678401210,
     "wof:name":"Cami",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

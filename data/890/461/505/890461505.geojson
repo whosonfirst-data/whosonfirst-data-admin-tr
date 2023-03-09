@@ -29,7 +29,11 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +45,18 @@
     "wof:geomhash":"50424696252ac9792887da78318b0e16",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "neighbourhood_id":890461505
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":890461505,
+            "region_id":85679237
         }
     ],
     "wof:id":890461505,
-    "wof:lastmodified":1677710291,
+    "wof:lastmodified":1678401492,
     "wof:name":"Tevkii Cafer",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

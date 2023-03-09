@@ -38,23 +38,30 @@
     "reversegeo:longitude":29.049402,
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:geomhash":"de0a214d6490dad6fe3c5f1b7727ccc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
-            "locality_id":-1,
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444832753,
-            "region_id":-1
+            "region_id":85679237
         }
     ],
     "wof:id":1444832753,
-    "wof:lastmodified":1677711052,
+    "wof:lastmodified":1678401006,
     "wof:name":"Kinaliada",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

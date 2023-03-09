@@ -36,11 +36,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912541,
-        890462769
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -49,16 +49,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462769,
-            "locality_id":101912541,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444831271,
             "region_id":85679237
         }
     ],
     "wof:id":1444831271,
-    "wof:lastmodified":1677711054,
+    "wof:lastmodified":1678400915,
     "wof:name":"Kazim Karabekir",
-    "wof:parent_id":101912541,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

@@ -114,9 +114,9 @@
     "wd:wordcount":124,
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462769
+        890462741,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,7 +130,8 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462769,
+            "county_id":890462741,
+            "locality_id":-1,
             "neighbourhood_id":85906601,
             "region_id":85679237
         }
@@ -139,7 +140,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1677703978,
+    "wof:lastmodified":1678401747,
     "wof:name":"\u0130hsaniye",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

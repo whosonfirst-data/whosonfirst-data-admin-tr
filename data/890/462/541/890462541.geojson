@@ -37,9 +37,9 @@
     "wd:wordcount":52,
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709297
+        1108709297,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +56,13 @@
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709297,
+            "locality_id":-1,
             "neighbourhood_id":890462541,
             "region_id":85679237
         }
     ],
     "wof:id":890462541,
-    "wof:lastmodified":1566586416,
+    "wof:lastmodified":1678400169,
     "wof:name":"\u0130mrahor",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

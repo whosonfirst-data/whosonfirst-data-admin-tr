@@ -99,9 +99,10 @@
     "wd:wordcount":60,
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709841
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,15 +119,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709841,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890464183,
             "region_id":85679237
         }
     ],
     "wof:id":890464183,
-    "wof:lastmodified":1677710290,
+    "wof:lastmodified":1678401536,
     "wof:name":"Sancaktepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":241000,
     "wof:population_rank":10,

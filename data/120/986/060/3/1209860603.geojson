@@ -36,7 +36,9 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
-        85632393
+        85632393,
+        85679237,
+        890462793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +50,15 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
+            "county_id":890462793,
             "locality_id":1209860603,
-            "region_id":-1
+            "region_id":85679237
         }
     ],
     "wof:id":1209860603,
-    "wof:lastmodified":1677710655,
+    "wof:lastmodified":1678401554,
     "wof:name":"Adalan",
-    "wof:parent_id":-1,
+    "wof:parent_id":890462793,
     "wof:placetype":"locality",
     "wof:population":4000,
     "wof:population_rank":4,

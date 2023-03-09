@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        1108709941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"42db3f1184911e51d9818bfcd0720829",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":1209639943
+            "county_id":1108709941,
+            "locality_id":1209639943,
+            "region_id":85679237
         }
     ],
     "wof:id":1209639943,
-    "wof:lastmodified":1677710655,
+    "wof:lastmodified":1678401552,
     "wof:name":"Sekerpinar",
-    "wof:parent_id":85632393,
+    "wof:parent_id":1108709941,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

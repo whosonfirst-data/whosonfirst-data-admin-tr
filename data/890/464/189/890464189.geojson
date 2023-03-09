@@ -141,9 +141,10 @@
     "wd:wordcount":134,
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709899
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -160,15 +161,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709899,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890464189,
             "region_id":85679237
         }
     ],
     "wof:id":890464189,
-    "wof:lastmodified":1677710289,
+    "wof:lastmodified":1678401536,
     "wof:name":"Sultanbeyli",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":286622,
     "wof:population_rank":10,

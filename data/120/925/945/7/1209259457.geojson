@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        890461921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"4ff15f8cf8806d2d5ea7fc4fda4efa38",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":1209259457
+            "county_id":890461921,
+            "locality_id":1209259457,
+            "region_id":85679237
         }
     ],
     "wof:id":1209259457,
-    "wof:lastmodified":1677710655,
+    "wof:lastmodified":1678401549,
     "wof:name":"Sirindere",
-    "wof:parent_id":85632393,
+    "wof:parent_id":890461921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

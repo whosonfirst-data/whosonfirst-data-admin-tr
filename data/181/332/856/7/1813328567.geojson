@@ -24,14 +24,26 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:created":1677624766,
     "wof:geomhash":"1dc2435df731995142c3b55fbead45fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "locality_id":-1,
+            "neighbourhood_id":1813328567,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1813328567,
-    "wof:lastmodified":1677711062,
+    "wof:lastmodified":1678400156,
     "wof:name":"Golden Horn",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

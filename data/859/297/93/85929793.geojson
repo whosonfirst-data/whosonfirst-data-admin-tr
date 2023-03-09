@@ -78,11 +78,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912657,
-        890462833
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,8 +99,8 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462833,
-            "locality_id":101912657,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85929793,
             "region_id":85679237
         }
@@ -109,9 +109,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1677711042,
+    "wof:lastmodified":1678401159,
     "wof:name":"Senlikkoy",
-    "wof:parent_id":101912657,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

@@ -39,7 +39,10 @@
     "qs:pop_sr":"4",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        890462793
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +55,17 @@
     "wof:geomhash":"18f2a7b5846e17174fbd4eabfd2b3c44",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":890462417
+            "county_id":890462793,
+            "locality_id":890462417,
+            "region_id":85679237
         }
     ],
     "wof:id":890462417,
-    "wof:lastmodified":1677710656,
+    "wof:lastmodified":1678401596,
     "wof:name":"K\u0131nal\u0131",
-    "wof:parent_id":-1,
+    "wof:parent_id":890462793,
     "wof:placetype":"locality",
     "wof:population":3318,
     "wof:population_rank":4,

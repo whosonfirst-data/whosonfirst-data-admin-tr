@@ -23,16 +23,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:created":1677624671,
     "wof:geomhash":"9207c5c6bd8f3127f00d3822ab3ee6ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328395,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1813328395,
-    "wof:lastmodified":1677711065,
+    "wof:lastmodified":1678400084,
     "wof:name":"Kucukayasofya",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

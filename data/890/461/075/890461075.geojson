@@ -110,11 +110,11 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101913185,
-        890461447
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,16 +130,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890461075,
             "region_id":85679237
         }
     ],
     "wof:id":890461075,
-    "wof:lastmodified":1677624745,
+    "wof:lastmodified":1678401246,
     "wof:name":"Silahtara\u011fa",
-    "wof:parent_id":101913185,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",

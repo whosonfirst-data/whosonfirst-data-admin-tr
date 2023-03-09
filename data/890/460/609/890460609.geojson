@@ -93,9 +93,7 @@
     "qs:pop_sr":"0",
     "src:population":"geonames",
     "wd:wordcount":486,
-    "wof:belongsto":[
-        85632393
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":745646,
@@ -109,12 +107,14 @@
     "wof:geomhash":"6970a10284c88a3b4eca57fe95b26718",
     "wof:hierarchy":[
         {
-            "country_id":85632393,
-            "locality_id":890460609
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890460609,
+            "region_id":-1
         }
     ],
     "wof:id":890460609,
-    "wof:lastmodified":1677710656,
+    "wof:lastmodified":1678401583,
     "wof:name":"Heybeli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

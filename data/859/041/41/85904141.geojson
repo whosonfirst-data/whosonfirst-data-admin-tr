@@ -109,7 +109,11 @@
     "wd:longitude":29.029722,
     "wd:wordcount":1204,
     "wof:belongsto":[
-        102191569
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -127,19 +131,20 @@
     "wof:hierarchy":[
         {
             "continent_id":102191569,
-            "country_id":-1,
-            "locality_id":-1,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85904141,
-            "region_id":-1
+            "region_id":85679237
         }
     ],
     "wof:id":85904141,
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1677711036,
+    "wof:lastmodified":1678401067,
     "wof:name":"Kuzguncuk",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

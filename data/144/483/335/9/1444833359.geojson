@@ -38,10 +38,11 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        1108709941
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
@@ -50,16 +51,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709941,
-            "locality_id":-1,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444833359,
             "region_id":85679237
         }
     ],
     "wof:id":1444833359,
-    "wof:lastmodified":1677710280,
+    "wof:lastmodified":1678401477,
     "wof:name":"Tuzla",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

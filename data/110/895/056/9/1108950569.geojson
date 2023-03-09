@@ -112,9 +112,10 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709903
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -130,15 +131,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709903,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950569,
             "region_id":85679237
         }
     ],
     "wof:id":1108950569,
-    "wof:lastmodified":1677711076,
+    "wof:lastmodified":1678400737,
     "wof:name":"Ugurmumcu",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

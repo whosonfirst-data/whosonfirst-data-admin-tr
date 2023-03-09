@@ -29,9 +29,7 @@
     "qs:photos_sr":1,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
-    "wof:belongsto":[
-        85632393
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724133,
@@ -42,12 +40,14 @@
     "wof:geomhash":"da581580f405f063806bbdbee7ab9c1a",
     "wof:hierarchy":[
         {
-            "country_id":85632393,
-            "locality_id":890462713
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890462713,
+            "region_id":-1
         }
     ],
     "wof:id":890462713,
-    "wof:lastmodified":1677624632,
+    "wof:lastmodified":1678401274,
     "wof:name":"Sakizagaci",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

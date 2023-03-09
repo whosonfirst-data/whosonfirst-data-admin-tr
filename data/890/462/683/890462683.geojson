@@ -29,9 +29,7 @@
     "qs:photos_sr":4,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
-    "wof:belongsto":[
-        85632393
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2343654,
@@ -42,12 +40,14 @@
     "wof:geomhash":"db29499620f3795168dc9276f639d034",
     "wof:hierarchy":[
         {
-            "country_id":85632393,
-            "locality_id":890462683
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":890462683,
+            "region_id":-1
         }
     ],
     "wof:id":890462683,
-    "wof:lastmodified":1677710656,
+    "wof:lastmodified":1678401597,
     "wof:name":"Umuryeri",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

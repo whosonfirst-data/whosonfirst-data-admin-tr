@@ -364,9 +364,9 @@
     "wd:wordcount":6514,
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462459
+        890462459,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -384,12 +384,13 @@
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":890462459,
+            "locality_id":-1,
             "neighbourhood_id":890461241,
             "region_id":85679237
         }
     ],
     "wof:id":890461241,
-    "wof:lastmodified":1566586522,
+    "wof:lastmodified":1678400411,
     "wof:name":"Mimar Sinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,16 +23,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:created":1677624677,
     "wof:geomhash":"e716ebeed5e03e4417d7a4b2b3af4cf7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328413,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1813328413,
-    "wof:lastmodified":1677711062,
+    "wof:lastmodified":1678400092,
     "wof:name":"Piri Reis",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

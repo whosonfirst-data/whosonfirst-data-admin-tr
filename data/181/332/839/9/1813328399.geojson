@@ -23,16 +23,31 @@
     ],
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
     "wof:breaches":[],
     "wof:country":"TR",
     "wof:created":1677624672,
     "wof:geomhash":"08e1f51ac182d030f58a85c6e690d86e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328399,
+            "region_id":85679237
+        }
+    ],
     "wof:id":1813328399,
-    "wof:lastmodified":1677711065,
+    "wof:lastmodified":1678400085,
     "wof:name":"Ucevler",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

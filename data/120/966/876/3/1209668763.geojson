@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        890461937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"d5f93f67ce2a0e1627366ec2deb08e61",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":1209668763
+            "county_id":890461937,
+            "locality_id":1209668763,
+            "region_id":85679237
         }
     ],
     "wof:id":1209668763,
-    "wof:lastmodified":1677710655,
+    "wof:lastmodified":1678401553,
     "wof:name":"Dolayoba",
-    "wof:parent_id":85632393,
+    "wof:parent_id":890461937,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

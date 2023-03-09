@@ -171,9 +171,10 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890461921
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -192,7 +193,8 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461921,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85929801,
             "region_id":85679237
         }
@@ -201,9 +203,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1677711041,
+    "wof:lastmodified":1678401161,
     "wof:name":"Anadolu Hisari",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

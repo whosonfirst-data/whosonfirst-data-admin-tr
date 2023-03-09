@@ -48,10 +48,11 @@
     "woe:name_adm1":"Bursa",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        1108709309
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,16 +67,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709309,
-            "locality_id":-1,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1126060837,
             "region_id":85679237
         }
     ],
     "wof:id":1126060837,
-    "wof:lastmodified":1677624643,
+    "wof:lastmodified":1678400831,
     "wof:name":"Altinsehir",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[

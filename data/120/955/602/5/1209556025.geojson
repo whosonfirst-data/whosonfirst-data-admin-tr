@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632393
+        102191569,
+        85632393,
+        85679237,
+        890461921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"8892d1185647c9282c1f8ed13bc55580",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":1209556025
+            "county_id":890461921,
+            "locality_id":1209556025,
+            "region_id":85679237
         }
     ],
     "wof:id":1209556025,
-    "wof:lastmodified":1677710655,
+    "wof:lastmodified":1678401551,
     "wof:name":"Dutdere",
-    "wof:parent_id":85632393,
+    "wof:parent_id":890461921,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

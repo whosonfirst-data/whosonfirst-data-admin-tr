@@ -40,9 +40,10 @@
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890461447
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,15 +60,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950087,
             "region_id":85679237
         }
     ],
     "wof:id":1108950087,
-    "wof:lastmodified":1677711072,
+    "wof:lastmodified":1678400649,
     "wof:name":"Emniyetevleri",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
