@@ -1,0 +1,64 @@
+{
+  "id": 1813328499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000064,
+    "geom:bbox":"29.207104,41.008441,29.222028,41.016518",
+    "geom:latitude":41.013055,
+    "geom:longitude":29.214405,
+    "iso:country":"TR",
+    "lbl:latitude":41.012685,
+    "lbl:longitude":29.214292,
+    "mps:latitude":41.012685,
+    "mps:longitude":29.214292,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Inonu"
+    ],
+    "name:ita_x_preferred":[
+        "\u0130n\u00f6n\u00fc"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624718,
+    "wof:geomhash":"f2ca25a753952811098e16e2c2cdfe31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328499,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328499,
+    "wof:lastmodified":1678400128,
+    "wof:name":"Inonu",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.207104,
+    41.008441,
+    29.222028,
+    41.016518
+],
+  "geometry": {"coordinates":[[[29.222028,41.016258],[29.221306,41.014962],[29.221021,41.014562],[29.220364,41.013982],[29.219712,41.013429],[29.218711,41.012224],[29.217846,41.011551],[29.216586,41.010522],[29.214982,41.009235],[29.213886,41.008441],[29.213247,41.008978],[29.212508,41.009427],[29.212081,41.009689],[29.211703,41.009799],[29.210433,41.010095],[29.20994,41.010335],[29.209661,41.010642],[29.20936,41.011069],[29.208998,41.011463],[29.208144,41.012208],[29.207619,41.012755],[29.207104,41.013697],[29.211996,41.01535],[29.213737,41.015945],[29.216444,41.015998],[29.217075,41.016011],[29.218321,41.016198],[29.219654,41.016518],[29.221736,41.016253],[29.222028,41.016258]]],"type":"Polygon"}
+}

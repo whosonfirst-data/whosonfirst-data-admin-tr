@@ -2,11 +2,11 @@
   "id": 101912683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.001409,
     "geom:area_square_m":13141101.599831,
-    "geom:bbox":"28.7921136942,41.0082426226,28.8454708321,41.0555834548",
+    "geom:bbox":"28.792114,41.008243,28.845471,41.055583",
     "geom:latitude":41.029148,
     "geom:longitude":28.824543,
     "iso:country":"TR",
@@ -17,7 +17,7 @@
     "mps:latitude":41.0272,
     "mps:longitude":28.824947,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "G\u00fcn\u0259\u015fli"
@@ -57,7 +57,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"0392c32677558a2d3afd90b7e349924e",
+    "wof:geomhash":"715dbe0197235a9375f468acf9784ed6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +68,7 @@
         }
     ],
     "wof:id":101912683,
-    "wof:lastmodified":1582340316,
+    "wof:lastmodified":1678401709,
     "wof:name":"Gunesli",
     "wof:parent_id":890464319,
     "wof:placetype":"locality",
@@ -78,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.79211369419363,
-    41.00824262260642,
-    28.84547083211993,
-    41.05558345476959
+    28.792114,
+    41.008243,
+    28.845471,
+    41.055583
 ],
-  "geometry": {"coordinates":[[[28.84202742103832,41.01296292830222],[28.82658921933108,41.00824262260642],[28.80805721780382,41.01544791997105],[28.79211369419363,41.02941675071543],[28.84547083211993,41.05558345476959],[28.84202742103832,41.01296292830222]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.842027,41.012963],[28.826589,41.008243],[28.808057,41.015448],[28.792114,41.029417],[28.845471,41.055583],[28.842027,41.012963]]],"type":"Polygon"}
 }

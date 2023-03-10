@@ -2,7 +2,7 @@
   "id": 1226495915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:tur_x_preferred":[
         "Bakkalk\u00f6y"
@@ -40,7 +40,7 @@
         102191569,
         85632393,
         85679237,
-        890460749
+        1108709841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +52,15 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890460749,
+            "county_id":1108709841,
             "locality_id":1226495915,
             "region_id":85679237
         }
     ],
     "wof:id":1226495915,
-    "wof:lastmodified":1566587939,
+    "wof:lastmodified":1678401559,
     "wof:name":"Bakkalkoy",
-    "wof:parent_id":890460749,
+    "wof:parent_id":1108709841,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

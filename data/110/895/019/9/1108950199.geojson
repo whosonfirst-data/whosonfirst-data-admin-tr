@@ -35,9 +35,9 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890463467
+        890463467,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +51,13 @@
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":890463467,
+            "locality_id":-1,
             "neighbourhood_id":1108950199,
             "region_id":85679237
         }
     ],
     "wof:id":1108950199,
-    "wof:lastmodified":1566585305,
+    "wof:lastmodified":1678400603,
     "wof:name":"Bahcekoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

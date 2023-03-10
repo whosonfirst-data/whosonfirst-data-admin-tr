@@ -2,7 +2,7 @@
   "id": 890463667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:bbox":"28.96342,41.02678,28.97342,41.03678",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:bel_x_preferred":[
         "\u041a\u0430\u0441\u044b\u043c\u043f\u0430\u0448\u0430"
@@ -62,11 +62,11 @@
     "src:population":"geonames",
     "wd:wordcount":21,
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101913185,
-        890461447
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,16 +83,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890463667,
             "region_id":85679237
         }
     ],
     "wof:id":890463667,
-    "wof:lastmodified":1566586221,
+    "wof:lastmodified":1678401535,
     "wof:name":"Kas\u0131mpa\u015fa",
-    "wof:parent_id":101913185,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",

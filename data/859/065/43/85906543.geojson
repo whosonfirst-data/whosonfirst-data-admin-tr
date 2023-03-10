@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000008,
+    "geom:area":0.000007,
     "geom:area_square_m":70659.911957,
-    "geom:bbox":"28.970947,41.029643,28.975067,41.032233",
-    "geom:latitude":41.030903,
-    "geom:longitude":28.972806,
+    "geom:bbox":"28.971545,41.027638,28.975147,41.033456",
+    "geom:latitude":41.030389,
+    "geom:longitude":28.973111,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.030018,
-    "lbl:longitude":28.973123,
+    "lbl:latitude":41.030178,
+    "lbl:longitude":28.972484,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.030679,
     "mps:longitude":28.972638,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -53,11 +53,17 @@
     "name:ell_x_preferred":[
         "\u0395\u03b2\u03bb\u03b9\u03b3\u03b9\u03ac \u03a4\u03c3\u03b5\u03bb\u03b5\u03bc\u03c0\u03ae"
     ],
+    "name:eng_x_preferred":[
+        "Evliya Celebi"
+    ],
     "name:epo_x_preferred":[
         "Evliya \u00c7elebi"
     ],
     "name:tur_x_preferred":[
         "Evliya Celebi/beyoglu"
+    ],
+    "name:tur_x_variant":[
+        "Evliya Celebi"
     ],
     "name:und_x_variant":[
         "Evliya \u00c7elebi/beyoglu"
@@ -85,16 +91,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.030178,
+    "reversegeo:longitude":28.972484,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
-        890461447,
-        101913185,
+        890460455,
+        1108709503,
         85679237
     ],
     "wof:breaches":[],
@@ -104,15 +113,15 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"e085d2fd739c56d8fd4dca57e202b7d9",
+    "wof:geomhash":"9f5759b580c046c5b16caf7b8af0d238",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85906543,
             "region_id":85679237
         }
@@ -121,9 +130,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1588718979,
+    "wof:lastmodified":1678401101,
     "wof:name":"Evliya Celebi",
-    "wof:parent_id":101913185,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -131,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.970947,
-    41.029643,
-    28.975067,
-    41.032233
+    28.971545,
+    41.027638,
+    28.975147,
+    41.033456
 ],
-  "geometry": {"coordinates":[[[28.975067,41.032233],[28.975067,41.031715],[28.975067,41.031197],[28.97438,41.031197],[28.97438,41.030679],[28.973694,41.030679],[28.973694,41.030161],[28.973694,41.029643],[28.970947,41.029643],[28.970947,41.030357],[28.970947,41.031001],[28.970947,41.031715],[28.973425,41.031715],[28.973555,41.032233],[28.973694,41.032233],[28.97438,41.032233],[28.975067,41.032233]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.975147,41.033257],[28.975049,41.033041],[28.975118,41.032396],[28.975003,41.031967],[28.974771,41.031607],[28.974584,41.031352],[28.974476,41.031286],[28.974303,41.031273],[28.974113,41.031263],[28.973976,41.031211],[28.973874,41.031132],[28.973724,41.030979],[28.9734,41.030501],[28.97322,41.030088],[28.972968,41.029558],[28.972971,41.029378],[28.973151,41.028559],[28.973289,41.028219],[28.971814,41.02769],[28.971648,41.027638],[28.971545,41.028486],[28.971761,41.02875],[28.971885,41.029071],[28.971899,41.029339],[28.971715,41.029764],[28.971604,41.030085],[28.971624,41.030327],[28.971794,41.030563],[28.971872,41.030655],[28.971984,41.030779],[28.972108,41.03089],[28.972175,41.030947],[28.972398,41.030939],[28.972791,41.031002],[28.973311,41.031358],[28.973423,41.03145],[28.973527,41.031542],[28.973609,41.031659],[28.974414,41.033211],[28.974483,41.033456],[28.97463,41.033437],[28.975147,41.033257]]],"type":"Polygon"}
 }

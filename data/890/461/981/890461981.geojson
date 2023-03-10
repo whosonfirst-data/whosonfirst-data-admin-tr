@@ -4,14 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000019,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.967599,41.037736,28.967599,41.037736",
-    "geom:latitude":41.037736,
-    "geom:longitude":28.967599,
+    "geom:bbox":"28.96358,41.034581,28.971131,41.039021",
+    "geom:latitude":41.037089,
+    "geom:longitude":28.967655,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.962599,41.032736,28.972599,41.042736",
+    "lbl:latitude":41.037067,
+    "lbl:longitude":28.967083,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,6 +33,9 @@
         "K\u00fc\u00e7\u00fckpiyale"
     ],
     "name:eng_x_preferred":[
+        "Kucukpiyale"
+    ],
+    "name:eng_x_variant":[
         "K\u00fc\u00e7\u00fckpiyale"
     ],
     "name:eus_x_preferred":[
@@ -88,6 +92,9 @@
     "name:tur_x_preferred":[
         "K\u00fc\u00e7\u00fckpiyale"
     ],
+    "name:tur_x_variant":[
+        "K\u00fc\u00e7\u00fck Piyale"
+    ],
     "name:war_x_preferred":[
         "K\u00fc\u00e7\u00fckpiyale"
     ],
@@ -102,12 +109,19 @@
     "qs:photos_sr":2,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.037067,
+    "reversegeo:longitude":28.967083,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101913185,
-        890461447
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,32 +131,37 @@
     },
     "wof:country":"TR",
     "wof:created":1469053374,
-    "wof:geomhash":"462aa45012d25c99d4ad5adc2f638fe3",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"a762bad63a3c043ef5b4a0722df38207",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890461981,
             "region_id":85679237
         }
     ],
     "wof:id":890461981,
-    "wof:lastmodified":1566586543,
-    "wof:name":"K\u00fc\u00e7\u00fck Piyale",
-    "wof:parent_id":101913185,
+    "wof:lastmodified":1678401261,
+    "wof:name":"Kucukpiyale",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950395
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.967599,
-    41.037736,
-    28.967599,
-    41.037736
+    28.96358,
+    41.034581,
+    28.971131,
+    41.039021
 ],
-  "geometry": {"coordinates":[28.967599,41.037736],"type":"Point"}
+  "geometry": {"coordinates":[[[28.96358,41.038065],[28.963629,41.038141],[28.963897,41.038358],[28.964226,41.03853],[28.964521,41.038562],[28.964872,41.038699],[28.965429,41.038777],[28.965517,41.038756],[28.965467,41.038919],[28.966964,41.039021],[28.96738,41.038956],[28.967739,41.038599],[28.968172,41.038341],[28.968613,41.038177],[28.968926,41.038107],[28.969367,41.038094],[28.970219,41.038098],[28.970693,41.038107],[28.971089,41.038204],[28.971131,41.037789],[28.970938,41.037285],[28.970693,41.036591],[28.970222,41.035341],[28.97012,41.035076],[28.969868,41.034581],[28.968667,41.035428],[28.968513,41.035475],[28.966377,41.035476],[28.966318,41.035503],[28.965835,41.035734],[28.965767,41.035796],[28.965483,41.036243],[28.965316,41.036463],[28.964209,41.03778],[28.96358,41.038065]]],"type":"Polygon"}
 }

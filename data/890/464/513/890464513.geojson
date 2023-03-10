@@ -2,7 +2,7 @@
   "id": 890464513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +14,7 @@
     "lbl:bbox":"28.917001,41.008771,28.927001,41.018771",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "qs:name":"Melek Hatun",
     "qs:name_adm0":"Turkey",
@@ -29,9 +29,10 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890463097
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +46,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890463097,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890464513,
             "region_id":85679237
         }
     ],
     "wof:id":890464513,
-    "wof:lastmodified":1566586321,
+    "wof:lastmodified":1678401540,
     "wof:name":"Melek Hatun",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],

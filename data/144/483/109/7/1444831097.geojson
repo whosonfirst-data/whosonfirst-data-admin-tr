@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000079,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.1596222448,40.9917607092,29.1596222448,40.9917607092",
-    "geom:latitude":40.991761,
-    "geom:longitude":29.159622,
+    "geom:bbox":"29.153673,40.984959,29.168944,40.994641",
+    "geom:latitude":40.990873,
+    "geom:longitude":29.162521,
     "iso:country":"TR",
-    "lbl:bbox":"29.1546222448,40.9867607092,29.1646222448,40.9967607092",
-    "lbl:latitude":40.991761,
-    "lbl:longitude":29.159622,
+    "lbl:latitude":40.991141,
+    "lbl:longitude":29.164315,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -24,36 +23,45 @@
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
+        "Yenicamlica"
+    ],
+    "name:eng_x_variant":[
         "Yeni Camlica"
     ],
     "name:tur_x_preferred":[
         "Yeni \u00c7aml\u0131ca"
     ],
+    "name:tur_x_variant":[
+        "Yeni Camlica"
+    ],
+    "reversegeo:latitude":40.991141,
+    "reversegeo:longitude":29.164315,
     "src:geom":"whosonfirst",
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        1108709303
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"3008628188dc4ddcb20f68c51b643256",
+    "wof:geomhash":"589e4740ecc0f1b200ad389c6ffec5ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709303,
-            "locality_id":-1,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444831097,
             "region_id":85679237
         }
     ],
     "wof:id":1444831097,
-    "wof:lastmodified":1566584847,
-    "wof:name":"Yeni Camlica",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678400902,
+    "wof:name":"Yenicamlica",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.15962224481881,
-    40.99176070920113,
-    29.15962224481881,
-    40.99176070920113
+    29.153673,
+    40.984959,
+    29.168944,
+    40.994641
 ],
-  "geometry": {"coordinates":[29.15962224481881,40.99176070920113],"type":"Point"}
+  "geometry": {"coordinates":[[[29.16656,40.984959],[29.162072,40.985484],[29.161995,40.987671],[29.162018,40.989177],[29.160812,40.989588],[29.159671,40.990131],[29.158653,40.991131],[29.154864,40.99114],[29.153673,40.992707],[29.153727,40.992731],[29.155134,40.993224],[29.155307,40.99337],[29.155398,40.993544],[29.155389,40.993736],[29.15538,40.994636],[29.157737,40.99464],[29.158507,40.994641],[29.161769,40.994557],[29.16399,40.994341],[29.165814,40.994026],[29.167162,40.993719],[29.168944,40.993182],[29.167382,40.990364],[29.167355,40.990127],[29.167455,40.989424],[29.16751,40.988465],[29.167428,40.987634],[29.167172,40.987086],[29.166916,40.986584],[29.16656,40.984959]]],"type":"Polygon"}
 }

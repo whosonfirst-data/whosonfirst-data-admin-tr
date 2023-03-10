@@ -6,18 +6,18 @@
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
     "geom:area_square_m":63580.793441,
-    "geom:bbox":"28.977814,41.035859,28.98056,41.038645",
-    "geom:latitude":41.037106,
-    "geom:longitude":28.979187,
+    "geom:bbox":"28.976347,41.033506,28.980612,41.036403",
+    "geom:latitude":41.034979,
+    "geom:longitude":28.978486,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.034821,
-    "lbl:longitude":28.977599,
+    "lbl:latitude":41.034995,
+    "lbl:longitude":28.978454,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.037193,
     "mps:longitude":28.979169,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -27,10 +27,16 @@
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
+        "Huseyinaga"
+    ],
+    "name:eng_x_variant":[
         "H\u00fcseyinaga"
     ],
     "name:tur_x_preferred":[
         "H\u00fcseyina\u011fa"
+    ],
+    "name:tur_x_variant":[
+        "Huseyinaga"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -55,16 +61,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.034995,
+    "reversegeo:longitude":28.978454,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
-        890461447,
-        101913185,
+        890460455,
+        1108709503,
         85679237
     ],
     "wof:breaches":[],
@@ -74,15 +83,15 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"a656b634f6f4de5baa2d629b0b072a49",
+    "wof:geomhash":"7e2e77d88e786f248c9d8ab440c8897b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85906551,
             "region_id":85679237
         }
@@ -91,9 +100,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1588718978,
+    "wof:lastmodified":1678401104,
     "wof:name":"Huseyinaga",
-    "wof:parent_id":101913185,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -101,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.977814,
-    41.035859,
-    28.98056,
-    41.038645
+    28.976347,
+    41.033506,
+    28.980612,
+    41.036403
 ],
-  "geometry": {"coordinates":[[[28.979187,41.035859],[28.977814,41.035859],[28.977814,41.036895],[28.977814,41.037931],[28.977814,41.038038],[28.979187,41.038645],[28.98056,41.038038],[28.98056,41.037931],[28.98056,41.036895],[28.98056,41.036216],[28.98056,41.035859],[28.980291,41.035859],[28.979187,41.035859]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.976671,41.034009],[28.976347,41.034431],[28.976771,41.034749],[28.977047,41.035105],[28.977223,41.035481],[28.977336,41.03579],[28.977518,41.035817],[28.978534,41.036031],[28.979329,41.036277],[28.979821,41.036403],[28.980612,41.03486],[28.977306,41.033506],[28.977075,41.033774],[28.976671,41.034009]]],"type":"Polygon"}
 }

@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000043,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.2181900076,41.0276796662,29.2181900076,41.0276796662",
-    "geom:latitude":41.02768,
-    "geom:longitude":29.21819,
+    "geom:bbox":"29.215936,41.022196,29.224206,41.03047",
+    "geom:latitude":41.026599,
+    "geom:longitude":29.219958,
     "iso:country":"TR",
-    "lbl:bbox":"29.2131900076,41.0226796662,29.2231900076,41.0326796662",
-    "lbl:latitude":41.02768,
-    "lbl:longitude":29.21819,
+    "lbl:latitude":41.027152,
+    "lbl:longitude":29.220037,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,31 +28,37 @@
     "name:tur_x_preferred":[
         "G\u00fcng\u00f6ren"
     ],
+    "name:tur_x_variant":[
+        "Gungoren"
+    ],
+    "reversegeo:latitude":41.027152,
+    "reversegeo:longitude":29.220037,
     "src:geom":"whosonfirst",
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        1108710051
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"40ca8db30d23b8a0c64b06b0518fc596",
+    "wof:geomhash":"3c34296ac0fbc2580a1305221ed25fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108710051,
-            "locality_id":-1,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444832093,
             "region_id":85679237
         }
     ],
     "wof:id":1444832093,
-    "wof:lastmodified":1566584857,
+    "wof:lastmodified":1678400964,
     "wof:name":"Gungoren",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -61,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.21819000760292,
-    41.02767966617961,
-    29.21819000760292,
-    41.02767966617961
+    29.215936,
+    41.022196,
+    29.224206,
+    41.03047
 ],
-  "geometry": {"coordinates":[29.21819000760292,41.02767966617961],"type":"Point"}
+  "geometry": {"coordinates":[[[29.21725,41.029423],[29.220181,41.030397],[29.220421,41.030161],[29.22083,41.030359],[29.221088,41.030131],[29.221574,41.03047],[29.22191,41.03004],[29.222297,41.029911],[29.222495,41.030006],[29.223527,41.029],[29.224206,41.028853],[29.22412,41.028612],[29.224008,41.028182],[29.223802,41.026565],[29.223836,41.026376],[29.222804,41.02561],[29.22172,41.024922],[29.221264,41.024733],[29.221652,41.024114],[29.222063,41.023533],[29.221597,41.023368],[29.2214,41.023286],[29.219697,41.022941],[29.217004,41.022427],[29.216368,41.022196],[29.216352,41.023708],[29.216445,41.023883],[29.217754,41.024983],[29.216451,41.026456],[29.215936,41.02714],[29.216223,41.027296],[29.217694,41.028432],[29.217716,41.028695],[29.21725,41.029423]]],"type":"Polygon"}
 }

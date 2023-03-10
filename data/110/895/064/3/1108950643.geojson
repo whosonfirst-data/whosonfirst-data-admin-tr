@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000025,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8921088292,41.0356163031,28.8921088292,41.0356163031",
-    "geom:latitude":41.035616,
-    "geom:longitude":28.892109,
+    "geom:bbox":"28.883477,41.033906,28.896172,41.041548",
+    "geom:latitude":41.03746,
+    "geom:longitude":28.888747,
     "iso:country":"TR",
-    "lbl:bbox":"28.8871088292,41.0306163031,28.8971088292,41.0406163031",
-    "lbl:latitude":41.035616,
-    "lbl:longitude":28.892109,
+    "lbl:latitude":41.038014,
+    "lbl:longitude":28.886728,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,31 +22,48 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
-    "src:lbl_centroid":"mz",
+    "name:eng_x_preferred":[
+        "Yavuz Selim"
+    ],
+    "name:tur_x_preferred":[
+        "Yavuz Selim"
+    ],
+    "reversegeo:latitude":41.038014,
+    "reversegeo:longitude":28.886728,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462837
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368547,
-    "wof:geomhash":"17cc33ef76d6224dc9493761ce208071",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"6a60fb1a05d9c4c9edb2be37f011bd8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462837,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950643,
             "region_id":85679237
         }
     ],
     "wof:id":1108950643,
-    "wof:lastmodified":1566585290,
+    "wof:lastmodified":1678400758,
     "wof:name":"Yavuz Selim",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -55,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.89210882924582,
-    41.03561630310264,
-    28.89210882924582,
-    41.03561630310264
+    28.883477,
+    41.033906,
+    28.896172,
+    41.041548
 ],
-  "geometry": {"coordinates":[28.89210882924582,41.03561630310264],"type":"Point"}
+  "geometry": {"coordinates":[[[28.88623,41.036839],[28.885902,41.037217],[28.885037,41.038098],[28.883948,41.039708],[28.883521,41.040283],[28.883477,41.04048],[28.886086,41.041548],[28.887685,41.03889],[28.88866,41.037915],[28.889652,41.037292],[28.890506,41.036934],[28.89499,41.035403],[28.895753,41.034618],[28.896172,41.034136],[28.894825,41.033951],[28.894582,41.033918],[28.894142,41.033906],[28.893933,41.033953],[28.893428,41.034191],[28.89319,41.034447],[28.892958,41.034786],[28.892821,41.034893],[28.892208,41.035137],[28.891065,41.035417],[28.890131,41.035536],[28.888894,41.035691],[28.888358,41.035941],[28.887603,41.036375],[28.886672,41.036723],[28.88623,41.036839]]],"type":"Polygon"}
 }

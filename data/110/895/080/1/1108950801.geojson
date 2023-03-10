@@ -2,11 +2,11 @@
   "id": 1108950801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.676773897,41.0816361098,28.676773897,41.0816361098",
+    "geom:bbox":"28.676774,41.081636,28.676774,41.081636",
     "geom:latitude":41.081636,
     "geom:longitude":28.676774,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.676774,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -101,9 +101,10 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709323
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,20 +112,21 @@
     },
     "wof:country":"TR",
     "wof:created":1491368652,
-    "wof:geomhash":"1f5ee3c06662abaf3073f230c38e42e2",
+    "wof:geomhash":"694f6764bd5336fd57b7d746ffc412f9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709323,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950801,
             "region_id":85679237
         }
     ],
     "wof:id":1108950801,
-    "wof:lastmodified":1566585296,
+    "wof:lastmodified":1678401410,
     "wof:name":"Bogazkoy",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -132,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.67677389702036,
-    41.08163610975533,
-    28.67677389702036,
-    41.08163610975533
+    28.676774,
+    41.081636,
+    28.676774,
+    41.081636
 ],
-  "geometry": {"coordinates":[28.67677389702036,41.08163610975533],"type":"Point"}
+  "geometry": {"coordinates":[28.676774,41.081636],"type":"Point"}
 }

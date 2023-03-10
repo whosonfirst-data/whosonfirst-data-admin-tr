@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000117,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.84503,40.99707,28.84503,40.99707",
-    "geom:latitude":40.99707,
-    "geom:longitude":28.84503,
+    "geom:bbox":"28.84177,40.991643,28.852175,41.006355",
+    "geom:latitude":40.998544,
+    "geom:longitude":28.846916,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
     "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.84003,40.99207,28.85003,41.00207",
+    "lbl:latitude":40.998406,
+    "lbl:longitude":28.846817,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -38,6 +39,9 @@
         "\u015eirinevler"
     ],
     "name:eng_x_preferred":[
+        "Sirinevler"
+    ],
+    "name:eng_x_variant":[
         "\u015eirinevler"
     ],
     "name:eus_x_preferred":[
@@ -94,6 +98,9 @@
     "name:tur_x_preferred":[
         "\u015eirinevler"
     ],
+    "name:tur_x_variant":[
+        "Sirinevler"
+    ],
     "name:war_x_preferred":[
         "\u015eirinevler"
     ],
@@ -104,13 +111,20 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":40.998406,
+    "reversegeo:longitude":28.846817,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912671,
-        890462833
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -121,21 +135,24 @@
     },
     "wof:country":"TR",
     "wof:created":1469053339,
-    "wof:geomhash":"4214e9c807fcc0a4bf19b9157dd9c744",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"e2990a4175898959cb2d5ae1d5b37a94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462833,
-            "locality_id":101912671,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890461119,
             "region_id":85679237
         }
     ],
     "wof:id":890461119,
-    "wof:lastmodified":1566586512,
+    "wof:lastmodified":1678401248,
     "wof:name":"Sirinevler",
-    "wof:parent_id":101912671,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -146,10 +163,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.84503,
-    40.99707,
-    28.84503,
-    40.99707
+    28.84177,
+    40.991643,
+    28.852175,
+    41.006355
 ],
-  "geometry": {"coordinates":[28.84503,40.99707],"type":"Point"}
+  "geometry": {"coordinates":[[[28.846993,41.006355],[28.849424,41.006299],[28.849311,41.005811],[28.849169,41.005165],[28.849109,41.004743],[28.84907,41.004234],[28.849038,41.003615],[28.848961,41.002044],[28.851978,41.001967],[28.852125,41.000511],[28.852175,40.999668],[28.852147,40.999323],[28.85178,40.998376],[28.851518,40.997549],[28.851321,40.997221],[28.850406,40.996427],[28.85039,40.996339],[28.850417,40.996252],[28.850461,40.99618],[28.850538,40.996087],[28.850609,40.996054],[28.850905,40.996087],[28.852072,40.993563],[28.851482,40.993002],[28.851348,40.992857],[28.85126,40.992663],[28.851233,40.992438],[28.851279,40.99189],[28.850423,40.991783],[28.848531,40.991643],[28.845288,40.991736],[28.843265,40.991847],[28.843024,40.99329],[28.842939,40.994177],[28.842859,40.995436],[28.842766,40.996668],[28.842676,40.998009],[28.842514,40.999534],[28.842336,41.000889],[28.842191,41.001899],[28.841997,41.003117],[28.841868,41.003675],[28.84177,41.003952],[28.843221,41.004631],[28.844313,41.005203],[28.845671,41.005893],[28.846273,41.006123],[28.846897,41.006336],[28.846993,41.006355]]],"type":"Polygon"}
 }

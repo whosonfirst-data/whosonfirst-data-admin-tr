@@ -2,11 +2,11 @@
   "id": 101913215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":2894.19029,
-    "geom:bbox":"29.054864782,41.0642416089,29.0558911184,41.0646848806",
+    "geom:bbox":"29.054865,41.064242,29.055891,41.064685",
     "geom:latitude":41.064439,
     "geom:longitude":29.055361,
     "iso:country":"TR",
@@ -17,7 +17,7 @@
     "mps:latitude":41.064443,
     "mps:longitude":29.055357,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Rumelihisar\u0131"
@@ -150,7 +150,7 @@
         "wk:page":"Rumelihisar\u0131"
     },
     "wof:country":"TR",
-    "wof:geomhash":"c428ca1a0df91ac9ae605156f9ee6d8d",
+    "wof:geomhash":"3ae3d244bf46f02d1f157ed38888c09f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +161,7 @@
         }
     ],
     "wof:id":101913215,
-    "wof:lastmodified":1566586007,
+    "wof:lastmodified":1678401724,
     "wof:name":"Rumelihisar\u0131",
     "wof:parent_id":890462769,
     "wof:placetype":"locality",
@@ -171,10 +171,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.05486478201141,
-    41.06424160892163,
-    29.05589111837787,
-    41.06468488058846
+    29.054865,
+    41.064242,
+    29.055891,
+    41.064685
 ],
-  "geometry": {"coordinates":[[[29.05589111837787,41.06450744553479],[29.05581365739107,41.06424160892163],[29.05486478201141,41.06430765038601],[29.05498318129713,41.06468488058846],[29.05589111837787,41.06450744553479]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.055891,41.064507],[29.055814,41.064242],[29.054865,41.064308],[29.054983,41.064685],[29.055891,41.064507]]],"type":"Polygon"}
 }

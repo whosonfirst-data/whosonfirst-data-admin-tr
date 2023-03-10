@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000053,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.84412459,41.0287750115,28.84412459,41.0287750115",
-    "geom:latitude":41.028775,
-    "geom:longitude":28.844125,
+    "geom:bbox":"28.83918,41.021616,28.84846,41.032158",
+    "geom:latitude":41.027768,
+    "geom:longitude":28.844338,
     "iso:country":"TR",
-    "lbl:bbox":"28.83912459,41.0237750115,28.84912459,41.0337750115",
-    "lbl:latitude":41.028775,
-    "lbl:longitude":28.844125,
+    "lbl:latitude":41.028048,
+    "lbl:longitude":28.843881,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,34 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kazimkarabekir"
+    ],
     "name:tur_x_preferred":[
         "K\u00e2z\u0131m Karabekir"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Kaz\u0131m Karabekir"
+    ],
+    "reversegeo:latitude":41.028048,
+    "reversegeo:longitude":28.843881,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890464319
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368638,
-    "wof:geomhash":"3aa5699e3de1f8facd62565fffa44c3a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"edbd1fbd2d186d00f16a62f20aef2d03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890464319,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950773,
             "region_id":85679237
         }
     ],
     "wof:id":1108950773,
-    "wof:lastmodified":1566585274,
-    "wof:name":"Kaz\u0131m Karabekir",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678400796,
+    "wof:name":"Kazimkarabekir",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.84412458995371,
-    41.02877501154359,
-    28.84412458995371,
-    41.02877501154359
+    28.83918,
+    41.021616,
+    28.84846,
+    41.032158
 ],
-  "geometry": {"coordinates":[28.84412458995371,41.02877501154359],"type":"Point"}
+  "geometry": {"coordinates":[[[28.844525,41.021616],[28.844042,41.022791],[28.843987,41.022856],[28.843456,41.023453],[28.84321,41.023831],[28.842821,41.024586],[28.842279,41.02532],[28.841151,41.026661],[28.840801,41.027176],[28.840111,41.028517],[28.839821,41.028944],[28.839602,41.029289],[28.83929,41.030061],[28.83918,41.030488],[28.839309,41.030466],[28.839818,41.030455],[28.840497,41.030428],[28.840907,41.030477],[28.841203,41.030532],[28.841636,41.030735],[28.842774,41.03126],[28.843212,41.031386],[28.843957,41.031441],[28.844619,41.031539],[28.8463,41.031977],[28.846952,41.032103],[28.848244,41.032158],[28.848411,41.031435],[28.84846,41.031134],[28.848452,41.030891],[28.848375,41.030653],[28.8482,41.030376],[28.847882,41.030045],[28.847469,41.029648],[28.847195,41.029382],[28.846952,41.028903],[28.846793,41.028528],[28.846801,41.028359],[28.846878,41.02812],[28.847108,41.027729],[28.847212,41.027376],[28.847535,41.02423],[28.84738,41.024219],[28.847188,41.024065],[28.846135,41.023217],[28.84559,41.022792],[28.844525,41.021616]]],"type":"Polygon"}
 }

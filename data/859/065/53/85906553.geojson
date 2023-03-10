@@ -4,15 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000002,
+    "geom:area":0.000007,
     "geom:area_square_m":17188.41319,
-    "geom:bbox":"28.98056,41.036895,28.981934,41.038466",
-    "geom:latitude":41.037572,
-    "geom:longitude":28.981256,
+    "geom:bbox":"28.979821,41.03486,28.985191,41.037544",
+    "geom:latitude":41.036316,
+    "geom:longitude":28.982486,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.037415,
-    "lbl:longitude":28.981247,
+    "lbl:latitude":41.036289,
+    "lbl:longitude":28.982486,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.03759,
     "mps:longitude":28.981246,
@@ -45,10 +45,11 @@
         "Sehit Muhtar"
     ],
     "name:eng_x_preferred":[
-        "\u015eehit Muhtar"
+        "Sehit Muhtar"
     ],
     "name:eng_x_variant":[
-        "\u015eehitmuhtar"
+        "\u015eehitmuhtar",
+        "\u015eehit Muhtar"
     ],
     "name:eus_x_preferred":[
         "\u015eehitmuhtar"
@@ -105,22 +106,26 @@
         "\u015eehit Muhtar"
     ],
     "name:tur_x_variant":[
-        "\u015eehitmuhtar"
+        "\u015eehitmuhtar",
+        "Sehit Muhtar"
     ],
     "name:war_x_preferred":[
         "\u015eehitmuhtar"
     ],
     "qs:gn_id":0,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.036289,
+    "reversegeo:longitude":28.982486,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
-        890461447,
-        101913185,
+        890460455,
+        1108709503,
         85679237
     ],
     "wof:breaches":[],
@@ -131,15 +136,15 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"b673bf42055aa2d60fcaa88d9aa88ad0",
+    "wof:geomhash":"07137bcc37deaf2872701fc58dade9aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85906553,
             "region_id":85679237
         }
@@ -148,9 +153,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1588718979,
+    "wof:lastmodified":1678401105,
     "wof:name":"Sehit Muhtar",
-    "wof:parent_id":101913185,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -158,10 +163,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.98056,
-    41.036895,
-    28.981934,
-    41.038466
+    28.979821,
+    41.03486,
+    28.985191,
+    41.037544
 ],
-  "geometry": {"coordinates":[[[28.981934,41.036895],[28.981664,41.036895],[28.98056,41.036895],[28.98056,41.037931],[28.98056,41.038038],[28.98153,41.038466],[28.981934,41.037931],[28.981934,41.037252],[28.981934,41.036895]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.979821,41.036403],[28.980372,41.036477],[28.981518,41.036648],[28.981858,41.036738],[28.982386,41.036923],[28.983926,41.037493],[28.984556,41.037544],[28.985191,41.037265],[28.984775,41.036228],[28.984683,41.036267],[28.984363,41.036247],[28.983276,41.035946],[28.982926,41.035796],[28.980612,41.03486],[28.979821,41.036403]]],"type":"Polygon"}
 }

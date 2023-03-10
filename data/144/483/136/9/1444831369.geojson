@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000091,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.1418838936,41.0133091204,29.1418838936,41.0133091204",
-    "geom:latitude":41.013309,
-    "geom:longitude":29.141884,
+    "geom:bbox":"29.136621,41.006027,29.149494,41.016648",
+    "geom:latitude":41.012163,
+    "geom:longitude":29.143504,
     "iso:country":"TR",
-    "lbl:bbox":"29.1368838936,41.0083091204,29.1468838936,41.0183091204",
-    "lbl:latitude":41.013309,
-    "lbl:longitude":29.141884,
+    "lbl:latitude":41.012026,
+    "lbl:longitude":29.143627,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,31 +28,37 @@
     "name:tur_x_preferred":[
         "Alt\u0131n\u015fehir"
     ],
+    "name:tur_x_variant":[
+        "Altinsehir"
+    ],
+    "reversegeo:latitude":41.012026,
+    "reversegeo:longitude":29.143627,
     "src:geom":"whosonfirst",
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        890461267
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"eca71b4dd8c4ad34de4997e846acb1af",
+    "wof:geomhash":"d43f2b21153918df55ff7b8b3fa7426e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461267,
-            "locality_id":-1,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444831369,
             "region_id":85679237
         }
     ],
     "wof:id":1444831369,
-    "wof:lastmodified":1566584846,
+    "wof:lastmodified":1678400924,
     "wof:name":"Altinsehir",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -61,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.14188389360858,
-    41.01330912039192,
-    29.14188389360858,
-    41.01330912039192
+    29.136621,
+    41.006027,
+    29.149494,
+    41.016648
 ],
-  "geometry": {"coordinates":[29.14188389360858,41.01330912039192],"type":"Point"}
+  "geometry": {"coordinates":[[[29.136621,41.012016],[29.137114,41.012676],[29.137749,41.013634],[29.137886,41.013952],[29.138313,41.015583],[29.1386,41.016648],[29.139175,41.01656],[29.140681,41.0165],[29.144283,41.01627],[29.146769,41.016111],[29.149494,41.015944],[29.149465,41.015367],[29.149328,41.014069],[29.149131,41.012493],[29.148403,41.011513],[29.147866,41.009848],[29.147445,41.008463],[29.147281,41.007872],[29.14698,41.007105],[29.146761,41.00676],[29.146437,41.006476],[29.146,41.006027],[29.145698,41.006279],[29.14514,41.00652],[29.143979,41.006914],[29.142862,41.007198],[29.142512,41.007396],[29.141209,41.008633],[29.14064,41.009104],[29.139435,41.009618],[29.138526,41.010231],[29.138045,41.010669],[29.137431,41.011348],[29.136621,41.012016]]],"type":"Polygon"}
 }

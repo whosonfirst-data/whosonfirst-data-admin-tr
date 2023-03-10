@@ -26,9 +26,9 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709297
+        1108709297,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -40,12 +40,13 @@
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709297,
+            "locality_id":-1,
             "neighbourhood_id":1108950897,
             "region_id":85679237
         }
     ],
     "wof:id":1108950897,
-    "wof:lastmodified":1566585293,
+    "wof:lastmodified":1678400164,
     "wof:name":"Yavuz Selim",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -1,0 +1,64 @@
+{
+  "id": 1813328381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:bbox":"28.959962,41.019618,28.964103,41.022371",
+    "geom:latitude":41.020933,
+    "geom:longitude":28.961936,
+    "iso:country":"TR",
+    "lbl:latitude":41.020957,
+    "lbl:longitude":28.961905,
+    "mps:latitude":41.020957,
+    "mps:longitude":28.961905,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yavuz Sinan"
+    ],
+    "name:ita_x_preferred":[
+        "Yavuz Sinan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624663,
+    "wof:geomhash":"cadfa4df741e29c1979a6c478256c3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328381,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328381,
+    "wof:lastmodified":1678400078,
+    "wof:name":"Yavuz Sinan",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.959962,
+    41.019618,
+    28.964103,
+    41.022371
+],
+  "geometry": {"coordinates":[[[28.961417,41.022371],[28.962223,41.021725],[28.962882,41.021151],[28.963367,41.020679],[28.964103,41.020032],[28.963712,41.019618],[28.962249,41.019979],[28.961142,41.020438],[28.960747,41.020595],[28.959962,41.021364],[28.960005,41.021417],[28.960252,41.021673],[28.960564,41.021916],[28.961417,41.022371]]],"type":"Polygon"}
+}

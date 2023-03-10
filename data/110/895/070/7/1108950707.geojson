@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000033,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7954585651,41.0020282498,28.7954585651,41.0020282498",
-    "geom:latitude":41.002028,
-    "geom:longitude":28.795459,
+    "geom:bbox":"28.789324,40.999192,28.798082,41.005391",
+    "geom:latitude":41.001978,
+    "geom:longitude":28.794141,
     "iso:country":"TR",
-    "lbl:bbox":"28.7904585651,40.9970282498,28.8004585651,41.0070282498",
-    "lbl:latitude":41.002028,
-    "lbl:longitude":28.795459,
+    "lbl:latitude":41.001888,
+    "lbl:longitude":28.794495,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,36 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Kemalpasa"
+    ],
     "name:tur_x_preferred":[
         "Kemalpa\u015fa"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Kemalpasa"
+    ],
+    "reversegeo:latitude":41.001888,
+    "reversegeo:longitude":28.794495,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912655,
-        1108709309
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368594,
-    "wof:geomhash":"857caf5620575f2b2ae8302c64e61886",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"617ce2551d9f6de1349d1b34c1db946c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709309,
-            "locality_id":101912655,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950707,
             "region_id":85679237
         }
     ],
     "wof:id":1108950707,
-    "wof:lastmodified":1566585275,
+    "wof:lastmodified":1678400777,
     "wof:name":"Kemalpasa",
-    "wof:parent_id":101912655,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.7954585651011,
-    41.00202824979107,
-    28.7954585651011,
-    41.00202824979107
+    28.789324,
+    40.999192,
+    28.798082,
+    41.005391
 ],
-  "geometry": {"coordinates":[28.7954585651011,41.00202824979107],"type":"Point"}
+  "geometry": {"coordinates":[[[28.789324,41.00277],[28.792709,41.003547],[28.794155,41.003826],[28.794405,41.003939],[28.796011,41.004975],[28.796636,41.005266],[28.797046,41.005391],[28.797668,41.00453],[28.797785,41.004359],[28.797981,41.004073],[28.798067,41.003868],[28.798082,41.003669],[28.797984,41.003162],[28.797603,41.001815],[28.797363,41.001118],[28.797177,41.000423],[28.796985,40.999763],[28.795291,40.999885],[28.795256,40.999873],[28.795238,40.999822],[28.795294,40.999325],[28.793069,40.999192],[28.793084,40.999319],[28.793194,40.999602],[28.793194,40.999923],[28.793182,41.000298],[28.792447,41.000548],[28.791912,41.000265],[28.792337,40.999769],[28.791703,40.999412],[28.790091,41.000027],[28.790237,41.000233],[28.789788,41.001414],[28.789324,41.00277]]],"type":"Polygon"}
 }

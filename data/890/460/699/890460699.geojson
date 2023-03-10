@@ -2,11 +2,11 @@
   "id": 890460699,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9468495,41.017081,28.9468495,41.017081",
+    "geom:bbox":"28.946849,41.017081,28.946849,41.017081",
     "geom:latitude":41.017081,
     "geom:longitude":28.946849,
     "gp:adm0":23424969,
@@ -14,7 +14,7 @@
     "lbl:bbox":"28.9418495,41.012081,28.9518495,41.022081",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "qs:name":"Hasan Halife",
     "qs:name_adm0":"Turkey",
@@ -29,9 +29,10 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +41,21 @@
     },
     "wof:country":"TR",
     "wof:created":1469053324,
-    "wof:geomhash":"15c53d14fc8fa48deb05385da0ec6fd8",
+    "wof:geomhash":"02adf2cd36ee058567dc6552b58af5b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890460699,
             "region_id":85679237
         }
     ],
     "wof:id":890460699,
-    "wof:lastmodified":1566586468,
+    "wof:lastmodified":1678401483,
     "wof:name":"Hasan Halife",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -61,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.9468495,
+    28.946849,
     41.017081,
-    28.9468495,
+    28.946849,
     41.017081
 ],
-  "geometry": {"coordinates":[28.9468495,41.017081],"type":"Point"}
+  "geometry": {"coordinates":[28.946849,41.017081],"type":"Point"}
 }

@@ -2,11 +2,11 @@
   "id": 101912641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.001102,
     "geom:area_square_m":10288884.744437,
-    "geom:bbox":"29.0516947831,40.9616238338,29.1103433502,41.022695301",
+    "geom:bbox":"29.051695,40.961624,29.110343,41.022695",
     "geom:latitude":40.987454,
     "geom:longitude":29.080775,
     "iso:country":"TR",
@@ -17,7 +17,7 @@
     "mps:latitude":40.985583,
     "mps:longitude":29.080331,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0632\u062a\u0628\u0649"
@@ -69,7 +69,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b13704dafef774b6ef2c148fa37227f1",
+    "wof:geomhash":"6e1a5b5ab569a69e6a87b7e2870b5d99",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +80,7 @@
         }
     ],
     "wof:id":101912641,
-    "wof:lastmodified":1582340315,
+    "wof:lastmodified":1678401674,
     "wof:name":"G\u00f6ztepe",
     "wof:parent_id":890462627,
     "wof:placetype":"locality",
@@ -90,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.051694783141,
-    40.961623833755,
-    29.110343350163,
-    41.022695300985
+    29.051695,
+    40.961624,
+    29.110343,
+    41.022695
 ],
-  "geometry": {"coordinates":[[[29.079245137372,40.961623833755],[29.051694783141,40.975854959561],[29.108149996747,41.022299472874],[29.110343350163,41.022695300985],[29.079245137372,40.961623833755]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.079245,40.961624],[29.051695,40.975855],[29.10815,41.022299],[29.110343,41.022695],[29.079245,40.961624]]],"type":"Polygon"}
 }

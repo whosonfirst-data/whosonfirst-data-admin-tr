@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000028,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7865893895,41.0006031782,28.7865893895,41.0006031782",
-    "geom:latitude":41.000603,
-    "geom:longitude":28.786589,
+    "geom:bbox":"28.784631,40.998483,28.790237,41.007069",
+    "geom:latitude":41.002194,
+    "geom:longitude":28.787104,
     "iso:country":"TR",
-    "lbl:bbox":"28.7815893895,40.9956031782,28.7915893895,41.0056031782",
-    "lbl:latitude":41.000603,
-    "lbl:longitude":28.786589,
+    "lbl:latitude":41.000758,
+    "lbl:longitude":28.787062,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,33 +22,48 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "src:lbl_centroid":"mz",
+    "name:eng_x_preferred":[
+        "Sultan Murat"
+    ],
+    "name:tur_x_preferred":[
+        "Sultan Murat"
+    ],
+    "reversegeo:latitude":41.000758,
+    "reversegeo:longitude":28.787062,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912655,
-        1108709309
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368592,
-    "wof:geomhash":"ce2400486e49e68e5370f53efc588fde",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"6b74d840804a9492950937a9dc65920a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709309,
-            "locality_id":101912655,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950701,
             "region_id":85679237
         }
     ],
     "wof:id":1108950701,
-    "wof:lastmodified":1566585275,
+    "wof:lastmodified":1678400775,
     "wof:name":"Sultan Murat",
-    "wof:parent_id":101912655,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -57,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.78658938949598,
-    41.00060317817905,
-    28.78658938949598,
-    41.00060317817905
+    28.784631,
+    40.998483,
+    28.790237,
+    41.007069
 ],
-  "geometry": {"coordinates":[28.78658938949598,41.00060317817905],"type":"Point"}
+  "geometry": {"coordinates":[[[28.790091,41.000027],[28.789913,40.999956],[28.78927,40.99951],[28.789178,40.999468],[28.789047,40.999459],[28.78894,40.999468],[28.788782,40.998662],[28.787666,40.998823],[28.787756,40.998483],[28.786052,40.998786],[28.785736,40.999269],[28.784631,40.999407],[28.784756,40.999856],[28.784937,41.000478],[28.785074,41.001142],[28.785175,41.001701],[28.78519,41.002094],[28.785181,41.002251],[28.785246,41.002534],[28.785325,41.003248],[28.785547,41.003291],[28.785472,41.003855],[28.78544,41.00402],[28.78547,41.004456],[28.785502,41.004659],[28.785417,41.005119],[28.785437,41.005327],[28.785568,41.005968],[28.785542,41.006413],[28.785536,41.006833],[28.785562,41.007069],[28.787669,41.006953],[28.787693,41.006073],[28.787836,41.004169],[28.787794,41.00371],[28.787997,41.002455],[28.789324,41.00277],[28.789788,41.001414],[28.790237,41.000233],[28.790091,41.000027]]],"type":"Polygon"}
 }

@@ -4,21 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000049,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.93155,41.0152,28.93155,41.0152",
-    "geom:latitude":41.0152,
-    "geom:longitude":28.93155,
+    "geom:bbox":"28.92576,41.010542,28.939143,41.017711",
+    "geom:latitude":41.013428,
+    "geom:longitude":28.931791,
     "gn:country":"TR",
     "gn:fcode":"PPLX",
     "gn:population":0,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.92655,41.0102,28.93655,41.0202",
+    "lbl:latitude":41.013527,
+    "lbl:longitude":28.930777,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Sehremini"
+    ],
+    "name:tur_x_preferred":[
+        "\u015eehremini"
+    ],
     "qs:name":"\u015eehremini",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -26,12 +33,20 @@
     "qs:photos_sr":0,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.013527,
+    "reversegeo:longitude":28.930777,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,32 +56,38 @@
     },
     "wof:country":"TR",
     "wof:created":1469053274,
-    "wof:geomhash":"6ccc1d6bf2bd298c86e939cc2d616988",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"ac7abf163d26f3341f4fe81a6fd51abb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890459585,
             "region_id":85679237
         }
     ],
     "wof:id":890459585,
-    "wof:lastmodified":1566586589,
-    "wof:name":"\u015eehremini",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678401235,
+    "wof:name":"Sehremini",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950283
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.93155,
-    41.0152,
-    28.93155,
-    41.0152
+    28.92576,
+    41.010542,
+    28.939143,
+    41.017711
 ],
-  "geometry": {"coordinates":[28.93155,41.0152],"type":"Point"}
+  "geometry": {"coordinates":[[[28.938499,41.011038],[28.931473,41.011132],[28.931459,41.010542],[28.930958,41.010551],[28.930654,41.010646],[28.930381,41.010789],[28.929714,41.011294],[28.929213,41.011576],[28.928741,41.011853],[28.928601,41.011892],[28.927397,41.011663],[28.927037,41.011621],[28.926802,41.011619],[28.925936,41.011865],[28.92594,41.011888],[28.926114,41.012629],[28.92576,41.012764],[28.92599,41.01302],[28.92685,41.013614],[28.926982,41.013812],[28.927642,41.014548],[28.927801,41.014849],[28.927799,41.015015],[28.927545,41.015344],[28.927436,41.015399],[28.926981,41.015456],[28.927069,41.015595],[28.927392,41.015723],[28.927961,41.017466],[28.928134,41.017711],[28.929313,41.01715],[28.930731,41.016468],[28.932341,41.015727],[28.933471,41.015173],[28.933727,41.015052],[28.934952,41.014471],[28.936772,41.013582],[28.937623,41.013156],[28.939143,41.012334],[28.938499,41.011038]]],"type":"Polygon"}
 }

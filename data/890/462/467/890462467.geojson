@@ -4,20 +4,27 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.964666,41.002504,28.964666,41.002504",
-    "geom:latitude":41.002504,
-    "geom:longitude":28.964666,
+    "geom:bbox":"28.959516,41.001273,28.965118,41.00578",
+    "geom:latitude":41.003608,
+    "geom:longitude":28.961964,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.959666,40.997504,28.969666,41.007504",
+    "lbl:latitude":41.003628,
+    "lbl:longitude":28.961922,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
-    "name:tur_x_variant":[
+    "name:eng_x_preferred":[
         "Muhsinehatun"
+    ],
+    "name:tur_x_preferred":[
+        "Muhsinehatun"
+    ],
+    "name:tur_x_variant":[
+        "Muhsine Hatun"
     ],
     "qs:name":"Muhsine Hatun",
     "qs:name_adm0":"Turkey",
@@ -30,11 +37,19 @@
     "qs:photos_sr":6,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.003628,
+    "reversegeo:longitude":28.961922,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,20 +58,24 @@
     },
     "wof:country":"TR",
     "wof:created":1469053390,
-    "wof:geomhash":"a431344d7d04b2e7405d01b865aa87f2",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"4f9d42b1cf919b301848339aa780df23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462467,
             "region_id":85679237
         }
     ],
     "wof:id":890462467,
-    "wof:lastmodified":1566586404,
-    "wof:name":"Muhsine Hatun",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678401267,
+    "wof:name":"Muhsinehatun",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -66,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.964666,
-    41.002504,
-    28.964666,
-    41.002504
+    28.959516,
+    41.001273,
+    28.965118,
+    41.00578
 ],
-  "geometry": {"coordinates":[28.964666,41.002504],"type":"Point"}
+  "geometry": {"coordinates":[[[28.965118,41.004846],[28.964837,41.004407],[28.964716,41.004194],[28.964206,41.003997],[28.963809,41.003676],[28.963737,41.003615],[28.963655,41.003584],[28.963558,41.003574],[28.963409,41.003581],[28.963265,41.003535],[28.963199,41.003489],[28.963135,41.003399],[28.963078,41.002253],[28.961477,41.00225],[28.960899,41.002042],[28.961406,41.00137],[28.961257,41.001273],[28.960414,41.001366],[28.959516,41.00159],[28.959563,41.001838],[28.959627,41.003269],[28.959653,41.003387],[28.960396,41.003233],[28.960565,41.003833],[28.960673,41.00413],[28.961493,41.005309],[28.961795,41.005729],[28.961812,41.00578],[28.961883,41.005778],[28.96237,41.005655],[28.962555,41.005594],[28.962841,41.005469],[28.963177,41.005303],[28.963301,41.005256],[28.963501,41.005208],[28.963852,41.00513],[28.964316,41.005017],[28.964366,41.005005],[28.965118,41.004846]]],"type":"Polygon"}
 }

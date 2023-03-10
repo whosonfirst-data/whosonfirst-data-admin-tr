@@ -1,0 +1,64 @@
+{
+  "id": 1813328395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000058,
+    "geom:bbox":"28.666725,41.024724,28.681987,41.034267",
+    "geom:latitude":41.029817,
+    "geom:longitude":28.675243,
+    "iso:country":"TR",
+    "lbl:latitude":41.02989,
+    "lbl:longitude":28.675243,
+    "mps:latitude":41.02989,
+    "mps:longitude":28.675243,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Kucukayasofya"
+    ],
+    "name:ita_x_preferred":[
+        "K\u00fc\u00e7\u00fckayasofya"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624671,
+    "wof:geomhash":"9207c5c6bd8f3127f00d3822ab3ee6ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328395,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328395,
+    "wof:lastmodified":1678400084,
+    "wof:name":"Kucukayasofya",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.666725,
+    41.024724,
+    28.681987,
+    41.034267
+],
+  "geometry": {"coordinates":[[[28.681987,41.031209],[28.68102,41.030959],[28.681115,41.030007],[28.677504,41.028609],[28.677242,41.02855],[28.676528,41.028228],[28.676415,41.028074],[28.675986,41.027913],[28.676242,41.027473],[28.675713,41.026562],[28.675552,41.025658],[28.675338,41.02564],[28.675365,41.024724],[28.673609,41.025777],[28.672562,41.026521],[28.671408,41.027276],[28.668867,41.027895],[28.666725,41.028573],[28.667493,41.02915],[28.668088,41.029519],[28.6686,41.029692],[28.670724,41.030239],[28.673348,41.031197],[28.674142,41.031618],[28.675144,41.032149],[28.677167,41.033357],[28.67753,41.033613],[28.680154,41.034267],[28.681987,41.031209]]],"type":"Polygon"}
+}

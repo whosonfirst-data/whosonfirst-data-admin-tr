@@ -2,11 +2,11 @@
   "id": 1108950717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7873904763,41.0211126023,28.7873904763,41.0211126023",
+    "geom:bbox":"28.78739,41.021113,28.78739,41.021113",
     "geom:latitude":41.021113,
     "geom:longitude":28.78739,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.78739,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -106,11 +106,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912655,
-        1108709309
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -118,21 +118,21 @@
     },
     "wof:country":"TR",
     "wof:created":1491368600,
-    "wof:geomhash":"a13f315d53c5eafa0793f391ec0e850d",
+    "wof:geomhash":"6a39c6f3089eb61270c50917c6401265",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709309,
-            "locality_id":101912655,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950717,
             "region_id":85679237
         }
     ],
     "wof:id":1108950717,
-    "wof:lastmodified":1566585277,
+    "wof:lastmodified":1678401400,
     "wof:name":"Sogutlucesme",
-    "wof:parent_id":101912655,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -140,10 +140,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.78739047632483,
-    41.02111260225566,
-    28.78739047632483,
-    41.02111260225566
+    28.78739,
+    41.021113,
+    28.78739,
+    41.021113
 ],
-  "geometry": {"coordinates":[28.78739047632483,41.02111260225566],"type":"Point"}
+  "geometry": {"coordinates":[28.78739,41.021113],"type":"Point"}
 }

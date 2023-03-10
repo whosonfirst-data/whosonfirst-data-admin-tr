@@ -1,0 +1,64 @@
+{
+  "id": 1813328405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000059,
+    "geom:bbox":"28.651544,41.031879,28.662862,41.045054",
+    "geom:latitude":41.039321,
+    "geom:longitude":28.65677,
+    "iso:country":"TR",
+    "lbl:latitude":41.039981,
+    "lbl:longitude":28.656213,
+    "mps:latitude":41.039981,
+    "mps:longitude":28.656213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Battalgazi"
+    ],
+    "name:ita_x_preferred":[
+        "Battalgazi"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624674,
+    "wof:geomhash":"095b8a83f6ae3836ec9d594102856232",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328405,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328405,
+    "wof:lastmodified":1678400088,
+    "wof:name":"Battalgazi",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.651544,
+    41.031879,
+    28.662862,
+    41.045054
+],
+  "geometry": {"coordinates":[[[28.661646,41.031879],[28.658773,41.034223],[28.658036,41.034871],[28.656067,41.036513],[28.654781,41.037596],[28.652853,41.039262],[28.652288,41.039578],[28.651544,41.039649],[28.652461,41.040785],[28.652645,41.041303],[28.652639,41.04191],[28.65258,41.042547],[28.652931,41.043445],[28.652541,41.045054],[28.653862,41.044805],[28.655266,41.044793],[28.657598,41.044317],[28.657836,41.043555],[28.658407,41.042187],[28.658883,41.040521],[28.659776,41.037224],[28.660502,41.035654],[28.661085,41.034797],[28.662013,41.034464],[28.662227,41.03394],[28.662862,41.033241],[28.661646,41.031879]]],"type":"Polygon"}
+}

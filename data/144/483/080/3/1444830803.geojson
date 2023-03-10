@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000082,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.0602212579,40.9925858107,29.0602212579,40.9925858107",
-    "geom:latitude":40.992586,
-    "geom:longitude":29.060221,
+    "geom:bbox":"29.0544,40.986304,29.066575,40.998838",
+    "geom:latitude":40.993083,
+    "geom:longitude":29.059606,
     "iso:country":"TR",
-    "lbl:bbox":"29.0552212579,40.9875858107,29.0652212579,40.9975858107",
-    "lbl:latitude":40.992586,
-    "lbl:longitude":29.060221,
+    "lbl:latitude":40.993905,
+    "lbl:longitude":29.059698,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,32 +28,37 @@
     "name:tur_x_preferred":[
         "Dumlup\u0131nar"
     ],
+    "name:tur_x_variant":[
+        "Dumlupinar"
+    ],
+    "reversegeo:latitude":40.993905,
+    "reversegeo:longitude":29.059698,
     "src:geom":"whosonfirst",
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912677,
-        890462769
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"b07dac9a151f46507796dbf3a96abf21",
+    "wof:geomhash":"9cc3af31781a570b24b4e5c9af95a466",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462769,
-            "locality_id":101912677,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444830803,
             "region_id":85679237
         }
     ],
     "wof:id":1444830803,
-    "wof:lastmodified":1566584852,
+    "wof:lastmodified":1678400887,
     "wof:name":"Dumlupinar",
-    "wof:parent_id":101912677,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -62,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.06022125791139,
-    40.99258581065722,
-    29.06022125791139,
-    40.99258581065722
+    29.0544,
+    40.986304,
+    29.066575,
+    40.998838
 ],
-  "geometry": {"coordinates":[29.06022125791139,40.99258581065722],"type":"Point"}
+  "geometry": {"coordinates":[[[29.055158,40.989175],[29.056748,40.990621],[29.057352,40.991277],[29.056381,40.99156],[29.0544,40.992119],[29.054736,40.993118],[29.054903,40.993869],[29.055246,40.994903],[29.055598,40.996101],[29.055955,40.997023],[29.0549,40.99776],[29.055801,40.998316],[29.056442,40.998838],[29.057116,40.998576],[29.061462,40.996939],[29.066575,40.995026],[29.065806,40.993201],[29.065491,40.993278],[29.064843,40.992508],[29.064214,40.9922],[29.062603,40.991603],[29.061794,40.990017],[29.062224,40.989838],[29.059746,40.986304],[29.058092,40.987316],[29.056772,40.988106],[29.055686,40.988783],[29.055158,40.989175]]],"type":"Polygon"}
 }

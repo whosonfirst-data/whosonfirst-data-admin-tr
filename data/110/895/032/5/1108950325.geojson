@@ -2,11 +2,11 @@
   "id": 1108950325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9481093556,41.0266183982,28.9481093556,41.0266183982",
+    "geom:bbox":"28.948109,41.026618,28.948109,41.026618",
     "geom:latitude":41.026618,
     "geom:longitude":28.948109,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.948109,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -47,9 +47,10 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,20 +58,21 @@
     },
     "wof:country":"TR",
     "wof:created":1491368294,
-    "wof:geomhash":"ce6adbaf49deba1a3ff3cad9899930eb",
+    "wof:geomhash":"a575b7e1b99f78aa907c65641bb68085",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950325,
             "region_id":85679237
         }
     ],
     "wof:id":1108950325,
-    "wof:lastmodified":1566585307,
+    "wof:lastmodified":1678401343,
     "wof:name":"Carsamba",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -78,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.94810935555469,
-    41.02661839819339,
-    28.94810935555469,
-    41.02661839819339
+    28.948109,
+    41.026618,
+    28.948109,
+    41.026618
 ],
-  "geometry": {"coordinates":[28.94810935555469,41.02661839819339],"type":"Point"}
+  "geometry": {"coordinates":[28.948109,41.026618],"type":"Point"}
 }

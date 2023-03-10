@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000095,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8838969819,41.0707643454,28.8838969819,41.0707643454",
-    "geom:latitude":41.070764,
-    "geom:longitude":28.883897,
+    "geom:bbox":"28.872157,41.06724,28.890067,41.081592",
+    "geom:latitude":41.073301,
+    "geom:longitude":28.880814,
     "iso:country":"TR",
-    "lbl:bbox":"28.8788969819,41.0657643454,28.8888969819,41.0757643454",
-    "lbl:latitude":41.070764,
-    "lbl:longitude":28.883897,
+    "lbl:latitude":41.071146,
+    "lbl:longitude":28.882918,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "Cevatpa\u015fa"
     ],
     "name:eng_x_preferred":[
+        "Cevatpasa"
+    ],
+    "name:eng_x_variant":[
         "Cevatpa\u015fa"
     ],
     "name:eus_x_preferred":[
@@ -95,15 +97,25 @@
     "name:tur_x_preferred":[
         "Cevatpa\u015fa"
     ],
+    "name:tur_x_variant":[
+        "Cevatpasa"
+    ],
     "name:war_x_preferred":[
         "Cevatpa\u015fa"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.071146,
+    "reversegeo:longitude":28.882918,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462837
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,20 +123,24 @@
     },
     "wof:country":"TR",
     "wof:created":1491368451,
-    "wof:geomhash":"b501a7e6ea27cbcb9b44cfcd76099bd9",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"20f39593cb6a9ace9b9c00da7baadd18",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462837,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950509,
             "region_id":85679237
         }
     ],
     "wof:id":1108950509,
-    "wof:lastmodified":1566585309,
+    "wof:lastmodified":1678400717,
     "wof:name":"Cevatpasa",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -132,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.88389698189993,
-    41.0707643454057,
-    28.88389698189993,
-    41.0707643454057
+    28.872157,
+    41.06724,
+    28.890067,
+    41.081592
 ],
-  "geometry": {"coordinates":[28.88389698189993,41.0707643454057],"type":"Point"}
+  "geometry": {"coordinates":[[[28.890067,41.071379],[28.885874,41.06821],[28.885148,41.067823],[28.884315,41.067508],[28.883482,41.067323],[28.882733,41.06724],[28.882167,41.06724],[28.881573,41.067293],[28.881075,41.067361],[28.878457,41.071052],[28.87609,41.074406],[28.875102,41.075646],[28.874291,41.076577],[28.873117,41.077658],[28.872157,41.0786],[28.872799,41.079696],[28.873438,41.080655],[28.874368,41.081592],[28.875416,41.080451],[28.876738,41.079101],[28.877411,41.078451],[28.878804,41.077289],[28.880038,41.076291],[28.880435,41.076055],[28.88184,41.075449],[28.882673,41.075127],[28.884291,41.074501],[28.885481,41.074027],[28.885762,41.07389],[28.886925,41.073157],[28.888291,41.072242],[28.888958,41.071862],[28.890067,41.071379]]],"type":"Polygon"}
 }

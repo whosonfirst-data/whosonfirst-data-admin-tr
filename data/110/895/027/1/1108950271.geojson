@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000036,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9249440997,41.0060412067,28.9249440997,41.0060412067",
-    "geom:latitude":41.006041,
-    "geom:longitude":28.924944,
+    "geom:bbox":"28.920585,41.003106,28.932794,41.007313",
+    "geom:latitude":41.005239,
+    "geom:longitude":28.926993,
     "iso:country":"TR",
-    "lbl:bbox":"28.9199440997,41.0010412067,28.9299440997,41.0110412067",
-    "lbl:latitude":41.006041,
-    "lbl:longitude":28.924944,
+    "lbl:latitude":41.005325,
+    "lbl:longitude":28.92711,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,31 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
-    "src:lbl_centroid":"mz",
+    "name:eng_x_preferred":[
+        "Silivrikapis"
+    ],
+    "name:tur_x_preferred":[
+        "Silivrikap\u0131s"
+    ],
+    "name:tur_x_variant":[
+        "Silivrikap\u0131"
+    ],
+    "reversegeo:latitude":41.005325,
+    "reversegeo:longitude":28.92711,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368254,
-    "wof:geomhash":"57a7c3e6136a7d91e5b91e628ae7d911",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"e59e399ed58528dea0479600fbb536f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950271,
             "region_id":85679237
         }
     ],
     "wof:id":1108950271,
-    "wof:lastmodified":1566585297,
-    "wof:name":"Silivrikap\u0131",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678400676,
+    "wof:name":"Silivrikapis",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -55,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.92494409972876,
-    41.00604120668892,
-    28.92494409972876,
-    41.00604120668892
+    28.920585,
+    41.003106,
+    28.932794,
+    41.007313
 ],
-  "geometry": {"coordinates":[28.92494409972876,41.00604120668892],"type":"Point"}
+  "geometry": {"coordinates":[[[28.932794,41.006818],[28.932741,41.006204],[28.932627,41.005452],[28.932469,41.004942],[28.932409,41.00408],[28.932191,41.004005],[28.930079,41.003336],[28.930036,41.00336],[28.929458,41.00369],[28.929295,41.003918],[28.929159,41.004065],[28.929012,41.004109],[28.928821,41.004082],[28.927487,41.00357],[28.927362,41.003559],[28.926861,41.003711],[28.926551,41.003673],[28.924809,41.003837],[28.924662,41.003613],[28.923091,41.003106],[28.923085,41.003623],[28.922067,41.003715],[28.920585,41.003892],[28.921086,41.006026],[28.921927,41.006061],[28.922023,41.0061],[28.922161,41.006171],[28.922988,41.006387],[28.924482,41.006714],[28.924972,41.006753],[28.92592,41.006654],[28.926047,41.006666],[28.926249,41.006742],[28.926595,41.006896],[28.926882,41.006992],[28.927096,41.007015],[28.927633,41.006992],[28.928458,41.00702],[28.929367,41.007102],[28.930275,41.007189],[28.931226,41.007313],[28.931235,41.00684],[28.932794,41.006818]]],"type":"Polygon"}
 }

@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000011,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.988883,41.047511,28.988883,41.047511",
-    "geom:latitude":41.047511,
-    "geom:longitude":28.988883,
+    "geom:bbox":"28.983877,41.045626,28.987602,41.05133",
+    "geom:latitude":41.048044,
+    "geom:longitude":28.986212,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.983883,41.042511,28.993883,41.052511",
+    "lbl:latitude":41.047942,
+    "lbl:longitude":28.98624,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "name:aze_x_preferred":[
         "\u018frg\u0259n\u0259qon Dastan\u0131"
@@ -43,6 +44,9 @@
     "name:tur_x_preferred":[
         "Ergenekon Destan\u0131"
     ],
+    "name:tur_x_variant":[
+        "Ergenekon"
+    ],
     "name:zho_x_preferred":[
         "\u984d\u723e\u53e4\u7d0d\u6606"
     ],
@@ -57,13 +61,20 @@
     "qs:photos_sr":6,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.047942,
+    "reversegeo:longitude":28.98624,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1055,
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912685,
-        890461743
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,21 +85,24 @@
     },
     "wof:country":"TR",
     "wof:created":1469053362,
-    "wof:geomhash":"246e484c693da0086c1228629e7f717c",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"8b8ed4b153189f60ad2330642b45f8ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461743,
-            "locality_id":101912685,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890461733,
             "region_id":85679237
         }
     ],
     "wof:id":890461733,
-    "wof:lastmodified":1566586514,
+    "wof:lastmodified":1678401257,
     "wof:name":"Ergenekon",
-    "wof:parent_id":101912685,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -98,10 +112,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.988883,
-    41.047511,
-    28.988883,
-    41.047511
+    28.983877,
+    41.045626,
+    28.987602,
+    41.05133
 ],
-  "geometry": {"coordinates":[28.988883,41.047511],"type":"Point"}
+  "geometry": {"coordinates":[[[28.983877,41.045868],[28.984274,41.046299],[28.984488,41.046531],[28.984662,41.046835],[28.985827,41.049808],[28.987279,41.05133],[28.987591,41.051194],[28.987602,41.049462],[28.987588,41.04825],[28.987025,41.047098],[28.986561,41.045626],[28.984485,41.045737],[28.983877,41.045868]]],"type":"Polygon"}
 }

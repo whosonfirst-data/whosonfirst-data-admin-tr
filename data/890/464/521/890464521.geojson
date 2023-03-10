@@ -2,7 +2,7 @@
   "id": 890464521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:bbox":"29.02833,40.96167,29.03833,40.97167",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03ca\u03bd\u03c4\u03ac\u03c1 \u03a0\u03b1\u03c3\u03ac"
@@ -65,8 +65,11 @@
     "wd:longitude":"29.016666666",
     "wd:wordcount":238,
     "wof:belongsto":[
-        101912681,
-        85632393
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,15 +84,18 @@
     "wof:geomhash":"4810e96a28e71334daa79f3ce67aae80",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632393,
-            "locality_id":101912681,
-            "neighbourhood_id":890464521
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":890464521,
+            "region_id":85679237
         }
     ],
     "wof:id":890464521,
-    "wof:lastmodified":1566586291,
+    "wof:lastmodified":1678401542,
     "wof:name":"Haydarpa\u015fa",
-    "wof:parent_id":101912681,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",

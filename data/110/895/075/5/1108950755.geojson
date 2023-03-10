@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000045,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8567417075,41.0391556141,28.8567417075,41.0391556141",
-    "geom:latitude":41.039156,
-    "geom:longitude":28.856742,
+    "geom:bbox":"28.850638,41.033664,28.859337,41.043237",
+    "geom:latitude":41.038309,
+    "geom:longitude":28.855479,
     "iso:country":"TR",
-    "lbl:bbox":"28.8517417075,41.0341556141,28.8617417075,41.0441556141",
-    "lbl:latitude":41.039156,
-    "lbl:longitude":28.856742,
+    "lbl:latitude":41.038144,
+    "lbl:longitude":28.855776,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -98,12 +97,19 @@
     "name:war_x_preferred":[
         "Sancaktepe"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.038144,
+    "reversegeo:longitude":28.855776,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890464319
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,20 +117,24 @@
     },
     "wof:country":"TR",
     "wof:created":1491368628,
-    "wof:geomhash":"ea38a50539add539d1819cbcbbf186b3",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"103da7480fc162439420f45ed393f458",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890464319,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950755,
             "region_id":85679237
         }
     ],
     "wof:id":1108950755,
-    "wof:lastmodified":1566585299,
+    "wof:lastmodified":1678400791,
     "wof:name":"Sancaktepe",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -132,10 +142,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.8567417075081,
-    41.03915561410327,
-    28.8567417075081,
-    41.03915561410327
+    28.850638,
+    41.033664,
+    28.859337,
+    41.043237
 ],
-  "geometry": {"coordinates":[28.8567417075081,41.03915561410327],"type":"Point"}
+  "geometry": {"coordinates":[[[28.855093,41.033917],[28.855186,41.034672],[28.855169,41.03472],[28.855108,41.034786],[28.854555,41.03515],[28.854217,41.035401],[28.853875,41.035736],[28.853487,41.036178],[28.853155,41.036602],[28.852892,41.037278],[28.85267,41.037892],[28.852396,41.038802],[28.852214,41.03933],[28.851983,41.039958],[28.851603,41.041071],[28.851301,41.041942],[28.851066,41.042481],[28.850638,41.043237],[28.852171,41.042695],[28.854552,41.041649],[28.857465,41.040647],[28.857848,41.040549],[28.859337,41.040428],[28.858274,41.03443],[28.858153,41.033664],[28.85662,41.033799],[28.855246,41.033921],[28.855093,41.033917]]],"type":"Polygon"}
 }

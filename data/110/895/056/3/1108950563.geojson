@@ -2,11 +2,11 @@
   "id": 1108950563,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8312257928,41.1319122958,28.8312257928,41.1319122958",
+    "geom:bbox":"28.831226,41.131912,28.831226,41.131912",
     "geom:latitude":41.131912,
     "geom:longitude":28.831226,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.831226,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -101,9 +101,10 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709495
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,20 +112,21 @@
     },
     "wof:country":"TR",
     "wof:created":1491368498,
-    "wof:geomhash":"1c1d370846e3e121ec3b3de7264ad27d",
+    "wof:geomhash":"8d994f373d2c65baf05742777f277522",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709495,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950563,
             "region_id":85679237
         }
     ],
     "wof:id":1108950563,
-    "wof:lastmodified":1566585313,
+    "wof:lastmodified":1678401385,
     "wof:name":"Eski Habipler",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -132,10 +134,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.83122579281102,
-    41.13191229579136,
-    28.83122579281102,
-    41.13191229579136
+    28.831226,
+    41.131912,
+    28.831226,
+    41.131912
 ],
-  "geometry": {"coordinates":[28.83122579281102,41.13191229579136],"type":"Point"}
+  "geometry": {"coordinates":[28.831226,41.131912],"type":"Point"}
 }

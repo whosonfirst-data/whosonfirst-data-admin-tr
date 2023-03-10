@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000868,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.6089390088,41.1303241022,28.6089390088,41.1303241022",
-    "geom:latitude":41.130324,
-    "geom:longitude":28.608939,
+    "geom:bbox":"28.586171,41.114335,28.625577,41.148779",
+    "geom:latitude":41.131961,
+    "geom:longitude":28.607776,
     "iso:country":"TR",
-    "lbl:bbox":"28.6039390088,41.1253241022,28.6139390088,41.1353241022",
-    "lbl:latitude":41.130324,
-    "lbl:longitude":28.608939,
+    "lbl:latitude":41.132064,
+    "lbl:longitude":28.608152,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,45 +22,64 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Yesilbayir"
+    ],
     "name:tur_x_preferred":[
         "Ye\u015filbay\u0131r"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Yesilbayir"
+    ],
+    "reversegeo:latitude":41.132064,
+    "reversegeo:longitude":28.608152,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709297
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368748,
-    "wof:geomhash":"59e3ff765219c9044c0937e6a7d79e57",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"2afa22eab5fbd592b49f06324bbe6104",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709297,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950959,
             "region_id":85679237
         }
     ],
     "wof:id":1108950959,
-    "wof:lastmodified":1566585307,
+    "wof:lastmodified":1678400830,
     "wof:name":"Yesilbayir",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276606873
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.60893900876309,
-    41.13032410221268,
-    28.60893900876309,
-    41.13032410221268
+    28.586171,
+    41.114335,
+    28.625577,
+    41.148779
 ],
-  "geometry": {"coordinates":[28.60893900876309,41.13032410221268],"type":"Point"}
+  "geometry": {"coordinates":[[[28.599997,41.148779],[28.602849,41.148656],[28.609893,41.146371],[28.611464,41.146324],[28.617295,41.146443],[28.618842,41.145134],[28.622317,41.143563],[28.62342,41.142666],[28.622959,41.140314],[28.623626,41.135959],[28.623887,41.132056],[28.624839,41.125606],[28.625577,41.121703],[28.624125,41.120299],[28.622412,41.120323],[28.622269,41.119609],[28.620008,41.119728],[28.612987,41.119347],[28.601745,41.114335],[28.598307,41.116362],[28.597757,41.116781],[28.597646,41.117111],[28.597668,41.117574],[28.599123,41.119139],[28.599784,41.120571],[28.596919,41.122202],[28.595244,41.12467],[28.59401,41.126521],[28.591741,41.126597],[28.59005,41.129283],[28.587165,41.129382],[28.586171,41.130874],[28.587066,41.132466],[28.589055,41.135848],[28.589354,41.136843],[28.589652,41.138832],[28.591243,41.140523],[28.594128,41.140225],[28.598206,41.140921],[28.599798,41.142015],[28.600793,41.145994],[28.599997,41.148779]]],"type":"Polygon"}
 }

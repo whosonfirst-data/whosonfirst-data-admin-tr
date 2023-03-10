@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000022,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8917655063,41.0324222742,28.8917655063,41.0324222742",
-    "geom:latitude":41.032422,
-    "geom:longitude":28.891766,
+    "geom:bbox":"28.885388,41.02996,28.89512,41.034191",
+    "geom:latitude":41.032574,
+    "geom:longitude":28.890702,
     "iso:country":"TR",
-    "lbl:bbox":"28.8867655063,41.0274222742,28.8967655063,41.0374222742",
-    "lbl:latitude":41.032422,
-    "lbl:longitude":28.891766,
+    "lbl:latitude":41.032269,
+    "lbl:longitude":28.890628,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "Davutpa\u015fa"
     ],
     "name:eng_x_preferred":[
+        "Davutpasa"
+    ],
+    "name:eng_x_variant":[
         "Davutpa\u015fa"
     ],
     "name:eus_x_preferred":[
@@ -95,15 +97,25 @@
     "name:tur_x_preferred":[
         "Davutpa\u015fa"
     ],
+    "name:tur_x_variant":[
+        "Davutpasa"
+    ],
     "name:war_x_preferred":[
         "Davutpa\u015fa"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.032269,
+    "reversegeo:longitude":28.890628,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462837
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,20 +123,24 @@
     },
     "wof:country":"TR",
     "wof:created":1491368545,
-    "wof:geomhash":"5db455ef578f1dc355295adb75844064",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"a39b811879b6b1404021ad3a94a3bfd4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462837,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950641,
             "region_id":85679237
         }
     ],
     "wof:id":1108950641,
-    "wof:lastmodified":1566585290,
+    "wof:lastmodified":1678400757,
     "wof:name":"Davutpasa",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -132,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.89176550631917,
-    41.03242227415465,
-    28.89176550631917,
-    41.03242227415465
+    28.885388,
+    41.02996,
+    28.89512,
+    41.034191
 ],
-  "geometry": {"coordinates":[28.89176550631917,41.03242227415465],"type":"Point"}
+  "geometry": {"coordinates":[[[28.894825,41.033951],[28.894921,41.033419],[28.89512,41.032644],[28.894455,41.032507],[28.894453,41.032313],[28.892369,41.031527],[28.892744,41.031297],[28.892843,41.031188],[28.89246,41.031056],[28.892049,41.030854],[28.891737,41.03058],[28.890987,41.030164],[28.890258,41.02996],[28.889723,41.030428],[28.888363,41.03169],[28.887151,41.032582],[28.885862,41.033497],[28.885388,41.03397],[28.886039,41.033968],[28.886844,41.033864],[28.887331,41.033858],[28.888016,41.033913],[28.888875,41.033962],[28.893239,41.034137],[28.893428,41.034191],[28.893933,41.033953],[28.894142,41.033906],[28.894582,41.033918],[28.894825,41.033951]]],"type":"Polygon"}
 }

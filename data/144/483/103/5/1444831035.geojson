@@ -2,11 +2,11 @@
   "id": 1444831035,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.11682132,40.9818262038,29.11682132,40.9818262038",
+    "geom:bbox":"29.116821,40.981826,29.116821,40.981826",
     "geom:latitude":40.981826,
     "geom:longitude":29.116821,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.116821,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -32,40 +32,42 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912637,
-        1108709303
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"bf7e195f6515f004b22f227a0f8137d3",
+    "wof:geomhash":"721e25ed2528e6785e84c85b3fd36360",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709303,
-            "locality_id":101912637,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444831035,
             "region_id":85679237
         }
     ],
     "wof:id":1444831035,
-    "wof:lastmodified":1566584824,
+    "wof:lastmodified":1678400899,
     "wof:name":"Kucukbakkalkoy",
-    "wof:parent_id":101912637,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890461637
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    29.11682131996313,
-    40.98182620376132,
-    29.11682131996313,
-    40.98182620376132
+    29.116821,
+    40.981826,
+    29.116821,
+    40.981826
 ],
-  "geometry": {"coordinates":[29.11682131996313,40.98182620376132],"type":"Point"}
+  "geometry": {"coordinates":[29.116821,40.981826],"type":"Point"}
 }

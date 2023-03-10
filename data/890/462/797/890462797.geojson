@@ -4,18 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000069,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.853724,40.988456,28.853724,40.988456",
-    "geom:latitude":40.988456,
-    "geom:longitude":28.853724,
+    "geom:bbox":"28.852767,40.979756,28.868327,40.986739",
+    "geom:latitude":40.982947,
+    "geom:longitude":28.860322,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.848724,40.983456,28.858724,40.993456",
+    "lbl:latitude":40.9829,
+    "lbl:longitude":28.860175,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Atakoy 3- 4- 11"
+    ],
+    "name:tur_x_preferred":[
+        "Atak\u00f6y 3- 4- 11"
+    ],
+    "name:tur_x_variant":[
+        "Atak\u00f6y 3-4-11."
+    ],
     "qs:name":"Atak\u00f6y 3-4-11.",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,12 +37,19 @@
     "qs:photos_sr":5,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":40.9829,
+    "reversegeo:longitude":28.860175,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912671,
-        890462833
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,21 +58,24 @@
     },
     "wof:country":"TR",
     "wof:created":1469053404,
-    "wof:geomhash":"335cd8855acfd4690e8e070288bdf37b",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"d59cd482225fc1eb53c6cce1b96f7c95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462833,
-            "locality_id":101912671,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462797,
             "region_id":85679237
         }
     ],
     "wof:id":890462797,
-    "wof:lastmodified":1566586358,
-    "wof:name":"Atak\u00f6y 3-4-11.",
-    "wof:parent_id":101912671,
+    "wof:lastmodified":1678401276,
+    "wof:name":"Atakoy 3- 4- 11",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -63,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.853724,
-    40.988456,
-    28.853724,
-    40.988456
+    28.852767,
+    40.979756,
+    28.868327,
+    40.986739
 ],
-  "geometry": {"coordinates":[28.853724,40.988456],"type":"Point"}
+  "geometry": {"coordinates":[[[28.852767,40.986401],[28.855393,40.985973],[28.85541,40.986062],[28.855918,40.986502],[28.856451,40.986739],[28.85756,40.986654],[28.859456,40.986028],[28.862588,40.984936],[28.865686,40.98376],[28.867133,40.982989],[28.867523,40.982761],[28.867988,40.982693],[28.868259,40.982634],[28.868327,40.982591],[28.868259,40.982414],[28.867895,40.981889],[28.867701,40.981508],[28.867658,40.981254],[28.867573,40.979756],[28.867275,40.97976],[28.863374,40.979895],[28.861663,40.979955],[28.858506,40.980099],[28.856932,40.980124],[28.856762,40.980852],[28.854731,40.982833],[28.85446,40.983002],[28.854003,40.983104],[28.853664,40.983104],[28.852767,40.986401]]],"type":"Polygon"}
 }

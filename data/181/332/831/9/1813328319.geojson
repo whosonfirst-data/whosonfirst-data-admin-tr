@@ -1,0 +1,64 @@
+{
+  "id": 1813328319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:bbox":"28.84383,40.971706,28.851914,40.979879",
+    "geom:latitude":40.976076,
+    "geom:longitude":28.848628,
+    "iso:country":"TR",
+    "lbl:latitude":40.976094,
+    "lbl:longitude":28.848689,
+    "mps:latitude":40.976094,
+    "mps:longitude":28.848689,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Atakoy 6."
+    ],
+    "name:ita_x_preferred":[
+        "Atakoy 6."
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624632,
+    "wof:geomhash":"063725b2616783a70f4a898cc7400d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328319,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328319,
+    "wof:lastmodified":1678400052,
+    "wof:name":"Atakoy 6.",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.84383,
+    40.971706,
+    28.851914,
+    40.979879
+],
+  "geometry": {"coordinates":[[[28.850329,40.979879],[28.850618,40.979203],[28.850993,40.978432],[28.851373,40.97771],[28.851649,40.977242],[28.851847,40.976884],[28.851759,40.975594],[28.851914,40.974205],[28.850377,40.973459],[28.84987,40.973086],[28.849556,40.972742],[28.849511,40.971892],[28.849205,40.971706],[28.848834,40.972032],[28.84732,40.973271],[28.846723,40.974054],[28.845917,40.97514],[28.845512,40.975531],[28.84506,40.975806],[28.84383,40.97643],[28.844734,40.977085],[28.845708,40.977822],[28.846681,40.978406],[28.848001,40.979049],[28.848966,40.979405],[28.85005,40.97976],[28.850329,40.979879]]],"type":"Polygon"}
+}

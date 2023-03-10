@@ -2,11 +2,11 @@
   "id": 1108950387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9760297234,41.0362983254,28.9760297234,41.0362983254",
+    "geom:bbox":"28.97603,41.036298,28.97603,41.036298",
     "geom:latitude":41.036298,
     "geom:longitude":28.97603,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.97603,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -103,11 +103,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101913185,
-        890461447
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,32 +115,34 @@
     },
     "wof:country":"TR",
     "wof:created":1491368335,
-    "wof:geomhash":"def3a7434e9cf3987e8d2bd0dad0ced2",
+    "wof:geomhash":"893bf23437fb15270981294788be6c90",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950387,
             "region_id":85679237
         }
     ],
     "wof:id":1108950387,
-    "wof:lastmodified":1566585285,
+    "wof:lastmodified":1678400690,
     "wof:name":"Kalyoncu Kullugu",
-    "wof:parent_id":101913185,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890463135
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    28.97602972340004,
-    41.03629832537413,
-    28.97602972340004,
-    41.03629832537413
+    28.97603,
+    41.036298,
+    28.97603,
+    41.036298
 ],
-  "geometry": {"coordinates":[28.97602972340004,41.03629832537413],"type":"Point"}
+  "geometry": {"coordinates":[28.97603,41.036298],"type":"Point"}
 }

@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000025,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8955420585,41.0300482313,28.8955420585,41.0300482313",
-    "geom:latitude":41.030048,
-    "geom:longitude":28.895542,
+    "geom:bbox":"28.892369,41.02745,28.899117,41.034136",
+    "geom:latitude":41.030299,
+    "geom:longitude":28.895875,
     "iso:country":"TR",
-    "lbl:bbox":"28.8905420585,41.0250482313,28.9005420585,41.0350482313",
-    "lbl:latitude":41.030048,
-    "lbl:longitude":28.895542,
+    "lbl:latitude":41.030184,
+    "lbl:longitude":28.895645,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,34 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Namik Kemal"
+    ],
     "name:tur_x_preferred":[
         "Nam\u0131k Kemal"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Namik Kemal"
+    ],
+    "reversegeo:latitude":41.030184,
+    "reversegeo:longitude":28.895645,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462837
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368544,
-    "wof:geomhash":"0a0345adacfa001931879651a4120cda",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"220d7909e96be20936bebc8447fe6aa8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462837,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950639,
             "region_id":85679237
         }
     ],
     "wof:id":1108950639,
-    "wof:lastmodified":1566585289,
+    "wof:lastmodified":1678400756,
     "wof:name":"Namik Kemal",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.89554205851232,
-    41.03004823129177,
-    28.89554205851232,
-    41.03004823129177
+    28.892369,
+    41.02745,
+    28.899117,
+    41.034136
 ],
-  "geometry": {"coordinates":[28.89554205851232,41.03004823129177],"type":"Point"}
+  "geometry": {"coordinates":[[[28.899117,41.027707],[28.898633,41.027721],[28.898322,41.027769],[28.897691,41.027899],[28.897429,41.027873],[28.89707,41.02783],[28.895259,41.02745],[28.895097,41.02745],[28.894813,41.027548],[28.894547,41.027707],[28.894276,41.027923],[28.894112,41.028183],[28.893698,41.028985],[28.893466,41.029541],[28.893167,41.030551],[28.893033,41.030915],[28.892843,41.031188],[28.892744,41.031297],[28.892369,41.031527],[28.894453,41.032313],[28.894455,41.032507],[28.89512,41.032644],[28.894921,41.033419],[28.894825,41.033951],[28.896172,41.034136],[28.896582,41.033464],[28.897106,41.032158],[28.897409,41.031502],[28.897717,41.031018],[28.898439,41.03012],[28.898819,41.029321],[28.899061,41.0285],[28.899117,41.027707]]],"type":"Polygon"}
 }

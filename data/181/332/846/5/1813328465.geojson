@@ -1,0 +1,64 @@
+{
+  "id": 1813328465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000036,
+    "geom:bbox":"29.094908,41.003704,29.106048,41.011537",
+    "geom:latitude":41.007564,
+    "geom:longitude":29.100274,
+    "iso:country":"TR",
+    "lbl:latitude":41.007822,
+    "lbl:longitude":29.09981,
+    "mps:latitude":41.007822,
+    "mps:longitude":29.09981,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Yenisehir"
+    ],
+    "name:ita_x_preferred":[
+        "Yeni\u015fehir"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624699,
+    "wof:geomhash":"0cca0ead453e29622518c8109df95b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328465,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328465,
+    "wof:lastmodified":1678400113,
+    "wof:name":"Yenisehir",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.094908,
+    41.003704,
+    29.106048,
+    41.011537
+],
+  "geometry": {"coordinates":[[[29.094908,41.008285],[29.096301,41.010281],[29.096438,41.011357],[29.097182,41.011537],[29.097442,41.010834],[29.097596,41.010524],[29.097826,41.010327],[29.098203,41.010215],[29.099172,41.010012],[29.099687,41.009908],[29.099944,41.010253],[29.100073,41.010355],[29.100344,41.00998],[29.100683,41.009668],[29.101324,41.009065],[29.101707,41.008414],[29.102003,41.008627],[29.103563,41.007872],[29.105296,41.007317],[29.106048,41.006166],[29.105518,41.005991],[29.104176,41.005575],[29.103848,41.005444],[29.103612,41.005263],[29.102301,41.003704],[29.100913,41.004806],[29.099131,41.006042],[29.097251,41.007188],[29.097182,41.00723],[29.095729,41.007956],[29.094908,41.008285]]],"type":"Polygon"}
+}

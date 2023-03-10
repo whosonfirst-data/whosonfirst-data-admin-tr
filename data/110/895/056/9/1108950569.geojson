@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000153,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8685335508,41.1001411544,28.8685335508,41.1001411544",
-    "geom:latitude":41.100141,
-    "geom:longitude":28.868534,
+    "geom:bbox":"28.861456,41.094053,28.879963,41.108993",
+    "geom:latitude":41.101873,
+    "geom:longitude":28.870107,
     "iso:country":"TR",
-    "lbl:bbox":"28.8635335508,41.0951411544,28.8735335508,41.1051411544",
-    "lbl:latitude":41.100141,
-    "lbl:longitude":28.868534,
+    "lbl:latitude":41.101271,
+    "lbl:longitude":28.869476,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "U\u011fur Mumcu"
     ],
     "name:eng_x_preferred":[
+        "Ugurmumcu"
+    ],
+    "name:eng_x_variant":[
         "U\u011fur Mumcu"
     ],
     "name:eus_x_preferred":[
@@ -95,15 +97,25 @@
     "name:tur_x_preferred":[
         "U\u011fur Mumcu"
     ],
+    "name:tur_x_variant":[
+        "Ugur Mumcu"
+    ],
     "name:war_x_preferred":[
         "U\u011fur Mumcu"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.101271,
+    "reversegeo:longitude":28.869476,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709903
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,20 +123,24 @@
     },
     "wof:country":"TR",
     "wof:created":1491368502,
-    "wof:geomhash":"641e78bd40155bb6e26de5659586afbf",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"d22814ed470906d27b19cc531bd8663d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709903,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950569,
             "region_id":85679237
         }
     ],
     "wof:id":1108950569,
-    "wof:lastmodified":1566585312,
-    "wof:name":"Ugur Mumcu",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678400737,
+    "wof:name":"Ugurmumcu",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -132,10 +148,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.86853355084029,
-    41.10014115436081,
-    28.86853355084029,
-    41.10014115436081
+    28.861456,
+    41.094053,
+    28.879963,
+    41.108993
 ],
-  "geometry": {"coordinates":[28.86853355084029,41.10014115436081],"type":"Point"}
+  "geometry": {"coordinates":[[[28.87587,41.097777],[28.869908,41.095972],[28.869717,41.096001],[28.867724,41.095484],[28.865303,41.094835],[28.865326,41.094413],[28.86375,41.094053],[28.863208,41.096742],[28.863155,41.097153],[28.863101,41.098039],[28.862932,41.10044],[28.862917,41.101008],[28.862872,41.101276],[28.86281,41.101469],[28.861456,41.104352],[28.876625,41.108612],[28.87797,41.108993],[28.878303,41.10844],[28.879963,41.106458],[28.878142,41.104352],[28.874454,41.100032],[28.87587,41.097777]]],"type":"Polygon"}
 }

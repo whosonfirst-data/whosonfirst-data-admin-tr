@@ -2,11 +2,11 @@
   "id": 1108950269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9231304119,40.9981630024,28.9231304119,40.9981630024",
+    "geom:bbox":"28.92313,40.998163,28.92313,40.998163",
     "geom:latitude":40.998163,
     "geom:longitude":28.92313,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.92313,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -32,9 +32,10 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,20 +43,21 @@
     },
     "wof:country":"TR",
     "wof:created":1491368253,
-    "wof:geomhash":"9ece75b4a76be2c52b3bbef37844bb47",
+    "wof:geomhash":"7027a2f4e14910056f46b4e88b6c858c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950269,
             "region_id":85679237
         }
     ],
     "wof:id":1108950269,
-    "wof:lastmodified":1566585304,
+    "wof:lastmodified":1678401334,
     "wof:name":"Belgradkapi",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -63,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.92313041185294,
-    40.99816300235906,
-    28.92313041185294,
-    40.99816300235906
+    28.92313,
+    40.998163,
+    28.92313,
+    40.998163
 ],
-  "geometry": {"coordinates":[28.92313041185294,40.99816300235906],"type":"Point"}
+  "geometry": {"coordinates":[28.92313,40.998163],"type":"Point"}
 }

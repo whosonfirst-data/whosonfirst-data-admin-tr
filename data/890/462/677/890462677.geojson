@@ -2,11 +2,11 @@
   "id": 890462677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.0498585,41.011594,29.0498585,41.011594",
+    "geom:bbox":"29.049858,41.011594,29.049858,41.011594",
     "geom:latitude":41.011594,
     "geom:longitude":29.049858,
     "gp:adm0":23424969,
@@ -14,7 +14,7 @@
     "lbl:bbox":"29.0448585,41.006594,29.0548585,41.016594",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Chrysopolis"
@@ -32,11 +32,11 @@
     "qs:pop_sr":"0",
     "wd:wordcount":60,
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912675,
-        890462769
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,21 +46,21 @@
     },
     "wof:country":"TR",
     "wof:created":1469053399,
-    "wof:geomhash":"bc79a4dbcb408e281415bdff918d06f9",
+    "wof:geomhash":"63305c1d52110276e42f8992b99e5137",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462769,
-            "locality_id":101912675,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462677,
             "region_id":85679237
         }
     ],
     "wof:id":890462677,
-    "wof:lastmodified":1566586404,
+    "wof:lastmodified":1678401517,
     "wof:name":"Chrysopolis",
-    "wof:parent_id":101912675,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -68,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.0498585,
+    29.049858,
     41.011594,
-    29.0498585,
+    29.049858,
     41.011594
 ],
-  "geometry": {"coordinates":[29.0498585,41.011594],"type":"Point"}
+  "geometry": {"coordinates":[29.049858,41.011594],"type":"Point"}
 }

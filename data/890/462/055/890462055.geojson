@@ -2,7 +2,7 @@
   "id": 890462055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:bbox":"29.01869,41.01752,29.02869,41.02752",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:afr_x_preferred":[
         "\u00dcsk\u00fcdar"
@@ -177,11 +177,11 @@
     "src:population":"geonames",
     "wd:wordcount":3900,
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912675,
-        890462769
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -198,16 +198,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462769,
-            "locality_id":101912675,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462055,
             "region_id":85679237
         }
     ],
     "wof:id":890462055,
-    "wof:lastmodified":1566586377,
+    "wof:lastmodified":1678401499,
     "wof:name":"\u00dcsk\u00fcdar",
-    "wof:parent_id":101912675,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":582666,
     "wof:population_rank":11,

@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000025,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.016266659,41.0191571581,29.016266659,41.0191571581",
-    "geom:latitude":41.019157,
-    "geom:longitude":29.016267,
+    "geom:bbox":"29.012156,41.015585,29.019852,41.021888",
+    "geom:latitude":41.01845,
+    "geom:longitude":29.016462,
     "iso:country":"TR",
-    "lbl:bbox":"29.011266659,41.0141571581,29.021266659,41.0241571581",
-    "lbl:latitude":41.019157,
-    "lbl:longitude":29.016267,
+    "lbl:latitude":41.018412,
+    "lbl:longitude":29.016462,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,32 +28,34 @@
     "name:tur_x_preferred":[
         "Ahmediye"
     ],
+    "reversegeo:latitude":41.018412,
+    "reversegeo:longitude":29.016462,
     "src:geom":"whosonfirst",
-    "src:lbl_centroid":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912675,
-        890462769
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"0f739c37d6eebe667c6602567228d7a4",
+    "wof:geomhash":"d558297b2e349f07af840b4458994392",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462769,
-            "locality_id":101912675,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444830415,
             "region_id":85679237
         }
     ],
     "wof:id":1444830415,
-    "wof:lastmodified":1566584830,
+    "wof:lastmodified":1678400867,
     "wof:name":"Ahmediye",
-    "wof:parent_id":101912675,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -62,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.01626665903074,
-    41.01915715806934,
-    29.01626665903074,
-    41.01915715806934
+    29.012156,
+    41.015585,
+    29.019852,
+    41.021888
 ],
-  "geometry": {"coordinates":[29.01626665903074,41.01915715806934],"type":"Point"}
+  "geometry": {"coordinates":[[[29.019852,41.018841],[29.019749,41.018271],[29.019409,41.017308],[29.019222,41.016917],[29.018382,41.016365],[29.017412,41.015935],[29.016239,41.015585],[29.015883,41.015655],[29.015748,41.01571],[29.015475,41.015922],[29.014898,41.01649],[29.014464,41.017173],[29.01407,41.017857],[29.013957,41.017953],[29.013755,41.018069],[29.012285,41.018862],[29.012156,41.018927],[29.014007,41.019837],[29.01454,41.020094],[29.01505,41.02037],[29.016446,41.021888],[29.016664,41.021667],[29.017034,41.021185],[29.017345,41.020717],[29.017579,41.020489],[29.01817,41.020004],[29.019072,41.019385],[29.019852,41.018841]]],"type":"Polygon"}
 }

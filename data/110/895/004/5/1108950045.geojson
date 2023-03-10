@@ -2,11 +2,11 @@
   "id": 1108950045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.001646685,41.0682867227,29.001646685,41.0682867227",
+    "geom:bbox":"29.001647,41.068287,29.001647,41.068287",
     "geom:latitude":41.068287,
     "geom:longitude":29.001647,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.001647,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -28,31 +28,31 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912685,
-        890461743
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368092,
-    "wof:geomhash":"7030570fb7b13186ab3e851d286a13a6",
+    "wof:geomhash":"540749dd96f2e450258920706e2a5eae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461743,
-            "locality_id":101912685,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950045,
             "region_id":85679237
         }
     ],
     "wof:id":1108950045,
-    "wof:lastmodified":1566585306,
+    "wof:lastmodified":1678401306,
     "wof:name":"Gulbag",
-    "wof:parent_id":101912685,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -60,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.00164668499047,
-    41.06828672270322,
-    29.00164668499047,
-    41.06828672270322
+    29.001647,
+    41.068287,
+    29.001647,
+    41.068287
 ],
-  "geometry": {"coordinates":[29.00164668499047,41.06828672270322],"type":"Point"}
+  "geometry": {"coordinates":[29.001647,41.068287],"type":"Point"}
 }

@@ -1,0 +1,64 @@
+{
+  "id": 1813328525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00005,
+    "geom:bbox":"28.661591,41.012366,28.674456,41.020178",
+    "geom:latitude":41.015619,
+    "geom:longitude":28.667455,
+    "iso:country":"TR",
+    "lbl:latitude":41.015945,
+    "lbl:longitude":28.667455,
+    "mps:latitude":41.015945,
+    "mps:longitude":28.667455,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Mehmet Akif Ersoy"
+    ],
+    "name:ita_x_preferred":[
+        "Mehmet Akif Ersoy"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624731,
+    "wof:geomhash":"af8deb5626231ff65b2054669493cd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328525,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328525,
+    "wof:lastmodified":1678400138,
+    "wof:name":"Mehmet Akif Ersoy",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.661591,
+    41.012366,
+    28.674456,
+    41.020178
+],
+  "geometry": {"coordinates":[[[28.661591,41.014228],[28.663087,41.016055],[28.663379,41.016102],[28.664914,41.01781],[28.665544,41.018411],[28.666306,41.018851],[28.667109,41.019137],[28.66837,41.01944],[28.668888,41.019613],[28.669738,41.020178],[28.670099,41.019107],[28.670193,41.018841],[28.670533,41.017876],[28.670557,41.017269],[28.670617,41.017031],[28.67089,41.01659],[28.672616,41.014913],[28.673401,41.014151],[28.674456,41.01383],[28.674091,41.013723],[28.6728,41.013526],[28.670444,41.013657],[28.670111,41.013615],[28.669492,41.013413],[28.66901,41.013122],[28.668576,41.013092],[28.668588,41.012616],[28.665952,41.012741],[28.665982,41.012622],[28.664982,41.012366],[28.664815,41.012408],[28.662673,41.013431],[28.661591,41.014228]]],"type":"Polygon"}
+}

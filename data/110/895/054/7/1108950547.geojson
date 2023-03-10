@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000084,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8774027264,41.087710877,28.8774027264,41.087710877",
-    "geom:latitude":41.087711,
-    "geom:longitude":28.877403,
+    "geom:bbox":"28.869085,41.0786,28.889948,41.093977",
+    "geom:latitude":41.087478,
+    "geom:longitude":28.878675,
     "iso:country":"TR",
-    "lbl:bbox":"28.8724027264,41.082710877,28.8824027264,41.092710877",
-    "lbl:latitude":41.087711,
-    "lbl:longitude":28.877403,
+    "lbl:latitude":41.085597,
+    "lbl:longitude":28.874487,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -36,6 +35,9 @@
         "Cumhuriyet"
     ],
     "name:ell_x_preferred":[
+        "Cumhuriyet"
+    ],
+    "name:eng_x_preferred":[
         "Cumhuriyet"
     ],
     "name:fas_x_preferred":[
@@ -80,31 +82,42 @@
     "name:vie_x_preferred":[
         "Cumhuriyet"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.085597,
+    "reversegeo:longitude":28.874487,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709903
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368478,
-    "wof:geomhash":"fe9f8ae5be40d9054958c6e97cff4a76",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"f2d5af1c649116abeafc6b04b2ee13b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709903,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950547,
             "region_id":85679237
         }
     ],
     "wof:id":1108950547,
-    "wof:lastmodified":1566585284,
+    "wof:lastmodified":1678400730,
     "wof:name":"Cumhuriyet",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -112,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.8774027264454,
-    41.08771087695413,
-    28.8774027264454,
-    41.08771087695413
+    28.869085,
+    41.0786,
+    28.889948,
+    41.093977
 ],
-  "geometry": {"coordinates":[28.8774027264454,41.08771087695413],"type":"Point"}
+  "geometry": {"coordinates":[[[28.882861,41.090995],[28.883122,41.091093],[28.889426,41.093977],[28.889632,41.092821],[28.889948,41.090433],[28.889448,41.09034],[28.886649,41.089557],[28.886201,41.089395],[28.884402,41.088742],[28.882749,41.088015],[28.880589,41.086858],[28.878926,41.085767],[28.876898,41.084203],[28.874783,41.08201],[28.874368,41.081592],[28.873438,41.080655],[28.872799,41.079696],[28.872157,41.0786],[28.871747,41.079224],[28.871533,41.07983],[28.87158,41.080268],[28.871785,41.080762],[28.872279,41.081367],[28.872623,41.081777],[28.872977,41.082346],[28.872949,41.08269],[28.872465,41.083548],[28.871114,41.085048],[28.870359,41.085822],[28.869641,41.086315],[28.869085,41.086611],[28.869283,41.086919],[28.869688,41.08721],[28.87033,41.087538],[28.870788,41.08771],[28.871604,41.087913],[28.873436,41.088264],[28.877446,41.089299],[28.878184,41.089596],[28.88104,41.090638],[28.881861,41.090816],[28.882861,41.090995]]],"type":"Polygon"}
 }

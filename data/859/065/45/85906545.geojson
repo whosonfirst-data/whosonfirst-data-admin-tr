@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000012,
+    "geom:area":0.000009,
     "geom:area_square_m":113835.330505,
-    "geom:bbox":"28.97312,41.02825,28.979187,41.031715",
-    "geom:latitude":41.03036,
-    "geom:longitude":28.97674,
+    "geom:bbox":"28.972968,41.028526,28.977306,41.034009",
+    "geom:latitude":41.03099,
+    "geom:longitude":28.974923,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.030661,
-    "lbl:longitude":28.975172,
+    "lbl:latitude":41.0302,
+    "lbl:longitude":28.974413,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.030437,
     "mps:longitude":28.976785,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,13 +30,17 @@
         "Asmali Mescit"
     ],
     "name:eng_x_preferred":[
+        "Asmali Mescit"
+    ],
+    "name:eng_x_variant":[
         "Asmal\u0131 Mescit"
     ],
     "name:tur_x_preferred":[
         "Asmal\u0131 Mescit"
     ],
     "name:tur_x_variant":[
-        "Asmal\u0131mescit"
+        "Asmal\u0131mescit",
+        "Asmali Mescit"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -61,16 +65,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.0302,
+    "reversegeo:longitude":28.974413,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632393,
-        890461447,
-        101913185,
+        890460455,
+        1108709503,
         85679237
     ],
     "wof:breaches":[],
@@ -80,15 +87,15 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"c7958276615af24f917333e759a5501c",
+    "wof:geomhash":"393452cf92919baa62c87bdbaccdf815",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85906545,
             "region_id":85679237
         }
@@ -97,9 +104,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1588718978,
+    "wof:lastmodified":1678401102,
     "wof:name":"Asmali Mescit",
-    "wof:parent_id":101913185,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -107,10 +114,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.97312,
-    41.02825,
-    28.979187,
-    41.031715
+    28.972968,
+    41.028526,
+    28.977306,
+    41.034009
 ],
-  "geometry": {"coordinates":[[[28.979187,41.031715],[28.979187,41.031001],[28.979187,41.030357],[28.979187,41.029643],[28.977814,41.029643],[28.977814,41.028607],[28.97671,41.028607],[28.97644,41.02825],[28.975754,41.028554],[28.975754,41.028607],[28.975754,41.029125],[28.975754,41.029643],[28.975067,41.029643],[28.975067,41.030161],[28.97438,41.030161],[28.973694,41.030161],[28.97312,41.030161],[28.973198,41.030679],[28.973694,41.030679],[28.97438,41.030679],[28.97438,41.031197],[28.975067,41.031197],[28.975067,41.031715],[28.975754,41.031715],[28.97644,41.031715],[28.979187,41.031715]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[28.973151,41.028559],[28.972971,41.029378],[28.972968,41.029558],[28.97322,41.030088],[28.9734,41.030501],[28.973724,41.030979],[28.973874,41.031132],[28.973976,41.031211],[28.974113,41.031263],[28.974303,41.031273],[28.974476,41.031286],[28.974584,41.031352],[28.974771,41.031607],[28.975003,41.031967],[28.975118,41.032396],[28.975049,41.033041],[28.975147,41.033257],[28.976214,41.033813],[28.976587,41.033957],[28.976671,41.034009],[28.977075,41.033774],[28.977306,41.033506],[28.977187,41.033458],[28.976982,41.033374],[28.976848,41.033272],[28.976635,41.032922],[28.9764,41.032451],[28.975961,41.031384],[28.975472,41.030035],[28.975292,41.029596],[28.975174,41.029309],[28.974513,41.028526],[28.973771,41.028528],[28.973757,41.028684],[28.973151,41.028559]]],"type":"Polygon"}
 }

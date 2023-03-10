@@ -2,11 +2,11 @@
   "id": 1108950693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8588760586,41.0059391822,28.8588760586,41.0059391822",
+    "geom:bbox":"28.858876,41.005939,28.858876,41.005939",
     "geom:latitude":41.005939,
     "geom:longitude":28.858876,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.858876,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -103,11 +103,11 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912673,
-        890462833
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,21 +115,21 @@
     },
     "wof:country":"TR",
     "wof:created":1491368588,
-    "wof:geomhash":"d720be77a47f4735ded46b6c76fec650",
+    "wof:geomhash":"a93da1d6ae7afef3ede8420733347745",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462833,
-            "locality_id":101912673,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950693,
             "region_id":85679237
         }
     ],
     "wof:id":1108950693,
-    "wof:lastmodified":1566585313,
+    "wof:lastmodified":1678401397,
     "wof:name":"Yayla",
-    "wof:parent_id":101912673,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -137,10 +137,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.85887605856619,
-    41.00593918215299,
-    28.85887605856619,
-    41.00593918215299
+    28.858876,
+    41.005939,
+    28.858876,
+    41.005939
 ],
-  "geometry": {"coordinates":[28.85887605856619,41.00593918215299],"type":"Point"}
+  "geometry": {"coordinates":[28.858876,41.005939],"type":"Point"}
 }

@@ -1,0 +1,64 @@
+{
+  "id": 1813328399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:bbox":"28.675338,41.021517,28.684402,41.031209",
+    "geom:latitude":41.026343,
+    "geom:longitude":28.679825,
+    "iso:country":"TR",
+    "lbl:latitude":41.026116,
+    "lbl:longitude":28.679447,
+    "mps:latitude":41.026116,
+    "mps:longitude":28.679447,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Ucevler"
+    ],
+    "name:ita_x_preferred":[
+        "\u00dc\u00e7evler"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624672,
+    "wof:geomhash":"08e1f51ac182d030f58a85c6e690d86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328399,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328399,
+    "wof:lastmodified":1678400085,
+    "wof:name":"Ucevler",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.675338,
+    41.021517,
+    28.684402,
+    41.031209
+],
+  "geometry": {"coordinates":[[[28.675365,41.024724],[28.675338,41.02564],[28.675552,41.025658],[28.675713,41.026562],[28.676242,41.027473],[28.675986,41.027913],[28.676415,41.028074],[28.676528,41.028228],[28.677242,41.02855],[28.677504,41.028609],[28.681115,41.030007],[28.68102,41.030959],[28.681987,41.031209],[28.684402,41.026747],[28.682701,41.025295],[28.681832,41.024272],[28.681261,41.023332],[28.680916,41.022528],[28.680583,41.021517],[28.679857,41.021791],[28.679131,41.022243],[28.677288,41.023428],[28.676911,41.023671],[28.676174,41.024278],[28.675365,41.024724]]],"type":"Polygon"}
+}

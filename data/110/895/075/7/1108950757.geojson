@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000059,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8631504021,41.0369976194,28.8631504021,41.0369976194",
-    "geom:latitude":41.036998,
-    "geom:longitude":28.86315,
+    "geom:bbox":"28.858274,41.033428,28.871301,41.040428",
+    "geom:latitude":41.036929,
+    "geom:longitude":28.863814,
     "iso:country":"TR",
-    "lbl:bbox":"28.8581504021,41.0319976194,28.8681504021,41.0419976194",
-    "lbl:latitude":41.036998,
-    "lbl:longitude":28.86315,
+    "lbl:latitude":41.036672,
+    "lbl:longitude":28.863162,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "\u00c7\u0131nar"
     ],
     "name:eng_x_preferred":[
+        "Cinar"
+    ],
+    "name:eng_x_variant":[
         "\u00c7\u0131nar"
     ],
     "name:eus_x_preferred":[
@@ -98,15 +100,25 @@
     "name:tur_x_preferred":[
         "\u00c7\u0131nar"
     ],
+    "name:tur_x_variant":[
+        "Cinar"
+    ],
     "name:war_x_preferred":[
         "\u00c7\u0131nar"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.036672,
+    "reversegeo:longitude":28.863162,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890464319
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,20 +126,24 @@
     },
     "wof:country":"TR",
     "wof:created":1491368630,
-    "wof:geomhash":"bbdae1f8ae82a96b447fddfd751c3f0c",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"0a9cc9a4ade4421afb589ecbefca6635",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890464319,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950757,
             "region_id":85679237
         }
     ],
     "wof:id":1108950757,
-    "wof:lastmodified":1566585299,
+    "wof:lastmodified":1678400792,
     "wof:name":"Cinar",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -135,10 +151,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.8631504021389,
-    41.03699761944894,
-    28.8631504021389,
-    41.03699761944894
+    28.858274,
+    41.033428,
+    28.871301,
+    41.040428
 ],
-  "geometry": {"coordinates":[28.8631504021389,41.03699761944894],"type":"Point"}
+  "geometry": {"coordinates":[[[28.858274,41.03443],[28.859337,41.040428],[28.861104,41.040256],[28.864222,41.039639],[28.865357,41.039419],[28.866172,41.039298],[28.86767,41.038747],[28.868519,41.038526],[28.869246,41.03846],[28.871224,41.03848],[28.871301,41.037382],[28.870242,41.036757],[28.869168,41.036111],[28.868413,41.03552],[28.867652,41.034945],[28.867378,41.034748],[28.866513,41.034583],[28.865708,41.034353],[28.864964,41.034102],[28.864137,41.033565],[28.863891,41.033456],[28.863666,41.033428],[28.863447,41.033434],[28.863195,41.033488],[28.862456,41.033658],[28.86135,41.033937],[28.859987,41.034211],[28.8591,41.034337],[28.858274,41.03443]]],"type":"Polygon"}
 }

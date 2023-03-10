@@ -4,14 +4,15 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.962982,41.0333745,28.962982,41.0333745",
-    "geom:latitude":41.033375,
-    "geom:longitude":28.962982,
+    "geom:bbox":"28.960798,41.031968,28.966377,41.036909",
+    "geom:latitude":41.034405,
+    "geom:longitude":28.963839,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.957982,41.0283745,28.967982,41.0383745",
+    "lbl:latitude":41.034293,
+    "lbl:longitude":28.964029,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,6 +33,9 @@
         "Kad\u0131 Mehmet Efendi"
     ],
     "name:eng_x_preferred":[
+        "Kadimehmetefendi"
+    ],
+    "name:eng_x_variant":[
         "Kad\u0131 Mehmet Efendi"
     ],
     "name:eus_x_preferred":[
@@ -102,12 +106,19 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.034293,
+    "reversegeo:longitude":28.964029,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101913185,
-        890461447
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -117,32 +128,37 @@
     },
     "wof:country":"TR",
     "wof:created":1469053329,
-    "wof:geomhash":"d70489f358e6c2af10f6ff642e80216a",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"df8bdfae04280cdc95590c1d5d635107",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461447,
-            "locality_id":101913185,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890460845,
             "region_id":85679237
         }
     ],
     "wof:id":890460845,
-    "wof:lastmodified":1566586431,
-    "wof:name":"Kad\u0131 Mehmet Efendi",
-    "wof:parent_id":101913185,
+    "wof:lastmodified":1678401245,
+    "wof:name":"Kadimehmetefendi",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950397
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.962982,
-    41.0333745,
-    28.962982,
-    41.0333745
+    28.960798,
+    41.031968,
+    28.966377,
+    41.036909
 ],
-  "geometry": {"coordinates":[28.962982,41.0333745],"type":"Point"}
+  "geometry": {"coordinates":[[[28.960798,41.035099],[28.960855,41.035591],[28.960845,41.035976],[28.960816,41.036106],[28.960866,41.036346],[28.96101,41.036349],[28.961166,41.036278],[28.961339,41.036159],[28.961699,41.035899],[28.961861,41.035853],[28.962325,41.035481],[28.962631,41.035699],[28.963012,41.035962],[28.9631,41.035985],[28.9638,41.036071],[28.963814,41.036472],[28.963811,41.036777],[28.963814,41.036883],[28.96384,41.036909],[28.963926,41.03688],[28.964475,41.036344],[28.964982,41.035795],[28.965316,41.035371],[28.965534,41.035497],[28.965688,41.035529],[28.966295,41.035442],[28.966318,41.035503],[28.966377,41.035476],[28.96618,41.03471],[28.965764,41.034108],[28.965634,41.033754],[28.965541,41.033315],[28.965654,41.032403],[28.965662,41.032059],[28.96546,41.032008],[28.965219,41.031968],[28.964509,41.032037],[28.962562,41.033157],[28.962387,41.033337],[28.962348,41.033528],[28.962359,41.033799],[28.962376,41.034007],[28.96228,41.034159],[28.961357,41.034913],[28.960798,41.035099]]],"type":"Polygon"}
 }

@@ -4,18 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000019,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.956012,41.002666,28.956012,41.002666",
-    "geom:latitude":41.002666,
-    "geom:longitude":28.956012,
+    "geom:bbox":"28.953478,41.001713,28.957988,41.007192",
+    "geom:latitude":41.004696,
+    "geom:longitude":28.955533,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.951012,40.997666,28.961012,41.007666",
+    "lbl:latitude":41.004719,
+    "lbl:longitude":28.955126,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Katipkasim"
+    ],
+    "name:tur_x_preferred":[
+        "Katipkas\u0131m"
+    ],
+    "name:tur_x_variant":[
+        "Katip Kas\u0131m"
+    ],
     "qs:name":"Katip Kas\u0131m",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,11 +37,19 @@
     "qs:photos_sr":2,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.004719,
+    "reversegeo:longitude":28.955126,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,31 +58,37 @@
     },
     "wof:country":"TR",
     "wof:created":1469053433,
-    "wof:geomhash":"add21838291c1fc5495e2882dd625f07",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"61a778e4a061ebc5af89e6c94d758c86",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890463509,
             "region_id":85679237
         }
     ],
     "wof:id":890463509,
-    "wof:lastmodified":1566586240,
-    "wof:name":"Katip Kas\u0131m",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678401284,
+    "wof:name":"Katipkasim",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950251
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.956012,
-    41.002666,
-    28.956012,
-    41.002666
+    28.953478,
+    41.001713,
+    28.957988,
+    41.007192
 ],
-  "geometry": {"coordinates":[28.956012,41.002666],"type":"Point"}
+  "geometry": {"coordinates":[[[28.956255,41.007153],[28.956783,41.007104],[28.957283,41.007051],[28.957878,41.006984],[28.957988,41.006948],[28.957967,41.006912],[28.957206,41.005195],[28.956942,41.005258],[28.95669,41.004751],[28.956768,41.004734],[28.956737,41.004585],[28.957742,41.004349],[28.957583,41.003016],[28.957121,41.00258],[28.957101,41.002283],[28.957027,41.002206],[28.956512,41.001713],[28.955483,41.002325],[28.953782,41.002131],[28.953751,41.00243],[28.953617,41.003707],[28.953585,41.003949],[28.953524,41.006065],[28.953478,41.007172],[28.953764,41.007192],[28.954164,41.007153],[28.956255,41.007153]]],"type":"Polygon"}
 }

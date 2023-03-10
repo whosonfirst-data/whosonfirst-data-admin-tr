@@ -32,9 +32,9 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462741
+        890462741,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +48,13 @@
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":890462741,
+            "locality_id":-1,
             "neighbourhood_id":1108950109,
             "region_id":85679237
         }
     ],
     "wof:id":1108950109,
-    "wof:lastmodified":1566585303,
+    "wof:lastmodified":1678400038,
     "wof:name":"Gokturk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

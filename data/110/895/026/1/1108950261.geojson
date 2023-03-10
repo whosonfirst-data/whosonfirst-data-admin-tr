@@ -2,11 +2,11 @@
   "id": 1108950261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9436843045,41.0088668938,28.9436843045,41.0088668938",
+    "geom:bbox":"28.943684,41.008867,28.943684,41.008867",
     "geom:latitude":41.008867,
     "geom:longitude":28.943684,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.943684,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,28 +30,30 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368248,
-    "wof:geomhash":"6bbbf1485ede936c1d7a4885a91c7e99",
+    "wof:geomhash":"3aa09543fce9f8b395513ed02e96570c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950261,
             "region_id":85679237
         }
     ],
     "wof:id":1108950261,
-    "wof:lastmodified":1566585304,
+    "wof:lastmodified":1678401331,
     "wof:name":"Haseki",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -59,10 +61,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.94368430450013,
-    41.00886689378749,
-    28.94368430450013,
-    41.00886689378749
+    28.943684,
+    41.008867,
+    28.943684,
+    41.008867
 ],
-  "geometry": {"coordinates":[28.94368430450013,41.00886689378749],"type":"Point"}
+  "geometry": {"coordinates":[28.943684,41.008867],"type":"Point"}
 }

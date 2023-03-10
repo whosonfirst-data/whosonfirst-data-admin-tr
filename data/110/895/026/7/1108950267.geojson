@@ -2,11 +2,11 @@
   "id": 1108950267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9263005946,41.0012080955,28.9263005946,41.0012080955",
+    "geom:bbox":"28.926301,41.001208,28.926301,41.001208",
     "geom:latitude":41.001208,
     "geom:longitude":28.926301,
     "gn:country":"TR",
@@ -18,7 +18,7 @@
     "lbl:longitude":28.926301,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -69,9 +69,10 @@
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,20 +84,21 @@
     },
     "wof:country":"TR",
     "wof:created":1491368251,
-    "wof:geomhash":"9eb7aeceb07a7519d77d7799c56470f2",
+    "wof:geomhash":"455db011a411f4da869041f8d344e046",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950267,
             "region_id":85679237
         }
     ],
     "wof:id":1108950267,
-    "wof:lastmodified":1566585304,
+    "wof:lastmodified":1678401333,
     "wof:name":"Samatya",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":0,
     "wof:repo":"whosonfirst-data-admin-tr",
@@ -107,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.92630059455477,
-    41.00120809550779,
-    28.92630059455477,
-    41.00120809550779
+    28.926301,
+    41.001208,
+    28.926301,
+    41.001208
 ],
-  "geometry": {"coordinates":[28.92630059455477,41.00120809550779],"type":"Point"}
+  "geometry": {"coordinates":[28.926301,41.001208],"type":"Point"}
 }

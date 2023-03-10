@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000026,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8824977514,40.9808379326,28.8824977514,40.9808379326",
-    "geom:latitude":40.980838,
-    "geom:longitude":28.882498,
+    "geom:bbox":"28.877364,40.978647,28.889954,40.982615",
+    "geom:latitude":40.980724,
+    "geom:longitude":28.882346,
     "iso:country":"TR",
-    "lbl:bbox":"28.8774977514,40.9758379326,28.8874977514,40.9858379326",
-    "lbl:latitude":40.980838,
-    "lbl:longitude":28.882498,
+    "lbl:latitude":40.980531,
+    "lbl:longitude":28.882346,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,36 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Yenimahalle"
+    ],
+    "name:tur_x_preferred":[
+        "Yenimahalle"
+    ],
     "name:tur_x_variant":[
         "Yeni"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":40.980531,
+    "reversegeo:longitude":28.882346,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912673,
-        890462833
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368515,
-    "wof:geomhash":"ac332b082f371f8e6a3ac889b5f23695",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"34f0c1f8823e3fa12719694bd15c8f2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462833,
-            "locality_id":101912673,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950591,
             "region_id":85679237
         }
     ],
     "wof:id":1108950591,
-    "wof:lastmodified":1566585309,
+    "wof:lastmodified":1678400741,
     "wof:name":"Yenimahalle",
-    "wof:parent_id":101912673,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.8824977514472,
-    40.98083793264908,
-    28.8824977514472,
-    40.98083793264908
+    28.877364,
+    40.978647,
+    28.889954,
+    40.982615
 ],
-  "geometry": {"coordinates":[28.8824977514472,40.98083793264908],"type":"Point"}
+  "geometry": {"coordinates":[[[28.889856,40.982216],[28.889655,40.982219],[28.888834,40.98205],[28.888276,40.981923],[28.885956,40.981068],[28.885584,40.980882],[28.885237,40.98012],[28.883222,40.979282],[28.882198,40.979019],[28.881233,40.978833],[28.880285,40.978749],[28.877653,40.978647],[28.877364,40.981176],[28.878,40.981284],[28.87993,40.981605],[28.882494,40.982029],[28.88445,40.982443],[28.884605,40.982474],[28.884873,40.982528],[28.889954,40.982615],[28.889856,40.982216]]],"type":"Polygon"}
 }

@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000019,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8881892258,41.0350767821,28.8881892258,41.0350767821",
-    "geom:latitude":41.035077,
-    "geom:longitude":28.888189,
+    "geom:bbox":"28.882369,41.033858,28.893428,41.037619",
+    "geom:latitude":41.035255,
+    "geom:longitude":28.887559,
     "iso:country":"TR",
-    "lbl:bbox":"28.8831892258,41.0300767821,28.8931892258,41.0400767821",
-    "lbl:latitude":41.035077,
-    "lbl:longitude":28.888189,
+    "lbl:latitude":41.035292,
+    "lbl:longitude":28.886721,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -100,6 +99,9 @@
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b9\u03bc\u03ac\u03c1 \u03a3\u03b9\u03bd\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Mimar Sinan"
     ],
     "name:epo_x_preferred":[
         "Sinan"
@@ -332,31 +334,42 @@
     "name:zho_x_preferred":[
         "\u79d1\u67e5\u00b7\u7c73\u99ac\u723e\u00b7\u5e0c\u5357"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.035292,
+    "reversegeo:longitude":28.886721,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709495
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368557,
-    "wof:geomhash":"f1cfe37e4d5b5a0495c9926688034f47",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"3b38811d9145b93b115be891f0d8067d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709495,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950645,
             "region_id":85679237
         }
     ],
     "wof:id":1108950645,
-    "wof:lastmodified":1566585290,
+    "wof:lastmodified":1678400759,
     "wof:name":"Mimar Sinan",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -364,10 +377,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.88818922583323,
-    41.0350767820633,
-    28.88818922583323,
-    41.0350767820633
+    28.882369,
+    41.033858,
+    28.893428,
+    41.037619
 ],
-  "geometry": {"coordinates":[28.88818922583323,41.0350767820633],"type":"Point"}
+  "geometry": {"coordinates":[[[28.885388,41.03397],[28.882369,41.037619],[28.882489,41.037577],[28.88367,41.037104],[28.884161,41.036937],[28.884821,41.036901],[28.885601,41.036943],[28.885993,41.036901],[28.88623,41.036839],[28.886672,41.036723],[28.887603,41.036375],[28.888358,41.035941],[28.888894,41.035691],[28.890131,41.035536],[28.891065,41.035417],[28.892208,41.035137],[28.892821,41.034893],[28.892958,41.034786],[28.89319,41.034447],[28.893428,41.034191],[28.893239,41.034137],[28.888875,41.033962],[28.888016,41.033913],[28.887331,41.033858],[28.886844,41.033864],[28.886039,41.033968],[28.885388,41.03397]]],"type":"Polygon"}
 }

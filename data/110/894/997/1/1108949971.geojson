@@ -2,11 +2,11 @@
   "id": 1108949971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.0052062554,41.0496257452,29.0052062554,41.0496257452",
+    "geom:bbox":"29.005206,41.049626,29.005206,41.049626",
     "geom:latitude":41.049626,
     "geom:longitude":29.005206,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.005206,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -28,42 +28,44 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912685,
-        890461743
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368040,
-    "wof:geomhash":"d2c8fba008be8c893847cb7531d2ff4b",
+    "wof:geomhash":"3f38a06419173af1e6230562128aaf15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461743,
-            "locality_id":101912685,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108949971,
             "region_id":85679237
         }
     ],
     "wof:id":1108949971,
-    "wof:lastmodified":1566585317,
+    "wof:lastmodified":1678400626,
     "wof:name":"Abbasaga",
-    "wof:parent_id":101912685,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890461295
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    29.00520625540434,
-    41.04962574517113,
-    29.00520625540434,
-    41.04962574517113
+    29.005206,
+    41.049626,
+    29.005206,
+    41.049626
 ],
-  "geometry": {"coordinates":[29.00520625540434,41.04962574517113],"type":"Point"}
+  "geometry": {"coordinates":[29.005206,41.049626],"type":"Point"}
 }

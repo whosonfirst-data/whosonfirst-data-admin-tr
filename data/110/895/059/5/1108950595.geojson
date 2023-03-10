@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000041,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.879547555,40.977125848,28.879547555,40.977125848",
-    "geom:latitude":40.977126,
-    "geom:longitude":28.879548,
+    "geom:bbox":"28.877653,40.974171,28.891246,40.982219",
+    "geom:latitude":40.97832,
+    "geom:longitude":28.883685,
     "iso:country":"TR",
-    "lbl:bbox":"28.874547555,40.972125848,28.884547555,40.982125848",
-    "lbl:latitude":40.977126,
-    "lbl:longitude":28.879548,
+    "lbl:latitude":40.978226,
+    "lbl:longitude":28.884354,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,47 +22,64 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Sakizagaci"
+    ],
     "name:tur_x_preferred":[
         "Sak\u0131za\u011fac\u0131"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Sakizagaci"
+    ],
+    "reversegeo:latitude":40.978226,
+    "reversegeo:longitude":28.884354,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912673,
-        890462833
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368517,
-    "wof:geomhash":"1495a69acf1b4d3f85df044456837175",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"a5b259a9d592286c87e4c6b80a97e6d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462833,
-            "locality_id":101912673,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950595,
             "region_id":85679237
         }
     ],
     "wof:id":1108950595,
-    "wof:lastmodified":1566585309,
+    "wof:lastmodified":1678400742,
     "wof:name":"Sakizagaci",
-    "wof:parent_id":101912673,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890462713
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.87954755498444,
-    40.97712584803362,
-    28.87954755498444,
-    40.97712584803362
+    28.877653,
+    40.974171,
+    28.891246,
+    40.982219
 ],
-  "geometry": {"coordinates":[28.87954755498444,40.97712584803362],"type":"Point"}
+  "geometry": {"coordinates":[[[28.877653,40.978647],[28.880285,40.978749],[28.881233,40.978833],[28.882198,40.979019],[28.883222,40.979282],[28.885237,40.98012],[28.885584,40.980882],[28.885956,40.981068],[28.888276,40.981923],[28.888834,40.98205],[28.889655,40.982219],[28.889856,40.982216],[28.889871,40.982015],[28.889907,40.981908],[28.890021,40.981736],[28.8902,40.981794],[28.890445,40.981443],[28.890723,40.980966],[28.891246,40.979893],[28.890634,40.979878],[28.889985,40.979815],[28.889366,40.979677],[28.889179,40.979572],[28.887516,40.978662],[28.886479,40.978132],[28.886344,40.977745],[28.885845,40.977319],[28.884569,40.9767],[28.883316,40.976693],[28.881436,40.975514],[28.880018,40.974604],[28.878541,40.974171],[28.878025,40.975092],[28.877974,40.975405],[28.877653,40.978647]]],"type":"Polygon"}
 }

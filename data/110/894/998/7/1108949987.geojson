@@ -2,11 +2,11 @@
   "id": 1108949987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.0487391464,41.0818528777,29.0487391464,41.0818528777",
+    "geom:bbox":"29.048739,41.081853,29.048739,41.081853",
     "geom:latitude":41.081853,
     "geom:longitude":29.048739,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.048739,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -28,31 +28,31 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912659,
-        890463467
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368049,
-    "wof:geomhash":"573391fd0c15914669ee056482e232bc",
+    "wof:geomhash":"1da79025af44df67a84f577bd2f7fc70",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890463467,
-            "locality_id":101912659,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108949987,
             "region_id":85679237
         }
     ],
     "wof:id":1108949987,
-    "wof:lastmodified":1566585316,
+    "wof:lastmodified":1678401295,
     "wof:name":"Asiyan",
-    "wof:parent_id":101912659,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -60,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.04873914642928,
-    41.08185287769382,
-    29.04873914642928,
-    41.08185287769382
+    29.048739,
+    41.081853,
+    29.048739,
+    41.081853
 ],
-  "geometry": {"coordinates":[29.04873914642928,41.08185287769382],"type":"Point"}
+  "geometry": {"coordinates":[29.048739,41.081853],"type":"Point"}
 }

@@ -2,11 +2,11 @@
   "id": 1108950317,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9564635468,41.0055925162,28.9564635468,41.0055925162",
+    "geom:bbox":"28.956464,41.005593,28.956464,41.005593",
     "geom:latitude":41.005593,
     "geom:longitude":28.956464,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.956464,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -29,28 +29,30 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368289,
-    "wof:geomhash":"dea4399c7b3b7f7a7a859d7d21ef5ce8",
+    "wof:geomhash":"5b9e57ce88a37a2e790b2554fd7aa733",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950317,
             "region_id":85679237
         }
     ],
     "wof:id":1108950317,
-    "wof:lastmodified":1566585287,
+    "wof:lastmodified":1678401340,
     "wof:name":"Buyuklanga",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -58,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.95646354676986,
-    41.00559251616399,
-    28.95646354676986,
-    41.00559251616399
+    28.956464,
+    41.005593,
+    28.956464,
+    41.005593
 ],
-  "geometry": {"coordinates":[28.95646354676986,41.00559251616399],"type":"Point"}
+  "geometry": {"coordinates":[28.956464,41.005593],"type":"Point"}
 }

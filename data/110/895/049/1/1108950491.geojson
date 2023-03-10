@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000024,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9072429409,41.0337411352,28.9072429409,41.0337411352",
-    "geom:latitude":41.033741,
-    "geom:longitude":28.907243,
+    "geom:bbox":"28.903263,41.029666,28.910587,41.035938",
+    "geom:latitude":41.033009,
+    "geom:longitude":28.906679,
     "iso:country":"TR",
-    "lbl:bbox":"28.9022429409,41.0287411352,28.9122429409,41.0387411352",
-    "lbl:latitude":41.033741,
-    "lbl:longitude":28.907243,
+    "lbl:latitude":41.03302,
+    "lbl:longitude":28.906984,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -101,12 +100,19 @@
     "name:war_x_preferred":[
         "Vatan"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.03302,
+    "reversegeo:longitude":28.906984,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462837
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,20 +120,24 @@
     },
     "wof:country":"TR",
     "wof:created":1491368441,
-    "wof:geomhash":"600821e4eac542de2197b48759589512",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"54a5323035c595f2c928d95f66568959",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462837,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950491,
             "region_id":85679237
         }
     ],
     "wof:id":1108950491,
-    "wof:lastmodified":1566585279,
+    "wof:lastmodified":1678400711,
     "wof:name":"Vatan",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -135,10 +145,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.90724294091213,
-    41.03374113521192,
-    28.90724294091213,
-    41.03374113521192
+    28.903263,
+    41.029666,
+    28.910587,
+    41.035938
 ],
-  "geometry": {"coordinates":[28.90724294091213,41.03374113521192],"type":"Point"}
+  "geometry": {"coordinates":[[[28.904177,41.035938],[28.905455,41.035572],[28.907187,41.035152],[28.907481,41.03506],[28.908573,41.034569],[28.909037,41.03451],[28.909602,41.034379],[28.910587,41.03406],[28.909352,41.032751],[28.909168,41.032451],[28.909019,41.032085],[28.908788,41.031495],[28.908487,41.030821],[28.908373,41.030543],[28.907966,41.030435],[28.907293,41.030264],[28.90667,41.030078],[28.906009,41.029833],[28.905565,41.029666],[28.904828,41.030038],[28.905268,41.031913],[28.904322,41.033454],[28.903762,41.034135],[28.903605,41.034263],[28.903441,41.034352],[28.903263,41.034417],[28.903566,41.035057],[28.903956,41.03567],[28.904177,41.035938]]],"type":"Polygon"}
 }

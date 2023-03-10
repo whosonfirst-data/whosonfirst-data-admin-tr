@@ -4,15 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000054,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9080440277,41.043063626,28.9080440277,41.043063626",
-    "geom:latitude":41.043064,
-    "geom:longitude":28.908044,
+    "geom:bbox":"28.899079,41.0399,28.912378,41.046219",
+    "geom:latitude":41.043057,
+    "geom:longitude":28.905584,
     "iso:country":"TR",
-    "lbl:bbox":"28.9030440277,41.038063626,28.9130440277,41.048063626",
-    "lbl:latitude":41.043064,
-    "lbl:longitude":28.908044,
+    "lbl:latitude":41.043061,
+    "lbl:longitude":28.905583,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,6 +38,9 @@
         "\u0130smetpa\u015fa"
     ],
     "name:eng_x_preferred":[
+        "Ismetpasa"
+    ],
+    "name:eng_x_variant":[
         "\u0130smetpa\u015fa"
     ],
     "name:eus_x_preferred":[
@@ -96,17 +98,25 @@
         "\u0130smet Pa\u015fa"
     ],
     "name:tur_x_variant":[
-        "\u0130smetpa\u015fa"
+        "\u0130smetpa\u015fa",
+        "Ismet Pasa"
     ],
     "name:war_x_preferred":[
         "\u0130smetpa\u015fa"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.043061,
+    "reversegeo:longitude":28.905583,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890462837
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,20 +124,24 @@
     },
     "wof:country":"TR",
     "wof:created":1491368443,
-    "wof:geomhash":"aebffb1a641aed3e040a928e139ad5e7",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"81104826cb7cb453a2feb8fca228d3e8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462837,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950495,
             "region_id":85679237
         }
     ],
     "wof:id":1108950495,
-    "wof:lastmodified":1566585279,
-    "wof:name":"Ismet Pasa",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678400713,
+    "wof:name":"Ismetpasa",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -135,10 +149,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.90804402774098,
-    41.04306362595582,
-    28.90804402774098,
-    41.04306362595582
+    28.899079,
+    41.0399,
+    28.912378,
+    41.046219
 ],
-  "geometry": {"coordinates":[28.90804402774098,41.04306362595582],"type":"Point"}
+  "geometry": {"coordinates":[[[28.900013,41.046169],[28.901296,41.046219],[28.902343,41.046136],[28.90342,41.045892],[28.905301,41.04544],[28.906788,41.045112],[28.907823,41.044934],[28.908329,41.044827],[28.911405,41.043976],[28.911598,41.04286],[28.911706,41.042114],[28.912039,41.041337],[28.912348,41.040584],[28.912378,41.040403],[28.912369,41.0399],[28.911594,41.040076],[28.909096,41.040431],[28.905239,41.040775],[28.903282,41.041092],[28.902229,41.041316],[28.899079,41.042313],[28.899624,41.044101],[28.899862,41.045106],[28.900013,41.046169]]],"type":"Polygon"}
 }

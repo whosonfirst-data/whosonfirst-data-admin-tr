@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000099,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.891307305,41.0764536792,28.891307305,41.0764536792",
-    "geom:latitude":41.076454,
-    "geom:longitude":28.891307,
+    "geom:bbox":"28.882673,41.069982,28.899913,41.081196",
+    "geom:latitude":41.075772,
+    "geom:longitude":28.891483,
     "iso:country":"TR",
-    "lbl:bbox":"28.886307305,41.0714536792,28.896307305,41.0814536792",
-    "lbl:latitude":41.076454,
-    "lbl:longitude":28.891307,
+    "lbl:latitude":41.0755,
+    "lbl:longitude":28.891613,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,37 +22,52 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Barbaros Hayrettin Pasa"
+    ],
     "name:tur_x_preferred":[
         "Barbaros Hayrettin Pa\u015fa"
     ],
     "name:tur_x_variant":[
-        "Barbaros Hayrettinpa\u015fa"
+        "Barbaros Hayrettinpa\u015fa",
+        "Barbaros Hayrettin Pasa"
     ],
-    "src:lbl_centroid":"mz",
+    "reversegeo:latitude":41.0755,
+    "reversegeo:longitude":28.891613,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890463845
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368473,
-    "wof:geomhash":"30af48cccab5be9085c594aa8f2b9701",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"cdd73d152963fb5f9675a2c1c71f33ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890463845,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950537,
             "region_id":85679237
         }
     ],
     "wof:id":1108950537,
-    "wof:lastmodified":1566585285,
+    "wof:lastmodified":1678400728,
     "wof:name":"Barbaros Hayrettin Pasa",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -61,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.89130730497474,
-    41.07645367922503,
-    28.89130730497474,
-    41.07645367922503
+    28.882673,
+    41.069982,
+    28.899913,
+    41.081196
 ],
-  "geometry": {"coordinates":[28.89130730497474,41.07645367922503],"type":"Point"}
+  "geometry": {"coordinates":[[[28.882673,41.075127],[28.884217,41.076792],[28.885374,41.078018],[28.885681,41.077765],[28.887171,41.078782],[28.888159,41.079467],[28.888802,41.079431],[28.889566,41.079312],[28.889881,41.079422],[28.891925,41.080445],[28.893363,41.081196],[28.894106,41.080519],[28.894478,41.080168],[28.895028,41.079475],[28.895459,41.079056],[28.895703,41.078895],[28.896048,41.07874],[28.896628,41.078568],[28.898235,41.078101],[28.898747,41.077943],[28.89891,41.077869],[28.899446,41.077521],[28.899913,41.077205],[28.898925,41.07639],[28.898613,41.076033],[28.898006,41.075251],[28.897705,41.075096],[28.897387,41.074912],[28.896896,41.074444],[28.896749,41.074275],[28.896432,41.073912],[28.895662,41.072939],[28.895084,41.072285],[28.894745,41.071812],[28.893277,41.069982],[28.892605,41.070281],[28.890067,41.071379],[28.888958,41.071862],[28.888291,41.072242],[28.886925,41.073157],[28.885762,41.07389],[28.885481,41.074027],[28.884291,41.074501],[28.882673,41.075127]]],"type":"Polygon"}
 }

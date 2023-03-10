@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000041,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8489069235,41.11527424,28.8489069235,41.11527424",
-    "geom:latitude":41.115274,
-    "geom:longitude":28.848907,
+    "geom:bbox":"28.843789,41.111212,28.852187,41.12134",
+    "geom:latitude":41.115653,
+    "geom:longitude":28.847777,
     "iso:country":"TR",
-    "lbl:bbox":"28.8439069235,41.11027424,28.8539069235,41.12027424",
-    "lbl:latitude":41.115274,
-    "lbl:longitude":28.848907,
+    "lbl:latitude":41.114948,
+    "lbl:longitude":28.848063,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,34 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Malkocoglu"
+    ],
     "name:tur_x_preferred":[
         "Malko\u00e7o\u011flu"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Malkocoglu"
+    ],
+    "reversegeo:latitude":41.114948,
+    "reversegeo:longitude":28.848063,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709495
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368499,
-    "wof:geomhash":"f2ef95172d9bcb2feb438b939764916c",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"3ee2864e4eebd05f05d3237a28b679ad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709495,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950565,
             "region_id":85679237
         }
     ],
     "wof:id":1108950565,
-    "wof:lastmodified":1566585313,
+    "wof:lastmodified":1678400735,
     "wof:name":"Malkocoglu",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -58,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.84890692353348,
-    41.11527423995761,
-    28.84890692353348,
-    41.11527423995761
+    28.843789,
+    41.111212,
+    28.852187,
+    41.12134
 ],
-  "geometry": {"coordinates":[28.84890692353348,41.11527423995761],"type":"Point"}
+  "geometry": {"coordinates":[[[28.852187,41.115572],[28.85191,41.114886],[28.850856,41.113369],[28.850464,41.113],[28.849613,41.112512],[28.848697,41.112001],[28.848346,41.111774],[28.848119,41.111519],[28.847964,41.111212],[28.847004,41.111678],[28.845476,41.112303],[28.845206,41.112666],[28.845084,41.112862],[28.845029,41.114893],[28.845243,41.115657],[28.845616,41.11644],[28.845765,41.117139],[28.845718,41.118015],[28.845383,41.118807],[28.844935,41.119413],[28.844619,41.119767],[28.843789,41.121044],[28.843808,41.121239],[28.843994,41.121323],[28.844199,41.12123],[28.844451,41.12134],[28.845683,41.120476],[28.84773,41.119179],[28.84836,41.118596],[28.849491,41.117555],[28.851532,41.11602],[28.852115,41.115609],[28.852187,41.115572]]],"type":"Polygon"}
 }

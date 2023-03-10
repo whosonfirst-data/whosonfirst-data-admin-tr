@@ -4,20 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000049,
+    "geom:area":0.000032,
     "geom:area_square_m":455792.573206,
-    "geom:bbox":"29.003906,41.044145,29.012146,41.051431",
-    "geom:latitude":41.04725,
-    "geom:longitude":29.007612,
+    "geom:bbox":"29.004941,41.04211,29.010773,41.051103",
+    "geom:latitude":41.046724,
+    "geom:longitude":29.007905,
     "gn:id":"",
     "iso:country":"TR",
-    "lbl:latitude":41.0466,
-    "lbl:longitude":29.007981,
+    "lbl:latitude":41.046668,
+    "lbl:longitude":29.00796,
     "lbl:max_zoom":18.0,
     "mps:latitude":41.047171,
     "mps:longitude":29.006866,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,10 +30,16 @@
         "Cihannuma"
     ],
     "name:eng_x_preferred":[
+        "Cihannuma"
+    ],
+    "name:eng_x_variant":[
         "Cihann\u00fcma"
     ],
     "name:tur_x_preferred":[
         "Cihann\u00fcma"
+    ],
+    "name:tur_x_variant":[
+        "Cihannuma"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -58,17 +64,20 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":41.046668,
+    "reversegeo:longitude":29.00796,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes_pg",
+        "quattroshapes"
     ],
-    "src:lbl_centroid":"mz",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912685,
-        890461743
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,15 +86,15 @@
     },
     "wof:country":"TR",
     "wof:geom_alt":[
-        "quattroshapes_pg"
+        "quattroshapes"
     ],
-    "wof:geomhash":"e8ff7e09c3223a4b8eb92bd3714458cb",
+    "wof:geomhash":"cd81a571f0663e2e6b47f6ef298eb4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461743,
-            "locality_id":101912685,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":85906569,
             "region_id":85679237
         }
@@ -94,9 +103,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1617131203,
+    "wof:lastmodified":1678401111,
     "wof:name":"Cihannuma",
-    "wof:parent_id":101912685,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -104,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.003906,
-    41.044145,
-    29.012146,
-    41.051431
+    29.004941,
+    41.04211,
+    29.010773,
+    41.051103
 ],
-  "geometry": {"coordinates":[[[29.004714,41.051431],[29.006653,41.050574],[29.008592,41.051431],[29.009399,41.05036],[29.009399,41.048288],[29.012146,41.048288],[29.012146,41.046217],[29.012146,41.04486],[29.012146,41.044145],[29.011607,41.044145],[29.009399,41.044145],[29.006653,41.044145],[29.003906,41.044145],[29.003906,41.046217],[29.003906,41.048288],[29.003906,41.05036],[29.004714,41.051431]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[29.004966,41.044699],[29.005045,41.044798],[29.005105,41.04487],[29.005366,41.045583],[29.005488,41.045744],[29.005573,41.045929],[29.005665,41.046258],[29.005692,41.046757],[29.005763,41.047467],[29.005928,41.047939],[29.006095,41.04852],[29.006217,41.048963],[29.006313,41.04924],[29.006515,41.049639],[29.006806,41.050018],[29.007045,41.050317],[29.00753,41.050742],[29.008072,41.051051],[29.008648,41.051103],[29.008436,41.050051],[29.010433,41.049937],[29.010516,41.049218],[29.010671,41.048884],[29.010773,41.048204],[29.010568,41.04717],[29.010234,41.045925],[29.010074,41.045585],[29.009021,41.044269],[29.007963,41.042588],[29.00802,41.04236],[29.006732,41.04211],[29.006871,41.042518],[29.006966,41.042986],[29.005717,41.04355],[29.005649,41.043495],[29.005529,41.04349],[29.005548,41.043648],[29.005529,41.043708],[29.005186,41.04404],[29.004947,41.044399],[29.004941,41.044481],[29.004966,41.044699]]],"type":"Polygon"}
 }

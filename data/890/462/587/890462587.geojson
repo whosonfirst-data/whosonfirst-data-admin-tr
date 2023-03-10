@@ -4,18 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000019,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.988842,41.068965,28.988842,41.068965",
-    "geom:latitude":41.068965,
-    "geom:longitude":28.988842,
+    "geom:bbox":"28.982723,41.067103,28.988783,41.07242",
+    "geom:latitude":41.069325,
+    "geom:longitude":28.986348,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.983842,41.063965,28.993842,41.073965",
+    "lbl:latitude":41.069149,
+    "lbl:longitude":28.986555,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Izzetpasa"
+    ],
+    "name:tur_x_preferred":[
+        "\u0130zzetpa\u015fa"
+    ],
+    "name:tur_x_variant":[
+        "\u0130zzet Pa\u015fa"
+    ],
     "qs:name":"\u0130zzet Pa\u015fa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,12 +37,19 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.069149,
+    "reversegeo:longitude":28.986555,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912685,
-        890461743
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,32 +58,37 @@
     },
     "wof:country":"TR",
     "wof:created":1469053395,
-    "wof:geomhash":"f3ebb29c6c3e888a2ebb0cd6e010043e",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"5c0c131360d3ac19ecc4f5a3cd6ff40f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461743,
-            "locality_id":101912685,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462587,
             "region_id":85679237
         }
     ],
     "wof:id":890462587,
-    "wof:lastmodified":1566586387,
-    "wof:name":"\u0130zzet Pa\u015fa",
-    "wof:parent_id":101912685,
+    "wof:lastmodified":1678401272,
+    "wof:name":"Izzetpasa",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950037
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.988842,
-    41.068965,
-    28.988842,
-    41.068965
+    28.982723,
+    41.067103,
+    28.988783,
+    41.07242
 ],
-  "geometry": {"coordinates":[28.988842,41.068965],"type":"Point"}
+  "geometry": {"coordinates":[[[28.982723,41.069138],[28.984702,41.070854],[28.985124,41.070629],[28.985387,41.070606],[28.985937,41.0709],[28.986351,41.070997],[28.986727,41.071231],[28.987329,41.071742],[28.988067,41.071923],[28.988751,41.07242],[28.988783,41.072343],[28.98864,41.07203],[28.988565,41.071921],[28.988512,41.071466],[28.98852,41.071154],[28.988719,41.070058],[28.988655,41.069407],[28.988204,41.067103],[28.985895,41.067202],[28.985556,41.067211],[28.982723,41.069138]]],"type":"Polygon"}
 }

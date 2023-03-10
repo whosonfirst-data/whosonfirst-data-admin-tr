@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000749,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.6602085658,41.1096331524,28.6602085658,41.1096331524",
-    "geom:latitude":41.109633,
-    "geom:longitude":28.660209,
+    "geom:bbox":"28.638634,41.096794,28.682929,41.134078",
+    "geom:latitude":41.113384,
+    "geom:longitude":28.658375,
     "iso:country":"TR",
-    "lbl:bbox":"28.6552085658,41.1046331524,28.6652085658,41.1146331524",
-    "lbl:latitude":41.109633,
-    "lbl:longitude":28.660209,
+    "lbl:latitude":41.113318,
+    "lbl:longitude":28.658375,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,31 +22,48 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
-    "src:lbl_centroid":"mz",
+    "name:eng_x_preferred":[
+        "Deliklikaya"
+    ],
+    "name:tur_x_preferred":[
+        "Deliklikaya"
+    ],
+    "reversegeo:latitude":41.113318,
+    "reversegeo:longitude":28.658375,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709297
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368746,
-    "wof:geomhash":"d5d88c6cb2dddf1826694962bfacff39",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"160df1e5cdf94871b4cc2168e5533471",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709297,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950953,
             "region_id":85679237
         }
     ],
     "wof:id":1108950953,
-    "wof:lastmodified":1566585307,
+    "wof:lastmodified":1678400829,
     "wof:name":"Deliklikaya",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -55,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.66020856580948,
-    41.10963315238803,
-    28.66020856580948,
-    41.10963315238803
+    28.638634,
+    41.096794,
+    28.682929,
+    41.134078
 ],
-  "geometry": {"coordinates":[28.66020856580948,41.10963315238803],"type":"Point"}
+  "geometry": {"coordinates":[[[28.638634,41.098446],[28.63881,41.100855],[28.643355,41.105734],[28.64614,41.109708],[28.646735,41.110732],[28.645354,41.113016],[28.645354,41.114087],[28.64852,41.118443],[28.650686,41.125154],[28.653362,41.134078],[28.654482,41.133234],[28.657337,41.132139],[28.659099,41.131259],[28.660836,41.130235],[28.665048,41.126047],[28.668737,41.122215],[28.672783,41.118336],[28.676758,41.115718],[28.680161,41.112957],[28.682929,41.111407],[28.681319,41.111007],[28.678118,41.110115],[28.668422,41.106897],[28.666527,41.105443],[28.663971,41.103328],[28.663233,41.102529],[28.661282,41.100419],[28.659255,41.099185],[28.65736,41.098876],[28.652556,41.099758],[28.644061,41.098083],[28.642871,41.0974],[28.642309,41.096794],[28.641763,41.097075],[28.640386,41.097824],[28.639273,41.098463],[28.638634,41.098446]]],"type":"Polygon"}
 }

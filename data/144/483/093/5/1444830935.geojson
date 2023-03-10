@@ -2,11 +2,11 @@
   "id": 1444830935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.0939722989,40.9608972752,29.0939722989,40.9608972752",
+    "geom:bbox":"29.093972,40.960897,29.093972,40.960897",
     "geom:latitude":40.960897,
     "geom:longitude":29.093972,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.093972,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -32,29 +32,29 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912637,
-        1108709303
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"c3c299285e521c05446634f0e21096bb",
+    "wof:geomhash":"75fc0a472b8620e261c12bd5bce6622f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709303,
-            "locality_id":101912637,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444830935,
             "region_id":85679237
         }
     ],
     "wof:id":1444830935,
-    "wof:lastmodified":1566584861,
+    "wof:lastmodified":1678401443,
     "wof:name":"Senesenevler",
-    "wof:parent_id":101912637,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -62,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.0939722988794,
-    40.96089727517968,
-    29.0939722988794,
-    40.96089727517968
+    29.093972,
+    40.960897,
+    29.093972,
+    40.960897
 ],
-  "geometry": {"coordinates":[29.0939722988794,40.96089727517968],"type":"Point"}
+  "geometry": {"coordinates":[29.093972,40.960897],"type":"Point"}
 }

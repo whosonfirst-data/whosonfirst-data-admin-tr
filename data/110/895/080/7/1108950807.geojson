@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000159,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7382287009,40.9813656949,28.7382287009,40.9813656949",
-    "geom:latitude":40.981366,
-    "geom:longitude":28.738229,
+    "geom:bbox":"28.727972,40.977284,28.757082,40.985857",
+    "geom:latitude":40.981816,
+    "geom:longitude":28.742762,
     "iso:country":"TR",
-    "lbl:bbox":"28.7332287009,40.9763656949,28.7432287009,40.9863656949",
-    "lbl:latitude":40.981366,
-    "lbl:longitude":28.738229,
+    "lbl:latitude":40.980964,
+    "lbl:longitude":28.742485,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,36 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Gumuspala"
+    ],
     "name:tur_x_preferred":[
         "G\u00fcm\u00fc\u015fpala"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Gumuspala"
+    ],
+    "reversegeo:latitude":40.980964,
+    "reversegeo:longitude":28.742485,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912655,
-        1108709309
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368656,
-    "wof:geomhash":"aec1923a0e6d6de3cbb89435c3f17674",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"55cc48d7a48747a71e930ee42f873921",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709309,
-            "locality_id":101912655,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950807,
             "region_id":85679237
         }
     ],
     "wof:id":1108950807,
-    "wof:lastmodified":1566585296,
+    "wof:lastmodified":1678400805,
     "wof:name":"Gumuspala",
-    "wof:parent_id":101912655,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.73822870089068,
-    40.98136569490393,
-    28.73822870089068,
-    40.98136569490393
+    28.727972,
+    40.977284,
+    28.757082,
+    40.985857
 ],
-  "geometry": {"coordinates":[28.73822870089068,40.98136569490393],"type":"Point"}
+  "geometry": {"coordinates":[[[28.727972,40.982353],[28.729191,40.983725],[28.730825,40.98339],[28.732718,40.985506],[28.73369,40.98536],[28.734559,40.985196],[28.735341,40.985016],[28.736236,40.984603],[28.737242,40.984267],[28.738326,40.984095],[28.756278,40.985857],[28.756837,40.983209],[28.757082,40.982149],[28.752592,40.980568],[28.744857,40.977855],[28.742918,40.977463],[28.740847,40.977284],[28.739324,40.977332],[28.737301,40.977653],[28.735992,40.978034],[28.734505,40.978557],[28.730316,40.980925],[28.727972,40.982353]]],"type":"Polygon"}
 }

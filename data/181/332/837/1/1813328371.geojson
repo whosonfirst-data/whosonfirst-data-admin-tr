@@ -1,0 +1,64 @@
+{
+  "id": 1813328371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:bbox":"28.936356,41.006719,28.949206,41.012334",
+    "geom:latitude":41.009451,
+    "geom:longitude":28.941894,
+    "iso:country":"TR",
+    "lbl:latitude":41.009966,
+    "lbl:longitude":28.94019,
+    "mps:latitude":41.009966,
+    "mps:longitude":28.94019,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hasekisultan"
+    ],
+    "name:ita_x_preferred":[
+        "Hasekisultan"
+    ],
+    "src:geom":"whosonfirst",
+    "src:lbl_centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632393,
+        890460455,
+        1108709503,
+        85679237
+    ],
+    "wof:breaches":[],
+    "wof:country":"TR",
+    "wof:created":1677624660,
+    "wof:geomhash":"52e6bcf80575bd77a52d4f576c78a942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":1108709503,
+            "locality_id":890460455,
+            "neighbourhood_id":1813328371,
+            "region_id":85679237
+        }
+    ],
+    "wof:id":1813328371,
+    "wof:lastmodified":1678400074,
+    "wof:name":"Hasekisultan",
+    "wof:parent_id":890460455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.936356,
+    41.006719,
+    28.949206,
+    41.012334
+],
+  "geometry": {"coordinates":[[[28.936356,41.006728],[28.938499,41.011038],[28.939143,41.012334],[28.939305,41.012246],[28.940881,41.011559],[28.941791,41.011318],[28.945977,41.01027],[28.947925,41.009809],[28.949088,41.009696],[28.949206,41.009691],[28.949186,41.009394],[28.947193,41.00873],[28.945949,41.008291],[28.944755,41.007928],[28.943822,41.007673],[28.943115,41.007532],[28.942971,41.00769],[28.942616,41.008413],[28.942512,41.008692],[28.942458,41.008843],[28.941598,41.008697],[28.941054,41.008624],[28.940618,41.008368],[28.940272,41.008118],[28.93994,41.007929],[28.938947,41.007468],[28.93803,41.007127],[28.937076,41.006866],[28.936527,41.006719],[28.936356,41.006728]]],"type":"Polygon"}
+}

@@ -2,11 +2,11 @@
   "id": 1108950521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9117922396,41.0581620139,28.9117922396,41.0581620139",
+    "geom:bbox":"28.911792,41.058162,28.911792,41.058162",
     "geom:latitude":41.058162,
     "geom:longitude":28.911792,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.911792,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -34,28 +34,30 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        890463845
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368463,
-    "wof:geomhash":"374f41af43e07475b26db67336fbc3a4",
+    "wof:geomhash":"045f11b6cd386a110307ddf764fc8b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890463845,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950521,
             "region_id":85679237
         }
     ],
     "wof:id":1108950521,
-    "wof:lastmodified":1566585288,
+    "wof:lastmodified":1678401381,
     "wof:name":"Gaziosmanpasa",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -63,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.91179223959818,
-    41.05816201387445,
-    28.91179223959818,
-    41.05816201387445
+    28.911792,
+    41.058162,
+    28.911792,
+    41.058162
 ],
-  "geometry": {"coordinates":[28.91179223959818,41.05816201387445],"type":"Point"}
+  "geometry": {"coordinates":[28.911792,41.058162],"type":"Point"}
 }

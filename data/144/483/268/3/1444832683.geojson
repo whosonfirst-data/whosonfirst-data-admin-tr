@@ -2,11 +2,11 @@
   "id": 1444832683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.2217376778,40.9246033552,29.2217376778,40.9246033552",
+    "geom:bbox":"29.221738,40.924603,29.221738,40.924603",
     "geom:latitude":40.924603,
     "geom:longitude":29.221738,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.221738,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -35,28 +35,29 @@
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        890462523
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:country":"TR",
-    "wof:geomhash":"0eebee37e9853ebe3265941ecea70609",
+    "wof:geomhash":"4cafc5c62098de2ee51f880a095b1f62",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462523,
-            "locality_id":-1,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1444832683,
             "region_id":85679237
         }
     ],
     "wof:id":1444832683,
-    "wof:lastmodified":1566584834,
+    "wof:lastmodified":1678401463,
     "wof:name":"Yakacik Yeni",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -64,10 +65,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.22173767784498,
-    40.92460335521267,
-    29.22173767784498,
-    40.92460335521267
+    29.221738,
+    40.924603,
+    29.221738,
+    40.924603
 ],
-  "geometry": {"coordinates":[29.22173767784498,40.92460335521267],"type":"Point"}
+  "geometry": {"coordinates":[29.221738,40.924603],"type":"Point"}
 }

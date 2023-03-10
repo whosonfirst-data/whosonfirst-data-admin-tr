@@ -2,7 +2,7 @@
   "id": 1293041479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-02-28",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,12 +52,14 @@
         }
     ],
     "wof:id":1293041479,
-    "wof:lastmodified":1566583448,
+    "wof:lastmodified":1678400845,
     "wof:name":"Icerenkoy",
     "wof:parent_id":1108709303,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85930125
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

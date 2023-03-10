@@ -2,11 +2,11 @@
   "id": 1108949995,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.0263373255,41.0910176134,29.0263373255,41.0910176134",
+    "geom:bbox":"29.026337,41.091018,29.026337,41.091018",
     "geom:latitude":41.091018,
     "geom:longitude":29.026337,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":29.026337,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -28,31 +28,31 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912639,
-        890463467
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368055,
-    "wof:geomhash":"080964cdeabf0ffec02d42a9ebcf569d",
+    "wof:geomhash":"2e135e391fa5cf4d4275e4f4a451706d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890463467,
-            "locality_id":101912639,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108949995,
             "region_id":85679237
         }
     ],
     "wof:id":1108949995,
-    "wof:lastmodified":1566585318,
+    "wof:lastmodified":1678401299,
     "wof:name":"Karanfilkoy",
-    "wof:parent_id":101912639,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -60,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.02633732546537,
-    41.09101761340145,
-    29.02633732546537,
-    41.09101761340145
+    29.026337,
+    41.091018,
+    29.026337,
+    41.091018
 ],
-  "geometry": {"coordinates":[29.02633732546537,41.09101761340145],"type":"Point"}
+  "geometry": {"coordinates":[29.026337,41.091018],"type":"Point"}
 }

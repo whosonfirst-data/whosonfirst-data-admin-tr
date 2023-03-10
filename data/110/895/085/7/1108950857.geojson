@@ -2,11 +2,11 @@
   "id": 1108950857,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.6770599995,41.0284336791,28.6770599995,41.0284336791",
+    "geom:bbox":"28.67706,41.028434,28.67706,41.028434",
     "geom:latitude":41.028434,
     "geom:longitude":28.67706,
     "iso:country":"TR",
@@ -15,7 +15,7 @@
     "lbl:longitude":28.67706,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -140,28 +140,30 @@
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709497
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368680,
-    "wof:geomhash":"70883acfac1a1164539d3a3a12163555",
+    "wof:geomhash":"e7640933244739702439a22036a69d00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":1108709497,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950857,
             "region_id":85679237
         }
     ],
     "wof:id":1108950857,
-    "wof:lastmodified":1566585278,
+    "wof:lastmodified":1678401418,
     "wof:name":"Fatih",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -169,10 +171,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.67705999945926,
-    41.02843367906085,
-    28.67705999945926,
-    41.02843367906085
+    28.67706,
+    41.028434,
+    28.67706,
+    41.028434
 ],
-  "geometry": {"coordinates":[28.67705999945926,41.02843367906085],"type":"Point"}
+  "geometry": {"coordinates":[28.67706,41.028434],"type":"Point"}
 }

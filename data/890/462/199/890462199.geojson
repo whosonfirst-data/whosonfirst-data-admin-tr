@@ -2,7 +2,7 @@
   "id": 890462199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "lbl:bbox":"28.98217,41.05546,28.99217,41.06546",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "name:ara_x_preferred":[
         "\u0634\u064a\u0634\u0644\u064a"
@@ -132,11 +132,11 @@
     "src:population":"geonames",
     "wd:wordcount":1671,
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912685,
-        890461743
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -153,16 +153,16 @@
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890461743,
-            "locality_id":101912685,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462199,
             "region_id":85679237
         }
     ],
     "wof:id":890462199,
-    "wof:lastmodified":1566586394,
+    "wof:lastmodified":1678401508,
     "wof:name":"\u015ei\u015fli",
-    "wof:parent_id":101912685,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:population":314684,
     "wof:population_rank":10,

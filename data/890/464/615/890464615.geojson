@@ -2,11 +2,11 @@
   "id": 890464615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-03-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9589405,41.0216055,28.9589405,41.0216055",
+    "geom:bbox":"28.958941,41.021605,28.958941,41.021605",
     "geom:latitude":41.021605,
     "geom:longitude":28.958941,
     "gp:adm0":23424969,
@@ -14,7 +14,7 @@
     "lbl:bbox":"28.9539405,41.0166055,28.9639405,41.0266055",
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":15.0,
     "qs:name":"Kasap Demirhun",
     "qs:name_adm0":"Turkey",
@@ -29,9 +29,10 @@
     "qs:pop_sr":"0",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,20 +41,21 @@
     },
     "wof:country":"TR",
     "wof:created":1469053479,
-    "wof:geomhash":"afa9ef78c303dcd7356ddf183e0fcc84",
+    "wof:geomhash":"b364fd3d21e7464ae7a4aeb89cd634aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890464615,
             "region_id":85679237
         }
     ],
     "wof:id":890464615,
-    "wof:lastmodified":1566586310,
+    "wof:lastmodified":1678401544,
     "wof:name":"Kasap Demirhun",
-    "wof:parent_id":-1,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -61,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.9589405,
-    41.0216055,
-    28.9589405,
-    41.0216055
+    28.958941,
+    41.021605,
+    28.958941,
+    41.021605
 ],
-  "geometry": {"coordinates":[28.9589405,41.0216055],"type":"Point"}
+  "geometry": {"coordinates":[28.958941,41.021605],"type":"Point"}
 }

@@ -4,18 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000009,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.955851,41.007682,28.955851,41.007682",
-    "geom:latitude":41.007682,
-    "geom:longitude":28.955851,
+    "geom:bbox":"28.95338,41.007153,28.95789,41.009575",
+    "geom:latitude":41.008466,
+    "geom:longitude":28.955292,
     "gp:adm0":23424969,
     "iso:country":"TR",
-    "lbl:bbox":"28.950851,41.002682,28.960851,41.012682",
+    "lbl:latitude":41.008363,
+    "lbl:longitude":28.955067,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Mesihpasa"
+    ],
+    "name:tur_x_preferred":[
+        "Mesihpa\u015fa"
+    ],
     "qs:name":"Mesihpa\u015fa",
     "qs:name_adm0":"Turkey",
     "qs:name_adm1":"\u0130stanbul",
@@ -27,11 +34,19 @@
     "qs:photos_sr":1,
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
+    "reversegeo:latitude":41.008363,
+    "reversegeo:longitude":28.955067,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
-        85679237,
         85632393,
-        1108709503
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,31 +55,37 @@
     },
     "wof:country":"TR",
     "wof:created":1469053379,
-    "wof:geomhash":"dd39fb5aeff9718b530b303992303b09",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"941694297d4471890367ec021b19ffb4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
             "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":890462135,
             "region_id":85679237
         }
     ],
     "wof:id":890462135,
-    "wof:lastmodified":1566586358,
-    "wof:name":"Mesihpa\u015fa",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1678401266,
+    "wof:name":"Mesihpasa",
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1108950249
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    28.955851,
-    41.007682,
-    28.955851,
-    41.007682
+    28.95338,
+    41.007153,
+    28.95789,
+    41.009575
 ],
-  "geometry": {"coordinates":[28.955851,41.007682],"type":"Point"}
+  "geometry": {"coordinates":[[[28.957312,41.009564],[28.957362,41.009404],[28.95789,41.008184],[28.956276,41.008194],[28.956255,41.007153],[28.954164,41.007153],[28.953764,41.007192],[28.953478,41.007172],[28.95338,41.009545],[28.954764,41.009575],[28.956534,41.009566],[28.957312,41.009564]]],"type":"Polygon"}
 }

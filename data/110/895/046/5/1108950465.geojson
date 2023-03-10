@@ -4,18 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000039,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9004337029,40.9858886559,28.9004337029,40.9858886559",
-    "geom:latitude":40.985889,
-    "geom:longitude":28.900434,
+    "geom:bbox":"28.897832,40.98268,28.90443,40.990526",
+    "geom:latitude":40.986594,
+    "geom:longitude":28.901073,
     "iso:country":"TR",
-    "lbl:bbox":"28.8954337029,40.9808886559,28.9054337029,40.9908886559",
-    "lbl:latitude":40.985889,
-    "lbl:longitude":28.900434,
+    "lbl:latitude":40.986573,
+    "lbl:longitude":28.901668,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -23,36 +22,51 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_metro":30,
+    "name:eng_x_preferred":[
+        "Nuripasa"
+    ],
     "name:tur_x_preferred":[
         "Nuripa\u015fa"
     ],
-    "src:lbl_centroid":"mz",
+    "name:tur_x_variant":[
+        "Nuripasa"
+    ],
+    "reversegeo:latitude":40.986573,
+    "reversegeo:longitude":28.901668,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
-        85679237,
         102191569,
         85632393,
-        101912673,
-        890462833
+        890460455,
+        1108709503,
+        85679237
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"TR",
     "wof:created":1491368427,
-    "wof:geomhash":"0e6df3319911fdbfa817a2200c6f7d64",
+    "wof:geom_alt":[
+        "unknown"
+    ],
+    "wof:geomhash":"b312c19023df96c4cf9ab25050340298",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632393,
-            "county_id":890462833,
-            "locality_id":101912673,
+            "county_id":1108709503,
+            "locality_id":890460455,
             "neighbourhood_id":1108950465,
             "region_id":85679237
         }
     ],
     "wof:id":1108950465,
-    "wof:lastmodified":1566585272,
+    "wof:lastmodified":1678400707,
     "wof:name":"Nuripasa",
-    "wof:parent_id":101912673,
+    "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
@@ -60,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.90043370286689,
-    40.98588865586484,
-    28.90043370286689,
-    40.98588865586484
+    28.897832,
+    40.98268,
+    28.90443,
+    40.990526
 ],
-  "geometry": {"coordinates":[28.90043370286689,40.98588865586484],"type":"Point"}
+  "geometry": {"coordinates":[[[28.899316,40.990526],[28.899773,40.990428],[28.900361,40.990362],[28.900851,40.990101],[28.903671,40.990341],[28.903739,40.989666],[28.903903,40.988778],[28.904246,40.987243],[28.904371,40.986628],[28.904161,40.985482],[28.90443,40.985264],[28.903841,40.984756],[28.902856,40.983983],[28.901999,40.983479],[28.900631,40.982949],[28.899747,40.982759],[28.89851,40.982694],[28.897859,40.98268],[28.897832,40.982745],[28.897938,40.983686],[28.897975,40.984578],[28.898103,40.985266],[28.898137,40.985706],[28.898491,40.985713],[28.898461,40.985912],[28.898477,40.986192],[28.898621,40.986352],[28.898989,40.98669],[28.898997,40.986736],[28.898982,40.986758],[28.898385,40.986835],[28.898279,40.986908],[28.898622,40.988329],[28.898779,40.988653],[28.899003,40.989407],[28.898951,40.98951],[28.899316,40.990526]]],"type":"Polygon"}
 }
