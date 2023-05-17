@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Hatay",
+    "eurostat:name_local":"Hatay",
+    "eurostat:nuts_2021_id":"TR631",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR6",
+    "eurostat:nuts_2021_level_2":"TR63",
+    "eurostat:nuts_2021_level_3":"TR631",
+    "eurostat:population":1659320,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.557772,
-    "geom:area_square_m":5549258799.834856,
+    "geom:area_square_m":5549258799.834303,
     "geom:bbox":"35.782054901,35.80768,36.695703,37.0148881432",
     "geom:latitude":36.427897,
     "geom:longitude":36.251717,
@@ -382,8 +396,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"5,403",
     "statoids:area_mi":"2,086",
     "statoids:as_of_date":"2007-12-31",
@@ -403,6 +417,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR631",
         "fips:code":"TU31",
         "gn:id":312394,
         "gp:id":2347286,
@@ -417,7 +432,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ccda9c44cc5cd57075b82e8854130ff",
+    "wof:geomhash":"c68ed45b30b168e155758c76e2f13a03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -432,12 +447,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340269,
+    "wof:lastmodified":1684351680,
     "wof:name":"Hatay",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1386224,
+    "wof:population":1659320,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"HT",

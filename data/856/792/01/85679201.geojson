@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"\u0130zmir",
+    "eurostat:name_local":"\u0130zmir",
+    "eurostat:nuts_2021_id":"TR310",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR3",
+    "eurostat:nuts_2021_level_2":"TR31",
+    "eurostat:nuts_2021_level_3":"TR310",
+    "eurostat:population":4394694,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":1.255219,
-    "geom:area_square_m":12149478104.411783,
+    "geom:area_square_m":12149478104.411953,
     "geom:bbox":"26.230388641,37.8184024079,28.4952451707,39.3929348525",
     "geom:latitude":38.482959,
     "geom:longitude":27.298099,
@@ -373,8 +387,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"11,973",
     "statoids:area_mi":"4,623",
     "statoids:as_of_date":"2007-12-31",
@@ -394,6 +408,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR310",
         "fips:code":"TU35",
         "gn:id":311044,
         "gp:id":2347290,
@@ -408,7 +423,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"34d28c1b6021167378cd21eeca509193",
+    "wof:geomhash":"900ca6051218fec2d36c6ce22582f061",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -423,12 +438,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340275,
+    "wof:lastmodified":1684351677,
     "wof:name":"Izmir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":3739353,
+    "wof:population":4394694,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"IZ",

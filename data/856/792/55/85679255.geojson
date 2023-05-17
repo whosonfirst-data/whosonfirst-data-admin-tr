@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Eski\u015fehir",
+    "eurostat:name_local":"Eski\u015fehir",
+    "eurostat:nuts_2021_id":"TR412",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR4",
+    "eurostat:nuts_2021_level_2":"TR41",
+    "eurostat:nuts_2021_level_3":"TR412",
+    "eurostat:population":888828,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.481143,
-    "geom:area_square_m":14111870952.04888,
+    "geom:area_square_m":14111871481.208151,
     "geom:bbox":"29.99502,39.01994,32.029358,40.187708",
     "geom:latitude":39.598253,
     "geom:longitude":31.077267,
@@ -380,8 +394,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"13,652",
     "statoids:area_mi":"5,271",
     "statoids:as_of_date":"2007-12-31",
@@ -401,6 +415,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR412",
         "fips:code":"TU26",
         "gn:id":315201,
         "gp:id":2347283,
@@ -415,7 +430,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2375ab2b12c91b26a70f11f0538ac291",
+    "wof:geomhash":"28e79c9eced97204ae3b4770a7282e3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -430,12 +445,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499831,
+    "wof:lastmodified":1684351679,
     "wof:name":"Eskisehir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":724849,
+    "wof:population":888828,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"ES",

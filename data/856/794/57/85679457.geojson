@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Aksaray",
+    "eurostat:name_local":"Aksaray",
+    "eurostat:nuts_2021_id":"TR712",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR7",
+    "eurostat:nuts_2021_level_2":"TR71",
+    "eurostat:nuts_2021_level_3":"TR712",
+    "eurostat:population":423011,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.804148,
-    "geom:area_square_m":7787727121.829053,
+    "geom:area_square_m":7787727910.425309,
     "geom:bbox":"33.175185,37.970536,34.496646,39.041802",
     "geom:latitude":38.444748,
     "geom:longitude":33.847081,
@@ -396,8 +410,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"7,626",
     "statoids:area_mi":"2,944",
     "statoids:as_of_date":"2007-12-31",
@@ -417,6 +431,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR712",
         "fips:code":"TU75",
         "gn:id":443185,
         "gp:id":2347325,
@@ -431,7 +446,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6972e3c084959cb5996a95e2581630e5",
+    "wof:geomhash":"22c1200a35c3de35f2ea75a9fc402dcc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -446,12 +461,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499826,
+    "wof:lastmodified":1684351682,
     "wof:name":"Aksaray",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":366109,
+    "wof:population":423011,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AK",

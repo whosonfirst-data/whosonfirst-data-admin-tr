@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Giresun",
+    "eurostat:name_local":"Giresun",
+    "eurostat:nuts_2021_id":"TR903",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR9",
+    "eurostat:nuts_2021_level_2":"TR90",
+    "eurostat:nuts_2021_level_3":"TR903",
+    "eurostat:population":448721,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.744852,
-    "geom:area_square_m":6995284526.393963,
+    "geom:area_square_m":6995284837.699874,
     "geom:bbox":"37.990488,40.03906,39.178402,41.079582",
     "geom:latitude":40.578217,
     "geom:longitude":38.567861,
@@ -380,8 +394,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"6,934",
     "statoids:area_mi":"2,677",
     "statoids:as_of_date":"2007-12-31",
@@ -401,6 +415,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR903",
         "fct:id":"07dc2cd4-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU28",
         "gn:id":746878,
@@ -416,7 +431,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"10347b5692340b45251c939ca4584d53",
+    "wof:geomhash":"d8429ee6744b2b41e8aa226412937c26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -431,12 +446,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499825,
+    "wof:lastmodified":1684351680,
     "wof:name":"Giresun",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":417505,
+    "wof:population":448721,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"GI",

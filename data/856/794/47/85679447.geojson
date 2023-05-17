@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"K\u0131r\u0131kkale",
+    "eurostat:name_local":"K\u0131r\u0131kkale",
+    "eurostat:nuts_2021_id":"TR711",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR7",
+    "eurostat:nuts_2021_level_2":"TR71",
+    "eurostat:nuts_2021_level_3":"TR711",
+    "eurostat:population":278703,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.512982,
-    "geom:area_square_m":4868719306.02052,
+    "geom:area_square_m":4868719306.020422,
     "geom:bbox":"33.187027088,39.4190999421,34.2064441654,40.3393581526",
     "geom:latitude":39.864381,
     "geom:longitude":33.703771,
@@ -371,8 +385,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"4,365",
     "statoids:area_mi":"1,685",
     "statoids:as_of_date":"2007-12-31",
@@ -392,6 +406,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR711",
         "fips:code":"TU79",
         "gn:id":443188,
         "gp:id":2347329,
@@ -406,7 +421,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"52a94d5c8dac0d8e4533b3675a3ab6c9",
+    "wof:geomhash":"a8345d271af11386412e7d1fe61f205e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -421,12 +436,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340272,
+    "wof:lastmodified":1684351682,
     "wof:name":"Kinkkale",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":280234,
+    "wof:population":278703,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KK",

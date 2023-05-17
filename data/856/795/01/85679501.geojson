@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Hakkari",
+    "eurostat:name_local":"Hakkari",
+    "eurostat:nuts_2021_id":"TRB24",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRB",
+    "eurostat:nuts_2021_level_2":"TRB2",
+    "eurostat:nuts_2021_level_3":"TRB24",
+    "eurostat:population":280514,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.727175,
-    "geom:area_square_m":7137421046.859891,
+    "geom:area_square_m":7137420948.918083,
     "geom:bbox":"43.291368,36.963567,44.815191,37.808458",
     "geom:latitude":37.459209,
     "geom:longitude":44.061357,
@@ -385,8 +399,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"7,121",
     "statoids:area_mi":"2,749",
     "statoids:as_of_date":"2007-12-31",
@@ -406,6 +420,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRB24",
         "fips:code":"TU70",
         "gn:id":312888,
         "gp:id":2347320,
@@ -420,7 +435,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"912f228f8bda853072c6239d0c17d049",
+    "wof:geomhash":"9f4aa00e282af504549fdff99926ad0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -435,12 +450,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1614896215,
+    "wof:lastmodified":1684351682,
     "wof:name":"Hakkari",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":246469,
+    "wof:population":280514,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"HK",

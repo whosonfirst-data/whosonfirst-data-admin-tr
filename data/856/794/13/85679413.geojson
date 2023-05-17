@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"\u00c7ank\u0131r\u0131",
+    "eurostat:name_local":"\u00c7ank\u0131r\u0131",
+    "eurostat:nuts_2021_id":"TR822",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR82",
+    "eurostat:nuts_2021_level_3":"TR822",
+    "eurostat:population":192428,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"3",
     "geom:area":0.798844,
-    "geom:area_square_m":7490005564.874582,
+    "geom:area_square_m":7490005564.874538,
     "geom:bbox":"32.5679905471,40.2696100661,34.1466393101,41.084648107",
     "geom:latitude":40.68847,
     "geom:longitude":33.458929,
@@ -372,8 +386,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"7,388",
     "statoids:area_mi":"2,853",
     "statoids:as_of_date":"2007-12-31",
@@ -393,6 +407,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR822",
         "fips:code":"TU82",
         "gn:id":749747,
         "gp:id":2347275,
@@ -407,7 +422,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"724dbbb6ad2d705507a65dbc08e30acf",
+    "wof:geomhash":"e76c83fca6c7f3ffddb66099a3e283aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -422,12 +437,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340272,
+    "wof:lastmodified":1684351681,
     "wof:name":"Cankiri",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":174012,
+    "wof:population":192428,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"CI",

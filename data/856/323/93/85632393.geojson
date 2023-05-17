@@ -4,8 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"0",
+    "eurostat:name_latin":"T\u00fcrkiye",
+    "eurostat:name_local":"T\u00fcrkiye",
+    "eurostat:nuts_2021_id":"TR",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:population":83614362,
+    "eurostat:population_year":2021,
     "geom:area":81.280636,
-    "geom:area_square_m":780182559624.58667,
+    "geom:area_square_m":780182559624.599976,
     "geom:bbox":"25.664528,35.80768,44.818128,42.104165",
     "geom:latitude":39.059334,
     "geom:longitude":35.167961,
@@ -1295,7 +1303,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:dial":"90",
     "statoids:ds":"TR",
     "statoids:fifa":"TUR",
@@ -1324,6 +1333,7 @@
     "wof:concordances":{
         "dbp:id":"Turkey",
         "digitalenvoy:country_code":792,
+        "eurostat:nuts_2021_id":"TR",
         "fb:id":"en.turkey",
         "fifa:id":"TUR",
         "fips:code":"TU",
@@ -1354,7 +1364,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"39e16ec28adf95938000d5727a46c44a",
+    "wof:geomhash":"7a7ba66ecb9c7891a57152fe9ccf078d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1368,11 +1378,11 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1617827466,
+    "wof:lastmodified":1684351339,
     "wof:name":"Turkey",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":74932641,
+    "wof:population":83614362,
     "wof:population_rank":16,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"TR",

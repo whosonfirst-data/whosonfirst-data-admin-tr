@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Sinop",
+    "eurostat:name_local":"Sinop",
+    "eurostat:nuts_2021_id":"TR823",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR82",
+    "eurostat:nuts_2021_level_3":"TR823",
+    "eurostat:population":216460,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.635067,
-    "geom:area_square_m":5869586469.539419,
+    "geom:area_square_m":5869586637.594202,
     "geom:bbox":"34.227693,41.204859,35.543823,42.101276",
     "geom:latitude":41.628869,
     "geom:longitude":34.892286,
@@ -368,8 +382,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"5,862",
     "statoids:area_mi":"2,263",
     "statoids:as_of_date":"2007-12-31",
@@ -389,6 +403,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR823",
         "fips:code":"TU57",
         "gn:id":739598,
         "gp:id":2347308,
@@ -403,7 +418,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53163a85c162f5fdbbc483f7f33294e1",
+    "wof:geomhash":"97eea93203dba540f309c6725e1c62c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -418,13 +433,13 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499823,
+    "wof:lastmodified":1684351680,
     "wof:name":"Sinop",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":198412,
-    "wof:population_rank":9,
+    "wof:population":216460,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"SP",
     "wof:subdivision":"TR-57",

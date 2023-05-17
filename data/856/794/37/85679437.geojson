@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Gaziantep",
+    "eurostat:name_local":"Gaziantep",
+    "eurostat:nuts_2021_id":"TRC11",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRC",
+    "eurostat:nuts_2021_level_2":"TRC1",
+    "eurostat:nuts_2021_level_3":"TRC11",
+    "eurostat:population":2101157,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.703862,
-    "geom:area_square_m":6942801438.679265,
+    "geom:area_square_m":6942801296.501791,
     "geom:bbox":"36.44637,36.704993,38.080985,37.524432",
     "geom:latitude":37.087453,
     "geom:longitude":37.352312,
@@ -378,8 +392,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"6,207",
     "statoids:area_mi":"2,397",
     "statoids:as_of_date":"2007-12-31",
@@ -399,6 +413,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRC11",
         "fips:code":"TU83",
         "gn:id":314829,
         "gp:id":2347284,
@@ -413,7 +428,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"624049ad6c955910ac26c16ee3af05ea",
+    "wof:geomhash":"0c7406fead34c433edd4698e9a825d9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -428,12 +443,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499827,
+    "wof:lastmodified":1684351681,
     "wof:name":"Gaziantep",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1560023,
+    "wof:population":2101157,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"GA",

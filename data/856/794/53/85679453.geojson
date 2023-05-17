@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Ni\u011fde",
+    "eurostat:name_local":"Ni\u011fde",
+    "eurostat:nuts_2021_id":"TR713",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR7",
+    "eurostat:nuts_2021_level_2":"TR71",
+    "eurostat:nuts_2021_level_3":"TR713",
+    "eurostat:population":362071,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.729993,
-    "geom:area_square_m":7121510139.829773,
+    "geom:area_square_m":7121509919.64509,
     "geom:bbox":"34.006785,37.393,35.263912,38.391009",
     "geom:latitude":37.911436,
     "geom:longitude":34.690624,
@@ -349,8 +363,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"7,312",
     "statoids:area_mi":"2,823",
     "statoids:as_of_date":"2007-12-31",
@@ -370,6 +384,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR713",
         "fips:code":"TU73",
         "gn:id":303826,
         "gp:id":2347323,
@@ -384,7 +399,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4378604bb3e30d19e3f88d5dd08308c4",
+    "wof:geomhash":"275bb37746379aeefa7eeb40100a72d2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -399,12 +414,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499827,
+    "wof:lastmodified":1684351682,
     "wof:name":"Nigde",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":331677,
+    "wof:population":362071,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"NG",

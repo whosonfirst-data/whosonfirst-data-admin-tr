@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Samsun",
+    "eurostat:name_local":"Samsun",
+    "eurostat:nuts_2021_id":"TR831",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR83",
+    "eurostat:nuts_2021_level_3":"TR831",
+    "eurostat:population":1356079,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.01249,
-    "geom:area_square_m":9418116362.62361,
+    "geom:area_square_m":9418116362.623419,
     "geom:bbox":"34.8758253682,40.8359038034,37.1764709623,41.737083435",
     "geom:latitude":41.212419,
     "geom:longitude":35.995013,
@@ -343,8 +357,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"9,579",
     "statoids:area_mi":"3,698",
     "statoids:as_of_date":"2007-12-31",
@@ -364,6 +378,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR831",
         "fips:code":"TU55",
         "gn:id":740263,
         "gp:id":2347307,
@@ -378,7 +393,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ef5c46398151fecd932b7d256b32c0f1",
+    "wof:geomhash":"16e541e34160eb82803e0666f5d461e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -393,12 +408,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340268,
+    "wof:lastmodified":1684351680,
     "wof:name":"Samsun",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1228959,
+    "wof:population":1356079,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"SS",

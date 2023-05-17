@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Trabzon",
+    "eurostat:name_local":"Trabzon",
+    "eurostat:nuts_2021_id":"TR901",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR9",
+    "eurostat:nuts_2021_level_2":"TR90",
+    "eurostat:nuts_2021_level_3":"TR901",
+    "eurostat:population":811901,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.495894,
-    "geom:area_square_m":4641389024.100318,
+    "geom:area_square_m":4641389024.100529,
     "geom:bbox":"39.128348813,40.513671715,40.5032258116,41.110416412",
     "geom:latitude":40.805142,
     "geom:longitude":39.813584,
@@ -390,8 +404,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"4,685",
     "statoids:area_mi":"1,809",
     "statoids:as_of_date":"2007-12-31",
@@ -411,6 +425,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR901",
         "fips:code":"TU61",
         "gn:id":738647,
         "gp:id":2347312,
@@ -425,7 +440,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2266335096b86bf798b8b8554f275eaa",
+    "wof:geomhash":"9574044d8db1ec86a0c568b5516c8158",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -440,12 +455,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340270,
+    "wof:lastmodified":1684351681,
     "wof:name":"Trabzon",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":740569,
+    "wof:population":811901,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"TB",

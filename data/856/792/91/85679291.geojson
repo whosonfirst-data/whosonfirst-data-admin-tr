@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Mu\u011fla",
+    "eurostat:name_local":"Mu\u011fla",
+    "eurostat:nuts_2021_id":"TR323",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR3",
+    "eurostat:nuts_2021_level_2":"TR32",
+    "eurostat:nuts_2021_level_3":"TR323",
+    "eurostat:population":1000773,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.27969,
-    "geom:area_square_m":12635756355.886572,
+    "geom:area_square_m":12635756086.74358,
     "geom:bbox":"27.225416,36.281938,29.769576,37.573226",
     "geom:latitude":37.008385,
     "geom:longitude":28.483167,
@@ -380,8 +394,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"13,338",
     "statoids:area_mi":"5,150",
     "statoids:as_of_date":"2007-12-31",
@@ -401,6 +415,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR323",
         "fips:code":"TU48",
         "gn:id":304183,
         "gp:id":2347301,
@@ -415,7 +430,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5dd0dfe28e7f5842802cfb68f68bfae0",
+    "wof:geomhash":"6afcc6815099b2387cc7322b8c3c4d08",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -430,13 +445,13 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499830,
+    "wof:lastmodified":1684351679,
     "wof:name":"Mugla",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":766156,
-    "wof:population_rank":11,
+    "wof:population":1000773,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"MG",
     "wof:subdivision":"TR-48",

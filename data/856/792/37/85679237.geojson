@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"\u0130stanbul",
+    "eurostat:name_local":"\u0130stanbul",
+    "eurostat:nuts_2021_id":"TR100",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR1",
+    "eurostat:nuts_2021_level_2":"TR10",
+    "eurostat:nuts_2021_level_3":"TR100",
+    "eurostat:population":15462452,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.582086,
-    "geom:area_square_m":5419274660.858948,
+    "geom:area_square_m":5419274660.859024,
     "geom:bbox":"27.972623,40.801277,29.915492,41.585109",
     "geom:latitude":41.155229,
     "geom:longitude":28.806546,
@@ -379,8 +393,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"5,220",
     "statoids:area_mi":"2,015",
     "statoids:as_of_date":"2007-12-31",
@@ -400,6 +414,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR100",
         "fips:code":"TU34",
         "gn:id":745042,
         "gp:id":2347289,
@@ -417,7 +432,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61219be2e013abfa206cc11671b0d34a",
+    "wof:geomhash":"b90a273145f10a6c342b5a2c6ee499a7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -432,12 +447,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499831,
+    "wof:lastmodified":1684351678,
     "wof:name":"Istanbul",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":12573836,
+    "wof:population":15462452,
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"IB",

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Bal\u0131kesir",
+    "eurostat:name_local":"Bal\u0131kesir",
+    "eurostat:nuts_2021_id":"TR221",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR2",
+    "eurostat:nuts_2021_level_2":"TR22",
+    "eurostat:nuts_2021_level_3":"TR221",
+    "eurostat:population":1240285,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.53219,
-    "geom:area_square_m":14580108397.688751,
+    "geom:area_square_m":14580109911.101797,
     "geom:bbox":"26.598749,39.083845,29.006389,40.666248",
     "geom:latitude":39.683731,
     "geom:longitude":27.881052,
@@ -413,8 +427,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"14,292",
     "statoids:area_mi":"5,518",
     "statoids:as_of_date":"2007-12-31",
@@ -434,6 +448,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR221",
         "fips:code":"TU10",
         "gn:id":322164,
         "gp:id":2347267,
@@ -448,7 +463,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5d1713281d19e0b07e62df7b0be77c07",
+    "wof:geomhash":"5284cbc0f869d20030c5f6d0725179e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -463,12 +478,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499829,
+    "wof:lastmodified":1684351678,
     "wof:name":"Balikesir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1118313,
+    "wof:population":1240285,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"BK",

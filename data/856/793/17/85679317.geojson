@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"K\u0131r\u015fehir",
+    "eurostat:name_local":"K\u0131r\u015fehir",
+    "eurostat:nuts_2021_id":"TR715",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR7",
+    "eurostat:nuts_2021_level_2":"TR71",
+    "eurostat:nuts_2021_level_3":"TR715",
+    "eurostat:population":243042,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.697462,
-    "geom:area_square_m":6672448537.398217,
+    "geom:area_square_m":6672448656.757784,
     "geom:bbox":"33.389271,38.816462,34.697252,39.798583",
     "geom:latitude":39.313617,
     "geom:longitude":34.123398,
@@ -366,8 +380,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"6,570",
     "statoids:area_mi":"2,537",
     "statoids:as_of_date":"2007-12-31",
@@ -387,6 +401,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR715",
         "fct:id":"07dc24be-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU40",
         "gn:id":307513,
@@ -402,7 +417,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"92eb9bfe065953592f158518683d7998",
+    "wof:geomhash":"7bb5b35c515e15a9f36de60d4884e410",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -417,12 +432,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499824,
+    "wof:lastmodified":1684351680,
     "wof:name":"Kirsehir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":223170,
+    "wof:population":243042,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KH",

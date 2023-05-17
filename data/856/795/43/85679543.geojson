@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Bart\u0131n",
+    "eurostat:name_local":"Bart\u0131n",
+    "eurostat:nuts_2021_id":"TR813",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR81",
+    "eurostat:nuts_2021_level_3":"TR813",
+    "eurostat:population":198979,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.252993,
-    "geom:area_square_m":2339998645.647314,
+    "geom:area_square_m":2339998645.647526,
     "geom:bbox":"32.1006434067,41.3084558186,32.9255879357,41.845443726",
     "geom:latitude":41.581858,
     "geom:longitude":32.525279,
@@ -386,8 +400,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"2,140",
     "statoids:area_mi":"826",
     "statoids:as_of_date":"2007-12-31",
@@ -407,6 +421,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR813",
         "fips:code":"TU87",
         "gn:id":862467,
         "gp:id":20070187,
@@ -422,7 +437,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6d3f38e577c88093ad44344f11d13a43",
+    "wof:geomhash":"bd06fc70544c461937472ea49b3d1290",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -437,12 +452,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340273,
+    "wof:lastmodified":1684351683,
     "wof:name":"Bartin",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":182131,
+    "wof:population":198979,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"BR",

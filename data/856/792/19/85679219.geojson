@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"K\u0131rklareli",
+    "eurostat:name_local":"K\u0131rklareli",
+    "eurostat:nuts_2021_id":"TR213",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR2",
+    "eurostat:nuts_2021_level_2":"TR21",
+    "eurostat:nuts_2021_level_3":"TR213",
+    "eurostat:population":361737,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.691958,
-    "geom:area_square_m":6390587451.151052,
+    "geom:area_square_m":6390588064.347201,
     "geom:bbox":"26.873378,41.225842,28.11918,42.104165",
     "geom:latitude":41.677354,
     "geom:longitude":27.439367,
@@ -387,8 +401,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"6,550",
     "statoids:area_mi":"2,529",
     "statoids:as_of_date":"2007-12-31",
@@ -408,6 +422,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR213",
         "fips:code":"TU39",
         "gn:id":743165,
         "gp:id":2347294,
@@ -422,7 +437,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"16bdf1a5af2d074d14f2840f7671993e",
+    "wof:geomhash":"e9e8eab5fcf8ec4cf20cd9867233043b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -437,12 +452,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499830,
+    "wof:lastmodified":1684351678,
     "wof:name":"Kirklareli",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":333256,
+    "wof:population":361737,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KL",

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Kayseri",
+    "eurostat:name_local":"Kayseri",
+    "eurostat:nuts_2021_id":"TR721",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR7",
+    "eurostat:nuts_2021_level_2":"TR72",
+    "eurostat:nuts_2021_level_3":"TR721",
+    "eurostat:population":1421455,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":1.788688,
-    "geom:area_square_m":17285631318.094608,
+    "geom:area_square_m":17285631327.939102,
     "geom:bbox":"34.892915,37.648232,36.963142,39.299877",
     "geom:latitude":38.597088,
     "geom:longitude":35.839233,
@@ -374,8 +388,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"16,917",
     "statoids:area_mi":"6,532",
     "statoids:as_of_date":"2007-12-31",
@@ -395,6 +409,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR721",
         "fct:id":"07dc2d10-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU38",
         "gn:id":308463,
@@ -410,7 +425,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae05993cf577ac5983c619a776c07ae2",
+    "wof:geomhash":"76e1b47e2ddd94fe933227af91018c30",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -425,12 +440,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499824,
+    "wof:lastmodified":1684351680,
     "wof:name":"Kayseri",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1165088,
+    "wof:population":1421455,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KY",

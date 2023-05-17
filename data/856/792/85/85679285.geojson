@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Manisa",
+    "eurostat:name_local":"Manisa",
+    "eurostat:nuts_2021_id":"TR331",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR3",
+    "eurostat:nuts_2021_level_2":"TR33",
+    "eurostat:nuts_2021_level_3":"TR331",
+    "eurostat:population":1450616,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.367838,
-    "geom:area_square_m":13187812331.066925,
+    "geom:area_square_m":13187813625.813993,
     "geom:bbox":"27.123751,38.083307,29.136059,39.413381",
     "geom:latitude":38.764495,
     "geom:longitude":28.132869,
@@ -386,8 +400,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"13,810",
     "statoids:area_mi":"5,332",
     "statoids:as_of_date":"2007-12-31",
@@ -407,6 +421,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR331",
         "fips:code":"TU45",
         "gn:id":304825,
         "gp:id":2347299,
@@ -421,7 +436,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"927bd219001927b6a8983e15ff2e2b3b",
+    "wof:geomhash":"2b18777cc5f4c116dfd6a97bea2ba31e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -436,12 +451,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499832,
+    "wof:lastmodified":1684351679,
     "wof:name":"Manisa",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1319920,
+    "wof:population":1450616,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"MN",

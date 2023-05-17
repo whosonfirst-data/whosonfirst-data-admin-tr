@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Mardin",
+    "eurostat:name_local":"Mardin",
+    "eurostat:nuts_2021_id":"TRC31",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRC",
+    "eurostat:nuts_2021_level_2":"TRC3",
+    "eurostat:nuts_2021_level_3":"TRC31",
+    "eurostat:population":854716,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.882683,
-    "geom:area_square_m":8677455498.985329,
+    "geom:area_square_m":8677455381.240217,
     "geom:bbox":"39.905339,36.911187,41.896467,37.74317",
     "geom:latitude":37.341085,
     "geom:longitude":40.839971,
@@ -373,8 +387,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"8,891",
     "statoids:area_mi":"3,433",
     "statoids:as_of_date":"2007-12-31",
@@ -394,6 +408,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRC31",
         "fips:code":"TU72",
         "gn:id":304794,
         "gp:id":2347322,
@@ -408,7 +423,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df7c51bea6d935512a6c9998ae15e0fd",
+    "wof:geomhash":"d26840530f1e5d6bd6eb15d699b33953",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -423,12 +438,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499826,
+    "wof:lastmodified":1684351682,
     "wof:name":"Mardin",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":745778,
+    "wof:population":854716,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"MR",

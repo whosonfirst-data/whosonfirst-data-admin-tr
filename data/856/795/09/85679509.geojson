@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Van",
+    "eurostat:name_local":"Van",
+    "eurostat:nuts_2021_id":"TRB21",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRB",
+    "eurostat:nuts_2021_level_2":"TRB2",
+    "eurostat:nuts_2021_level_3":"TRB21",
+    "eurostat:population":1149342,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":2.135171,
-    "geom:area_square_m":20671785431.739124,
+    "geom:area_square_m":20671785431.738308,
     "geom:bbox":"42.6617270227,37.7294624715,44.5125395,39.3732250057",
     "geom:latitude":38.464777,
     "geom:longitude":43.587738,
@@ -385,8 +399,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"19,069",
     "statoids:area_mi":"7,363",
     "statoids:as_of_date":"2007-12-31",
@@ -406,6 +420,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRB21",
         "fips:code":"TU65",
         "gn:id":298113,
         "gp:id":2347316,
@@ -420,7 +435,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e8d7711af72c965c79d3c7b569fbc5b",
+    "wof:geomhash":"1f05544c1c04336a72ccb81ae7de83b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -435,13 +450,13 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340273,
+    "wof:lastmodified":1684351682,
     "wof:name":"Van",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":979671,
-    "wof:population_rank":11,
+    "wof:population":1149342,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"VA",
     "wof:subdivision":"TR-65",

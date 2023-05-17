@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Tokat",
+    "eurostat:name_local":"Tokat",
+    "eurostat:nuts_2021_id":"TR832",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR83",
+    "eurostat:nuts_2021_level_3":"TR832",
+    "eurostat:population":597861,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.054458,
-    "geom:area_square_m":9933682733.748884,
+    "geom:area_square_m":9933682733.748913,
     "geom:bbox":"35.438374961,39.8885251589,37.623485922,40.9087436865",
     "geom:latitude":40.370374,
     "geom:longitude":36.561167,
@@ -354,8 +368,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"9,958",
     "statoids:area_mi":"3,845",
     "statoids:as_of_date":"2007-12-31",
@@ -375,6 +389,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR832",
         "fips:code":"TU60",
         "gn:id":738742,
         "gp:id":2347311,
@@ -389,7 +404,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d41bd8604e0cdf9f3bdecf6ba8af1ab1",
+    "wof:geomhash":"67e23e43aee8e60db68d705b2def7021",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -404,12 +419,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340270,
+    "wof:lastmodified":1684351680,
     "wof:name":"Tokat",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":620722,
+    "wof:population":597861,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"TT",

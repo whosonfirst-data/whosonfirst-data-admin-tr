@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Afyonkarahisar",
+    "eurostat:name_local":"Afyonkarahisar",
+    "eurostat:nuts_2021_id":"TR332",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR3",
+    "eurostat:nuts_2021_level_2":"TR33",
+    "eurostat:nuts_2021_level_3":"TR332",
+    "eurostat:population":736912,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.446268,
-    "geom:area_square_m":13970177331.192223,
+    "geom:area_square_m":13970177301.07596,
     "geom:bbox":"29.642978,37.778949,31.732754,39.256181",
     "geom:latitude":38.629832,
     "geom:longitude":30.64879,
@@ -416,8 +430,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"14,230",
     "statoids:area_mi":"5,494",
     "statoids:as_of_date":"2007-12-31",
@@ -438,6 +452,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR332",
         "fips:code":"TU03",
         "gn:id":325302,
         "gp:id":2347260,
@@ -452,7 +467,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea17314b8672d1bd3252e8711a81cf96",
+    "wof:geomhash":"c9e0857bc061875dd1d68cf3e1a7ad9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -467,12 +482,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499829,
+    "wof:lastmodified":1684351679,
     "wof:name":"Afyonkarahisar",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":701572,
+    "wof:population":736912,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AF",

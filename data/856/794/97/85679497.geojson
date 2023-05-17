@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Tunceli",
+    "eurostat:name_local":"Tunceli",
+    "eurostat:nuts_2021_id":"TRB14",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRB",
+    "eurostat:nuts_2021_level_2":"TRB1",
+    "eurostat:nuts_2021_level_3":"TRB14",
+    "eurostat:population":83443,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"3",
     "geom:area":0.795862,
-    "geom:area_square_m":7626964992.932486,
+    "geom:area_square_m":7626964486.024325,
     "geom:bbox":"38.73734,38.762957,40.396024,39.609429",
     "geom:latitude":39.19269,
     "geom:longitude":39.487713,
@@ -379,8 +393,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"7,774",
     "statoids:area_mi":"3,002",
     "statoids:as_of_date":"2007-12-31",
@@ -400,6 +414,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRB14",
         "fips:code":"TU62",
         "gn:id":298845,
         "gp:id":2347313,
@@ -414,7 +429,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb06a4e1640556b61f5516763b4f1c87",
+    "wof:geomhash":"ed189c5fe110fccdc6d81da35efaf8c6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -429,12 +444,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499828,
+    "wof:lastmodified":1684351682,
     "wof:name":"Tunceli",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":84022,
+    "wof:population":83443,
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"TC",

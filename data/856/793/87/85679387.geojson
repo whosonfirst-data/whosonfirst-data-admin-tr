@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"A\u011fr\u0131",
+    "eurostat:name_local":"A\u011fr\u0131",
+    "eurostat:nuts_2021_id":"TRA21",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRA",
+    "eurostat:nuts_2021_level_2":"TRA2",
+    "eurostat:nuts_2021_level_3":"TRA21",
+    "eurostat:population":535435,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.190789,
-    "geom:area_square_m":11352826559.914698,
+    "geom:area_square_m":11352827377.297049,
     "geom:bbox":"42.288041,38.928894,44.487719,40.001314",
     "geom:latitude":39.553513,
     "geom:longitude":43.254873,
@@ -400,8 +414,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"11,376",
     "statoids:area_mi":"4,392",
     "statoids:as_of_date":"2007-12-31",
@@ -421,6 +435,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRA21",
         "fips:code":"TU04",
         "gn:id":325163,
         "gp:id":2347261,
@@ -435,7 +450,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"947134e1523b12bed0f29cf5ad0d9fad",
+    "wof:geomhash":"b6cbec94fc6633abc3a7dccfd0472708",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -450,12 +465,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499823,
+    "wof:lastmodified":1684351681,
     "wof:name":"Agri",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":530879,
+    "wof:population":535435,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AG",

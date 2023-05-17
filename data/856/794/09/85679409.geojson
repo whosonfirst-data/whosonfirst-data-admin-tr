@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Ankara",
+    "eurostat:name_local":"Ankara",
+    "eurostat:nuts_2021_id":"TR510",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR5",
+    "eurostat:nuts_2021_level_2":"TR51",
+    "eurostat:nuts_2021_level_3":"TR510",
+    "eurostat:population":5663322,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":2.682716,
-    "geom:area_square_m":25483102657.943146,
+    "geom:area_square_m":25483102308.029984,
     "geom:bbox":"30.83213,38.668058,33.887559,40.760879",
     "geom:latitude":39.804745,
     "geom:longitude":32.582285,
@@ -367,8 +381,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"25,706",
     "statoids:area_mi":"9,925",
     "statoids:as_of_date":"2007-12-31",
@@ -388,6 +402,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR510",
         "fips:code":"TU68",
         "gn:id":323784,
         "gp:id":2347263,
@@ -402,7 +417,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eb0457ca3a899f6807874960e0020ea9",
+    "wof:geomhash":"b95b0b6357e0328e82406797b5c749f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -417,13 +432,13 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499827,
+    "wof:lastmodified":1684351681,
     "wof:name":"Ankara",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":4466756,
-    "wof:population_rank":12,
+    "wof:population":5663322,
+    "wof:population_rank":13,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AN",
     "wof:subdivision":"TR-06",

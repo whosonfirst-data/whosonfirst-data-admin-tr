@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Siirt",
+    "eurostat:name_local":"Siirt",
+    "eurostat:nuts_2021_id":"TRC34",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRC",
+    "eurostat:nuts_2021_level_2":"TRC3",
+    "eurostat:nuts_2021_level_3":"TRC34",
+    "eurostat:population":331070,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.57915,
-    "geom:area_square_m":5650221669.467014,
+    "geom:area_square_m":5650221776.24322,
     "geom:bbox":"41.366156,37.581153,42.888891,38.27195",
     "geom:latitude":37.908161,
     "geom:longitude":42.124242,
@@ -361,8 +375,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"5,406",
     "statoids:area_mi":"2,087",
     "statoids:as_of_date":"2007-12-31",
@@ -382,6 +396,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRC34",
         "fips:code":"TU74",
         "gn:id":300821,
         "gp:id":2347324,
@@ -396,7 +411,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f4ee08450254c741df1c07ef566c4e7",
+    "wof:geomhash":"182e4d7cc5febb7a859d3689d82ce47b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -411,12 +426,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499826,
+    "wof:lastmodified":1684351682,
     "wof:name":"Siirt",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":291528,
+    "wof:population":331070,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"SI",
