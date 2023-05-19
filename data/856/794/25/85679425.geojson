@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"4",
+    "eurostat:name_latin":"Konya",
+    "eurostat:name_local":"Konya",
+    "eurostat:nuts_2021_id":"TR521",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR5",
+    "eurostat:nuts_2021_level_2":"TR52",
+    "eurostat:nuts_2021_level_3":"TR521",
+    "eurostat:population":2250020,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":4.187669,
-    "geom:area_square_m":40780309926.511917,
+    "geom:area_square_m":40780308376.10881,
     "geom:bbox":"31.241899,36.702089,34.428388,39.270631",
     "geom:latitude":38.039465,
     "geom:longitude":32.60212,
@@ -392,8 +406,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"38,157",
     "statoids:area_mi":"14,733",
     "statoids:as_of_date":"2007-12-31",
@@ -413,6 +427,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR521",
         "fips:code":"TU71",
         "gn:id":306569,
         "gp:id":2347321,
@@ -427,7 +442,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e507e24ec02af3a59866dad57483235d",
+    "wof:geomhash":"705e334905802eea366f5048706201f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -442,12 +457,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499828,
+    "wof:lastmodified":1684351681,
     "wof:name":"Konya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":1959082,
+    "wof:population":2250020,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KO",

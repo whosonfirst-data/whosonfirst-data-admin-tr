@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Karab\u00fck",
+    "eurostat:name_local":"Karab\u00fck",
+    "eurostat:nuts_2021_id":"TR812",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR81",
+    "eurostat:nuts_2021_level_3":"TR812",
+    "eurostat:population":243614,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.452223,
-    "geom:area_square_m":4208607866.328537,
+    "geom:area_square_m":4208607866.328484,
     "geom:bbox":"31.9770979832,40.8165200231,33.1513999309,41.5804502646",
     "geom:latitude":41.180482,
     "geom:longitude":32.638412,
@@ -356,8 +370,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"4,074",
     "statoids:area_mi":"1,573",
     "statoids:as_of_date":"2007-12-31",
@@ -377,6 +391,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR812",
         "fips:code":"TU89",
         "gn:id":862468,
         "gp:id":20070186,
@@ -391,7 +406,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a2b3a98f65ab8594fd91e9a72b228cd8",
+    "wof:geomhash":"053df15c30c403853c3529cb4b9ba2d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -406,12 +421,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340273,
+    "wof:lastmodified":1684351683,
     "wof:name":"Karabuk",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":218463,
+    "wof:population":243614,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KB",

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Karaman",
+    "eurostat:name_local":"Karaman",
+    "eurostat:nuts_2021_id":"TR522",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR5",
+    "eurostat:nuts_2021_level_2":"TR52",
+    "eurostat:nuts_2021_level_3":"TR522",
+    "eurostat:population":254919,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.896569,
-    "geom:area_square_m":8843348787.564831,
+    "geom:area_square_m":8843348787.564827,
     "geom:bbox":"32.4666175457,36.447259103,34.2697166607,37.5691461933",
     "geom:latitude":37.089414,
     "geom:longitude":33.303089,
@@ -363,8 +377,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"9,163",
     "statoids:area_mi":"3,538",
     "statoids:as_of_date":"2007-12-31",
@@ -384,6 +398,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR522",
         "fips:code":"TU78",
         "gn:id":443187,
         "gp:id":2347328,
@@ -398,7 +413,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"19aa65d5beddc4687424edbe657bcc9d",
+    "wof:geomhash":"72a58717c4bed9f59424c7ec42e2f588",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -413,12 +428,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340271,
+    "wof:lastmodified":1684351681,
     "wof:name":"Karaman",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":226049,
+    "wof:population":254919,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KR",

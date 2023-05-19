@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Yalova",
+    "eurostat:name_local":"Yalova",
+    "eurostat:nuts_2021_id":"TR425",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR4",
+    "eurostat:nuts_2021_level_2":"TR42",
+    "eurostat:nuts_2021_level_3":"TR425",
+    "eurostat:population":276050,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.072726,
-    "geom:area_square_m":682932329.740421,
+    "geom:area_square_m":682932197.842272,
     "geom:bbox":"28.777027,40.456223,29.473875,40.703751",
     "geom:latitude":40.586275,
     "geom:longitude":29.139057,
@@ -370,8 +384,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"674",
     "statoids:area_mi":"260",
     "statoids:as_of_date":"2007-12-31",
@@ -391,6 +405,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR425",
         "fips:code":"TU92",
         "gn:id":862469,
         "gp:id":20070182,
@@ -405,7 +420,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"dcb50cd69122fd3df236c8c787b46ce6",
+    "wof:geomhash":"fc6589f2df34f3356ac82954f0056152",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -420,13 +435,13 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499828,
+    "wof:lastmodified":1684351683,
     "wof:name":"Yalova",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":181758,
-    "wof:population_rank":9,
+    "wof:population":276050,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"YL",
     "wof:subdivision":"TR-77",

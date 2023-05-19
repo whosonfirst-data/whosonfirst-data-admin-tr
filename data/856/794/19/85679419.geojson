@@ -4,9 +4,23 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Zonguldak",
+    "eurostat:name_local":"Zonguldak",
+    "eurostat:nuts_2021_id":"TR811",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR81",
+    "eurostat:nuts_2021_level_3":"TR811",
+    "eurostat:population":591204,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.344243,
-    "geom:area_square_m":3199320821.503522,
-    "geom:bbox":"31.29749020979751,41.00958656513865,32.29559732086334,41.59330572579899",
+    "geom:area_square_m":3199320821.503707,
+    "geom:bbox":"31.2974902098,41.0095865651,32.2955973209,41.5933057258",
     "geom:latitude":41.269932,
     "geom:longitude":31.823524,
     "iso:country":"TR",
@@ -362,8 +376,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"3,481",
     "statoids:area_mi":"1,344",
     "statoids:as_of_date":"2007-12-31",
@@ -383,6 +397,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR811",
         "fips:code":"TU85",
         "gn:id":737021,
         "gp:id":20070185,
@@ -397,7 +412,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44c9c0bcf7faa62777438f5dd12d50dd",
+    "wof:geomhash":"17bccd07e393bf7c4ddd0aa86b8c1af4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -412,12 +427,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1592867007,
+    "wof:lastmodified":1684351681,
     "wof:name":"Zonguldak",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":615890,
+    "wof:population":591204,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"ZO",

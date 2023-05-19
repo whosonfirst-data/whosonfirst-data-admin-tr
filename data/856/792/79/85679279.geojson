@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Isparta",
+    "eurostat:name_local":"Isparta",
+    "eurostat:nuts_2021_id":"TR612",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR6",
+    "eurostat:nuts_2021_level_2":"TR61",
+    "eurostat:nuts_2021_level_3":"TR612",
+    "eurostat:population":440304,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.903903,
-    "geom:area_square_m":8815927433.988331,
+    "geom:area_square_m":8815926743.143871,
     "geom:bbox":"30.091314,37.363743,31.540971,38.508156",
     "geom:latitude":37.929449,
     "geom:longitude":30.94084,
@@ -380,8 +394,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"8,933",
     "statoids:area_mi":"3,449",
     "statoids:as_of_date":"2007-12-31",
@@ -401,6 +415,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR612",
         "fct:id":"07dc2842-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU33",
         "gn:id":311071,
@@ -416,7 +431,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b46afaad9091ab89f0a74e5311483cf8",
+    "wof:geomhash":"9adabb624f019a0a98dda4494988f234",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -431,12 +446,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499831,
+    "wof:lastmodified":1684351679,
     "wof:name":"Isparta",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":419845,
+    "wof:population":440304,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"IP",

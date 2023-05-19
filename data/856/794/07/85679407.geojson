@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Bitlis",
+    "eurostat:name_local":"Bitlis",
+    "eurostat:nuts_2021_id":"TRB23",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRB",
+    "eurostat:nuts_2021_level_2":"TRB2",
+    "eurostat:nuts_2021_level_3":"TRB23",
+    "eurostat:population":350994,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.851827,
-    "geom:area_square_m":8239632184.877886,
+    "geom:area_square_m":8239632184.877842,
     "geom:bbox":"41.5417665658,37.9702591485,43.2241107264,39.0253220763",
     "geom:latitude":38.530692,
     "geom:longitude":42.383448,
@@ -381,8 +395,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"6,707",
     "statoids:area_mi":"2,590",
     "statoids:as_of_date":"2007-12-31",
@@ -402,6 +416,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRB23",
         "fct:id":"07dc23ec-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU13",
         "gn:id":321022,
@@ -417,7 +432,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9f37cbc51c25a6c83f39bd50dc6fe697",
+    "wof:geomhash":"93b1b3ec098a1e63449a7579aacb01e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -432,12 +447,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340271,
+    "wof:lastmodified":1684351681,
     "wof:name":"Bitlis",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":327886,
+    "wof:population":350994,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"BT",

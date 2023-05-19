@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Mu\u015f",
+    "eurostat:name_local":"Mu\u015f",
+    "eurostat:nuts_2021_id":"TRB22",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRB",
+    "eurostat:nuts_2021_level_2":"TRB2",
+    "eurostat:nuts_2021_level_3":"TRB22",
+    "eurostat:population":411117,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.899998,
-    "geom:area_square_m":8648840205.566488,
+    "geom:area_square_m":8648840205.566734,
     "geom:bbox":"41.1101544933,38.4640359699,42.7204835202,39.50675161",
     "geom:latitude":38.997443,
     "geom:longitude":41.854026,
@@ -368,8 +382,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"8,196",
     "statoids:area_mi":"3,164",
     "statoids:as_of_date":"2007-12-31",
@@ -389,6 +403,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRB22",
         "fips:code":"TU49",
         "gn:id":304041,
         "gp:id":2347302,
@@ -403,7 +418,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"62555dd80d43a217185b39c819e40493",
+    "wof:geomhash":"9bc473b17ce71a078d3e071655a7b3ba",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -418,12 +433,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340272,
+    "wof:lastmodified":1684351681,
     "wof:name":"Mus",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":405509,
+    "wof:population":411117,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"MS",

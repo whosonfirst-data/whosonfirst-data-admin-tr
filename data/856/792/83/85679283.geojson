@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"K\u00fctahya",
+    "eurostat:name_local":"K\u00fctahya",
+    "eurostat:nuts_2021_id":"TR333",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR3",
+    "eurostat:nuts_2021_level_2":"TR33",
+    "eurostat:nuts_2021_level_3":"TR333",
+    "eurostat:population":576688,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.216118,
-    "geom:area_square_m":11636902167.312065,
+    "geom:area_square_m":11636902167.311836,
     "geom:bbox":"28.6395270889,38.7999555241,30.4534310237,39.8870957549",
     "geom:latitude":39.297877,
     "geom:longitude":29.584678,
@@ -381,8 +395,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"11,875",
     "statoids:area_mi":"4,585",
     "statoids:as_of_date":"2007-12-31",
@@ -402,6 +416,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR333",
         "fct:id":"07dc2806-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU43",
         "gn:id":305267,
@@ -417,7 +432,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f08c1f92a3bb24ae3e02608bc5cc018e",
+    "wof:geomhash":"11bd6ccb5cc901afe5f711124b10ff81",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -432,12 +447,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340276,
+    "wof:lastmodified":1684351679,
     "wof:name":"Kutahya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":583910,
+    "wof:population":576688,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KU",

@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"\u00c7anakkale",
+    "eurostat:name_local":"\u00c7anakkale",
+    "eurostat:nuts_2021_id":"TR222",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR2",
+    "eurostat:nuts_2021_level_2":"TR22",
+    "eurostat:nuts_2021_level_3":"TR222",
+    "eurostat:population":541548,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.045762,
-    "geom:area_square_m":9900472710.460751,
+    "geom:area_square_m":9900472710.460527,
     "geom:bbox":"25.664527893,39.451248169,27.5334287816,40.7460429927",
     "geom:latitude":40.035718,
     "geom:longitude":26.754898,
@@ -413,8 +427,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"9,737",
     "statoids:area_mi":"3,759",
     "statoids:as_of_date":"2007-12-31",
@@ -434,6 +448,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR222",
         "fct:id":"07dc2b6c-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU17",
         "gn:id":749778,
@@ -449,7 +464,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"aae4a2c3f07b578077d632d5dca2bb99",
+    "wof:geomhash":"b12b62569de37a747b3aa7d2dcab4e25",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -464,13 +479,13 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340275,
+    "wof:lastmodified":1684351678,
     "wof:name":"Canakkale",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":476128,
-    "wof:population_rank":10,
+    "wof:population":541548,
+    "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"CK",
     "wof:subdivision":"TR-17",

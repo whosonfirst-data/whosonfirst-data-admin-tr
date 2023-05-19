@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Malatya",
+    "eurostat:name_local":"Malatya",
+    "eurostat:nuts_2021_id":"TRB11",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRB",
+    "eurostat:nuts_2021_level_2":"TRB1",
+    "eurostat:nuts_2021_level_3":"TRB11",
+    "eurostat:population":806156,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.27047,
-    "geom:area_square_m":12291625152.229664,
+    "geom:area_square_m":12291625386.321419,
     "geom:bbox":"37.253089,37.881547,39.134918,39.153191",
     "geom:latitude":38.515569,
     "geom:longitude":38.129625,
@@ -380,8 +394,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"12,313",
     "statoids:area_mi":"4,754",
     "statoids:as_of_date":"2007-12-31",
@@ -401,6 +415,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRB11",
         "fct:id":"07dc26e4-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU44",
         "gn:id":304919,
@@ -416,7 +431,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0a131832890e3419774ef92c5e03ad56",
+    "wof:geomhash":"d24c2cca393d9bd5fb3a6a745f906f80",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -431,12 +446,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499824,
+    "wof:lastmodified":1684351679,
     "wof:name":"Malatya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":722065,
+    "wof:population":806156,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"ML",

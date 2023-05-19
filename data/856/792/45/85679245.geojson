@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"Sakarya",
+    "eurostat:name_local":"Sakarya",
+    "eurostat:nuts_2021_id":"TR422",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR4",
+    "eurostat:nuts_2021_level_2":"TR42",
+    "eurostat:nuts_2021_level_3":"TR422",
+    "eurostat:population":1042649,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":0.514612,
-    "geom:area_square_m":4821023742.229613,
+    "geom:area_square_m":4821024745.134871,
     "geom:bbox":"29.956875,40.290472,31.005256,41.18236",
     "geom:latitude":40.743656,
     "geom:longitude":30.502529,
@@ -387,8 +401,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"4,817",
     "statoids:area_mi":"1,860",
     "statoids:as_of_date":"2007-12-31",
@@ -408,6 +422,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR422",
         "fct:id":"07dc30b2-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU54",
         "gn:id":740352,
@@ -423,7 +438,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"cc234f851e343cd888588407ab48675a",
+    "wof:geomhash":"9a7847e5875d78b4c587c9a00c07b6b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -438,13 +453,13 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499830,
+    "wof:lastmodified":1684351678,
     "wof:name":"Sakarya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":835222,
-    "wof:population_rank":11,
+    "wof:population":1042649,
+    "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"SK",
     "wof:subdivision":"TR-54",

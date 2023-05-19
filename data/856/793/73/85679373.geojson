@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Erzincan",
+    "eurostat:name_local":"Erzincan",
+    "eurostat:nuts_2021_id":"TRA12",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRA",
+    "eurostat:nuts_2021_level_2":"TRA1",
+    "eurostat:nuts_2021_level_3":"TRA12",
+    "eurostat:population":234431,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.226153,
-    "geom:area_square_m":11671410039.668642,
+    "geom:area_square_m":11671409531.926414,
     "geom:bbox":"38.288275,39.012739,40.678605,40.075923",
     "geom:latitude":39.663653,
     "geom:longitude":39.286111,
@@ -369,8 +383,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"11,903",
     "statoids:area_mi":"4,596",
     "statoids:as_of_date":"2007-12-31",
@@ -390,6 +404,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRA12",
         "fips:code":"TU24",
         "gn:id":315372,
         "gp:id":2347281,
@@ -404,7 +419,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8be6325522a33c6f19fb6e2611cf87c5",
+    "wof:geomhash":"74bad44e26014d221be7b6a7e9cda088",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -419,12 +434,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499823,
+    "wof:lastmodified":1684351680,
     "wof:name":"Erzincan",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":213538,
+    "wof:population":234431,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"EN",

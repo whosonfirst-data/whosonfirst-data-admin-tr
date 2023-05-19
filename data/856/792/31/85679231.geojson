@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"1",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Bursa",
+    "eurostat:name_local":"Bursa",
+    "eurostat:nuts_2021_id":"TR411",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR4",
+    "eurostat:nuts_2021_level_2":"TR41",
+    "eurostat:nuts_2021_level_3":"TR411",
+    "eurostat:population":3101833,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"1",
     "geom:area":1.141823,
-    "geom:area_square_m":10796424912.661333,
+    "geom:area_square_m":10796424912.661474,
     "geom:bbox":"28.0828905015,39.601734642,29.9732756348,40.6171231118",
     "geom:latitude":40.120848,
     "geom:longitude":29.041867,
@@ -385,8 +399,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"10,963",
     "statoids:area_mi":"4,233",
     "statoids:as_of_date":"2007-12-31",
@@ -406,6 +420,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR411",
         "fips:code":"TU16",
         "gn:id":750268,
         "gp:id":2347273,
@@ -420,7 +435,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"516b44c077aaa5923c32cb99a4c82175",
+    "wof:geomhash":"41e8483c8ddfcedfcf63ae03fde27c33",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -435,12 +450,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340275,
+    "wof:lastmodified":1684351678,
     "wof:name":"Bursa",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":2439876,
+    "wof:population":3101833,
     "wof:population_rank":12,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"BU",

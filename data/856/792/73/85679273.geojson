@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Burdur",
+    "eurostat:name_local":"Burdur",
+    "eurostat:nuts_2021_id":"TR613",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR6",
+    "eurostat:nuts_2021_level_2":"TR61",
+    "eurostat:nuts_2021_level_3":"TR613",
+    "eurostat:population":267092,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.744248,
-    "geom:area_square_m":7309410675.900467,
+    "geom:area_square_m":7309411106.042171,
     "geom:bbox":"29.305886,36.810745,30.91373,37.837702",
     "geom:latitude":37.413851,
     "geom:longitude":30.07903,
@@ -391,8 +405,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"6,887",
     "statoids:area_mi":"2,659",
     "statoids:as_of_date":"2007-12-31",
@@ -412,6 +426,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR613",
         "fips:code":"TU15",
         "gn:id":320390,
         "gp:id":2347272,
@@ -426,7 +441,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4b94c7f639c04ec6fefc5e4ba6e83390",
+    "wof:geomhash":"edff3ad39ba3520cb60e4c96a6d68098",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -441,12 +456,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499830,
+    "wof:lastmodified":1684351679,
     "wof:name":"Burdur",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":251181,
+    "wof:population":267092,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"BD",

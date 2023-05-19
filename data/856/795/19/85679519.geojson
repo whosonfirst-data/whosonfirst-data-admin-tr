@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"2",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Kilis",
+    "eurostat:name_local":"Kilis",
+    "eurostat:nuts_2021_id":"TRC13",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TRC",
+    "eurostat:nuts_2021_level_2":"TRC1",
+    "eurostat:nuts_2021_level_3":"TRC13",
+    "eurostat:population":142792,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.142293,
-    "geom:area_square_m":1408860957.300064,
+    "geom:area_square_m":1408860725.870642,
     "geom:bbox":"36.706924,36.632693,37.57085,37.041444",
     "geom:latitude":36.800306,
     "geom:longitude":37.128302,
@@ -357,8 +371,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"1,338",
     "statoids:area_mi":"517",
     "statoids:as_of_date":"2007-12-31",
@@ -378,6 +392,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TRC13",
         "fips:code":"TU90",
         "gn:id":443213,
         "gp:id":20070285,
@@ -392,7 +407,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a383bfb07aff5fc72291ed5ffdf23748",
+    "wof:geomhash":"2f897c40a503b3bfcd376cfdc68bab0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -407,12 +422,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499829,
+    "wof:lastmodified":1684351683,
     "wof:name":"Kilis",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":118457,
+    "wof:population":142792,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"KI",

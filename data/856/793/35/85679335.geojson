@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"3",
+    "eurostat:name_latin":"Amasya",
+    "eurostat:name_local":"Amasya",
+    "eurostat:nuts_2021_id":"TR834",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR83",
+    "eurostat:nuts_2021_level_3":"TR834",
+    "eurostat:population":335494,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":0.598393,
-    "geom:area_square_m":5608663623.610961,
+    "geom:area_square_m":5608663502.065989,
     "geom:bbox":"34.983751,40.234056,36.488165,41.086151",
     "geom:latitude":40.711076,
     "geom:longitude":35.714437,
@@ -416,8 +430,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"5,520",
     "statoids:area_mi":"2,131",
     "statoids:as_of_date":"2007-12-31",
@@ -437,6 +451,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR834",
         "fips:code":"TU05",
         "gn:id":752014,
         "gp:id":2347262,
@@ -451,7 +466,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0fcce41c5d4b71ae545f4fe6de032b91",
+    "wof:geomhash":"eb4139c7e977a73f03be0fd5ce0a01b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -466,12 +481,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1636499823,
+    "wof:lastmodified":1684351680,
     "wof:name":"Amasya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":328674,
+    "wof:population":335494,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"AM",

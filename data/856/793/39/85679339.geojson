@@ -4,8 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "eurostat:coast_type":"3",
+    "eurostat:country_code":"TR",
+    "eurostat:level_code":"3",
+    "eurostat:mount_type":"2",
+    "eurostat:name_latin":"\u00c7orum",
+    "eurostat:name_local":"\u00c7orum",
+    "eurostat:nuts_2021_id":"TR833",
+    "eurostat:nuts_2021_level_0":"TR",
+    "eurostat:nuts_2021_level_1":"TR8",
+    "eurostat:nuts_2021_level_2":"TR83",
+    "eurostat:nuts_2021_level_3":"TR833",
+    "eurostat:population":530126,
+    "eurostat:population_year":2021,
+    "eurostat:urban_type":"2",
     "geom:area":1.340145,
-    "geom:area_square_m":12587896411.96843,
+    "geom:area_square_m":12587896411.968513,
     "geom:bbox":"33.9641355824,39.9286624401,35.5293089339,41.3307945865",
     "geom:latitude":40.567442,
     "geom:longitude":34.674317,
@@ -353,8 +367,8 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2007-12-31",
+    "src:population":"eurostat",
+    "src:population_date":"2021",
     "statoids:area_km":"12,820",
     "statoids:area_mi":"4,950",
     "statoids:as_of_date":"2007-12-31",
@@ -374,6 +388,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "eurostat:nuts_2021_id":"TR833",
         "fct:id":"07dc2ad6-8f76-11e1-848f-cfd5bf3ef515",
         "fips:code":"TU19",
         "gn:id":748877,
@@ -389,7 +404,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c5f6926e669defb616f3e8d934cb4e3",
+    "wof:geomhash":"7c75822a6425549175fba4140cbbe56a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -404,12 +419,12 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1582340270,
+    "wof:lastmodified":1684351680,
     "wof:name":"Corum",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
     "wof:placetype_local":"province",
-    "wof:population":549828,
+    "wof:population":530126,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:shortcode":"CM",
