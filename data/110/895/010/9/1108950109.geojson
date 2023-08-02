@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.8977914997,41.1679401561,28.8977914997,41.1679401561",
+    "geom:bbox":"28.897791,41.16794,28.897791,41.16794",
     "geom:latitude":41.16794,
     "geom:longitude":28.897791,
     "iso:country":"TR",
@@ -29,12 +29,15 @@
     "name:tur_x_preferred":[
         "G\u00f6kt\u00fcrk"
     ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u06a9 \u062a\u0631\u06a9"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890462741,
-        85679237
+        890462741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +45,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368129,
-    "wof:geomhash":"4e4454f32e3be0603c88bf55943022fb",
+    "wof:geomhash":"ea3451aaec6b9299d9f72163d65a7867",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108950109,
-    "wof:lastmodified":1678400038,
+    "wof:lastmodified":1690874967,
     "wof:name":"Gokturk",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -64,10 +67,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.89779149967893,
-    41.16794015614992,
-    28.89779149967893,
-    41.16794015614992
+    28.897791,
+    41.16794,
+    28.897791,
+    41.16794
 ],
-  "geometry": {"coordinates":[28.89779149967893,41.16794015614992],"type":"Point"}
+  "geometry": {"coordinates":[28.897791,41.16794],"type":"Point"}
 }

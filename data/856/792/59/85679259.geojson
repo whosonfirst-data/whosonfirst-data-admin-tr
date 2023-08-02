@@ -81,6 +81,9 @@
     "name:ces_x_preferred":[
         "Kastamonsk\u00e1 provincie"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
+    ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
     ],
@@ -129,6 +132,9 @@
     "name:fra_x_preferred":[
         "Kastamonu"
     ],
+    "name:frr_x_preferred":[
+        "Kastamonu"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab8\u0acd\u0aa4\u0aae\u0acb\u0aa8\u0acb \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -148,7 +154,11 @@
         "\u053f\u0561\u057d\u057f\u0561\u0574\u0578\u0576\u0578\u0582\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u053f\u0561\u057d\u057f\u0561\u0574\u0578\u0576\u0578\u0582"
+        "\u053f\u0561\u057d\u057f\u0561\u0574\u0578\u0576\u0578\u0582",
+        "\u0554\u0561\u057d\u0569\u0561\u0574\u0578\u0576\u0578\u0582\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0533\u0561\u057d\u0569\u0561\u0574\u0578\u0576\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Provinsi Kastamonu"
@@ -261,6 +271,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bb7\u0bcd\u0b9f\u0bae\u0bcb\u0ba9\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bb8\u0bcd\u0ba4\u0bae\u0bcb\u0ba9\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c38\u0c4d\u0c1f\u0c3e\u0c2e\u0c4b\u0c28\u0c41 \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -308,6 +321,9 @@
     ],
     "name:war_x_preferred":[
         "Kastamonu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u65af\u5854\u83ab\u52aa\u7701"
     ],
     "name:yue_x_preferred":[
         "\u5361\u65af\u5854\u83ab\u52aa\u7701"
@@ -425,7 +441,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c27f946e907caf6d33c8b88779c982f1",
+    "wof:geomhash":"ca275e9a10a11d03a578063e736c0c52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -440,7 +456,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351679,
+    "wof:lastmodified":1690874938,
     "wof:name":"Kastamonu",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

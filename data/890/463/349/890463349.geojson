@@ -23,7 +23,22 @@
     "name:ara_x_preferred":[
         "\u064a\u0646\u064a\u062c\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0646\u064a\u062c\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Yenice"
+    ],
     "name:ceb_x_preferred":[
+        "Yenice"
+    ],
+    "name:che_x_preferred":[
+        "\u0419\u0435\u043d\u0438\u0434\u0436\u0435"
+    ],
+    "name:deu_x_preferred":[
+        "Yenice"
+    ],
+    "name:diq_x_preferred":[
         "Yenice"
     ],
     "name:eng_x_preferred":[
@@ -32,6 +47,12 @@
     "name:nno_x_preferred":[
         "Yenice i Mersin"
     ],
+    "name:nob_x_preferred":[
+        "Yenice"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u043d\u0438\u0497\u0435"
+    ],
     "name:tur_x_preferred":[
         "Yenice"
     ],
@@ -39,7 +60,8 @@
         "\u06cc\u0646\u06a9\u06d2 \u060c \u062a\u0631\u0633"
     ],
     "name:urd_x_variant":[
-        "\u06cc\u0646\u06a9\u06d2"
+        "\u06cc\u0646\u06a9\u06d2",
+        "\u06cc\u0646\u06a9\u06d2 "
     ],
     "name:vie_x_preferred":[
         "Yenice"
@@ -61,8 +83,8 @@
     "wof:belongsto":[
         102191569,
         85632393,
-        890463423,
-        85679313
+        85679313,
+        890463423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +107,7 @@
         }
     ],
     "wof:id":890463349,
-    "wof:lastmodified":1587163143,
+    "wof:lastmodified":1690875100,
     "wof:name":"Yenice",
     "wof:parent_id":890463423,
     "wof:placetype":"locality",

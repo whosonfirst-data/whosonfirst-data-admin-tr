@@ -92,6 +92,9 @@
     "name:crh_x_preferred":[
         "Yalova"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Yalova"
+    ],
     "name:dan_x_preferred":[
         "Yalova Province"
     ],
@@ -128,11 +131,17 @@
     "name:fra_x_preferred":[
         "Yalova"
     ],
+    "name:frr_x_preferred":[
+        "Yalova"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Yalova"
     ],
     "name:guj_x_preferred":[
         "\u0aaf\u0abe\u0ab2\u0acb\u0ab5\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:hau_x_preferred":[
+        "Lardin Yalova"
     ],
     "name:heb_x_preferred":[
         "\u05d9\u05d0\u05dc\u05d5\u05d1\u05d4"
@@ -150,7 +159,11 @@
         "\u0545\u0561\u056c\u0578\u057e\u0561\u0575\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u0545\u0561\u056c\u0578\u057e\u0561"
+        "\u0545\u0561\u056c\u0578\u057e\u0561",
+        "\u0545\u0561\u056c\u0578\u057e\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0535\u0561\u056c\u0578\u057e\u0561"
     ],
     "name:ind_x_preferred":[
         "Provinsi Yalova"
@@ -160,6 +173,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30e4\u30ed\u30f4\u30a1\u770c"
+    ],
+    "name:kaa_x_preferred":[
+        "Yalova"
     ],
     "name:kan_x_preferred":[
         "\u0caf\u0cb2\u0ccb\u0cb5\u0cbe \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
@@ -305,6 +321,9 @@
     "name:war_x_preferred":[
         "Yalova"
     ],
+    "name:wuu_x_preferred":[
+        "\u4e9a\u6d1b\u74e6\u7701"
+    ],
     "name:yue_x_preferred":[
         "\u96c5\u6d1b\u83ef\u7701"
     ],
@@ -420,7 +439,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc6589f2df34f3356ac82954f0056152",
+    "wof:geomhash":"dcb50cd69122fd3df236c8c787b46ce6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -435,7 +454,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351683,
+    "wof:lastmodified":1690874935,
     "wof:name":"Yalova",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

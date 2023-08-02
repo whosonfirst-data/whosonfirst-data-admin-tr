@@ -29,12 +29,21 @@
     "name:ara_x_preferred":[
         "\u0627\u064a\u062a\u0634\u064a\u0631\u064a\u0646\u0643\u0648\u064a\u0648"
     ],
+    "name:che_x_preferred":[
+        "\u0418\u0447\u0435\u0440\u0435\u043d\u043a\u043e\u044c\u0439"
+    ],
     "name:eng_x_preferred":[
         "Icerenkoy"
     ],
     "name:eng_x_variant":[
         "I\u00e7erenk\u00f6y",
         "\u0130\u00e7erenk\u00f6y"
+    ],
+    "name:nld_x_preferred":[
+        "\u0130\u00e7erenk\u00f6y"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0447\u0435\u0440\u0435\u043d\u043a\u04e9\u0439"
     ],
     "name:tur_x_preferred":[
         "\u0130\u00e7erenk\u00f6y"
@@ -80,11 +89,11 @@
     "wd:longitude":29.1164,
     "wd:wordcount":93,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -111,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401205,
+    "wof:lastmodified":1690874894,
     "wof:name":"Icerenkoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

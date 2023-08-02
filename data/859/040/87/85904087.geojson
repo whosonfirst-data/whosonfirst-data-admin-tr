@@ -30,6 +30,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062f\u0627\u0646 \u0628\u0627\u064a\u0632\u064a\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062f\u0627\u0646 \u0628\u0627\u064a\u0632\u064a\u062f"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u044f\u0437\u0456\u0434"
     ],
@@ -73,6 +76,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0627\u06cc\u0632\u06cc\u062f"
     ],
+    "name:fas_x_variant":[
+        "\u0645\u06cc\u062f\u0627\u0646 \u0628\u0627\u06cc\u0632\u06cc\u062f"
+    ],
     "name:fin_x_preferred":[
         "Beyaz\u0131t"
     ],
@@ -93,6 +99,9 @@
     ],
     "name:ita_x_preferred":[
         "Beyaz\u0131t"
+    ],
+    "name:ita_x_variant":[
+        "Piazza Beyaz\u0131t"
     ],
     "name:jpn_x_preferred":[
         "\u30d0\u30e4\u30ba\u30a3\u30c8"
@@ -164,11 +173,17 @@
         "Beyaz\u0131t Meydan\u0131",
         "Beyazit"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u044f\u0437\u0438\u0442"
+    ],
     "name:und_x_variant":[
         "Bayaz\u0131t"
     ],
     "name:war_x_preferred":[
         "Beyaz\u0131t"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8036\u6fdf\u5fb7\u4e8c\u4e16\u5ee3\u5834"
     ],
     "reversegeo:latitude":41.010814,
     "reversegeo:longitude":28.966832,
@@ -179,11 +194,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":151,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -211,7 +226,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401059,
+    "wof:lastmodified":1690874898,
     "wof:name":"Beyazit",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

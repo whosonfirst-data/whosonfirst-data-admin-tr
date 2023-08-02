@@ -20,8 +20,26 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0632\u062f\u0648\u063a\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0632\u062f\u0648\u062c\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Bozdo\u011fan"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09cb\u099c\u09a6\u09cb\u0997\u09be\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Bozdo\u011fan \u0130l\u00e7esi"
+    ],
+    "name:ceb_x_variant":[
+        "Bozdo\u011fan"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u043e\u0437\u0434\u043e\u0433\u04c0\u0430\u043d"
     ],
     "name:deu_x_preferred":[
         "Bozdo\u011fan"
@@ -41,6 +59,9 @@
     "name:fas_x_preferred":[
         "\u0628\u0632\u062f\u0648\u0642\u0627\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Bozdo\u011fan"
+    ],
     "name:fra_x_preferred":[
         "Bozdo\u011fan"
     ],
@@ -49,6 +70,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Bozdo\u011fan"
+    ],
+    "name:ita_x_variant":[
+        "Bozdo\u011fan"
     ],
     "name:lbe_x_preferred":[
         "\u0411\u043e\u0437\u0434\u043e\u0433\u044a\u0430\u043d"
@@ -77,8 +101,14 @@
     "name:nob_x_preferred":[
         "Bozdo\u011fan"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u043e\u0437\u0434\u043e\u0433\u0430\u043d"
+    ],
     "name:swa_x_preferred":[
         "Bozdo\u011fan"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u043e\u0437\u0434\u043e\u0433\u0430\u043d"
     ],
     "name:tur_x_preferred":[
         "Bozdo\u011fan"
@@ -130,7 +160,7 @@
         }
     ],
     "wof:id":890461177,
-    "wof:lastmodified":1566586538,
+    "wof:lastmodified":1690875377,
     "wof:name":"Bozdo\u011fan",
     "wof:parent_id":890463273,
     "wof:placetype":"locality",

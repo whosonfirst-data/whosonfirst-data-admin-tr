@@ -29,6 +29,9 @@
     "name:ces_x_preferred":[
         "Merdivenk\u00f6y"
     ],
+    "name:che_x_preferred":[
+        "\u041c\u0435\u0440\u0434\u0438\u0432\u0435\u043d\u043a\u043e\u044c\u0439"
+    ],
     "name:dan_x_preferred":[
         "Merdivenk\u00f6y"
     ],
@@ -89,6 +92,9 @@
     "name:swe_x_preferred":[
         "Merdivenk\u00f6y"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0435\u0440\u0434\u0438\u0432\u0435\u043d\u043a\u04e9\u0439"
+    ],
     "name:tgl_x_preferred":[
         "Merdivenk\u00f6y"
     ],
@@ -117,11 +123,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -146,7 +152,7 @@
         }
     ],
     "wof:id":890463597,
-    "wof:lastmodified":1678401286,
+    "wof:lastmodified":1690875107,
     "wof:name":"Merdivenkoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

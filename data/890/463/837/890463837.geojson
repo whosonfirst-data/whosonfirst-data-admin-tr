@@ -25,20 +25,41 @@
     "name:arc_x_preferred":[
         "\u0728\u0718\u0712\u0710"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0635\u064a\u0628\u064a\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Nusaybin"
+    ],
     "name:azb_x_preferred":[
         "\u0646\u0635\u06cc\u0628\u06cc\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "N\u00fcseybin"
     ],
     "name:bak_x_preferred":[
         "\u041d\u0443\u0441\u0430\u0439\u0431\u0438\u043d"
     ],
+    "name:bel_x_preferred":[
+        "\u041d\u0443\u0441\u0430\u0439\u0431\u0456\u043d"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c1\u09b8\u09be\u09df\u09ac\u09bf\u09a8"
+    ],
+    "name:bul_x_preferred":[
+        "\u041d\u0443\u0441\u0430\u0439\u0431\u0438\u043d"
     ],
     "name:cat_x_preferred":[
         "Nusaybin"
     ],
+    "name:cat_x_variant":[
+        "Nisibis"
+    ],
     "name:ceb_x_preferred":[
         "Nusaybin"
+    ],
+    "name:che_x_preferred":[
+        "\u041d\u0443\u0441\u0430\u0439\u0431\u0438\u043d"
     ],
     "name:ckb_x_preferred":[
         "\u0646\u0633\u06ce\u0628\u06cc\u0646"
@@ -73,6 +94,12 @@
     "name:fra_x_preferred":[
         "Nusaybin"
     ],
+    "name:gag_x_preferred":[
+        "Nusaybin"
+    ],
+    "name:gle_x_preferred":[
+        "Nusaybin"
+    ],
     "name:heb_x_preferred":[
         "\u05e0\u05e6\u05d9\u05d1\u05d9\u05df"
     ],
@@ -88,8 +115,14 @@
     "name:hye_x_preferred":[
         "\u0544\u056e\u0562\u056b\u0576"
     ],
+    "name:ind_x_preferred":[
+        "Nusaybin"
+    ],
     "name:ita_x_preferred":[
         "Nisibis"
+    ],
+    "name:ita_x_variant":[
+        "Nusaybin"
     ],
     "name:jpn_x_preferred":[
         "\u30cc\u30fc\u30b5\u30a4\u30d3\u30f3"
@@ -97,11 +130,17 @@
     "name:kat_x_preferred":[
         "\u10dc\u10d8\u10e1\u10d8\u10d1\u10d8\u10dc\u10d8"
     ],
+    "name:kor_x_preferred":[
+        "\ub204\uc0ac\uc774\ube48"
+    ],
     "name:kur_x_preferred":[
         "Nis\u00eab\u00een"
     ],
     "name:lit_x_preferred":[
         "Nusaibinas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d3f\u0d38\u0d3f\u0d2c\u0d3f\u0d38\u0d4d"
     ],
     "name:min_x_preferred":[
         "Nusaybin"
@@ -132,6 +171,9 @@
     ],
     "name:pol_x_preferred":[
         "Nisibis"
+    ],
+    "name:pol_x_variant":[
+        "Nusaybin"
     ],
     "name:por_x_preferred":[
         "Nusaybin"
@@ -166,8 +208,14 @@
     "name:tat_x_preferred":[
         "\u041d\u0443\u0441\u0430\u0439\u0431\u0438\u043d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041d\u0443\u0441\u0430\u0439\u0431\u0438\u043d"
+    ],
     "name:tur_x_preferred":[
         "Nusaybin"
+    ],
+    "name:uig_x_preferred":[
+        "\u0646\u06c7\u0633\u06d5\u064a\u0628\u0649\u0646"
     ],
     "name:ukr_x_preferred":[
         "\u041d\u0443\u0441\u0430\u0439\u0431\u0456\u043d"
@@ -177,6 +225,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u0635\u06cc\u0628\u06cc\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Nusaybin"
     ],
     "name:vie_x_preferred":[
         "Nusaybin"
@@ -309,7 +360,7 @@
         }
     ],
     "wof:id":890463837,
-    "wof:lastmodified":1636499860,
+    "wof:lastmodified":1690875124,
     "wof:name":"Nusaybin",
     "wof:parent_id":890462299,
     "wof:placetype":"locality",

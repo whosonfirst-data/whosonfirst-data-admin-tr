@@ -26,6 +26,9 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u044b\u0445\u0430\u043d\u0433\u0456\u0440"
+    ],
     "name:eng_x_preferred":[
         "Cihangir"
     ],
@@ -50,11 +53,20 @@
     "name:rus_x_preferred":[
         "\u0414\u0436\u0438\u0445\u0430\u043d\u0433\u0438\u0440"
     ],
+    "name:spa_x_preferred":[
+        "Cihangir"
+    ],
     "name:tur_x_preferred":[
         "Cihangir"
     ],
     "name:und_x_variant":[
         "Cihangir/beyoglu"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06c1\u0627\u0646\u06af\u06cc\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u6c49\u5409\u5c14"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -89,11 +101,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":394,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +132,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1678401112,
+    "wof:lastmodified":1690874901,
     "wof:name":"Cihangir",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

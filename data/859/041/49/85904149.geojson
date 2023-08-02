@@ -36,8 +36,20 @@
     "name:ara_x_variant":[
         "\u0623\u0648\u0631\u0637\u0629 \u0643\u0648\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0631\u062a\u0627 \u06a9\u0648\u06cc"
+    ],
     "name:bul_x_preferred":[
         "\u041e\u0440\u0442\u0430\u043a\u044c\u043e\u0439"
+    ],
+    "name:cat_x_preferred":[
+        "Ortak\u00f6y"
+    ],
+    "name:ces_x_preferred":[
+        "Ortak\u00f6y"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0440\u0442\u0430\u043a\u043e\u044c\u0439"
     ],
     "name:deu_x_preferred":[
         "Ortak\u00f6y"
@@ -60,6 +72,9 @@
     "name:fra_x_preferred":[
         "Ortak\u00f6y"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05e8\u05d8\u05e7\u05d5\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Ortak\u00f6y"
     ],
@@ -80,6 +95,9 @@
     ],
     "name:lad_x_preferred":[
         "Ortak\u00f6y"
+    ],
+    "name:lrc_x_preferred":[
+        "\u0622\u0631\u062a\u0627\u06a9\u0648\u06cc"
     ],
     "name:mkd_x_preferred":[
         "\u041e\u0440\u0442\u0430\u045c\u043e\u0458"
@@ -111,8 +129,14 @@
     "name:ukr_x_preferred":[
         "\u041e\u0440\u0442\u0430\u043a\u0435\u0439"
     ],
+    "name:ukr_x_variant":[
+        "\u041e\u0440\u0442\u0430\u043a\u044c\u043e\u0439"
+    ],
     "name:und_x_variant":[
         "Ortakoi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u062a\u0627\u06a9\u0648\u0626\u06d2"
     ],
     "name:vie_x_preferred":[
         "Ortak\u00f6y"
@@ -132,11 +156,11 @@
     "wd:longitude":29.023611,
     "wd:wordcount":583,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -164,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401068,
+    "wof:lastmodified":1690874897,
     "wof:name":"Ortakoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

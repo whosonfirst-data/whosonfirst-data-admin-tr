@@ -26,12 +26,27 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u041a\u0430\u0437\u043b\u044a\u0447\u0435\u0448\u043c\u0435"
+    ],
+    "name:cat_x_preferred":[
+        "Kazl\u0131\u00e7e\u015fme"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0437\u043b\u0438\u0447\u0435\u0448\u043c\u0435"
+    ],
     "name:eng_x_preferred":[
         "Kazlicesme"
     ],
     "name:eng_x_variant":[
         "Kazl\u0131\u00e7e\u015fme",
         "Kazli\u00e7esme"
+    ],
+    "name:ita_x_preferred":[
+        "Kazl\u0131\u00e7e\u015fme"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ba\u30ea\u30c1\u30a7\u30b9\u30e1"
     ],
     "name:tur_x_preferred":[
         "Kazl\u0131\u00e7e\u015fme Tren \u0130stasyonu"
@@ -73,11 +88,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +119,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401123,
+    "wof:lastmodified":1690874912,
     "wof:name":"Kazlicesme",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

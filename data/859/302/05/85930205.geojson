@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0641\u0627\u062a\u062d"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0641\u0627\u062a\u062d"
+    ],
     "name:ast_x_preferred":[
         "Fatih"
     ],
@@ -41,8 +44,14 @@
     "name:aze_x_preferred":[
         "Fateh rayonu"
     ],
+    "name:aze_x_variant":[
+        "Fateh"
+    ],
     "name:bel_x_preferred":[
         "\u0424\u0430\u0446\u0456\u0445"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ab\u09be\u09a4\u09bf\u09b9"
     ],
     "name:bos_x_preferred":[
         "Fatih"
@@ -59,6 +68,12 @@
     "name:ces_x_preferred":[
         "Fatih"
     ],
+    "name:che_x_preferred":[
+        "\u0424\u0430\u0442\u0438\u0445\u04c0"
+    ],
+    "name:cym_x_preferred":[
+        "Fatih"
+    ],
     "name:dan_x_preferred":[
         "Fatih"
     ],
@@ -68,14 +83,26 @@
     "name:diq_x_preferred":[
         "Fatih"
     ],
+    "name:dtp_x_preferred":[
+        "Fatih"
+    ],
     "name:ell_x_preferred":[
         "\u03a6\u03b1\u03c4\u03af\u03c7"
     ],
     "name:eng_x_preferred":[
         "Fatih"
     ],
+    "name:est_x_preferred":[
+        "Fatih"
+    ],
+    "name:eus_x_preferred":[
+        "Fatih"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0627\u062a\u062d"
+    ],
+    "name:fin_x_preferred":[
+        "Fatih"
     ],
     "name:fra_x_preferred":[
         "Fatih"
@@ -103,6 +130,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud30c\ud2f0\ud750"
+    ],
+    "name:kur_x_preferred":[
+        "Fatih"
     ],
     "name:lat_x_preferred":[
         "Fatih"
@@ -143,6 +173,9 @@
     "name:por_x_preferred":[
         "Fatih"
     ],
+    "name:ron_x_preferred":[
+        "Fatih"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u0430\u0442\u0438\u0445"
     ],
@@ -152,8 +185,20 @@
     "name:spa_x_preferred":[
         "Fatih"
     ],
+    "name:sqi_x_preferred":[
+        "Fatih"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0430\u0442\u0438\u0445"
+    ],
     "name:swa_x_preferred":[
         "Fatih"
+    ],
+    "name:swe_x_preferred":[
+        "Fatih"
+    ],
+    "name:tat_x_preferred":[
+        "\u0424\u0430\u0442\u0438\u04bb"
     ],
     "name:tur_x_preferred":[
         "Fatih"
@@ -166,6 +211,9 @@
     ],
     "name:vie_x_preferred":[
         "Fatih"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e4\u10d0\u10d7\u10d8\u10f0\u10d8"
     ],
     "name:zho_min_nan_x_preferred":[
         "Fatih"
@@ -209,11 +257,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1824,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -240,7 +288,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401220,
+    "wof:lastmodified":1690874909,
     "wof:name":"Fatih",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

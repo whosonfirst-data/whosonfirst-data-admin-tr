@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0631\u064a\u0632\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u0631\u064a\u0632\u0647"
+    ],
     "name:ast_x_preferred":[
         "Rize"
     ],
@@ -53,10 +56,19 @@
     "name:ces_x_variant":[
         "Rizensk\u00e1 provincie"
     ],
+    "name:che_x_preferred":[
+        "\u0420\u0438\u0437\u0435"
+    ],
+    "name:crh_x_preferred":[
+        "Rize"
+    ],
     "name:dan_x_preferred":[
         "Rize"
     ],
     "name:deu_x_preferred":[
+        "Rize"
+    ],
+    "name:diq_x_preferred":[
         "Rize"
     ],
     "name:ell_x_preferred":[
@@ -66,6 +78,9 @@
         "Rize"
     ],
     "name:epo_x_preferred":[
+        "Rize"
+    ],
+    "name:eus_x_preferred":[
         "Rize"
     ],
     "name:fas_x_preferred":[
@@ -80,6 +95,9 @@
     "name:gag_x_preferred":[
         "Rize"
     ],
+    "name:gle_x_preferred":[
+        "Rize"
+    ],
     "name:guj_x_preferred":[
         "\u0ab0\u0abe\u0a87\u0a9d"
     ],
@@ -88,6 +106,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d9\u05d6\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d9\u05d6"
     ],
     "name:hin_x_preferred":[
         "\u0930\u0940\u091c\u093c\u0947"
@@ -152,6 +173,9 @@
     "name:nan_x_preferred":[
         "Rize"
     ],
+    "name:nau_x_preferred":[
+        "Rize"
+    ],
     "name:nld_x_preferred":[
         "Rize"
     ],
@@ -200,14 +224,26 @@
     "name:swe_x_preferred":[
         "Rize"
     ],
+    "name:szl_x_preferred":[
+        "Rize"
+    ],
     "name:tam_x_preferred":[
         "\u0bb0\u0bc8\u0bb8\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u0420\u0438\u0437\u0435"
     ],
     "name:tel_x_preferred":[
         "\u0c30\u0c48\u0c1c\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0420\u0438\u0437\u0430"
+    ],
     "name:tha_x_preferred":[
         "\u0e23\u0e34\u0e40\u0e0b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e23\u0e35\u0e41\u0e0b"
     ],
     "name:tur_x_preferred":[
         "Rize"
@@ -218,11 +254,17 @@
     "name:ukr_x_preferred":[
         "\u0420\u0456\u0437\u0435"
     ],
+    "name:ukr_x_variant":[
+        "\u0420\u0438\u0437\u0435"
+    ],
     "name:und_x_variant":[
         "\u00c7orum"
     ],
     "name:urd_x_preferred":[
         "\u0631\u06cc\u0632\u06c1"
+    ],
+    "name:vec_x_preferred":[
+        "Rize"
     ],
     "name:vie_x_preferred":[
         "Rize"
@@ -377,7 +419,7 @@
         }
     ],
     "wof:id":101910997,
-    "wof:lastmodified":1636499857,
+    "wof:lastmodified":1690875059,
     "wof:name":"Rize",
     "wof:parent_id":1108709745,
     "wof:placetype":"locality",

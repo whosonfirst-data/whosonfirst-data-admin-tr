@@ -100,6 +100,9 @@
     "name:crh_x_preferred":[
         "Tekirda\u011f"
     ],
+    "name:cym_x_preferred":[
+        "Talaith Tekirda\u011f"
+    ],
     "name:dan_x_preferred":[
         "Tekirda\u011f Province"
     ],
@@ -137,6 +140,9 @@
     "name:fra_x_preferred":[
         "Tekirda\u011f"
     ],
+    "name:frr_x_preferred":[
+        "Tekirda\u011f"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Tekirda\u011f"
     ],
@@ -159,7 +165,11 @@
         "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572"
+        "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572",
+        "\u0539\u0565\u0584\u056b\u0580\u0564\u0561\u0572\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0565\u0584\u056b\u0580\u057f\u0561\u0572"
     ],
     "name:ind_x_preferred":[
         "Provinsi Tekirda\u011f"
@@ -290,6 +300,9 @@
     "name:tha_x_preferred":[
         "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e15\u0e40\u0e01\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e01"
     ],
+    "name:tha_x_variant":[
+        "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e17\u0e04\u0e35\u0e23\u0e4c\u0e14\u0e32"
+    ],
     "name:tuk_x_preferred":[
         "Tekirdag"
     ],
@@ -325,6 +338,9 @@
     ],
     "name:war_x_preferred":[
         "Tekirda\u011f"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6cf0\u57fa\u5c14\u8fbe\u7701"
     ],
     "name:yue_x_preferred":[
         "\u6cf0\u57fa\u723e\u9054\u7701"
@@ -441,7 +457,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87899db2bd929b846e3a8a07c3041003",
+    "wof:geomhash":"b4b711ded335c1c4e3208af7a311b86a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -456,7 +472,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351678,
+    "wof:lastmodified":1690874945,
     "wof:name":"Tekirdag",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

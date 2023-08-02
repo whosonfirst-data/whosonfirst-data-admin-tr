@@ -26,11 +26,17 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ast_x_preferred":[
+        "Orta"
+    ],
     "name:cat_x_preferred":[
         "Orta"
     ],
     "name:ceb_x_preferred":[
         "Orta"
+    ],
+    "name:che_x_preferred":[
+        "\u041e\u0440\u0442\u0430"
     ],
     "name:deu_x_preferred":[
         "Orta"
@@ -38,11 +44,17 @@
     "name:eng_x_preferred":[
         "Orta"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u0631\u062a\u0627"
+    ],
     "name:fra_x_preferred":[
         "Orta"
     ],
     "name:ita_x_preferred":[
         "Distretto di Orta"
+    ],
+    "name:ita_x_variant":[
+        "Orta"
     ],
     "name:lit_x_preferred":[
         "Orta"
@@ -64,6 +76,9 @@
     ],
     "name:swa_x_preferred":[
         "Orta"
+    ],
+    "name:tat_x_preferred":[
+        "\u041e\u0440\u0442\u0430"
     ],
     "name:tur_x_preferred":[
         "Orta"
@@ -109,11 +124,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":128,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -140,7 +155,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401164,
+    "wof:lastmodified":1690874911,
     "wof:name":"Orta",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

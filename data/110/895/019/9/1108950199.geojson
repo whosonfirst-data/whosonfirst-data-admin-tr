@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.9919764226,41.1784495228,28.9919764226,41.1784495228",
+    "geom:bbox":"28.991976,41.17845,28.991976,41.17845",
     "geom:latitude":41.17845,
     "geom:longitude":28.991976,
     "iso:country":"TR",
@@ -26,18 +26,24 @@
     "name:eng_x_preferred":[
         "Bah\u00e7ek\u00f6y"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30d5\u30c1\u30a7\u30ad\u30e7\u30a4"
+    ],
     "name:swa_x_preferred":[
         "Bah\u00e7ek\u00f6y"
     ],
     "name:tur_x_preferred":[
         "Bah\u00e7ek\u00f6y"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0627\u06c1\u0686\u06d2\u06a9\u0648\u0626\u06d2"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        890463467,
-        85679237
+        890463467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +51,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368188,
-    "wof:geomhash":"267072fbf22d109aada3695311ab1036",
+    "wof:geomhash":"0f6a326682ad11e523e38cd15582f30e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1108950199,
-    "wof:lastmodified":1678400603,
+    "wof:lastmodified":1690874968,
     "wof:name":"Bahcekoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -67,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.9919764225565,
-    41.17844952280032,
-    28.9919764225565,
-    41.17844952280032
+    28.991976,
+    41.17845,
+    28.991976,
+    41.17845
 ],
-  "geometry": {"coordinates":[28.9919764225565,41.17844952280032],"type":"Point"}
+  "geometry": {"coordinates":[28.991976,41.17845],"type":"Point"}
 }

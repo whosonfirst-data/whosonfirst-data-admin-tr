@@ -26,7 +26,16 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0430\u043b\u0438\u043c\u0430\u043d\u044a"
+    ],
     "name:cat_x_preferred":[
+        "Baltaliman\u0131"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u0442\u0430\u043b\u0438\u043c\u0430\u043d\u0438"
+    ],
+    "name:deu_x_preferred":[
         "Baltaliman\u0131"
     ],
     "name:eng_x_preferred":[
@@ -35,6 +44,9 @@
     "name:eng_x_variant":[
         "Baltaliman\u0131",
         "Balta Limani"
+    ],
+    "name:ron_x_preferred":[
+        "Baltaliman\u0131"
     ],
     "name:tur_x_preferred":[
         "Baltaliman\u0131"
@@ -77,11 +89,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -108,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401223,
+    "wof:lastmodified":1690874909,
     "wof:name":"Baltalimani",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

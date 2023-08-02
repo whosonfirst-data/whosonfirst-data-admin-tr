@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.6129444429,41.3115213919,28.6129444429,41.3115213919",
+    "geom:bbox":"28.612944,41.311521,28.612944,41.311521",
     "geom:latitude":41.311521,
     "geom:longitude":28.612944,
     "iso:country":"TR",
@@ -23,10 +23,19 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":12.0,
     "mz:tier_metro":30,
+    "name:che_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Balaban"
     ],
     "name:fra_x_preferred":[
+        "Balaban"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u043b\u0430\u0431\u0430\u043d"
+    ],
+    "name:tur_x_preferred":[
         "Balaban"
     ],
     "name:tur_x_variant":[
@@ -34,10 +43,10 @@
     ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709297,
-        85679237
+        1108709297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +54,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368743,
-    "wof:geomhash":"6408cf98b2bc611d1d2c4ab15c790a5b",
+    "wof:geomhash":"686708f47209f812e2bc99471cb5aca0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108950951,
-    "wof:lastmodified":1678400166,
+    "wof:lastmodified":1690874969,
     "wof:name":"Balaban",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.61294444290735,
-    41.31152139193353,
-    28.61294444290735,
-    41.31152139193353
+    28.612944,
+    41.311521,
+    28.612944,
+    41.311521
 ],
-  "geometry": {"coordinates":[28.61294444290735,41.31152139193353],"type":"Point"}
+  "geometry": {"coordinates":[28.612944,41.311521],"type":"Point"}
 }

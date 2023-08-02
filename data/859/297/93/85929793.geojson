@@ -29,6 +29,12 @@
     "name:aze_x_preferred":[
         "\u015e\u0259nlik"
     ],
+    "name:aze_x_variant":[
+        "Florya"
+    ],
+    "name:che_x_preferred":[
+        "\u0428\u0435\u043d\u043b\u0438\u043a\u043a\u043e\u044c\u0439"
+    ],
     "name:eng_x_preferred":[
         "Senlikkoy"
     ],
@@ -36,8 +42,23 @@
         "Florya",
         "Senlik"
     ],
+    "name:fra_x_preferred":[
+        "Florya"
+    ],
     "name:ita_x_preferred":[
         "Florya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30ea\u30c3\u30ad\u30e7\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Florya"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043b\u043e\u0440\u044c\u044f"
+    ],
+    "name:tat_x_preferred":[
+        "\u0428\u0435\u043d\u043b\u0438\u043a\u043a\u04e9\u0439"
     ],
     "name:tur_x_preferred":[
         "\u015eenlikk\u00f6y"
@@ -78,11 +99,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +130,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401159,
+    "wof:lastmodified":1690874914,
     "wof:name":"Senlikkoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

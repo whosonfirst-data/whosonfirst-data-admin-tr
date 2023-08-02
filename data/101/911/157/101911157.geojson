@@ -22,8 +22,17 @@
     "name:bul_x_preferred":[
         "\u041c\u0438\u0434\u0438\u044f"
     ],
+    "name:ces_x_preferred":[
+        "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0439\u0438\u043a\u043e\u044c\u0439"
+    ],
     "name:deu_x_preferred":[
         "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03ae\u03b4\u03b5\u03b9\u03b1"
     ],
     "name:eng_x_preferred":[
         "K\u0131y\u0131k\u00f6y"
@@ -49,6 +58,9 @@
     "name:srp_x_preferred":[
         "\u041c\u0438\u0434\u0438\u0458\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u044b\u0435\u043a\u04e9\u0439"
+    ],
     "name:tur_x_preferred":[
         "K\u0131y\u0131k\u00f6y"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "K\u0131y\u0131k\u00f6y"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u8036\u514b\u4f0a"
     ],
     "qs:a0":"Turkey",
     "qs:a1":"*",
@@ -78,8 +93,8 @@
     "wof:belongsto":[
         102191569,
         85632393,
-        890460583,
-        85679219
+        85679219,
+        890460583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":101911157,
-    "wof:lastmodified":1588718980,
+    "wof:lastmodified":1690875049,
     "wof:name":"K\u0131y\u0131k\u00f6y",
     "wof:parent_id":890460583,
     "wof:placetype":"locality",

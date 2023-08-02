@@ -28,6 +28,9 @@
     "mz:min_zoom":11.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u063a\u062c\u0644\u0627\u0631"
+    ],
     "name:ast_x_preferred":[
         "Bah\u00e7elievler"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:ceb_x_preferred":[
         "Bah\u00e7elievler"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0430\u0445\u04c0\u0447\u0435\u043b\u0438\u0435\u0432\u043b\u0435\u0440"
     ],
     "name:deu_x_preferred":[
         "Bah\u00e7elievler"
@@ -58,6 +64,9 @@
     "name:fra_x_preferred":[
         "Bah\u00e7elievler"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d4\u05e6'\u05dc\u05d9\u05d0\u05d1\u05dc\u05e8"
+    ],
     "name:hun_x_preferred":[
         "Bah\u00e7elievler"
     ],
@@ -70,8 +79,14 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30d5\u30c1\u30a7\u30ea\u30a8\u30d6\u30ec\u30eb"
     ],
+    "name:kur_x_preferred":[
+        "Bah\u00e7elievler"
+    ],
     "name:lav_x_preferred":[
         "Bah\u010delievleras rajons"
+    ],
+    "name:mdf_x_preferred":[
+        "\u0411\u0430\u0445\u0447\u044d\u043b\u0438\u044d\u0432\u043b\u044d\u0440"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0445\u0447\u0435\u043b\u0438\u044d\u0432\u043b\u0435\u0440"
@@ -103,11 +118,17 @@
     "name:swa_x_preferred":[
         "Bah\u00e7elievler"
     ],
+    "name:tat_x_preferred":[
+        "\u0411\u0430\u04bb\u0447\u0435\u043b\u0438\u0435\u0432\u043b\u0435\u0440"
+    ],
     "name:tur_x_preferred":[
         "Bah\u00e7elievler"
     ],
     "name:tur_x_variant":[
         "Bahcelievler"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0445\u0447\u0435\u043b\u0456\u0435\u0432\u043b\u0435\u0440"
     ],
     "name:und_x_colloquial":[
         "Bahcelievler"
@@ -117,6 +138,9 @@
     ],
     "name:vie_x_preferred":[
         "Bah\u00e7elievler"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u8d6b\u5207\u5229\u8036\u592b\u83b1\u5c14"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPL",
@@ -153,11 +177,11 @@
     "src:population":"geonames",
     "wd:wordcount":573,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -185,7 +209,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401158,
+    "wof:lastmodified":1690874915,
     "wof:name":"Bahcelievler",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

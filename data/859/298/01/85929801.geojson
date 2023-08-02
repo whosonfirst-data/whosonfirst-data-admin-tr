@@ -69,6 +69,9 @@
     "name:ind_x_preferred":[
         "Anadolu Hisar\u0131"
     ],
+    "name:ita_x_preferred":[
+        "Anadoluhisar\u0131"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ca\u30c9\u30eb\u30fb\u30d2\u30b5\u30eb"
     ],
@@ -93,6 +96,9 @@
     "name:slk_x_preferred":[
         "Anadoluhisar\u0131"
     ],
+    "name:slv_x_preferred":[
+        "Anadolu Hisar\u0131"
+    ],
     "name:spa_x_preferred":[
         "Anadoluhisar\u0131"
     ],
@@ -111,6 +117,12 @@
     ],
     "name:und_x_variant":[
         "Hisar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u0627\u0636\u0648\u0644 \u062d\u0635\u0627\u0631"
+    ],
+    "name:uzb_x_preferred":[
+        "Anadoluxisar qal\u2019asi"
     ],
     "name:vie_x_preferred":[
         "Anadoluhisari"
@@ -170,11 +182,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -203,7 +215,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401161,
+    "wof:lastmodified":1690874912,
     "wof:name":"Anadolu Hisari",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

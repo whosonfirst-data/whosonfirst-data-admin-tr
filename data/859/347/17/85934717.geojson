@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0644\u064a\u0645\u0627\u0646 \u062c\u0644\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0644\u064a\u0645\u0627\u0646 \u062c\u0644\u0628\u0649"
+    ],
     "name:aze_x_preferred":[
         "S\u00fcleyman \u00c7\u0259l\u0259bi"
     ],
@@ -46,6 +49,12 @@
     ],
     "name:cat_x_preferred":[
         "Suleyman I"
+    ],
+    "name:cat_x_variant":[
+        "Suleyman"
+    ],
+    "name:dan_x_preferred":[
+        "S\u00fcleyman \u00c7elebi"
     ],
     "name:deu_x_preferred":[
         "S\u00fcleyman \u00c7elebi"
@@ -86,6 +95,12 @@
     "name:nld_x_preferred":[
         "S\u00fcleyman \u00c7elebi"
     ],
+    "name:nno_x_preferred":[
+        "Suleyman \u00c7elebi"
+    ],
+    "name:nob_x_preferred":[
+        "Suleyman \u00c7elebi"
+    ],
     "name:pol_x_preferred":[
         "Sulejman \u00c7elebi"
     ],
@@ -99,7 +114,8 @@
         "S\u00fcleyman \u00c7elebi"
     ],
     "name:spa_x_variant":[
-        "Suleyman I"
+        "Suleyman I",
+        "Suleyman"
     ],
     "name:srp_x_preferred":[
         "\u0421\u0443\u043b\u0435\u0458\u043c\u0430\u043d \u0427\u0435\u043b\u0435\u0431\u0438\u0458\u0430"
@@ -110,8 +126,17 @@
     "name:ukr_x_preferred":[
         "\u0421\u044e\u043b\u0435\u0439\u043c\u0430\u043d \u0427\u0435\u043b\u0435\u0431\u0456"
     ],
+    "name:ukr_x_variant":[
+        "\u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d \u0427\u0435\u043b\u0435\u0431\u0456"
+    ],
     "name:und_x_colloquial":[
         "Suleyman Celebi"
+    ],
+    "name:uzb_x_preferred":[
+        "S\u00fcleyman \u00c7elebi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u840a\u66fc\u00b7\u5207\u840a\u6bd4"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -173,7 +198,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582340263,
+    "wof:lastmodified":1690874908,
     "wof:name":"S\u00fcleyman \u00c7elebi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

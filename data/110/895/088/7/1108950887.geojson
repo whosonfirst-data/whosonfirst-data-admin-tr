@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7565964775,41.187556603,28.7565964775,41.187556603",
+    "geom:bbox":"28.756596,41.187557,28.756596,41.187557",
     "geom:latitude":41.187557,
     "geom:longitude":28.756596,
     "iso:country":"TR",
@@ -26,18 +26,27 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0636\u0648\u0644\u0648"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0430\u0434\u043e\u043b\u0443"
+    ],
     "name:eng_x_preferred":[
         "Anadolu"
     ],
     "name:fra_x_preferred":[
         "Anadolu"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043d\u0430\u0434\u043e\u043b\u0443"
+    ],
+    "name:tur_x_preferred":[
+        "Anadolu"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709297,
-        85679237
+        1108709297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,7 +54,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368705,
-    "wof:geomhash":"23615ff6099519cf76ac078afb0bfe7e",
+    "wof:geomhash":"7ef0ea9aceb2cfa9a966f212be2d0707",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108950887,
-    "wof:lastmodified":1678400165,
+    "wof:lastmodified":1690874966,
     "wof:name":"Anadolu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.75659647746645,
-    41.18755660295979,
-    28.75659647746645,
-    41.18755660295979
+    28.756596,
+    41.187557,
+    28.756596,
+    41.187557
 ],
-  "geometry": {"coordinates":[28.75659647746645,41.18755660295979],"type":"Point"}
+  "geometry": {"coordinates":[28.756596,41.187557],"type":"Point"}
 }

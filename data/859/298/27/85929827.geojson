@@ -26,10 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ast_x_preferred":[
+        "Yeni"
+    ],
     "name:deu_x_preferred":[
         "Yeni"
     ],
     "name:eng_x_preferred":[
+        "Yeni"
+    ],
+    "name:tgl_x_preferred":[
         "Yeni"
     ],
     "name:tur_x_preferred":[
@@ -70,11 +76,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":54,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -101,7 +107,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401165,
+    "wof:lastmodified":1690874911,
     "wof:name":"Yeni",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

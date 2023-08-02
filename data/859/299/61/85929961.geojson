@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0636\u064a\u0627\u0621 \u0643\u0648\u0643 \u0623\u0644\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0636\u064a\u0627\u0621 \u0643\u0648\u0643 \u0627\u0644\u0628"
+    ],
     "name:ast_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:aze_x_preferred":[
         "Ziya G\u00f6kalp"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09af\u09bc\u09be \u0997\u09cb\u0995\u09be\u09b2\u09cd\u09aa"
     ],
     "name:cat_x_preferred":[
         "Ziya G\u00f6kalp"
@@ -68,7 +74,13 @@
     "name:fas_x_preferred":[
         "\u0636\u06cc\u0627 \u06af\u0648\u06a9 \u0622\u0644\u067e"
     ],
+    "name:fin_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
     "name:fra_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:gle_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
     "name:heb_x_preferred":[
@@ -95,6 +107,9 @@
     "name:kir_x_preferred":[
         "\u0417\u0438\u044f \u0413\u04e8\u041a\u0410\u041b\u041f"
     ],
+    "name:kor_x_preferred":[
+        "\uc9c0\uc57c \uad34\uce7c\ud504"
+    ],
     "name:kur_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
@@ -113,7 +128,16 @@
     "name:oci_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
+    "name:pap_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u06cc\u0627\u0621 \u06af\u0648\u06a9 \u0627\u0644\u067e"
+    ],
     "name:pol_x_preferred":[
+        "Ziya G\u00f6kalp"
+    ],
+    "name:por_x_preferred":[
         "Ziya G\u00f6kalp"
     ],
     "name:ron_x_preferred":[
@@ -145,6 +169,9 @@
     ],
     "name:uig_x_preferred":[
         "\u0632\u0649\u064a\u0627 \u06af\u06c6\u0643\u0626\u0627\u0644\u0649\u067e"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0456\u044f \u0490\u043e\u043a\u0430\u043b\u044c\u043f"
     ],
     "name:und_x_colloquial":[
         "Ziya Gokalp"
@@ -190,11 +217,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":2372,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -221,7 +248,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401184,
+    "wof:lastmodified":1690874915,
     "wof:name":"Ziya Gokalp",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

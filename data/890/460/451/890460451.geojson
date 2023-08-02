@@ -33,7 +33,8 @@
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0430\u0442\u044f"
     ],
     "name:bel_x_variant":[
-        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0430\u0442'\u044f"
+        "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u043b\u0430\u0442'\u044f",
+        "\u041c\u0430\u043b\u0430\u0442\u2019\u044f"
     ],
     "name:bre_x_preferred":[
         "Malatya"
@@ -46,6 +47,9 @@
     ],
     "name:ces_x_preferred":[
         "Malatya"
+    ],
+    "name:che_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0442\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u0645\u06d5\u0644\u06d5\u062f\u06cc"
@@ -83,6 +87,9 @@
     "name:fra_x_preferred":[
         "Malatya"
     ],
+    "name:gag_x_preferred":[
+        "Malatya"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05dc\u05d0\u05d9\u05d4 \u05d0\u05d5\u05d1"
     ],
@@ -96,6 +103,9 @@
         "Malatya"
     ],
     "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0561\u0569\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u0544\u0561\u056c\u0561\u0569\u056b\u0561"
     ],
     "name:ind_x_preferred":[
@@ -112,6 +122,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u044c\u044f"
+    ],
+    "name:kbd_x_preferred":[
+        "Malatya"
     ],
     "name:kin_x_preferred":[
         "Malatya"
@@ -152,6 +165,9 @@
     "name:nan_x_preferred":[
         "Malatya"
     ],
+    "name:nau_x_preferred":[
+        "Malatya"
+    ],
     "name:nld_x_preferred":[
         "Malatya"
     ],
@@ -160,6 +176,9 @@
     ],
     "name:nob_x_preferred":[
         "Malatya"
+    ],
+    "name:oss_x_preferred":[
+        "\u041c\u0430\u043b\u0430\u0442\u044c\u044f"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0644\u0637\u06cc\u0647"
@@ -170,6 +189,9 @@
     "name:por_x_preferred":[
         "Malatya"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u0644\u0627\u062a\u06cc\u0647"
+    ],
     "name:ron_x_preferred":[
         "Malatya"
     ],
@@ -177,6 +199,9 @@
         "\u041c\u0430\u043b\u0430\u0442\u044c\u044f"
     ],
     "name:sco_x_preferred":[
+        "Malatya"
+    ],
+    "name:slk_x_preferred":[
         "Malatya"
     ],
     "name:slv_x_preferred":[
@@ -194,10 +219,16 @@
     "name:swe_x_preferred":[
         "Malatya"
     ],
+    "name:szl_x_preferred":[
+        "Malatya"
+    ],
     "name:tat_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u044c\u044f"
     ],
     "name:tat_x_variant":[
+        "\u041c\u0430\u043b\u0430\u0442\u0438\u044f"
+    ],
+    "name:tgk_x_preferred":[
         "\u041c\u0430\u043b\u0430\u0442\u0438\u044f"
     ],
     "name:tur_x_preferred":[
@@ -223,6 +254,9 @@
     ],
     "name:war_x_preferred":[
         "Malatya"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u62c9\u8482\u4e9a"
     ],
     "name:zho_x_preferred":[
         "\u99ac\u62c9\u8482\u4e9e"
@@ -359,7 +393,7 @@
         }
     ],
     "wof:id":890460451,
-    "wof:lastmodified":1636499865,
+    "wof:lastmodified":1690875304,
     "wof:name":"Malatya",
     "wof:parent_id":890462419,
     "wof:placetype":"locality",

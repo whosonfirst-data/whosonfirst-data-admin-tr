@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u062a\u0634\u0648\u0643 \u0628\u0627\u0643\u0627\u0644\u0643\u0648\u064a"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0443\u044c\u0447\u0443\u044c\u043a\u0431\u0430\u043a\u043a\u0430\u043b\u043a\u043e\u044c\u0439"
+    ],
     "name:eng_x_preferred":[
         "Kucukbakkalkoy"
     ],
     "name:eng_x_variant":[
         "K\u00fc\u00e7\u00fckbakkalk\u00f6y"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u04af\u0447\u04af\u043a\u0431\u0430\u043a\u043a\u0430\u043b\u043a\u04e9\u0439"
     ],
     "name:tur_x_preferred":[
         "K\u00fc\u00e7\u00fckbakkalk\u00f6y"
@@ -51,11 +57,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -80,7 +86,7 @@
         }
     ],
     "wof:id":890461637,
-    "wof:lastmodified":1678401256,
+    "wof:lastmodified":1690875368,
     "wof:name":"Kucukbakkalkoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

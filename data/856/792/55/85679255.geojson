@@ -55,11 +55,17 @@
     "name:ara_x_variant":[
         "\u0625\u0633\u0643\u064a \u0634\u0647\u0631"
     ],
+    "name:ast_x_preferred":[
+        "provincia d'Eski\u015fehir"
+    ],
     "name:aze_x_preferred":[
         "\u018fski\u015f\u0259h\u0259r ili"
     ],
     "name:bak_x_preferred":[
         "\u04d8\u0441\u043a\u0438\u0448\u04d9\u04bb\u0438\u0440"
+    ],
+    "name:bak_x_variant":[
+        "\u0418\u04ab\u043a\u0435\u0448\u04d9\u04bb\u04d9\u0440"
     ],
     "name:bel_x_preferred":[
         "\u041f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u042d\u0441\u043a\u0456\u0448\u044d\u0445\u0456\u0440"
@@ -99,6 +105,9 @@
     ],
     "name:crh_x_preferred":[
         "Eski\u015fehir"
+    ],
+    "name:cym_x_preferred":[
+        "Talaith Eski\u015fehir"
     ],
     "name:dan_x_preferred":[
         "Eski\u015fehir Province"
@@ -141,6 +150,9 @@
     "name:fra_x_preferred":[
         "Eski\u015fehir"
     ],
+    "name:frr_x_preferred":[
+        "Eski\u015fehir"
+    ],
     "name:gag_x_preferred":[
         "Eski\u015fehir"
     ],
@@ -160,6 +172,12 @@
         "Eski\u015fehir"
     ],
     "name:hye_x_preferred":[
+        "\u0537\u057d\u0584\u056b\u0577\u0565\u0570\u056b\u0580"
+    ],
+    "name:hye_x_variant":[
+        "\u0537\u057d\u0584\u056b\u0577\u0565\u0570\u056b\u0580\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
         "\u0537\u057d\u0584\u056b\u0577\u0565\u0570\u056b\u0580"
     ],
     "name:ind_x_preferred":[
@@ -315,6 +333,9 @@
     "name:war_x_preferred":[
         "Eski\u015fehir"
     ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u65af\u57fa\u8c22\u5e0c\u5c14\u7701"
+    ],
     "name:yue_x_preferred":[
         "\u57c3\u65af\u57fa\u8b1d\u5e0c\u723e\u7701"
     ],
@@ -430,7 +451,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"28e79c9eced97204ae3b4770a7282e3c",
+    "wof:geomhash":"2375ab2b12c91b26a70f11f0538ac291",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -445,7 +466,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351679,
+    "wof:lastmodified":1690874943,
     "wof:name":"Eskisehir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

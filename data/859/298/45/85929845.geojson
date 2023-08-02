@@ -45,8 +45,14 @@
     "name:cat_x_preferred":[
         "Levent"
     ],
+    "name:che_x_preferred":[
+        "\u041b\u0435\u0432\u0435\u043d\u0442"
+    ],
     "name:deu_x_preferred":[
         "Levent"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b5\u03b2\u03ad\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Levent"
@@ -87,8 +93,20 @@
     "name:spa_x_preferred":[
         "Levent"
     ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0432\u0435\u043d\u0442"
+    ],
+    "name:tat_x_preferred":[
+        "\u041b\u0435\u0432\u0435\u043d\u0442"
+    ],
     "name:tur_x_preferred":[
         "Levent"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0435\u0432\u0435\u043d\u0442"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0648\u06cc\u0646\u0679"
     ],
     "name:zho_x_preferred":[
         "\u840a\u6587\u7279"
@@ -148,11 +166,11 @@
     "wd:longitude":29.01584,
     "wd:wordcount":862,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -181,7 +199,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401167,
+    "wof:lastmodified":1690874911,
     "wof:name":"Levent",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

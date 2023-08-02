@@ -26,10 +26,16 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u0635\u062d\u064a\u0641\u0629 \u062d\u0631\u064a\u062a"
+    ],
     "name:ava_x_preferred":[
         "\u0425\u04c0\u0443\u0440\u0438\u0435\u0442"
     ],
     "name:aze_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:bos_x_preferred":[
         "H\u00fcrriyet"
     ],
     "name:bul_x_preferred":[
@@ -50,14 +56,26 @@
     "name:eng_x_variant":[
         "H\u00fcrriyet"
     ],
+    "name:epo_x_preferred":[
+        "H\u00fcrriyet"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0631\u06cc\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "H\u00fcrriyet"
     ],
     "name:fra_x_preferred":[
         "H\u00fcrriyet"
     ],
+    "name:gle_x_preferred":[
+        "H\u00fcrriyet"
+    ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05e8\u05d9\u05d9\u05d8"
+    ],
+    "name:hrv_x_preferred":[
+        "H\u00fcrriyet"
     ],
     "name:hun_x_preferred":[
         "H\u00fcrriyet"
@@ -95,6 +113,12 @@
     "name:nob_x_preferred":[
         "H\u00fcrriyet"
     ],
+    "name:pnb_x_preferred":[
+        "\u062d\u0631\u06cc\u062a"
+    ],
+    "name:pol_x_preferred":[
+        "H\u00fcrriyet"
+    ],
     "name:por_x_preferred":[
         "H\u00fcrriyet"
     ],
@@ -107,11 +131,23 @@
     "name:srp_x_preferred":[
         "\u0425\u0443\u0440\u0438\u0458\u0435\u0442"
     ],
+    "name:tuk_x_preferred":[
+        "H\u00fcrriyet"
+    ],
     "name:tur_x_preferred":[
+        "H\u00fcrriyet"
+    ],
+    "name:ukr_x_preferred":[
         "H\u00fcrriyet"
     ],
     "name:und_x_colloquial":[
         "Hurriyet"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0631\u06cc\u062a"
+    ],
+    "name:uzb_x_preferred":[
+        "Hurriyat"
     ],
     "name:zho_x_preferred":[
         "\u81ea\u7531\u5831"
@@ -149,11 +185,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":708,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -180,7 +216,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401194,
+    "wof:lastmodified":1690874891,
     "wof:name":"Hurriyet",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

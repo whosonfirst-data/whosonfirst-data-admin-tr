@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.7398022643,41.1852312281,28.7398022643,41.1852312281",
+    "geom:bbox":"28.739802,41.185231,28.739802,41.185231",
     "geom:latitude":41.185231,
     "geom:longitude":28.739802,
     "iso:country":"TR",
@@ -29,6 +29,12 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u043d\u0430\u0432\u0443\u0442\u043a\u044c\u043e\u0439"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u0440\u043d\u0430\u0432\u0443\u0442\u043a\u043e\u044c\u0439"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u0627\u0631\u0646\u0627\u06a4\u0648\u062a\u06a9\u06c6\u06cc"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03ad\u03b3\u03b1 \u03a1\u03b5\u03cd\u03bc\u03b1"
     ],
@@ -42,6 +48,9 @@
         "Arnavutk\u00f6y"
     ],
     "name:ita_x_preferred":[
+        "Arnavutk\u00f6y"
+    ],
+    "name:kur_x_preferred":[
         "Arnavutk\u00f6y"
     ],
     "name:lit_x_preferred":[
@@ -65,18 +74,27 @@
     "name:sqi_x_preferred":[
         "Arnavutkoj"
     ],
+    "name:sqi_x_variant":[
+        "Arnavutqoj"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0440\u043d\u0430\u0432\u0443\u0442\u043a\u043e\u0458"
     ],
     "name:tur_x_preferred":[
         "Arnavutk\u00f6y"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u043d\u0430\u0432\u0443\u0442\u043a\u044c\u043e\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0631\u0646\u0627\u0648\u062a\u06a9\u0648\u0626\u06d2"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709297,
-        85679237
+        1108709297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +102,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368704,
-    "wof:geomhash":"20852d72a7b7009e8dc894f972c0bdf5",
+    "wof:geomhash":"428c6d3e9e4381a28f1229777dfef119",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +114,7 @@
         }
     ],
     "wof:id":1108950883,
-    "wof:lastmodified":1678400165,
+    "wof:lastmodified":1690874967,
     "wof:name":"Arnavutkoy",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -106,10 +124,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.73980226430449,
-    41.18523122810657,
-    28.73980226430449,
-    41.18523122810657
+    28.739802,
+    41.185231,
+    28.739802,
+    41.185231
 ],
-  "geometry": {"coordinates":[28.73980226430449,41.18523122810657],"type":"Point"}
+  "geometry": {"coordinates":[28.739802,41.185231],"type":"Point"}
 }

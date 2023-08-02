@@ -26,6 +26,12 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:che_x_preferred":[
+        "\u0417\u0435\u0439\u0440\u0435\u043a"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b5\u03ca\u03c1\u03ad\u03ba"
+    ],
     "name:eng_x_colloquial":[
         "Husam Bey"
     ],
@@ -35,6 +41,9 @@
     "name:hun_x_preferred":[
         "Zeyrek"
     ],
+    "name:ita_x_preferred":[
+        "Zeyrek"
+    ],
     "name:por_x_preferred":[
         "Zeyrek"
     ],
@@ -42,6 +51,12 @@
         "H\u00fcsam Bey"
     ],
     "name:tur_x_variant":[
+        "Zeyrek"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u0631\u06a9"
+    ],
+    "name:uzb_x_preferred":[
         "Zeyrek"
     ],
     "qs:gn_adm0_cc":"TR",
@@ -75,11 +90,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -106,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401095,
+    "wof:lastmodified":1690874900,
     "wof:name":"Zeyrek",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

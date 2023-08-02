@@ -30,6 +30,12 @@
     "name:als_x_preferred":[
         "Topkapi"
     ],
+    "name:aze_x_preferred":[
+        "Topkap\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u0422\u043e\u043f\u043a\u0430\u043f\u044a"
+    ],
     "name:cat_x_preferred":[
         "Topkap\u0131"
     ],
@@ -38,6 +44,9 @@
     ],
     "name:ces_x_preferred":[
         "Topkap\u0131"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u043e\u043f\u043a\u0430\u043f\u0438"
     ],
     "name:dan_x_preferred":[
         "Topkap\u0131"
@@ -63,6 +72,9 @@
     ],
     "name:fra_x_preferred":[
         "Topkapi"
+    ],
+    "name:fra_x_variant":[
+        "Topkap\u0131"
     ],
     "name:glg_x_preferred":[
         "Topkap\u0131"
@@ -112,6 +124,9 @@
     "name:spa_x_preferred":[
         "Topkap\u0131"
     ],
+    "name:sqi_x_preferred":[
+        "Topkap\u0131"
+    ],
     "name:swe_x_preferred":[
         "Topkap\u0131"
     ],
@@ -142,11 +157,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":82,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -174,7 +189,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401070,
+    "wof:lastmodified":1690874894,
     "wof:name":"Topkapi",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

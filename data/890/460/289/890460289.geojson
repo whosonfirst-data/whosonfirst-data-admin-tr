@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u062d\u064a\u0629 \u0623\u0644\u0645\u0627\u0644\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Elmal\u0131"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u0626\u0644 \u0645\u0627\u0644\u06cc"
+    ],
     "name:aze_x_preferred":[
         "Elmal\u0131"
     ],
@@ -28,17 +37,29 @@
     "name:ceb_x_preferred":[
         "Elmal\u0131"
     ],
+    "name:che_x_preferred":[
+        "\u042d\u043b\u043c\u0430\u043b\u0438"
+    ],
     "name:dan_x_preferred":[
         "Elmal\u0131"
     ],
     "name:deu_x_preferred":[
         "Landkreis Elmal\u0131"
     ],
+    "name:deu_x_variant":[
+        "Elmal\u0131"
+    ],
     "name:diq_x_preferred":[
         "Elmal\u0131"
     ],
+    "name:ell_x_preferred":[
+        "\u0388\u03bb\u03bc\u03b1\u03bb\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Elmal\u0131 District"
+    ],
+    "name:eng_x_variant":[
+        "Elmal\u0131"
     ],
     "name:epo_x_preferred":[
         "Elmal\u0131"
@@ -46,11 +67,23 @@
     "name:fas_x_preferred":[
         "\u0627\u0644\u0645\u0627\u0644\u06cc"
     ],
+    "name:fin_x_preferred":[
+        "Elmal\u0131"
+    ],
     "name:fra_x_preferred":[
+        "Elmal\u0131"
+    ],
+    "name:hye_x_preferred":[
+        "\u0537\u056c\u0574\u0561\u056c\u0568 \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:ita_x_preferred":[
         "Elmal\u0131"
     ],
     "name:lbe_x_preferred":[
         "\u042d\u043b\u043c\u0430\u043b\u044b"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0415\u043b\u043c\u0430\u043b\u0438"
     ],
     "name:mrj_x_preferred":[
         "\u042d\u043b\u043c\u0430\u043b\u044b"
@@ -70,11 +103,20 @@
     "name:nob_x_preferred":[
         "Elmal\u0131"
     ],
+    "name:pol_x_preferred":[
+        "Elmal\u0131"
+    ],
     "name:rus_x_preferred":[
         "\u042d\u043b\u043c\u0430\u043b\u044b"
     ],
+    "name:rus_x_variant":[
+        "\u042d\u043b\u044c\u043c\u0430\u043b\u044b"
+    ],
     "name:swa_x_preferred":[
         "Elmal\u0131"
+    ],
+    "name:tat_x_preferred":[
+        "\u0415\u043b\u043c\u0430\u043b\u044b"
     ],
     "name:tur_x_preferred":[
         "Elmal\u0131"
@@ -120,7 +162,7 @@
         }
     ],
     "wof:id":890460289,
-    "wof:lastmodified":1566586433,
+    "wof:lastmodified":1690875265,
     "wof:name":"Elmal\u0131",
     "wof:parent_id":890462667,
     "wof:placetype":"locality",

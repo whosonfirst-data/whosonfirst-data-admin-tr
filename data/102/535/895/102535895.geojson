@@ -13,6 +13,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":13.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u063a\u0627\u0632\u064a \u0639\u0646\u062a\u0627\u0628 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
     "name:ceb_x_preferred":[
         "Gaziantep"
     ],
@@ -29,11 +32,23 @@
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0627\u0648\u06af\u0648\u0632\u0644\u06cc"
     ],
+    "name:hun_x_preferred":[
+        "O\u011fuzeli rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Gaziantep O\u011fuzeli"
+    ],
     "name:jpn_x_preferred":[
         "\u30aa\u30fc\u30bc\u30ea\u7a7a\u6e2f"
     ],
+    "name:kur_x_preferred":[
+        "Balafirgeha D\u00eelok\u00ea"
+    ],
     "name:msa_x_preferred":[
         "Lapangan Terbang Oguzeli"
+    ],
+    "name:nob_x_preferred":[
+        "Gaziantep O\u011fuzeli lufthavn"
     ],
     "name:pol_x_preferred":[
         "Port lotniczy Gaziantep"
@@ -41,11 +56,17 @@
     "name:ron_x_preferred":[
         "Aeroportul O\u011fuzeli"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0413\u0430\u0437\u0438\u0430\u043d\u0442\u0435\u043f"
+    ],
     "name:tgk_x_preferred":[
         "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u043e\u0432\u0433\u0443\u0437\u043b\u0438"
     ],
     "name:tur_x_preferred":[
         "Gaziantep Havaliman\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0437\u0456\u0430\u043d\u0442\u0435\u043f"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay O\u011fuzeli"
@@ -85,7 +106,7 @@
         }
     ],
     "wof:id":102535895,
-    "wof:lastmodified":1631748805,
+    "wof:lastmodified":1690874886,
     "wof:name":"Gaziantep Airport",
     "wof:parent_id":85679437,
     "wof:placetype":"campus",
