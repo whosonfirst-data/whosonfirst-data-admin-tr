@@ -29,6 +29,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0634\u0648\u064a\u0648\u0644\u0648"
     ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0448\u0443\u0439\u043e\u043b\u0443"
+    ],
     "name:cat_x_preferred":[
         "Ko\u015fuyolu"
     ],
@@ -37,6 +40,9 @@
     ],
     "name:ces_x_preferred":[
         "Ko\u015fuyolu"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u043e\u0448\u0443\u0439\u043e\u043b\u0443"
     ],
     "name:dan_x_preferred":[
         "Ko\u015fuyolu"
@@ -120,11 +126,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -151,7 +157,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401125,
+    "wof:lastmodified":1690874905,
     "wof:name":"Kosuyolu",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

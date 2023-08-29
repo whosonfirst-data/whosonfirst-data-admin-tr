@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
+    "name:afr_x_preferred":[
+        "Erzincan"
+    ],
     "name:ara_x_preferred":[
         "\u0623\u0631\u0632\u064a\u0646\u062c\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0631\u0632\u0646\u062c\u0627\u0646"
+    ],
+    "name:arz_x_preferred":[
+        "\u0627\u0631\u0632\u0646\u062c\u0627\u0646"
     ],
     "name:ast_x_preferred":[
         "Erzincan"
@@ -31,6 +40,9 @@
     ],
     "name:aze_x_preferred":[
         "\u018frzincan"
+    ],
+    "name:bel_x_preferred":[
+        "\u042d\u0440\u0437\u0456\u043d\u0434\u0436\u0430\u043d"
     ],
     "name:ben_x_preferred":[
         "\u098f\u09b0\u099c\u09bf\u0997\u099c\u09be\u09a8"
@@ -50,6 +62,9 @@
     "name:ces_x_preferred":[
         "Erzincan"
     ],
+    "name:che_x_preferred":[
+        "\u042d\u0440\u0437\u0438\u043d\u0434\u0436\u0430\u043d"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u06d5\u0631\u0632\u06af\u0627\u0646"
     ],
@@ -67,6 +82,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0395\u03c1\u03b6\u03b9\u03bd\u03ba\u03ac\u03bd"
+    ],
+    "name:ell_x_variant":[
+        "\u0395\u03c1\u03b6\u03b9\u03bd\u03c4\u03b6\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Erzincan"
@@ -87,6 +105,9 @@
         "Erzincan"
     ],
     "name:gag_x_preferred":[
+        "Erzincan"
+    ],
+    "name:gle_x_preferred":[
         "Erzincan"
     ],
     "name:guj_x_preferred":[
@@ -158,6 +179,9 @@
     "name:nan_x_preferred":[
         "Erzincan"
     ],
+    "name:nau_x_preferred":[
+        "Erzincan"
+    ],
     "name:nld_x_preferred":[
         "Erzincan"
     ],
@@ -169,6 +193,9 @@
     ],
     "name:oci_x_preferred":[
         "Erzincan"
+    ],
+    "name:oss_x_preferred":[
+        "\u042d\u0440\u0437\u0438\u043d\u0434\u0436\u0430\u043d"
     ],
     "name:ota_x_preferred":[
         "\u0627\u0631\u0632\u0646\u062c\u0627\u0646"
@@ -200,6 +227,12 @@
     "name:sin_x_preferred":[
         "\u0d91\u0dbb\u0dca\u0dc3\u0dd2\u0db1\u0dca\u0d9a\u0dd0\u0db1\u0dca"
     ],
+    "name:slv_x_preferred":[
+        "Erzincan"
+    ],
+    "name:som_x_preferred":[
+        "Arzanjaan"
+    ],
     "name:spa_x_preferred":[
         "Erzincan"
     ],
@@ -215,11 +248,20 @@
     "name:swe_x_preferred":[
         "Erzincan"
     ],
+    "name:szl_x_preferred":[
+        "Erzincan"
+    ],
     "name:tam_x_preferred":[
         "\u0baf\u0bc7\u0bb0\u0bcd\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0ba9\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u042d\u0440\u0437\u0438\u043d\u0497\u0430\u043d"
+    ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c30\u0c4d\u0c1c\u0c3f\u0c02\u0c1a\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0440\u0437\u0430\u043d\u04b7\u043e\u043d"
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e2d\u0e23\u0e4c\u0e0b\u0e34\u0e19\u0e08\u0e32\u0e19"
@@ -228,6 +270,9 @@
         "\u0e41\u0e2d\u0e23\u0e4c\u0e0b\u0e34\u0e19\u0e08\u0e31\u0e19"
     ],
     "name:tur_x_preferred":[
+        "Erzincan"
+    ],
+    "name:twi_x_preferred":[
         "Erzincan"
     ],
     "name:udm_x_preferred":[
@@ -242,11 +287,17 @@
     "name:urd_x_preferred":[
         "\u0627\u0631\u0632\u0646\u062c\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Erzincan"
+    ],
     "name:vie_x_preferred":[
         "Erzincan"
     ],
     "name:war_x_preferred":[
         "Erzincan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u57c3\u5c14\u6d25\u8a79"
     ],
     "name:zho_x_preferred":[
         "\u57c3\u5c14\u6d25\u8a79"
@@ -296,7 +347,7 @@
         }
     ],
     "wof:id":890462687,
-    "wof:lastmodified":1636499862,
+    "wof:lastmodified":1690875210,
     "wof:name":"Erzincan",
     "wof:parent_id":890461769,
     "wof:placetype":"locality",

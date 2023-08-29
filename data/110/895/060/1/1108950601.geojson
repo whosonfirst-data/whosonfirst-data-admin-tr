@@ -31,6 +31,15 @@
     "name:cat_x_preferred":[
         "Ye\u015filk\u00f6y"
     ],
+    "name:ces_x_preferred":[
+        "Ye\u015filk\u00f6y"
+    ],
+    "name:che_x_preferred":[
+        "\u0419\u0435\u0448\u0438\u043b\u043a\u043e\u044c\u0439"
+    ],
+    "name:dan_x_preferred":[
+        "Ye\u015filk\u00f6y"
+    ],
     "name:deu_x_preferred":[
         "Ye\u015filk\u00f6y"
     ],
@@ -51,6 +60,9 @@
     ],
     "name:fas_x_preferred":[
         "\u06cc\u0627\u0634\u06cc\u0644\u200c\u06a9\u0648\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Ye\u015filk\u00f6y"
     ],
     "name:fra_x_preferred":[
         "Ye\u015filk\u00f6y"
@@ -73,6 +85,9 @@
     "name:oss_x_preferred":[
         "\u0415\u0448\u0438\u043b\u044c\u043a\u0451\u0439"
     ],
+    "name:pnb_x_preferred":[
+        "\u06cc\u0626\u0634\u06cc\u0644\u06a9\u0648\u0626\u06d2"
+    ],
     "name:por_x_preferred":[
         "Ye\u015filk\u00f6y"
     ],
@@ -85,6 +100,9 @@
     "name:spa_x_preferred":[
         "Ye\u015filk\u00f6y"
     ],
+    "name:tat_x_preferred":[
+        "\u0415\u0448\u0438\u043b\u043a\u04e9\u0439"
+    ],
     "name:tur_x_preferred":[
         "Ye\u015filk\u00f6y"
     ],
@@ -93,6 +111,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06cc\u0626\u0634\u06cc\u0644\u06a9\u0648\u0626\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Ye\u015filk\u00f6y"
     ],
     "name:zho_x_preferred":[
         "\u8036\u897f\u52d2\u5ed3\u4f0a"
@@ -105,11 +126,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -132,7 +153,7 @@
         }
     ],
     "wof:id":1108950601,
-    "wof:lastmodified":1678400744,
+    "wof:lastmodified":1690874971,
     "wof:name":"Yesilkoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

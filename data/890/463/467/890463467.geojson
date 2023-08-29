@@ -44,6 +44,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0631\u064a\u064a\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Sar\u0131yer"
+    ],
     "name:aze_x_preferred":[
         "Sar\u0131yer rayonu"
     ],
@@ -53,11 +59,17 @@
     "name:ceb_x_preferred":[
         "Sar\u0131yer"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0430\u0440\u0438\u0439\u0435\u0440"
+    ],
     "name:deu_x_preferred":[
         "Sar\u0131yer"
     ],
     "name:diq_x_preferred":[
         "Sar\u0131yer"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03c1\u03b9\u03b3\u03ad\u03c1"
     ],
     "name:eng_x_preferred":[
         "Sariyer"
@@ -71,11 +83,20 @@
     "name:fra_x_preferred":[
         "Sar\u0131yer"
     ],
+    "name:glg_x_preferred":[
+        "Sar\u0131yer"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05d9\u05e8"
+    ],
     "name:hun_x_preferred":[
         "Sar\u0131yer"
     ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u0580\u056b\u0565\u0580"
+    ],
+    "name:hye_x_variant":[
+        "\u054d\u0561\u0580\u0568\u0575\u0565\u0580"
     ],
     "name:ind_x_preferred":[
         "Sar\u0131yer"
@@ -88,6 +109,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30eb\u30a4\u30a8\u30eb"
+    ],
+    "name:kur_x_preferred":[
+        "Sar\u0131yer"
     ],
     "name:lav_x_preferred":[
         "Sarijeras rajons"
@@ -125,11 +149,17 @@
     "name:swa_x_preferred":[
         "Sar\u0131yer"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0430\u0440\u044b\u0435\u0440"
+    ],
     "name:tur_x_preferred":[
         "Sar\u0131yer"
     ],
     "name:ukr_x_preferred":[
         "\u0441\u0430\u0440'\u0454\u0440"
+    ],
+    "name:ukr_x_variant":[
+        "\u0421\u0430\u0440\u0438\u0454\u0440"
     ],
     "name:urd_x_preferred":[
         "\u0633\u0627\u0631\u06cc\u06cc\u0631"
@@ -201,7 +231,7 @@
         }
     ],
     "wof:id":890463467,
-    "wof:lastmodified":1678400606,
+    "wof:lastmodified":1690875120,
     "wof:name":"Sar\u0131yer",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

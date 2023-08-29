@@ -141,6 +141,9 @@
     "name:fra_x_preferred":[
         "Bal\u0131kesir"
     ],
+    "name:frr_x_preferred":[
+        "Bal\u0131kesir"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Bal\u0131kesir"
     ],
@@ -163,7 +166,11 @@
         "\u0532\u0561\u056c\u0568\u0584\u0565\u057d\u056b\u0580\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u0532\u0561\u056c\u0568\u0584\u0565\u057d\u056b\u0580"
+        "\u0532\u0561\u056c\u0568\u0584\u0565\u057d\u056b\u0580",
+        "\u0532\u0561\u056c\u0568\u0584\u0565\u057d\u056b\u0580\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u056c\u0568\u0584\u0567\u057d\u056b\u0580"
     ],
     "name:ind_x_preferred":[
         "Provinsi Bal\u0131kesir"
@@ -348,6 +355,12 @@
     "name:war_x_preferred":[
         "Bal\u0131kesir"
     ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u52d2\u514b\u57c3\u897f\u5c14\u7701"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10da\u10d8\u10e5\u10d4\u10e1\u10d8\u10e0\u10d8\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:yue_x_preferred":[
         "\u5df4\u52d2\u514b\u57c3\u897f\u723e\u7701"
     ],
@@ -463,7 +476,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5284cbc0f869d20030c5f6d0725179e4",
+    "wof:geomhash":"5d1713281d19e0b07e62df7b0be77c07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -478,7 +491,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351678,
+    "wof:lastmodified":1690874939,
     "wof:name":"Balikesir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

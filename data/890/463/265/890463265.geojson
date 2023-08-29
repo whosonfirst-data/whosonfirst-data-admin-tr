@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0644\u064a\u0627 \u062c\u0644\u0628\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0644\u064a\u0627 \u062c\u0644\u0628\u0649"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0648\u0644\u06cc\u0627 \u0686\u0644\u0628\u06cc"
     ],
     "name:aze_x_preferred":[
         "\u00d6vliya \u00c7\u0259l\u0259bi"
+    ],
+    "name:bak_x_preferred":[
+        "\u04d8\u04af\u043b\u0438\u04d9 \u0427\u0435\u043b\u0435\u0431\u0438"
     ],
     "name:ben_x_preferred":[
         "\u0987\u09ad\u09b2\u09bf\u09af\u09bc\u09be \u09b8\u09c7\u09b2\u09c7\u09ac\u09bf"
@@ -45,6 +51,9 @@
     ],
     "name:ces_x_preferred":[
         "Evlija \u010celebi"
+    ],
+    "name:dan_x_preferred":[
+        "Evliya \u00c7elebi"
     ],
     "name:deu_x_preferred":[
         "Evliya \u00c7elebi"
@@ -118,6 +127,9 @@
     "name:nld_x_preferred":[
         "Evliya \u00c7elebi"
     ],
+    "name:nno_x_preferred":[
+        "Evliya \u00c7elebi"
+    ],
     "name:nob_x_preferred":[
         "Evliya \u00c7elebi"
     ],
@@ -157,6 +169,12 @@
     "name:swe_x_preferred":[
         "Evliya \u00c7elebi"
     ],
+    "name:tat_x_preferred":[
+        "\u04d8\u0432\u043b\u0438\u044f \u0427\u04d9\u043b\u04d9\u0431\u0438"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0432\u043b\u0438\u0451 \u0427\u0430\u043b\u0430\u0431\u04e3"
+    ],
     "name:tur_x_preferred":[
         "Evliya \u00c7elebi"
     ],
@@ -171,6 +189,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7231\u7ef4\u4e9a\u00b7\u745f\u52d2\u6bd4"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u592b\u5229\u4e9a\u00b7\u5207\u83b1\u6bd4"
     ],
     "qs:name":"Evliya \u00c7elebi",
     "qs:name_adm0":"Turkey",
@@ -212,7 +233,7 @@
         }
     ],
     "wof:id":890463265,
-    "wof:lastmodified":1566586253,
+    "wof:lastmodified":1690875123,
     "wof:name":"Evliya \u00c7elebi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

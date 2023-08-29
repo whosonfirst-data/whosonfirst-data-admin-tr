@@ -23,11 +23,20 @@
     "name:ara_x_preferred":[
         "\u0622\u0642 \u0633\u0631\u0627\u064a"
     ],
+    "name:aze_x_preferred":[
+        "Aksaray"
+    ],
     "name:bul_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0440\u0430\u0439"
+    ],
+    "name:che_x_preferred":[
         "\u0410\u043a\u0441\u0430\u0440\u0430\u0439"
     ],
     "name:deu_x_preferred":[
         "Aksaray"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03ba\u03c3\u03b1\u03c1\u03ac\u03b9"
     ],
     "name:eng_x_preferred":[
         "Aksaray"
@@ -50,10 +59,16 @@
     "name:ita_x_preferred":[
         "Aksaray"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30af\u30b5\u30e9\u30a4"
+    ],
     "name:mkd_x_preferred":[
         "\u0410\u043a\u0441\u0430\u0440\u0430\u0458"
     ],
     "name:por_x_preferred":[
+        "Aksaray"
+    ],
+    "name:ron_x_preferred":[
         "Aksaray"
     ],
     "name:rus_x_preferred":[
@@ -64,6 +79,15 @@
     ],
     "name:tur_x_preferred":[
         "Aksaray"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043a\u0441\u0430\u0440\u0430\u0439"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0642 \u0633\u0631\u0627\u0626\u06d2"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10e5\u10e1\u10d0\u10e0\u10d0\u10d8"
     ],
     "qs:name":"Aksaray",
     "qs:name_adm0":"Turkey",
@@ -89,11 +113,11 @@
     "wd:longitude":"34.033333333",
     "wd:wordcount":1618,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -120,7 +144,7 @@
         }
     ],
     "wof:id":890462069,
-    "wof:lastmodified":1678401263,
+    "wof:lastmodified":1690875249,
     "wof:name":"Aksaray",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

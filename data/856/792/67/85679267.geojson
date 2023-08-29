@@ -62,11 +62,15 @@
     "name:ast_x_preferred":[
         "Provincia d'Afyonkarahisar"
     ],
+    "name:ast_x_variant":[
+        "provincia d'Afyonkarahisar"
+    ],
     "name:aze_x_preferred":[
         "Afyonkarahisar ili"
     ],
     "name:aze_x_variant":[
-        "Afyonkarahisar vilay\u0259ti"
+        "Afyonkarahisar vilay\u0259ti",
+        "Afyonqarahisar ili"
     ],
     "name:bak_x_preferred":[
         "\u0410\u0444\u0439\u043e\u043d\u043a\u0430\u0440\u0430\u04bb\u0438\u0441\u0430\u0440"
@@ -100,6 +104,9 @@
     ],
     "name:ces_x_variant":[
         "Provincie Afyonkarahisar"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0444\u0439\u043e\u043d\u043a\u0430\u0440\u0430\u0445\u04c0\u0438\u0441\u0430\u0440"
     ],
     "name:chv_x_preferred":[
         "\u0410\u0444\u044c\u043e\u043d"
@@ -149,6 +156,9 @@
     "name:fra_x_preferred":[
         "Afyonkarahisar"
     ],
+    "name:frr_x_preferred":[
+        "Afyonkarahisar"
+    ],
     "name:glg_x_preferred":[
         "Provincia de Afyonkarahisar"
     ],
@@ -161,17 +171,26 @@
     "name:heb_x_preferred":[
         "\u05d0\u05e4\u05d9\u05d5\u05e0\u05e7\u05e8\u05d0\u05d4\u05d9\u05e1\u05d0\u05e8"
     ],
+    "name:heb_x_variant":[
+        "\u05d0\u05e4\u05d9\u05d5\u05e0\u05e7\u05e8\u05d4\u05d9\u05e1\u05d0\u05e8"
+    ],
     "name:hif_x_preferred":[
         "Afyonkarahisar Praant"
     ],
     "name:hin_x_preferred":[
         "\u090f\u092b\u094d\u092f\u094b\u0902\u0915\u0930\u093e\u0939\u093f\u0938\u0930 \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
+    "name:hrv_x_preferred":[
+        "Afyonkarahisar"
+    ],
     "name:hun_x_preferred":[
         "Afyonkarahisar"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0586\u056b\u0578\u0576\u056f\u0561\u0580\u0561\u0570\u056b\u057d\u0561\u0580\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0586\u0575\u0578\u0576\u0584\u0561\u0580\u0561\u0570\u056b\u057d\u0561\u0580\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi Afyonkarahisar"
@@ -208,6 +227,9 @@
     ],
     "name:kor_x_variant":[
         "\uc544\ud53c\uc628\uce74\ub77c\ud788\uc0ac\ub974\uc8fc"
+    ],
+    "name:kur_x_preferred":[
+        "par\u00eazgeha Afyonkarahisar\u00ea"
     ],
     "name:lat_x_preferred":[
         "Acroenus"
@@ -302,6 +324,9 @@
     "name:tam_x_preferred":[
         "\u0b85\u0baa\u0bbf\u0baf\u0bcb\u0ba9\u0bcd\u0b95\u0bb0\u0bcd\u0bb9\u0bbf\u0bb7\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b85\u0baa\u0bbf\u0baf\u0bcb\u0ba9\u0bcd\u0b95\u0bb0\u0bbe\u0bb9\u0bbf\u0b9a\u0bb0\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c06\u0c2b\u0c4d\u0c2f\u0c4b\u0c02\u0c15\u0c3e\u0c30\u0c3e\u0c39\u0c3f\u0c38\u0c30\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -344,6 +369,9 @@
     ],
     "name:war_x_preferred":[
         "Afyonkarahisar"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u83f2\u6c38\u5361\u62c9\u5e0c\u8428\u5c14\u7701"
     ],
     "name:xmf_x_preferred":[
         "\u10d0\u10e4\u10d8\u10dd\u10dc-\u10e7\u10d0\u10e0\u10d0\u10f0\u10d8\u10e1\u10d0\u10e0\u10d8\u10e8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
@@ -467,7 +495,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c9e0857bc061875dd1d68cf3e1a7ad9d",
+    "wof:geomhash":"ea17314b8672d1bd3252e8711a81cf96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -482,7 +510,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351679,
+    "wof:lastmodified":1690874938,
     "wof:name":"Afyonkarahisar",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

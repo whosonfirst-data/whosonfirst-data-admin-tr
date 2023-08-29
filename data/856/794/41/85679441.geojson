@@ -104,6 +104,9 @@
     "name:crh_x_preferred":[
         "\u015eanl\u0131urfa"
     ],
+    "name:cym_x_preferred":[
+        "Talaith \u015eanl\u0131urfa"
+    ],
     "name:dan_x_preferred":[
         "\u015eanl\u0131urfa Province"
     ],
@@ -141,6 +144,9 @@
     "name:fra_x_preferred":[
         "\u015eanl\u0131urfa"
     ],
+    "name:frr_x_preferred":[
+        "\u015eanl\u0131urfa"
+    ],
     "name:gag_x_preferred":[
         "\u015eann\u0131urfa"
     ],
@@ -149,6 +155,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05e0\u05dc\u05d9\u05d5\u05e8\u05e4\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05e0\u05e4\u05ea \u05e9\u05e0\u05dc\u05d0\u05d5\u05e8\u05e4\u05d4"
     ],
     "name:hif_x_preferred":[
         "\u015eanl\u0131urfa Praant"
@@ -163,7 +172,8 @@
         "\u0547\u0561\u0576\u056c\u0568\u0578\u0582\u0580\u0586\u0561"
     ],
     "name:hye_x_variant":[
-        "\u0548\u0582\u057c\u0570\u0561\u0575\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
+        "\u0548\u0582\u057c\u0570\u0561\u0575\u056b \u0576\u0561\u0570\u0561\u0576\u0563",
+        "\u0547\u0561\u0576\u056c\u0568\u0578\u0582\u0580\u0586\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi \u015eanl\u0131urfa"
@@ -209,6 +219,9 @@
     ],
     "name:mkd_x_preferred":[
         "\u0428\u0430\u043d\u043b\u0443\u0440\u0444\u0430"
+    ],
+    "name:mkd_x_variant":[
+        "\u0428\u0430\u043d\u043b\u0430\u0443\u0440\u0444\u0430"
     ],
     "name:mrj_x_preferred":[
         "\u0428\u0430\u043d\u043b\u044b\u0443\u0440\u0444\u0430"
@@ -273,6 +286,9 @@
     "name:tam_x_preferred":[
         "\u0b86\u0ba9\u0bcd\u0bb2\u0bc8\u0ba9\u0bc1\u0bb0\u0baa\u0bbf\u0b86 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bbe\u0ba9\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd\u0baa\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3e\u0c28\u0c4d\u0c32\u0c41\u0c30\u0c4d\u0c2b\u0c3e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -317,6 +333,9 @@
     ],
     "name:war_x_preferred":[
         "\u015eanl\u0131urfa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5c1a\u52d2\u4e4c\u5c14\u6cd5\u7701"
     ],
     "name:yue_x_preferred":[
         "\u5c1a\u52d2\u70cf\u723e\u6cd5\u7701"
@@ -433,7 +452,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"17eaa5813cb5d2ecfbcc195292566df8",
+    "wof:geomhash":"c06124a66c94117f59b4a9f58059ca35",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -448,7 +467,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351681,
+    "wof:lastmodified":1690874932,
     "wof:name":"Sanliurfa",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

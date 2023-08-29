@@ -31,6 +31,9 @@
     "name:ast_x_preferred":[
         "Merkez"
     ],
+    "name:aze_x_preferred":[
+        "M\u0259rk\u0259z"
+    ],
     "name:bar_x_preferred":[
         "Merkez"
     ],
@@ -94,6 +97,9 @@
     "name:hrv_x_preferred":[
         "Merkez"
     ],
+    "name:hun_x_preferred":[
+        "Merkez"
+    ],
     "name:ido_x_preferred":[
         "Merkez"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:ita_x_preferred":[
         "Merkez"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30eb\u30b1\u30b9"
     ],
     "name:kon_x_preferred":[
         "Merkez"
@@ -228,11 +237,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -258,7 +267,7 @@
         }
     ],
     "wof:id":1108950019,
-    "wof:lastmodified":1678400635,
+    "wof:lastmodified":1690874964,
     "wof:name":"Merkez",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

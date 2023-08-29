@@ -23,6 +23,15 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646\u0648\u0628"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0646\u0648\u0628"
+    ],
+    "name:ast_x_preferred":[
+        "Sinop"
+    ],
+    "name:azb_x_preferred":[
+        "\u0633\u06cc\u0646\u0648\u067e"
+    ],
     "name:aze_x_preferred":[
         "Sinop"
     ],
@@ -47,10 +56,19 @@
     "name:ces_x_preferred":[
         "Sinop"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0438\u043d\u043e\u043f"
+    ],
+    "name:crh_x_preferred":[
+        "Sinop"
+    ],
     "name:dan_x_preferred":[
         "Sinop"
     ],
     "name:deu_x_preferred":[
+        "Sinop"
+    ],
+    "name:diq_x_preferred":[
         "Sinop"
     ],
     "name:ell_x_preferred":[
@@ -107,6 +125,9 @@
     "name:jpn_x_preferred":[
         "\u30b9\u30a3\u30ce\u30d7"
     ],
+    "name:kaa_x_preferred":[
+        "Sinop"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0ca8\u0cca\u0caa\u0ccd"
     ],
@@ -161,6 +182,9 @@
     "name:nob_x_preferred":[
         "Sinop"
     ],
+    "name:oss_x_preferred":[
+        "\u0421\u0438\u043d\u043e\u043f"
+    ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0646\u0648\u067e"
     ],
@@ -203,6 +227,9 @@
     "name:spa_x_variant":[
         "Sinop"
     ],
+    "name:sqi_x_preferred":[
+        "Sinopi"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0438\u043d\u043e\u043f"
     ],
@@ -218,11 +245,20 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0ba9\u0bcb\u0baa\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u043d\u043e\u043f"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c28\u0c3f\u0c2a\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0438\u043d\u043e\u043f"
+    ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e35\u0e19\u0e2d\u0e1b"
+    ],
+    "name:tha_x_variant":[
+        "\u0e0b\u0e35\u0e19\u0e2d\u0e1e"
     ],
     "name:tuk_x_preferred":[
         "Sinop"
@@ -248,11 +284,20 @@
     "name:urd_x_variant":[
         "\u0633\u06cc\u0646\u0648\u067e"
     ],
+    "name:uzb_x_preferred":[
+        "Sinop"
+    ],
     "name:vie_x_preferred":[
         "Sinop"
     ],
     "name:war_x_preferred":[
         "Sinop"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9521\u8bfa\u666e"
+    ],
+    "name:yue_x_preferred":[
+        "\u932b\u8afe\u666e"
     ],
     "name:zho_cn_x_preferred":[
         "\u897f\u8bfa\u666e"
@@ -407,7 +452,7 @@
         }
     ],
     "wof:id":101910983,
-    "wof:lastmodified":1636499858,
+    "wof:lastmodified":1690875060,
     "wof:name":"Sinop",
     "wof:parent_id":890461085,
     "wof:placetype":"locality",

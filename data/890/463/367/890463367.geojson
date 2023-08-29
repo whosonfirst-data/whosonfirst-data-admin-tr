@@ -23,11 +23,20 @@
     "name:cat_x_preferred":[
         "Priapos"
     ],
+    "name:cat_x_variant":[
+        "Karabiga"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0438\u0433\u0430"
+    ],
     "name:deu_x_preferred":[
         "Karabiga"
     ],
     "name:ell_x_preferred":[
         "\u03a0\u03c1\u03af\u03b1\u03c0\u03bf\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u039a\u03b1\u03c1\u03b1\u03bc\u03c0\u03b9\u03b3\u03ba\u03ac"
     ],
     "name:eng_x_preferred":[
         "Karabiga"
@@ -38,8 +47,14 @@
     "name:nld_x_preferred":[
         "Karabiga"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0438\u0433\u0430"
+    ],
     "name:spa_x_preferred":[
         "Karabiga"
+    ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0431\u0438\u0433\u0430"
     ],
     "name:tur_x_preferred":[
         "Karabiga"
@@ -49,6 +64,9 @@
     ],
     "name:vie_x_preferred":[
         "Karabiga"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u6bd4\u52a0"
     ],
     "qs:name":"Karabi\u011fa",
     "qs:name_adm0":"Turkey",
@@ -90,7 +108,7 @@
         }
     ],
     "wof:id":890463367,
-    "wof:lastmodified":1566586239,
+    "wof:lastmodified":1690875109,
     "wof:name":"Karabi\u011fa",
     "wof:parent_id":890463247,
     "wof:placetype":"locality",

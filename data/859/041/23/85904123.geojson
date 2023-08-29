@@ -48,6 +48,9 @@
     "name:ces_x_preferred":[
         "Karag\u00fcmr\u00fck"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0433\u0443\u044c\u043c\u0440\u0443\u044c\u043a"
+    ],
     "name:cym_x_preferred":[
         "Karag\u00fcmr\u00fck"
     ],
@@ -107,6 +110,9 @@
     ],
     "name:ita_x_preferred":[
         "Karag\u00fcmr\u00fck"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30ae\u30e5\u30e0\u30ea\u30e5\u30af"
     ],
     "name:lav_x_preferred":[
         "Karag\u00fcmr\u00fck"
@@ -169,6 +175,9 @@
         "Karaguemruek",
         "Karagumruk"
     ],
+    "name:zho_x_preferred":[
+        "\u5361\u62c9\u5c45\u59c6\u5415\u514b"
+    ],
     "reversegeo:latitude":41.025237,
     "reversegeo:longitude":28.933278,
     "src:geom":"whosonfirst",
@@ -178,11 +187,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":67,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -211,7 +220,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401065,
+    "wof:lastmodified":1690874897,
     "wof:name":"Karagumruk",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

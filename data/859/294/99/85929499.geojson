@@ -26,6 +26,12 @@
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0424\u0435\u0440\u0438\u043a\u044c\u043e\u0439"
+    ],
+    "name:che_x_preferred":[
+        "\u0424\u0435\u0440\u0438\u043a\u043e\u044c\u0439"
+    ],
     "name:eng_x_colloquial":[
         "Ferikoy"
     ],
@@ -35,11 +41,20 @@
     "name:eng_x_variant":[
         "Ferik\u00f6y"
     ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a7\u30ea\u30ad\u30e7\u30a4"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u0435\u0440\u0438\u043a\u0451\u0439"
+    ],
     "name:tur_x_preferred":[
         "Ferik\u00f6y"
     ],
     "name:tur_x_variant":[
         "Ferikoy"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0631\u06cc \u06a9\u0648\u0626\u06d2"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -74,11 +89,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":13,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,7 +120,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401152,
+    "wof:lastmodified":1690874903,
     "wof:name":"Ferikoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

@@ -29,11 +29,26 @@
     "name:arg_x_preferred":[
         "Pneumatico"
     ],
+    "name:ast_x_preferred":[
+        "neum\u00e1ticu"
+    ],
+    "name:azb_x_preferred":[
+        "\u062a\u0627\u06cc\u0631"
+    ],
     "name:bel_x_preferred":[
         "\u0430\u045e\u0442\u0430\u043c\u0430\u0431\u0456\u043b\u044c\u043d\u0430\u044f \u0448\u044b\u043d\u0430"
     ],
+    "name:bel_x_variant":[
+        "\u0448\u044b\u043d\u0430"
+    ],
+    "name:ben_x_preferred":[
+        "\u099f\u09be\u09af\u09bc\u09be\u09b0"
+    ],
     "name:bul_x_preferred":[
         "\u0410\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u043d\u0430 \u0433\u0443\u043c\u0430"
+    ],
+    "name:bul_x_variant":[
+        "\u0433\u0443\u043c\u0430"
     ],
     "name:cat_x_preferred":[
         "pneum\u00e0tic"
@@ -41,11 +56,23 @@
     "name:ces_x_preferred":[
         "pneumatika"
     ],
+    "name:chv_x_preferred":[
+        "\u0448\u044b\u043d"
+    ],
+    "name:dag_x_preferred":[
+        "k\u0254bili"
+    ],
     "name:dan_x_preferred":[
         "D\u00e6k"
     ],
+    "name:dan_x_variant":[
+        "d\u00e6k"
+    ],
     "name:deu_x_preferred":[
         "Reifen"
+    ],
+    "name:ell_x_preferred":[
+        "\u03b5\u03bb\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc"
     ],
     "name:eng_x_preferred":[
         "tire"
@@ -53,17 +80,29 @@
     "name:epo_x_preferred":[
         "Pne\u016do"
     ],
+    "name:epo_x_variant":[
+        "pne\u016do"
+    ],
     "name:est_x_preferred":[
         "Rehv"
     ],
+    "name:est_x_variant":[
+        "rehv"
+    ],
     "name:eus_x_preferred":[
         "Pneumatiko"
+    ],
+    "name:eus_x_variant":[
+        "pneumatiko"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06cc\u0631"
     ],
     "name:fin_x_preferred":[
         "Rengas"
+    ],
+    "name:fin_x_variant":[
+        "rengas"
     ],
     "name:fra_x_preferred":[
         "pneumatique"
@@ -74,8 +113,14 @@
     "name:gle_x_preferred":[
         "Bonn"
     ],
+    "name:gle_x_variant":[
+        "bonn"
+    ],
     "name:glg_x_preferred":[
         "Pneum\u00e1tico"
+    ],
+    "name:glg_x_variant":[
+        "pneum\u00e1tico"
     ],
     "name:heb_x_preferred":[
         "\u05e6\u05de\u05d9\u05d2"
@@ -86,14 +131,35 @@
     "name:hrv_x_preferred":[
         "Automobilske gume"
     ],
+    "name:hrv_x_variant":[
+        "gume"
+    ],
+    "name:hsb_x_preferred":[
+        "wobru\u010d"
+    ],
     "name:hun_x_preferred":[
         "Gumiabroncs"
+    ],
+    "name:hun_x_variant":[
+        "gumiabroncs"
+    ],
+    "name:ina_x_preferred":[
+        "Pneumatico"
     ],
     "name:ind_x_preferred":[
         "Ban"
     ],
+    "name:ind_x_variant":[
+        "ban"
+    ],
+    "name:isl_x_preferred":[
+        "hj\u00f3lbar\u00f0i"
+    ],
     "name:ita_x_preferred":[
         "Pneumatico"
+    ],
+    "name:ita_x_variant":[
+        "pneumatico"
     ],
     "name:jav_x_preferred":[
         "Ban"
@@ -119,14 +185,23 @@
     "name:lit_x_preferred":[
         "Padanga"
     ],
+    "name:ltz_x_preferred":[
+        "Pneu"
+    ],
     "name:mal_x_preferred":[
         "\u0d1f\u0d2f\u0d7c"
     ],
     "name:min_x_preferred":[
         "Tire"
     ],
+    "name:mkd_x_preferred":[
+        "\u0430\u0432\u0442\u043e\u0433\u0443\u043c\u0430"
+    ],
     "name:mon_x_preferred":[
         "\u0410\u0432\u0442\u043e\u043c\u0430\u0448\u0438\u043d\u044b \u0434\u0443\u0433\u0443\u0439"
+    ],
+    "name:mon_x_variant":[
+        "\u0434\u0443\u0433\u0443\u0439"
     ],
     "name:msa_x_preferred":[
         "Tayar"
@@ -136,6 +211,9 @@
     ],
     "name:nap_x_preferred":[
         "Pneumatico"
+    ],
+    "name:nap_x_variant":[
+        "pneumatico"
     ],
     "name:nep_x_preferred":[
         "\u091a\u0915\u094d\u0915\u093e"
@@ -152,8 +230,14 @@
     "name:oci_x_preferred":[
         "Pneumatic"
     ],
+    "name:oci_x_variant":[
+        "pneumatic"
+    ],
     "name:ota_x_preferred":[
         "\u062a\u06cc\u0631\u0647"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0679\u0627\u0626\u0631"
     ],
     "name:pol_x_preferred":[
         "opona pneumatyczna"
@@ -164,11 +248,20 @@
     "name:que_x_preferred":[
         "Qalla iruru"
     ],
+    "name:que_x_variant":[
+        "qalla iruru"
+    ],
     "name:ron_x_preferred":[
         "Anvelop\u0103"
     ],
+    "name:ron_x_variant":[
+        "anvelop\u0103"
+    ],
     "name:rus_x_preferred":[
         "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c\u043d\u0430\u044f \u0448\u0438\u043d\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0448\u0438\u043d\u0430"
     ],
     "name:sco_x_preferred":[
         "tyre"
@@ -179,14 +272,26 @@
     "name:slk_x_preferred":[
         "Pneumatika"
     ],
+    "name:slk_x_variant":[
+        "pneumatika"
+    ],
     "name:slv_x_preferred":[
         "Pnevmatika"
+    ],
+    "name:slv_x_variant":[
+        "pnevmatika"
     ],
     "name:snd_x_preferred":[
         "\u067d\u0627\u0626\u0631"
     ],
     "name:spa_x_preferred":[
         "Neum\u00e1tico"
+    ],
+    "name:spa_x_variant":[
+        "neum\u00e1tico"
+    ],
+    "name:sqi_x_preferred":[
+        "Goma"
     ],
     "name:srp_x_preferred":[
         "\u0433\u0443\u043c\u0430"
@@ -196,6 +301,9 @@
     ],
     "name:swe_x_preferred":[
         "D\u00e4ck"
+    ],
+    "name:swe_x_variant":[
+        "d\u00e4ck"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0bcd\u0b9f\u0b95\u0bc8"
@@ -209,14 +317,23 @@
     "name:ukr_x_preferred":[
         "\u0430\u0432\u0442\u043e\u0448\u0438\u043d\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0448\u0438\u043d\u0430"
+    ],
     "name:und_x_variant":[
         "Arcadiopolis"
     ],
     "name:urd_x_preferred":[
         "\u0679\u0627\u0626\u0631"
     ],
+    "name:uzb_x_preferred":[
+        "Shina"
+    ],
     "name:wuu_x_preferred":[
         "\u8f6e\u80ce"
+    ],
+    "name:yid_x_preferred":[
+        "\u05e8\u05d9\u05d9\u05e3"
     ],
     "name:yue_x_preferred":[
         "\u8eca\u8eda"
@@ -264,7 +381,7 @@
         }
     ],
     "wof:id":890463543,
-    "wof:lastmodified":1566586229,
+    "wof:lastmodified":1690875098,
     "wof:name":"Tire",
     "wof:parent_id":890462119,
     "wof:placetype":"locality",

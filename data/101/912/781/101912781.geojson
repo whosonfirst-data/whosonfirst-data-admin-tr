@@ -36,7 +36,8 @@
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u0432\u0430\u0441"
     ],
     "name:bel_x_variant":[
-        "\u0421\u044b\u0432\u0430\u0441"
+        "\u0421\u044b\u0432\u0430\u0441",
+        "\u0421\u0456\u0432\u0430\u0441"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09ad\u09be\u09b8"
@@ -56,8 +57,14 @@
     "name:ces_x_preferred":[
         "Sivas"
     ],
+    "name:che_x_preferred":[
+        "\u0421\u0438\u0432\u0430\u0441"
+    ],
     "name:ckb_x_preferred":[
         "\u0633\u06ce\u0648\u0627\u0633"
+    ],
+    "name:crh_x_preferred":[
+        "Sivas"
     ],
     "name:dan_x_preferred":[
         "Sivas"
@@ -77,6 +84,12 @@
     "name:epo_x_preferred":[
         "Sivas"
     ],
+    "name:est_x_preferred":[
+        "Sivas"
+    ],
+    "name:eus_x_preferred":[
+        "Sivas"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0648\u0627\u0633"
     ],
@@ -88,6 +101,12 @@
     ],
     "name:gag_x_preferred":[
         "Sivas"
+    ],
+    "name:gle_x_preferred":[
+        "Sivas"
+    ],
+    "name:grc_x_preferred":[
+        "\u03a3\u03b5\u03b2\u03ac\u03c3\u03c4\u03b5\u03b9\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab6\u0abf\u0ab5\u0abe\u0ab8"
@@ -121,6 +140,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b9\u30a3\u30f4\u30a1\u30b9"
+    ],
+    "name:kaa_x_preferred":[
+        "Sivas"
     ],
     "name:kan_x_preferred":[
         "\u0cb6\u0cbf\u0cb5\u0cbe\u0cb8\u0ccd"
@@ -158,6 +180,12 @@
     "name:min_x_preferred":[
         "Sivas"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0438\u0432\u0430\u0441"
+    ],
+    "name:mlt_x_preferred":[
+        "Sivas"
+    ],
     "name:mrj_x_preferred":[
         "\u0421\u0438\u0432\u0430\u0441"
     ],
@@ -165,6 +193,12 @@
         "Sivas"
     ],
     "name:nan_x_preferred":[
+        "Sivas"
+    ],
+    "name:nau_x_preferred":[
+        "Sivas"
+    ],
+    "name:nds_x_preferred":[
         "Sivas"
     ],
     "name:nld_x_preferred":[
@@ -181,6 +215,9 @@
     ],
     "name:oci_x_preferred":[
         "Sivas"
+    ],
+    "name:oss_x_preferred":[
+        "\u0421\u0438\u0432\u0430\u0441"
     ],
     "name:pnb_x_preferred":[
         "\u0633\u06cc\u0648\u0627\u0633"
@@ -206,6 +243,9 @@
     "name:sin_x_preferred":[
         "\u0dc3\u0dd2\u0dc0\u0dcf\u0dc3\u0dca"
     ],
+    "name:slk_x_preferred":[
+        "Sivas"
+    ],
     "name:slv_x_preferred":[
         "Sivas"
     ],
@@ -227,8 +267,14 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bb5\u0bbe\u0bb8\u0bcd"
     ],
+    "name:tat_x_preferred":[
+        "\u0421\u0438\u0432\u0430\u0441"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c35\u0c3e\u0c38\u0c4d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0421\u0438\u0432\u0430\u0441"
     ],
     "name:tgl_x_preferred":[
         "Sivas"
@@ -237,6 +283,9 @@
         "\u0e0b\u0e35\u0e27\u0e31\u0e2a"
     ],
     "name:tur_x_preferred":[
+        "Sivas"
+    ],
+    "name:twi_x_preferred":[
         "Sivas"
     ],
     "name:udm_x_preferred":[
@@ -254,11 +303,17 @@
     "name:uzb_x_preferred":[
         "Sivas"
     ],
+    "name:vec_x_preferred":[
+        "Sivas"
+    ],
     "name:vie_x_preferred":[
         "Sivas"
     ],
     "name:war_x_preferred":[
         "Sivas"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9521\u74e6\u65af"
     ],
     "name:zho_min_nan_x_preferred":[
         "Sivas"
@@ -408,7 +463,7 @@
         }
     ],
     "wof:id":101912781,
-    "wof:lastmodified":1636499855,
+    "wof:lastmodified":1690875047,
     "wof:name":"Sivas",
     "wof:parent_id":890462707,
     "wof:placetype":"locality",

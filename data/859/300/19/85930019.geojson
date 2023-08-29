@@ -28,12 +28,30 @@
     "mz:note":"see wikimapia",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
+    "name:che_x_preferred":[
+        "\u0410\u0442\u0430\u043a\u043e\u044c\u0439"
+    ],
     "name:eng_x_preferred":[
         "Atakoy 1."
     ],
     "name:eng_x_variant":[
         "Atak\u00f6y",
         "Atak\u00f6y 1."
+    ],
+    "name:ita_x_preferred":[
+        "Atak\u00f6y"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30bf\u30ad\u30e7\u30a4"
+    ],
+    "name:nld_x_preferred":[
+        "Atak\u00f6y"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0430\u043a\u0451\u0439"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0442\u0430\u043a\u04e9\u0439"
     ],
     "name:tur_x_preferred":[
         "Atak\u00f6y 1. k\u0131s\u0131m"
@@ -45,6 +63,12 @@
     ],
     "name:und_x_colloquial":[
         "Atakoy 1."
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0637\u0627\u06a9\u0648\u0626\u06d2"
+    ],
+    "name:uzb_x_preferred":[
+        "Atak\u00f6y"
     ],
     "name:zho_x_preferred":[
         "\u963f\u5854\u79d1\u4f0a"
@@ -82,11 +106,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -114,7 +138,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401191,
+    "wof:lastmodified":1690874890,
     "wof:name":"Atakoy 1.",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

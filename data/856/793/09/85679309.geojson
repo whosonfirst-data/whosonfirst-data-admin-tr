@@ -138,6 +138,9 @@
     "name:fra_x_preferred":[
         "Malatya"
     ],
+    "name:frr_x_preferred":[
+        "Malatya"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab2\u0abe\u0aa4\u0acd\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -157,7 +160,11 @@
         "\u0544\u0561\u056c\u0561\u0569\u056b\u0561\u0575\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u0544\u0561\u056c\u0561\u0569\u056b\u0561"
+        "\u0544\u0561\u056c\u0561\u0569\u056b\u0561",
+        "\u0544\u0561\u056c\u0561\u0569\u056b\u0561\u0575\u056b \u0574\u0561\u0580\u0566"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0544\u0561\u056c\u0561\u0569\u056b\u0578\u0575 \u0544\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi Malatya"
@@ -309,11 +316,17 @@
     "name:urd_x_variant":[
         "\u0645\u0627\u0644\u0627\u0637\u06cc\u06c1 \u0635\u0648\u0628\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Malatya"
+    ],
     "name:vie_x_preferred":[
         "Malatya"
     ],
     "name:war_x_preferred":[
         "Malatya"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u62c9\u8482\u4e9a\u7701"
     ],
     "name:yue_x_preferred":[
         "\u99ac\u62c9\u8482\u4e9e\u7701"
@@ -431,7 +444,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d24c2cca393d9bd5fb3a6a745f906f80",
+    "wof:geomhash":"0a131832890e3419774ef92c5e03ad56",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -446,7 +459,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351679,
+    "wof:lastmodified":1690874923,
     "wof:name":"Malatya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

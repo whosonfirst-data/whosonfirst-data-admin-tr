@@ -53,6 +53,9 @@
     "name:ara_x_preferred":[
         "\u0639\u062b\u0645\u0627\u0646\u064a\u0629"
     ],
+    "name:ast_x_preferred":[
+        "provincia d'Osmaniye"
+    ],
     "name:aze_x_preferred":[
         "Osmaniy\u0259 ili"
     ],
@@ -134,6 +137,9 @@
     "name:fra_x_preferred":[
         "Osmaniye"
     ],
+    "name:frr_x_preferred":[
+        "Osmaniye"
+    ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab8\u0acd\u0aae\u0abe\u0aa8\u0abf\u0aaf\u0abe \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
     ],
@@ -153,7 +159,8 @@
         "\u0555\u057d\u0574\u0561\u0576\u056b\u0575\u0565\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u0555\u057d\u0574\u0561\u0576\u056b\u0575\u0565"
+        "\u0555\u057d\u0574\u0561\u0576\u056b\u0575\u0565",
+        "\u0555\u057d\u0574\u0561\u0576\u056b\u0565\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi Osmaniye"
@@ -275,6 +282,9 @@
     "name:tgk_x_preferred":[
         "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041e\u0441\u043c\u0430\u043d\u0438\u0435"
     ],
+    "name:tgk_x_variant":[
+        "\u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0423\u0441\u043c\u043e\u043d\u0438\u044f"
+    ],
     "name:tgl_x_preferred":[
         "Osmaniye Province"
     ],
@@ -310,6 +320,9 @@
     ],
     "name:war_x_preferred":[
         "Osmaniye"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5965\u65af\u66fc\u5c3c\u8036\u7701"
     ],
     "name:yue_x_preferred":[
         "\u5967\u65af\u66fc\u5c3c\u8036\u7701"
@@ -429,7 +442,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b9f59827faf1b2a8b2f0a382cabe6bd4",
+    "wof:geomhash":"3860a708a6c344582fb789c43003825d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -444,7 +457,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351683,
+    "wof:lastmodified":1690874937,
     "wof:name":"Osmaniye",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -97,6 +97,9 @@
     "name:crh_x_preferred":[
         "\u015e\u0131rnak"
     ],
+    "name:cym_x_preferred":[
+        "Talaith \u015e\u0131rnak"
+    ],
     "name:dan_x_preferred":[
         "\u015e\u0131rnak Province"
     ],
@@ -111,6 +114,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03af\u03c1\u03bd\u03b1\u03ba"
+    ],
+    "name:ell_x_variant":[
+        "\u03a3\u03b9\u03c1\u03bd\u03ac\u03ba"
     ],
     "name:eng_x_preferred":[
         "Sirnak"
@@ -140,6 +146,9 @@
     "name:fra_x_preferred":[
         "\u015e\u0131rnak"
     ],
+    "name:frr_x_preferred":[
+        "\u015e\u0131rnak"
+    ],
     "name:gag_x_preferred":[
         "\u015e\u0131rnak"
     ],
@@ -162,7 +171,8 @@
         "\u0547\u0568\u0580\u0576\u0561\u0584\u056b \u0576\u0561\u0570\u0561\u0576\u0563"
     ],
     "name:hye_x_variant":[
-        "\u0547\u0568\u0580\u0576\u0561\u0584"
+        "\u0547\u0568\u0580\u0576\u0561\u0584",
+        "\u0547\u0568\u0580\u0576\u0561\u0584\u056b \u0574\u0561\u0580\u0566"
     ],
     "name:ind_x_preferred":[
         "Provinsi \u015e\u0131rnak"
@@ -275,6 +285,9 @@
     "name:tam_x_preferred":[
         "\u0b9a\u0bbf\u0bb0\u0ba3\u0bbe\u0b95 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b85\u0bb0\u0bcd\u0ba9\u0bbe\u0b95\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c38\u0c3f\u0c30\u0c4d\u0c28\u0c15\u0c4d \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -319,6 +332,9 @@
     ],
     "name:war_x_preferred":[
         "\u015e\u0131rnak"
+    ],
+    "name:wuu_x_preferred":[
+        "\u820d\u5c14\u7eb3\u514b\u7701"
     ],
     "name:yue_x_preferred":[
         "\u820d\u723e\u7d0d\u514b\u7701"
@@ -438,7 +454,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b1801c0620dca5be9a9776ef48dbe163",
+    "wof:geomhash":"c00189373564cf879b3f0f6e5d6e5ee3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -453,7 +469,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1684351682,
+    "wof:lastmodified":1690874928,
     "wof:name":"Sirnak",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

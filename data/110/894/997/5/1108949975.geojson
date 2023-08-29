@@ -31,6 +31,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0431\u0435\u043a"
     ],
+    "name:che_x_preferred":[
+        "\u0411\u0435\u0431\u0435\u043a"
+    ],
     "name:deu_x_preferred":[
         "Bebek"
     ],
@@ -46,6 +49,12 @@
     "name:hye_x_preferred":[
         "\u0532\u0565\u0562\u0565\u0584"
     ],
+    "name:ita_x_preferred":[
+        "Bebek"
+    ],
+    "name:jav_x_preferred":[
+        "Bebek"
+    ],
     "name:jpn_x_preferred":[
         "\u30d9\u30d9\u30c3\u30af"
     ],
@@ -58,11 +67,20 @@
     "name:rus_x_preferred":[
         "\u0411\u0435\u0431\u0435\u043a"
     ],
+    "name:swe_x_preferred":[
+        "Bebek"
+    ],
+    "name:tat_x_preferred":[
+        "\u0411\u0435\u0431\u0435\u043a"
+    ],
     "name:tur_x_preferred":[
         "Bebek"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0431\u0435\u043a"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u8d1d\u514b"
     ],
     "reversegeo:latitude":41.080769,
     "reversegeo:longitude":29.04191,
@@ -72,11 +90,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -99,7 +117,7 @@
         }
     ],
     "wof:id":1108949975,
-    "wof:lastmodified":1678400628,
+    "wof:lastmodified":1690874971,
     "wof:name":"Bebek",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

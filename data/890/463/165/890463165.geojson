@@ -20,6 +20,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":9.0,
+    "name:ast_x_preferred":[
+        "Kemalpa\u015fa"
+    ],
+    "name:aze_x_preferred":[
+        "Kamalpa\u015fa"
+    ],
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u043c\u0430\u043b\u044c\u043f\u0430\u0448\u0430"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0435\u043c\u0430\u043b\u043f\u0430\u0448\u0430"
     ],
@@ -28,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Kemalpa\u015fa"
+    ],
+    "name:che_x_preferred":[
+        "\u041a\u0435\u043c\u0430\u043b\u043f\u0430\u0448\u0430"
     ],
     "name:deu_x_preferred":[
         "Kemalpa\u015fa"
@@ -38,13 +50,25 @@
     "name:ell_x_preferred":[
         "\u039d\u03c5\u03bc\u03c6\u03b1\u03af\u03bf \u0399\u03c9\u03bd\u03af\u03b1\u03c2"
     ],
+    "name:ell_x_variant":[
+        "\u039a\u03b5\u03bc\u03ac\u03bb\u03c0\u03b1\u03c3\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Kemalpa\u015fa"
     ],
     "name:epo_x_preferred":[
         "Kemalpa\u015fa"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0645\u0627\u0644\u067e\u0627\u0634\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Kemalpa\u015fa"
+    ],
+    "name:gle_x_preferred":[
+        "Kemalpa\u015fa"
+    ],
+    "name:ita_x_preferred":[
         "Kemalpa\u015fa"
     ],
     "name:jpn_x_preferred":[
@@ -52,6 +76,9 @@
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0435\u043c\u0430\u043b\u044c\u043f\u0430\u0448\u0430"
+    ],
+    "name:kur_x_preferred":[
+        "Kemalpa\u015fa"
     ],
     "name:min_x_preferred":[
         "Kemalpa\u015fa"
@@ -74,6 +101,9 @@
     "name:por_x_preferred":[
         "Ninfeu"
     ],
+    "name:por_x_variant":[
+        "Kemalpa\u015fa"
+    ],
     "name:ron_x_preferred":[
         "Kemalpa\u015fa"
     ],
@@ -89,17 +119,26 @@
     "name:srp_x_preferred":[
         "\u041a\u0435\u043c\u0430\u043b\u043f\u0430\u0448\u0430"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0435\u043c\u0430\u043b\u043f\u0430\u0448\u0430"
+    ],
     "name:tur_x_preferred":[
         "Karabel"
     ],
     "name:tur_x_variant":[
         "Kemalpa\u015fa"
     ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0435\u043c\u0430\u043b\u044c\u043f\u0430\u0448\u0430"
+    ],
     "name:und_x_variant":[
         "Nymphaeum"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0645\u0627\u0644 \u067e\u0627\u0634\u0627"
+    ],
+    "name:vec_x_preferred":[
+        "Kemalpa\u015fa"
     ],
     "name:vie_x_preferred":[
         "Kemalpa\u015fa"
@@ -147,7 +186,7 @@
         }
     ],
     "wof:id":890463165,
-    "wof:lastmodified":1566586235,
+    "wof:lastmodified":1690875104,
     "wof:name":"Kemalpa\u015fa",
     "wof:parent_id":890464235,
     "wof:placetype":"locality",

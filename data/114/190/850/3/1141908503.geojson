@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"30.4150321032,40.7999760122,30.4150321032,40.7999760122",
+    "geom:bbox":"30.415032,40.799976,30.415032,40.799976",
     "geom:latitude":40.799976,
     "geom:longitude":30.415032,
     "iso:country":"TR",
@@ -23,6 +23,12 @@
     ],
     "name:ara_x_preferred":[
         "\u0622\u062f\u0627\u0628\u0627\u0632\u0627\u0631\u064a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0622\u062f\u0627\u0628\u0627\u0632\u0627\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Adapazar\u0131"
     ],
     "name:ava_x_preferred":[
         "\u0410\u0434\u0430\u043f\u0430\u0437\u0430\u0440\u044b"
@@ -53,6 +59,9 @@
     ],
     "name:ces_x_variant":[
         "Sakarya"
+    ],
+    "name:che_x_preferred":[
+        "\u0410\u0434\u0430\u043f\u0430\u0437\u0430\u0440\u0438"
     ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u062f\u0627\u067e\u0627\u0632\u0627\u0631\u06cc"
@@ -87,11 +96,20 @@
     "name:gag_x_preferred":[
         "Sakarya"
     ],
+    "name:gle_x_preferred":[
+        "Adapazar\u0131"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d3\u05e4\u05d6\u05e8\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Adapazar\u0131"
     ],
     "name:hye_x_preferred":[
         "\u0531\u0564\u0561\u0562\u0561\u0566\u0561\u0580"
+    ],
+    "name:hye_x_variant":[
+        "\u0531\u0564\u0561\u0583\u0561\u0566\u0561\u0580"
     ],
     "name:hyw_x_preferred":[
         "\u0531\u057f\u0561\u057a\u0561\u0566\u0561\u0580"
@@ -150,6 +168,9 @@
     "name:nob_x_preferred":[
         "Adapazar\u0131"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u0434\u0430\u043f\u0430\u0437\u0430\u0440\u044b"
+    ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0627\u062f\u0627\u067e\u0627\u0632\u0627\u0631\u06cc"
     ],
@@ -158,6 +179,9 @@
     ],
     "name:por_x_preferred":[
         "Adapazar\u0131"
+    ],
+    "name:pus_x_preferred":[
+        "\u0622\u062f\u0627\u067e\u0627\u0632\u0627\u0631\u064a"
     ],
     "name:ron_x_preferred":[
         "Adapazar\u0131"
@@ -180,6 +204,9 @@
     "name:spa_x_preferred":[
         "Adapazar\u0131"
     ],
+    "name:sqi_x_preferred":[
+        "Adapazari"
+    ],
     "name:srp_x_preferred":[
         "\u0410\u0434\u0430\u043f\u0430\u0437\u0430\u0440\u0438"
     ],
@@ -188,6 +215,15 @@
     ],
     "name:swe_x_preferred":[
         "Adapazar\u0131"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u0434\u0430\u043f\u0430\u0437\u0430\u0440\u044b"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u0434\u0430\u043f\u0430\u0437\u0430\u0440\u0438"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e14\u0e32\u0e1e\u0e32\u0e0b\u0e32\u0e23\u0e37\u0e2d"
     ],
     "name:tur_x_preferred":[
         "Adapazar\u0131"
@@ -204,11 +240,23 @@
     "name:uzb_x_preferred":[
         "Adapazari"
     ],
+    "name:vec_x_preferred":[
+        "Adapazar\u0131"
+    ],
     "name:vie_x_preferred":[
         "Adapazar\u0131"
     ],
     "name:war_x_preferred":[
         "Adapazar\u0131"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u8fbe\u5e15\u624e\u52d2"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10d3\u10d0\u10e4\u10d0\u10d6\u10d0\u10e0\u10d8"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u9054\u5e15\u624e\u91cc"
     ],
     "name:zho_x_preferred":[
         "\u963f\u8fbe\u5e15\u624e\u52d2"
@@ -321,7 +369,7 @@
     },
     "wof:country":"TR",
     "wof:created":1499130917,
-    "wof:geomhash":"0afd0e208f992b079914eb58204fd64d",
+    "wof:geomhash":"ef444566b012677e8397d30925029ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -332,7 +380,7 @@
         }
     ],
     "wof:id":1141908503,
-    "wof:lastmodified":1566588143,
+    "wof:lastmodified":1690875411,
     "wof:name":"Adapazari",
     "wof:parent_id":1108709241,
     "wof:placetype":"locality",
@@ -342,10 +390,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.41503210319928,
-    40.79997601222385,
-    30.41503210319928,
-    40.79997601222385
+    30.415032,
+    40.799976,
+    30.415032,
+    40.799976
 ],
-  "geometry": {"coordinates":[30.41503210319928,40.79997601222385],"type":"Point"}
+  "geometry": {"coordinates":[30.415032,40.799976],"type":"Point"}
 }

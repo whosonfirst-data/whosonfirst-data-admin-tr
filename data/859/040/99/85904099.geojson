@@ -108,8 +108,14 @@
     "name:rus_x_preferred":[
         "\u0424\u0435\u043d\u0435\u0440"
     ],
+    "name:rus_x_variant":[
+        "\u0424\u0430\u043d\u0430\u0440"
+    ],
     "name:spa_x_preferred":[
         "Fanar"
+    ],
+    "name:srp_x_preferred":[
+        "\u0424\u0430\u043d\u0430\u0440"
     ],
     "name:tur_x_preferred":[
         "Fener"
@@ -117,8 +123,14 @@
     "name:ukr_x_preferred":[
         "\u0424\u0430\u043d\u0430\u0440"
     ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0646\u0627\u0631"
+    ],
     "name:zho_x_preferred":[
         "\u82ac\u5185\u5c14"
+    ],
+    "name:zho_x_variant":[
+        "\u8d39\u5185\u5c14"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPLX",
@@ -175,11 +187,11 @@
     "wd:longitude":28.951944,
     "wd:wordcount":450,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -208,7 +220,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1678401061,
+    "wof:lastmodified":1690874898,
     "wof:name":"Fener",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

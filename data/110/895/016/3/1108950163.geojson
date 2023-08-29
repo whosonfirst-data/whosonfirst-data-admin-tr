@@ -25,26 +25,42 @@
     "name:ara_x_preferred":[
         "\u064a\u0646\u064a \u0643\u0648\u064a"
     ],
+    "name:bul_x_preferred":[
+        "\u0419\u0435\u043d\u0438\u043a\u044c\u043e\u0439"
+    ],
     "name:cat_x_preferred":[
         "Yenik\u00f6y"
     ],
+    "name:che_x_preferred":[
+        "\u0419\u0435\u043d\u0438\u043a\u043e\u044c\u0439"
+    ],
     "name:ell_x_preferred":[
         "\u039d\u03b5\u03bf\u03c7\u03ce\u03c1\u03b9 \u0392\u03bf\u03c3\u03c0\u03cc\u03c1\u03bf\u03c5"
+    ],
+    "name:ell_x_variant":[
+        "\u0393\u03b9\u03b5\u03bd\u03af\u03ba\u03b9\u03bf\u03ca"
     ],
     "name:eng_x_preferred":[
         "Yenikoy"
     ],
     "name:eng_x_variant":[
-        "Yenik\u00f6y of Bosporus"
+        "Yenik\u00f6y of Bosporus",
+        "Yenik\u00f6y"
     ],
     "name:fra_x_preferred":[
         "Yenik\u00f6y"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05e0\u05d9\u05e7\u05d9\u05d9"
     ],
     "name:ind_x_preferred":[
         "Yenik\u00f6y"
     ],
     "name:mkd_x_preferred":[
         "\u0408\u0435\u043d\u0438\u045c\u043e\u0458"
+    ],
+    "name:por_x_preferred":[
+        "Yenik\u00f6y"
     ],
     "name:rus_x_preferred":[
         "\u0419\u0435\u043d\u0438\u043a\u0451\u0439"
@@ -66,11 +82,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,7 +109,7 @@
         }
     ],
     "wof:id":1108950163,
-    "wof:lastmodified":1678400665,
+    "wof:lastmodified":1690874965,
     "wof:name":"Yenikoy",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

@@ -23,11 +23,20 @@
     "name:ara_x_preferred":[
         "\u062f\u0646\u064a\u0635\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0632\u064a\u0644\u062a\u064a\u067e\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "K\u0131z\u0131ltepe"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u06cc\u0632\u06cc\u0644\u200c\u062a\u067e\u0647"
     ],
     "name:bel_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b\u0442\u044d\u043f\u0435"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u044a\u0437\u044a\u043b\u0442\u0435\u043f\u0435"
     ],
     "name:cat_x_preferred":[
         "K\u0131z\u0131ltepe"
@@ -35,8 +44,14 @@
     "name:ceb_x_preferred":[
         "K\u0131z\u0131ltepe"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0438\u0437\u0438\u043b\u0442\u0435\u043f\u0435"
+    ],
     "name:deu_x_preferred":[
         "K\u0131z\u0131ltepe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03b6\u03af\u03bb\u03c4\u03b5\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "K\u0131z\u0131ltepe"
@@ -50,8 +65,20 @@
     "name:fra_x_preferred":[
         "K\u0131z\u0131ltepe"
     ],
+    "name:gag_x_preferred":[
+        "K\u0131z\u0131ltepe"
+    ],
+    "name:gle_x_preferred":[
+        "K\u0131z\u0131ltepe"
+    ],
     "name:hye_x_preferred":[
         "\u0539\u0565\u056c-\u0531\u0580\u0574\u0565\u0576"
+    ],
+    "name:hye_x_variant":[
+        "\u0539\u056b\u056c-\u0531\u0580\u0574\u0565\u0576"
+    ],
+    "name:ind_x_preferred":[
+        "K\u0131z\u0131ltepe"
     ],
     "name:ita_x_preferred":[
         "K\u0131z\u0131ltepe"
@@ -101,17 +128,26 @@
     "name:rus_x_preferred":[
         "\u041a\u044b\u0437\u044b\u043b\u0442\u0435\u043f\u0435"
     ],
+    "name:spa_x_preferred":[
+        "K\u0131z\u0131ltepe"
+    ],
     "name:srp_x_preferred":[
         "\u041a\u0438\u0437\u0438\u043b\u0442\u0435\u043f\u0435"
     ],
     "name:swa_x_preferred":[
         "K\u0131z\u0131ltepe"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u044b\u0437\u044b\u043b\u0442\u0435\u043f\u0435"
+    ],
     "name:tur_x_preferred":[
         "\u0130kiztepe"
     ],
     "name:tur_x_variant":[
         "K\u0131z\u0131ltepe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0438\u0437\u0438\u043b\u0442\u0435\u043f\u0435"
     ],
     "name:und_x_variant":[
         "Girbera\u015fik"
@@ -171,7 +207,7 @@
         }
     ],
     "wof:id":890463071,
-    "wof:lastmodified":1566586215,
+    "wof:lastmodified":1690875082,
     "wof:name":"K\u0131z\u0131ltepe",
     "wof:parent_id":1108709725,
     "wof:placetype":"locality",

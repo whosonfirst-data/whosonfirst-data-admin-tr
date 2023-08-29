@@ -32,8 +32,14 @@
     "name:ara_x_preferred":[
         "\u0643\u0631\u0646\u0628 \u0623\u062c\u0639\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0631\u0646\u0628 \u0627\u062c\u0639\u062f"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09a4\u09be\u0995\u09aa\u09bf"
+    ],
+    "name:ben_x_variant":[
+        "\u09aa\u09be\u09a4\u09be \u0995\u09aa\u09bf"
     ],
     "name:cat_x_preferred":[
         "Col verda"
@@ -50,6 +56,9 @@
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u06cc\u06b5"
     ],
+    "name:cym_x_preferred":[
+        "Celys"
+    ],
     "name:dan_x_preferred":[
         "Gr\u00f8nk\u00e5l"
     ],
@@ -58,6 +67,9 @@
     ],
     "name:deu_x_preferred":[
         "Gr\u00fcnkohl"
+    ],
+    "name:ell_x_preferred":[
+        "\u03bb\u03b1\u03c7\u03b1\u03bd\u03af\u03b4\u03b1"
     ],
     "name:eng_x_preferred":[
         "kale"
@@ -70,6 +82,9 @@
     ],
     "name:est_x_variant":[
         "lehtkapsas"
+    ],
+    "name:eus_x_preferred":[
+        "aza berde"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0644\u0645 \u06a9\u0627\u0644\u06cc"
@@ -84,13 +99,17 @@
         "Chou fris\u00e9"
     ],
     "name:fra_x_variant":[
-        "chou fris\u00e9"
+        "chou fris\u00e9",
+        "chou kale"
     ],
     "name:frr_x_preferred":[
         "Greenkual"
     ],
     "name:gle_x_preferred":[
         "C\u00e1l"
+    ],
+    "name:gle_x_variant":[
+        "c\u00e1l"
     ],
     "name:glv_x_preferred":[
         "Caayl jiarg"
@@ -107,8 +126,23 @@
     "name:hun_x_preferred":[
         "Fodros kel"
     ],
+    "name:hun_x_variant":[
+        "fodros kel"
+    ],
+    "name:ibo_x_preferred":[
+        "Kale"
+    ],
+    "name:ind_x_preferred":[
+        "kubis keriting"
+    ],
     "name:isl_x_preferred":[
         "Gr\u00e6nk\u00e1l"
+    ],
+    "name:ita_x_preferred":[
+        "cavolo riccio"
+    ],
+    "name:jav_x_preferred":[
+        "Kal\u00e9"
     ],
     "name:jpn_x_preferred":[
         "\u30b1\u30fc\u30eb"
@@ -131,8 +165,20 @@
     "name:ksh_x_preferred":[
         "K\u00fchl"
     ],
+    "name:lav_x_preferred":[
+        "lapu k\u0101posts"
+    ],
     "name:lim_x_preferred":[
         "Boerekuuel"
+    ],
+    "name:lit_x_preferred":[
+        "lapiniai kop\u016bstai"
+    ],
+    "name:ltz_x_preferred":[
+        "Gr\u00e9nge Kabes"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d3e\u0d32\u0d46"
     ],
     "name:mkd_x_preferred":[
         "\u043a\u0435\u0459"
@@ -141,7 +187,8 @@
         "Kubis kerinting"
     ],
     "name:msa_x_variant":[
-        "kale"
+        "kale",
+        "kubis kerinting"
     ],
     "name:nds_nld_x_preferred":[
         "Mous"
@@ -154,6 +201,9 @@
     ],
     "name:nld_x_variant":[
         "boerenkool"
+    ],
+    "name:nno_x_preferred":[
+        "Gr\u00f8nk\u00e5l"
     ],
     "name:nob_x_preferred":[
         "gr\u00f8nnk\u00e5l"
@@ -212,6 +262,9 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bb0\u0b9f\u0bcd\u0b9f\u0bc8\u0b95\u0bcd\u0b95\u0bc0\u0bb0\u0bc8"
     ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e30\u0e19\u0e49\u0e32\u0e43\u0e1a\u0e2b\u0e22\u0e34\u0e01"
+    ],
     "name:tur_x_preferred":[
         "Kara lahana"
     ],
@@ -221,11 +274,26 @@
     "name:ukr_x_preferred":[
         "\u0411\u0440\u0430\u0443\u043d\u043a\u043e\u043b\u044c"
     ],
+    "name:ukr_x_variant":[
+        "\u041a\u0435\u0439\u043b"
+    ],
     "name:und_x_variant":[
         "Kale"
     ],
+    "name:uzb_x_preferred":[
+        "Kale"
+    ],
+    "name:vec_x_preferred":[
+        "c\u00e0volo riso"
+    ],
     "name:vie_x_preferred":[
         "C\u1ea3i xo\u0103n"
+    ],
+    "name:wuu_x_preferred":[
+        "\u7fbd\u8863\u7518\u84dd"
+    ],
+    "name:yue_x_preferred":[
+        "\u7fbd\u8863\u7518\u85cd"
     ],
     "name:zho_x_preferred":[
         "\u7fbd\u8863\u7518\u85cd"
@@ -290,7 +358,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582340263,
+    "wof:lastmodified":1690874907,
     "wof:name":"Kale",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

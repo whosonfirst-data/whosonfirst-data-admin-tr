@@ -92,6 +92,9 @@
     "name:kin_x_preferred":[
         "Maltepe"
     ],
+    "name:kur_x_preferred":[
+        "Maltepe"
+    ],
     "name:lav_x_preferred":[
         "Maltepes rajons"
     ],
@@ -125,8 +128,14 @@
     "name:swa_x_preferred":[
         "Maltepe"
     ],
+    "name:tat_x_preferred":[
+        "\u041c\u0430\u043b\u0442\u0435\u043f\u0435"
+    ],
     "name:tur_x_preferred":[
         "Maltepe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u0442\u0435\u043f\u0435"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0644 \u062a\u067e\u06c1\u060c \u0627\u0633\u062a\u0646\u0628\u0648\u0644"
@@ -139,6 +148,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u723e\u63d0\u666e"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u5c14\u6cf0\u4f69"
     ],
     "qs:name":"Maltepe",
     "qs:name_adm0":"Turkey",
@@ -201,7 +213,7 @@
         }
     ],
     "wof:id":890460749,
-    "wof:lastmodified":1678400325,
+    "wof:lastmodified":1690875281,
     "wof:name":"Maltepe",
     "wof:parent_id":85679237,
     "wof:placetype":"county",

@@ -42,6 +42,9 @@
     "name:ast_x_preferred":[
         "Antioqu\u00eda"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0646\u0637\u0627\u06a9\u06cc\u0647"
+    ],
     "name:aze_x_preferred":[
         "Antakya"
     ],
@@ -79,6 +82,12 @@
     "name:ces_x_variant":[
         "Antiochie"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u043a\u0438"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0646\u062a\u0627\u06a9\u06cc\u0627"
+    ],
     "name:cym_x_preferred":[
         "Antakya"
     ],
@@ -112,6 +121,9 @@
     "name:epo_x_preferred":[
         "Antakya"
     ],
+    "name:est_x_preferred":[
+        "Antakya"
+    ],
     "name:eus_x_preferred":[
         "Antiokia"
     ],
@@ -139,8 +151,14 @@
     "name:gag_x_preferred":[
         "Antakya"
     ],
+    "name:gle_x_preferred":[
+        "Antakya"
+    ],
     "name:glg_x_preferred":[
         "Antioqu\u00eda"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf30\ud800\udf3d\ud800\udf44\ud800\udf39\ud800\udf30\ud800\udf3f\ud800\udf3a\ud800\udf39\ud800\udf30"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0a82\u0a9f\u0abe\u0a95\u0acd\u0aaf\u0abe"
@@ -259,8 +277,14 @@
     "name:oci_x_preferred":[
         "Antakya"
     ],
+    "name:oss_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u043a\u044c\u044f"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u0646\u0637\u0627\u0642\u06cc\u06c1"
+    ],
+    "name:pnb_x_variant":[
+        "\u0627\u0646\u0637\u0627\u06a9\u06cc\u06c1"
     ],
     "name:pol_x_preferred":[
         "Antiochia"
@@ -296,6 +320,9 @@
     "name:slv_x_preferred":[
         "Antakya"
     ],
+    "name:som_x_preferred":[
+        "Andaakiya"
+    ],
     "name:spa_x_preferred":[
         "Antioqu\u00eda"
     ],
@@ -317,11 +344,20 @@
     "name:swe_x_variant":[
         "Antiochia vid Orontes"
     ],
+    "name:szl_x_preferred":[
+        "Antakya"
+    ],
     "name:tam_x_preferred":[
         "\u0b86\u0ba3\u0bcd\u0b9f\u0b95\u0bcd\u0baf\u0bbe"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u043d\u0442\u0430\u043a\u044c\u044f"
+    ],
     "name:tel_x_preferred":[
         "\u0c05\u0c02\u0c1f\u0c3e\u0c15\u0c4d\u0c2f\u0c3e"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0410\u043d\u0442\u043e\u043a\u0438\u044f"
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e31\u0e19\u0e17\u0e32\u0e40\u0e04\u0e35\u0e22"
@@ -338,6 +374,9 @@
     "name:udm_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043a\u044c\u044f"
     ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0646\u062a\u0627\u0643\u0649\u064a\u06d5"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u043d\u0442\u0430\u043a'\u044f"
     ],
@@ -350,6 +389,12 @@
     "name:uzb_x_preferred":[
         "Antakiya"
     ],
+    "name:uzb_x_variant":[
+        "Antokiya"
+    ],
+    "name:vec_x_preferred":[
+        "Antiochia"
+    ],
     "name:vie_x_preferred":[
         "Antakya"
     ],
@@ -361,6 +406,12 @@
     ],
     "name:wln_x_preferred":[
         "Antiyoke"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5b89\u5854\u57fa\u4e9a"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d0\u10dc\u10d7\u10d0\u10e5\u10d8\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u5b89\u5854\u57fa\u4e9e"
@@ -513,7 +564,7 @@
         }
     ],
     "wof:id":101911267,
-    "wof:lastmodified":1636499856,
+    "wof:lastmodified":1690875053,
     "wof:name":"Antakya",
     "wof:parent_id":890461775,
     "wof:placetype":"locality",

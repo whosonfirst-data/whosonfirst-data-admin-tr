@@ -27,10 +27,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0639\u062b\u0645\u0627\u0646 \u063a\u0627\u0632\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Osmangazi"
+    ],
     "name:ceb_x_preferred":[
         "Osmangazi"
     ],
+    "name:che_x_preferred":[
+        "\u041e\u0441\u043c\u0430\u043d\u0433\u0430\u0437\u0438"
+    ],
     "name:deu_x_preferred":[
+        "Osmangazi"
+    ],
+    "name:diq_x_preferred":[
         "Osmangazi"
     ],
     "name:eng_x_preferred":[
@@ -72,14 +84,26 @@
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0639\u062b\u0645\u0627\u0646 \u063a\u0627\u0632\u06cc"
     ],
+    "name:por_x_preferred":[
+        "Osmangazi"
+    ],
     "name:rus_x_preferred":[
         "\u041e\u0441\u043c\u0430\u043d\u0433\u0430\u0437\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Osmangazi"
     ],
     "name:swa_x_preferred":[
         "Osmangazi"
     ],
+    "name:tat_x_preferred":[
+        "\u041e\u0441\u043c\u0430\u043d\u0433\u0430\u0437\u0438"
+    ],
     "name:tur_x_preferred":[
         "Osmangazi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u0441\u043c\u0430\u043d\u0433\u0430\u0437\u0456"
     ],
     "name:urd_x_preferred":[
         "\u0639\u062b\u0645\u0627\u0646 \u063a\u0627\u0632\u06cc"
@@ -89,6 +113,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Osmangazi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5967\u65af\u66fc\u52a0\u9f4a"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_fcode":"PPL",
@@ -151,7 +178,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582340264,
+    "wof:lastmodified":1690874915,
     "wof:name":"Osmangazi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

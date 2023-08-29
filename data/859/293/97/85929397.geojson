@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0634\u0648\u064a\u0643\u064a\u0651\u0629"
     ],
+    "name:che_x_preferred":[
+        "\u0422\u0435\u0448\u0432\u0438\u043a\u0438\u0439\u0435"
+    ],
     "name:eng_x_colloquial":[
         "Tesvikiye"
     ],
@@ -36,6 +39,15 @@
     ],
     "name:eng_x_variant":[
         "Te\u015fvikiye"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0634\u0648\u06cc\u0642\u06cc\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Te\u015fvikiye"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c6\u30b7\u30e5\u30f4\u30a3\u30ad\u30a8"
     ],
     "name:lad_x_preferred":[
         "Te\u015fvikiye"
@@ -79,11 +91,11 @@
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":125,
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401134,
+    "wof:lastmodified":1690874905,
     "wof:name":"Tesvikiye",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

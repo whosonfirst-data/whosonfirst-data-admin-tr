@@ -22,8 +22,14 @@
     "name:ara_x_preferred":[
         "\u0625\u0633\u0643\u0646\u062f\u0631\u0648\u0646\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0625\u0633\u0643\u0646\u062f\u0631\u0648\u0646\u0629"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0633\u0643\u0646\u062f\u0631\u0648\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "\u0130skenderun"
     ],
     "name:azb_x_preferred":[
         "\u0627\u0633\u06a9\u0646\u062f\u0631\u0648\u0646"
@@ -33,6 +39,9 @@
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0441\u043a\u0435\u043d\u0434\u044d\u0440\u0443\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0406\u0441\u043a\u0435\u043d\u0434\u044d\u0440\u0443\u043d"
     ],
     "name:bre_x_preferred":[
         "\u0130skenderun"
@@ -46,8 +55,17 @@
     "name:ceb_x_preferred":[
         "\u0130skenderun \u0130l\u00e7esi"
     ],
+    "name:ceb_x_variant":[
+        "\u0130skenderun"
+    ],
     "name:ces_x_preferred":[
         "\u0130skenderun"
+    ],
+    "name:che_x_preferred":[
+        "\u0418\u0441\u043a\u0435\u043d\u0434\u0435\u0440\u0443\u043d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0626\u06d5\u0633\u06a9\u06d5\u0646\u062f\u06d5\u0631\u0648\u0648\u0646"
     ],
     "name:deu_x_preferred":[
         "\u0130skenderun"
@@ -93,6 +111,12 @@
     ],
     "name:hye_x_variant":[
         "\u0531\u056c\u0565\u0584\u057d\u0561\u0576\u0564\u0580\u0565\u057f\u057f\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0531\u056c\u0565\u0584\u057d\u0561\u0576\u057f\u0580\u0567\u0569"
+    ],
+    "name:ido_x_preferred":[
+        "\u0130skenderun"
     ],
     "name:ind_x_preferred":[
         "\u0130skenderun"
@@ -148,6 +172,12 @@
     "name:nob_x_preferred":[
         "\u0130skenderun"
     ],
+    "name:oci_x_preferred":[
+        "Alexandreta"
+    ],
+    "name:oss_x_preferred":[
+        "\u0418\u0441\u043a\u0435\u043d\u0434\u0435\u0440\u0443\u043d"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u0633\u06a9\u0646\u062f\u0631\u0648\u0646"
     ],
@@ -159,6 +189,9 @@
     ],
     "name:por_x_preferred":[
         "\u0130skenderun"
+    ],
+    "name:pus_x_preferred":[
+        "\u0627\u0633\u06a9\u0646\u062f\u0631\u0648\u0646"
     ],
     "name:ron_x_preferred":[
         "\u0130skenderun"
@@ -181,6 +214,15 @@
     "name:swe_x_preferred":[
         "\u0130skenderun"
     ],
+    "name:szl_x_preferred":[
+        "\u0130skenderun"
+    ],
+    "name:tat_x_preferred":[
+        "\u0418\u0441\u043a\u0435\u043d\u0434\u0435\u0440\u0443\u043d"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0418\u0441\u043a\u0430\u043d\u0434\u0430\u0440\u0443\u043d"
+    ],
     "name:tur_x_preferred":[
         "\u0130skenderun"
     ],
@@ -201,6 +243,9 @@
     ],
     "name:war_x_preferred":[
         "\u0130skenderun"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u65af\u80af\u5fb7\u4f26"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u65af\u80af\u5fb7\u502b"
@@ -339,7 +384,7 @@
         }
     ],
     "wof:id":890460445,
-    "wof:lastmodified":1582340341,
+    "wof:lastmodified":1690875302,
     "wof:name":"\u0130skenderun",
     "wof:parent_id":890464451,
     "wof:placetype":"locality",

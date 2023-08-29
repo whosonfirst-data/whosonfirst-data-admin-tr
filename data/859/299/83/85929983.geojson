@@ -26,8 +26,107 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062c\u062f \u062c\u0627\u0645\u0639"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u0627\u0645\u0639 \u0645\u0633\u062c\u06cc\u062f\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "C\u00fcm\u0259 m\u0259scidi"
+    ],
+    "name:bak_x_preferred":[
+        "\u0419\u04d9\u043c\u0438\u0493 \u043c\u04d9\u0441\u0435\u0442\u0435"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09be\u09ae\u09c7 \u09ae\u09b8\u099c\u09bf\u09a6"
+    ],
+    "name:bul_x_preferred":[
+        "\u0414\u0436\u0443\u043c\u0430 \u0434\u0436\u0430\u043c\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "mesquita congregacional"
+    ],
+    "name:dan_x_preferred":[
+        "Fredagsmosk\u00e9"
+    ],
+    "name:deu_x_preferred":[
+        "Freitagsmoschee"
+    ],
     "name:eng_x_preferred":[
         "Ulucami"
+    ],
+    "name:eng_x_variant":[
+        "congregational mosque"
+    ],
+    "name:epo_x_preferred":[
+        "\u0109efmoskeo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u062c\u062f \u062c\u0627\u0645\u0639"
+    ],
+    "name:fin_x_preferred":[
+        "Jama Masjid"
+    ],
+    "name:hsb_x_preferred":[
+        "pjatkowna mo\u0161eja"
+    ],
+    "name:hye_x_preferred":[
+        "\u0548\u0582\u0580\u0562\u0561\u0569\u0575\u0561 \u0574\u0566\u056f\u056b\u0569"
+    ],
+    "name:ind_x_preferred":[
+        "Masjid jami"
+    ],
+    "name:ita_x_preferred":[
+        "Moschea-cattedrale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u91d1\u66dc\u30e2\u30b9\u30af"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0416\u04b1\u043c\u0430 \u043c\u0435\u0448\u0456\u0442\u0456"
+    ],
+    "name:nld_x_preferred":[
+        "vrijdagmoskee"
+    ],
+    "name:nob_x_preferred":[
+        "Fredagsmosk\u00e9"
+    ],
+    "name:pol_x_preferred":[
+        "Meczet Pi\u0105tkowy"
+    ],
+    "name:por_x_preferred":[
+        "Mesquita congregacional"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u043c\u0430-\u043c\u0435\u0447\u0435\u0442\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Petkova mo\u0161eja"
+    ],
+    "name:spa_x_preferred":[
+        "gran mezquita"
+    ],
+    "name:swe_x_preferred":[
+        "Fredagsmosk\u00e9"
+    ],
+    "name:tat_x_preferred":[
+        "\u0496\u04d9\u043c\u0438\u0433\u044a \u043c\u04d9\u0447\u0435\u0442\u0435"
+    ],
+    "name:tur_x_preferred":[
+        "Ulu Camii"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0441\u043e\u0431\u043e\u0440\u043d\u0430 \u043c\u0435\u0447\u0435\u0442\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0633\u062c\u062f \u062c\u0645\u0639\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Jome masjid"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d3e\u739b\u6e05\u771f\u5bfa"
     ],
     "qs:gn_adm0_cc":"TR",
     "qs:gn_id":0,
@@ -89,7 +188,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582340265,
+    "wof:lastmodified":1690874916,
     "wof:name":"Ulucami",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

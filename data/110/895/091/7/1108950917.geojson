@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"28.701292876,41.2162940001,28.701292876,41.2162940001",
+    "geom:bbox":"28.701293,41.216294,28.701293,41.216294",
     "geom:latitude":41.216294,
     "geom:longitude":28.701293,
     "iso:country":"TR",
@@ -23,18 +23,27 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_metro":30,
+    "name:che_x_preferred":[
+        "\u0410\u0434\u043d\u0430\u043d \u041c\u0435\u043d\u0434\u0435\u0440\u0435\u0441"
+    ],
     "name:eng_x_preferred":[
         "Adnan Menderes"
     ],
     "name:fra_x_preferred":[
         "Adnan Menderes"
     ],
+    "name:tat_x_preferred":[
+        "\u0410\u0434\u043d\u0430\u043d \u041c\u0435\u043d\u0434\u0435\u0440\u0435\u0441"
+    ],
+    "name:tur_x_preferred":[
+        "Adnan Menderes"
+    ],
     "src:lbl_centroid":"mz",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
-        1108709297,
-        85679237
+        1108709297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +51,7 @@
     },
     "wof:country":"TR",
     "wof:created":1491368723,
-    "wof:geomhash":"7a6c2336013904b24a025c261ed8f6f4",
+    "wof:geomhash":"aa5f127e2b47e8f0e0655c281c931fbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1108950917,
-    "wof:lastmodified":1678400163,
+    "wof:lastmodified":1690874961,
     "wof:name":"Adnan Menderes",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -64,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    28.70129287603193,
-    41.21629400013978,
-    28.70129287603193,
-    41.21629400013978
+    28.701293,
+    41.216294,
+    28.701293,
+    41.216294
 ],
-  "geometry": {"coordinates":[28.70129287603193,41.21629400013978],"type":"Point"}
+  "geometry": {"coordinates":[28.701293,41.216294],"type":"Point"}
 }

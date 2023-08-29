@@ -22,10 +22,22 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_metro":30,
+    "name:bul_x_preferred":[
+        "\u0427\u0430\u0430\u043b\u0430\u044f\u043d"
+    ],
+    "name:che_x_preferred":[
+        "\u0427\u0430\u0433\u04c0\u043b\u0430\u0439\u0430\u043d"
+    ],
     "name:eng_x_preferred":[
         "Caglayan"
     ],
     "name:eng_x_variant":[
+        "\u00c7a\u011flayan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c1\u30e3\u30e9\u30e4\u30f3"
+    ],
+    "name:nld_x_preferred":[
         "\u00c7a\u011flayan"
     ],
     "name:tur_x_preferred":[
@@ -33,6 +45,9 @@
     ],
     "name:tur_x_variant":[
         "Caglayan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u063a\u0644\u0627\u06cc\u0627\u0646"
     ],
     "reversegeo:latitude":41.078829,
     "reversegeo:longitude":28.98177,
@@ -42,11 +57,11 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,7 +84,7 @@
         }
     ],
     "wof:id":1108950071,
-    "wof:lastmodified":1678400646,
+    "wof:lastmodified":1690874962,
     "wof:name":"Caglayan",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",

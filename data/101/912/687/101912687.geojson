@@ -26,6 +26,9 @@
     "name:ara_x_variant":[
         "\u0623\u0645\u0627\u0633\u064a\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0645\u0627\u0633\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
         "Amasya"
     ],
@@ -59,8 +62,14 @@
     "name:ces_x_preferred":[
         "Amasya"
     ],
+    "name:che_x_preferred":[
+        "\u0410\u043c\u0430\u0441\u0438"
+    ],
     "name:ckb_x_preferred":[
         "\u0626\u0627\u0645\u0627\u0633\u06cc\u0627"
+    ],
+    "name:crh_x_preferred":[
+        "Amasya"
     ],
     "name:dan_x_preferred":[
         "Amasya"
@@ -98,6 +107,9 @@
     "name:gla_x_preferred":[
         "Amasya"
     ],
+    "name:gle_x_preferred":[
+        "Amasya"
+    ],
     "name:glg_x_preferred":[
         "Amasia"
     ],
@@ -120,6 +132,9 @@
         "Amasya"
     ],
     "name:hye_x_preferred":[
+        "\u0531\u0574\u0561\u057d\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
         "\u0531\u0574\u0561\u057d\u056b\u0561"
     ],
     "name:ind_x_preferred":[
@@ -167,6 +182,9 @@
     "name:min_x_preferred":[
         "Amasya"
     ],
+    "name:mkd_x_preferred":[
+        "\u0410\u043c\u0430\u0441\u0438\u0458\u0430"
+    ],
     "name:mrj_x_preferred":[
         "\u0410\u043c\u0430\u0441\u044c\u044f"
     ],
@@ -174,6 +192,9 @@
         "Amasya"
     ],
     "name:nan_x_preferred":[
+        "Amasya"
+    ],
+    "name:nau_x_preferred":[
         "Amasya"
     ],
     "name:nld_x_preferred":[
@@ -221,6 +242,9 @@
     "name:slv_x_preferred":[
         "Amasya"
     ],
+    "name:som_x_preferred":[
+        "Amaasiya"
+    ],
     "name:spa_x_preferred":[
         "Amasya"
     ],
@@ -230,10 +254,16 @@
     "name:sqi_x_variant":[
         "Amasya"
     ],
+    "name:srp_x_preferred":[
+        "\u0410\u043c\u0430\u0441\u0438\u0458\u0430"
+    ],
     "name:swa_x_preferred":[
         "Amasya"
     ],
     "name:swe_x_preferred":[
+        "Amasya"
+    ],
+    "name:szl_x_preferred":[
         "Amasya"
     ],
     "name:tam_x_preferred":[
@@ -251,6 +281,9 @@
     "name:tha_x_preferred":[
         "\u0e2d\u0e32\u0e21\u0e32\u0e2a\u0e22\u0e32"
     ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e32\u0e21\u0e31\u0e2a\u0e22\u0e32"
+    ],
     "name:tur_x_preferred":[
         "Amasya"
     ],
@@ -266,11 +299,23 @@
     "name:urd_x_preferred":[
         "\u0627\u0645\u0627\u0633\u06cc\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Amasya tumani"
+    ],
+    "name:vec_x_preferred":[
+        "Amasya"
+    ],
     "name:vie_x_preferred":[
         "Amasya"
     ],
     "name:war_x_preferred":[
         "Amasya"
+    ],
+    "name:wuu_x_preferred":[
+        "\u963f\u9a6c\u897f\u4e9a"
+    ],
+    "name:yue_x_preferred":[
+        "\u963f\u99ac\u897f\u4e9e"
     ],
     "name:zho_min_nan_x_preferred":[
         "Amasya"
@@ -422,7 +467,7 @@
         }
     ],
     "wof:id":101912687,
-    "wof:lastmodified":1636499854,
+    "wof:lastmodified":1690875043,
     "wof:name":"Amasya",
     "wof:parent_id":890463241,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0633\u0637\u0645\u0648\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0633\u0637\u0645\u0648\u0646\u0649"
+    ],
     "name:ast_x_preferred":[
         "Kastamonu"
     ],
@@ -50,6 +53,9 @@
     "name:ces_x_preferred":[
         "Kastamonu"
     ],
+    "name:che_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
+    ],
     "name:chv_x_preferred":[
         "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
     ],
@@ -66,6 +72,9 @@
         "\u039a\u03b1\u03c3\u03c4\u03b1\u03bc\u03bf\u03bd\u03ae"
     ],
     "name:eng_x_preferred":[
+        "Kastamonu"
+    ],
+    "name:epo_x_preferred":[
         "Kastamonu"
     ],
     "name:fas_x_preferred":[
@@ -100,6 +109,9 @@
     ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u057d\u057f\u0565\u0574\u0578\u0582\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0533\u0561\u057d\u0569\u0561\u0574\u0578\u0576\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Kastamonu"
@@ -143,6 +155,9 @@
     "name:nan_x_preferred":[
         "Kastamonu"
     ],
+    "name:nau_x_preferred":[
+        "Kastamonu"
+    ],
     "name:nld_x_preferred":[
         "Kastamonu"
     ],
@@ -151,6 +166,9 @@
     ],
     "name:nob_x_preferred":[
         "Kastamonu"
+    ],
+    "name:oss_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0633\u062a\u0627\u0645\u0627\u0646\u0648"
@@ -194,11 +212,20 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0bb8\u0bcd\u0b9f\u0bae\u0bcb\u0ba9\u0bc1"
     ],
+    "name:tat_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4d\u0c2f\u0c3e\u0c38\u0c4d\u0c1f\u0c2e\u0c4b\u0c28\u0c41"
     ],
+    "name:tgk_x_preferred":[
+        "\u041a\u0430\u0441\u0442\u0430\u043c\u043e\u043d\u0443"
+    ],
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e2a\u0e15\u0e32\u0e42\u0e21\u0e19\u0e39"
+    ],
+    "name:tha_x_variant":[
+        "\u0e04\u0e31\u0e2a\u0e17\u0e32\u0e42\u0e21\u0e19\u0e39"
     ],
     "name:tur_x_preferred":[
         "Kastamonu"
@@ -214,6 +241,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0633\u062a\u0627\u0645\u0648\u0646\u0648"
+    ],
+    "name:uzb_x_preferred":[
+        "Kastamonu"
     ],
     "name:vep_x_preferred":[
         "Kastamonu"
@@ -374,7 +404,7 @@
         }
     ],
     "wof:id":101911031,
-    "wof:lastmodified":1636499856,
+    "wof:lastmodified":1690875053,
     "wof:name":"Kastamonu",
     "wof:parent_id":890463421,
     "wof:placetype":"locality",
