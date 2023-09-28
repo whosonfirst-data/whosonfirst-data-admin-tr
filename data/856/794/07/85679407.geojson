@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.851827,
-    "geom:area_square_m":8239632184.877842,
+    "geom:area_square_m":8239632215.286077,
     "geom:bbox":"41.541767,37.970259,43.224111,39.025322",
     "geom:latitude":38.530692,
     "geom:longitude":42.383448,
@@ -438,17 +438,19 @@
         "gn:id":321022,
         "gp:id":2347270,
         "hasc:id":"TR.BT",
+        "iso:code":"TR-13",
         "iso:id":"TR-13",
         "qs_pg:id":205642,
         "unlc:id":"TR-13",
         "wd:id":"Q83239",
         "wk:page":"Bitlis Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6526cb2858ef8a6c434d82388b46320c",
+    "wof:geomhash":"1b5f0094cbba837a3c2239f49738ed9b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -463,7 +465,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874930,
+    "wof:lastmodified":1695885325,
     "wof:name":"Bitlis",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

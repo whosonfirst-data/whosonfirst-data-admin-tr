@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":0.265346,
-    "geom:area_square_m":2480606669.969145,
+    "geom:area_square_m":2480606901.862018,
     "geom:bbox":"30.809848,40.624286,31.849846,41.121645",
     "geom:latitude":40.883641,
     "geom:longitude":31.237502,
@@ -422,17 +422,19 @@
         "gn:id":865521,
         "gp:id":29390030,
         "hasc:id":"TR.DU",
+        "iso:code":"TR-81",
         "iso:id":"TR-81",
         "qs_pg:id":942415,
         "unlc:id":"TR-81",
         "wd:id":"Q432391",
         "wk:page":"D\u00fczce Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48693a4d25b6829af4b9f17133cdf194",
+    "wof:geomhash":"19b1bb4b6c20780ae2affe484f6ad269",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -447,7 +449,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874934,
+    "wof:lastmodified":1695885327,
     "wof:name":"Duzce",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

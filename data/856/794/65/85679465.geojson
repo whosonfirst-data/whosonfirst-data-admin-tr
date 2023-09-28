@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"3",
     "geom:area":0.702377,
-    "geom:area_square_m":6619653925.173071,
+    "geom:area_square_m":6619653417.272241,
     "geom:bbox":"38.784773,39.867579,40.11807,40.795709",
     "geom:latitude":40.341687,
     "geom:longitude":39.388617,
@@ -397,17 +397,19 @@
         "gn:id":746423,
         "gp:id":2347319,
         "hasc:id":"TR.GU",
+        "iso:code":"TR-29",
         "iso:id":"TR-29",
         "qs_pg:id":1354697,
         "unlc:id":"TR-29",
         "wd:id":"Q482788",
         "wk:page":"G\u00fcm\u00fc\u015fhane Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fe8c4054b2073f38ea2ae7a2c3837a11",
+    "wof:geomhash":"e5d72c2c61891a8e1343d4943125b842",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -422,7 +424,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874931,
+    "wof:lastmodified":1695885326,
     "wof:name":"Gumushane",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

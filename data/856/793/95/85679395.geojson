@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":1.568876,
-    "geom:area_square_m":15265662533.445461,
+    "geom:area_square_m":15265662112.973816,
     "geom:bbox":"39.11305,37.503423,41.338875,38.728751",
     "geom:latitude":38.101345,
     "geom:longitude":40.341847,
@@ -437,17 +437,19 @@
         "gn:id":316540,
         "gp:id":2347278,
         "hasc:id":"TR.DY",
+        "iso:code":"TR-21",
         "iso:id":"TR-21",
         "qs_pg:id":235644,
         "unlc:id":"TR-21",
         "wd:id":"Q83081",
         "wk:page":"Diyarbak\u0131r Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e6d90302cad1ad3fa7b632434234a30",
+    "wof:geomhash":"0c9e9c6db97a779336d1a612ec649272",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -462,7 +464,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874919,
+    "wof:lastmodified":1695885325,
     "wof:name":"Diyarbakir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

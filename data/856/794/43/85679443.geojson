@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":1.399143,
-    "geom:area_square_m":13744937974.544439,
+    "geom:area_square_m":13744938396.845228,
     "geom:bbox":"34.775793,36.532917,36.39988,38.422554",
     "geom:latitude":37.392164,
     "geom:longitude":35.594712,
@@ -489,17 +489,19 @@
         "gn:id":325361,
         "gp:id":2347258,
         "hasc:id":"TR.AA",
+        "iso:code":"TR-01",
         "iso:id":"TR-01",
         "qs_pg:id":424108,
         "unlc:id":"TR-01",
         "wd:id":"Q40549",
         "wk:page":"Adana Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a237dbb8d1096d57650fe82674178fc4",
+    "wof:geomhash":"d14fd55e71029aa3a43ddf570c8fbbe1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -514,7 +516,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874929,
+    "wof:lastmodified":1695885326,
     "wof:name":"Adana",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

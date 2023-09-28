@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":1.340145,
-    "geom:area_square_m":12587896411.968513,
+    "geom:area_square_m":12587896311.246647,
     "geom:bbox":"33.964136,39.928662,35.529309,41.330795",
     "geom:latitude":40.567442,
     "geom:longitude":34.674317,
@@ -410,17 +410,19 @@
         "gn:id":748877,
         "gp:id":2347276,
         "hasc:id":"TR.CM",
+        "iso:code":"TR-19",
         "iso:id":"TR-19",
         "qs_pg:id":1135395,
         "unlc:id":"TR-19",
         "wd:id":"Q272947",
         "wk:page":"\u00c7orum Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9ef8b3c5c656abe2a31a3ccac5e5b5f6",
+    "wof:geomhash":"18ded018a3dd22d05f4bea9a216c41f0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -435,7 +437,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874924,
+    "wof:lastmodified":1695885324,
     "wof:name":"Corum",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

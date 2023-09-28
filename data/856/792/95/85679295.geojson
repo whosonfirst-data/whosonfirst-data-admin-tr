@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.744999,
-    "geom:area_square_m":7279928903.898571,
+    "geom:area_square_m":7279928314.293467,
     "geom:bbox":"37.446702,37.411513,39.253635,38.203008",
     "geom:latitude":37.789758,
     "geom:longitude":38.294816,
@@ -440,17 +440,19 @@
         "gn:id":325329,
         "gp:id":2347259,
         "hasc:id":"TR.AD",
+        "iso:code":"TR-02",
         "iso:id":"TR-02",
         "qs_pg:id":894996,
         "unlc:id":"TR-02",
         "wd:id":"Q43924",
         "wk:page":"Ad\u0131yaman Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"caf77288a99edde37f232206dbc6cbd5",
+    "wof:geomhash":"3b925b8e60866af767ca9c5c2b703e1a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -465,7 +467,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874937,
+    "wof:lastmodified":1695885323,
     "wof:name":"Adiyaman",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

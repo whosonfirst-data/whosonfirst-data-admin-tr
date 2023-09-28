@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.441946,
-    "geom:area_square_m":4179829436.424568,
+    "geom:area_square_m":4179829098.968244,
     "geom:bbox":"29.705817,39.653751,30.651228,40.517325",
     "geom:latitude":40.104126,
     "geom:longitude":30.101949,
@@ -462,17 +462,19 @@
         "gn:id":321122,
         "gp:id":2347268,
         "hasc:id":"TR.BC",
+        "iso:code":"TR-11",
         "iso:id":"TR-11",
         "qs_pg:id":111302,
         "unlc:id":"TR-11",
         "wd:id":"Q46763",
         "wk:page":"Bilecik Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3238fa9d6a8d2959379db8d96ba53498",
+    "wof:geomhash":"c7d8cbc24dc2ae1b8f41d1e007378b26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -487,7 +489,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874939,
+    "wof:lastmodified":1695885322,
     "wof:name":"Bilecik",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

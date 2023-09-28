@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":1.045762,
-    "geom:area_square_m":9900472710.460527,
+    "geom:area_square_m":9900471664.090223,
     "geom:bbox":"25.664528,39.451248,27.533429,40.746043",
     "geom:latitude":40.035718,
     "geom:longitude":26.754898,
@@ -464,17 +464,19 @@
         "gn:id":749778,
         "gp:id":2347274,
         "hasc:id":"TR.CK",
+        "iso:code":"TR-17",
         "iso:id":"TR-17",
         "qs_pg:id":1135394,
         "unlc:id":"TR-17",
         "wd:id":"Q47813",
         "wk:page":"\u00c7anakkale Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d4760f1e39e84eaee0707325024ff9fb",
+    "wof:geomhash":"624bba94f5e3470914120e823332f49d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -489,7 +491,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874940,
+    "wof:lastmodified":1695885322,
     "wof:name":"Canakkale",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

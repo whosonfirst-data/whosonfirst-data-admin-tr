@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":0.512982,
-    "geom:area_square_m":4868719306.020422,
+    "geom:area_square_m":4868719364.130065,
     "geom:bbox":"33.187027,39.4191,34.206444,40.339358",
     "geom:latitude":39.864381,
     "geom:longitude":33.703771,
@@ -423,17 +423,19 @@
         "gn:id":443188,
         "gp:id":2347329,
         "hasc:id":"TR.KK",
+        "iso:code":"TR-71",
         "iso:id":"TR-71",
         "qs_pg:id":319152,
         "unlc:id":"TR-71",
         "wd:id":"Q484392",
         "wk:page":"K\u0131r\u0131kkale Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4747f0dda188d7ba83e33539fbbb0e0d",
+    "wof:geomhash":"4a527fa4af974230e00ecde6eb6df2aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -448,7 +450,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874933,
+    "wof:lastmodified":1695885326,
     "wof:name":"Kinkkale",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

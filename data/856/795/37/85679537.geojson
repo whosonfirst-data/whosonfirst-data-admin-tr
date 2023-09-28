@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.452223,
-    "geom:area_square_m":4208607866.328484,
+    "geom:area_square_m":4208607360.221957,
     "geom:bbox":"31.977098,40.81652,33.1514,41.58045",
     "geom:latitude":41.180482,
     "geom:longitude":32.638412,
@@ -411,17 +411,19 @@
         "gn:id":862468,
         "gp:id":20070186,
         "hasc:id":"TR.KB",
+        "iso:code":"TR-78",
         "iso:id":"TR-78",
         "qs_pg:id":1189239,
         "unlc:id":"TR-78",
         "wd:id":"Q483168",
         "wk:page":"Karab\u00fck Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5aae1990a1a844f41cc143703e6bd26e",
+    "wof:geomhash":"e062140b64211473deffacd4890c458a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -436,7 +438,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874936,
+    "wof:lastmodified":1695885327,
     "wof:name":"Karabuk",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

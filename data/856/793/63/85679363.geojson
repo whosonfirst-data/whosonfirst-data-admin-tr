@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":1.054458,
-    "geom:area_square_m":9933682733.748913,
+    "geom:area_square_m":9933683433.548185,
     "geom:bbox":"35.438375,39.888525,37.623486,40.908744",
     "geom:latitude":40.370374,
     "geom:longitude":36.561167,
@@ -409,17 +409,19 @@
         "gn:id":738742,
         "gp:id":2347311,
         "hasc:id":"TR.TT",
+        "iso:code":"TR-60",
         "iso:id":"TR-60",
         "qs_pg:id":424131,
         "unlc:id":"TR-60",
         "wd:id":"Q483195",
         "wk:page":"Tokat Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ea0e28b1fee8074983b475d242278455",
+    "wof:geomhash":"6060dc7ea4a23cb6a6be430a94b5ae6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -434,7 +436,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874925,
+    "wof:lastmodified":1695885325,
     "wof:name":"Tokat",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":2.135171,
-    "geom:area_square_m":20671785431.738308,
+    "geom:area_square_m":20671785659.658958,
     "geom:bbox":"42.661727,37.729462,44.51254,39.373225",
     "geom:latitude":38.464777,
     "geom:longitude":43.587738,
@@ -444,17 +444,19 @@
         "gn:id":298113,
         "gp:id":2347316,
         "hasc:id":"TR.VA",
+        "iso:code":"TR-65",
         "iso:id":"TR-65",
         "qs_pg:id":424132,
         "unlc:id":"TR-65",
         "wd:id":"Q80550",
         "wk:page":"Van Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ecf2f25f66691bb954e47ecd9882aff7",
+    "wof:geomhash":"becf5721deca97ee979dd78de4d8e438",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -469,7 +471,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874936,
+    "wof:lastmodified":1695885327,
     "wof:name":"Van",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
