@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":0.344243,
-    "geom:area_square_m":3199320821.503707,
+    "geom:area_square_m":3199320279.119562,
     "geom:bbox":"31.29749,41.009587,32.295597,41.593306",
     "geom:latitude":41.269932,
     "geom:longitude":31.823524,
@@ -417,17 +417,19 @@
         "gn:id":737021,
         "gp:id":20070185,
         "hasc:id":"TR.ZO",
+        "iso:code":"TR-67",
         "iso:id":"TR-67",
         "qs_pg:id":1179345,
         "unlc:id":"TR-67",
         "wd:id":"Q219956",
         "wk:page":"Zonguldak Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d479fdeb1a04b3f7721583532f65ead3",
+    "wof:geomhash":"4f29fe9d7dd46a2984e7b5b0ff14910b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -442,7 +444,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874928,
+    "wof:lastmodified":1695885325,
     "wof:name":"Zonguldak",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":1.255219,
-    "geom:area_square_m":12149478104.411953,
+    "geom:area_square_m":12149476757.479826,
     "geom:bbox":"26.230389,37.818402,28.495245,39.392935",
     "geom:latitude":38.482959,
     "geom:longitude":27.298099,
@@ -434,17 +434,19 @@
         "gn:id":311044,
         "gp:id":2347290,
         "hasc:id":"TR.IZ",
+        "iso:code":"TR-35",
         "iso:id":"TR-35",
         "qs_pg:id":222847,
         "unlc:id":"TR-35",
         "wd:id":"Q344490",
         "wk:page":"\u0130zmir Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25fe5108040b50bda50b629dd9cfb9b6",
+    "wof:geomhash":"a6e51698adad585eee79dab784c66045",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -459,7 +461,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874942,
+    "wof:lastmodified":1695885321,
     "wof:name":"Izmir",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":1.216118,
-    "geom:area_square_m":11636902167.311836,
+    "geom:area_square_m":11636901859.306471,
     "geom:bbox":"28.639527,38.799956,30.453431,39.887096",
     "geom:latitude":39.297877,
     "geom:longitude":29.584678,
@@ -435,17 +435,19 @@
         "gn:id":305267,
         "gp:id":2347297,
         "hasc:id":"TR.KU",
+        "iso:code":"TR-43",
         "iso:id":"TR-43",
         "qs_pg:id":204626,
         "unlc:id":"TR-43",
         "wd:id":"Q126874",
         "wk:page":"K\u00fctahya Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5e1e5685bd15617db67cab1b68c213b0",
+    "wof:geomhash":"5136c329726f4963ce543de4763ae94f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -460,7 +462,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874944,
+    "wof:lastmodified":1695885323,
     "wof:name":"Kutahya",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

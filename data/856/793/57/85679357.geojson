@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":1.01249,
-    "geom:area_square_m":9418116362.623419,
+    "geom:area_square_m":9418116608.702106,
     "geom:bbox":"34.875825,40.835904,37.176471,41.737083",
     "geom:latitude":41.212419,
     "geom:longitude":35.995013,
@@ -414,17 +414,19 @@
         "gn:id":740263,
         "gp:id":2347307,
         "hasc:id":"TR.SS",
+        "iso:code":"TR-55",
         "iso:id":"TR-55",
         "qs_pg:id":222852,
         "unlc:id":"TR-55",
         "wd:id":"Q483040",
         "wk:page":"Samsun Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"de8e67422e2fdbeae6cc249fd507491c",
+    "wof:geomhash":"b498f7aa8361af84955036998088f476",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -439,7 +441,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874920,
+    "wof:lastmodified":1695885324,
     "wof:name":"Samsun",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

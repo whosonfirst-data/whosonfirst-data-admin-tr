@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.899998,
-    "geom:area_square_m":8648840205.566734,
+    "geom:area_square_m":8648839531.81835,
     "geom:bbox":"41.110154,38.464036,42.720484,39.506752",
     "geom:latitude":38.997443,
     "geom:longitude":41.854026,
@@ -424,17 +424,19 @@
         "gn:id":304041,
         "gp:id":2347302,
         "hasc:id":"TR.MS",
+        "iso:code":"TR-49",
         "iso:id":"TR-49",
         "qs_pg:id":111304,
         "unlc:id":"TR-49",
         "wd:id":"Q131387",
         "wk:page":"Mu\u015f Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3bcce8a90f61ef93173c27f580e51d8f",
+    "wof:geomhash":"ae85a8bf114c529f8efd9d98714f5b40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -449,7 +451,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874932,
+    "wof:lastmodified":1695885325,
     "wof:name":"Mus",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

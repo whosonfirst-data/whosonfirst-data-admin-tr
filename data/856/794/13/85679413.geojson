@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"3",
     "geom:area":0.798844,
-    "geom:area_square_m":7490005564.874538,
+    "geom:area_square_m":7490005979.263215,
     "geom:bbox":"32.567991,40.26961,34.146639,41.084648",
     "geom:latitude":40.68847,
     "geom:longitude":33.458929,
@@ -436,17 +436,19 @@
         "gn:id":749747,
         "gp:id":2347275,
         "hasc:id":"TR.CI",
+        "iso:code":"TR-18",
         "iso:id":"TR-18",
         "qs_pg:id":1075612,
         "unlc:id":"TR-18",
         "wd:id":"Q272662",
         "wk:page":"\u00c7ank\u0131r\u0131 Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9af593a729ee3af1a4695ea343f2d2be",
+    "wof:geomhash":"9ec09fb7d316a8e62137eb02a2e13bfc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -461,7 +463,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874934,
+    "wof:lastmodified":1695885325,
     "wof:name":"Cankiri",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

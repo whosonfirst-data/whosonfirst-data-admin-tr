@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"3",
     "geom:area":0.797719,
-    "geom:area_square_m":7430291031.071763,
+    "geom:area_square_m":7430291012.037844,
     "geom:bbox":"41.157081,40.56951,42.595142,41.524712",
     "geom:latitude":41.124416,
     "geom:longitude":41.828562,
@@ -496,17 +496,19 @@
         "gn:id":751816,
         "gp:id":2347265,
         "hasc:id":"TR.AV",
+        "iso:code":"TR-08",
         "iso:id":"TR-08",
         "qs_pg:id":885971,
         "unlc:id":"TR-08",
         "wd:id":"Q43745",
         "wk:page":"Artvin Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ea3d170ac25ba9d1929657dbabd10c4",
+    "wof:geomhash":"5c939abfd35598b51ce4047670d03e2c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -521,7 +523,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874921,
+    "wof:lastmodified":1695885325,
     "wof:name":"Artvin",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

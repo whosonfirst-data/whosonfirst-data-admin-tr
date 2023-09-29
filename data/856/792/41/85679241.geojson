@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":0.379152,
-    "geom:area_square_m":3546556425.140409,
+    "geom:area_square_m":3546556137.966217,
     "geom:bbox":"29.33036,40.525242,30.355992,41.212917",
     "geom:latitude":40.845578,
     "geom:longitude":29.869718,
@@ -439,17 +439,19 @@
         "gn:id":742865,
         "gp:id":2347296,
         "hasc:id":"TR.KC",
+        "iso:code":"TR-41",
         "iso:id":"TR-41",
         "qs_pg:id":1171194,
         "unlc:id":"TR-41",
         "wd:id":"Q83965",
         "wk:page":"Kocaeli Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d79445c90f525665dda341602920b29",
+    "wof:geomhash":"26368a1f55e1b330c6975a9831935a2d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -464,7 +466,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874944,
+    "wof:lastmodified":1695885322,
     "wof:name":"Kocaeli",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

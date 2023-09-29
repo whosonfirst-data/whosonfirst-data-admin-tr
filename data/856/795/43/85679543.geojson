@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.252993,
-    "geom:area_square_m":2339998645.647526,
+    "geom:area_square_m":2339998705.416229,
     "geom:bbox":"32.100643,41.308456,32.925588,41.845444",
     "geom:latitude":41.581858,
     "geom:longitude":32.525279,
@@ -447,6 +447,7 @@
         "gn:id":862467,
         "gp:id":20070187,
         "hasc:id":"TR.BR",
+        "iso:code":"TR-74",
         "iso:id":"TR-74",
         "loc:id":"n00140180",
         "qs_pg:id":348964,
@@ -454,11 +455,12 @@
         "wd:id":"Q83342",
         "wk:page":"Bart\u0131n Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"af7d55c841a47c319f67a44c232815a0",
+    "wof:geomhash":"02f1a5a67b698f70edad9e9ddda0bd4c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -473,7 +475,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874935,
+    "wof:lastmodified":1695885327,
     "wof:name":"Bartin",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

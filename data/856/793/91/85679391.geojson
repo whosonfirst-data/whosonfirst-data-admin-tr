@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"3",
     "geom:area":0.845279,
-    "geom:area_square_m":8118016788.923508,
+    "geom:area_square_m":8118016844.072159,
     "geom:bbox":"39.937299,38.472097,41.265854,39.53305",
     "geom:latitude":39.040615,
     "geom:longitude":40.652307,
@@ -467,17 +467,19 @@
         "gn:id":321079,
         "gp:id":2347269,
         "hasc:id":"TR.BG",
+        "iso:code":"TR-12",
         "iso:id":"TR-12",
         "qs_pg:id":385727,
         "unlc:id":"TR-12",
         "wd:id":"Q79760",
         "wk:page":"Bing\u00f6l Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"77ebf85b06eca7fa334aa44149e60d53",
+    "wof:geomhash":"93fb3ce39568fdfdeb941ca7d2a44369",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -492,7 +494,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874924,
+    "wof:lastmodified":1695885325,
     "wof:name":"Bingol",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

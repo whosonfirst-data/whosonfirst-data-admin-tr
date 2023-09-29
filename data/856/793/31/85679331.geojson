@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"1",
     "geom:area":0.557772,
-    "geom:area_square_m":5549258799.834303,
+    "geom:area_square_m":5549258934.795054,
     "geom:bbox":"35.782055,35.80768,36.695703,37.014888",
     "geom:latitude":36.427897,
     "geom:longitude":36.251717,
@@ -459,17 +459,19 @@
         "gn:id":312394,
         "gp:id":2347286,
         "hasc:id":"TR.HT",
+        "iso:code":"TR-31",
         "iso:id":"TR-31",
         "qs_pg:id":235646,
         "unlc:id":"TR-31",
         "wd:id":"Q83274",
         "wk:page":"Hatay Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d2684259d72fe3fb056864b0eeb33173",
+    "wof:geomhash":"2e750de41da871e0802ba9ec7850d930",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -484,7 +486,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874923,
+    "wof:lastmodified":1695885324,
     "wof:name":"Hatay",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":0.896569,
-    "geom:area_square_m":8843348787.564827,
+    "geom:area_square_m":8843348570.950075,
     "geom:bbox":"32.466618,36.447259,34.269717,37.569146",
     "geom:latitude":37.089414,
     "geom:longitude":33.303089,
@@ -416,17 +416,19 @@
         "gn:id":443187,
         "gp:id":2347328,
         "hasc:id":"TR.KR",
+        "iso:code":"TR-70",
         "iso:id":"TR-70",
         "qs_pg:id":895004,
         "unlc:id":"TR-70",
         "wd:id":"Q482975",
         "wk:page":"Karaman Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fc49e637d1d60960504f3efb2b39d2c9",
+    "wof:geomhash":"212dca82495a72d4d65d6e3e09f961b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -441,7 +443,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874928,
+    "wof:lastmodified":1695885326,
     "wof:name":"Karaman",
     "wof:parent_id":85632393,
     "wof:placetype":"region",

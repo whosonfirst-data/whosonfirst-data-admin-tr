@@ -19,7 +19,7 @@
     "eurostat:population_year":2021,
     "eurostat:urban_type":"2",
     "geom:area":2.633386,
-    "geom:area_square_m":24923565376.933212,
+    "geom:area_square_m":24923565330.270111,
     "geom:bbox":"40.270325,39.156186,42.572269,40.971805",
     "geom:latitude":40.054531,
     "geom:longitude":41.554367,
@@ -446,17 +446,19 @@
         "gn:id":315367,
         "gp:id":2347282,
         "hasc:id":"TR.EM",
+        "iso:code":"TR-25",
         "iso:id":"TR-25",
         "qs_pg:id":205221,
         "unlc:id":"TR-25",
         "wd:id":"Q376797",
         "wk:page":"Erzurum Province"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TR",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c3aa0304535689b4507ab93495a416b1",
+    "wof:geomhash":"83ca6001e8820b2d3e4b6e85dfc3982a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -471,7 +473,7 @@
     "wof:lang_x_spoken":[
         "tur"
     ],
-    "wof:lastmodified":1690874921,
+    "wof:lastmodified":1695885325,
     "wof:name":"Erzurum",
     "wof:parent_id":85632393,
     "wof:placetype":"region",
