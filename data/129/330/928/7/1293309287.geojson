@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"29.24694,36.77444,29.24694,36.77444",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +43,7 @@
         "gn:id":447255
     },
     "wof:country":"TR",
-    "wof:geomhash":"71a08685659b0597b54e07272adadde3",
+    "wof:geomhash":"963ad53ee22781bf4c09816f8d75154b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +54,22 @@
         }
     ],
     "wof:id":1293309287,
-    "wof:lastmodified":1566583063,
+    "wof:lastmodified":1706240698,
     "wof:name":"Kizilbel",
     "wof:parent_id":890462845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226268337
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     29.24694,
-    36.77444000000001,
+    36.77444,
     29.24694,
-    36.77444000000001
+    36.77444
 ],
-  "geometry": {"coordinates":[29.24694,36.77444000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.24694,36.77444],"type":"Point"}
 }

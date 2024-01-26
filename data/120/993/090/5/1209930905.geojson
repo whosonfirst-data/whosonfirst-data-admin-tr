@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":10636493
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10636494
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"db6bd850b2209f93e91c1824be9260d0",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1209930905,
-    "wof:lastmodified":1566584597,
+    "wof:lastmodified":1706240697,
     "wof:name":"Sarihaci",
     "wof:parent_id":890464597,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243389029
+    ],
     "wof:tags":[]
 },
   "bbox": [

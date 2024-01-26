@@ -32,6 +32,10 @@
     "name:tur_x_preferred":[
         "Baltac\u0131k"
     ],
+    "name:und_x_variant":[
+        "Mozalan",
+        "Baltac\u0131k"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -39,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6970672
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            322074
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"d709353636465dd08b5f0b92840154fc",
@@ -49,13 +58,15 @@
         }
     ],
     "wof:id":1209514621,
-    "wof:lastmodified":1566584637,
+    "wof:lastmodified":1706240697,
     "wof:name":"Baltacik",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309838075
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:deu_x_preferred":[
         "Akdeniz"
@@ -82,12 +83,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344117,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Akdeniz",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130zmir",
+    "qs_pg:photos":606,
+    "qs_pg:photos_1k":123,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":606,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1197706,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55865543,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":360,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130zmir",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679201,
         102191569,
@@ -98,6 +118,14 @@
     "wof:concordances":{
         "gp:id":55865543,
         "qs_pg:id":1197706
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55865543
+        ],
+        "qs_pg:id":[
+            1197706
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -118,13 +146,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582340264,
+    "wof:lastmodified":1706240692,
     "wof:name":"Akdeniz",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126072165
+    ],
     "wof:tags":[]
 },
   "bbox": [

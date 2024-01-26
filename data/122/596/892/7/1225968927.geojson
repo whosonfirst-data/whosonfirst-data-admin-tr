@@ -53,6 +53,11 @@
     "wof:concordances":{
         "gn:id":299410
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6970495
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"7fffefb998dbf9132fabab8d9b1fb899",
     "wof:hierarchy":[
@@ -65,13 +70,15 @@
         }
     ],
     "wof:id":1225968927,
-    "wof:lastmodified":1566587874,
+    "wof:lastmodified":1706240697,
     "wof:name":"Teknecik",
     "wof:parent_id":1108710025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277006641
+    ],
     "wof:tags":[]
 },
   "bbox": [

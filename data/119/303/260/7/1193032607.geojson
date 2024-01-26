@@ -32,6 +32,9 @@
     "name:tur_x_preferred":[
         "Kalatepe"
     ],
+    "name:tur_x_variant":[
+        "Kaletepe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9643424
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            310706
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"3af9e68cdce8d532ffc5ff9ba0f4dfa1",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1193032607,
-    "wof:lastmodified":1566584964,
+    "wof:lastmodified":1706240696,
     "wof:name":"Kalatepe",
     "wof:parent_id":1108709681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344182723
+    ],
     "wof:tags":[]
 },
   "bbox": [

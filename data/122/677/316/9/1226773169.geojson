@@ -32,6 +32,11 @@
     "name:tur_x_preferred":[
         "Ayazp\u0131nar"
     ],
+    "name:und_x_variant":[
+        "Sivekerek",
+        "Sivekherek",
+        "Ayazp\u0131nar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6970496
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            322836
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"96f737bdebf8c166eb406a0f9b9de929",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1226773169,
-    "wof:lastmodified":1566588017,
+    "wof:lastmodified":1706240698,
     "wof:name":"Ayazpinar",
     "wof:parent_id":890463849,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243093063
+    ],
     "wof:tags":[]
 },
   "bbox": [

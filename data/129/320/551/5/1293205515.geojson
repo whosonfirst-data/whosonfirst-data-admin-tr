@@ -32,6 +32,11 @@
     "name:tur_x_preferred":[
         "Nall\u0131konak"
     ],
+    "name:und_x_variant":[
+        "\u0130sik\u00f6y",
+        "\u0130si",
+        "Nall\u0131konak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6970798
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            303953
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"2418f665175eaadf0c3798c7f52cfdbf",
@@ -55,13 +65,15 @@
         }
     ],
     "wof:id":1293205515,
-    "wof:lastmodified":1566583558,
+    "wof:lastmodified":1706240700,
     "wof:name":"Nallikonak",
     "wof:parent_id":1108709563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360090033
+    ],
     "wof:tags":[]
 },
   "bbox": [

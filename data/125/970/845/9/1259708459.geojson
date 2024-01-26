@@ -32,6 +32,9 @@
     "name:tur_x_preferred":[
         "Ulas\u0131r"
     ],
+    "name:und_x_variant":[
+        "Ula\u015f\u0131r"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6969710
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            298468
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"cb5565b0be7140d699eb354b9b1a8e3b",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1259708459,
-    "wof:lastmodified":1566587314,
+    "wof:lastmodified":1706240699,
     "wof:name":"Ulasir",
     "wof:parent_id":1108710025,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343974679
+    ],
     "wof:tags":[]
 },
   "bbox": [

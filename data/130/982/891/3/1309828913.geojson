@@ -49,6 +49,11 @@
     "wof:concordances":{
         "gn:id":311780
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10973332
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"640793e26067d47344988969a25644e6",
     "wof:hierarchy":[
@@ -61,13 +66,15 @@
         }
     ],
     "wof:id":1309828913,
-    "wof:lastmodified":1566586084,
+    "wof:lastmodified":1706240700,
     "wof:name":"Toprakli",
     "wof:parent_id":890461365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343375625
+    ],
     "wof:tags":[]
 },
   "bbox": [

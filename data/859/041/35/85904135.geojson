@@ -27,6 +27,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0646\u0627\u0643"
@@ -37,8 +38,14 @@
     "name:aze_x_preferred":[
         "Konak"
     ],
+    "name:bos_x_preferred":[
+        "Konak"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a"
+    ],
+    "name:ceb_x_preferred":[
+        "Konak"
     ],
     "name:che_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a"
@@ -65,6 +72,9 @@
         "Konak"
     ],
     "name:gag_x_preferred":[
+        "Konak"
+    ],
+    "name:hun_x_preferred":[
         "Konak"
     ],
     "name:ita_x_preferred":[
@@ -100,10 +110,19 @@
     "name:rus_x_preferred":[
         "\u041a\u043e\u043d\u0430\u043a"
     ],
+    "name:slv_x_preferred":[
+        "Konak"
+    ],
     "name:spa_x_preferred":[
         "Konak"
     ],
+    "name:srp_x_preferred":[
+        "\u041a\u043e\u043d\u0430\u043a"
+    ],
     "name:swa_x_preferred":[
+        "Konak"
+    ],
+    "name:swe_x_preferred":[
         "Konak"
     ],
     "name:tat_x_preferred":[
@@ -151,12 +170,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344117,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Konak",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130zmir",
+    "qs_pg:photos":583,
+    "qs_pg:photos_1k":118,
+    "qs_pg:photos_9k":3,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":583,
+    "qs_pg:photos_sr":8,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":239485,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2343610,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2206,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130zmir",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679201,
         102191569,
@@ -171,6 +209,14 @@
         "qs_pg:id":239485,
         "wd:id":"Q2279529",
         "wk:page":"Konak, Izmir"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            2343610
+        ],
+        "qs_pg:id":[
+            239485
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -191,13 +237,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690874894,
+    "wof:lastmodified":1706240691,
     "wof:name":"Konak",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126102209
+    ],
     "wof:tags":[]
 },
   "bbox": [

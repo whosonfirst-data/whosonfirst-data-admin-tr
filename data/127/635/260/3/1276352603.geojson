@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":10026582
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10016390
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"a965aab4b01bafa52d4b76eb252f8fc8",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1276352603,
-    "wof:lastmodified":1566583893,
+    "wof:lastmodified":1706240700,
     "wof:name":"Kucukler",
     "wof:parent_id":1108709357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344081531
+    ],
     "wof:tags":[]
 },
   "bbox": [

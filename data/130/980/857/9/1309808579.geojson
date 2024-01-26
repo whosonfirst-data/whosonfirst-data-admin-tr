@@ -32,6 +32,10 @@
     "name:tur_x_preferred":[
         "A\u015fa\u011f\u0131 Yenig\u00fcn"
     ],
+    "name:und_x_variant":[
+        "A\u015fa\u011f\u0131 Revuci",
+        "A\u015fa\u011f\u0131yenig\u00fcn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6970800
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            323144
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"a70978dfa222b15ff92e91e3bb1354d2",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1309808579,
-    "wof:lastmodified":1566586172,
+    "wof:lastmodified":1706240700,
     "wof:name":"Asagi Yenigun",
     "wof:parent_id":1108709563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343661163
+    ],
     "wof:tags":[]
 },
   "bbox": [

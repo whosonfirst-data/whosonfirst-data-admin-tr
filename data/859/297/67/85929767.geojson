@@ -11,6 +11,7 @@
     "geom:longitude":29.284365,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.28086,40.811496,29.29086,40.821496",
     "lbl:latitude":40.824234,
     "lbl:longitude":29.289003,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:eng_x_preferred":[
@@ -58,6 +60,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Postane",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":21,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":21,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1337655,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55870711,
     "reversegeo:latitude":40.824234,
     "reversegeo:longitude":29.289003,
     "src:geom":"whosonfirst",
@@ -65,17 +82,29 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870711,
         "qs_pg:id":1337655
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55870711
+        ],
+        "qs_pg:id":[
+            1337655
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -96,13 +125,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401155,
+    "wof:lastmodified":1706240693,
     "wof:name":"Postane",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126062915
+    ],
     "wof:tags":[]
 },
   "bbox": [

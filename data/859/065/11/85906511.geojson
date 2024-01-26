@@ -11,6 +11,7 @@
     "geom:longitude":28.958035,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"28.952197,41.008672,28.962197,41.018672",
     "lbl:latitude":41.014032,
     "lbl:longitude":28.958035,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":17.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -121,6 +123,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Kalenderhane",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":213,
+    "qs_pg:photos_1k":43,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":213,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230477,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724036,
     "reversegeo:latitude":41.014032,
     "reversegeo:longitude":28.958035,
     "src:geom":"whosonfirst",
@@ -129,6 +146,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1219,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -141,6 +162,14 @@
         "gp:id":22724036,
         "qs_pg:id":230477,
         "wd:id":"Q1758501"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22724036
+        ],
+        "qs_pg:id":[
+            230477
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -161,13 +190,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1690874900,
+    "wof:lastmodified":1706240692,
     "wof:name":"Kalenderhane",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126069571
+    ],
     "wof:tags":[]
 },
   "bbox": [

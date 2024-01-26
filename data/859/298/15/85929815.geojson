@@ -11,6 +11,7 @@
     "geom:longitude":29.051101,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.050833,41.100743,29.060833,41.110743",
     "lbl:latitude":41.107232,
     "lbl:longitude":29.053873,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -67,6 +69,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Emirgan",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":1190,
+    "qs_pg:photos_1k":241,
+    "qs_pg:photos_9k":5,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1190,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1337661,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55870766,
     "reversegeo:latitude":41.107232,
     "reversegeo:longitude":29.053873,
     "src:geom":"whosonfirst",
@@ -74,6 +91,10 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -86,6 +107,17 @@
         "gp:id":55870766,
         "qs_pg:id":1337661,
         "wd:id":"Q6097190"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55870766
+        ],
+        "qs_pg:id":[
+            1337661
+        ],
+        "wd:id":[
+            "Q6097190"
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -106,13 +138,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690874912,
+    "wof:lastmodified":1706240693,
     "wof:name":"Emirgan",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126097165
+    ],
     "wof:tags":[]
 },
   "bbox": [

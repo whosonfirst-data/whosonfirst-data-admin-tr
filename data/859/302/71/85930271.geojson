@@ -11,6 +11,7 @@
     "geom:longitude":28.899109,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"28.899545,41.083999,28.909545,41.093999",
     "lbl:latitude":41.08634,
     "lbl:longitude":28.898897,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:cat_x_preferred":[
@@ -114,6 +116,21 @@
         "Karayollar\u0131"
     ],
     "qs:gn_id":0,
+    "qs_pg:name":"Karayollari",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":38,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":38,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1010913,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55871480,
     "reversegeo:latitude":41.08634,
     "reversegeo:longitude":28.898897,
     "src:geom":"whosonfirst",
@@ -121,6 +138,10 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -133,6 +154,17 @@
         "gp:id":55871480,
         "qs_pg:id":1010913,
         "wd:id":"Q6072274"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55871480
+        ],
+        "qs_pg:id":[
+            1010913
+        ],
+        "wd:id":[
+            "Q6072274"
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -153,13 +185,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690874910,
+    "wof:lastmodified":1706240694,
     "wof:name":"Karayollari",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126078329
+    ],
     "wof:tags":[]
 },
   "bbox": [

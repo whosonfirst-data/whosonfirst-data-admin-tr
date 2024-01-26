@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:tur_x_preferred":[
+        "So\u011fullu"
+    ],
+    "name:und_x_variant":[
+        "Kemalli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -40,8 +46,13 @@
     "wof:concordances":{
         "gn:id":6955976
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            743513
+        ]
+    },
     "wof:country":"TR",
-    "wof:geomhash":"700e8f77f576c7f2cf5bedaff08ce49b",
+    "wof:geomhash":"63a5d91e8bd42e39d775306349fff4ea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +63,22 @@
         }
     ],
     "wof:id":1226287337,
-    "wof:lastmodified":1566587600,
+    "wof:lastmodified":1706240698,
     "wof:name":"Sogullu",
     "wof:parent_id":890461727,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243499109
+    ],
     "wof:tags":[]
 },
   "bbox": [
     29.82127,
-    41.09614000000001,
+    41.09614,
     29.82127,
-    41.09614000000001
+    41.09614
 ],
-  "geometry": {"coordinates":[29.82127,41.09614000000001],"type":"Point"}
+  "geometry": {"coordinates":[29.82127,41.09614],"type":"Point"}
 }

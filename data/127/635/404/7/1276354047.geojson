@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":299602
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            300064
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"7b3253cb5b820bc77af1e6ada99fefd1",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1276354047,
-    "wof:lastmodified":1566583905,
+    "wof:lastmodified":1706240700,
     "wof:name":"Tatlica",
     "wof:parent_id":890461771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327256657
+    ],
     "wof:tags":[]
 },
   "bbox": [

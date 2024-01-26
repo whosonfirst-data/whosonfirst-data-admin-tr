@@ -5,32 +5,155 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000005,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.959962,41.019618,28.964103,41.022371",
     "geom:latitude":41.020933,
     "geom:longitude":28.961936,
     "iso:country":"TR",
+    "lbl:bbox":"28.958233,41.017497,28.968233,41.027497",
     "lbl:latitude":41.020957,
     "lbl:longitude":28.961905,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.020957,
     "mps:longitude":28.961905,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:cat_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:ceb_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:ces_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:che_x_preferred":[
+        "\u0419\u0430\u0432\u0443\u0437\u0441\u0438\u043d\u0430\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:deu_x_preferred":[
+        "Yavuzsinan"
+    ],
     "name:eng_x_preferred":[
         "Yavuz Sinan"
+    ],
+    "name:eng_x_variant":[
+        "Yavuzsinan"
+    ],
+    "name:eus_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:fin_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:glg_x_preferred":[
+        "Yavuzsinan"
     ],
     "name:ita_x_preferred":[
         "Yavuz Sinan"
     ],
+    "name:nld_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:nno_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:nob_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:oci_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:pol_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:por_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:ron_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:sco_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:slk_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:slv_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:spa_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:swe_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:tgl_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:tur_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "name:war_x_preferred":[
+        "Yavuzsinan"
+    ],
+    "qs:gn_id":0,
+    "qs_pg:name":"Yavuz Sinan",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":117,
+    "qs_pg:photos_1k":24,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":117,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1179939,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724127,
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724127,
+        "qs_pg:id":1179939,
+        "wd:id":"Q6068318"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22724127
+        ],
+        "qs_pg:id":[
+            1179939
+        ],
+        "wd:id":[
+            "Q6068318"
+        ]
+    },
     "wof:country":"TR",
     "wof:created":1677624663,
     "wof:geomhash":"cadfa4df741e29c1979a6c478256c3ce",
@@ -45,13 +168,19 @@
         }
     ],
     "wof:id":1813328381,
-    "wof:lastmodified":1678400078,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1706240701,
     "wof:name":"Yavuz Sinan",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126068463,
+        85906605
+    ],
     "wof:tags":[]
 },
   "bbox": [

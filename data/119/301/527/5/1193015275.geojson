@@ -32,6 +32,10 @@
     "name:tur_x_preferred":[
         "Karl\u0131ca"
     ],
+    "name:und_x_variant":[
+        "\u015eo\u015fik",
+        "Karl\u0131ca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6970810
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            309052
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"eec0fe0da1e080b7b5d705c03d188d1d",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1193015275,
-    "wof:lastmodified":1566584921,
+    "wof:lastmodified":1706240696,
     "wof:name":"Karlica",
     "wof:parent_id":1108709563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259782849
+    ],
     "wof:tags":[]
 },
   "bbox": [

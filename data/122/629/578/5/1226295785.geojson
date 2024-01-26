@@ -32,6 +32,9 @@
     "name:tur_x_preferred":[
         "Habibler"
     ],
+    "name:und_x_variant":[
+        "Habipler"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9985664
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            313174
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"29261b47ef86b2870df5a1aad5dbff22",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1226295785,
-    "wof:lastmodified":1566587661,
+    "wof:lastmodified":1706240698,
     "wof:name":"Habibler",
     "wof:parent_id":890464529,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343650793
+    ],
     "wof:tags":[]
 },
   "bbox": [

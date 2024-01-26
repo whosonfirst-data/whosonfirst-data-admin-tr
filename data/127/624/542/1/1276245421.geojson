@@ -32,6 +32,9 @@
     "name:tur_x_preferred":[
         "H\u00fcy\u00fckk\u00f6y"
     ],
+    "name:tur_x_variant":[
+        "H\u00fcy\u00fck"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9643406
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            311779
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"16b020fa1565bc0791b98ed72be1f598",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1276245421,
-    "wof:lastmodified":1566584110,
+    "wof:lastmodified":1706240700,
     "wof:name":"Huyukkoy",
     "wof:parent_id":890464451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292928717
+    ],
     "wof:tags":[]
 },
   "bbox": [

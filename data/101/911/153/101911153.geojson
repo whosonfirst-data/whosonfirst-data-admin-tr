@@ -11,6 +11,7 @@
     "geom:longitude":31.610631,
     "gn:population":96629,
     "iso:country":"TR",
+    "lbl:bbox":"31.585606,40.7155355,31.625606,40.7555355",
     "lbl:latitude":40.732693,
     "lbl:longitude":31.606753,
     "lbl:max_zoom":14.0,
@@ -20,6 +21,7 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0628\u0648\u0644\u0648"
     ],
@@ -369,6 +371,21 @@
     "qs:pop":0,
     "qs:source":"RCustom EuroGlobalMap + UMZ Urban Polygons + Geonames + GeoPlanet",
     "qs:type":"rural hamlet perfect local_admin match geoplanet",
+    "qs_pg:name":"Bolu",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Bolu",
+    "qs_pg:photos":178,
+    "qs_pg:photos_1k":36,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":178,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1251259,
+    "qs_pg:qs_pg_placetype":"locality",
+    "qs_pg:qs_pg_placetype_gp":"Town",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":2343819,
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
@@ -378,6 +395,10 @@
     "wd:latitude":40.733333,
     "wd:longitude":31.6,
     "wd:wordcount":1597,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Bolu",
+    "woe:placetype":"Town",
     "wof:belongsto":[
         102191569,
         85632393,
@@ -393,7 +414,15 @@
         "wk:page":"Bolu"
     },
     "wof:concordances_alt":{
-        "qs_pg:id":1251259
+        "gp:id":[
+            2343819
+        ],
+        "qs_pg:id":[
+            1251259
+        ],
+        "wd:id":[
+            "Q200951"
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -410,7 +439,7 @@
         }
     ],
     "wof:id":101911153,
-    "wof:lastmodified":1690875054,
+    "wof:lastmodified":1706240696,
     "wof:name":"Bolu",
     "wof:parent_id":890462577,
     "wof:placetype":"locality",
@@ -418,7 +447,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1125961907
+    ],
     "wof:tags":[]
 },
   "bbox": [

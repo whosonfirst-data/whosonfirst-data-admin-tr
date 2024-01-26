@@ -48,7 +48,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":436460
+        "gn:id":436460,
+        "wk:page":"Aktepe"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            324419
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"399db2cf0ff4368fbdb389f60effa745",
@@ -62,13 +68,15 @@
         }
     ],
     "wof:id":1259905523,
-    "wof:lastmodified":1566587257,
+    "wof:lastmodified":1706240699,
     "wof:name":"Aktepe",
     "wof:parent_id":1108709575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344081493
+    ],
     "wof:tags":[]
 },
   "bbox": [

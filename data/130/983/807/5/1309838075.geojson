@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"42.82868,39.29454,42.82868,39.29454",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mozalan",
@@ -45,7 +47,7 @@
         "gn:id":322074
     },
     "wof:country":"TR",
-    "wof:geomhash":"2c64caed7ff80a2e48bc6f26f9c07f79",
+    "wof:geomhash":"335fe459725ca04c1a749e626ad978ec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +58,22 @@
         }
     ],
     "wof:id":1309838075,
-    "wof:lastmodified":1566586038,
+    "wof:lastmodified":1706240697,
     "wof:name":"Baltacik",
     "wof:parent_id":1108709805,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209514621
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     42.82868,
-    39.29454000000001,
+    39.29454,
     42.82868,
-    39.29454000000001
+    39.29454
 ],
-  "geometry": {"coordinates":[42.82868,39.29454000000001],"type":"Point"}
+  "geometry": {"coordinates":[42.82868,39.29454],"type":"Point"}
 }

@@ -9,9 +9,21 @@
     "geom:bbox":"37.90722,36.83611,37.90722,36.83611",
     "geom:latitude":36.83611,
     "geom:longitude":37.90722,
+    "gn:admin1_code":"83",
+    "gn:asciiname":"Soylu",
     "gn:country":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":417,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":323514,
+    "gn:latitude":36.83565,
+    "gn:longitude":37.90897,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Soylu",
     "gn:population":376,
+    "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
     "lbl:bbox":"37.88722,36.81611,37.92722,36.85611",
     "lbl:max_zoom":17.0,
@@ -21,6 +33,12 @@
     "mz:min_zoom":11.0,
     "name:deu_x_preferred":[
         "Soylu"
+    ],
+    "name:tur_x_preferred":[
+        "Soylu"
+    ],
+    "name:tur_x_variant":[
+        "Arslanl\u0131"
     ],
     "qs:name":"Soylu",
     "qs:photos_9r":0,
@@ -38,6 +56,11 @@
         "gn:id":435969,
         "qs_pg:id":548081
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            323514
+        ]
+    },
     "wof:country":"TR",
     "wof:created":1469053368,
     "wof:geomhash":"6328824e09e8c3ce69e00140c8416ec3",
@@ -51,7 +74,7 @@
         }
     ],
     "wof:id":890461829,
-    "wof:lastmodified":1566586490,
+    "wof:lastmodified":1706240696,
     "wof:name":"Soylu",
     "wof:parent_id":1108709633,
     "wof:placetype":"locality",
@@ -59,7 +82,9 @@
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243188831
+    ],
     "wof:tags":[]
 },
   "bbox": [
