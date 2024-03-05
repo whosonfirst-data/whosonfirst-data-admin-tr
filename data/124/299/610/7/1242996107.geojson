@@ -32,6 +32,9 @@
     "name:tur_x_preferred":[
         "Dokuzbasak"
     ],
+    "name:und_x_variant":[
+        "Dokuzba\u015fak"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6968426
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            316393
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"3b3697eabb306e463acbd8317c8c763f",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1242996107,
-    "wof:lastmodified":1566587080,
+    "wof:lastmodified":1706240699,
     "wof:name":"Dokuzbasak",
     "wof:parent_id":890461373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260005133
+    ],
     "wof:tags":[]
 },
   "bbox": [

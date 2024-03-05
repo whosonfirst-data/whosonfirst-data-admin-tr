@@ -88,6 +88,11 @@
     "wof:concordances":{
         "gn:id":325388
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            319210
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"35ef8e6c6ab6a3c1d11c881b8cead4ef",
     "wof:hierarchy":[
@@ -100,13 +105,15 @@
         }
     ],
     "wof:id":1226497877,
-    "wof:lastmodified":1636499876,
+    "wof:lastmodified":1706240698,
     "wof:name":"Adak",
     "wof:parent_id":890464029,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243025643
+    ],
     "wof:tags":[]
 },
   "bbox": [

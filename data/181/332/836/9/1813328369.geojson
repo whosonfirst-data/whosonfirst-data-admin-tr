@@ -5,32 +5,86 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000081,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.977103,41.0046,28.988134,41.017378",
     "geom:latitude":41.01079,
     "geom:longitude":28.983377,
     "iso:country":"TR",
+    "lbl:bbox":"28.978221,41.006446,28.988221,41.016446",
     "lbl:latitude":41.010902,
     "lbl:longitude":28.98392,
+    "lbl:max_zoom":18.0,
     "mps:latitude":41.010902,
     "mps:longitude":28.98392,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":1,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "mz:tier_locality":5,
+    "mz:tier_metro":30,
+    "name:ara_x_preferred":[
+        "\u062c\u0627\u0646\u0643\u0648\u0631\u062a\u0627\u0631\u0627\u0646"
+    ],
     "name:eng_x_preferred":[
         "Cankurtaran"
     ],
     "name:ita_x_preferred":[
         "Cankurtaran"
     ],
+    "name:tur_x_preferred":[
+        "Cankurtaran"
+    ],
+    "qs:gn_id":0,
+    "qs_pg:name":"Cankurtaran",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":6191,
+    "qs_pg:photos_1k":1000,
+    "qs_pg:photos_9k":27,
+    "qs_pg:photos_9r":14,
+    "qs_pg:photos_all":6191,
+    "qs_pg:photos_sr":24,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":221373,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22724022,
     "src:geom":"whosonfirst",
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724022,
+        "qs_pg:id":221373,
+        "wd:id":"Q6073520"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22724022
+        ],
+        "qs_pg:id":[
+            221373
+        ],
+        "wd:id":[
+            "Q6073520"
+        ]
+    },
     "wof:country":"TR",
     "wof:created":1677624658,
     "wof:geomhash":"4696088c8b5d4857cc7aa6b2b129af88",
@@ -45,13 +99,19 @@
         }
     ],
     "wof:id":1813328369,
-    "wof:lastmodified":1678400073,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1706240701,
     "wof:name":"Cankurtaran",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126077475,
+        85906493
+    ],
     "wof:tags":[]
 },
   "bbox": [

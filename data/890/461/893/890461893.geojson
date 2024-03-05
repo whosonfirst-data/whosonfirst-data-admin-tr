@@ -9,9 +9,21 @@
     "geom:bbox":"28.70436,36.71549,28.70436,36.71549",
     "geom:latitude":36.71549,
     "geom:longitude":28.70436,
+    "gn:admin1_code":"48",
+    "gn:asciiname":"Sarigerme",
     "gn:country":"TR",
+    "gn:country_code":"TR",
+    "gn:dem":19,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":313258,
+    "gn:latitude":36.71504,
+    "gn:longitude":28.7031,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Sar\u0131germe",
     "gn:population":16000,
+    "gn:timezone":"Europe/Istanbul",
     "iso:country":"TR",
     "lbl:bbox":"28.68436,36.69549,28.72436,36.73549",
     "lbl:max_zoom":15.0,
@@ -103,6 +115,10 @@
     "name:tur_x_preferred":[
         "Sar\u0131germe"
     ],
+    "name:tur_x_variant":[
+        "G\u00fcvez",
+        "Sar\u0131germe"
+    ],
     "name:vie_x_preferred":[
         "Sar\u0131germe"
     ],
@@ -128,6 +144,14 @@
         "wd:id":"Q1418540",
         "wk:page":"Sarigerme"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            313258
+        ],
+        "wk:page":[
+            "Sarigerme"
+        ]
+    },
     "wof:country":"TR",
     "wof:created":1469053370,
     "wof:geomhash":"797b4cc480bc97fb51505d8a620b7404",
@@ -141,7 +165,7 @@
         }
     ],
     "wof:id":890461893,
-    "wof:lastmodified":1690875340,
+    "wof:lastmodified":1706240696,
     "wof:name":"Sarigerme",
     "wof:parent_id":890463119,
     "wof:placetype":"locality",
@@ -149,7 +173,9 @@
     "wof:population_rank":6,
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326655599
+    ],
     "wof:tags":[]
 },
   "bbox": [

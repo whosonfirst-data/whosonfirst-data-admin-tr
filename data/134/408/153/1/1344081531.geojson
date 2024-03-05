@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"29.59127,38.86673,29.59127,38.86673",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":1344081531,
-    "wof:lastmodified":1566582352,
+    "wof:lastmodified":1706240700,
     "wof:name":"Kucukler",
     "wof:parent_id":1108709357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276352603
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -11,6 +11,7 @@
     "geom:longitude":28.578583,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"28.5754385,41.0167455,28.5854385,41.0267455",
     "lbl:latitude":41.022268,
     "lbl:longitude":28.577437,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -105,6 +107,21 @@
         "Dizdariye"
     ],
     "qs:gn_id":0,
+    "qs_pg:name":"Dizdariye",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":54,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":54,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1031259,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55870855,
     "reversegeo:latitude":41.022268,
     "reversegeo:longitude":28.577437,
     "src:geom":"whosonfirst",
@@ -112,18 +129,33 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55870855,
         "qs_pg:id":1031259,
         "wd:id":"Q6069583"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55870855
+        ],
+        "qs_pg:id":[
+            1031259
+        ],
+        "wd:id":[
+            "Q6069583"
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -144,13 +176,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401169,
+    "wof:lastmodified":1706240693,
     "wof:name":"Dizdariye",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126093823
+    ],
     "wof:tags":[]
 },
   "bbox": [

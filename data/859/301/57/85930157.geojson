@@ -11,6 +11,7 @@
     "geom:longitude":28.941316,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"28.939168,41.058562,28.949168,41.068562",
     "lbl:latitude":41.061763,
     "lbl:longitude":28.941316,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -144,6 +146,21 @@
     "name:war_x_preferred":[
         "Silahtara\u011fa"
     ],
+    "qs_pg:name":"Silahtar Aga",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":55,
+    "qs_pg:photos_1k":11,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":55,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1337774,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55871348,
     "reversegeo:latitude":41.061763,
     "reversegeo:longitude":28.941316,
     "src:geom":"whosonfirst",
@@ -151,6 +168,10 @@
         "quattroshapes"
     ],
     "src:lbl_centroid":"mapshaper",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -163,6 +184,17 @@
         "gp:id":55871348,
         "qs_pg:id":1337774,
         "wd:id":"Q6075082"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55871348
+        ],
+        "qs_pg:id":[
+            1337774
+        ],
+        "wd:id":[
+            "Q6075082"
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -183,14 +215,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690874892,
+    "wof:lastmodified":1706240694,
     "wof:name":"Silahtar Aga",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
     "wof:supersedes":[
-        890461075
+        890461075,
+        1126097315
     ],
     "wof:tags":[]
 },

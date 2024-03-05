@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":746411
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10201626
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"c82d4e3f2c402ff2ceda58365e83a2b9",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1259800347,
-    "wof:lastmodified":1566587530,
+    "wof:lastmodified":1706240699,
     "wof:name":"Dedesen",
     "wof:parent_id":1108709521,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293503989
+    ],
     "wof:tags":[]
 },
   "bbox": [

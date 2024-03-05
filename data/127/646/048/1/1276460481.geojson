@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7697881
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10816282
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"4bfc1d4dbdcb1aac77d742fdad5d443d",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1276460481,
-    "wof:lastmodified":1566584128,
+    "wof:lastmodified":1706240700,
     "wof:name":"Tepebasi",
     "wof:parent_id":1108709339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327159877
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,6 +11,7 @@
     "geom:longitude":29.242561,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"29.237687,40.873132,29.247687,40.883132",
     "lbl:latitude":40.878235,
     "lbl:longitude":29.243346,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:cat_x_preferred":[
@@ -114,6 +116,21 @@
         "Do\u011fu"
     ],
     "qs:gn_id":0,
+    "qs_pg:name":"Dogu",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":80,
+    "qs_pg:photos_1k":16,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":80,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1120071,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55871265,
     "reversegeo:latitude":40.878235,
     "reversegeo:longitude":29.243346,
     "src:geom":"whosonfirst",
@@ -122,18 +139,33 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":79,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55871265,
         "qs_pg:id":1120071,
         "wd:id":"Q6077867"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55871265
+        ],
+        "qs_pg:id":[
+            1120071
+        ],
+        "wd:id":[
+            "Q6077867"
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -154,13 +186,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1678401204,
+    "wof:lastmodified":1706240694,
     "wof:name":"Dogu",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106483
+    ],
     "wof:tags":[]
 },
   "bbox": [

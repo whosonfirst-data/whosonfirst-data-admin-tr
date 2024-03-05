@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:ast_x_preferred":[
         "K\u00e2z\u0131m Dirik"
@@ -91,12 +92,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344117,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Kaz\u0131m Dirik",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130zmir",
+    "qs_pg:photos":172,
+    "qs_pg:photos_1k":35,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":172,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":473170,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55865410,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":116,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130zmir",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679201,
         102191569,
@@ -108,6 +128,14 @@
         "gp:id":55865410,
         "qs_pg:id":473170,
         "wd:id":"Q269240"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55865410
+        ],
+        "qs_pg:id":[
+            473170
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -128,13 +156,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690874913,
+    "wof:lastmodified":1706240692,
     "wof:name":"Kaz\u0131m Dirik",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126106555
+    ],
     "wof:tags":[]
 },
   "bbox": [

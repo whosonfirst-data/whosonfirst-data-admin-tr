@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:tur_x_preferred":[
+        "G\u00fcnvuran"
+    ],
+    "name:tur_x_variant":[
+        "Besibaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":438230
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            438220
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"a0d5af9f66ed2b8a33ccc8b6a1de073c",
@@ -52,13 +63,15 @@
         }
     ],
     "wof:id":1242703447,
-    "wof:lastmodified":1566587006,
+    "wof:lastmodified":1706240698,
     "wof:name":"Gunvuran",
     "wof:parent_id":1108709283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260096817
+    ],
     "wof:tags":[]
 },
   "bbox": [

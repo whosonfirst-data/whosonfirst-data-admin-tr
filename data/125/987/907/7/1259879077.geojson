@@ -11,6 +11,7 @@
     "geom:longitude":42.97479,
     "gn:admin1_code":"04",
     "gn:asciiname":"Tezeren",
+    "gn:cc2":"TR",
     "gn:country_code":"TR",
     "gn:dem":1723,
     "gn:feature_class":"P",
@@ -46,8 +47,13 @@
     "wof:concordances":{
         "gn:id":299221
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            299222
+        ]
+    },
     "wof:country":"TR",
-    "wof:geomhash":"158a7e40c76497fd9dcd532c40ecd547",
+    "wof:geomhash":"8d6423477d1f9e6d4b3ab714260ceae5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +64,22 @@
         }
     ],
     "wof:id":1259879077,
-    "wof:lastmodified":1566587492,
+    "wof:lastmodified":1706240699,
     "wof:name":"Tezeren",
     "wof:parent_id":890463323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276656385
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    42.97479000000001,
+    42.97479,
     39.84062,
-    42.97479000000001,
+    42.97479,
     39.84062
 ],
-  "geometry": {"coordinates":[42.97479000000001,39.84062],"type":"Point"}
+  "geometry": {"coordinates":[42.97479,39.84062],"type":"Point"}
 }

@@ -49,8 +49,13 @@
     "wof:concordances":{
         "gn:id":737665
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            737664
+        ]
+    },
     "wof:country":"TR",
-    "wof:geomhash":"c235ce905b985ae0d2ae5b40920013c9",
+    "wof:geomhash":"d220b4f983a11382fce18513635976e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +66,22 @@
         }
     ],
     "wof:id":1226566123,
-    "wof:lastmodified":1566587717,
+    "wof:lastmodified":1706240698,
     "wof:name":"Yenikoy",
     "wof:parent_id":890464141,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310123807
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    39.48184000000001,
+    39.48184,
     40.31901,
-    39.48184000000001,
+    39.48184,
     40.31901
 ],
-  "geometry": {"coordinates":[39.48184000000001,40.31901],"type":"Point"}
+  "geometry": {"coordinates":[39.48184,40.31901],"type":"Point"}
 }

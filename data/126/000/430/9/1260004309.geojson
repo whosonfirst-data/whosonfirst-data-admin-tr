@@ -11,6 +11,7 @@
     "geom:longitude":27.3491,
     "gn:admin1_code":"45.0",
     "gn:asciiname":"Cerkeztevfikiye",
+    "gn:cc2":"TR",
     "gn:country_code":"TR",
     "gn:dem":57,
     "gn:feature_class":"P",
@@ -36,6 +37,10 @@
         "G\u00fclbah\u00e7e",
         "\u00c7erkestevfikiye"
     ],
+    "name:und_x_variant":[
+        "\u00c7erkestevfikiye",
+        "\u00c7erkeztevfikiye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -46,6 +51,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6685987
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            318776
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"bb8938a9cf78785bfd3f37a10e993740",
@@ -59,13 +69,15 @@
         }
     ],
     "wof:id":1260004309,
-    "wof:lastmodified":1566585100,
+    "wof:lastmodified":1706240699,
     "wof:name":"Cerkeztevfikiye",
     "wof:parent_id":890463535,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343485219
+    ],
     "wof:tags":[]
 },
   "bbox": [

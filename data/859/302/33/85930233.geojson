@@ -11,6 +11,7 @@
     "geom:longitude":28.62868,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"28.627383,41.00236,28.637383,41.01236",
     "lbl:latitude":40.998683,
     "lbl:longitude":28.628442,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:ara_x_preferred":[
@@ -100,6 +102,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Adnan Kahveci",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":30,
+    "qs_pg:photos_1k":6,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":30,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1197771,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55871422,
     "reversegeo:latitude":40.998683,
     "reversegeo:longitude":28.628442,
     "src:geom":"whosonfirst",
@@ -108,6 +125,10 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":806,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679237,
         102191569,
@@ -120,6 +141,14 @@
         "gp:id":55871422,
         "qs_pg:id":1197771,
         "wd:id":"Q4116400"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55871422
+        ],
+        "qs_pg:id":[
+            1197771
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -140,13 +169,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690874909,
+    "wof:lastmodified":1706240694,
     "wof:name":"Adnan Kahveci",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126072175
+    ],
     "wof:tags":[]
 },
   "bbox": [

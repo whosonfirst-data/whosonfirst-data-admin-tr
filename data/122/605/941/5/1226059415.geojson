@@ -32,6 +32,9 @@
     "name:tur_x_preferred":[
         "Muharrem"
     ],
+    "name:tur_x_variant":[
+        "Uzunkeli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9643447
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            437664
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"60d1ed51dccb76dd9dac1e49b38f43ac",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1226059415,
-    "wof:lastmodified":1566587691,
+    "wof:lastmodified":1706240697,
     "wof:name":"Muharrem",
     "wof:parent_id":1108709681,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309734977
+    ],
     "wof:tags":[]
 },
   "bbox": [

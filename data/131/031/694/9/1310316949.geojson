@@ -32,6 +32,10 @@
     "name:tur_x_preferred":[
         "S\u00f6\u011f\u00fctl\u00fcbah\u00e7e"
     ],
+    "name:und_x_variant":[
+        "Bah\u00e7e",
+        "Bah\u00e7ek\u00f6y"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7519602
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            322344
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"656a14e56867aaba7caae8a7ea14f68c",
@@ -55,13 +64,15 @@
         }
     ],
     "wof:id":1310316949,
-    "wof:lastmodified":1566585554,
+    "wof:lastmodified":1706240701,
     "wof:name":"Sogutlubahce",
     "wof:parent_id":890464251,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343573081
+    ],
     "wof:tags":[]
 },
   "bbox": [

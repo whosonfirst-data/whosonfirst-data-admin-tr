@@ -11,6 +11,7 @@
     "geom:longitude":36.71245,
     "gn:admin1_code":"58",
     "gn:asciiname":"Kayadibi",
+    "gn:cc2":"TR",
     "gn:country_code":"TR",
     "gn:dem":1349,
     "gn:feature_class":"P",
@@ -32,6 +33,9 @@
     "name:tur_x_preferred":[
         "Kayadibi"
     ],
+    "name:und_x_variant":[
+        "Elbeyli"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632393
@@ -39,6 +43,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":308632
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            308631
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"1eb0c6503f74b2e02b6ff6ac7e738077",
@@ -49,13 +58,15 @@
         }
     ],
     "wof:id":1209237389,
-    "wof:lastmodified":1566584472,
+    "wof:lastmodified":1706240697,
     "wof:name":"Kayadibi",
     "wof:parent_id":85632393,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226566057
+    ],
     "wof:tags":[]
 },
   "bbox": [

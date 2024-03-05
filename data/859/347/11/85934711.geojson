@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:und_x_variant":[
         "Babuaksaray"
@@ -52,11 +53,30 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344210,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Babuaksaray",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Konya",
+    "qs_pg:photos":215,
+    "qs_pg:photos_1k":44,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":215,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":482978,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":56042704,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Konya",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679425,
         102191569,
@@ -67,6 +87,14 @@
     "wof:concordances":{
         "gp:id":56042704,
         "qs_pg:id":482978
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            56042704
+        ],
+        "qs_pg:id":[
+            482978
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -87,13 +115,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582340263,
+    "wof:lastmodified":1706240695,
     "wof:name":"Babuaksaray",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126070689
+    ],
     "wof:tags":[]
 },
   "bbox": [

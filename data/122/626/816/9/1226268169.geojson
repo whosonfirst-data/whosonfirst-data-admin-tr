@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7539628
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            315220
+        ]
+    },
     "wof:country":"TR",
     "wof:geomhash":"615c9e8453c780d815e65af783d19e3d",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226268169,
-    "wof:lastmodified":1566587613,
+    "wof:lastmodified":1706240697,
     "wof:name":"Ovabeyli",
     "wof:parent_id":890461365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310328013
+    ],
     "wof:tags":[]
 },
   "bbox": [

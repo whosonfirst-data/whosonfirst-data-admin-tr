@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:ast_x_preferred":[
         "Bayrakl\u0131"
@@ -83,6 +84,9 @@
     "name:nob_x_preferred":[
         "Bayrakl\u0131"
     ],
+    "name:nor_x_preferred":[
+        "Bayrakl\u0131"
+    ],
     "name:swa_x_preferred":[
         "Bayrakl\u0131"
     ],
@@ -127,12 +131,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344117,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Bayrakl\u0131",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130zmir",
+    "qs_pg:photos":50,
+    "qs_pg:photos_1k":10,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":50,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1197702,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55865550,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":89,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130zmir",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679201,
         102191569,
@@ -144,6 +167,14 @@
         "gp:id":55865550,
         "qs_pg:id":1197702,
         "wd:id":"Q812591"
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55865550
+        ],
+        "qs_pg:id":[
+            1197702
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -164,13 +195,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1690874913,
+    "wof:lastmodified":1706240693,
     "wof:name":"Bayrakl\u0131",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126105095
+    ],
     "wof:tags":[]
 },
   "bbox": [

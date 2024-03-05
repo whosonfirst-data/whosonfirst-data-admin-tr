@@ -25,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":1,
     "name:deu_x_preferred":[
         "Ye\u015fil"
@@ -56,12 +57,31 @@
     "qs:woe_lau":0,
     "qs:woe_local":2343843,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Yesil",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"Bursa",
+    "qs_pg:photos":198,
+    "qs_pg:photos_1k":40,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":198,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1155197,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":55871352,
     "src:geom":"mz",
     "src:geom_alt":[
         "quattroshapes"
     ],
     "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":29,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"Bursa",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
         85679231,
         102191569,
@@ -72,6 +92,14 @@
     "wof:concordances":{
         "gp:id":55871352,
         "qs_pg:id":1155197
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            55871352
+        ],
+        "qs_pg:id":[
+            1155197
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -92,13 +120,15 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582340261,
+    "wof:lastmodified":1706240694,
     "wof:name":"Yesil",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126060931
+    ],
     "wof:tags":[]
 },
   "bbox": [

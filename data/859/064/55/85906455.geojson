@@ -11,6 +11,7 @@
     "geom:longitude":28.915416,
     "gn:id":"",
     "iso:country":"TR",
+    "lbl:bbox":"28.904835,41.010239,28.914835,41.020239",
     "lbl:latitude":41.013923,
     "lbl:longitude":28.916381,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":1,
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":5,
     "mz:tier_metro":30,
     "name:deu_x_preferred":[
@@ -64,6 +66,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2344116,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Merkez Efendi",
+    "qs_pg:name_adm0":"Turkey",
+    "qs_pg:name_adm1":"\u0130stanbul",
+    "qs_pg:photos":41,
+    "qs_pg:photos_1k":8,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":2,
+    "qs_pg:photos_all":41,
+    "qs_pg:photos_sr":2,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":14412,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424969,
+    "qs_pg:woe_id":22723977,
     "reversegeo:latitude":41.013923,
     "reversegeo:longitude":28.916381,
     "src:geom":"whosonfirst",
@@ -72,17 +89,29 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "wd:wordcount":120,
+    "woe:adm0_id":23424969,
+    "woe:name_adm0":"Turkey",
+    "woe:name_adm1":"\u0130stanbul",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85679237,
         102191569,
         85632393,
         890460455,
-        1108709503,
-        85679237
+        1108709503
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723977,
         "qs_pg:id":14412
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22723977
+        ],
+        "qs_pg:id":[
+            14412
+        ]
     },
     "wof:country":"TR",
     "wof:geom_alt":[
@@ -103,13 +132,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1678401075,
+    "wof:lastmodified":1706240692,
     "wof:name":"Merkez Efendi",
     "wof:parent_id":890460455,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126100805
+    ],
     "wof:tags":[]
 },
   "bbox": [

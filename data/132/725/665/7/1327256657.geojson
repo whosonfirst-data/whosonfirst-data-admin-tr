@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"34.23934,38.55734,34.23934,38.55734",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tatl\u0131ca",
@@ -47,7 +49,7 @@
         "gn:id":300064
     },
     "wof:country":"TR",
-    "wof:geomhash":"666d1f0b72f4d605e56d93463299a20b",
+    "wof:geomhash":"ff6282fd0fbb3beb1735f9de2c8ad5ef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +60,22 @@
         }
     ],
     "wof:id":1327256657,
-    "wof:lastmodified":1566581777,
+    "wof:lastmodified":1706240700,
     "wof:name":"Tatlica",
     "wof:parent_id":890461771,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276354047
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    34.23934000000001,
+    34.23934,
     38.55734,
-    34.23934000000001,
+    34.23934,
     38.55734
 ],
-  "geometry": {"coordinates":[34.23934000000001,38.55734],"type":"Point"}
+  "geometry": {"coordinates":[34.23934,38.55734],"type":"Point"}
 }

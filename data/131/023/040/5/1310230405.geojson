@@ -32,6 +32,13 @@
     "name:tur_x_preferred":[
         "Haymeseki"
     ],
+    "name:tur_x_variant":[
+        "Haymaseki"
+    ],
+    "name:und_x_variant":[
+        "Haymoseki",
+        "Haymanseki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":9643403
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            312287
+        ]
     },
     "wof:country":"TR",
     "wof:geomhash":"907f0f0836a4d5184d36a3cffe50b842",
@@ -55,13 +67,15 @@
         }
     ],
     "wof:id":1310230405,
-    "wof:lastmodified":1566585398,
+    "wof:lastmodified":1706240701,
     "wof:name":"Haymeseki",
     "wof:parent_id":890464451,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tr",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310230509
+    ],
     "wof:tags":[]
 },
   "bbox": [
