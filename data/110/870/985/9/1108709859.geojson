@@ -17,7 +17,7 @@
         "district"
     ],
     "label:tur_x_preferred_longname":[
-        "\u00d6zalp il\u00e7e"
+        "Saray il\u00e7e"
     ],
     "label:tur_x_preferred_placetype":[
         "il\u00e7e"
@@ -28,8 +28,6 @@
     "lbl:min_zoom":8.0,
     "meso:admin1_en":"Van",
     "meso:admin_1":"Van",
-    "meso:gadm_admin":"\u00d6zalp",
-    "meso:gadm_hasc2":"TR.VA.OZ",
     "meso:gaul_adm2":"Saray",
     "meso:mps_x":44.194237,
     "meso:mps_y":38.502068,
@@ -40,105 +38,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:ast_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:azb_x_preferred":[
-        "\u0627\u0648\u0632\u0622\u0644\u067e"
-    ],
-    "name:aze_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:ceb_x_preferred":[
-        "\u00d6zalp \u0130l\u00e7esi"
-    ],
-    "name:che_x_preferred":[
-        "\u041e\u044c\u0437\u0430\u043b\u043f"
-    ],
-    "name:ckb_x_preferred":[
-        "\u0642\u06d5\u0631\u0642\u06d5\u0644\u06cc"
-    ],
-    "name:deu_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:diq_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:eng_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:fas_x_preferred":[
-        "\u0627\u0648\u0632\u0627\u0644\u067e"
-    ],
-    "name:fra_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:gag_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:hun_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:ita_x_preferred":[
-        "Distretto di \u00d6zalp"
-    ],
-    "name:ita_x_variant":[
-        "\u00d6zalp"
-    ],
-    "name:jpn_x_preferred":[
-        "\u30aa\u30b6\u30eb\u30d7"
-    ],
-    "name:kur_x_preferred":[
-        "Qerqel\u00ee"
-    ],
-    "name:mrj_x_preferred":[
-        "\u04e6\u0437\u0430\u043b\u043f"
-    ],
-    "name:msa_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:nan_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:nld_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:nno_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:nob_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:pnb_x_preferred":[
-        "\u0636\u0644\u0639 \u0627\u0648\u0632\u0627\u0644\u067e"
-    ],
-    "name:por_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:rus_x_preferred":[
-        "\u041e\u0437\u0430\u043b\u043f"
-    ],
-    "name:swa_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:tat_x_preferred":[
-        "\u04e8\u0437\u0430\u043b\u043f"
-    ],
-    "name:tur_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:urd_x_preferred":[
-        "\u0627\u0648\u0632\u0627\u0644\u067e\u060c \u0648\u0627\u0646"
-    ],
-    "name:urd_x_variant":[
-        "\u0627\u0648\u0632\u0627\u0644\u067e"
-    ],
-    "name:vie_x_preferred":[
-        "\u00d6zalp"
-    ],
-    "name:zho_x_preferred":[
-        "\u5384\u624e\u723e\u666e"
-    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -147,11 +46,6 @@
         85679509
     ],
     "wof:breaches":[],
-    "wof:concordances":{
-        "hasc:id":"TR.VA.OZ",
-        "wd:id":"Q307726"
-    },
-    "wof:concordances_official":"hasc:id",
     "wof:country":"TR",
     "wof:created":1474669822,
     "wof:geomhash":"66029c0df2cc1d4533a5801d449147ad",
@@ -170,7 +64,6 @@
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:shortcode":"OZ",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

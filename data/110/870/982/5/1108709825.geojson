@@ -17,7 +17,7 @@
         "district"
     ],
     "label:tur_x_preferred_longname":[
-        "\u00c7ubuk il\u00e7e"
+        "Pursaklar il\u00e7e"
     ],
     "label:tur_x_preferred_placetype":[
         "il\u00e7e"
@@ -28,8 +28,6 @@
     "lbl:min_zoom":8.0,
     "meso:admin1_en":"Ankara",
     "meso:admin_1":"Ankara",
-    "meso:gadm_admin":"\u00c7ubuk",
-    "meso:gadm_hasc2":"TR.AN.CU",
     "meso:gaul_adm2":"Kecioren",
     "meso:mps_x":32.868796,
     "meso:mps_y":40.136329,
@@ -40,105 +38,6 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:ara_x_preferred":[
-        "\u062a\u0634\u0648\u0628\u0648\u0643"
-    ],
-    "name:ast_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:aze_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:cat_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:ceb_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:che_x_preferred":[
-        "\u0427\u0443\u0431\u0443\u043a"
-    ],
-    "name:deu_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:diq_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:eng_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:fas_x_preferred":[
-        "\u0686\u0648\u0628\u0648\u06a9"
-    ],
-    "name:fin_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:fra_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:gag_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:ita_x_preferred":[
-        "Distretto di \u00c7ubuk"
-    ],
-    "name:kin_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:lbe_x_preferred":[
-        "\u0427\u0443\u0431\u0443\u043a\u044a"
-    ],
-    "name:lit_x_preferred":[
-        "\u010cubukas"
-    ],
-    "name:min_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:mrj_x_preferred":[
-        "\u0427\u0443\u0431\u0443\u043a"
-    ],
-    "name:msa_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:nan_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:nld_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:nob_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:pnb_x_preferred":[
-        "\u0636\u0644\u0639 \u0686\u0648\u0628\u06a9"
-    ],
-    "name:pol_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:ron_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:swa_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:tat_x_preferred":[
-        "\u0427\u0443\u0431\u0443\u043a"
-    ],
-    "name:tur_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:urd_x_preferred":[
-        "\u0686\u0648\u0628\u0648\u06a9\u060c \u0627\u0646\u0642\u0631\u06c1"
-    ],
-    "name:urd_x_variant":[
-        "\u0686\u0648\u0628\u0648\u06a9"
-    ],
-    "name:vie_x_preferred":[
-        "\u00c7ubuk"
-    ],
-    "name:zho_x_preferred":[
-        "\u4e18\u5e03\u514b"
-    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
@@ -147,11 +46,6 @@
         85679409
     ],
     "wof:breaches":[],
-    "wof:concordances":{
-        "hasc:id":"TR.AN.CU",
-        "wd:id":"Q2868524"
-    },
-    "wof:concordances_official":"hasc:id",
     "wof:country":"TR",
     "wof:created":1474669782,
     "wof:geomhash":"1244bc93416cbdf12c487b60d2cf7659",
@@ -170,7 +64,6 @@
     "wof:placetype":"county",
     "wof:placetype_local":"district",
     "wof:repo":"whosonfirst-data-admin-tr",
-    "wof:shortcode":"CU",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
