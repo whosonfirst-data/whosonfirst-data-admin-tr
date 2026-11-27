@@ -1,0 +1,75 @@
+{
+  "id": 9895093109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.22897,37.74121,38.22897,37.74121",
+    "geom:latitude":37.74121,
+    "geom:longitude":38.22897,
+    "gn:population":26153,
+    "iso:country":"TR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13591680: name \"Alt\u0131n\u015fehir\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13591680"
+        },
+        {
+            "citation":"GeoNames populated place 13591680: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13591680"
+        },
+        {
+            "citation":"GeoNames populated place 13591680: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13591680"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890460579 (Merkez), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632393,
+        85679295,
+        102191569,
+        890460579
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13591680
+    },
+    "wof:country":"TR",
+    "wof:geomhash":"26e91c32b3dee15b61cfa29b93c88211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632393,
+            "county_id":890460579,
+            "locality_id":9895093109,
+            "region_id":85679295
+        }
+    ],
+    "wof:id":9895093109,
+    "wof:lastmodified":1795747472,
+    "wof:name":"Alt\u0131n\u015fehir",
+    "wof:parent_id":890460579,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.22897,
+    37.74121,
+    38.22897,
+    37.74121
+],
+  "geometry": {"coordinates":[38.22897,37.74121],"type":"Point"}
+}
